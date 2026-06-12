@@ -10261,13 +10261,13 @@
  "llangynach-powys-wales-uk": {
   "place_id": "llangynach-powys-wales-uk",
   "normalized_name": "Llangynach, Powys, Wales, UK",
-  "display_name": null,
-  "lon": null,
-  "lat": null,
-  "country": "gb",
-  "precision": "unresolved",
-  "curated": false,
-  "source": "nominatim",
+  "display_name": "Llanfrynach",
+  "lon": -3.366,
+  "lat": 51.933,
+  "country": "GB",
+  "precision": "locality",
+  "curated": true,
+  "source": "curated_places.json",
   "original_wordings": [
    "[the village] [?Llangynach]"
   ],
@@ -10280,31 +10280,18 @@
  "church-near-upper-cantref-farm-powys-wales-uk": {
   "place_id": "church-near-upper-cantref-farm-powys-wales-uk",
   "normalized_name": "Church near Upper Cantref Farm, Powys, Wales, UK",
-  "display_name": "church, Brecon Road, Ynyswen, Pen y Cae, Powys, Wales, SA9 1FQ, United Kingdom",
-  "lon": -3.673075,
-  "lat": 51.8067128,
-  "country": "gb",
+  "display_name": "St Brynach's Church, Llanfrynach",
+  "lon": -3.366,
+  "lat": 51.933,
+  "country": "GB",
   "precision": "locality",
-  "curated": false,
-  "source": "nominatim",
+  "curated": true,
+  "source": "curated_places.json",
   "original_wordings": [
    "Evensong"
   ],
   "ambiguous": false,
-  "alternates": [
-   {
-    "display_name": "Church, High Street, Maescar, Sennybridge, Powys, Wales, LD3 8PN, United Kingdom",
-    "lon": -3.5728913,
-    "lat": 51.9488456,
-    "type": "undefined/church"
-   },
-   {
-    "display_name": "Our Lady of Ransom and The Holy Souls Roman Catholic Church, Victoria Road, Llandrindod Wells, Powys, Wales, LD1 6AS, United Kingdom",
-    "lon": -3.3845711,
-    "lat": 52.2412808,
-    "type": "undefined/place_of_worship"
-   }
-  ],
+  "alternates": [],
   "trips": [
    "1995-wales-upper-cantref-farm-brecon-may"
   ]
@@ -15117,13 +15104,13 @@
  "vigeland-sculpture-park-oslo-norway": {
   "place_id": "vigeland-sculpture-park-oslo-norway",
   "normalized_name": "Vigeland Sculpture Park, Oslo, Norway",
-  "display_name": null,
-  "lon": null,
-  "lat": null,
-  "country": "no",
-  "precision": "unresolved",
-  "curated": false,
-  "source": "nominatim",
+  "display_name": "Vigeland Sculpture Park (Frognerparken), Oslo",
+  "lon": 10.7036,
+  "lat": 59.927,
+  "country": "NO",
+  "precision": "exact",
+  "curated": true,
+  "source": "curated_places.json",
   "original_wordings": [
    "Vigeland's wonderful statues"
   ],

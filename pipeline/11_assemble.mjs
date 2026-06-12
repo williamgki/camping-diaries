@@ -121,9 +121,9 @@ for (const trip of trips) {
       geometry_refs: built.excursion_legs.filter((l) => l.excursion_index === i).map((l) => l.geometry_ref),
     })
   }
-  for (const u of trip.unresolved ?? []) {
+  for (const [ui, u] of (trip.unresolved ?? []).entries()) {
     reviewQueue.push({
-      id: `unres-${trip.trip_id}-${reviewQueue.length}`,
+      id: `unres-${trip.trip_id}-${ui}`,
       type: 'unresolved_place',
       trip_id: trip.trip_id,
       page_id: u.source_page_id ?? null,
@@ -349,7 +349,15 @@ if (existsSync(patchDir)) {
     for (const p of readJ(join(patchDir, f))) {
       if (!outputs[p.target_file]) continue
       try {
-        applyPointer(outputs[p.target_file], p.json_pointer, p.op, p.value)
+        // review-queue patches address items by stable id, not by index
+        // (indices shift between rebuilds)
+        let pointer = p.json_pointer
+        if (p.target_file === 'review_queue.json' && p.review_id) {
+          const idx = reviewQueue.findIndex((q) => q.id === p.review_id)
+          if (idx === -1) throw new Error(`review item ${p.review_id} not found`)
+          pointer = pointer.replace(/^\/\d+\//, `/${idx}/`)
+        }
+        applyPointer(outputs[p.target_file], pointer, p.op, p.value)
         patchCount++
         const item = reviewQueue.find((q) => q.id === p.review_id)
         if (item) item.status = 'patched'

@@ -30,13 +30,22 @@ export default function MapCanvas() {
   // ---- map init
   useEffect(() => {
     if (!containerRef.current || mapRef.current) return
-    const map = new maplibregl.Map({
-      container: containerRef.current,
-      style: style as unknown as maplibregl.StyleSpecification,
-      center: [-1.5, 51.2],
-      zoom: 5.2,
-      attributionControl: { compact: true },
-    })
+    let map: maplibregl.Map
+    try {
+      map = new maplibregl.Map({
+        container: containerRef.current,
+        style: style as unknown as maplibregl.StyleSpecification,
+        center: [-1.5, 51.2],
+        zoom: 5.2,
+        attributionControl: { compact: true },
+      })
+    } catch (e) {
+      // WebGL unavailable (old hardware, headless) — keep the rest of the app alive
+      containerRef.current.innerHTML =
+        '<div style="display:grid;place-items:center;height:100%;color:#6b675c;font-style:italic">The map needs WebGL, which this browser has disabled — trips and diary pages still work.</div>'
+      console.error(e)
+      return
+    }
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right')
 
     map.on('load', () => {

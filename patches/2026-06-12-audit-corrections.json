@@ -1,0 +1,12 @@
+[
+  {
+    "target_file": "review_queue.json",
+    "json_pointer": "/0/status",
+    "op": "replace",
+    "value": "dismissed",
+    "reason": "Audit (b) 2026-06-12: the diary line on A_0235_L reads 'we stopped at DALE to buy knitwear' (Dale, the Norwegian knitwear town on the Bergen–Voss road), not 'Oslo' — the only 'Oslo' on that page is the printed caption 'Christiania is the old name for Oslo'. The item was correctly excluded from the canonical route; recording the corrected reading here.",
+    "review_id": "unres-1998-norway-sweden-1998-bergen-fjords-oslo-0",
+    "author": "accuracy-audit",
+    "created_at": "2026-06-12T20:10:00Z"
+  }
+]

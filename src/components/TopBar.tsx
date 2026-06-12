@@ -37,7 +37,7 @@ export default function TopBar() {
     <header className="topbar">
       <div className="topbar-title">
         <h1>Camping Diaries</h1>
-        <span className="topbar-era">1989–2019</span>
+        <span className="topbar-era">1989–2022</span>
       </div>
       <SearchBox />
       <div className="topbar-actions">

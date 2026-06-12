@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-12T18:51:49.576Z",
+ "generated_at": "2026-06-12T19:05:20.347Z",
  "sources": [
   {
    "volume": "A",
@@ -23,9 +23,9 @@
   "cited_stop_pct": 100,
   "excursions": 396,
   "places": 1613,
-  "geometries": 1907,
-  "review_queue": 1167,
-  "patches_applied": 0
+  "geometries": 1909,
+  "review_queue": 1163,
+  "patches_applied": 1
  },
  "validation": {
   "passed": true,

@@ -16,6 +16,7 @@ const USER_AGENT = 'camping-diaries-pipeline/1.0 (williamgkirby@gmail.com)'
 
 const ferries = JSON.parse(readFileSync(join(ROOT, 'pipeline/ferries.json'), 'utf8'))
 const regionAnchors = JSON.parse(readFileSync(join(ROOT, 'pipeline/region_anchors.json'), 'utf8'))
+const curatedPlaces = JSON.parse(readFileSync(join(ROOT, 'pipeline/curated_places.json'), 'utf8'))
 const cache = existsSync(CACHE_PATH) ? JSON.parse(readFileSync(CACHE_PATH, 'utf8')) : {}
 
 const slug = (s) =>
@@ -103,6 +104,27 @@ let nQueries = 0
 for (const [key, w] of wanted) {
   const placeId = key.split('|')[0]
   const nameSlug = slug(w.name)
+
+  // 0. audit/human-curated overrides
+  const curated = curatedPlaces[nameSlug]
+  if (curated && curated.lon != null) {
+    out[key] = {
+      place_id: placeId,
+      normalized_name: w.name,
+      display_name: curated.name,
+      lon: curated.lon,
+      lat: curated.lat,
+      country: curated.country,
+      precision: curated.precision ?? 'locality',
+      curated: true,
+      source: 'curated_places.json',
+      original_wordings: [...w.wordings],
+      trips: [...w.trips],
+      ambiguous: false,
+      alternates: [],
+    }
+    continue
+  }
 
   // 1. ferry port table
   const port = portByName[nameSlug]

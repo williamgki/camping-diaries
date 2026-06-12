@@ -1,0 +1,27 @@
+{
+  "_comment": "Human/audit-curated coordinate overrides, keyed by the place slug produced by extraction. Checked by 09_geocode.mjs before Nominatim. Each entry cites why.",
+  "church-near-upper-cantref-farm-powys-wales-uk": {
+    "name": "St Brynach's Church, Llanfrynach",
+    "lon": -3.366,
+    "lat": 51.933,
+    "country": "GB",
+    "precision": "locality",
+    "reason": "Audit (d) 2026-06-12: the diary's Sunday Evensong was at the village church next to Upper Cantref Farm (A_0151_L); Nominatim had placed it ~40 km away in the Beacons."
+  },
+  "vigeland-sculpture-park-oslo-norway": {
+    "name": "Vigeland Sculpture Park (Frognerparken), Oslo",
+    "lon": 10.7036,
+    "lat": 59.927,
+    "country": "NO",
+    "precision": "exact",
+    "reason": "Nominatim free-text misses the English name; the park is Vigelandsparken in Frognerparken, Oslo."
+  },
+  "llangynach-powys-wales-uk": {
+    "name": "Llanfrynach",
+    "lon": -3.366,
+    "lat": 51.933,
+    "country": "GB",
+    "precision": "locality",
+    "reason": "Audit (d) 2026-06-12: margin annotation on A_0150_R reads 'Llanfrynach' (transcribed as '[?Llangynach]'), the village adjacent to Cantref also visited on the Monday."
+  }
+}
