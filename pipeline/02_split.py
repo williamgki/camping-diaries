@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 """S2 - Split rendered spreads into left/right page images + LLM-sized derivatives.
 
-Gutter detection: darkest smoothed vertical valley in the central 35-65% band of
-column-mean luminance. Low-confidence valleys fall back to the exact middle and
-are flagged in split_manifest.json for spot-checking.
+Gutter detection: darkest smoothed vertical valley in the central 44-56% band of
+column-mean luminance. Because glued-in photos produce false valleys, detection
+is two-pass: pass 1 collects confident valleys per volume; the per-volume median
+becomes the consensus gutter. Pass 2 uses a spread's own valley only when it is
+confident AND within 6% of the consensus; otherwise the consensus position is
+used (method "volume_median"). All decisions land in split_manifest.json.
 
 Outputs per spread (e.g. A_0001):
   scans/volA/pages/A_0001_L.jpg  - full-res left page (3% overlap into gutter)
@@ -22,9 +25,11 @@ import os
 from PIL import Image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OVERLAP_FRAC = 0.03
+OVERLAP_FRAC = 0.04
 LLM_MAX_PIXELS = 1_150_000
 CONFIDENCE_THRESHOLD = 1.6
+BAND = (0.44, 0.56)
+CONSENSUS_TOLERANCE = 0.06
 
 
 def find_gutter(im: Image.Image):
@@ -44,16 +49,14 @@ def find_gutter(im: Image.Image):
     # Smooth with a small box filter.
     k = 5
     smooth = [sum(cols[max(0, i - k) : i + k + 1]) / len(cols[max(0, i - k) : i + k + 1]) for i in range(480)]
-    band = range(int(480 * 0.35), int(480 * 0.65))
+    band = range(int(480 * BAND[0]), int(480 * BAND[1]))
     valley_x = min(band, key=lambda i: smooth[i])
     valley_v = smooth[valley_x]
     band_vals = [smooth[i] for i in band]
     band_median = sorted(band_vals)[len(band_vals) // 2]
     overall_std = math.sqrt(sum((v - sum(smooth) / 480) ** 2 for v in smooth) / 480)
     confidence = (band_median - valley_v) / (overall_std + 1e-6)
-    if confidence >= CONFIDENCE_THRESHOLD:
-        return valley_x / 480, round(confidence, 2), "valley"
-    return 0.5, round(confidence, 2), "fallback_middle"
+    return valley_x / 480, round(confidence, 2)
 
 
 def save_llm(im: Image.Image, path: str):
@@ -75,17 +78,26 @@ def main():
         if not os.path.isdir(sdir):
             continue
         names = sorted(n for n in os.listdir(sdir) if n.endswith(".jpg"))
+
+        # Pass 1: measure valleys on every spread; consensus = median of confident ones.
+        measures = {}
+        for name in names:
+            im = Image.open(os.path.join(sdir, name))
+            measures[name] = (find_gutter(im), im.size)
+        confident = sorted(
+            frac for (frac, conf), _ in measures.values() if conf >= CONFIDENCE_THRESHOLD
+        )
+        consensus = confident[len(confident) // 2] if confident else 0.5
+        print(f"vol {vol}: consensus gutter at {consensus:.4f} from {len(confident)} confident valleys", flush=True)
+
+        # Pass 2: split, trusting a spread's own valley only when it agrees with consensus.
         for idx, name in enumerate(names):
             spread_id = name[:-4]
-            outs = [
-                os.path.join(pdir, f"{spread_id}_L.jpg"),
-                os.path.join(pdir, f"{spread_id}_R.jpg"),
-                os.path.join(ldir, f"{spread_id}_L.jpg"),
-                os.path.join(ldir, f"{spread_id}_R.jpg"),
-            ]
-            im = Image.open(os.path.join(sdir, name))
-            w, h = im.size
-            frac, conf, method = find_gutter(im)
+            (frac, conf), (w, h) = measures[name]
+            if conf >= CONFIDENCE_THRESHOLD and abs(frac - consensus) <= CONSENSUS_TOLERANCE:
+                method = "valley"
+            else:
+                frac, method = consensus, "volume_median"
             manifest.append(
                 {
                     "spread_id": spread_id,
@@ -98,8 +110,15 @@ def main():
                     "method": method,
                 }
             )
+            outs = [
+                os.path.join(pdir, f"{spread_id}_L.jpg"),
+                os.path.join(pdir, f"{spread_id}_R.jpg"),
+                os.path.join(ldir, f"{spread_id}_L.jpg"),
+                os.path.join(ldir, f"{spread_id}_R.jpg"),
+            ]
             if all(os.path.exists(o) and os.path.getsize(o) > 0 for o in outs):
                 continue
+            im = Image.open(os.path.join(sdir, name))
             x = int(w * frac)
             ov = int(w * OVERLAP_FRAC)
             left = im.crop((0, 0, min(x + ov, w), h))
@@ -115,8 +134,8 @@ def main():
     os.makedirs(os.path.join(ROOT, "data/work"), exist_ok=True)
     with open(os.path.join(ROOT, "data/work/split_manifest.json"), "w") as f:
         json.dump(manifest, f, indent=1)
-    fallbacks = [m for m in manifest if m["method"] == "fallback_middle"]
-    print(f"manifest: {len(manifest)} spreads, {len(fallbacks)} middle-fallbacks ({100 * len(fallbacks) / max(1, len(manifest)):.1f}%)")
+    fallbacks = [m for m in manifest if m["method"] == "volume_median"]
+    print(f"manifest: {len(manifest)} spreads, {len(fallbacks)} volume-median splits ({100 * len(fallbacks) / max(1, len(manifest)):.1f}%)")
 
 
 if __name__ == "__main__":
