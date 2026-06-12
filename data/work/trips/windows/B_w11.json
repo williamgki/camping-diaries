@@ -1,0 +1,201 @@
+{
+  "window_id": "B_w11",
+  "spread_range": ["B_0241", "B_0270"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0241_L",
+      "kind": "trip",
+      "title_guess": "France: Brittany & Normandy (Carnac, Malestroit, Montormel/Falaise)",
+      "date_guess": "2014-08",
+      "index_page_no": 58,
+      "evidence": [
+        { "page_id": "B_0241_L", "signal": "narrative", "excerpt": "the most westerly of the Carnac sites... We had a good guide" },
+        { "page_id": "B_0242_L", "signal": "date", "excerpt": "26/08/2014 ... On arrival at Malestroit municipal campsite" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Trip already in progress at window start (Brittany standing-stone tour, Carnac). Continues_from_previous_window. Index page numbers here (book4) start at 61 (B_0241_R) = Carnac; index 58 'Carnac' is the matching trip entry. This France trip runs through the return home at B_0244_L (Aug 30th 2014)."
+    },
+    {
+      "start_page_id": "B_0244_R",
+      "kind": "trip",
+      "title_guess": "Wolverley (Kidderminster/Stourport) with Austin",
+      "date_guess": "2014-10-04",
+      "index_page_no": 64,
+      "evidence": [
+        { "page_id": "B_0244_R", "signal": "heading", "excerpt": "Saturday Oct 3rd 4th ... At 11.30 we set off with Austin to Wolverley to camp for the night & go on a bike ride" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0244_L is the END of the France/Normandy trip (return home 'Saturday 30th August ... set off for Tinds on the way home'); B_0244_R STARTS the new Wolverley trip at the heading 'Saturday Oct 3rd 4th'. Break falls at the page boundary / top of B_0244_R.",
+      "confidence": 0.85,
+      "notes": "Index book4 page 64 'Wolverley, Stourport, Trumpington' matches. Continues onto B_0245_L (Stourport, then 'set off home')."
+    },
+    {
+      "start_page_id": "B_0245_L",
+      "kind": "trip",
+      "title_guess": "Kenninghall & South Lopham (Norfolk) via Trumpington/Mandarin",
+      "date_guess": "2014-10-11",
+      "index_page_no": 65,
+      "evidence": [
+        { "page_id": "B_0245_L", "signal": "heading", "excerpt": "Oct 11th 2014 Saturday  8.20. Simon, Eve & Tinder left for ... Mandarin - stone, slate, granite for lights at Trumpington" },
+        { "page_id": "B_0245_R", "signal": "heading", "excerpt": "Kenninghall ... South Lodge" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0245_L is mixed: the top continues the Wolverley/Stourport trip ('Back to the camp ... then set off home'), then a new dated heading 'Oct 11th 2014 Saturday' starts the Trumpington/Kenninghall trip mid-page. Break falls at the 'Oct 11th 2014 Saturday' line.",
+      "confidence": 0.8,
+      "notes": "Index book4 page 65 'Ansted, Kenninghall, South Lopham' matches. Continues through B_0246 (South Lopham, Thetford Forest, 'back to B'ham for tea')."
+    },
+    {
+      "start_page_id": "B_0247_L",
+      "kind": "trip",
+      "title_guess": "Nottingham & Hardwick Hall (via Tonge)",
+      "date_guess": "2015-04-10",
+      "index_page_no": 66,
+      "evidence": [
+        { "page_id": "B_0247_L", "signal": "heading", "excerpt": "April 10th 2015 Friday. Simon, Eve + Tinder left at 6.30pm ... We drove to Tonge near Nottingham" },
+        { "page_id": "B_0247_R", "signal": "narrative", "excerpt": "Sunday ... on to Hardwick Hall" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9,
+      "notes": "Index book4 page 66 'Thetford, Tonge, Trent River, Nottingham' and page 67 'Hardwick Hall' match. Continues onto B_0248_L (Hardwick Hall, 'now going home')."
+    },
+    {
+      "start_page_id": "B_0248_R",
+      "kind": "trip",
+      "title_guess": "Ross-on-Wye, Symonds Yat & Tintern Abbey (with John)",
+      "date_guess": "2015-04-24",
+      "index_page_no": 68,
+      "evidence": [
+        { "page_id": "B_0248_R", "signal": "heading", "excerpt": "Friday April 24th  We left at 5.30 + reached The White House at Ross at 6.45" },
+        { "page_id": "B_0249_L", "signal": "heading", "excerpt": "Sunday April 26th ... on to Tintern Abbey" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0248_L is the END of the Nottingham/Hardwick trip ('Off 2:30 pm after a good lunch We looked round house + now going home'); B_0248_R STARTS the Ross/Symonds Yat trip ('Friday April 24th'). Break falls at the page boundary.",
+      "confidence": 0.85,
+      "notes": "Index book4 page 68 'Ross, Symonds Yat' and page 69 'Tintern Abbey, Westbury Court' match. Continues through B_0250_L (Westbury Court Garden, 'On home for tea')."
+    },
+    {
+      "start_page_id": "B_0250_R",
+      "kind": "trip",
+      "title_guess": "Coughton Court & dovecote (Throckmorton)",
+      "date_guess": "2015-05-29",
+      "index_page_no": 70,
+      "evidence": [
+        { "page_id": "B_0250_R", "signal": "heading", "excerpt": "Friday 29th May. Simon, Eve, Tinder left at 6 for Coughton Court. We are in a farmer's field" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0250_L is the END of the Ross/Tintern trip ('On home for tea'); B_0250_R STARTS the Coughton Court trip ('Friday 29th May'). Break falls at the page boundary.",
+      "confidence": 0.85,
+      "notes": "Index book4 page 70 'Coughton Court, Kinwarton, Rushton Triangular Lodge' matches. Self-contained: 'got home for lunch' at end of B_0250_R."
+    },
+    {
+      "start_page_id": "B_0251_L",
+      "kind": "trip",
+      "title_guess": "Naseby, Rushton Triangular Lodge & Little Staughton (with Charles)",
+      "date_guess": "2015-06-20",
+      "index_page_no": 71,
+      "evidence": [
+        { "page_id": "B_0251_L", "signal": "heading", "excerpt": "Saturday June 20th. 4 of the 5 boys are moving house this summer" },
+        { "page_id": "B_0251_R", "signal": "narrative", "excerpt": "At. 10.30. Simon, Eve Charles & Tinder left for Naseby ... we got to Top End campsite at Little Staughton" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Index book4 page 71 'Naseby, Little Staughton, Ansted' matches. Continues onto B_0252_L (Sunday, Ansted, then 'Charles is taking Tinder + me on to Ansted ... for Annette's cremation')."
+    },
+    {
+      "start_page_id": "B_0252_L",
+      "kind": "trip",
+      "title_guess": "France: Laon, Vezelay, Burgundy, Puy-en-Velay, Conques, David's (Treignac) — summer tour",
+      "date_guess": "2015-07-25",
+      "index_page_no": 72,
+      "evidence": [
+        { "page_id": "B_0252_L", "signal": "heading", "excerpt": "Saturday July 25th  Just after 10 Simon & Eve took Tinder to kennels (£310 for 3 weeks) & set off to ... Kent. ... Got to Stalisfield" },
+        { "page_id": "B_0252_R", "signal": "narrative", "excerpt": "Monday ... On towards Laon" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0252_L is mixed: the top continues the Naseby trip / Annette's funeral coda ('Sunday ... Charles is taking Tinder + me on to Ansted ... Annette's cremation'), then a new dated heading 'Saturday July 25th' (kennels for 3 weeks, off to Kent then Channel Tunnel) starts the long France tour. Break falls at the 'Saturday July 25th' line.",
+      "confidence": 0.8,
+      "notes": "Long France trip. Index book4 pages 72 (Stalisfield, Suzy, Laon), 73 (Vezelay), 74 (Corbigny/Nivernais), 76 (Paray-le-Monial, Dieu donne), 77 (St Maurice), 78 (Puy-en-Velay), 79 (Entraygues), 80 (Conques), 81 (Figeac/Noux), 82 (Treignac) all match. NOTE: index has marginal '2017' from page 76, but the diary NARRATIVE dates are 2015 (e.g. 'Wednesday July 29th', 'Saturday August 1st') — treat the index year marker as unreliable here. Trip runs through B_0264_L return (Sat 15 Aug, Channel Tunnel, 'saw Charles + Jenny at Oxford, on the way home')."
+    },
+    {
+      "start_page_id": "B_0264_L",
+      "kind": "trip",
+      "title_guess": "Cambridge (Annette's Memorial) & Brixworth/Market Harborough",
+      "date_guess": "2015-09-04",
+      "index_page_no": 83,
+      "evidence": [
+        { "page_id": "B_0264_L", "signal": "heading", "excerpt": "Friday 4th Sept  Simon + Tinder drove across to Cambridge ... in time for Annette's Memorial lunch" },
+        { "page_id": "B_0264_R", "signal": "narrative", "excerpt": "Then Simon + I set out back westwards to the Arlingworth Lodge Campsite ... bike ride a disused railway, all the way to Brixworth" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0264_L is mixed: the top continues/closes the France trip ('Saturday 15 Aug ... set off towards the Channel Tunnel ... saw Charles + Jenny at Oxford, on the way home'), then a new dated heading 'Friday 4th Sept' starts the Cambridge memorial / Brixworth camping trip. Break falls at the 'Friday 4th Sept' line.",
+      "confidence": 0.75,
+      "notes": "Index book4 pages 83 (Chamberet, Oxford, Cambridge) / 84 (Brixworth, Market Harborough) match. Continues onto B_0265_L (Brixworth crypt, Market Harborough bike ride, 'set off for home just before 3')."
+    },
+    {
+      "start_page_id": "B_0265_R",
+      "kind": "non_trip",
+      "title_guess": "Black Country canal walk (day out, no overnight)",
+      "date_guess": "2016-04",
+      "index_page_no": 85,
+      "evidence": [
+        { "page_id": "B_0265_R", "signal": "heading", "excerpt": "April 2016  We went for a walk along the canal in the Black Country with Pill, Nana, Peter, Eleni & Conrad. It was cold. We had tea in the van" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0265_R is mixed: the top is a brief 'April 2016' day-walk note (Black Country canal, 'tea in the van' — not an overnight van trip), then a dated heading 'June 3rd Friday' starts the next camping trip mid-page (Holt Fleet). Break falls at the 'June 3rd Friday' line.",
+      "confidence": 0.45,
+      "notes": "Short non-trip day-out entry (no overnight; 'tea in the van' then implicitly home). Index book4 page 85 'Black Country, Omberley' matches. Low confidence: could alternatively be folded into surrounding entries, but it reads as a separate undated day note."
+    },
+    {
+      "start_page_id": "B_0265_R",
+      "kind": "trip",
+      "title_guess": "Holt Fleet / Ombersley & Moor End Farm, Ashperton, Belmont Abbey (Herefordshire)",
+      "date_guess": "2016-06-03",
+      "index_page_no": 85,
+      "evidence": [
+        { "page_id": "B_0265_R", "signal": "heading", "excerpt": "June 3rd Friday  Simon, Eve & Tinder left at about 3.30 Ombersley  We reached ... campsite near Holt Fleet, Worcs." },
+        { "page_id": "B_0266_L", "signal": "narrative", "excerpt": "Moor End Farm  Ashperton  On to the farm where we looked at the excavations for the big new hop barn" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Starts on the lower half of B_0265_R (mixed page, see preceding non_trip boundary). Index book4 page 85 'Black Country, Omberley' / page 86 'Belmont, Ashperton Castle Moat' match. Continues through B_0266 (Belmont Abbey, Moor End Farm, Ashperton Castle Moat). Uncertain whether B_0266 is the same continuous trip as Holt Fleet (June 3rd) or a distinct later weekend; treated as one trip because there is no clear return-home break between them."
+    },
+    {
+      "start_page_id": "B_0267_L",
+      "kind": "trip",
+      "title_guess": "Oxford, Watlington, London (Finsbury Pk, London Show) & Sussex (Steyning, Littlehampton, Arundel, Chichester)",
+      "date_guess": "2016-07-06",
+      "index_page_no": 86,
+      "evidence": [
+        { "page_id": "B_0267_L", "signal": "heading", "excerpt": "Wednesday July 6th  9.15. Simon, Finder & Eve drove to Charles' & Jenny's new house in Oxford ... On to Peter & Nana's house at Finsbury Pk" },
+        { "page_id": "B_0268_R", "signal": "heading", "excerpt": "Friday ... We are at a farm above Steyning ... campsite The Ship & Anchor at Littlehampton" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.75,
+      "notes": "Index book4 pages 86 (Belmont... Oxford, Watlington, Finsbury Park), 87 (Boxhill, Steyning), 88 (Hove, Chichester, Arundel, Venetia's) match. Long multi-leg trip down to Sussex. Continues through B_0268 (Box Hill, Steyning), B_0269 (Arundel, Chichester), B_0270_L (Venetia 'The New House', 'on our way home', van clocks 100,000 miles)."
+    },
+    {
+      "start_page_id": "B_0270_L",
+      "kind": "trip",
+      "title_guess": "The farm (hops) & Polwigo Campsite, Elan Valley / Rhayader (Wales)",
+      "date_guess": "2016-08-12",
+      "index_page_no": 90,
+      "evidence": [
+        { "page_id": "B_0270_L", "signal": "heading", "excerpt": "Monday August 12th ... 12.30 Simon & Eve, Tinder leave for farm ... help bind hop stems" },
+        { "page_id": "B_0270_R", "signal": "heading", "excerpt": "Tuesday Aug 13th ... 3.45. we reach Polwigo Campsite Llanwrthwl near Rhayader & Elan valley" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0270_L is mixed: the top closes the Sussex trip ('We visited Venetia & David ... on our way home ... van milometer passed from 99,000 to 100,000 ... on our way home to watch ... Wimbledon Finals'), then a new dated heading 'Monday August 12th' starts the farm/Wales (Elan Valley) trip. Break falls at the 'Monday August 12th' line.",
+      "confidence": 0.7,
+      "notes": "Index book4 page 90 'Bromyard, Elan Valley' matches. Trip is OPEN at window end — B_0270_R (Tuesday Aug 13th, Polwigo/Elan Valley) is the last page in the window and does not return home; continues into next window."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Trip starting B_0270_L (farm + Polwigo/Elan Valley, Wales, from Monday August 12th 2016) is still in progress at the end of the window; the family has not returned home.",
+  "notes": "Page numbers ('no') on right-hand pages run 61-89 and match Volume B book4 index entries (Carnac=58/61 .. Elan Valley=90). IMPORTANT scaffolding caveat: book4's marginal year markers ('2017' from index page 76) DISAGREE with the diary narrative, which carries explicit dates of 2014 (Aug/Oct), 2015 (Apr-Sep) and 2016 (Apr-Aug) across this window. The narrative dates are authoritative for date_guess. Several physical pages are mixed (end of one trip + start of next): B_0244, B_0245, B_0248, B_0250, B_0252, B_0264, B_0265, B_0270."
+}

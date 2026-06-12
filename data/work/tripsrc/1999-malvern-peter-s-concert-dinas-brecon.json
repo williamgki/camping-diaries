@@ -1,0 +1,66 @@
+{
+ "trip_id": "1999-malvern-peter-s-concert-dinas-brecon",
+ "title_guess": "Malvern (Peter's concert) & Dinas/Brecon, Port Maddock/Portmeirion",
+ "date_guess": "1999-05",
+ "volume": "A",
+ "spread_range": [
+  "A_0267",
+  "A_0268"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "A_0267_R",
+   "no": 11,
+   "dates": [
+    {
+     "raw": "Fri May 28th",
+     "iso": null
+    },
+    {
+     "raw": "Sunday May 30th",
+     "iso": null
+    }
+   ],
+   "headings": [
+    "Fri May 28th",
+    "Sunday May 30th"
+   ],
+   "places": [
+    "Malvern",
+    "Priory",
+    "Winter Garden",
+    "[?Dinas]",
+    "[?Brecon]"
+   ],
+   "legibility": 0.78,
+   "text": "__Fri May 28th__\n    9.20pm Simon & John set off for Malvern. Charles & Eve came down in the [?Pants] for Peter's concert. Thomas traind from London. SEJC slept in the van outside No 7.\nSat. We heard the choir in the Priory. William ushered. Peter sang. Then to the Winter Garden for drinks & speeches. T drove J + C home. After lunch WPSE drove home in the van.\n    4.45. All of us set off for [?Dinas]. Heavy traffic. Rain on the way. [?Brecon] arrived 8.15.\n    __Sunday May 30th__\n    Overcast + a cold wind. Simon + the boys have played cricket + discussed William's Psion + Simon's Palm Top T. Tonie happier than last year. John + Charles take him on excursions up the hill. We had lunch + supper indoors. The boys lit a fire to toast marshmallows in the evening but the wind was too cold to sit out."
+  },
+  {
+   "page_id": "A_0268_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Monday",
+     "iso": null
+    },
+    {
+     "raw": "Tuesday June 1st",
+     "iso": null
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Llanbdr",
+    "Port Maddock"
+   ],
+   "legibility": 0.85,
+   "boundary_mixed": true,
+   "text": "Monday   V. loud snoring from fat lady in the next tent.\n\n   Overcast. The sun tries to break through. Far less wind, warm, humid. Eve made ham sandwiches & we set off to the south, over the usual tracks. But we missed a turning & Eve got cross climbing over a high, leaning dry stone wall. After lunch we came back the same way I like through the valley.\n   Foot ball & cricket in the afternoon. Simon is making a barbeque.\n\nTuesday June 1st.\n   A shower before breakfast, but we ate outside. We sat around in the morning & at 11.30. we left to put Thomas on the train at Llanbdr. (He had a violin lesson in London in the evening, but he never made it. He left his knapsack on the train & had to spend the night with Lizzie.)\n   We collected circular slate from the slate factory at Port Maddock & had very slow fish"
+  }
+ ]
+}

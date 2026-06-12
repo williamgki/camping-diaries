@@ -1,0 +1,63 @@
+{
+ "trip_id": "2004-day-trip-to-hanbury-hall-near",
+ "title_guess": "Day trip to Hanbury Hall (near Droitwich, Worcestershire)",
+ "date_guess": "2004",
+ "volume": "B",
+ "spread_range": [
+  "B_0051",
+  "B_0052"
+ ],
+ "mixed_start": false,
+ "mixed_end": false,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [
+  "/Users/williamgkirby/Sites/camping-diaries/scans/volB/llm/B_0052_L.jpg"
+ ],
+ "pages": [
+  {
+   "page_id": "B_0051_R",
+   "no": 48,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Hanbury Hall",
+    "Droitwich",
+    "Worcestershire",
+    "Malverns"
+   ],
+   "legibility": 0.82,
+   "text": "went on a day trip to Hanbury Hall 1801 near Droitwich. It's very attractiv[e] with wrought iron gates + lovely views over Worcestershire, near the Malverns. We saw inside an ice house,"
+  },
+  {
+   "page_id": "B_0052_L",
+   "no": null,
+   "dates": [],
+   "headings": [],
+   "places": [],
+   "sketch": true,
+   "sketch_desc": "Hand-drawn cross-section diagram of an icehouse structure. Labels include: 'hatch to shovel ice + Snow' on the left side of the structure, 'passage to take out ice' with an arrow pointing to the right passage, and 'drain to ice pond' at the base with a curved arrow. The sketch shows a domed/rounded chamber with a hatch entrance on the left and a horizontal passage on the right.",
+   "legibility": 0.9,
+   "text": "the icehouse was 6m wide & high\n     built of brick.\n\nhatch                 passage to take out ice.\nto shovel [diagram of icehouse structure]\nice +\nSnow          drain to ice pond\n\nThere was also a mushroom house\norchard, orangerie."
+  },
+  {
+   "page_id": "B_0052_R",
+   "no": 50,
+   "dates": [
+    {
+     "raw": "2002",
+     "iso": "2002"
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Hanbury Hall"
+   ],
+   "captions": [
+    "Hanbury Hall parterre. 2002, NT & Nick Moss"
+   ],
+   "legibility": 0.95,
+   "text": "Hanbury Hall parterre. 2002, NT & Nick Moss"
+  }
+ ]
+}

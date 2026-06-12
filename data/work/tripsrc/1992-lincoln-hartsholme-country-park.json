@@ -1,0 +1,88 @@
+{
+ "trip_id": "1992-lincoln-hartsholme-country-park",
+ "title_guess": "Lincoln (Hartsholme Country Park)",
+ "date_guess": "1992-06",
+ "volume": "A",
+ "spread_range": [
+  "A_0060",
+  "A_0062"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [
+  "/Users/williamgkirby/Sites/camping-diaries/scans/volA/llm/A_0062_L.jpg"
+ ],
+ "pages": [
+  {
+   "page_id": "A_0060_R",
+   "no": 117,
+   "dates": [
+    {
+     "raw": "Friday June 12.",
+     "iso": "1992-06-12"
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Lincoln",
+    "Hartsholme Country Park"
+   ],
+   "legibility": 0.87,
+   "text": "Friday June 12.\n     The 7 of us set off to see __Lincoln__. (Laura stayed at home to look after a French tennis player.)\n     We left at 4.50., + got to Hartsholme Country Park ****, 2 miles outside Lincoln at 7.15.\n     Simon put the tent up; Eve got supper ready, + the children disappeared off to the swings. Peter lost his new \"cool hat + sunglasses. A lovely sunny evening.\n     Hartsholme Park is the beautiful grounds of an old house, lake, bridge (where the hard rain broken in the night), + good playground. Just up the road is a school with swimming pool.\n     On the Saturday we caught a bus into Lincoln which dropped us south of the old south gate on the main pedestrian shopping road. John + Charles had a ride on a roundabout. It was incredibly gay"
+  },
+  {
+   "page_id": "A_0061_L",
+   "no": 118,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Stonebow",
+    "Jews House",
+    "Cathedral"
+   ],
+   "legibility": 0.82,
+   "text": "& mediaeval-looking, with all the people & bustle & bright colours, groups of people stopping to chat & buskers. We walked through the south gate, Stonebow, early C16, originally the Roman gate. Further up the [?Steep] hill is the Jews House, very pretty.\n      The Cathedral is being cleaned. It's very beautiful. 1072-[?12], homogenous architecture, the third largest in England. (We didn't have time to visit the nearby castle 1065) There is a quiet adult chapel for private prayer, & also a prayer corner where you can light candles, put them in sand in tris [a more friendly place for children]. Thomas & Peter paid their money & there were no candles left, so they had to ask a flunky for more. Also there are 4½ ft. high candlesticks, made at the limit of the potter's wheel & firing. One of these had barbed wire around it."
+  },
+  {
+   "page_id": "A_0061_R",
+   "no": 119,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Avalon",
+    "Burgundy",
+    "Pimento",
+    "Cathedral"
+   ],
+   "legibility": 0.87,
+   "text": "An earthquake split the original cathedral & St. Hugh, a Carthusian monk from Avalon & Burgundy, rebuilt it. \"He was a man of great energy, powerful mind & inflexible purpose.\"\n It was built right through the original Roman wall. It is recorded that when Hugh died, the Jews wept at his funeral. His shrine was finished by 1280.\n      There is also a huge bronze statue of Tennyson 1809-92 by G.F. Watts on the Chapter house green.\n      We had lunch at Pimento – good stuffed peppers, & caught the bus back to the van. After tea we all went swimming, even Charles, who was only just over his chickenpox.\n      At 9.30. on the Sunday we reached the Cathedral for the main Sunday service. Unfortunately, the choir was away. We were squashed"
+  },
+  {
+   "page_id": "A_0062_L",
+   "no": 120,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Lincoln",
+    "R. Trent",
+    "Fossedyke",
+    "Braypool",
+    "Lincoln Gap",
+    "R. Witham",
+    "R. Wibblen",
+    "Fosse Way",
+    "Bath",
+    "Humber",
+    "Cotswolds",
+    "Samestone"
+   ],
+   "sketch": true,
+   "sketch_desc": "Hand-drawn map in the lower half of the page showing the area around Lincoln. Labels include: R. Trent (left/west side), Fossedyke Roman Canal (running roughly east-west), Braypool (a settlement on or near the canal), Lincoln (labelled with an arrow pointing to it), Lincoln Gap (right/east side), R. Witham (running south-east from Lincoln), R. Wibblen (a river label to the south/south-west), Fosse Way Bath to Humber (bottom-left, indicating the Roman road alignment), and 'escarpment from Cotswolds, Samestone' (bottom-centre/right). A partially visible label at the far right edge reads '[?Todston]' — possibly Torksey or Todeston. Lines and arrows indicate the course of rivers, the canal and the ridge/escarpment.",
+   "legibility": 0.88,
+   "boundary_mixed": true,
+   "text": "on a bench at the front, although there were 7 empty pews. A sermon on the Trinity.\n\tWe returned to the campsite when the children reluctantly did their homework & wrote letters. Charles lost his purse at the swings.\n\tWe set off for home past the old Roman canal, linking Lincoln with the R. Trent. (The land needs drainage ditches.) \"Llyn\" is Celtic for pool. \"Coln\" comes from the Roman Colonia.\n\n[Route sketch labels:]\nR. Trent\nFossedyke\nRoman Canal\nBraypool\nLincoln\nLincoln Gap\nR. Witham\nR. Wibblen\nFosse Way Bath to Humber\nescarpment from Cotswolds, Samestone\n[?Todston]"
+  }
+ ]
+}

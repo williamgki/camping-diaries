@@ -1,0 +1,47 @@
+{
+ "trip_id": "2017-short-autumn-outing-via-alcester-supper",
+ "title_guess": "Short autumn outing via Alcester (supper with Charles & Jenny)",
+ "date_guess": "2017-10-16",
+ "volume": "B",
+ "spread_range": [
+  "B_0296",
+  "B_0296"
+ ],
+ "mixed_start": true,
+ "mixed_end": false,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "B_0296_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Monday October 16th",
+     "iso": "2017-10-16"
+    }
+   ],
+   "headings": [
+    "Monday October 16th"
+   ],
+   "places": [
+    "Alcester",
+    "Chad",
+    "Aldi"
+   ],
+   "legibility": 0.92,
+   "boundary_mixed": true,
+   "text": "perfectly. We are stopping off with papers for the Chad accountant at Alcester on the way home.\n__Monday October 16th__\nEve caught an Uber to Chad, cleared the loo & we set off for supper with Charles & Jenny. Stopped off at Aldi for dog's food."
+  },
+  {
+   "page_id": "B_0296_R",
+   "no": 116,
+   "dates": [],
+   "headings": [],
+   "places": [],
+   "legibility": 1,
+   "text": ""
+  }
+ ]
+}

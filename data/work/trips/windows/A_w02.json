@@ -1,0 +1,187 @@
+{
+  "window_id": "A_w02",
+  "spread_range": ["A_0025", "A_0054"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0025_L",
+      "kind": "trip",
+      "title_guess": "France: Ardèche canoeing & Germany (Bad Honnef) return",
+      "date_guess": "1990-07",
+      "index_page_no": 44,
+      "evidence": [
+        { "page_id": "A_0025_L", "signal": "narrative", "excerpt": "we hired 2 canoes... paddled our canoes 12 kilometres back to the camp (Ardèche)" },
+        { "page_id": "A_0029_L", "signal": "narrative", "excerpt": "We left early + drove over 400 miles north to near Germany, beyond Metz" },
+        { "page_id": "A_0031_L", "signal": "return", "excerpt": "We drove home, where Margaret had supper ready for us" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Window opens mid-trip; this big 1990 France/Ardèche trip departed in a previous window. It runs A_0025_L..A_0031_L and ENDS at A_0031_L ('We drove home'). Reported here as the continuation start for merge dedupe."
+    },
+    {
+      "start_page_id": "A_0031_R",
+      "kind": "trip",
+      "title_guess": "Hook Norton, Wiggington & Sibford (late August)",
+      "date_guess": "1990-08-29",
+      "index_page_no": 58,
+      "evidence": [
+        { "page_id": "A_0031_R", "signal": "heading", "excerpt": "August 29th. We went to a pub campsite - blah! very crowded & a pond, near Hook Norton" },
+        { "page_id": "A_0032_L", "signal": "place", "excerpt": "On the Sunday we walked to Wiggington... moved to Sibford for lunch" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0031 is mixed: A_0031_L ends the France/Germany trip ('We drove home'); A_0031_R begins the Hook Norton/Wiggington trip ('August 29th... near Hook Norton'). Break falls between the two pages.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0032_R",
+      "kind": "trip",
+      "title_guess": "Avening Park / Tetbury (autumn weekend, 'last weekend in the van this year')",
+      "date_guess": "1990-09-28",
+      "index_page_no": 61,
+      "evidence": [
+        { "page_id": "A_0032_R", "signal": "heading", "excerpt": "September 28th. This is our last weekend in the van this year... taking Simon's 'cello down to Chalford... Avening Park, near Tetbury" },
+        { "page_id": "A_0033_L", "signal": "place", "excerpt": "The campsite is owned by Colonel Carter... a lovely Cotswold house in the park (Avening Park)" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0032_R is mixed: it opens with a brief 'September 2nd' London-area outing (St George's, Kew, Parsons Green christening = index p60), then the 'September 28th' Avening Park/Tetbury trip begins. Break at the 'September 28th.' heading. (The Sept 2nd Kew/Parsons Green day is a tiny separate outing matching index p60 but is reported compactly on this page.)",
+      "confidence": 0.7,
+      "notes": "Avening Park trip continues onto A_0033 and A_0034_L."
+    },
+    {
+      "start_page_id": "A_0034_R",
+      "kind": "trip",
+      "title_guess": "New Forest, Beaulieu & Chandlers Ford ('last trip of the year', November)",
+      "date_guess": "1990-11-01",
+      "index_page_no": 65,
+      "evidence": [
+        { "page_id": "A_0034_R", "signal": "heading", "excerpt": "November 1st. The last trip of the year. Fraught so far." },
+        { "page_id": "A_0035_L", "signal": "place", "excerpt": "to the New Forest. Lyndhurst has an information centre... go on in the dark to Roundhill" },
+        { "page_id": "A_0036_R", "signal": "narrative", "excerpt": "It has been a fabulous year's camping." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0034 is mixed: A_0034_L finishes the Avening Park trip (conkers, 'set off home through the rain'); A_0034_R starts the November 1st New Forest trip. Break at the 'November 1st' heading.",
+      "confidence": 0.8,
+      "notes": "Runs A_0034_R..A_0036_R; ends the 1990 season ('a fabulous year's camping')."
+    },
+    {
+      "start_page_id": "A_0037_L",
+      "kind": "trip",
+      "title_guess": "Oxford / Folly Farm, Beckley (Easter); Chesham & Flamstead",
+      "date_guess": "1991-04-12",
+      "index_page_no": 69,
+      "evidence": [
+        { "page_id": "A_0037_L", "signal": "heading", "excerpt": "April 12th 1991 Friday. We set off at 5 pm to Oxfordshire... camping at Folly Farm, Beckley" },
+        { "page_id": "A_0039_L", "signal": "place", "excerpt": "We ended up outside Chesham at Pedmore in Pednore Bottom" },
+        { "page_id": "A_0040_L", "signal": "return", "excerpt": "We had tea in the van at the stables & set off for home to open Charles' presents" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.92,
+      "notes": "New year (1991) and explicit 'We set off' departure. Trip runs A_0037..A_0040_L (Oxford -> Chesham -> Flamstead stables); Charles' birthday falls during the trip."
+    },
+    {
+      "start_page_id": "A_0040_R",
+      "kind": "trip",
+      "title_guess": "Hamperley (Shropshire) & Card Mill",
+      "date_guess": "1991-05-04",
+      "index_page_no": 75,
+      "evidence": [
+        { "page_id": "A_0040_R", "signal": "heading", "excerpt": "May 4th. We set out from Birmingham on Saturday morning... We arrived at Hamperley" },
+        { "page_id": "A_0041_L", "signal": "return", "excerpt": "We ate lunch in a lovely valley... It was Card Mill... After tea we went home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0040 is mixed: A_0040_L ends the Oxford/Easter trip ('set off for home'); A_0040_R starts the May 4th Hamperley trip ('We set out from Birmingham'). Break at the 'May 4th.' heading.",
+      "confidence": 0.88
+    },
+    {
+      "start_page_id": "A_0041_R",
+      "kind": "trip",
+      "title_guess": "Dinas (Wales) via Wroxeter & Tallybont (Whitsun)",
+      "date_guess": "1991-05-25",
+      "index_page_no": 77,
+      "evidence": [
+        { "page_id": "A_0041_R", "signal": "heading", "excerpt": "May 25th. We set off just before lunch & ate at Wroxeter... then drove on to Dinas" },
+        { "page_id": "A_0041_R", "signal": "place", "excerpt": "On the Sunday we went to church at 11.30 at Tallybont" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0041 is mixed: A_0041_L ends the Hamperley trip ('After tea we went home'); A_0041_R begins the May 25th Dinas/Wales trip. Break at the 'May 25th.' heading.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0042_L",
+      "kind": "trip",
+      "title_guess": "France: Loire & Auvergne (Chartres, Chenonceaux, Conques, R. Lot)",
+      "date_guess": "1991-07",
+      "index_page_no": 80,
+      "evidence": [
+        { "page_id": "A_0042_L", "signal": "heading", "excerpt": "July 13th. We finally made it to Chartres & shopped in the market... (in the cathedral)" },
+        { "page_id": "A_0050_L", "signal": "narrative", "excerpt": "Simon, Thomas, William + Peter set off... in 2 double Kayaks... up-river to Entraygues to shoot the rapids (river Lot)" },
+        { "page_id": "A_0052_R", "signal": "return", "excerpt": "We stopped at a supermarket & caught the ferry. We drove home in the rain. A very good holiday." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6,
+      "notes": "This is the big 1991 France/Loire holiday. Its actual departure (index p79 'Montreuil', 1991) falls in the gap before this window's transcripts (spreads jump from A_0041_R=p77 to A_0042_L=p80), so A_0042_L opens mid-trip ('having parked the van...'). Trip runs A_0042..A_0052_R and ends with 'We drove home' (A_0052_R). Lower confidence on exact start page because the departure is not transcribed here."
+    },
+    {
+      "start_page_id": "A_0053_L",
+      "kind": "trip",
+      "title_guess": "Arlingham (St. Augustine's farm) via Gloucester / Beauchamp House",
+      "date_guess": "1991-08-10",
+      "index_page_no": 102,
+      "evidence": [
+        { "page_id": "A_0053_L", "signal": "heading", "excerpt": "August 10th. Kate Warburton has bravely come with us... Beauchamp House... drove on to St. Augustine's working farm Arlingham" },
+        { "page_id": "A_0053_R", "signal": "return", "excerpt": "After lunch we dropped Thomas off at Beauchamp & set off for B'ham" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0053_L is mixed: it opens with a brief 'August 4th' errand (drop Peter at Gloucester music camp, drop off cello), then the 'August 10th' Arlingham camping trip begins. Break at the 'August 10th.' heading.",
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "A_0053_R",
+      "kind": "trip",
+      "title_guess": "Thorpeness (Suffolk) week & late-summer short outings",
+      "date_guess": "1991-08-18",
+      "index_page_no": 104,
+      "evidence": [
+        { "page_id": "A_0053_R", "signal": "heading", "excerpt": "August 18th. Eve drove 5 boys & nanny to Thorpeness. We arrived & had a terrible time putting up the tent." },
+        { "page_id": "A_0054_L", "signal": "narrative", "excerpt": "We stayed at Thorpeness for a week... very strong winds pulled the large tent down." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0053 is mixed: A_0053_R first finishes the Arlingham trip ('dropped Thomas off at Beauchamp & set off for B'ham'), then begins the August 18th Thorpeness trip. Break at the 'August 18th.' heading.",
+      "confidence": 0.75
+    },
+    {
+      "start_page_id": "A_0054_L",
+      "kind": "trip",
+      "title_guess": "Compressed short autumn outings: Trimley, Frensham, Kate & Jamie's farm",
+      "date_guess": "1991-09",
+      "index_page_no": 104,
+      "evidence": [
+        { "page_id": "A_0054_L", "signal": "heading", "excerpt": "August 31st. We went to Trimley for one night... Sept 7th... camped at Frensham... Sept 22nd We went to Kate & Jamie's farm for one night" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0054_L bundles several separate brief weekend outings (Trimley 31 Aug, Frensham 7 Sept, Kate & Jamie's farm 22 Sept) logged in a few terse lines, after the Thorpeness week ends. Cannot cleanly separate them from the diary text; reported as one compressed section.",
+      "confidence": 0.45,
+      "notes": "Low confidence: these are arguably 3 distinct one-night trips compressed onto one page. Could not split with citable boundaries."
+    },
+    {
+      "start_page_id": "A_0054_R",
+      "kind": "non_trip",
+      "title_guess": "Simon in London (memorial service / lamp-selling) & Disneyworld — no camping",
+      "date_guess": "1991-09-24",
+      "index_page_no": 105,
+      "evidence": [
+        { "page_id": "A_0054_R", "signal": "narrative", "excerpt": "Sept 24th Simon + Eve go to Charles Maxwell's memorial service + Simon spends the night selling lamps in London." },
+        { "page_id": "A_0054_R", "signal": "narrative", "excerpt": "November Eve took Thomas, William + Peter to Disneyworld, so we did not go camping at half-term." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.7,
+      "notes": "Not a van camping trip: London memorial-service/business visit and a Disneyworld trip explicitly noted as replacing half-term camping. Matches index p105 'Simon in London' (the index marks 1992 beside p105, but the described events are Sept–Nov 1991 closing out the 1991 season)."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": null,
+  "notes": "Page-number alignment uses volA_index.json (book 1, 1989-1992 season), which matches the spread page numbers (e.g. p44 Chambonas, p58 Hook Norton, p69 Oxford 1991, p102 Beauchamp House, p105 Simon in London). The window opens mid-trip (1990 France/Ardèche return, ending A_0031_L) and closes with the 1991 season winding down. The big 1991 France/Loire trip's departure (index p79 Montreuil) is not transcribed in this window's spreads (gap between A_0041_R=p77 and A_0042_L=p80), so A_0042_L is treated as its in-window start."
+}

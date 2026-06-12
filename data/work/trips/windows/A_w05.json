@@ -1,0 +1,135 @@
+{
+  "window_id": "A_w05",
+  "spread_range": ["A_0097", "A_0126"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0111_L",
+      "kind": "trip",
+      "title_guess": "North Wales: Rhiwiau riding, Conwy",
+      "date_guess": "1993-08-07",
+      "index_page_no": 25,
+      "evidence": [
+        { "page_id": "A_0111_L", "signal": "departure", "excerpt": "Sat 7th August. We set off at nine to take the boys to Rhiwiau Riding Centre." },
+        { "page_id": "A_0111_L", "signal": "return", "excerpt": "Sat. 31st July. We left at 9.30, & had lunch on the Dover-Calais ferry on the way back to Westfield Rd." }
+      ],
+      "mixed": true,
+      "mixed_detail": "End of the 1993 Italy trip (return to Westfield Rd on the Dover-Calais ferry, 31st July) on the upper part of the page; new North Wales riding trip starts at the 'Sat 7th August' heading.",
+      "confidence": 0.88
+    },
+    {
+      "start_page_id": "A_0111_R",
+      "kind": "trip",
+      "title_guess": "Telford / Wales (collect boys from riding)",
+      "date_guess": "1993-08-13",
+      "index_page_no": 26,
+      "evidence": [
+        { "page_id": "A_0111_R", "signal": "departure", "excerpt": "Friday 13th Aug. Left at 6.10. Heavy traffic. Camped in a small, sheltered site" },
+        { "page_id": "A_0111_R", "signal": "return", "excerpt": "After lunch we headed home... Fortunately, we got home in one piece." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Previous riding trip ends ('we headed home... got home in one piece') in the upper part of the page; a new weekend trip starts at 'Friday 13th Aug' (camp, then 'Picked up boys from riding, drove home', passing the old family house 'Four Winds' near Telford).",
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "A_0112_L",
+      "kind": "trip",
+      "title_guess": "Beauchamp music course & Forest of Dean",
+      "date_guess": "1993-08-20",
+      "index_page_no": 26,
+      "evidence": [
+        { "page_id": "A_0112_L", "signal": "departure", "excerpt": "Friday August 20th. We left at 5.45... to hear Peter's quartets at Beauchamps." },
+        { "page_id": "A_0112_L", "signal": "narrative", "excerpt": "we went to explore the Forest of Dean Heritage centre... Home at about 6. pm." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "A_0112_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp (music course) & Ashleworth Court",
+      "date_guess": "1993-08-27",
+      "index_page_no": 27,
+      "evidence": [
+        { "page_id": "A_0112_R", "signal": "departure", "excerpt": "Friday August 2[?]. We left at 5.0., & inspite of the Bank holiday, arrived at Beauchamp at 6.15." },
+        { "page_id": "A_0112_R", "signal": "narrative", "excerpt": "went to see the cruck barn at Ashleworth Court... Then we packed up and went home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "A_0113_L",
+      "kind": "trip",
+      "title_guess": "Exmoor: Westermill Farm (Gawn & Polly's wedding), Dunster",
+      "date_guess": "1993-09-02",
+      "index_page_no": 27,
+      "evidence": [
+        { "page_id": "A_0113_L", "signal": "departure", "excerpt": "Sept 2nd Thu. At 6.15. we left for Exmoor, where Gavn will marry Polly Martin on Saturday." },
+        { "page_id": "A_0113_L", "signal": "place", "excerpt": "We are staying at Westermill Farm" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.86
+    },
+    {
+      "start_page_id": "A_0115_R",
+      "kind": "trip",
+      "title_guess": "Cotswolds: Naunton, Guiting Power, Bourton-on-the-Water",
+      "date_guess": "1993-09-24",
+      "index_page_no": 30,
+      "evidence": [
+        { "page_id": "A_0115_R", "signal": "departure", "excerpt": "Friday 24 Sept. We have come away to the Cotswolds for the wkend... We left at 5.40 + got to Naunton at 7.10." },
+        { "page_id": "A_0116_R", "signal": "place", "excerpt": "We drove to Bourton-on-the-Water" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.82
+    },
+    {
+      "start_page_id": "A_0117_L",
+      "kind": "trip",
+      "title_guess": "North Wales: Llanfairfechan, Betws-y-Coed, Dolwyddelan (pony camp)",
+      "date_guess": "1994-04-16",
+      "index_page_no": 33,
+      "evidence": [
+        { "page_id": "A_0117_L", "signal": "heading", "excerpt": "16th April 1994   Charles' birthday ... set off at 9 am. to take Peter + Claire to pony camp." },
+        { "page_id": "A_0118_R", "signal": "place", "excerpt": "We left Peter and Clare at the riding school. We drove back through Betws-y-Coed." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0120_L",
+      "kind": "trip",
+      "title_guess": "Cornwall: Upton festival, St Ives, Lizard, Trebah (Simon & Eve)",
+      "date_guess": "1994-04-30",
+      "index_page_no": 35,
+      "evidence": [
+        { "page_id": "A_0120_L", "signal": "departure", "excerpt": "Saturday 30th April   Just Simon + Eve! 5.0. We dropped William & Justin at Blue Goat & set off to hear Thomas in concert at Upton" },
+        { "page_id": "A_0120_L", "signal": "return", "excerpt": "Saturday 23rd April. We woke & drove through beautiful mountain scenery... picked up Clare Portal & Peter & hurried home" }
+      ],
+      "mixed": true,
+      "mixed_detail": "End of the April 1994 North Wales pony-camp trip ('Saturday 23rd April... picked up Clare Portal & Peter & hurried home') at the top of the page; a new Cornwall trip ('Just Simon + Eve!') starts at the 'Saturday 30th April' heading and runs through A_0126.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "A_0126_L",
+      "kind": "trip",
+      "title_guess": "Brecon Beacons: Blaensan, Mountain Centre, Porth-yr-Ogof",
+      "date_guess": "1994-05-27",
+      "index_page_no": 41,
+      "evidence": [
+        { "page_id": "A_0126_L", "signal": "departure", "excerpt": "Friday May 27th... set off at 3.45. for Poltern to pick up Thomas... we try a new Welsh campsite Blaensan." },
+        { "page_id": "A_0126_L", "signal": "return", "excerpt": "On to home up the I75." }
+      ],
+      "mixed": true,
+      "mixed_detail": "End of the 1994 Cornwall trip (Saturday May 7: Saltash Bridge, Dartington Cider Press, 'On to home up the I75') on the upper part of the page; a new Brecon Beacons weekend trip starts at the 'Friday May 27th' heading.",
+      "confidence": 0.78
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Brecon Beacons trip starting A_0126_L (Friday 27 May 1994, Blaensan / Mountain Centre / Porth-yr-Ogof) is still in progress at the window end with no return home recorded yet.",
+  "notes": "Window opens mid-trip: spreads A_0097-A_0110 are the continuation of the 1993 Italy/Switzerland trip (Porlezza, Cremona, Parma, Sestri Levante, Les Deux Alpes, St Jean de Vaux), which began in the previous window and ends on A_0111_L with the return to Westfield Rd on 31 July 1993; no boundary row is emitted for its start because that start lies before this window. Spread page-number ('no') fields are inconsistent/misnumbered against the index in places (e.g. A_0117 no=32 then A_0118 no=38), so boundaries are anchored on dates and narrative rather than page numbers. The two 'Beauchamp' weekends (A_0112_L, A_0112_R) and the short riding-collection trips (A_0111_R, A_0112) are short family camping outings from home, treated as separate trips."
+}

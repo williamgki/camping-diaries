@@ -1,0 +1,147 @@
+{
+  "window_id": "B_w04",
+  "spread_range": ["B_0073", "B_0102"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0073_L",
+      "kind": "trip",
+      "title_guess": "France: Provence, Verdon, Drôme, Vercors & Burgundy (continues from previous window)",
+      "date_guess": "2005-08",
+      "index_page_no": 11,
+      "evidence": [
+        { "page_id": "B_0073_L", "signal": "narrative", "excerpt": "We just got it dry enough to hang in the van before walking off to supper in Esparron... Moustiers-Ste-Marie" },
+        { "page_id": "B_0082_L", "signal": "date", "excerpt": "10 AOT 2005 (on ticket) — PISCINE DE ST-JEAN-DE-VAUX" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Window opens mid-trip; this France/Provence trip began in an earlier window. Continues through Moustiers, Gorges de Verdon, Drôme, Vercors, St. Agnan/Luire Cave, Chalon/Givry, Beaune, Guignicourt, St. Omer/Fontinettes, ending at the ferry on B_0084_R.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0084_R",
+      "kind": "trip",
+      "title_guess": "East Anglia: Duxford, Long Melford & Lavenham",
+      "date_guess": "2005-10",
+      "index_page_no": 22,
+      "evidence": [
+        { "page_id": "B_0084_R", "signal": "departure_return", "excerpt": "We managed to catch the ferry... heavy traffic on the drive home. We stopped at Spice Avenue for a balti at 8pm... All was well when we got home" },
+        { "page_id": "B_0084_R", "signal": "heading", "excerpt": "Saturday October 8th 9.45. Thomas & John joked at us for leaving 15 min late!... We reached Duxford" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page B_0084_R ENDS the France trip (ferry, drive home, 'when we got home') in its upper portion, then STARTS the new East Anglia trip at 'Saturday October 8th 9.45... We reached Duxford'.",
+      "confidence": 0.92
+    },
+    {
+      "start_page_id": "B_0087_R",
+      "kind": "trip",
+      "title_guess": "Newcastle: Trafalgar Day, Galloway museum, Arbeia, High Force & Bowes",
+      "date_guess": "2005-10",
+      "index_page_no": 25,
+      "evidence": [
+        { "page_id": "B_0087_R", "signal": "departure_return", "excerpt": "Back at the factory, Eve cleaned the loo & then Simon took Eve home before going on to a Queen's meeting." },
+        { "page_id": "B_0087_R", "signal": "heading", "excerpt": "Friday October 21st. Simon & Charles & Tonie & Eve set off for Newcastle at 5.30. & arrived at 11 pm." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page B_0087_R ENDS the Duxford/Long Melford/Lavenham trip (Monday Oct 10: 'Simon took Eve home') then STARTS the Newcastle trip at 'Friday October 21st... set off for Newcastle'.",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0091_R",
+      "kind": "trip",
+      "title_guess": "Kinver: Iron Age fort & Rock Houses (day outing)",
+      "date_guess": "2005-10-29",
+      "index_page_no": 29,
+      "evidence": [
+        { "page_id": "B_0091_R", "signal": "departure_return", "excerpt": "left Bowes at 3, setting off for Kendall to deliver lights... We left at 3 & got home at 8.30" },
+        { "page_id": "B_0091_R", "signal": "heading", "excerpt": "October 29th, Saturday 2005. ... We parked at Keniver for lunch... walked around a marvellous Iron Age Fort... We had tea and went home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page B_0091_R ENDS the Newcastle trip ('left Bowes at 3... got home at 8.30') then STARTS a short Kinver/R. Severn day outing on 'October 29th, Saturday 2005' which also ends on the same page ('We had tea and went home').",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0092_L",
+      "kind": "trip",
+      "title_guess": "Trimpley & R. Severn (day outing) then Melverley/Shrewsbury",
+      "date_guess": "2006-04-08",
+      "index_page_no": 34,
+      "evidence": [
+        { "page_id": "B_0092_L", "signal": "heading", "excerpt": "Saturday April 8th 2006 — 11am we left to go to Trimpley... had a picnic lunch & walk. Then tea at Trimpley... had to get back for a practice reading of the Passion for Palm Sunday." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Big date jump (Oct 2005 -> April 2006). B_0092_L opens with the short Trimpley/R. Severn day outing (Sat April 8 2006), which begins and ends on this page, then immediately STARTS the Melverley/Shrewsbury trip at 'Friday April 21st... set off for near Shrewsbury, Church House campsite... Melverley'.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0092_L",
+      "kind": "trip",
+      "title_guess": "Melverley & Nesscliffe (Shrewsbury area), Church House campsite",
+      "date_guess": "2006-04-21",
+      "index_page_no": 30,
+      "evidence": [
+        { "page_id": "B_0092_L", "signal": "heading", "excerpt": "Friday April 21st. Simon, Eve, Charles & Tonic set off for near Shrewsbury, Church House campsite, near the Tontine Inn, Melverley" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Starts lower on B_0092_L (the Friday April 21st heading); continues through B_0093 (Melverley) and B_0094_L (Nesscliffe), ending B_0094_L 'We set off for the camping shop near Wolverhampton. Then home.'",
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "B_0094_L",
+      "kind": "trip",
+      "title_guess": "Malvern: Charles' Summer Concert weekend",
+      "date_guess": "2006-05-26",
+      "index_page_no": 31,
+      "evidence": [
+        { "page_id": "B_0094_L", "signal": "departure_return", "excerpt": "We set off for the camping shop near Wolverhampton. Then home." },
+        { "page_id": "B_0094_L", "signal": "heading", "excerpt": "Friday May 26th — At 5.20. we set off to see Charles in the Malvern Summer Concert." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page B_0094_L ENDS the Melverley trip ('Then home.') then STARTS the Malvern concert weekend at 'Friday May 26th... set off to see Charles in the Malvern Summer Concert'.",
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "B_0094_R",
+      "kind": "trip",
+      "title_guess": "Devon: West Monkton, Liverton, Dartmoor (Widecombe, Bellever, Dartmeet)",
+      "date_guess": "2006-06-10",
+      "index_page_no": 32,
+      "evidence": [
+        { "page_id": "B_0094_R", "signal": "departure_return", "excerpt": "Parachutists landed in spite of cloud + rain + we all went home." },
+        { "page_id": "B_0094_R", "signal": "heading", "excerpt": "Friday June 10th. ... At 5.50. the 4 of us set off for Margaret's weekend in Devon with Evelyn. We reached Proctor's Farm, near West Monkston" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page B_0094_R ENDS the Malvern concert weekend ('we all went home') then STARTS the Devon trip at 'Friday June 10th... set off for Margaret's weekend in Devon'.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0096_R",
+      "kind": "trip",
+      "title_guess": "Hampton Lode supper outing & Trimley day visits (short outings)",
+      "date_guess": "2006-07-01",
+      "index_page_no": 34,
+      "evidence": [
+        { "page_id": "B_0096_R", "signal": "departure_return", "excerpt": "We picked up Margaret + Helen + headed for home (forgetting the logan berry bushes...)" },
+        { "page_id": "B_0096_R", "signal": "heading", "excerpt": "July 1st, Saturday — After a mission planning day in church we left to pick up Margaret + Helen for supper in the van... good evening at Hampton Lode." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page B_0096_R ENDS the Devon trip ('headed for home') then contains two short same-day outings: 'July 1st, Saturday' (Hampton Lode supper) and 'July 22nd, Saturday' (drove to Trimley to give Margaret + Helen lunch). These are brief day outings, possibly not full van trips.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "B_0097_L",
+      "kind": "trip",
+      "title_guess": "France: Montreuil, Baugé opera, Garabit, Millau (Massif Central) — continues past window",
+      "date_guess": "2006-07-23",
+      "index_page_no": 35,
+      "evidence": [
+        { "page_id": "B_0097_L", "signal": "departure_return", "excerpt": "July 23rd Sunday — Simon & Ebe went to the 8 o'clock. At 9.20 we left for France with Charles." },
+        { "page_id": "B_0097_R", "signal": "heading", "excerpt": "La Calotterie near Montreuil. Very green, a grassy valley..." }
+      ],
+      "mixed": false,
+      "mixed_detail": "Starts at top of B_0097_L ('we left for France'); continues through Montreuil, Baugé opera, La Vielle Morte, St. Flour/Garabit/Fridefont, Millau (B_0102, 2006) and runs past the end of this window.",
+      "confidence": 0.88
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Trip starting B_0097_L (France: Montreuil/Baugé/Garabit/Millau, summer 2006) is still in progress at B_0102 (Millau) and continues into the next window.",
+  "notes": "Volume B book2 index (no years) maps cleanly: Verdon/Drôme/Vercors pp.11-18, Beaune p.20, Guignicourt+St.Omer p.21, Moseley+Duxford p.22, Long Melford p.23, Lavenham p.24, Darsham+Newcastle p.25, Galloway+Arbeia p.27, High Force+Bowes p.28, Kinver p.29, Melverley p.30, Nesscliffe/Wolverhampton/Malvern p.31, West Monkton/Liverton Devon p.32, Bellever/Dartmeet p.33, Hampton Lode/Trimpley p.34, Montreuil p.35, Baugé p.36, La Vielle Morte p.37, Garabit/Fridefont p.38, Millau p.41. Years confirmed from text: ticket 10 AOT 2005 (B_0082), 22nd October 2005 (B_0088), October 29th 2005 (B_0091), April 8th 2006 (B_0092), Viaduc de Millau 2006 (B_0102). The window opens mid-trip in the 2005 Provence trip. Two B_0092_L boundaries are recorded because a short Trimpley day outing and the start of the Melverley trip both fall on that left page. Several short UK day outings (Trimpley, Hampton Lode supper, Trimley lunch, Kinver) are recorded as separate trips but with lower confidence as they may be sub-day outings rather than full overnight van trips."
+}

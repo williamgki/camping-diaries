@@ -1,0 +1,235 @@
+{
+  "window_id": "A_w03",
+  "spread_range": ["A_0049", "A_0078"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0049_L",
+      "kind": "trip",
+      "title_guess": "France: Conques, Ardèche & Lot (canoeing) — return leg",
+      "date_guess": "1991-07",
+      "index_page_no": 92,
+      "evidence": [
+        { "page_id": "A_0049_L", "signal": "narrative", "excerpt": "Today we actually made it to Conques looked round the shops + church... find out about St. Foy." },
+        { "page_id": "A_0050_L", "signal": "narrative", "excerpt": "a far less demanding trip than last years in the Ardèche" },
+        { "page_id": "A_0052_R", "signal": "return", "excerpt": "We stopped at a supermarket & caught the ferry... We drove home in the rain. A very good holiday." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Window opens mid-trip; this is the tail of the 1991 France holiday (Conques/Estaing/Lot canoe, then north via Roanne, Paris/Torcy, Beauvais, Crécy). Matches volA index 1991 entries (Conques p92, Estaing/Espalion p95, R. Lot p96, Beauvais p99, Torcy/Crecy p100). Started in previous window. Ends at A_0052_R."
+    },
+    {
+      "start_page_id": "A_0053_L",
+      "kind": "trip",
+      "title_guess": "Gloucester music camp drop-off & Beauchamp House / Arlingham (St. Augustine's farm)",
+      "date_guess": "1991-08",
+      "index_page_no": 102,
+      "evidence": [
+        { "page_id": "A_0053_L", "signal": "heading", "excerpt": "102 August 4th. We drove down to Gloucester to drop Peter off at music camp" },
+        { "page_id": "A_0053_L", "signal": "place", "excerpt": "drove on to St. Augustine's working farm Arlingham" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6,
+      "notes": "New outing after the France return. Two linked dates (Aug 4 Gloucester drop-off, Aug 10 Beauchamp House concert + Arlingham farm). Matches volA index p102 Beauchamp House, p103 Arlingham (1991). Returns home Aug 11 ('dropped Thomas off at Beauchamp & set off for B'ham') on A_0053_R."
+    },
+    {
+      "start_page_id": "A_0053_R",
+      "kind": "trip",
+      "title_guess": "Thorpeness (summer holiday week)",
+      "date_guess": "1991-08",
+      "index_page_no": 104,
+      "evidence": [
+        { "page_id": "A_0053_R", "signal": "return", "excerpt": "After lunch we dropped Thomas off at Beauchamp & set of for B'ham." },
+        { "page_id": "A_0053_R", "signal": "departure", "excerpt": "August 18th. Eve drove 5 boys & [Tony] nanny to Thorpeness. We arrived & had a terrible time putting up the tent." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page A_0053_R (p103) ends the Beauchamp/Arlingham outing ('set of for B'ham' on Aug 11) then opens a new Thorpeness outing at the 'August 18th' heading.",
+      "confidence": 0.55,
+      "notes": "Thorpeness holiday week ('stayed at Thorpeness for a week'). Matches volA index p104 Thorpeness/Trimley farm (1991). Continues into A_0054_L (Aldeburgh carnival, birthday, Friday tent down)."
+    },
+    {
+      "start_page_id": "A_0054_L",
+      "kind": "trip",
+      "title_guess": "Short autumn outings: Trimley, Frensham, Kate & Jamie's farm",
+      "date_guess": "1991-09",
+      "index_page_no": 104,
+      "evidence": [
+        { "page_id": "A_0054_L", "signal": "heading", "excerpt": "August 31st. We went to [Trimley] for one night, William cooked a Pavlova." },
+        { "page_id": "A_0054_L", "signal": "heading", "excerpt": "Sept 7th We went to Jane + Harry's wedding anniv party, camped at Frensham" },
+        { "page_id": "A_0054_L", "signal": "heading", "excerpt": "Sept 22nd We went to Kate + Jamie's farm for one night, picked plums + swam." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0054_L (p104) continues/closes the Thorpeness week at the top, then compresses three separate one-night outings (Aug 31 Trimley, Sept 7 Frensham, Sept 22 Kate & Jamie's farm) — multiple short trips logged on one page.",
+      "confidence": 0.4,
+      "notes": "Several distinct short outings recorded compactly; cannot cleanly separate them into their own pages. Reported as one low-confidence boundary covering this cluster of overnight trips."
+    },
+    {
+      "start_page_id": "A_0054_R",
+      "kind": "non_trip",
+      "title_guess": "Non-trip: Simon in London (memorial service) & Disneyworld half-term",
+      "date_guess": "1991-11",
+      "index_page_no": 105,
+      "evidence": [
+        { "page_id": "A_0054_R", "signal": "narrative", "excerpt": "Simon spends the night selling lamps in London." },
+        { "page_id": "A_0054_R", "signal": "narrative", "excerpt": "November Eve took Thomas, William + Peter to Disneyworld, so we did not go camping at half-term." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6,
+      "notes": "Not a van trip: London memorial service note + an explicit statement they did NOT go camping at half-term (Disneyworld by plane). Matches volA index p105 'Simon in London' (1992 marker beside it, though content is late-1991)."
+    },
+    {
+      "start_page_id": "A_0055_L",
+      "kind": "trip",
+      "title_guess": "Ellesmere / Tetchill (new Igloo tent shakedown)",
+      "date_guess": "1992-04",
+      "index_page_no": 106,
+      "evidence": [
+        { "page_id": "A_0055_L", "signal": "heading", "excerpt": "April 3rd 1992. Simon, Eve, Thomas, William, Peter John & Charles set off after lunch to the camping shop at Wolverhampton." },
+        { "page_id": "A_0055_L", "signal": "place", "excerpt": "We have ended up at Ellesmere Tetchill" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Clear dated departure 'April 3rd 1992'. Matches volA index p106 Tetchill, Ellesmere (1992). Returns home A_0056_R ('We got home at 2.15 on the Sunday')."
+    },
+    {
+      "start_page_id": "A_0056_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp House strings course",
+      "date_guess": "1992-04",
+      "index_page_no": 109,
+      "evidence": [
+        { "page_id": "A_0056_R", "signal": "return", "excerpt": "We got home at 2.15. on the Sunday." },
+        { "page_id": "A_0056_R", "signal": "heading", "excerpt": "April 21st. Beauchamp House for Simon & Peter to join in a strings course." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0056_R (p109) closes the Ellesmere trip ('We got home at 2.15. on the Sunday') then opens a new outing at 'April 21st. Beauchamp House'.",
+      "confidence": 0.65,
+      "notes": "Beauchamp House strings course outing. Matches volA index p109 Beauchamp (1992). Continues into A_0057_L ('We stayed until October 23rd' — that close is a flash-forward note, the camping stay is the spring course)."
+    },
+    {
+      "start_page_id": "A_0057_L",
+      "kind": "trip",
+      "title_guess": "Dinas (Wales) — Whitsun, with Harlech",
+      "date_guess": "1992-05",
+      "index_page_no": 111,
+      "evidence": [
+        { "page_id": "A_0057_L", "signal": "heading", "excerpt": "May 23rd Sat A long drive to Dinas - 12.15-5.20 V. slow on the motorways in the Midlands." },
+        { "page_id": "A_0059_R", "signal": "narrative", "excerpt": "Wed 27th May We set off for Harlech + spent the morning there going up + down the tower before setting off for home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0057_L (p110) closes the Beauchamp course ('We stayed until October 23rd') at the top, then opens the Dinas trip at 'May 23rd Sat'.",
+      "confidence": 0.7,
+      "notes": "Whitsun week at Dinas, Wales (Talybont, Llanbedr, Rhinog, Harlech). Matches volA index p111 Dinas, p115 Harlech (1992). Returns home A_0060_L ('We drove on home. We had had a marvellous, sunburnt holiday, one of the best ever')."
+    },
+    {
+      "start_page_id": "A_0060_L",
+      "kind": "trip",
+      "title_guess": "Short outings: Little Gaddesden christening & Malvern",
+      "date_guess": "1992-06",
+      "index_page_no": 116,
+      "evidence": [
+        { "page_id": "A_0060_L", "signal": "heading", "excerpt": "May 31st Sunday ... Charlotte Maxwell's christening ... at Little Gaddesden" },
+        { "page_id": "A_0060_L", "signal": "heading", "excerpt": "June 9th Simon, Eve, Thomas, Charles (chickenpox) went over to Malvern" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0060_L (p116) closes the Dinas trip ('We drove on home... one of the best ever') then logs two day-outings (May 31 Little Gaddesden christening, June 9 Malvern day).",
+      "confidence": 0.35,
+      "notes": "These look like non-camping day visits (christening, family day in Malvern) rather than van camping trips, but recorded inline. Matches volA index p116 Little Gaddesden, Malvern (1992). Low confidence on whether these are 'trips' vs day events."
+    },
+    {
+      "start_page_id": "A_0060_R",
+      "kind": "trip",
+      "title_guess": "Lincoln (Hartsholme Country Park)",
+      "date_guess": "1992-06",
+      "index_page_no": 117,
+      "evidence": [
+        { "page_id": "A_0060_R", "signal": "heading", "excerpt": "Friday June 12. The 7 of us set off to see Lincoln. ... We left at 4.50., + got to Hartsholme Country Park" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8,
+      "notes": "Clear dated departure to Lincoln. Matches volA index p117 Lincoln (1992). Camps at Hartsholme, visits cathedral/Jorvic-style sites. Returns home A_0062_L ('We set off for home past the old Roman canal')."
+    },
+    {
+      "start_page_id": "A_0062_R",
+      "kind": "trip",
+      "title_guess": "France 1992: Loire & Périgord (Pont-Audemer, Chinon, Rocamadour, Conques)",
+      "date_guess": "1992-07",
+      "index_page_no": 121,
+      "evidence": [
+        { "page_id": "A_0062_R", "signal": "departure", "excerpt": "July 19th Sunday We all left at 9.30. for Portsmouth then had to go back home from Selly Oak for Simon to switch off Thomas' keyboard" },
+        { "page_id": "A_0062_R", "signal": "place", "excerpt": "ending up in the dark by mistake in the residential end. ** Pont-Audemer" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0062_R (p121) ends the Lincoln trip at the top (Lichfield camping stop on the way home) then opens the major 1992 France holiday at 'July 19th Sunday ... left ... for Portsmouth'.",
+      "confidence": 0.85,
+      "notes": "Major 1992 France trip: ferry from Portsmouth, Pont-Audemer, Azay-le-Rideau, Richelieu/Chinon, St Estephe, Brantôme, Rouffignac, Les Eyzies, Rocamadour, Conques (with quartet concert), Salbris, St Illiers la Ville, return via Southampton. Matches volA index 1992 entries p121 Pont Audemer through p134. Returns to Birmingham at A_0075_R ('the traffic moved faster up to Birmingham. It was a fabulous holiday.')."
+    },
+    {
+      "start_page_id": "A_0075_R",
+      "kind": "trip",
+      "title_guess": "Thorpeness via Annette's (Thornham Magna)",
+      "date_guess": "1992-08",
+      "index_page_no": 135,
+      "evidence": [
+        { "page_id": "A_0075_R", "signal": "return", "excerpt": "After Newbury the traffic moved faster up to Birmingham. It was a fabulous holiday." },
+        { "page_id": "A_0075_R", "signal": "departure", "excerpt": "Sat 15th August We set off at 10.35., Eve, Laura, Thomas, William, Peter, John + Charles, to spend the night at Annette's on the [way to Thorpeness]" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0075_R closes the 1992 France trip ('It was a fabulous holiday') then opens a new outing at 'Sat 15th August' (Annette's en route to Thorpeness).",
+      "confidence": 0.6,
+      "notes": "August Thorpeness holiday, stopping at Annette's near Thornham Magna/Eye. Matches volA index p135 Thornham Magna, p136 Thorpeness/Beauchamp (1992). Continues into A_0076."
+    },
+    {
+      "start_page_id": "A_0076_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp concert weekend (Gloucester)",
+      "date_guess": "1992-08",
+      "index_page_no": 136,
+      "evidence": [
+        { "page_id": "A_0076_R", "signal": "return", "excerpt": "Sunday 24th August ... Simon drove home to B'ham. Everyone else went home" },
+        { "page_id": "A_0076_R", "signal": "departure", "excerpt": "Friday 29th August Simon, Eve, William, Peter, John, Charles went down for the Beauchamp [concert]" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0076_R (p136) ends the Thorpeness holiday ('everyone went home') then opens the Beauchamp concert weekend at 'Friday 29th August'.",
+      "confidence": 0.5,
+      "notes": "Short Beauchamp/Gloucester concert outing (continues to A_0077_L: 'William babysat... went in to hear Thomas play in a Mozart quartet'; Aug 30 Gloucester docks). Matches volA index p136 Beauchamp (1992)."
+    },
+    {
+      "start_page_id": "A_0077_L",
+      "kind": "trip",
+      "title_guess": "Peak District: Goyt Valley, Buxton, King Sterndale",
+      "date_guess": "1992-09",
+      "index_page_no": 137,
+      "evidence": [
+        { "page_id": "A_0077_L", "signal": "heading", "excerpt": "Saturday 5th September We set off at 8.50. ... We arrived at the Peak District + walked for 3 hours in Goyt Valley." },
+        { "page_id": "A_0077_R", "signal": "place", "excerpt": "We reached the campsite at 6.0. King Sterndale, east of Buxton." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0077_L closes the Beauchamp concert outing at the top (Aug 30 Gloucester docks + drove home after Thomas' concert) then opens the Peak District trip at 'Saturday 5th September'.",
+      "confidence": 0.75,
+      "notes": "Peak District weekend, Goyt Valley/Buxton, camping at King Sterndale. Matches volA index p137 King Sterndale, Goyt Valley, Buxton (1992)."
+    },
+    {
+      "start_page_id": "A_0078_L",
+      "kind": "trip",
+      "title_guess": "York (Rowntree Park, Jorvik, Minster)",
+      "date_guess": "1992-10",
+      "index_page_no": 138,
+      "evidence": [
+        { "page_id": "A_0078_L", "signal": "heading", "excerpt": "Friday October 23rd. 1992 Simon, Eve, William, John & Charles set out for York." },
+        { "page_id": "A_0078_L", "signal": "place", "excerpt": "We end up on the Rowntree Park Caravan Site, near the river just south of the city." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0078_L (p137 wraps to here) closes the Peak District/King Sterndale trip at the top ('the rain was coming across horizontally, so we gave up.... & all went home. Sir left 5 days later.') then opens the York trip at 'Friday October 23rd. 1992'.",
+      "confidence": 0.85,
+      "notes": "York autumn trip (Jorvik Centre, Minster), Rowntree Park caravan site. Matches volA index p138 York (1992). Trip appears to continue past the end of this window."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "York trip starting A_0078_L (Oct 1992) continues past this window",
+  "notes": "Window A_0049-A_0078 spans the tail of the 1991 France holiday through to the October 1992 York trip. The diary intersperses major holidays (1991 France return, 1992 France, 1992 Thorpeness) with numerous short weekend/overnight outings, often several per page, so several boundaries are flagged mixed:true where one physical page ends one outing and opens the next. Page numbers in the bundle are frequently null on left-hand pages; boundaries cited by page_id. Index references are to volA_index.json (the 1989-1992 master index)."
+}

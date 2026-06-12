@@ -1,0 +1,81 @@
+{
+ "trip_id": "1995-belton-in-rutland-northamptonshire-naseby",
+ "title_guess": "Belton-in-Rutland & Northamptonshire (Naseby)",
+ "date_guess": "1995-06",
+ "volume": "A",
+ "spread_range": [
+  "A_0152",
+  "A_0153"
+ ],
+ "mixed_start": true,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "A_0152_R",
+   "no": 85,
+   "dates": [
+    {
+     "raw": "Sunday June 18",
+     "iso": "1995-06-18"
+    },
+    {
+     "raw": "Saturday 24th June",
+     "iso": "1995-06-24"
+    },
+    {
+     "raw": "June 14th",
+     "iso": "1995-06-14"
+    }
+   ],
+   "headings": [
+    "Sunday June 18",
+    "Saturday 24th June"
+   ],
+   "places": [
+    "Middleton Hall",
+    "Northamptonshire",
+    "Nasby",
+    "Leicester",
+    "Belton-in-Rutland"
+   ],
+   "legibility": 0.88,
+   "boundary_mixed": true,
+   "text": "Sunday June 18\n\t__Simon, Eve, Thomas, William, John + Charles went to Middleton Hall for Mary Cohen's afternoon concert.__ Peter cathedralled & lunched at Susan & Simon Smith's. William watched rugger on TV in the van. Thomas played his violin. Charles, Simon & Eve listened to all the concert. Mark Hick joined William. It was a lovely sunny afternoon. We had a picnic lunch.\n\nSaturday 24th June\n\t__We left at 9.05 for Northamptonshire.__ Simon, Eve, Karoleia, William, Peter, John, Charles. We had coffee on the way at __Nasby__. Fairfax & Ireton won the battle against Prince Rupert. Dead Bodies lay all the way to Leicester. The 350th anniversary was on June 14th. It happened 1645.\n\tIt is most disappointing that it is raining slightly & not very warm.\n\tWe arrived at __Belton-in-Rutland__ *** at 11.45. There is a pretty farm house with horses & portabloos. About 15 caravans."
+  },
+  {
+   "page_id": "A_0153_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Sunday June 25th",
+     "iso": "1995-06-25"
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Rutland Water"
+   ],
+   "legibility": 0.9,
+   "text": "John & Charles play on the see-saw & rope ladder.\n    We had lunch inside, because it is horribly damp, windy & cold, & then walked up to look at the church. The Gough family gave a window to St. George. There is a face with donkey ears, sticking its tongue out in the piscina. The font is 13 or 14.\n    We continued on 1½ miles around the village & countryside. 5 horses stood around Eve in a field. Simon carried Charles over the nettles. Peter felt ill & William listened to rugger on the radio so they both stayed behind at the van. We had played cricket when we got back. Most people had left the campsite to cycle around Rutland Water.\n    In the evening we had a barbeque - lamb chops, sausages, & veg & beef kebabs.\n    __Sunday June 25th__\n    Church at 9.0. Carefully modulated tones. Returned to wash up, elevenses, & put away tents."
+  },
+  {
+   "page_id": "A_0153_R",
+   "no": null,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Upper [?Cautres]",
+    "Uppingham"
+   ],
+   "captions": [
+    "Sunny supper at Upper [?Cautres] after a very wet days' riding"
+   ],
+   "legibility": 0.8,
+   "boundary_mixed": true,
+   "text": "John wailing over writing a butterfly poem.\n[photo caption, rotated left margin:] Sunny supper at Upper [?Cautres] after a very wet days' riding\n    After failing to get lunch at a village pub, we ate at a coaching inn in Uppingham & returned home in the sun."
+  }
+ ]
+}

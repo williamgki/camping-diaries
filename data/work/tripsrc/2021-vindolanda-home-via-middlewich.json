@@ -1,0 +1,41 @@
+{
+ "trip_id": "2021-vindolanda-home-via-middlewich",
+ "title_guess": "Vindolanda (& home via Middlewich)",
+ "date_guess": "2021-07",
+ "volume": "B",
+ "spread_range": [
+  "B_0350",
+  "B_0350"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "B_0350_R",
+   "no": null,
+   "dates": [
+    {
+     "raw": "4th of July",
+     "iso": null
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Vindolanda",
+    "Sutton Hoo",
+    "Manchester",
+    "Brook House Farm",
+    "Middlewich"
+   ],
+   "captions": [
+    "The most extraordinary of all Vindolanda's letters - the birthday party invitation from Claudia Severa to Sulpicia Lepidina, the wife of Vindolanda's prefect. It dates to the period A.D. 100/104 and the closing salutation, in Claudia Severa's hand, represents the earliest surviving writing by a woman."
+   ],
+   "legibility": 0.82,
+   "boundary_mixed": true,
+   "text": "Unfortunately we walked out in a shower of rain & our legs got v. wet. We had coffee to warm up. There were diggers excavating with enthusiasm. We had lunch at the cafe + enjoyed the indoor museum. Recent excavations were started in 1938, the same as the Sutton Hoo.\n\nCharles has sent a 4th of July video from the U.S. We have driven down to beyond Manchester for the night. Brook House Farm Middlewich. Wish more salt. There's a salt mining museum nearby. (until 1986)"
+  }
+ ]
+}

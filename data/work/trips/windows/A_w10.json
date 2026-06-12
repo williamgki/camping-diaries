@@ -1,0 +1,159 @@
+{
+  "window_id": "A_w10",
+  "spread_range": ["A_0217", "A_0246"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0217_L",
+      "kind": "trip",
+      "title_guess": "France 1997: Burgundy & home (continuation)",
+      "date_guess": "1997-08",
+      "index_page_no": 47,
+      "evidence": [
+        { "page_id": "A_0217_L", "signal": "narrative", "excerpt": "We shopped at Monastier Ecomarket... Beyond Givry we reached St. Jean le Vaux." },
+        { "page_id": "A_0218_R", "signal": "route_sketch", "excerpt": "[Hand-drawn map of France]... FRANCE 1997 (page no. 48)" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8,
+      "notes": "Trip already open from previous window (book3 France 1997 trip). Window opens mid-trip at St. Jean le Vaux / Givry; page 48 is a decorative FRANCE 1997 route map within the same trip. Returns home on A_0219_L."
+    },
+    {
+      "start_page_id": "A_0219_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp (Greenbelt weekend)",
+      "date_guess": "1997-08-22",
+      "index_page_no": 49,
+      "evidence": [
+        { "page_id": "A_0219_L", "signal": "return_home", "excerpt": "We picked up Tonic + arrived home at 4.30." },
+        { "page_id": "A_0219_R", "signal": "departure", "excerpt": "August 22nd Friday. 5.25. William, John, Charles, Simon + Eve left home. (Thomas at Greenbelt.) We didn't arrive at Beauchamp until 7.0." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0219_R: top of page finishes France 1997 (check tyre pressure / arrived home at 4.30) then the Aug 22nd Beauchamp/Greenbelt weekend begins at 'August 22nd Friday.'; the same page later also begins the next trip (see next boundary).",
+      "confidence": 0.85,
+      "notes": "Short Beauchamp weekend (Peter's Haydn quartet, Gus King visit), returns 'home after a cup of tea' on Sat 23rd."
+    },
+    {
+      "start_page_id": "A_0219_R",
+      "kind": "trip",
+      "title_guess": "Malmesbury (Burton Hill family weekend)",
+      "date_guess": "1997-09-06",
+      "index_page_no": 50,
+      "evidence": [
+        { "page_id": "A_0219_R", "signal": "departure", "excerpt": "Saturday September 6th. 11.10. We motored to Malmesbury listening to Princess Diana's funeral on the radio." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0219_R: the Malmesbury trip starts at 'Saturday September 6th.' on the same page that ends the France trip and starts the Beauchamp weekend (third dated section on this page).",
+      "confidence": 0.8,
+      "notes": "Index book3 p.50 'Malmesbury'. Continues on A_0220 (Burton Hill, Sun Sept 7th)."
+    },
+    {
+      "start_page_id": "A_0221_L",
+      "kind": "trip",
+      "title_guess": "Welland (The Anchor) & the Malverns",
+      "date_guess": "1997-09-20",
+      "index_page_no": 50,
+      "evidence": [
+        { "page_id": "A_0221_L", "signal": "return_home", "excerpt": "We left, after a very good weekend, at 3.30." },
+        { "page_id": "A_0221_L", "signal": "departure", "excerpt": "Fri 20 Sept. Simon, Eve John & Charles left home with Tonic to camp at a pub The Anchor at East[?Ington] Welland" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0221_L: opening lines close the Malmesbury weekend ('We left, after a very good weekend, at 3.30.') then the Welland trip begins at 'Fri 20 Sept.'",
+      "confidence": 0.8,
+      "notes": "Index book3 p.50 'East of Welland'. Boys' walk, Castlemorton Common, walk to top of Malverns / hang-gliders. Returns home 6pm on A_0221_R."
+    },
+    {
+      "start_page_id": "A_0221_R",
+      "kind": "trip",
+      "title_guess": "London: Greenwich, Imperial War Museum, Tate (Picketts Lock)",
+      "date_guess": "1997-10-25",
+      "index_page_no": 51,
+      "evidence": [
+        { "page_id": "A_0221_R", "signal": "return_home", "excerpt": "we drove William & Thomas back to school & set off home, arriving at 6 pm" },
+        { "page_id": "A_0221_R", "signal": "departure", "excerpt": "Sat October 25th. All 7 of us set off for London at 10.45... Lee Valley Leisure Centre Picketts Lock." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0221_R: top closes the Welland trip ('set off home, arriving at 6 pm') then the London half-term trip begins at 'Sat October 25th.'",
+      "confidence": 0.85,
+      "notes": "Index book3 p.51 'London Greenwich / Imp War Museum / Tate'. Half-term at Picketts Lock; Greenwich Oct 26, IWM/Tate Oct 27, Madame Tussauds/Mousetrap Oct 28. Spans A_0221_R-A_0225_L."
+    },
+    {
+      "start_page_id": "A_0225_R",
+      "kind": "trip",
+      "title_guess": "1998: Northamptonshire — Naseby, Waddanhoe, Oundle",
+      "date_guess": "1998-04-04",
+      "index_page_no": 55,
+      "evidence": [
+        { "page_id": "A_0225_L", "signal": "return_home", "excerpt": "We trained + bussed back to the van at Picketts Lock, + drove home, (arriving about 10?)" },
+        { "page_id": "A_0225_R", "signal": "heading", "excerpt": "1998 / April 4th. Noon we left home for Northamptonshi[re]... We turned off the A14 + had lunch at the village hall at Naseby." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0225_R: top finishes the London trip ('drove home, arriving about 10?') then a new year/section opens '1998 / April 4th. ... we left home for Northamptonshire.'",
+      "confidence": 0.85,
+      "notes": "Index book4 p.55 'Oundle'. Year marker '1998' on this page. Naseby, Waddanhoe/Nene Valley, Oundle Palm Sunday. Heads home on A_0226_R."
+    },
+    {
+      "start_page_id": "A_0226_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp & Gloucester (John's music course)",
+      "date_guess": "1998-04-07",
+      "index_page_no": 56,
+      "evidence": [
+        { "page_id": "A_0226_R", "signal": "return_home", "excerpt": "We have set off through rainstorms for home. Matt is leaving at New St. Sta. for Bristd." },
+        { "page_id": "A_0226_R", "signal": "departure", "excerpt": "April 7th. Peter, John, Charles, Eve left for Beauchamp at 8.30. am. John is on a music course." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0226_R: middle of the page ends the Oundle trip (heading home, dropping Matt Moon at New Street) then 'April 7th.' begins the Beauchamp/Gloucester trip.",
+      "confidence": 0.8,
+      "notes": "Index book4 p.56 'Beauchamp, Gloucester'. Taynton, Gloucester Waterways Museum, John's end-of-course concert. Spans A_0226_R-A_0228_L. (Possible this is one continuous Easter outing with the Oundle trip; reported separately because of explicit 'set off for home' + new departure, confidence reflects mild doubt.)"
+    },
+    {
+      "start_page_id": "A_0228_R",
+      "kind": "trip",
+      "title_guess": "Abbey Dore / Golden Valley & Hanley Swan (Malvern)",
+      "date_guess": "1998-04-24",
+      "index_page_no": 58,
+      "evidence": [
+        { "page_id": "A_0228_R", "signal": "return_home", "excerpt": "we wanted to return quickly. But it rained heavily all the way... only reached home after 2 hours." },
+        { "page_id": "A_0228_R", "signal": "departure", "excerpt": "April 24th Friday. S,E,J,C,5·30. we left to camp west of Hereford... staying at Abbey Dore, at the end of Golden Valley." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0228_R: top closes the Beauchamp/Gloucester trip ('only reached home after 2 hours') then 'April 24th Friday.' begins the Abbey Dore trip.",
+      "confidence": 0.8,
+      "notes": "Index book4 p.58 'Abbey Dore, Golden Valley' and p.59 'Hanley Swan'. Abbey Dore (Apr 24-26) flows into Blackmore campsite at Hanley Swan / St Edmunds concert; treated as one outing. Spans A_0228_R-top of A_0230_R."
+    },
+    {
+      "start_page_id": "A_0230_R",
+      "kind": "trip",
+      "title_guess": "Malvern, Dunar & Wales (Festiniog, Machynlleth)",
+      "date_guess": "1998-05-22",
+      "index_page_no": 61,
+      "evidence": [
+        { "page_id": "A_0230_R", "signal": "departure", "excerpt": "Friday May 22nd. We set off to Malvern to hear Thomas & Peter playing in the orchestra for the summer concert. We parked outside No 7." },
+        { "page_id": "A_0231_L", "signal": "narrative", "excerpt": "by 3.45. we reache[d] Dunar. We had a campfire + there were midges." },
+        { "page_id": "A_0232_L", "signal": "narrative", "excerpt": "Tuesday May 26th... Festiniog Railway at Penrhyn... Wednesday 27th May... reached Machynlleth before lunch." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0230_R: top finishes the Abbey Dore/Hanley Swan outing (ostrich farm lunch, bluebell wood at Midsummer Hill) then 'Friday May 22nd' begins the Malvern/Wales trip.",
+      "confidence": 0.75,
+      "notes": "Index book4 p.61 'Ainas, Festiniog' and p.62 'Machynlleth'. Malvern concert -> Dunar -> Festiniog Railway -> Machynlleth -> home via Woodpecker Hall (A_0232_R). One continuous late-May half-term outing."
+    },
+    {
+      "start_page_id": "A_0232_R",
+      "kind": "trip",
+      "title_guess": "Norway & Sweden 1998 (Bergen, fjords, Oslo)",
+      "date_guess": "1998-07-27",
+      "index_page_no": 62,
+      "evidence": [
+        { "page_id": "A_0232_R", "signal": "return_home", "excerpt": "we had a delicious filthy veggie lunch, then came home via Woodpecker Hall, Monmouth." },
+        { "page_id": "A_0232_R", "signal": "departure", "excerpt": "July 27th Monday S.E.W.A.J.C. ... We left home after Tom's visit at 9.40 & headed north... North Shields, New Castle... in time for the queue to get on the Ferry to Bergen." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0232_R: top closes the Wales trip ('came home via Woodpecker Hall, Monmouth') then 'July 27th Monday' begins the Norway ferry trip ('left home... headed north... Ferry to Bergen').",
+      "confidence": 0.9,
+      "notes": "Index book4 p.62 'Newcastle, Bergen' onward. Bergen, Voss, Laerdal, Borgund/Urnes stave churches, Nigardsbreen glacier, Forde hospital, Ringebu, Koppang, Sweden (Holjes/Sunne), Oslo museums, Kongsberg. Runs to window end (A_0246) and continues into the next window (index shows Rjukan, Setesdal, Stavanger, home p.80 Beauchamp)."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Norway/Sweden 1998 trip starting A_0232_R is still in progress at A_0246 (Kongsberg) and continues past this window",
+  "notes": "Window is mixed-heavy: trips are short and packed, with most transitions falling mid-page on right-hand pages (A_0219_R, A_0221_R, A_0226_R, A_0228_R, A_0230_R, A_0232_R). A_0235_R is a printed newspaper clipping with no diary text (belongs to surrounding Norway trip). The 'FRANCE 1997' map on A_0218_R is decorative within the continuing France trip, not a new trip. Index page numbers reference volA_book3 (1995-1998) and volA_book4 (1998-2003)."
+}

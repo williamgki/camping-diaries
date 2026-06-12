@@ -1,0 +1,203 @@
+{
+  "window_id": "A_w11",
+  "spread_range": ["A_0241", "A_0270"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0241_L",
+      "kind": "trip",
+      "title_guess": "Norway & Sweden 1998 (Setesdal, Stavanger; via Sunne/Oslo) — in progress",
+      "date_guess": "1998-08",
+      "index_page_no": 77,
+      "evidence": [
+        { "page_id": "A_0241_L", "signal": "narrative", "excerpt": "We followed the river down into Sweden... At the Swedish campsite Holjes... (mid-trip; Norway/Sweden narrative already underway)" },
+        { "page_id": "A_0251_R", "signal": "route_map", "excerpt": "Norway 1998 / Sweden / 1,500 miles. [hand-drawn route map: Stavanger, Setesdal, Oslo, Rjukan, Laerdal, Bergen, Sunne, Karlstad]" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Window opens in the middle of the 1998 Norway/Sweden trip; the trip START is in the previous window. Book3 index pages 61-77 (Ainas/Festiniog, Newcastle/Bergen, Sognafjord, Stavanger) cover this trip.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0251_L",
+      "kind": "trip",
+      "title_guess": "N. Wales drop-offs: Conway / Rhiwiau, Dolwyddelan, Llandudno",
+      "date_guess": "1998-08",
+      "index_page_no": 79,
+      "evidence": [
+        { "page_id": "A_0251_L", "signal": "return", "excerpt": "Anne Smith kindly gave us buns + crisps + drinks for tea. Then we drove off home." },
+        { "page_id": "A_0251_L", "signal": "departure", "excerpt": "August 22nd Saturday. Thomas, Peter, John, Charles, Simon + Eve, set off at 10. to pick up Dorothy Saner, the German au pair, from Frederik Rd.... We reached Conway at 1." },
+        { "page_id": "A_0252_L", "signal": "heading", "excerpt": "Aug 28th Fri. Simon + Eve set off for N. Wales... reached Llandudno" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0251_L: the Norway/Sweden 1998 trip ENDS at 'Then we drove off home.'; a new N. Wales outing (Conway/Rhiwiau to drop off the au pair, then Dolwyddelan camp, then a separate Simon+Eve Llandudno run) STARTS at 'August 22nd Saturday... set off at 10.' The Norway route map on A_0251_R belongs retrospectively to the just-ended Norway trip.",
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "A_0253_L",
+      "kind": "non_trip",
+      "title_guess": "Glued-in obituary clipping: Einar Skinnarland (hero of Telemark / Vemork heavy water)",
+      "date_guess": "2002-12",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0253_L", "signal": "narrative", "excerpt": "EINAR SKINNARLAND. Resistance worker who thwarted the production of heavy water for a German atomic bomb... He died in Toronto on December 5, 2002." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.75
+    },
+    {
+      "start_page_id": "A_0254_R",
+      "kind": "trip",
+      "title_guess": "France 1991 (Montreuil, Rouen, Chartres) — retrospective entry",
+      "date_guess": "1991-07",
+      "index_page_no": 79,
+      "evidence": [
+        { "page_id": "A_0254_L", "signal": "return", "excerpt": "(Trimpley barbeque/holiday narrative) ... We had tea at Trimpley on the way home." },
+        { "page_id": "A_0254_R", "signal": "heading", "excerpt": "Our trip to France 1991. July 11th. mileage 1979. We left at 12.45. Slight hold-up at Chad Circus... straight onto the ferry... In France at 7.0... camped in Fontaines des Cleres campsite at Montreuil." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0254_L is the tail of a Trimpley barbeque narrative ('We had tea at Trimpley on the way home.'); A_0254_R opens a 1991 France trip ('Our trip to France 1991. July 11th. We left at 12.45...'). Large date discontinuity (1998 narrative -> 1991) — these pages are written out of chronological order; index_page_no 79 refers to the vol-A main index 'Montreuil' 1991 entry.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0255_L",
+      "kind": "non_trip",
+      "title_guess": "Notebook (Book 4) title page: Kirby, 86 Westfield Rd, Edgbaston — Sept 1998 to Aug 2003",
+      "date_guess": "1998-09",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0255_L", "signal": "heading", "excerpt": "Kirby 86 Westfield Rd., Edgbaston, Birmingham B153 JG. September 4th 1998 - August 8th 2003 [glued-in Eisenach Bachhaus ticket]" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Front/title flyleaf of a new notebook (Vol A Book 4). A_0255_R is blank. Belongs to the index/front-matter, not a van trip.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "A_0256_L",
+      "kind": "non_trip",
+      "title_guess": "Handwritten index (Book 4): trips 1999-2003",
+      "date_guess": "1999",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0256_L", "signal": "index", "excerpt": "1. Bourton-on-the-Water  2. Slaughter, Rahnege  3. London 1999 ... 34 Bath 2001 ... (index_page: true)" },
+        { "page_id": "A_0256_R", "signal": "index", "excerpt": "79 Eden Project, Cornwall 2003 ... 91 Weimar (index_page: true)" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Two facing index pages of Book 4. Not a trip.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0257_R",
+      "kind": "trip",
+      "title_guess": "Cotswolds long weekend: Bourton-on-the-Water, Slaughters (with Thomas/Tonic)",
+      "date_guess": "1998-09",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "A_0257_R", "signal": "heading", "excerpt": "September 3rd 1998. Thursday. William (nearly 17) Peter 15, John 11, Charles & Simon & Eve set off at 6.45. for a long weekend in the Cotswolds... arrived at Moors Farm, one km north east of Bourton-on-the-Water." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0258_R",
+      "kind": "trip",
+      "title_guess": "Radnage / Oxford (Chiltern) weekend with David & Sally",
+      "date_guess": "1998-10",
+      "index_page_no": 2,
+      "evidence": [
+        { "page_id": "A_0258_R", "signal": "return", "excerpt": "Off to church at Lower Slaughter... Back to the camp to pack up." },
+        { "page_id": "A_0258_R", "signal": "heading", "excerpt": "Friday 2nd October. We left at 5.15. to meet William & Peter at the Oxford Services off the Malvern coach. David & Sally... joined us at Radnage near Oxford at 7.30." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0258_R: the Cotswolds/Bourton trip ENDS ('Off to church at Lower Slaughter... Back to the camp to pack up.'); the Radnage/Oxford weekend STARTS at 'Friday 2nd October. We left at 5.15.'",
+      "confidence": 0.82
+    },
+    {
+      "start_page_id": "A_0259_R",
+      "kind": "trip",
+      "title_guess": "London (Earl's Court/Fatana, Lee Valley campsite; Madame Tussaud's, National Gallery, St Bartholomew, Tate)",
+      "date_guess": "1998-10",
+      "index_page_no": 3,
+      "evidence": [
+        { "page_id": "A_0259_R", "signal": "departure", "excerpt": "We... shared lunch & set off home. Saturday October 24th. We set off for lunch with Fatana at Earl's Court via the dog kennel... arrived at the Lee Valley campsite." },
+        { "page_id": "A_0262_L", "signal": "return", "excerpt": "Then we returned back to the campsite + home for the winter." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0259_R: the Radnage/Oxford weekend ENDS ('...shared lunch & set off home.'); the London half-term trip STARTS at 'Saturday October 24th. We set off for lunch with Fatana at Earl's Court.' This trip closes the 1998 season at A_0262_L ('...home for the winter.').",
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "A_0263_L",
+      "kind": "trip",
+      "title_guess": "Sussex: Hove (Gravestocks), Washington campsite, Bramber Castle, Brighton Pavilion/Pier",
+      "date_guess": "1999-04",
+      "index_page_no": 6,
+      "evidence": [
+        { "page_id": "A_0263_L", "signal": "heading", "excerpt": "April 10th 1999 Saturday. John sang... on Saturday at 9 am we set off for Sussex. We left Tonic at kennels... on to the Gravestocks in Hove." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0265_L",
+      "kind": "trip",
+      "title_guess": "Norfolk/Fens: Little Snoring, Letheringsett Hall, Chippenham Park, Ely, Stretham",
+      "date_guess": "1999-04",
+      "index_page_no": 9,
+      "evidence": [
+        { "page_id": "A_0265_L", "signal": "return", "excerpt": "we took Simon back home... We set off through more showers for Birmingham." },
+        { "page_id": "A_0265_L", "signal": "heading", "excerpt": "April 30th. After Charles' cricket practice we left for Fakenham at 6.10... Little Snoring was very good." },
+        { "page_id": "A_0266_R", "signal": "return", "excerpt": "We stopped off at Guy Rogerson's on the way home... Then on home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0265_L: the Sussex/Brighton trip ENDS ('...took Simon back home... set off through more showers for Birmingham.'); the Norfolk/Fens trip STARTS at 'April 30th. After Charles' cricket practice we left for Fakenham at 6.10.' Trip closes at A_0266_R ('...Then on home.').",
+      "confidence": 0.82
+    },
+    {
+      "start_page_id": "A_0267_R",
+      "kind": "trip",
+      "title_guess": "Malvern (Peter's concert) & Dinas/Brecon, Port Maddock/Portmeirion",
+      "date_guess": "1999-05",
+      "index_page_no": 11,
+      "evidence": [
+        { "page_id": "A_0267_R", "signal": "heading", "excerpt": "Fri May 28th. 9.20pm Simon & John set off for Malvern... We heard the choir in the Priory... 4.45. All of us set off for Dinas." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.82
+    },
+    {
+      "start_page_id": "A_0268_R",
+      "kind": "trip",
+      "title_guess": "Cambridge (David & Debbie Ford, St John's College)",
+      "date_guess": "1999-06",
+      "index_page_no": 12,
+      "evidence": [
+        { "page_id": "A_0268_R", "signal": "return", "excerpt": "...then on to Portmeirion... We stopped at the Burgher King outside Shrewsbury." },
+        { "page_id": "A_0268_R", "signal": "heading", "excerpt": "Saturday June 26th. Simon, Eve & Charles set off for Cambridge at 10.30... arrived on David & Debbie Ford's drive." },
+        { "page_id": "A_0269_R", "signal": "return", "excerpt": "...before going home" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0268_R: the Malvern/Dinas/Portmeirion trip ENDS ('...stopped at the Burgher King outside Shrewsbury.'); the Cambridge trip STARTS at 'Saturday June 26th. Simon, Eve & Charles set off for Cambridge at 10.30.' Trip closes at A_0269_R ('...before going home').",
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "A_0270_L",
+      "kind": "trip",
+      "title_guess": "Scotland 1999: Orton/Lake District, Glasgow (Art Lover's House, School of Art), Balloch/Loch Lomond",
+      "date_guess": "1999-07",
+      "index_page_no": 13,
+      "evidence": [
+        { "page_id": "A_0270_L", "signal": "departure", "excerpt": "Sat 31st July. We set off at 4 pm, S, E, W, P, J, C... motored up to Orton near the Lake District... lunch at the Art Lover's Ho, Glasgow." },
+        { "page_id": "A_0270_R", "signal": "narrative", "excerpt": "Monday Aug 2nd. We went back into Glasgow... up the hill to the School of Art tour at 11. (narrative cut off — trip continues past window)" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Scotland 1999 trip starting A_0270_L (Orton -> Glasgow -> Balloch -> Oban/Mull/Iona per index pp.14-18) continues past the end of this window.",
+  "notes": "Window straddles the end of Vol A Book 3 (Norway/Sweden 1998 trip, with a retrospective 1991 France entry and a glued obituary clipping) and the start of Book 4. A_0255 (title flyleaf) and A_0256 (Book 4 index pages) are non-trip front matter. Book 4's 1998-1999 trips are short weekend/half-term outings often stacked on mixed pages (A_0258, A_0259, A_0265, A_0268). The 1991 France entry at A_0254_R is written out of chronological sequence (date discontinuity) and is reported with lower confidence. The Norway trip at the window head and the Scotland trip at the window tail both span the window edges."
+}

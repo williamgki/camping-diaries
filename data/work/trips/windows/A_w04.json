@@ -1,0 +1,158 @@
+{
+  "window_id": "A_w04",
+  "spread_range": ["A_0073", "A_0102"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0073_L",
+      "kind": "trip",
+      "title_guess": "France: Loire / Conques / Chartres (return leg) [1992 summer trip, continuing from previous window]",
+      "date_guess": "1992-08",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0073_L", "signal": "route_sketch", "excerpt": "[Route sketch of France, labelled 1992] le thore / Vallée de la Seine / Châteaux de la Loire / Bourges / Périgord Caves / Gorges de Truyères / Cassaniouze / Conques" },
+        { "page_id": "A_0073_R", "signal": "date", "excerpt": "Wed August 5th ... We drove for 8 hours & ended up camping ... in Salbris" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Window opens mid-trip. This is the return leg of the 1992 summer France/Loire holiday (van page no. 133-135); it began in the previous window. Ends on A_0077_L with the Gloucester concert and 'we drove home'."
+    },
+    {
+      "start_page_id": "A_0077_L",
+      "kind": "trip",
+      "title_guess": "Peak District: Goyt Valley, Buxton, King Sterndale",
+      "date_guess": "1992-09-05",
+      "index_page_no": 137,
+      "evidence": [
+        { "page_id": "A_0077_L", "signal": "departure_heading", "excerpt": "__Saturday 5th September__ We set off at 8.50. + had breakfast on the motorway services ... We arrived at the __Peak District__ + walked for 3 hours in __Goyt Valley__" },
+        { "page_id": "A_0077_R", "signal": "place", "excerpt": "We reached the campsite at 6.0. King Sterndale, east of Buxton." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0077_L: top of page ends the 1992 summer-France trip (Gloucester antique warehouse + docks, Thomas' orchestral concert, '...we drove home'). The new Peak District trip starts at the '__Saturday 5th September__' heading.",
+      "confidence": 0.85,
+      "notes": "Index book1 (volA_index) p.137 'King Sterndale, Goyt Valley, Buxton' 1992 matches."
+    },
+    {
+      "start_page_id": "A_0078_L",
+      "kind": "trip",
+      "title_guess": "York: Jorvik, Minster, Conisborough Castle",
+      "date_guess": "1992-10-23",
+      "index_page_no": 138,
+      "evidence": [
+        { "page_id": "A_0078_L", "signal": "departure_heading", "excerpt": "__Friday October 23rd. 1992__ Simon, Eve, William, John & Charles set out for York ... Finally we reach __York__ almost via Wetherby" },
+        { "page_id": "A_0078_R", "signal": "place", "excerpt": "We reach the __Jorvic Centre__ at 9.25 ... went on to the __Minster__" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0078_L: opening lines close the Peak District / King Sterndale trip ('On the Sunday Simon, Thomas, Eve & John attempted a walk ... so we gave up ... & all went home. Sir left 5 days later.'). The York trip starts at the '__Friday October 23rd. 1992__' heading.",
+      "confidence": 0.9,
+      "notes": "Index book1 (volA_index) p.138 'York' 1992 matches. Trip runs A_0078-A_0081 (Conisborough Castle, p.140 'Coningsby' index). A_0082 (rating-key + blank) belongs to this trip's tail."
+    },
+    {
+      "start_page_id": "A_0083_R",
+      "kind": "non_trip",
+      "title_guess": "Camping Van Log 2 - front matter (title / address / Autun frontispiece)",
+      "date_guess": "1993-04",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0083_R", "signal": "heading", "excerpt": "Camping Van Log 2     April '93. 86 Westfield Rd, Edgbaston, B15 3JG. Autun" },
+        { "page_id": "A_0083_L", "signal": "caption", "excerpt": "Autun [frontispiece image]" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Physical book boundary: end of Book 1 (A_0001-A_0083) and start of Book 2 (A_0084-A_0167). A_0083 is the new notebook's title page / frontispiece, not a van trip."
+    },
+    {
+      "start_page_id": "A_0084_L",
+      "kind": "non_trip",
+      "title_guess": "Book 2 handwritten index (1993-1995 trips list)",
+      "date_guess": "1993",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0084_L", "signal": "index_page", "excerpt": "P.2. ... 1993 Hungerford, Newbury / Chandlers Ford / 3. Romsey, Portsmouth ... 62 West ...; Grasmere, Troutb[eck]" },
+        { "page_id": "A_0084_R", "signal": "index_page", "excerpt": "63 Upper Cantref ... 78 Salamanca" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9,
+      "notes": "Handwritten index spread for Book 2 (flagged index_page:true). Scaffold, not a trip."
+    },
+    {
+      "start_page_id": "A_0085_R",
+      "kind": "non_trip",
+      "title_guess": "Spain 1995 section divider / route map ('Katrien Spain', p.67-end)",
+      "date_guess": "1995",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0085_R", "signal": "route_sketch", "excerpt": "Katrien Spain / p. 67 - end. [route map of Spain and Portugal] passin Picos 1250 m. (A) ... Las Huertas 1710 (E)" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.5,
+      "notes": "A forward-reference section header / altitude key for the 1995 Spain trip (van pages 67 onward, year '95). It is physically placed here at the front of Book 2 but the trip narrative itself sits much later (book2 index pages 67-78). Treating the divider page as a non_trip scaffold; the merge step can attach it to the Spain trip. Low confidence on classification."
+    },
+    {
+      "start_page_id": "A_0086_R",
+      "kind": "trip",
+      "title_guess": "Italy/Switzerland 1993: via Ogbourne St George, Portsmouth, St Gotthard, Lugano, Cremona, Parma",
+      "date_guess": "1993-04-16",
+      "index_page_no": 2,
+      "evidence": [
+        { "page_id": "A_0086_R", "signal": "departure_heading", "excerpt": "April 16th 1993 Friday. We set off from home at 2.40. on Charles' birthday ... The Ogbourne St. George ****" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Van page no. 1 of Book 2. This trip starts the long 1993 Italy holiday but the FIRST leg (16-20 April, Easter) is a short out-and-back: Ogbourne St George, Newbury, Hungerford, Chandlers Ford, Winchester, Portsmouth, Surrey/Leatherhead, London Finsbury Circus, ending 'tiring drive home' on A_0090_L. Matches book2 index p.2 'Hungerford, Newbury, Chandlers Ford' / p.3 'Romsey, Portsmouth' / p.4 'Finsbury Circus' (all 1993). NOTE: the later (July) continuation of this same notebook leg is the actual Italy trip starting A_0094_L; the April section may be a SEPARATE Easter weekend rather than one continuous Italy trip - see A_0090_L return home."
+    },
+    {
+      "start_page_id": "A_0090_R",
+      "kind": "trip",
+      "title_guess": "Manifold Valley / Market Drayton (Fair Oak, Broughton Hall)",
+      "date_guess": "1993-05-08",
+      "index_page_no": 5,
+      "evidence": [
+        { "page_id": "A_0090_R", "signal": "departure_heading", "excerpt": "Saturday 8th May. An exhilarating day! We left at 8.25 am ... We reached the __Manifold Valley__ & rented bikes" },
+        { "page_id": "A_0091_L", "signal": "place", "excerpt": "Sunday May 9th. We are camped east of __Market Drayton__, near a village called 'Loggerheads'." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8,
+      "notes": "A_0090_L (left page) ends the April Surrey/London leg ('tiring drive home'); the new Manifold Valley trip begins on the facing right page A_0090_R, so the break is at the spread fold, not mixed within a single page. Book2 index p.5 'Manifold Valley' and p.6 'Market Drayton' (1993) match. Trip ends A_0091_R with 'on the way home' (Wolverhampton camping shop)."
+    },
+    {
+      "start_page_id": "A_0092_L",
+      "kind": "trip",
+      "title_guess": "Wales: Llanbrynmair, Barmouth, Dinas, Festiniog, Ardudwy",
+      "date_guess": "1993-05-28",
+      "index_page_no": 6,
+      "evidence": [
+        { "page_id": "A_0092_L", "signal": "departure_heading", "excerpt": "May 28th. We finally left at 12.50, to go to the farm ... Arrived at 8.0. at [Cringed] [Llanbrynmair]" },
+        { "page_id": "A_0092_R", "signal": "place", "excerpt": "10.00 we left for __Barmouth__ ... Lunch time we arrived at __Dinas__" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8,
+      "notes": "Book2 index p.6 'Llanbrynmair', p.7 'Barmouth / Llanfair, Festiniog / Ardudwy' (1993) match. Trip runs A_0092-A_0093, ending A_0093_R 'We drove home via Powys Castle ... + __Montgomery__' (the Montgomery sentence completes on A_0094_L)."
+    },
+    {
+      "start_page_id": "A_0094_L",
+      "kind": "trip",
+      "title_guess": "France & Italy 1993: Rochester, Guincourt, St Gotthard, Lugano, Como, Cremona, Parma, Torrechiara",
+      "date_guess": "1993-07-11",
+      "index_page_no": 8,
+      "evidence": [
+        { "page_id": "A_0094_L", "signal": "departure_heading", "excerpt": "July 11th Sunday. 7.10 am. off to France. We're taking only one tent ... We went to church at __Rochester Cathedral__" },
+        { "page_id": "A_0094_R", "signal": "place", "excerpt": "Monday July 12th ... We reached __Guincourt__ before dark ... driven towards Nancy" },
+        { "page_id": "A_0095_L", "signal": "place", "excerpt": "We drove of past __Lucerne__ + over the __St. Gottard.__" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0094_L: opening lines finish the Wales trip ('where Simon bought Eve a new blue handbag ... a large tent, a Megadome'). The new France/Italy summer trip begins at 'July 11th Sunday. 7.10 am. off to France.'",
+      "confidence": 0.9,
+      "notes": "Van page no. 9 begins on A_0094_R. Book2 index p.8 'Montgomery / Rochester', p.9 'Grincourt / St. Gottard', p.11 'Lugano', p.12 'Crema, Soncino / Lake Como', p.13 'Cremona', p.14 'Salsomaggiore Terme', p.15 'Parma', p.16 'Torrechiara' (all 1993) match. This trip continues past the end of the window (still in Italy at A_0102, Sestri Levante)."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "trip starting A_0094_L (France/Italy 1993) is still in progress at the window edge - A_0102 ends mid-Italy heading towards Sestri Levante",
+  "notes": "Window straddles the Book 1 / Book 2 physical boundary (Book 1 ends A_0083; Book 2 starts A_0084 with title page + index + Spain divider). A_0082 (rating-key + blank), A_0081 (photo + cut-off text), and other photo/blank/caption pages belong to their surrounding trips. The April 1993 Easter leg (A_0086-A_0090_L) is reported as its own trip because the narrative explicitly returns home on A_0090_L before the July Italy departure - confidence moderate; the merge step may choose to fold it differently."
+}

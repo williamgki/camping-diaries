@@ -1,0 +1,60 @@
+{
+ "trip_id": "2022-fleet-london-then-continent-france-switzerland",
+ "title_guess": "Fleet/London then Continent: France, Switzerland, Italy (Pavia, Pian del Voglio)",
+ "date_guess": "2022-06-15",
+ "volume": "B",
+ "spread_range": [
+  "B_0365",
+  "B_0365"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "B_0365_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Wednesday June 15th",
+     "iso": "2016-06-15"
+    }
+   ],
+   "headings": [
+    "Thursday"
+   ],
+   "places": [
+    "Hylton Hound Kennels",
+    "Little Bramshott Farm",
+    "Fleet",
+    "Eversley",
+    "Farley",
+    "Hounslow West",
+    "Eversley Church",
+    "London",
+    "Harrods",
+    "Berkeley Hotel",
+    "Harvey Nichols"
+   ],
+   "legibility": 0.8,
+   "text": "3pm Wednesday June 15th.\nWe left home + put Tinder in Hylton Hound Kennels at 4.\nWe arrived at Little Bramshott Farm campsite at 6.20. Near Fleet, Fussy owner, lovely oak Trees.\nIn the map the site is marked with red hatching as if War Dept. land.\nSo hot in the morning I had to wear a hat in bed to drink tea.\n__Thursday__\nWe set off [for] thru Eversley to Farley to deliver [?Lash].\nThen on to Hounslow West, underground station, to park van.\nWe stopped off to see Eversley Church where we were married nearly 48 years ago. Locked. But in the graveyard we found Charles Kingsley's tomb (quickly 2 ladies with flowers) buried with his wife,\n[strikethrough: Amabo] Anavimus, Anamus, Anabamus.\nWe trained into London on the Piccadilly line + bought chocolates at Harrods. On to the Berkeley Hotel + met Bobby + Steve in the lobby. Then back to Harvey Nichols where we had a good lunch with Peter + Nana outside. But it got a bit hot.\nWe trained back to Hounslow West + [?] set off thru"
+  },
+  {
+   "page_id": "B_0365_R",
+   "no": null,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Harvey Nichols"
+   ],
+   "captions": [
+    "Harvey Nichols"
+   ],
+   "legibility": 1,
+   "boundary_mixed": true,
+   "text": ""
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+  "window_id": "A_w13",
+  "spread_range": ["A_0289", "A_0318"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0290_R",
+      "kind": "trip",
+      "title_guess": "Bath: Bath Marina, Bristol cycle path",
+      "date_guess": "2001-05",
+      "index_page_no": 34,
+      "evidence": [
+        { "page_id": "A_0290_L", "signal": "departure_return", "excerpt": "We shan't be coming to Picketts Lock again... we'll stay in a hotel. I now have a portable CD player which makes driving along very pleasant." },
+        { "page_id": "A_0290_R", "signal": "heading", "excerpt": "Friday 4th May. 2001 5.15. Simon, Charles, Eve + Tonic left with our 3 bikes... for Bath; we want to go on the Bath/Bristol cycle path." }
+      ],
+      "mixed": false,
+      "mixed_detail": "London/Globe/Picketts Lock trip ends on the facing left page A_0290_L; Bath trip starts cleanly at the top of A_0290_R.",
+      "confidence": 0.93
+    },
+    {
+      "start_page_id": "A_0292_R",
+      "kind": "trip",
+      "title_guess": "Malvern (school speech day, Peter's 18th)",
+      "date_guess": "2001-05",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0292_R", "signal": "departure_return", "excerpt": "After elevenses we left for home. Friday May 25th Peter is 18 today!... Simon, Eve & Charles [Tonic] set off for [Malvern] at 4.45." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Bath trip ends with 'After elevenses we left for home' (Monday May 7th); the Malvern trip starts on the same page at 'Friday May 25th... set off for [Malvern] at 4.45.'",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0293_L",
+      "kind": "trip",
+      "title_guess": "Cambridge & Burwell / Wicken Fen",
+      "date_guess": "2001-05",
+      "index_page_no": 37,
+      "evidence": [
+        { "page_id": "A_0293_L", "signal": "departure_return", "excerpt": "we drove home with Chris Lowe... Sunday We left breakfastless at 6.35 am... dropped them off at the airport at 7.05." },
+        { "page_id": "A_0293_R", "signal": "narrative", "excerpt": "We reached Cambridge at 10.15, & met Richard Holroyd at William's room... punt at St. John's... a village between Cambridge & Newmarket" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Malvern trip ends Saturday ('we drove home with Chris Lowe'); the Cambridge/Burwell trip departs the next morning on the same page: 'Sunday We left breakfastless at 6.35 am'.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0295_R",
+      "kind": "trip",
+      "title_guess": "Flecknoe (Bush Hill Farm), Oxford Canal villages",
+      "date_guess": "2001-06",
+      "index_page_no": 39,
+      "evidence": [
+        { "page_id": "A_0295_R", "signal": "departure_return", "excerpt": "Wednesday May 30th We set off for home at 9.50... & arrive at noon. Friday June 22nd. We set off just after 6 for Flecknoe." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Burwell trip ends 'We set off for home at 9.50... arrive at noon' (Wed May 30th); the Flecknoe trip starts on the same page at 'Friday June 22nd. We set off just after 6 for Flecknoe.'",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0297_L",
+      "kind": "trip",
+      "title_guess": "Normandy: Etretat, Honfleur, D-Day beaches, Caen, Bayeux, Cotentin",
+      "date_guess": "2001-10",
+      "index_page_no": 41,
+      "evidence": [
+        { "page_id": "A_0297_L", "signal": "departure_return", "excerpt": "we set off home. October 6th Saturday Simon & Eve) set off for Normandy alone. Charles Boarding BC, John Malvern... We go to Guildford to see Di in hospital" },
+        { "page_id": "A_0297_R", "signal": "heading", "excerpt": "On to Portsmouth, where the ferry people had given our tickets... Left the port & camped at D'Antifer, Henqueville... On towards Etretat." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Flecknoe trip ends with cycling at Braunston then 'we set off home'; the Normandy trip starts on the same page at 'October 6th Saturday... set off for Normandy alone.'",
+      "confidence": 0.92
+    },
+    {
+      "start_page_id": "A_0308_L",
+      "kind": "trip",
+      "title_guess": "Malvern & Cambridge (half-term, pick up John & visit William)",
+      "date_guess": "2001-10",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0308_L", "signal": "departure_return", "excerpt": "At 6.15am we started driving home, collecting Tonic + Charles on the way. Saturday 20th October At Noon we went to Malvern... to pick up John... drove to Cambridge." },
+        { "page_id": "A_0308_R", "signal": "narrative", "excerpt": "his room in New Court... we are camping in Cambridge... Tickle Arms" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Normandy trip ends with the ferry home ('At 6.15am we started driving home, collecting Tonic + Charles'); a Malvern+Cambridge weekend trip starts on the same page at 'Saturday 20th October... we went to Malvern... drove to Cambridge.' Diary is non-chronological here (Oct date written after the Nov ferry).",
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "A_0309_L",
+      "kind": "trip",
+      "title_guess": "Brown Moss / Prees (plant-buying for the pond)",
+      "date_guess": "2002-04",
+      "index_page_no": 54,
+      "evidence": [
+        { "page_id": "A_0309_L", "signal": "departure_return", "excerpt": "we decided to break camp & go home... drove home. April 5th 2002 Friday At 6 we left to buy plants for the garden & new pond... Brown Moss ***" },
+        { "page_id": "A_0309_R", "signal": "narrative", "excerpt": "around Brown Moss lake. V. pretty... Off to Holly Farm nurseries... We went on to Stapeley Water Gardens." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Cambridge trip ends ('drove home'); the Brown Moss/Prees trip starts on the same page at 'April 5th 2002 Friday At 6 we left to buy plants...'",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0310_R",
+      "kind": "trip",
+      "title_guess": "St. David's, Pembroke & Solva (Pembrokeshire)",
+      "date_guess": "2002-05",
+      "index_page_no": 57,
+      "evidence": [
+        { "page_id": "A_0310_R", "signal": "departure_return", "excerpt": "Off home in hot sun to plant the plants. Friday May 24th 7 Simon, Eve & Tonic left for St. David's." },
+        { "page_id": "A_0311_R", "signal": "narrative", "excerpt": "We drove on to Pembroke Castle... St. David's... Rhosson Gand ***** ... Absolutely fabulous seascape." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Prees/Brown Moss trip ends 'Off home in hot sun to plant the plants'; the St. David's trip starts on the same page at 'Friday May 24th 7 Simon, Eve & Tonic left for St. David's.'",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0314_L",
+      "kind": "trip",
+      "title_guess": "Malvern (Jubilee) & Lyme Regis / Uplyme",
+      "date_guess": "2002-05",
+      "index_page_no": 58,
+      "evidence": [
+        { "page_id": "A_0314_L", "signal": "heading", "excerpt": "Friday Jan May 31st. 4.10. we 6ft, Simon, Eve, Charles, Tonic. Heavy Traffic... to Malvern. It's the Queen's Jubilee weekend... The drive south to Lyme Regis... Hook Farm at Uplyme" }
+      ],
+      "mixed": false,
+      "mixed_detail": "St. David's trip ends on the previous page A_0313_R ('We set off for home, via Tregaron... on our way home'); the Lyme Regis trip starts cleanly at the top of A_0314_L.",
+      "confidence": 0.88
+    },
+    {
+      "start_page_id": "A_0316_L",
+      "kind": "trip",
+      "title_guess": "Clent (day picnic in the van)",
+      "date_guess": "2002-07-07",
+      "index_page_no": 60,
+      "evidence": [
+        { "page_id": "A_0316_L", "signal": "departure_return", "excerpt": "Sunday July 7th. At 10.30. Simon, Eve, John, Charles, Kalgin picked up Annie Crews... We parked at Clent & walked around the hills... set off home to watch Wimbledon." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0316_L holds three pieces: the Lyme Regis trip ends ('Tuesday we packed in the rain... arrived home at 1 pm'), then this single-day Clent van picnic (out and home Sunday July 7th), then the France trip departure. The Clent day-trip occupies the middle of the page.",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "A_0316_L",
+      "kind": "trip",
+      "title_guess": "France 2002: Vendeuil, Chaumard, Morvan, Cluny",
+      "date_guess": "2002-07",
+      "index_page_no": 61,
+      "evidence": [
+        { "page_id": "A_0316_L", "signal": "departure_return", "excerpt": "Monday July 29th. Two days after arriving back from Thorperness we have left for France. Simon, Eve, John, Charles. Peter will fly to Lyons" },
+        { "page_id": "A_0316_R", "signal": "narrative", "excerpt": "we arrived at Vendeuil south of St. Quentin... we arrived at 7.45 pm Chaumard... a large lake here & a hydro electric dam." }
+      ],
+      "mixed": true,
+      "mixed_detail": "On A_0316_L the France trip departs ('Monday July 29th... we have left for France') after the Clent day-trip and after the Lyme Regis return; the France narrative runs to the end of the window.",
+      "confidence": 0.9
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "France 2002 trip starting A_0316_L continues past this window (still at Cluny/'Clung' on A_0318_R, mid-narrative)",
+  "notes": "Bundle header lists books A_0256-A_0350 but only spreads A_0289-A_0318 are present, so this is the reported range. Window opens mid-trip on a London/Globe Theatre/Picketts Lock outing (continues_from_previous_window). Internal page numbers ('no') are scrambled/reused across notebooks and were not used for index mapping; entries mapped by place+year against volA_book4_index (2001-2002). Diary is non-chronological around A_0308 (an October Malvern/Cambridge entry written after a November Normandy ferry return). A_0316_L is a triple-content page (Lyme Regis end + Clent day-trip + France start)."
+}

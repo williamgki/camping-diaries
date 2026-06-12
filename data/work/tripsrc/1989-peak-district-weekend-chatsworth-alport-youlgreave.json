@@ -1,0 +1,42 @@
+{
+ "trip_id": "1989-peak-district-weekend-chatsworth-alport-youlgreave",
+ "title_guess": "Peak District weekend (Chatsworth, Alport, Youlgreave)",
+ "date_guess": "1989-07-01",
+ "volume": "A",
+ "spread_range": [
+  "A_0005",
+  "A_0005"
+ ],
+ "mixed_start": false,
+ "mixed_end": false,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "A_0005_L",
+   "no": 4,
+   "dates": [
+    {
+     "raw": "July 1st",
+     "iso": "1989-07-01"
+    }
+   ],
+   "headings": [
+    "July 1st. Weekend in the Peak District"
+   ],
+   "places": [
+    "Peak District",
+    "Hopping Farm",
+    "Alport",
+    "Youlgreave",
+    "Tissington Trail",
+    "Haddon Hall",
+    "Chatsworth",
+    "Eastbourne"
+   ],
+   "legibility": 0.88,
+   "text": "July 1st. Weekend in the __Peak District__\nWe all slept in the van at Hopping Farm.\nUsed chemical loo for the first time. It worked well.\n\tWalk into Alport, (pretty, running water, trout, damp,) + Youlgreave.  Well-dressing last week, but didn't see any.\n\tChecked on bike-hire for a later trip cycling along Tissington Trail.\n\tHaddon Hall (mediaeval) closed, alas.\n__Chatsworth__\n\tGlorious Capability Brown landscape.\nPaxton was head gardener.\n\tCascades. Large pebbles from Eastbourne for [mas] mosaic snake set in pavement."
+  }
+ ]
+}

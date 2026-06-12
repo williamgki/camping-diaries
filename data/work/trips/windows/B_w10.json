@@ -1,0 +1,133 @@
+{
+  "window_id": "B_w10",
+  "spread_range": ["B_0217", "B_0246"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0217_L",
+      "kind": "trip",
+      "title_guess": "France: Picardy & Burgundy (St Quentin, Montbard, Dijon, Provins)",
+      "date_guess": "2013-08",
+      "index_page_no": 37,
+      "evidence": [
+        { "page_id": "B_0217_L", "signal": "departure", "excerpt": "Tuesday [?7/6]th August  10 we left home + dropped Tinder off at kennels. The trafic + cars in the waiting area at the Channel Tunnel were lighter than usual." },
+        { "page_id": "B_0217_R", "signal": "heading", "excerpt": "Labyrinthe at St Quentin / Picardie / Catthedrals" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0217_L opens with the END of a prior Welsh trip (Swan Hotel, Glad Mountain Gliding Club, Abergavenny, Raglan Castle, 'Then on to home.'), then breaks at '__Tuesday [?7/6]th August__ 10 we left home' which begins this France trip.",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0224_L",
+      "kind": "trip",
+      "title_guess": "Watlington: White Mark Farm with William & Joseph",
+      "date_guess": "2013-09",
+      "index_page_no": 45,
+      "evidence": [
+        { "page_id": "B_0224_L", "signal": "departure", "excerpt": "Friday 27th September  2.30. Simon, Eve + Tinder set off to meet William + Joseph for camping trips... We camped at White Mark Farm, near the Carriers Arms Pub, Watlington." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.88
+    },
+    {
+      "start_page_id": "B_0226_L",
+      "kind": "trip",
+      "title_guess": "Surrey: Rudgwick Riverside Farm (Mylo Ruby's christening, Woking)",
+      "date_guess": "2013-10",
+      "index_page_no": 46,
+      "evidence": [
+        { "page_id": "B_0226_L", "signal": "departure", "excerpt": "October 18th Friday  3.0. We left for south of Guilford, Rudgwick Riverside Farm... We have come down for Mylo Ruby's christening at Church of the Good Shepherd near Woking." },
+        { "page_id": "B_0227_R", "signal": "return", "excerpt": "We left at 2 + got home at 4.45. A lovely last trip of the year." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0226_L opens with the END of the White Mark Farm trip ('dropped off William & Joseph at Princes Risborough... Home via Gaydon & M.40.'), then breaks at 'October 18th Friday 3.0. We left for south of Guilford' which begins this trip.",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0228_L",
+      "kind": "trip",
+      "title_guess": "Felsted: Sewards Hall Farm with William & Joseph (Docklands)",
+      "date_guess": "2014-05",
+      "index_page_no": 48,
+      "evidence": [
+        { "page_id": "B_0228_L", "signal": "departure", "excerpt": "May 16th. 2.45. Simon, Eve & Tinder left to drive to meet William & Joseph near Felsted... Sewards Hall Farm." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0228_L opens with a short undated 'April 2014' note ('We had tea in the van at Lapworth & walked along the canal.'), then breaks at 'May 16th. 2.45. Simon, Eve & Tinder left to drive to meet William & Joseph near Felsted' which begins this trip. The April note may itself be a brief separate outing or just a jotting.",
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "B_0229_R",
+      "kind": "trip",
+      "title_guess": "Duns Tew, Hinton Parva, Ashdown House, Stonehenge & Bemerton (Eve's birthday)",
+      "date_guess": "2014-06",
+      "index_page_no": 49,
+      "evidence": [
+        { "page_id": "B_0229_R", "signal": "departure", "excerpt": "Friday June 6th. 3.10. Simon, Eve + Tinder set off for Charles'. 2 flats at [?Suns] Tew. There we arrived just before William + Bryony, Joseph + Seb." },
+        { "page_id": "B_0230_R", "signal": "date", "excerpt": "08 Jun 2014 ... On to Ashdown House, a hunting lodge built in 1662 by Lord Craven" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0229_R opens with the END of the Felsted/Docklands trip ('set off north... We got home + Simon mowed the lawn before the church Book Club came.'), then breaks at 'Friday June 6th. 3.10. Simon, Eve + Tinder set off for Charles'' which begins this trip. This single trip appears to run on through Hinton Parva, Ashdown House, Stonehenge (ticket dated 08 Jun 2014, spreads B_0230-B_0231) and Bemerton/Farnham (B_0232); the 'July 11' note on B_0232_L is a reference to a future George Herbert festival/John's graduation, not necessarily the trip date.",
+      "confidence": 0.62
+    },
+    {
+      "start_page_id": "B_0233_L",
+      "kind": "trip",
+      "title_guess": "Cotswolds: Great Rissington (Ashespring), Bourton-on-the-Water",
+      "date_guess": "2014-06",
+      "index_page_no": 53,
+      "evidence": [
+        { "page_id": "B_0233_L", "signal": "departure", "excerpt": "Friday June 27th. Simon, Eve + Tinder left just after 6. We arrived about 7.45 at Great Rissington, Ashespring" },
+        { "page_id": "B_0234_L", "signal": "return", "excerpt": "Then tea, then we all left. The first time we had to stop on the return journey was at the Green Man red light in Harborne." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0234_R",
+      "kind": "trip",
+      "title_guess": "France & Brittany (les Haies de Nolettes, Tréguier, Carnac, Malestroit, Falaise/Montormel)",
+      "date_guess": "2014-08",
+      "index_page_no": 54,
+      "evidence": [
+        { "page_id": "B_0234_R", "signal": "departure", "excerpt": "August 19th 2014. John's birthday... Simon decided to leave today evening instead of tomorrow morning... We set off at 6.10 pm... We've arrived at __les Haies de Nolettes__ *** where we've been before." },
+        { "page_id": "B_0235_R", "signal": "heading", "excerpt": "Tréguier, Brittany. St. Yves, patron saint of lawyers" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0244_R",
+      "kind": "trip",
+      "title_guess": "Wolverley & Stourport with Austin (bike ride)",
+      "date_guess": "2014-10",
+      "index_page_no": 64,
+      "evidence": [
+        { "page_id": "B_0244_R", "signal": "departure", "excerpt": "Saturday Oct 3[rd] 4th  Thomas is in India... At 11.30 we set off with Austin to __Wolverley__ to camp for the night & go on a bike ride." }
+      ],
+      "mixed": false,
+      "mixed_detail": "Boundary falls at the page break: B_0244_L ends the France/Brittany trip ('Saturday 30th August... we set off for [?Tinds] on the way home.'); B_0244_R begins entirely with the new Wolverley trip.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0245_L",
+      "kind": "trip",
+      "title_guess": "Norfolk: Kenninghall (South Lopham, Thetford Forest)",
+      "date_guess": "2014-10",
+      "index_page_no": 65,
+      "evidence": [
+        { "page_id": "B_0245_L", "signal": "departure", "excerpt": "Oct 11th 2014 Saturday  8.20. Simon, Eve & Tinder left for..." },
+        { "page_id": "B_0245_R", "signal": "heading", "excerpt": "Kenninghall ... On to __Kenninghall__ * * * * * South Lodge." },
+        { "page_id": "B_0246_R", "signal": "return", "excerpt": "back into the van & back to B'ham for tea." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0245_L opens with the END of the Wolverley/Stourport trip ('Back to the camp for [tea] then set off home.'), then breaks at 'Oct 11th 2014 Saturday 8.20. Simon, Eve & Tinder left for' which begins this Norfolk trip.",
+      "confidence": 0.86
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": null,
+  "notes": "Window transcripts cover spreads B_0217-B_0246, all in volB_book4 (index entries 37-66). The diary in this stretch is roughly chronological from August 2013 (France) through October 2014 (Norfolk). Several physical pages carry a trip-end followed immediately by the next trip-start (mixed). Lowest confidence is the June 2014 Suns Tew/Hinton Parva/Stonehenge/Bemerton sequence (B_0229_R-B_0232): it MAY be one continuous June outing or could split into two (an early-June birthday trip ending after Stonehenge, then a separate Bemerton/Farnham trip around 'July 11' / John's graduation). The narrative reads as continuous with no explicit return-home between, so I report it as one trip at confidence 0.62. The opening of B_0217_L (Welsh trip end) and start of the window's first France trip suggest this window continues from the previous window."
+}

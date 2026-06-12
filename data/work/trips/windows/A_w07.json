@@ -1,0 +1,137 @@
+{
+  "window_id": "A_w07",
+  "spread_range": ["A_0145", "A_0174"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0145_L",
+      "kind": "trip",
+      "title_guess": "Lake District: Coniston, Wast Water & Grasmere (continues from previous window)",
+      "date_guess": "1995-05",
+      "index_page_no": 57,
+      "evidence": [
+        { "page_id": "A_0146_R", "signal": "narrative", "excerpt": "The Gondola brought us back... Dry stone wall at Coniston." },
+        { "page_id": "A_0147_L", "signal": "date", "excerpt": "Tuesday 2nd May. We left at 9.10. We drove over Wrynose Pass... camped at Boot in Eskdale" },
+        { "page_id": "A_0148_L", "signal": "date", "excerpt": "WEDNESDAY 3 MAY 1995, White Moss House, Rydal Water" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "A_0150_R",
+      "kind": "trip",
+      "title_guess": "Wales: Upper Cantref Farm, Brecon (May half-term)",
+      "date_guess": "1995-05",
+      "index_page_no": 63,
+      "evidence": [
+        { "page_id": "A_0150_L", "signal": "return", "excerpt": "Troutbeck is a very pretty village... At 4.30 we set off for home." },
+        { "page_id": "A_0150_R", "signal": "departure", "excerpt": "Saturday May 27th. We left, the 7 of us at 8.20... only arrived at Upper Cantref Farm at 12.00." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0150_L ends the Lake District trip ('At 4.30 we set off for home'); A_0150_R begins the Upper Cantref Farm half-term trip at the heading 'Saturday May 27th'. Break falls between the upper paragraph (Wordsworth/Dove Cottage notes) and the dated 'Saturday May 27th' line.",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0152_R",
+      "kind": "trip",
+      "title_guess": "Belton-in-Rutland & Northamptonshire (Naseby)",
+      "date_guess": "1995-06",
+      "index_page_no": 66,
+      "evidence": [
+        { "page_id": "A_0152_L", "signal": "return", "excerpt": "We got home, showered the children... it was a super half-term camping trip." },
+        { "page_id": "A_0152_R", "signal": "departure", "excerpt": "Saturday 24th June. We left at 9.05 for Northamptonshire... We arrived at Belton-in-Rutland *** at 11.45." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0152_R contains a non-trip local note first ('Sunday June 18 ... Middleton Hall for Mary Cohen's afternoon concert' - a day out, not a van trip) and then the trip departure 'Saturday 24th June. We left at 9.05 for Northamptonshire.' The trip start is the 'Saturday 24th June' line.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0154_L",
+      "kind": "trip",
+      "title_guess": "Spain: Picos de Europa, Santiago, Galicia, Portugal & Salamanca",
+      "date_guess": "1995-07",
+      "index_page_no": 67,
+      "evidence": [
+        { "page_id": "A_0153_R", "signal": "return", "excerpt": "we ate at a coaching inn in Uppingham & returned home in the sun." },
+        { "page_id": "A_0154_L", "signal": "departure", "excerpt": "11am Tuesday July 25th. Simon, Eve, Thomas, Peter, John & Charles set off for Spain via Venetia & Southampton... We motored to Castro Urdiales." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0154_L opens with a non-trip local note ('Sunday July 2nd' - supper/concert on Malvern common) and then the Spain departure 'Tuesday July 25th. ... set off for Spain'. The trip start is the '11am Tuesday July 25th' line.",
+      "confidence": 0.95
+    },
+    {
+      "start_page_id": "A_0168_L",
+      "kind": "non_trip",
+      "title_guess": "Notebook front-matter & index (Log 3 / Book 3, opens after Spain)",
+      "date_guess": "1995-08",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0167_L", "signal": "return", "excerpt": "Tues 14th 1995. We set off from Portsmouth for Birmingham at 4.40. pm." },
+        { "page_id": "A_0168_L", "signal": "heading", "excerpt": "Kirby 86 Westfield Rd, Edgbaston Birmingham... August 31st 1995. Log 3" },
+        { "page_id": "A_0168_R", "signal": "narrative", "excerpt": "1. Bromyard. Farnham 1995 / Hartley Wintney  2. London  3. Beauchamps Gloucester 1996 ... (handwritten index list)" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "A_0170_R",
+      "kind": "trip",
+      "title_guess": "Bromyard: Kate & Jamie's farm (also Farnham/Hartley Wintney visit)",
+      "date_guess": "1995-08",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "A_0170_R", "signal": "departure", "excerpt": "August 31st 1995. ... Simon & Eve, Thomas 15, William 13, John 8, Charles 6, left for Bromyard, Kate & Jamie's farm." },
+        { "page_id": "A_0170_R", "signal": "narrative", "excerpt": "We left for Beauchamp at 1.0. ... Saturday 9th September. Simon, Eve, Peter, John & Charles left for Charity's (Hatty's) christening" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.72
+    },
+    {
+      "start_page_id": "A_0171_L",
+      "kind": "trip",
+      "title_guess": "London: Pickett's Lock, V&A, British Museum (via Hartley Wintney & Farnham)",
+      "date_guess": "1995-10",
+      "index_page_no": 2,
+      "evidence": [
+        { "page_id": "A_0171_L", "signal": "narrative", "excerpt": "On the way we passed through Hartley Wintney... On to Farnham... We got home about 7pm." },
+        { "page_id": "A_0171_L", "signal": "departure", "excerpt": "Friday October 22nd. The seven of us set off for London at 10.20. We arrived at Pickett's lock" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0171_L top continues/ends a Farnham/Hartley Wintney weekend ('We got home about 7pm'); then the dated 'Friday October 22nd. The seven of us set off for London' begins the London trip. Break falls at 'Friday October 22nd'. (The Farnham/Hartley Wintney material may itself be a separate short trip that opened in book pp.1-2, but I cannot see its start within this window.)",
+      "confidence": 0.65
+    },
+    {
+      "start_page_id": "A_0172_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp & Gloucester: John's cello course (Deerhurst, Odda's Chapel)",
+      "date_guess": "1996-04",
+      "index_page_no": 3,
+      "evidence": [
+        { "page_id": "A_0172_L", "signal": "return", "excerpt": "We are driving home up the motorway. ETA 7.50." },
+        { "page_id": "A_0172_R", "signal": "departure", "excerpt": "9th April 1996... 8.30. We set off for Beauchamps for John to go on his first 'cello course." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0172_L ends the London trip ('driving home up the motorway. ETA 7.50.'); A_0172_R begins the 1996 cello-course trip at '9th April 1996'. Break falls at the '9th April 1996' heading. Date discontinuity: Oct 1995 -> April 1996.",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0174_R",
+      "kind": "trip",
+      "title_guess": "Calver Mill (Peak District) via Tickhill/Doncaster (continues past window)",
+      "date_guess": "1996-04",
+      "index_page_no": 3,
+      "evidence": [
+        { "page_id": "A_0174_L", "signal": "return", "excerpt": "April 15. ... John's concert was at 2.30... Home for supper." },
+        { "page_id": "A_0174_R", "signal": "departure", "excerpt": "Sat Apl 20. We set off at 9.30. S, E, P, J, C, Daniela Fischer... arrived at Tickhill near Doncaster... On through Doncaster to Calver Mill." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0174_L ends the cello-course trip ('April 15... Home for supper'); A_0174_R begins a new Calver Mill/Doncaster trip at 'Sat Apl 20'. Break falls at the 'Sat Apl 20' heading.",
+      "confidence": 0.82
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "trip starting A_0174_R (Sat Apl 20, Tickhill/Doncaster -> Calver Mill, April 1996) appears to continue past this window",
+  "notes": "Physical page numbers in this window are unreliable: two notebooks overlap in the scan (book 2 numbering runs alongside book 3, which restarts at p.1 at A_0170_R after the 'Log 3' front-matter at A_0168). I segmented chiefly on dated headings and explicit departures/returns. The Lake District trip (window start) continues from the previous window. Non-trip local concert notes appear inline on A_0152_R (Middleton Hall, June 18) and A_0154_L (Malvern common, July 2) before the respective trip departures, hence those pages are flagged mixed. A_0168-A_0170_L is notebook front-matter/index (non_trip). The Farnham/Hartley Wintney visit at top of A_0171_L may belong to a short trip whose start (book pp.1-2) is not fully visible; flagged with lower confidence."
+}

@@ -1,0 +1,51 @@
+{
+ "trip_id": "2001-normandy-pegasus-bridge-caen-out-of",
+ "title_guess": "Normandy: Pegasus Bridge & Caen (out-of-sequence / misfiled 2001 page)",
+ "date_guess": "2001",
+ "volume": "A",
+ "spread_range": [
+  "A_0350",
+  "A_0350"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "A_0350_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "June 6th 1944",
+     "iso": "1944-06-06"
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Pegasus Bridge"
+   ],
+   "captions": [
+    "Pegasus Bridge from the air showing the first house liberated (now a café) & the position where the 3 gliders crash landed. 00.19 hrs June 6th 1944"
+   ],
+   "legibility": 0.95,
+   "text": "Pegasus Bridge from the air showing the first house liberated (now a café) & the position where the 3 gliders crash landed.\n00.19 hrs June 6th 1944"
+  },
+  {
+   "page_id": "A_0350_R",
+   "no": 45,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Caen",
+    "Abbaye aux Dames",
+    "Abbaye aux Hommes",
+    "Alcide"
+   ],
+   "legibility": 0.85,
+   "boundary_mixed": true,
+   "text": "*** \n   We drove on to __Caen__, where, after much searching, we found the camp site shut. So we have camped in some trees beside the racecourse. We cycled into Caen & saw the Abbaye aux Dames, which is mostly rebuilt, & the Abbaye aux Hommes, which has a plain west front & elegant towers. There are also good misericords.\n   We ate supper at Alcide, in the big square with lots of sail boats. The cycle lanes are good. [?Place] [?Toutonne]. Simon had pitchards! I had salmon [illegible] pâté. Then we had blanchette de veau. Simon had tartine & I had chocolate liègeois ice cream.\n   There were race horses being shown off in a courtyard in front of a building. We saw trotters on the beach earlier in the day."
+  }
+ ]
+}

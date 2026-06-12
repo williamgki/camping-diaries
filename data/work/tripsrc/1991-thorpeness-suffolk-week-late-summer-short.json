@@ -1,0 +1,47 @@
+{
+ "trip_id": "1991-thorpeness-suffolk-week-late-summer-short",
+ "title_guess": "Thorpeness (Suffolk) week & late-summer short outings",
+ "date_guess": "1991-08-18",
+ "volume": "A",
+ "spread_range": [
+  "A_0053",
+  "A_0053"
+ ],
+ "mixed_start": true,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [
+  "/Users/williamgkirby/Sites/camping-diaries/scans/volA/llm/A_0053_R.jpg"
+ ],
+ "pages": [
+  {
+   "page_id": "A_0053_R",
+   "no": 103,
+   "dates": [
+    {
+     "raw": "Aug 11th",
+     "iso": "1991-08-11"
+    },
+    {
+     "raw": "August 18th",
+     "iso": "1991-08-18"
+    }
+   ],
+   "headings": [
+    "John's birthday"
+   ],
+   "places": [
+    "River Severn",
+    "Beauchamp",
+    "B'ham",
+    "Thorpeness"
+   ],
+   "sketch": true,
+   "sketch_desc": "Small hand-drawn sketch of a river loop labelled 'R. Severn' with an arrow showing the river winding around a loop, illustrating the text 'The River Severn has scoured a great loop around the village & fields.'",
+   "legibility": 0.82,
+   "boundary_mixed": true,
+   "text": "Chinese pig & hoardes of rabbits &\nother animals.\nAug 11th. The next day we went for a\nwalk 3 miles, instead of church,\nbecause the service wasn't until 11.\n    The River Severn has\n    scoured a great loop\n    around the village & fields.\nAfter lunch we dropped Thomas off\nat __Beauchamp__ & set of for B'ham.\n\nAugust 18th.\n    Eve drove 5 boys & [Tony]\nnanny to\nThorpeness. We arrived & had a\nterrible time putting up the tent.\n__John's birthday__\n    John zigzagged up the\ntheare in a row boat with Tony\ngot tossed about in the sea in his"
+  }
+ ]
+}

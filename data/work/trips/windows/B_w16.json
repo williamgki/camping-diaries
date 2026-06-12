@@ -1,0 +1,80 @@
+{
+  "window_id": "B_w16",
+  "spread_range": ["B_0361", "B_0373"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0361_L",
+      "kind": "trip",
+      "title_guess": "Scotland: Crail (Conta's wedding)",
+      "date_guess": "2022-03",
+      "index_page_no": 61,
+      "evidence": [
+        { "page_id": "B_0361_L", "signal": "narrative", "excerpt": "on the road again at 8.55. We went on + on + will be getting to Crail about 4.15. Conta has rented a house where we are staying. She is organising a pre-wedding supper" },
+        { "page_id": "B_0361_L", "signal": "heading", "excerpt": "The wedding was beautiful in the Cow Shed at Crail. ... Over 200 at the wedding." }
+      ],
+      "mixed": false,
+      "mixed_detail": "Page B_0361_L opens mid-journey ('on the road again at 8.55'), so this trip actually began in the previous window; only its tail (wedding weekend) is visible here.",
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "B_0361_R",
+      "kind": "trip",
+      "title_guess": "Peak District: Tissington Trail & Parwich (ebikes)",
+      "date_guess": "2022-03-25",
+      "index_page_no": 62,
+      "evidence": [
+        { "page_id": "B_0361_R", "signal": "departure", "excerpt": "Friday March 25th. We left home at 9.45. to take Tinder to the vet. ... We travelled all morning up to the Peak District + parked [Seplurt?] at Alsop on the Tissington Trail." },
+        { "page_id": "B_0361_R", "signal": "return", "excerpt": "(end of Crail trip immediately before) picked up dog from Jackie + hurried home before Conta gets there!" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Crail trip ends earlier on this page ('hurried home before Conta gets there!'); the Peak District trip begins at '__Friday March 25th__ We left home at 9.45.'",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0362_R",
+      "kind": "trip",
+      "title_guess": "Redditch & Brook House Farm (day outing)",
+      "date_guess": "2022-03-31",
+      "index_page_no": 63,
+      "evidence": [
+        { "page_id": "B_0362_R", "signal": "return", "excerpt": "We reached home before lunch. ... A really super holiday (end of Peak District trip)" },
+        { "page_id": "B_0362_R", "signal": "departure", "excerpt": "Thursday March 31st. ... Simon & Tinder & I set off for Redditch & Simon got more material & more wood for things in the van. On to Brook House Farm ... Home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Peak District trip ends on this page ('We reached home before lunch ... A really super holiday'); a short same-day outing to Redditch/Brook House Farm begins at '__Thursday March 31st.__'. Borderline trip vs. errand (van fitting-out materials + farm visit, home same day) — flagged with low confidence.",
+      "confidence": 0.45
+    },
+    {
+      "start_page_id": "B_0362_R",
+      "kind": "trip",
+      "title_guess": "Hay-on-Wye Festival & Kilpeck",
+      "date_guess": "2022-05-29",
+      "index_page_no": 63,
+      "evidence": [
+        { "page_id": "B_0362_R", "signal": "departure", "excerpt": "Sunday 29th May. Simon, Eve Tinder set off at 9.15, for Hay on Wye. William & family saw a Lenny Henry talk." },
+        { "page_id": "B_0364_R", "signal": "return", "excerpt": "Simon + I drove to see Kilpeck church + had lunch there on the way home. The weather at Hay was much kinder than we expected" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Third section on B_0362_R: after the 31 March farm outing, the Hay-on-Wye festival trip begins at '__Sunday 29th May__'. Two-month date jump from the preceding section. Trip continues through B_0363-B_0364 (festival, river, Kilpeck) and ends on B_0364_R with the drive home.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0365_L",
+      "kind": "trip",
+      "title_guess": "Fleet/London then Continent: France, Switzerland, Italy (Pavia, Pian del Voglio)",
+      "date_guess": "2022-06-15",
+      "index_page_no": 65,
+      "evidence": [
+        { "page_id": "B_0365_L", "signal": "departure", "excerpt": "3pm Wednesday June 15th. We left home + put Tinder in Hylton Hound Kennels at 4. We arrived at Little Bramshott Farm campsite at 6.20. Near Fleet" },
+        { "page_id": "B_0366_L", "signal": "narrative", "excerpt": "Friday 17th June at 7.30. we left for France. ... near Vitry la France ... on to St. Point Lake" },
+        { "page_id": "B_0366_R", "signal": "narrative", "excerpt": "Monday We left at 8.50. Into Switzerland. ... We reached Gadmen village + the campsite" }
+      ],
+      "mixed": false,
+      "mixed_detail": "One continuous trip: home (15 June) to Fleet/Eversley/London/Kent, then crosses to France on 17 June without returning home, continuing through Switzerland and into Italy (Pavia, Certosa, Pian del Voglio). No home return within the window.",
+      "confidence": 0.88
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "The 2022 continental trip starting B_0365_L is still in progress at the window end (camped at Pian del Voglio, Italy, ~25 June 2022; B_0373 is a blank page + the Camping Relax address card). No home return — trip continues past this window.",
+  "notes": "Transcribed spreads in this window run B_0361-B_0373 (book metadata range B_0301-B_0373; only B_0361 onward carries transcript text). All content matches book5 index entries pages 61-72 (years 2021-2022). B_0363_R 'no:12' and B_0372_R 'no:13' are photo/caption numbers, not diary page numbers. B_0362_R carries three distinct starts (two reported boundaries here plus the preceding Peak District end) and is heavily mixed."
+}

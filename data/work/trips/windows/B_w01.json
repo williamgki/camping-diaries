@@ -1,0 +1,146 @@
+{
+  "window_id": "B_w01",
+  "spread_range": ["B_0001", "B_0030"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0003_R",
+      "kind": "trip",
+      "title_guess": "Germany & Belgium: Weimar, Bamburg, Rothenburg, Heidelberg, Ypres",
+      "date_guess": "2003-08",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "B_0003_R", "signal": "heading", "excerpt": "Saturday August 6 2005 At 9.15. we left the Gemmeke's house in Weimar... We drove to Buchenwald" },
+        { "page_id": "B_0004_R", "signal": "date", "excerpt": "Monday August 11\" ... caught the bus into Bamburg" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8,
+      "notes": "First narrative entry of the volume. Heading reads 'Saturday August 6 2005' but content (Weimar/Buchenwald/Bamburg/Rothenburg/Heidelberg/Hermeskeil/Ypres) matches index entries 1-6 dated 2003, and the cover dates the volume 'August 8th 2003 - June 2005'. Treating the '2005' as a transcription/writing slip for 2003. Trip runs continuously to B_0009_L. Starts from staying with the Gemmekes (home-leg into Birmingham not shown at the open of this volume)."
+    },
+    {
+      "start_page_id": "B_0009_R",
+      "kind": "trip",
+      "title_guess": "Cotswolds: Nether Westcote camp with family",
+      "date_guess": "2003-08",
+      "index_page_no": 7,
+      "evidence": [
+        { "page_id": "B_0009_R", "signal": "departure", "excerpt": "We dropped off Thomas + John at Ashford station... We picked up Tonic from Kennels on the way home." },
+        { "page_id": "B_0009_R", "signal": "departure", "excerpt": "Saturday August 23rd. Simon, John, Charles, Eve + Helen set off to go to the Cotswolds to camp... We reached Nether Westcote at 12.45." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page B_0009_R first ENDS the Germany trip (return home via Ashford/M25/Kennels), then STARTS a new Cotswolds weekend trip at the heading 'Saturday August 23rd.' — break falls at that heading.",
+      "confidence": 0.85,
+      "notes": "Matches index page 7 'London, Burrough, Netherwestcote' (2003)."
+    },
+    {
+      "start_page_id": "B_0010_R",
+      "kind": "trip",
+      "title_guess": "Teesdale & Hadrian's Wall: Barnard Castle, High Force, Vindolanda, Newcastle",
+      "date_guess": "2003-10",
+      "index_page_no": 8,
+      "evidence": [
+        { "page_id": "B_0010_R", "signal": "departure", "excerpt": "Friday October 24th ... It was a long, long drive north. We are camping at Doe Park Cotherstone, NW Barnard Castle." },
+        { "page_id": "B_0014_R", "signal": "return", "excerpt": "We left at 2pm & stopped in York for a cracked light... we only got home at 10pm." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page B_0010_R opens with a brief 'Sunday October 19th' cello-concert day note (non-trip day, belongs to surrounding home life), then the new northern trip STARTS at 'Friday October 24th' with the long drive north. Break falls at the 'Friday October 24th' heading.",
+      "confidence": 0.85,
+      "notes": "Trip runs through B_0014_R (Barnard Castle/High Force/Haltwhistle/Vindolanda/Housesteads/Chesters/Newcastle), matching index pages 8-11 (2003). The earlier 'Sunday October 19th' note is a one-evening local outing, not a van trip."
+    },
+    {
+      "start_page_id": "B_0015_L",
+      "kind": "trip",
+      "title_guess": "Rye Court & Golden Valley / Upton & Malvern (May Bank Holiday)",
+      "date_guess": "2004-05",
+      "index_page_no": 12,
+      "evidence": [
+        { "page_id": "B_0015_L", "signal": "heading", "excerpt": "Saturday May 1st. Noon 2004 Simon, Eve & Tonic set off for Bank Holiday weekend... We stopped at Rye Court Campsite" },
+        { "page_id": "B_0016_R", "signal": "narrative", "excerpt": "Monday May 3rd ... a delicious lunch at Christine's" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.88,
+      "notes": "Date jumps from Oct 2003 to May 2004. Matches index pages 12-14 (Rye Court/Golden Valley, Upton/Malvern, Woodrow/Bromyard, 2004). Trip runs to top of B_0017_L ('It was a good meal & afternoon with friends. Then home.')."
+    },
+    {
+      "start_page_id": "B_0017_L",
+      "kind": "trip",
+      "title_guess": "Kate & Jamie's farm / South Hyde, West Malvern (weekend)",
+      "date_guess": "2004-05",
+      "index_page_no": 15,
+      "evidence": [
+        { "page_id": "B_0017_L", "signal": "departure", "excerpt": "Saturday May 15th We left soon after lunch (S o E) & got to Kate & Jamie's farm at 3." },
+        { "page_id": "B_0017_L", "signal": "return", "excerpt": "Sunday After chapel... lunch with John & Charles on the Common. Then home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0017_L first ENDS the previous Rye Court/Malvern trip ('...afternoon with friends. Then home.') then STARTS a new weekend at 'Saturday May 15th'. Break falls at the 'Saturday May 15th' heading.",
+      "confidence": 0.75,
+      "notes": "Short West-Malvern weekend (Kate & Jamie's farm, South Hyde, St James concert). Ends 'Then home.' at foot of B_0017_L."
+    },
+    {
+      "start_page_id": "B_0017_R",
+      "kind": "trip",
+      "title_guess": "Borough, London: William & Bryony, Southwark Cathedral",
+      "date_guess": "2004-05",
+      "index_page_no": 15,
+      "evidence": [
+        { "page_id": "B_0017_R", "signal": "departure", "excerpt": "Sat 22nd May Simon & Eve set off for Borough in London, William's & Bryony's house. We camped in the courtyard." },
+        { "page_id": "B_0017_R", "signal": "return", "excerpt": "We bought lunch at M & S for everyone & then went home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.78,
+      "notes": "Van weekend camping in the London courtyard; matches index page 15 'Burrough, London, Southwork'. Whole page B_0017_R is this one trip (departs top, returns bottom)."
+    },
+    {
+      "start_page_id": "B_0018_L",
+      "kind": "trip",
+      "title_guess": "Malvern (Chipping Campden) & Wales: Harlech, Machynlleth",
+      "date_guess": "2004-05",
+      "index_page_no": 16,
+      "evidence": [
+        { "page_id": "B_0018_L", "signal": "departure", "excerpt": "Friday May 28th We set off as planned at 2... We just reached Malvern at 6.35" },
+        { "page_id": "B_0019_L", "signal": "heading", "excerpt": "Monday May 31st ... we set off for Harlech" },
+        { "page_id": "B_0020_L", "signal": "return", "excerpt": "Tuesday 1st June ... the Alternative Technology Centre at Machynlleth... We reached home before 6." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.82,
+      "notes": "Whitsun trip: Malvern concert/prize-giving then on to Wales (Ninas/Welshpool, Harlech, Llanbedr, Machynlleth). Matches index pages 16-17. Runs continuously B_0018_L through top of B_0020_L."
+    },
+    {
+      "start_page_id": "B_0020_L",
+      "kind": "trip",
+      "title_guess": "Malvern evening / Little Gossingham: Kate & Ed's wedding weekend",
+      "date_guess": "2004-07",
+      "index_page_no": 18,
+      "evidence": [
+        { "page_id": "B_0020_L", "signal": "departure", "excerpt": "Sunday June 27th Simon + Eve set off at 4.40. to pick up Helen + Margaret from Trimpley to go to Malvern." },
+        { "page_id": "B_0020_R", "signal": "departure", "excerpt": "Saturday July 3rd We left at 10... Simon + Eve set off at 11.15 for Kate + Ed's wedding. At Little Gossingham." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0020_L first ENDS the Wales trip ('We reached home before 6.') then STARTS a new section at 'Sunday June 27th' (Malvern, John's cello concert). Break falls at the 'Sunday June 27th' heading.",
+      "confidence": 0.45,
+      "notes": "Low confidence: the 'Sunday June 27th' Malvern evening and the 'Saturday July 3rd' Little Gossingham wedding (index page 18, 'Little Gossingham') may be two separate short weekend outings rather than one trip, but both are brief social/concert/wedding occasions in late June/early July 2004 that the merge step may split. Cannot cleanly tell where one ends and the next begins from the text; reporting as one boundary here and flagging uncertainty."
+    },
+    {
+      "start_page_id": "B_0021_L",
+      "kind": "trip",
+      "title_guess": "Spain: Bilbao, Basque coast & Aragon Pyrenees (Bilbao, Guernica, Mutriku, Lumbier, Jaca, Ainsa, Plan)",
+      "date_guess": "2004-07",
+      "index_page_no": 19,
+      "evidence": [
+        { "page_id": "B_0021_L", "signal": "departure", "excerpt": "Saturday July 31st We left at 10... We left at 6 for the ferry." },
+        { "page_id": "B_0021_R", "signal": "narrative", "excerpt": "The ferry was OK... a marvellous talk on dolphins & whales. ...greater variety of whales found in the Bay of Biscay" },
+        { "page_id": "B_0022_L", "signal": "place", "excerpt": "We disembarked + went to see the Guggenheim Museum (Bilbao)." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0021_L first ENDS the wedding-weekend section ('Sunday 4th July ...Peter Fisher's 60th birthday party at Sutton Coldfield.') then STARTS the Spain ferry trip at 'Saturday July 31st'. Break falls at the 'Saturday July 31st' heading.",
+      "confidence": 0.88,
+      "notes": "Major Spain trip (ferry to Bilbao, then Basque coast and Aragon Pyrenees). Matches index pages 19-31 (Bilbao, Guernica, Mutriku, Puente de la Reina, Hoz de Lumbier, Jaca, Aragon/Ainsa, Plan, etc., 2004). Continues past the end of this window (still at Plan/Ainsa on B_0030)."
+    }
+  ],
+  "continues_from_previous_window": false,
+  "open_at_end": "trip starting B_0021_L (Spain 2004) continues past this window; still in the Aragon Pyrenees (Plan/Gistain) at B_0030_R",
+  "notes": "B_0001 (address/owner page), B_0002 and B_0003_L (handwritten index spreads) are front-matter, not trip content. Narrative begins B_0003_R. Note: B_0003_R heading transcribed as 'August 6 2005' is almost certainly a slip for August 2003 given the index year (2003) and the volume cover span 'August 8th 2003 - June 2005'; flagged at confidence 0.8 on that boundary."
+}

@@ -1,0 +1,202 @@
+{
+  "window_id": "A_w06",
+  "spread_range": ["A_0121", "A_0150"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0121_L",
+      "kind": "trip",
+      "title_guess": "Cornwall: St Ives, Lands End, the Lizard",
+      "date_guess": "1994-05",
+      "index_page_no": 36,
+      "evidence": [
+        { "page_id": "A_0121_L", "signal": "narrative", "excerpt": "May 3rd Tuesday ... We drove on to St. Ives & camped at Ayr ... pretty beach & gorgeous turquoise sea" },
+        { "page_id": "A_0124_L", "signal": "place", "excerpt": "We went to lands End ... We carried on to Mullions Cove ... We left to go down the Lizard further" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6,
+      "notes": "Trip already in progress at the start of the window (continues from previous window). Matches book2 index p.35-40 St Columb/Truro/St Ives/St Just/Geevor/Lands End/Lizard/Trebah/Saltash (1994)."
+    },
+    {
+      "start_page_id": "A_0126_L",
+      "kind": "trip",
+      "title_guess": "Brecon Beacons family weekend (Blaensan, Ystradfellte, Cwm Llwch, Tretower)",
+      "date_guess": "1994-05",
+      "index_page_no": 42,
+      "evidence": [
+        { "page_id": "A_0126_L", "signal": "return", "excerpt": "Saturday May 7 ... On to home up the I75." },
+        { "page_id": "A_0126_L", "signal": "departure", "excerpt": "Friday May 27th ... Simon, Eve, William, Peter, John, Charles ... set off at 3.45. for Poltern ... we try a new Welsh campsite Blaensan" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page A_0126_L ends the Cornwall trip ('On to home up the I75.') then immediately starts a new Welsh family weekend at the 'Friday May 27th' heading.",
+      "confidence": 0.85,
+      "notes": "Welsh Brecon Beacons weekend with extended family; Mountain Centre, Porth-yr-Ogof, Cwm Llwch, Tretower. Continues A_0127-A_0129_L (A_0128 duplicates A_0127). Matches book2 index p.41-42 Ystradfellte / Cwm Llwch Bwlch, Tretower (1994)."
+    },
+    {
+      "start_page_id": "A_0129_R",
+      "kind": "trip",
+      "title_guess": "Stourbridge weekend (parkland nr Stourbridge)",
+      "date_guess": "1994-06",
+      "index_page_no": 43,
+      "evidence": [
+        { "page_id": "A_0129_R", "signal": "departure", "excerpt": "June 25th Sat 3.0. We left Birmingham to come to the Wolverhampton camping shop ... drove onto a lovely open park land 6 miles from Stourbridge." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Short weekend outing leaving Birmingham. The previous Tretower/Cwm Llwch trip closes on A_0129_L ('Tuesday'); this departs fresh on the same right-hand page. Likely part of book2 index p.43 'Nr. Stourbridge, Malvern' (1994). Could be read as one rolling sequence with the following Malvern weekend; reported separately because of the distinct home-departure heading."
+    },
+    {
+      "start_page_id": "A_0129_R",
+      "kind": "trip",
+      "title_guess": "Malvern weekend (Shuttlefast Farm)",
+      "date_guess": "1994-07-01",
+      "index_page_no": 43,
+      "evidence": [
+        { "page_id": "A_0129_R", "signal": "departure", "excerpt": "July 1st Friday Simon, Eve, William, Peter, John & Charles set off to Malvern for the weekend ... We camped at Shuttlefast Farm" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0129_R carries two distinct departures: 'June 25th Sat' (Stourbridge) and 'July 1st Friday' (Malvern). The page contains the end of the Stourbridge weekend and the start of the Malvern weekend.",
+      "confidence": 0.5,
+      "notes": "Malvern weekend; Wimbledon-watching, lunch with Murtagh, camped Shuttlefast Farm (detour via Redditch). Continues to A_0130_L 'Sunday ... then drove home'. Book2 index p.43 Malvern (1994)."
+    },
+    {
+      "start_page_id": "A_0130_L",
+      "kind": "trip",
+      "title_guess": "Thorpeness / Naseby family gathering",
+      "date_guess": "1994-07-18",
+      "index_page_no": 43,
+      "evidence": [
+        { "page_id": "A_0130_L", "signal": "return", "excerpt": "Sunday We packed up + went to Malvern chapel ... then drove home" },
+        { "page_id": "A_0130_L", "signal": "departure", "excerpt": "Mon 18th July ... We picked up Samra Kolon in the City Centre above the Mosque at 7.25!. + drove on to Thorpenes." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0130_L ends the Malvern weekend ('then drove home') and starts the Thorpeness trip at the 'Mon 18th July' heading.",
+      "confidence": 0.7,
+      "notes": "East Anglia trip via the new A14: breakfast nr Naseby, then a week at Thorpeness with friends. Continues to A_0130_R 'We went home on Sunday morning.' Book2 index p.43 Thorpeness (1994)."
+    },
+    {
+      "start_page_id": "A_0130_R",
+      "kind": "trip",
+      "title_guess": "France: Picardy, Champagne & Burgundy (Laon, Troyes, Vezelay, Autun, St Jean de Vaux)",
+      "date_guess": "1994-07-30",
+      "index_page_no": 44,
+      "evidence": [
+        { "page_id": "A_0130_R", "signal": "return", "excerpt": "We went home on Sunday morning." },
+        { "page_id": "A_0130_R", "signal": "departure", "excerpt": "Sat July 30th 6 of us set off at 8.40 ... motored down to The Nook *** Women's World ... Twenty minutes from Dover. We left at 8.40. + caught the ferry" },
+        { "page_id": "A_0136_R", "signal": "route", "excerpt": "[hand-drawn map of France: Calais, St. Omer, Laon, Paris, Troyes, Bar sur Aube, Clairvaux, Vezelay, Morvan, Autun, Chalon-s-Saone] 1994" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0130_R ends the Thorpeness trip ('We went home on Sunday morning.') then starts the France trip at 'Sat July 30th' (Snape concert, The Nook campsite nr Dover, ferry).",
+      "confidence": 0.85,
+      "notes": "Long France trip Aug 1994: Laon, Vauclair, Pontavert, Troyes, Vezelay, Autun, St Jean de Vaux, Givry, Chalon-sur-Saone, Clairvaux, Ste-Marie-du-lac, Lumbres. Matches book2 index p.44-51 (1994). Returns home A_0138_R 'Home again!' (Saturday 13th Aug)."
+    },
+    {
+      "start_page_id": "A_0138_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp (Gloucester) concert weekends",
+      "date_guess": "1994-08",
+      "index_page_no": 52,
+      "evidence": [
+        { "page_id": "A_0138_R", "signal": "return", "excerpt": "Home again! John's birthday" },
+        { "page_id": "A_0138_R", "signal": "departure", "excerpt": "5.10. We set off to Beauchamp to hear Thomas. Shostakovich Concerto ... On the Saturday William did a maths paper + ... walked up to look at the trains" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0138_R ends the France trip ('Home again!') and begins a short Beauchamp weekend outing ('We set off to Beauchamp to hear Thomas').",
+      "confidence": 0.55,
+      "notes": "Short weekend stays at Beauchamp (Gloucester) for the boys' concerts; continues into A_0139_L (Grandma to lunch, Thomas plays Haydn). Book2 index p.52 'Beauchamp x 2' (1994). Two consecutive Beauchamp weekends are run together in the narrative; treated as one boundary because they are back-to-back without an explicit home return between them."
+    },
+    {
+      "start_page_id": "A_0139_L",
+      "kind": "trip",
+      "title_guess": "North Wales: Roman Steps, Rhinog, Harlech",
+      "date_guess": "1994-09-03",
+      "index_page_no": 53,
+      "evidence": [
+        { "page_id": "A_0139_L", "signal": "departure", "excerpt": "Sat Sept 3rd We left at 8.30. + breakfasted at the Wolverhampton camping shop ... 1.55. We reached [?Limes] + had lunch." },
+        { "page_id": "A_0139_R", "signal": "place", "excerpt": "Sun Sept 4. ... walk up the Roman Steps ... Simon, Thomas, Peter + John set off for Rhinog ... We went to Harlech." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0139_L holds the tail of the Beauchamp concert weekend (Aug 26 / Sat 27 entries) then opens the North Wales trip at 'Sat Sept 3rd We left at 8.30.'",
+      "confidence": 0.7,
+      "notes": "Wales weekend: Roman Steps, Rhinog, Harlech (Welsh Evensong), Machynlleth on the way home. Continues A_0139_R-A_0140_L. Matches book2 index p.53 'Dinas, Roman Steps, Harlech' (1994)."
+    },
+    {
+      "start_page_id": "A_0140_R",
+      "kind": "trip",
+      "title_guess": "Lichfield & Cannock Chase day out",
+      "date_guess": "1994-09-24",
+      "index_page_no": 54,
+      "evidence": [
+        { "page_id": "A_0140_L", "signal": "return", "excerpt": "Tues 6th Sept. ... On the way home we stopped at Machynlleth Centre for Alternative Technology ... we went [home?]" },
+        { "page_id": "A_0140_R", "signal": "departure", "excerpt": "Saturday September 24th ... we have come out for the day to Lichfield & Cannock Chase. We breakfasted in the van in the Cathedral Precinct." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.65,
+      "notes": "Single-day outing to Lichfield Cathedral and Cannock Chase ('come out for the day'). Boundary falls cleanly at the A_0140_R 'Saturday September 24th' heading; the Wales trip closes at the foot of A_0140_L. Matches book2 index p.54 'Lichfield + Cannock Chase, Lee Valley' (1994)."
+    },
+    {
+      "start_page_id": "A_0141_L",
+      "kind": "trip",
+      "title_guess": "Lee Valley (Chingford), London Tower & Cambridge",
+      "date_guess": "1994-10-26",
+      "index_page_no": 54,
+      "evidence": [
+        { "page_id": "A_0141_L", "signal": "departure", "excerpt": "Wednesday, 26th October ... we decide to leave home anyway. At 4.35 we set off the 7 of us, for Chingford Lee Valley ... going to London to choose sofas + visit the Tower of London ... before driving on to Cambridge" },
+        { "page_id": "A_0142_L", "signal": "place", "excerpt": "Fri 28th Oct + Sat ... We decide to drive on to Cambridge. We see St. John's, Kettle's Yard ... go to Evensong at King's ... come home a day early" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0141_L holds the close of the Cannock Chase day out ('a viper. William threw stones at trees ...') then opens the Lee Valley/London/Cambridge trip at the 'Wednesday, 26th October' heading.",
+      "confidence": 0.7,
+      "notes": "Half-term trip: Lee Valley campsite at Chingford, the Tower of London (Crown Jewels), then Cambridge (King's Evensong, Kettle's Yard); illness-plagued. Returns home a day early (A_0142_L). Matches book2 index p.54 Lee Valley (1994)."
+    },
+    {
+      "start_page_id": "A_0143_L",
+      "kind": "trip",
+      "title_guess": "Stoke Works (Droitwich) weekend",
+      "date_guess": "1995-04-21",
+      "index_page_no": 55,
+      "evidence": [
+        { "page_id": "A_0143_L", "signal": "departure", "excerpt": "April 21st 1995. Friday 5.45pm we left for the west. We stayed at Stoke Works. *** ... near Droitwich" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8,
+      "notes": "Start of the 1995 season; year clearly stated 'April 21st 1995'. Short weekend at Stoke Works near Droitwich (canal, leisure centre), with a Sunday trip to Malvern to drop Bertrand at the airport (A_0143_R). Matches book3 index p.55-area 'Stoke Works' (1995 marker). Note: book2 index also lists p.55 'Cambridge Stoke Works' 1995."
+    },
+    {
+      "start_page_id": "A_0143_R",
+      "kind": "trip",
+      "title_guess": "Lake District (Rydal, Coniston/Brantwood, Eskdale, Wast Water, Grasmere)",
+      "date_guess": "1995-04-27",
+      "index_page_no": 57,
+      "evidence": [
+        { "page_id": "A_0143_R", "signal": "departure", "excerpt": "April 27th Friday At 6.40 pm Simon & Eve left for a holiday in the Lake District ... We drove north ... Foxcovert Farm campsite *** at 8.15." },
+        { "page_id": "A_0144_R", "signal": "place", "excerpt": "We left after reading after lunch + drove a short distance to Coniston ... camped at Pier Cottage ... Brantwood, on the eastern shore." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0143_R holds the close of the Stoke Works weekend (Apr 23 Malvern/airport drop) then opens the Lake District holiday at the 'April 27th Friday' heading ('Simon & Eve left for a holiday in the Lake District').",
+      "confidence": 0.8,
+      "notes": "Parents-only Lake District holiday (children at school/boarding): Foxcovert Farm nr Knutsford, Rydal Water, Hawkshead, Coniston (Gondola, Brantwood), Eskdale/Boot, Hardknott fort, Wast Water, Grasmere/Dove Cottage, Troutbeck/Townend; meals at Rothay Manor and White Moss House. Matches book2 index p.57-62 (1995). Heads for home A_0150_L 'At 4.30 we set off for home.'"
+    },
+    {
+      "start_page_id": "A_0150_R",
+      "kind": "trip",
+      "title_guess": "Upper Cantref Farm, Brecon (family weekend)",
+      "date_guess": "1995-05-27",
+      "index_page_no": 63,
+      "evidence": [
+        { "page_id": "A_0150_L", "signal": "return", "excerpt": "At 4.30 we set off for home." },
+        { "page_id": "A_0150_R", "signal": "departure", "excerpt": "Saturday May 27th We left, the 7 of us at 8.20 ... only arrived at Upper Cantref Farm at 12.00. The boys played cricket." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0150_R holds the tail of the Lake District trip (Dove Cottage/Wordsworth notes, supper at Jonathan's) then opens a new Welsh weekend at 'Saturday May 27th We left, the 7 of us'.",
+      "confidence": 0.6,
+      "notes": "New trip to Upper Cantref Farm (Llanfrynach / Brecon area); opens at the end of the window and runs past it. Matches book2 index p.63 'Upper Cantref' (1995)."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "trip starting A_0150_R (Upper Cantref Farm, Brecon, 1995) opens at the foot of the window and continues into the next window",
+  "notes": "Transcribed spreads cover A_0121-A_0150 (the book metadata range A_0084-A_0167 is broader than the supplied transcripts). This stretch is a dense run of short 1994 weekend outings (Welsh weekends, Stourbridge, Malvern, Thorpeness, Beauchamp concert weekends, Lichfield day, Lee Valley/London/Cambridge) bracketed by two longer trips: the Cornwall trip (in progress at window start) and the Aug 1994 France trip, then the 1995 season opening with Stoke Works and a parents-only Lake District holiday. Several page transitions are mixed (end of one short trip + start of the next on the same right-hand page). A_0128 duplicates A_0127 (re-transcription of the same Brecon weekend pages); both belong to the same Brecon family weekend. Confidences are lower for the short Stourbridge/Malvern outings because the home-return between them is not always explicitly stated."
+}

@@ -1,0 +1,176 @@
+{
+  "window_id": "A_w09",
+  "spread_range": ["A_0193", "A_0222"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0195_L",
+      "kind": "trip",
+      "title_guess": "Forest of Dean cycling & Beauchamp (John's cello course)",
+      "date_guess": "1997-04",
+      "index_page_no": 25,
+      "evidence": [
+        { "page_id": "A_0195_L", "signal": "departure", "excerpt": "Saturday 1997 April 5th. We left at 8.30 + breakfasted at the M50 turn-off to Ross, on the M5." },
+        { "page_id": "A_0195_R", "signal": "place", "excerpt": "driven to the Park at Pedalaway. The boys cycled before lunch." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of A_0195_L is the END of the previous (Belgium/Gent 1996) trip: 'We sped quickly through Belgium + France... lunch at a service station, and drove on home.' The new Forest of Dean trip starts mid-page at 'Saturday 1997 April 5th.'",
+      "confidence": 0.92
+    },
+    {
+      "start_page_id": "A_0197_L",
+      "kind": "trip",
+      "title_guess": "Bristol (Robert Grimley's installation as Dean)",
+      "date_guess": "1997-04",
+      "index_page_no": 28,
+      "evidence": [
+        { "page_id": "A_0197_L", "signal": "departure", "excerpt": "Friday 18 April. We left at about 6.15 pm for Robert Grimley's installation at Bristol." },
+        { "page_id": "A_0198_L", "signal": "return", "excerpt": "After lunch we set off home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0199_L",
+      "kind": "trip",
+      "title_guess": "Wolverhampton camping shop & Coven canal walk (day trip)",
+      "date_guess": "1997-05",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0199_L", "signal": "departure", "excerpt": "May 10th Saturday 11.30. Simon, Eve, John, Charles went to the camping shop beyond Wolverhampton... lunched in the van & drove to Coven... before setting off home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0199_L holds two separate short outings: the May 10th Wolverhampton/Coven day trip (this row) and the May 17th Derbyshire/Calke Abbey day trip (next row), each leaving from and returning home.",
+      "confidence": 0.68
+    },
+    {
+      "start_page_id": "A_0199_L",
+      "kind": "trip",
+      "title_guess": "Derbyshire & Calke Abbey (day trip)",
+      "date_guess": "1997-05",
+      "index_page_no": 29,
+      "evidence": [
+        { "page_id": "A_0199_L", "signal": "departure", "excerpt": "May 17th Saturday. 9.15. We set off for Derbyshire... called in at [?Caraluce], nr Alfreton & ordered van cushions." },
+        { "page_id": "A_0199_R", "signal": "return", "excerpt": "We lunched in parklands at Calke Abbey... had tea in the van & left at 5.40." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Second outing recorded on A_0199_L; its end ('left at 5.40') falls at the top of A_0199_R, where the Wales trip then begins.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "A_0199_R",
+      "kind": "trip",
+      "title_guess": "Wales: Arias above Harlech, Rhinog, Porthmadoc",
+      "date_guess": "1997-05",
+      "index_page_no": 30,
+      "evidence": [
+        { "page_id": "A_0199_R", "signal": "departure", "excerpt": "Saturday 24th May. ... We left at 10.35... 3.50. we arrived at [?Arias], above Harlech [?Llanbedr]." },
+        { "page_id": "A_0201_L", "signal": "return", "excerpt": "Wednesday May 28th We left at 11... We arrived home via Smethwick at 4.0." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of A_0199_R ends the Derbyshire/Calke Abbey day trip; the Wales trip starts mid-page at 'Saturday 24th May.'",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0201_R",
+      "kind": "trip",
+      "title_guess": "Clent parish hall weekend (Zoe's birthday)",
+      "date_guess": "1997-06",
+      "index_page_no": 32,
+      "evidence": [
+        { "page_id": "A_0201_R", "signal": "departure", "excerpt": "Saturday June 14th. We scrabbled off at 11.40. for Cleat parish hall." },
+        { "page_id": "A_0201_R", "signal": "return", "excerpt": "In the morning we abandoned camp because of the rain & went back to B'ham for church." }
+      ],
+      "mixed": false,
+      "mixed_detail": "A_0201_L top is the END of the Wales trip ('arrived home via Smethwick at 4.0') plus a glued-in menu slip; A_0201_R opens cleanly with the new Clent weekend.",
+      "confidence": 0.82
+    },
+    {
+      "start_page_id": "A_0202_L",
+      "kind": "trip",
+      "title_guess": "Alfreton (van cushions) & Upton Jazz Festival (day outing)",
+      "date_guess": "1997-07",
+      "index_page_no": 32,
+      "evidence": [
+        { "page_id": "A_0202_L", "signal": "departure", "excerpt": "Saturday July 28th. ...Simon, Eve, John & Charles returned to Alfreton to pick up the new cushions... We went on to hear Peter play his sax in the Upton Jazz Festival." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0202_L contains the July 28-29 Alfreton/Upton day outing(s) (this row) and then the departure for the big France 1997 trip at 'Tuesday July 29th At 6.25. We all left for Amiens' (next row).",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0202_L",
+      "kind": "trip",
+      "title_guess": "France 1997: Amiens, Loire, Bourges, Conques, Gorges du Tarn",
+      "date_guess": "1997-07",
+      "index_page_no": 33,
+      "evidence": [
+        { "page_id": "A_0202_L", "signal": "departure", "excerpt": "Tuesday July 29th At 6.25. We all left for Amiens, including Loic de Fursac, 17, the French exchange." },
+        { "page_id": "A_0218_R", "signal": "route_sketch", "excerpt": "Hand-drawn map of France titled 'FRANCE 1997' with pink route line through Amiens, Bourges, Conques, Rhone." },
+        { "page_id": "A_0219_L", "signal": "return", "excerpt": "After coming through the Tunnel... We picked up Tonic + arrived home at 4.30." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Starts mid-page on A_0202_L after the Alfreton/Upton day outing.",
+      "confidence": 0.95
+    },
+    {
+      "start_page_id": "A_0219_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp (Peter's quartet, Gus King)",
+      "date_guess": "1997-08",
+      "index_page_no": 49,
+      "evidence": [
+        { "page_id": "A_0219_R", "signal": "departure", "excerpt": "August 22nd Friday. 5.25. William, John, Charles, Simon + Eve left home... We didn't arrive at Beauchamp until 7.0." },
+        { "page_id": "A_0219_R", "signal": "return", "excerpt": "We went home after a cup of tea." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0219_R top ('We picked up Tonic + arrived home at 4.30') ends the France 1997 trip; the Aug 22 Beauchamp trip then starts, and the Sept 6 Malmesbury trip also starts further down this same page (next row).",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0219_R",
+      "kind": "trip",
+      "title_guess": "Malmesbury / Burton Hill (Diana funeral weekend)",
+      "date_guess": "1997-09",
+      "index_page_no": 50,
+      "evidence": [
+        { "page_id": "A_0219_R", "signal": "departure", "excerpt": "Saturday September 6th. 11.10. We motored to Malmesbury listening to Princess Diana's funeral on the radio." },
+        { "page_id": "A_0220_L", "signal": "place", "excerpt": "a big lunch... Burton Hill. **** Football, wasps... long walk in & around Malmesbury." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Third dated section on A_0219_R; the preceding Beauchamp trip (Aug 22-23) ends with 'We went home after a cup of tea' before this Malmesbury departure.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0221_L",
+      "kind": "trip",
+      "title_guess": "The Anchor, East of Welland & the Malverns",
+      "date_guess": "1997-09",
+      "index_page_no": 50,
+      "evidence": [
+        { "page_id": "A_0221_L", "signal": "departure", "excerpt": "Fri 20 Sept. Simon, Eve John & Charles left home with Tonic to camp at a pub The Anchor at East[?Ington] Welland." },
+        { "page_id": "A_0221_R", "signal": "return", "excerpt": "we drove William & Thomas back to school & set off home, arriving at 6 pm." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0221_L top ends the Malmesbury trip ('We left, after a very good weekend, at 3.30'); the Welland trip begins at 'Fri 20 Sept.'",
+      "confidence": 0.84
+    },
+    {
+      "start_page_id": "A_0221_R",
+      "kind": "trip",
+      "title_guess": "London: Lee Valley (Picketts Lock), Greenwich",
+      "date_guess": "1997-10",
+      "index_page_no": 51,
+      "evidence": [
+        { "page_id": "A_0221_R", "signal": "departure", "excerpt": "Sat October 25th. All 7 of us set off for London at 10.45... we arrived at the Lee Valley Leisure Centre Picketts Lock." },
+        { "page_id": "A_0222_R", "signal": "place", "excerpt": "Sunday October 26th... A marvellous trip down the river... Greenwich. We visited St. Alphege's Church." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "London/Greenwich trip starting A_0221_R is still in progress at the window edge (A_0222_R ends mid-narrative on Sunday October 26th at Greenwich, no return home recorded yet)",
+  "notes": "Window opens A_0193-A_0195(top) inside the END of the Belgium/Gent 1996 trip carried over from the previous window (continues_from_previous_window). Page numbers on R pages track the book3 index (1997 entries p25-51). Several physical pages carry two trips (A_0195_L, A_0199_L, A_0199_R, A_0202_L, A_0219_R, A_0221_L) and are flagged mixed; A_0199_L and A_0219_R each open TWO trips, so two boundary rows share those page_ids. Short weekend/day outings (Wolverhampton/Coven, Derbyshire, Alfreton/Upton) are low-to-moderate confidence as standalone 'trips' since some are single-day with no overnight, but each leaves from and returns to home."
+}

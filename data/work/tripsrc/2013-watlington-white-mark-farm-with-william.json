@@ -1,0 +1,102 @@
+{
+ "trip_id": "2013-watlington-white-mark-farm-with-william",
+ "title_guess": "Watlington: White Mark Farm with William & Joseph",
+ "date_guess": "2013-09",
+ "volume": "B",
+ "spread_range": [
+  "B_0224",
+  "B_0225"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [
+  "/Users/williamgkirby/Sites/camping-diaries/scans/volB/llm/B_0224_L.jpg"
+ ],
+ "pages": [
+  {
+   "page_id": "B_0224_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Friday 27th September",
+     "iso": "2013-09-27"
+    },
+    {
+     "raw": "Saturday 28th",
+     "iso": "2013-09-28"
+    }
+   ],
+   "headings": [
+    "Friday 27th September",
+    "Saturday 28th"
+   ],
+   "places": [
+    "Haddenham",
+    "Thame",
+    "White Mark Farm",
+    "Carriers Arms Pub",
+    "Watlington",
+    "White Mark"
+   ],
+   "sketch": true,
+   "sketch_desc": "A simple hand-drawn sketch of a church/spire shape on the right side of the page — appears to illustrate the story of the vicar carving a chalk spire shape on the hillside (the White Mark), showing a tall pointed spire above a rectangular base.",
+   "legibility": 0.88,
+   "text": "__Friday 27th September__\n2.30. Simon, Eve + Tinder set off to meet William + Joseph for camping trips. We sat on Haddenham + Thame platform + William + Joseph got off the train directly opposite us, William carrying a scooter + an enormous pack.\nWe camped at White Mark Farm, [illegible] near the Carriers Arms Pub, Watlington.\nWe put up the tent + had bacon sandwiches. William put Joseph in a fleece inside his new sleeping bag.\n     In the 1700s the vicar was miffed because his church didn't have a spire. So he carved one out of the chalk on the hillside. When he sat in his vicarage, the spire appeared over his church - the White Mark.\n__Saturday 28th__\nCharles arrived [sticker] at 8.35. for breakfast"
+  },
+  {
+   "page_id": "B_0224_R",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Saturday 28th",
+     "iso": "2013-09-28"
+    }
+   ],
+   "headings": [],
+   "places": [
+    "London",
+    "Willow Pond",
+    "Ridgeway",
+    "Watlington",
+    "Memorial Hall",
+    "Carriers Arms",
+    "White Mark"
+   ],
+   "legibility": 0.9,
+   "text": "after taking Jenny to her training day in London. She is working 5 days a week + training on Saturdays. Charles stayed for breakfast, lunch + supper.\n     We went on quite a walk in the morning. The ground was mostly too rough for the scooter. William carried J. on his shoulders + Charles did sometimes. Unfortunately Tinder got into a field + chased some cows. Joseph had red crocs on which kept falling off. We passed a pond, Willow Pond, which had melted away. We were partly on the Ridgeway. Back at Watlington we went to a craft sale in the Memorial Hall + then had lunch at the Carriers Arms.\n     Then we all had a long nap at the van. After tea Simon + William walked up the hill to the White Mark. The weather had been good, a bit of sun. It rained in the night."
+  },
+  {
+   "page_id": "B_0225_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Sunday September 29th 2013",
+     "iso": "2013-09-29"
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Chinnor",
+    "Whiteleaf Cross"
+   ],
+   "captions": [
+    "CHINNOR and WHITELEAF CROSS",
+    "We saw a new housing estate & a steam train at Chinnor station."
+   ],
+   "legibility": 0.92,
+   "text": "Sunday September 29th 2013\n    We packed up camp. Joseph played with Hannah in the next-door tent.\n[postcard: CHINNOR and WHITELEAF CROSS]\nWe saw a new housing estate & a steam train at Chinnor station."
+  },
+  {
+   "page_id": "B_0225_R",
+   "no": 45,
+   "dates": [],
+   "headings": [],
+   "places": [],
+   "legibility": 0.95,
+   "boundary_mixed": true,
+   "text": "Joseph +\nBaba"
+  }
+ ]
+}

@@ -1,0 +1,192 @@
+{
+  "window_id": "X_w01",
+  "spread_range": ["A_0337", "B_0014"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0337_L",
+      "kind": "trip",
+      "title_guess": "Cornwall: Fowey (trip end, started in previous window)",
+      "date_guess": null,
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0337_L", "signal": "narrative", "excerpt": "crossed the R. Fowey at Fowey on the car ferry ... After a hot lunch we packed up the tent + left" },
+        { "page_id": "A_0337_R", "signal": "return", "excerpt": "we gave up + set off for home. We telephoned Peter ahead ... for our arrival at 7.35" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Tail end of a Cornwall/Fowey trip that began before this window; it returns home on A_0337_R. Reported for dedup; trip start is in the prior window."
+    },
+    {
+      "start_page_id": "A_0338_L",
+      "kind": "trip",
+      "title_guess": "North to Manchester: Quarry Bank Mill, Tatton Park (music trip)",
+      "date_guess": "1991-05",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0338_L", "signal": "departure", "excerpt": "Saturday May 3rd. We left at 3 pm, Simon, Eve, Tonic, to go north. Quarry Bank Mill & the Styal Estate are just south of Manchester" },
+        { "page_id": "A_0338_R", "signal": "return", "excerpt": "we drove Thomas & Owen back to Manchester & set off home, having tea at Keele services" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Short trip following the children's concerts north of Manchester. Year uncertain (no year on page); placed loosely by sequence near the end of Volume A (likely early 2000s, not 1991)."
+    },
+    {
+      "start_page_id": "A_0338_R",
+      "kind": "trip",
+      "title_guess": "Malvern concert & Wales: Llanafan Fawr / Elan Valley",
+      "date_guess": null,
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0338_R", "signal": "departure", "excerpt": "Friday May 23rd. We left at 5.35. (Simon, Eve & Tonic). The motorway traffic was stationary so we went on back roads to Malvern for the 7. concert" },
+        { "page_id": "A_0339_L", "signal": "narrative", "excerpt": "the 3 of us have come to Llanafan Fawr. There is a church & pub here & lots of sheep" },
+        { "page_id": "A_0341_R", "signal": "return", "excerpt": "After leaving the farm we went to Holloway's garden shop + ordered 2 Lloyd loom chairs. We drove on home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0338_R: page opens with the END of the Manchester/Tatton trip ('set off home, having tea at Keele services'); the NEW Malvern/Wales trip START is the line 'Friday May 23rd. We left at 5.35.'",
+      "confidence": 0.8,
+      "notes": "Malvern concert weekend that rolls into a Welsh stay (Llanafan Fawr, Elan Valley, Builth Wells) over the late-May bank holiday, then a visit to Jamie's farm before driving home (A_0341_R). A_0340/A_0341 are duplicate transcriptions of the same Monday May 26th spread."
+    },
+    {
+      "start_page_id": "A_0341_R",
+      "kind": "non_trip",
+      "title_guess": "Day outing: drinks party at Reg Farrar's, Malvern",
+      "date_guess": null,
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0341_R", "signal": "heading", "excerpt": "June 15th Sunday. After the 10.30. we drove down to Malvern, to Reg Farrar's, for a drinks party." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0341_R (and duplicate A_0340_R): the Wales/farm trip ENDS ('We drove on home'); a short non-camping day outing START is 'June 15th Sunday ... drove down to Malvern, to Reg Farrar's, for a drinks party.'",
+      "confidence": 0.45,
+      "notes": "A single-day drinks-party outing, not a van trip; flagged non_trip. Low confidence on whether to record separately vs. fold into surrounding diary notes."
+    },
+    {
+      "start_page_id": "A_0342_L",
+      "kind": "trip",
+      "title_guess": "Cambridge: William's May Ball, Kings College",
+      "date_guess": null,
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0342_L", "signal": "departure", "excerpt": "Tuesday June 17th. Simon + Eve set off at 4 for Cambridge + parked at William's house, 7 Maddingley Rd" },
+        { "page_id": "A_0342_R", "signal": "return", "excerpt": "After going to bed at 3 am, we left at 7.45. for the factory and home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8,
+      "notes": "Short trip to Cambridge for the Kings College May Ball; returns home via the factory on A_0342_R."
+    },
+    {
+      "start_page_id": "A_0342_R",
+      "kind": "trip",
+      "title_guess": "Germany 2003: Bad Honnef, Rhine, Alsfeld, Eisenach, Weimar",
+      "date_guess": "2003-08",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0342_R", "signal": "departure", "excerpt": "Friday 1st August. Simon, Eve, Thomas, John Charles left at 6 for Germany ... On to Ashford in Kent, to Broad Hembury Campsite (OK for using en route to Tunnel)" },
+        { "page_id": "A_0343_L", "signal": "narrative", "excerpt": "It was lovely arriving at Bad Honnef + being welcomed by Annie, Klaus ... We drove through France, Belgium, Holland + into Germany" },
+        { "page_id": "A_0348_L", "signal": "date", "excerpt": "Over the front door they have 20* C + M + B * 03 ... this year has been designated the year of the 3 Kings" },
+        { "page_id": "A_0348_R", "signal": "heading", "excerpt": "Friday August 8th. The terrace of the house is lovely to sit on ... Weimar Bauhaus Museum" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0342_R: page opens with the END of the Cambridge trip ('we left at 7.45. for the factory and home'); the Germany 2003 trip START is 'Friday 1st August. Simon, Eve, Thomas, John Charles left at 6 for Germany.'",
+      "confidence": 0.9,
+      "notes": "The Germany August 2003 trip: Channel Tunnel, Bad Honnef on the Rhine (staying with Annie & Klaus), then Alsfeld, Eisenach (Bach/Luther), and Weimar (staying in the Gemmeke house). Runs through to ~Friday August 8th 2003 at the end of Volume A. THIS is the trip 'underway at the end of A' for the continuity decision."
+    },
+    {
+      "start_page_id": "A_0350_L",
+      "kind": "trip",
+      "title_guess": "Normandy: Pegasus Bridge, Caen (out of sequence; likely 2004)",
+      "date_guess": "2004",
+      "index_page_no": 45,
+      "evidence": [
+        { "page_id": "A_0350_L", "signal": "caption", "excerpt": "Pegasus Bridge from the air showing the first house liberated ... 00.19 hrs June 6th 1944" },
+        { "page_id": "A_0350_R", "signal": "narrative", "excerpt": "We drove on to Caen, where ... we found the camp site shut. So we have camped in some trees beside the racecourse. We cycled into Caen & saw the Abbaye aux Dames" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.45,
+      "notes": "Normandy/Caen content sitting at the very end of Volume A, BUT it carries page no. 45 and the index (B_0002) places 'Normandy Beaches, Bayeux, Point du Hoc, Barfleur' at pages 42-45 under 2004. This page is almost certainly out of physical sequence (misbound/later insert) and belongs to a 2004 France/Normandy trip, NOT to the 2003 Germany trip on the preceding pages. Low confidence on placement; flagged as a distinct trip with a narrative/date discontinuity from A_0349 (Weimar 2003) -> A_0350 (Caen)."
+    },
+    {
+      "start_page_id": "B_0001_L",
+      "kind": "non_trip",
+      "title_guess": "Volume B cover / flyleaf (address, date span)",
+      "date_guess": "2003-08",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0001_L", "signal": "frontmatter", "excerpt": "Kirby B15 3JG 86 Westfield Rd, Edgbaston, Birmingham. August 8th 2003 - June 2005" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.95,
+      "notes": "Front cover/flyleaf of Volume B. The date span 'August 8th 2003 - June 2005' shows Volume B begins its coverage exactly where Volume A's Germany 2003 trip leaves off (Friday Aug 8 2003), but the first NARRATIVE in B (B_0003_R) jumps forward to August 2005."
+    },
+    {
+      "start_page_id": "B_0002_L",
+      "kind": "non_trip",
+      "title_guess": "Volume B index (2003-2005 trip list)",
+      "date_guess": null,
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0002_L", "signal": "index", "excerpt": "2003: 1. Weimar, Buchenwald ... 6 Hermeskeil, Ypres ... 2004: 13 Upton, Malvern ... 19 Bilbao ... 2005: 50 Aston Cantlow" },
+        { "page_id": "B_0003_L", "signal": "index", "excerpt": "53 Knapton 54 Cambridge, Oxburgh Hall ... 57 Corby" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.95,
+      "notes": "Handwritten index for Volume B. NOTE the index groups 'Weimar, Buchenwald, Bamberg, Rothenburg, Heidelberg, Hermeskeil, Ypres' under the heading '2003', but the narrative pages that follow are dated August 2005 (see B_0003_R). The diarist's index heading is a loose grouping; trust the narrative dates."
+    },
+    {
+      "start_page_id": "B_0003_R",
+      "kind": "trip",
+      "title_guess": "Germany 2005: Weimar/Buchenwald, Bamberg, Rothenburg, Heidelberg, Hermeskeil, Ypres",
+      "date_guess": "2005-08",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "B_0003_R", "signal": "heading", "excerpt": "Saturday August 6 2005. At 9.15. we left the Gemmeke's house in Weimar. We are: Thomas 23, John about to be 16, Charles 14 + Simon & Eve." },
+        { "page_id": "B_0004_R", "signal": "heading", "excerpt": "Monday August 11. ... We caught the bus into Bamburg & looked at the cathedral" },
+        { "page_id": "B_0009_R", "signal": "return", "excerpt": "We dropped off Thomas + John at Ashford station ... We picked up Tonic from Kennels on the way home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "CONTINUITY DECISION: This is a NEW, SEPARATE trip, NOT a continuation of the Germany 2003 trip at the end of Volume A. Evidence: (1) DATE - A's trip is explicitly August 1-8 2003 (A_0342_R 'Friday 1st August', A_0348_L '20 C+M+B 03', A_0348_R 'Friday August 8th'); B_0003_R is explicitly 'Saturday August 6 2005' (two years later). (2) AGES - B_0003_R states Thomas 23, John ~16, Charles 14; in 2003 Charles was ~12 (A_0348_R annotation 'The children are, 12'), confirming the 2-year gap. (3) Both trips happen to start from the same friends' house (Gemmeke, Weimar), which is why the index lumps them and why the journeys look similar (Weimar->Bamberg->Rothenburg->Heidelberg->home via Ypres), but they are distinct annual outings. The 2003 trip's onward leg and the 2003-04 UK trips are listed in the B index (pages 1-12) but are NOT narrated in the transcribed pages of this window. So: the trip at the end of A does NOT continue into B; B opens a new 2005 Germany trip."
+    },
+    {
+      "start_page_id": "B_0009_R",
+      "kind": "trip",
+      "title_guess": "Cotswolds: Nether Westcote (family camp with David & Jean)",
+      "date_guess": "2003-08",
+      "index_page_no": 7,
+      "evidence": [
+        { "page_id": "B_0009_R", "signal": "departure", "excerpt": "Saturday August 23rd. Simon, John, Charles, Eve + Helen set off to go to the Cotswolds to camp with David, Jean ... We reached Nether Westcote at 12.45." },
+        { "page_id": "B_0010_L", "signal": "return", "excerpt": "Monday ... we chatted & had coffee & left at 11.30., bringing Aylan back to Birmingham" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0009_R: page opens with the END of the Germany trip return ('picked up Tonic from Kennels on the way home'); the Cotswolds trip START is 'Saturday August 23rd. Simon, John, Charles, Eve + Helen set off to go to the Cotswolds.'",
+      "confidence": 0.75,
+      "notes": "Short Cotswolds camping weekend at Nether Westcote with extended family, returning to Birmingham on the Monday (B_0010_L). Year inferred from index position (page 7, '2003' group) and the post-Germany sequence, though the narrative is on Volume-B pages whose first dated entry is 2005 - year tentative."
+    },
+    {
+      "start_page_id": "B_0010_R",
+      "kind": "trip",
+      "title_guess": "Co. Durham & Hadrian's Wall: Barnard Castle, High Force, Vindolanda, Newcastle",
+      "date_guess": "2003-10",
+      "index_page_no": 8,
+      "evidence": [
+        { "page_id": "B_0010_R", "signal": "departure", "excerpt": "Friday October 24th ... We left at 5.10... It was a long, long drive north. We are camping at Doe Park Cotherstone, NW Barnard Castle." },
+        { "page_id": "B_0011_R", "signal": "narrative", "excerpt": "We drove on to Haltwhistle ... Then we went on to Vindolanda" },
+        { "page_id": "B_0014_R", "signal": "return", "excerpt": "Tuesday October 28th ... we set off home through Newcastle traffic jams ... There were 2 more jams on the motorway & we only got home at 10pm." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0010_R: page opens with a short day outing ('Sunday October 19th ... to hear John play his cello'); the northern trip START is 'Friday October 24th ... We left at 5.10... long, long drive north ... Doe Park Cotherstone, NW Barnard Castle.'",
+      "confidence": 0.8,
+      "notes": "Late-October trip to Teesdale and Hadrian's Wall (High Force, Vindolanda, Housesteads, Chesters) and on to Newcastle to visit Peter, returning home Tuesday Oct 28th (B_0014_R). Index pages 8-12 ('2003' group). Runs to the end of this window and concludes at B_0014_R (got home), so it does not appear to be open at the window end."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": null,
+  "notes": "VOLUME-BOUNDARY WINDOW. Critical continuity decision (Germany at end of A vs start of B): NOT continuous. The trip underway at the end of Volume A is Germany AUGUST 2003 (A_0342_R 'Friday 1st August', A_0348 '03' / 'Friday August 8th', children aged ~12). The first narrative trip in Volume B (B_0003_R) is dated 'Saturday August 6 2005' with the children two years older (Charles 14, John ~16, Thomas 23). Although both start from the Gemmeke house in Weimar and follow a similar Weimar->Bamberg->Rothenburg->Heidelberg->Ypres route (which is why the B index lumps the places under a '2003' heading), the explicit dates and ages prove these are two SEPARATE annual Germany trips. The 2003 trip's continuation and the 2003-04 UK trips appear in the B index but are not narrated in this window's pages. Other notes: A_0350 (Pegasus Bridge/Caen) is out of physical sequence (page no.45; index places Normandy at 2004) and likely a misbound/later page rather than part of the 2003 Germany trip. A_0340/A_0341 are duplicate transcriptions of the same 'Monday May 26th' spread. continues_from_previous_window=true because A_0337 is the tail of a Cornwall trip begun earlier."
+}

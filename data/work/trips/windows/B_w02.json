@@ -1,0 +1,100 @@
+{
+  "window_id": "B_w02",
+  "spread_range": ["B_0025", "B_0054"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0025_L",
+      "kind": "trip",
+      "title_guess": "Spain (Pyrenees, Aragon) & France (Cathar country, Albi, Normandy beaches)",
+      "date_guess": "2004-08",
+      "index_page_no": 22,
+      "evidence": [
+        { "page_id": "B_0025_L", "signal": "narrative", "excerpt": "Thursday August 5th ... We are staying on at Ruesta ... Lake Yesa (Spain, Pyrenees)" },
+        { "page_id": "B_0026_R", "signal": "place", "excerpt": "We drove east ... came down through Aragon ... finally reached Ainsa" },
+        { "page_id": "B_0046_R", "signal": "return", "excerpt": "We finally reached home at 7. Thomas + Peter were there." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Trip is already in progress at the start of this window (page no ~23, volB_index). It continues from the previous window. Runs continuously B_0025 -> B_0046_R where the family reaches home in Birmingham. Window opens mid-trip, so this is the START only by window edge, not a true departure."
+    },
+    {
+      "start_page_id": "B_0047_R",
+      "kind": "trip",
+      "title_guess": "Bath weekend camping with David (Marina Campsite, Roman Baths)",
+      "date_guess": "2004-08-29",
+      "index_page_no": 45,
+      "evidence": [
+        { "page_id": "B_0047_R", "signal": "departure", "excerpt": "Sunday 29th August. 9.45. we set off, Simon, Eve, John, Charles, Melody 14 & Charlotte 13, to Bath to Camp with David." },
+        { "page_id": "B_0048_R", "signal": "return", "excerpt": "Monday 30th August ... We left at 3.15." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9,
+      "notes": "B_0047_L is a photo/caption page (John's 17th birthday, Barfleur postcard) belonging to the previous Normandy trip; the Bath trip text proper begins on B_0047_R."
+    },
+    {
+      "start_page_id": "B_0048_R",
+      "kind": "trip",
+      "title_guess": "October: Trimpley, the farm & Malvern (John's concerts, Little Malvern Court)",
+      "date_guess": "2004-10-16",
+      "index_page_no": 46,
+      "evidence": [
+        { "page_id": "B_0048_R", "signal": "departure", "excerpt": "Saturday 16th October. At about 11.45. we set off for Trimpley & then the farm." },
+        { "page_id": "B_0049_R", "signal": "date", "excerpt": "Monday October 22nd." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0048_R is a mixed page: it opens with the END of the Bath weekend ('Monday 30th August ... We left at 3.15.') then jumps six weeks to begin a new outing ('Saturday 16th October ... we set off for Trimpley & then the farm'). The break falls at the 'Saturday 16th October' heading.",
+      "confidence": 0.8,
+      "notes": "October Malvern/Trimpley stretch covers John playing cello at Little Malvern Court and a Malvern concert, with pasted concert programmes at B_0050 (Informal Concert, St Edmund's Hall, 17 Oct 2004). Continues to ~B_0050."
+    },
+    {
+      "start_page_id": "B_0051_R",
+      "kind": "trip",
+      "title_guess": "Day trip to Hanbury Hall (near Droitwich, Worcestershire)",
+      "date_guess": "2004",
+      "index_page_no": 48,
+      "evidence": [
+        { "page_id": "B_0051_R", "signal": "narrative", "excerpt": "went on a day trip to Hanbury Hall 1801 near Droitwich." },
+        { "page_id": "B_0052_R", "signal": "caption", "excerpt": "Hanbury Hall parterre. 2002, NT & Nick Moss" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.4,
+      "notes": "Described as a 'day trip'; appears as a distinct index entry (page 48, Hanbury Hall) separate from the October Trimpley/Malvern entry (page 46). No explicit departure-from-home or date is given, and B_0051_L is blank, so it is unclear whether this is a standalone outing or a continuation of the October stretch. Low confidence; merge step may fold it in."
+    },
+    {
+      "start_page_id": "B_0053_L",
+      "kind": "trip",
+      "title_guess": "Aston Cantlow (Island Meadow caravan park) & Kinwarton Dovecot",
+      "date_guess": "2005-04-09",
+      "index_page_no": 50,
+      "evidence": [
+        { "page_id": "B_0053_L", "signal": "departure", "excerpt": "April 9th 2005. At 11 we set off for Aston Cantlow." },
+        { "page_id": "B_0054_L", "signal": "date", "excerpt": "Sunday April 10th 2005" },
+        { "page_id": "B_0054_R", "signal": "return", "excerpt": "We got home at 3.05. Sunday" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9,
+      "notes": "Clear 2005 departure; dated headings throughout. Runs B_0053_L -> the first part of B_0054_R (Kinwarton Dovecot day, return home Sunday)."
+    },
+    {
+      "start_page_id": "B_0054_R",
+      "kind": "trip",
+      "title_guess": "Malvern (collecting Grandma & Helen from Lordswood Rd)",
+      "date_guess": "2005-05-27",
+      "index_page_no": 52,
+      "evidence": [
+        { "page_id": "B_0054_R", "signal": "departure", "excerpt": "Friday May 27th. Simon + Eve left at 12.40. + then had to go back, at Lordswood Rd, for the name of Grandma's + Helen's b. + b. We are going to pick them up + take them to Malvern." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0054_R is a mixed page: it ends the Aston Cantlow/Kinwarton trip ('We got home at 3.05. Sunday') and then begins a new outing under 'Friday May 27th' ('Simon + Eve left at 12.40 ... take them to Malvern'). The break falls at the 'Friday May 27th' heading.",
+      "confidence": 0.75,
+      "notes": "This Malvern trip opens at the end of the window and appears to continue past it (only its first lines are visible). Index page 52 = 'Malvern, Bromyard' (2005)."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Trip starting B_0054_R (Friday May 27th 2005, to Malvern collecting Grandma & Helen) is only begun on the last page and continues past this window.",
+  "notes": "Window B_w02 covers spreads B_0025-B_0054, which fall within volume B's first big book (volB_index, 2003-2005 content). The R-page printed numbers (no field) align with volB_index pages: B_0047_R=45 (Bath), B_0049_R=47, B_0051_R=48 (Hanbury), B_0053_R=51 (Aston Cantlow), B_0054_R=52 (Malvern). NOTE: the book2/book3/book4/book5 index_entries in the bundle are from LATER books in the volume and do NOT correspond to these page_ids; the relevant scaffold here is volB_index. B_0044_R, B_0046_R, B_0048_L photo/blank pages belong to their surrounding trips."
+}

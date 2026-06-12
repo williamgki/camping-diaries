@@ -8,7 +8,7 @@
       "properties": {
         "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
         "title": { "type": "string", "minLength": 3 },
-        "volume": { "enum": ["A", "B"] },
+        "volume": { "enum": ["A", "B", "A+B"] },
         "start_date": { "type": ["string", "null"] },
         "end_date": { "type": ["string", "null"] },
         "year": { "type": ["integer", "null"], "minimum": 1989, "maximum": 2026 },

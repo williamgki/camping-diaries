@@ -1,0 +1,52 @@
+{
+ "trip_id": "2019-northampton-78-derngate-mackintosh-house-via",
+ "title_guess": "Northampton: 78 Derngate (Mackintosh house), via Bierton & Bicester",
+ "date_guess": "2019-04-28",
+ "volume": "B",
+ "spread_range": [
+  "B_0318",
+  "B_0318"
+ ],
+ "mixed_start": true,
+ "mixed_end": false,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "B_0318_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Sunday April 28th",
+     "iso": null
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Frampton on Severn",
+    "Northampton",
+    "Derngate"
+   ],
+   "legibility": 0.88,
+   "boundary_mixed": true,
+   "text": "for flying kites. There's a big community room with wood-burning stove for drying out & keeping warm if the weather's bad.\n\tSimon + Eve + Tinder went to __Frampton on Severn__ to walk along village, fields, canal. Tinder v. good. Then on to lunch in a field. Then on to home.\n\nSunday April 28th\n We shd have left at 8.30., but we left 5 min late because TT, parked in front of van, was flat, so Simon had to recharge it. We are booked into a 10.30. tour of Dern Gate, Mackintosh's house in Northampton. We had wanted to camp this w/end, but it is too cold.\n\tWe reached Derngate at 10 & went on a guided tour. The house was built 1816 & modernised for Bassett-Lowke by Mackintosh in 1916. The house cost ~~£820~~ £220 & the renovations cost £800 (workman's weekly wage £2). BL was colourblind & only saw yellow & black."
+  },
+  {
+   "page_id": "B_0318_R",
+   "no": 19,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "78 Derngate",
+    "Bierton",
+    "Bicester"
+   ],
+   "captions": [
+    "78 Derngate. Hall/lounge screen on side of stair"
+   ],
+   "legibility": 0.92,
+   "text": "78 Derngate. Hall/lounge screen on side of stair\n\n\tOn the way home we stopped with Judith Kirby for lunch at Bierton, then had tea on the roadside next to a field of sheep near Bicester."
+  }
+ ]
+}

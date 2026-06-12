@@ -1,0 +1,222 @@
+{
+  "window_id": "A_w01",
+  "spread_range": ["A_0001", "A_0030"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0001_L",
+      "kind": "non_trip",
+      "title_guess": "Front matter: address, dedication & van pick-up note",
+      "date_guess": "1989-05",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0001_L", "signal": "narrative", "excerpt": "86 Westfield Rd, Edgbaston, Birmingham, B153 JG. [glued-in postcard of Chenonceau]" },
+        { "page_id": "A_0001_R", "signal": "heading", "excerpt": "Camping in the van. May 1989.... .... October 1992  Van Picked up by Jim, Margaret, Helen, Simon, Thomas, William, Peter." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.95
+    },
+    {
+      "start_page_id": "A_0002_L",
+      "kind": "non_trip",
+      "title_guess": "Diary index (handwritten place list, 1989-1992)",
+      "date_guess": null,
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0002_L", "signal": "narrative", "excerpt": "1 Malvern+ Farm 1989 / 2 Harlech / 4 Peak District ... (index page, places listed against page numbers)" },
+        { "page_id": "A_0002_R", "signal": "narrative", "excerpt": "102 Beauchamp House / 103 Arlingham ... 140 Coningsby. (index continuation)" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.95
+    },
+    {
+      "start_page_id": "A_0003_R",
+      "kind": "trip",
+      "title_guess": "Malvern picnic & Kate & Jamie's farm",
+      "date_guess": "1989-05",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "A_0003_R", "signal": "heading", "excerpt": "May. First we spent a day having a picnic at Malvern, visiting a quilting exhibition. Then we went to Kate & Jamie's farm for one night" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0004_L",
+      "kind": "trip",
+      "title_guess": "Dinas Camp near Harlech (half-term)",
+      "date_guess": "1989-05",
+      "index_page_no": 2,
+      "evidence": [
+        { "page_id": "A_0004_L", "signal": "heading", "excerpt": "Half-term at Dinas Camp near Harlech. May" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0004_R",
+      "kind": "non_trip",
+      "title_guess": "Malvern old boys' day (visit/base)",
+      "date_guess": "1989-06-10",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0004_R", "signal": "date", "excerpt": "June 10th Malvern old boys' day. A very useful base here. Joined Robert Upex. Mrs. Hill at No1." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page A_0004_R opens with the tail of the Dinas/Harlech trip ('carrier, Thomas carried the food ... glorious sunshine + a fabulous holiday'); the break falls at 'June 10th Malvern old boys' day', which starts a short separate visit.",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "A_0005_L",
+      "kind": "trip",
+      "title_guess": "Peak District weekend (Chatsworth, Alport, Youlgreave)",
+      "date_guess": "1989-07-01",
+      "index_page_no": 4,
+      "evidence": [
+        { "page_id": "A_0005_L", "signal": "heading", "excerpt": "July 1st. Weekend in the Peak District. We all slept in the van at Hopping Farm." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0005_R",
+      "kind": "trip",
+      "title_guess": "Dinas Camp near Harlech (July, with family)",
+      "date_guess": "1989-07-14",
+      "index_page_no": 5,
+      "evidence": [
+        { "page_id": "A_0005_R", "signal": "heading", "excerpt": "July 14th Friday. Off to Dinas Camp near Harlech again, to join Tim, Margaret, Helen and David, Sally, Maia. We left before breakfast" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0006_L",
+      "kind": "trip",
+      "title_guess": "Northern tour: Leeds, York, Hadrian's Wall, Settle, Burnley, Warburton & Arley Hall",
+      "date_guess": "1989-08-19",
+      "index_page_no": 6,
+      "evidence": [
+        { "page_id": "A_0006_L", "signal": "departure", "excerpt": "John's birthday. Saturday Aug 19th. Off to the north. Leeds - camped on the Sykes front drive." },
+        { "page_id": "A_0009_L", "signal": "narrative", "excerpt": "Mr. Rourke's factory on the way home. ... After Burnley, we drove to Warburton in Cheshire." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0010_L",
+      "kind": "non_trip",
+      "title_guess": "Stay with Venetia & David at Little Somborne",
+      "date_guess": "1989-09-29",
+      "index_page_no": 14,
+      "evidence": [
+        { "page_id": "A_0010_L", "signal": "date", "excerpt": "September 29th. We went to stay with Venetia. David was cutting the grass for his 40th birthday. ... Harvest Festival in little Somborne church." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page A_0010_L opens with the tail of the northern trip ('buy two pictures which had hung in the Hall 200 years ago.' - Arley Hall); the break falls at 'September 29th. We went to stay with Venetia', starting a family visit to Little Somborne.",
+      "confidence": 0.5
+    },
+    {
+      "start_page_id": "A_0010_R",
+      "kind": "trip",
+      "title_guess": "Stokesay Castle, Shropshire (last trip of the year)",
+      "date_guess": "1989-10-28",
+      "index_page_no": 15,
+      "evidence": [
+        { "page_id": "A_0010_R", "signal": "departure", "excerpt": "October 28th Saturday. We have set off for the last trip of the year - a night in Shropshire. Stokesay Castle." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page A_0010_R opens with the tail of the Venetia/Little Somborne visit ('church. A hymn about the rain bow ... Robert Welch's workshop in Chipping Camden on the way home'); the break falls at 'October 28th Saturday. We have set off for the last trip of the year - a night in Shropshire. Stokesay Castle.'",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0011_R",
+      "kind": "non_trip",
+      "title_guess": "1990: Day out to Windmill & Church with Doris & Adelbert",
+      "date_guess": "1990-04-06",
+      "index_page_no": 17,
+      "evidence": [
+        { "page_id": "A_0011_R", "signal": "heading", "excerpt": "1990  April 6th. Day out to Windmill + Church with Doris + Adelbert" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page A_0011_R opens with the tail of the Stokesay Castle trip ('Lord + Lady's solar chamber ... Arrived at Hamperley campsite ... The year finished'); the break falls at '1990 April 6th. Day out to Windmill', which begins the 1990 season with a day out.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0012_L",
+      "kind": "trip",
+      "title_guess": "Di & Ian, Windmill Hill, Avebury, Devizes, Lacock, Bradford & Bath",
+      "date_guess": "1990-04-20",
+      "index_page_no": 18,
+      "evidence": [
+        { "page_id": "A_0012_L", "signal": "departure", "excerpt": "April 20th. We set off + left John + Charles with Grandma + Grandpa. Then on to Di + Ian ... We stayed the night in their garden" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "A_0014_L",
+      "kind": "trip",
+      "title_guess": "Hamperley & Long Mynd, north of Ludlow",
+      "date_guess": "1990-03",
+      "index_page_no": 22,
+      "evidence": [
+        { "page_id": "A_0014_L", "signal": "heading", "excerpt": "March 4th. We've come to Hamperley, north of Ludlow. Simon got feasts for everyone out of the freezer when we arrived." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page A_0014_L opens with the tail of the Bath/Avebury trip ('the boys, Julius, Victorian statue replaced ... We visited Pouteney Bridge'); the break falls at 'March 4th. We've come to Hamperley, north of Ludlow.' Note the 'March 4th' date sits out of chronological order after the April 20-21 entries; the index places Hamperley/Long Mynd at p22 in 1990.",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "A_0016_L",
+      "kind": "trip",
+      "title_guess": "Dinas, Welshpool railway, Harlech & Barmouth with the Portals",
+      "date_guess": "1990-05-30",
+      "index_page_no": 26,
+      "evidence": [
+        { "page_id": "A_0016_L", "signal": "departure", "excerpt": "May 30th 1990. We have set off for Dinas with Matt Portal, Claire 7 & Peter 4. Jane is in Korea." },
+        { "page_id": "A_0019_L", "signal": "return", "excerpt": "June 3rd. We pack up at Dinas and set off for home. ... In the afternoon we visit the highest waterfall in Wales, before reaching home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page A_0016_L opens with the tail of the Hamperley/Long Mynd trip ('John & Charles were too tired for another walk ... After tea we set off home'); the break falls at 'May 30th 1990. We have set off for Dinas with Matt Portal'.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0019_R",
+      "kind": "trip",
+      "title_guess": "Cherry Tree Farm, Woodford Halse & Canons Ashby (Daventry)",
+      "date_guess": "1990-06-23",
+      "index_page_no": 33,
+      "evidence": [
+        { "page_id": "A_0019_R", "signal": "departure", "excerpt": "June 23rd. Simon picked up Peter, Thomas & William from school & drove over to Long Buckby ... we arrived at Cherry Tree Farm campsite, Woodford Halse" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0022_L",
+      "kind": "trip",
+      "title_guess": "Ardèche (France) & the Wegners in W. Germany",
+      "date_guess": "1990-07-25",
+      "index_page_no": 38,
+      "evidence": [
+        { "page_id": "A_0022_L", "signal": "departure", "excerpt": "July 25 1990. Simon, Eve, Thomas, William, Peter off to the Ardèche, France, & to visit the Wegners in W. Germany." },
+        { "page_id": "A_0030_R", "signal": "return", "excerpt": "Once we were back in England we went to west of Folkestone to see the Channel Tunnel Exhibition Centre" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    }
+  ],
+  "continues_from_previous_window": false,
+  "open_at_end": "Ardèche/Germany trip starting A_0022_L is still in progress at the end of the window: A_0030_R has the family just back in England visiting the Channel Tunnel Exhibition Centre (index p56 Calais, p57 Channel Tunnel Museum) before reaching home; the return home and trip end fall past A_0030.",
+  "notes": "Window opens with front matter (A_0001) and the handwritten index spread (A_0002), both marked non_trip. Diary covers 1989 (pp1-15) and 1990 (pp16-56). Date order is mostly chronological except A_0014_L 'March 4th' (Hamperley) which appears after the April 20-21 Avebury/Bath entries - likely a March outing logged out of sequence; flagged with lower confidence. 'Malvern old boys' day' (A_0004_R), the Venetia stay (A_0010_L) and the Windmill day-out (A_0011_R) read as visits/day-outs rather than full van outings, marked non_trip with mixed-page breaks. spread_range reflects the spreads actually present (A_0001-A_0030); the book record nominally runs to A_0083."
+}

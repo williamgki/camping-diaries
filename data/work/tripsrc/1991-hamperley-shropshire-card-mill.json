@@ -1,0 +1,50 @@
+{
+ "trip_id": "1991-hamperley-shropshire-card-mill",
+ "title_guess": "Hamperley (Shropshire) & Card Mill",
+ "date_guess": "1991-05-04",
+ "volume": "A",
+ "spread_range": [
+  "A_0040",
+  "A_0041"
+ ],
+ "mixed_start": true,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "A_0040_R",
+   "no": 75,
+   "dates": [
+    {
+     "raw": "May 4th.",
+     "iso": null
+    }
+   ],
+   "headings": [
+    "May 4th."
+   ],
+   "places": [
+    "Birmingham",
+    "Wolverhampton",
+    "Hamperley"
+   ],
+   "legibility": 0.82,
+   "boundary_mixed": true,
+   "text": "__May 4th.__\n\n   We set out from Birmingham on Saturday morning & called at the Wolverhampton camping shop to buy a cushion & deck chairs.\n\n   We arrived at __Hamperley__, only to get thoroughly bogged down in the field. We had lunch bogged in & Simon worked for 2 hours to get us out, while the boys played with their hammocks in the woods.\n\n   Simon took the 5 boys out for an hour's walk in the evening, just before rain came. It's cold & raining & very muddy.\n\n__Sunday__ we again got bogged down; the man giving the [?funny] [?too] a [?race] list came & helped push us"
+  },
+  {
+   "page_id": "A_0041_L",
+   "no": 76,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Card Mill"
+   ],
+   "legibility": 0.88,
+   "boundary_mixed": true,
+   "text": "out, along with some other campers.\n\tAlthough Thomas had run to church earlier, he couldn't see a sign telling the time of the service so we arrived late. It had started at 9.45. When we came out of the church, ¼ pint double cream had tipped out of the fridge & down the gangway.\n\tWe ate lunch in a lovely valley with lots of other trippers. It was Card Mill. There were streams coming down the hillside & several dams, which had been made smaller recently.\n\tAfter tea we went home."
+  }
+ ]
+}

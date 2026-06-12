@@ -1,0 +1,335 @@
+{
+  "window_id": "B_w15",
+  "spread_range": ["B_0337", "B_0366"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0337_R",
+      "kind": "trip",
+      "title_guess": "Ross on Wye: New House Farm",
+      "date_guess": "2020-07-10",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0337_R", "signal": "departure", "excerpt": "Friday July 10th ... Simon & Eve & Tinder set off at 3.30, to near Ross on Wye. The site is on a farm, New House Farm" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the END of the previous (Bourton/Stow/Rollright) trip: 'Simon & Eve left in Peter's green mercedes to go home.' The new Ross on Wye trip starts at the 'Friday July 10th' heading lower on the page.",
+      "confidence": 0.82
+    },
+    {
+      "start_page_id": "B_0338_L",
+      "kind": "trip",
+      "title_guess": "Thorpeness via Wimpole Hall",
+      "date_guess": "2020-07-20",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0338_L", "signal": "departure", "excerpt": "Monday July 20th Off to Thorpeness with champagne + everyone except Charles + Austin ... met up with John + Kay + Eben at Wimpole Hall ... then on to Thorpe." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the END of the Ross on Wye trip ('We had a super visit ... Home after lunch on Sunday.'). New Thorpeness trip starts at the 'Monday July 20th' heading.",
+      "confidence": 0.75
+    },
+    {
+      "start_page_id": "B_0338_R",
+      "kind": "trip",
+      "title_guess": "Hop-picking at the farm (Westfield Rd era)",
+      "date_guess": "2020-08-23",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0338_R", "signal": "departure", "excerpt": "Sunday 23rd August Tinder, Simon + Eve set off at 4.30 for hop picking at the farm ... We return again Sunday Aug 30th. We set off at 16.40." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "B_0339_L",
+      "kind": "trip",
+      "title_guess": "George Rd keys / Monmouth & Symonds Yat (incl. early-Sept farm hop returns)",
+      "date_guess": "2020-09",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0339_L", "signal": "departure", "excerpt": "Tuesday 8th September Simon, Eve + Tinder returned to the farm ... Sunday September 27th 2020 ... At 9.15 we set off to John's ... met John, Kay + Eben at the 3 Horseshoes ... a pretty field with a view of Symonds Yat ... Sunday October 4th. At 2.30 we drove off to the farm with the white sofa" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Page records several very short outings (Sept 8 farm return, Sept 27 Monmouth/Symonds Yat, Oct 4 furniture run to farm). They run together as home-based errand trips around the George Rd house move; treated here as a cluster rather than splitting each one.",
+      "confidence": 0.45
+    },
+    {
+      "start_page_id": "B_0340_R",
+      "kind": "trip",
+      "title_guess": "New van shakedown: Wrest Park, Aylesbury, Chandlers Ford, Witney, Edge Hill",
+      "date_guess": "2020-10-27",
+      "index_page_no": 41,
+      "evidence": [
+        { "page_id": "B_0340_R", "signal": "heading", "excerpt": "NEW VAN  Peugeot Boxer / 27 October 2020 / Set off quite soon after breakfast to rural Bedfordshire ... Wrest Park ... campsite near Berkhamstead" },
+        { "page_id": "B_0341_R", "signal": "place", "excerpt": "campsite at Edge Hill NW of Banbury" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0343_R",
+      "kind": "trip",
+      "title_guess": "Gower: Cardiff (Dyffryn), Llanrhidian, Whiteford Bay lighthouse",
+      "date_guess": "2021-04-23",
+      "index_page_no": 44,
+      "evidence": [
+        { "page_id": "B_0343_R", "signal": "departure", "excerpt": "11am Friday April 23rd. St George's Day 2021 Simon, Eve & Tinder set off ... tea with John & Kay & Eben near Cardiff ... a campsite for 3 nights on N. Gower coast. Salt Flats." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.92
+    },
+    {
+      "start_page_id": "B_0345_L",
+      "kind": "trip",
+      "title_guess": "Chedworth Roman Villa (short trip, Peter's birthday)",
+      "date_guess": "2021-05-25",
+      "index_page_no": 45,
+      "evidence": [
+        { "page_id": "B_0345_L", "signal": "departure", "excerpt": "Tuesday May 25th Peter's Birthday 11.10. We left for a short trip to see Chadworth Roman Villa" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of page continues the Gower trip return (Heads of the Valleys, lunch at Raglan Castle on 'Monday'). The new short Chedworth trip starts at the 'Tuesday May 25th' heading. (B_0345_R is a printed Chedworth info-card/photo page belonging to this trip.)",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "B_0346_L",
+      "kind": "trip",
+      "title_guess": "Denfurlong Farm / Chipping Sodbury (Amigos)",
+      "date_guess": "2021-05-26",
+      "index_page_no": 46,
+      "evidence": [
+        { "page_id": "B_0346_L", "signal": "heading", "excerpt": "Wed May 26th We're in Denfurlong Farm Campsite ... about to leave for Chipping Sodbury ... lunch at Amigos ... Then we head for home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "B_0346_R",
+      "kind": "trip",
+      "title_guess": "Hay on Wye (Racketty Lodge) & Rutland Water",
+      "date_guess": "2021-06-03",
+      "index_page_no": 47,
+      "evidence": [
+        { "page_id": "B_0346_L", "signal": "departure", "excerpt": "Thursday June 3rd. Simon, Eve & Tinder left at 10.45 & picked up Flora ... Kimbolton" },
+        { "page_id": "B_0346_R", "signal": "place", "excerpt": "arrived ... at Racketty Lodge, outside Hay on Wye ... 2pm Monday June 28th ... drive to Rutland water" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Departure ('Thursday June 3rd') actually falls at the bottom of B_0346_L, but the bulk of the trip (Hay/Racketty Lodge) runs from B_0346_R onward; recorded at B_0346_R. This long entry rolls into a later Rutland Water / Beverley / Teesdale / Vindolanda leg without a clear home-return, so it may be one big trip or several.",
+      "confidence": 0.5
+    },
+    {
+      "start_page_id": "B_0348_L",
+      "kind": "trip",
+      "title_guess": "Beverley, Teesdale (Bowes), Killhope lead mine",
+      "date_guess": "2021-06",
+      "index_page_no": 48,
+      "evidence": [
+        { "page_id": "B_0348_L", "signal": "place", "excerpt": "We've reached Beverley by 3 ... Willow Lane Campsite ... Beverley Minster" },
+        { "page_id": "B_0348_R", "signal": "place", "excerpt": "Thursday ... set off for Bowes for lunch with the Fishers ... Pecknell Farm campsite ... Friday ... the Killhope (!) lead mine" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Northbound leg (Beverley/Teesdale/Killhope) reached via the A1 with no intervening home return after the Rutland Water/Stamford/Grantham leg, so this may be a continuation of the trip starting B_0346_R rather than a separate trip; low-confidence split.",
+      "confidence": 0.35
+    },
+    {
+      "start_page_id": "B_0350_R",
+      "kind": "trip",
+      "title_guess": "Vindolanda (& home via Middlewich)",
+      "date_guess": "2021-07",
+      "index_page_no": 50,
+      "evidence": [
+        { "page_id": "B_0350_L", "signal": "place", "excerpt": "Monday ... We drove on to Vindolanda - much developed since our last visit" },
+        { "page_id": "B_0350_R", "signal": "place", "excerpt": "We have driven down to beyond Manchester for the night. Brook House Farm Middlewich" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Vindolanda is the tail of the long northern trip (continuation of Killhope leg); listed for index alignment (p50) but very likely the SAME trip as B_0348, ending with the drive home via Middlewich at the top of B_0351_L.",
+      "confidence": 0.3
+    },
+    {
+      "start_page_id": "B_0351_L",
+      "kind": "trip",
+      "title_guess": "Thorpeness summer holiday (Headlands)",
+      "date_guess": "2021-07-25",
+      "index_page_no": 51,
+      "evidence": [
+        { "page_id": "B_0351_L", "signal": "departure", "excerpt": "Sunday July 25th We left home & returned for fan belt ... Peter is bringing the Master to Thorpe ... We dropped Tinder off at Kennels ... a super Thorpe" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens mid-sentence with the END of the northern trip ('Tuesday we went on a short walk ... Then we set off for home.'). The new Thorpeness trip starts at the 'Sunday July 25th' heading.",
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "B_0351_R",
+      "kind": "trip",
+      "title_guess": "Imogen & Nick's wedding (Cheshire, Jodrell Bank) + Chester/Netherton family camp",
+      "date_guess": "2021-08-07",
+      "index_page_no": 52,
+      "evidence": [
+        { "page_id": "B_0351_R", "signal": "departure", "excerpt": "August 7th Saturday Simon & Eve leave for Imogen Maxwell's marriage to Nick Greasley ... Cheshire. Down the road from Jodrell Bank." },
+        { "page_id": "B_0352_R", "signal": "place", "excerpt": "camping near Chester with Thomas & Peter ... Netherton touring site" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "B_0353_R",
+      "kind": "trip",
+      "title_guess": "Harlech / Llandanwg, Shell Island, Lake Vyrnwy, St. Melangell's",
+      "date_guess": "2021-08",
+      "index_page_no": 54,
+      "evidence": [
+        { "page_id": "B_0353_L", "signal": "place", "excerpt": "Simon + Eve went west to near Harlech ... Dolwyddelen Castle" },
+        { "page_id": "B_0353_R", "signal": "place", "excerpt": "onto the campsite south of Harlech, Llandanwg village. Glan y Gors campsite" }
+      ],
+      "mixed": false,
+      "mixed_detail": "The Wales-west leg branches off directly from the Chester/Netherton family camp ('They all went home. Simon + Eve went west to near Harlech') at the top of B_0353_L with no home return, so it may be a continuation of the B_0351_R trip rather than a separate one.",
+      "confidence": 0.4
+    },
+    {
+      "start_page_id": "B_0355_R",
+      "kind": "trip",
+      "title_guess": "Newnham hops meeting & Pangbourne (Meadow Farm) with Charles",
+      "date_guess": "2021-08-20",
+      "index_page_no": 56,
+      "evidence": [
+        { "page_id": "B_0355_R", "signal": "departure", "excerpt": "Friday August 20th We set off at 7.35 for a hop business meeting ... at Newnham ... drove on to Pangbourne. Meadow Farm ... Then home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the END of the Wales trip ('Sunday We walked in a peaceful valley & set off at 10.15 for home.'). New Pangbourne trip starts at the 'Friday August 20th' heading.",
+      "confidence": 0.72
+    },
+    {
+      "start_page_id": "B_0356_L",
+      "kind": "trip",
+      "title_guess": "Farm hop-picking visits (late Aug–Sept) & Kent apple counting",
+      "date_guess": "2021-08-25",
+      "index_page_no": 57,
+      "evidence": [
+        { "page_id": "B_0356_L", "signal": "departure", "excerpt": "Wednesday August 25th 5.45 left home for farm ... Sunday August 26th 4.30 Simon, Eve + Tinder have left to go hop picking ... Thursday 23rd Sept ... off at 11.15 to see Charles apple counting in Kent" },
+        { "page_id": "B_0356_R", "signal": "place", "excerpt": "Tea with Richard + Mary, George + Charles + Tom ... Counting apples" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Several short farm hop-picking runs (with home returns between) are logged consecutively on B_0356_L before the distinct Kent apple-counting trip (Sept 23). Treated as a cluster; the Kent leg (from 'Thursday 23rd Sept') could justify its own boundary.",
+      "confidence": 0.4
+    },
+    {
+      "start_page_id": "B_0357_L",
+      "kind": "trip",
+      "title_guess": "Suffolk coast: Run Cottage (Hollesley), Shingle St, Bawdsey Radar, Felixstowe",
+      "date_guess": "2021-10-08",
+      "index_page_no": 58,
+      "evidence": [
+        { "page_id": "B_0357_L", "signal": "departure", "excerpt": "Friday 8th 6.50 Simon & Tinder left George Rd to come & pick up Eve at Thorpeness ... Run Cottage campsite Hollesley, Nr. Woodbridge ... Shingle St." },
+        { "page_id": "B_0357_R", "signal": "place", "excerpt": "Bawdsey Radar museum ... cycled to Ferry & across those golf courses to sea front at Felixstowe" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Departure is from George Rd to pick up Eve at Thorpeness; effectively the start of the autumn Suffolk/Essex coast trip. The long entry rolls into the Mersea/Bradwell/Hyde Hall/London leg without an explicit home return.",
+      "confidence": 0.62
+    },
+    {
+      "start_page_id": "B_0358_R",
+      "kind": "trip",
+      "title_guess": "Mersea, Tillingham, Bradwell-on-Sea, Hyde Hall & London",
+      "date_guess": "2021-10",
+      "index_page_no": 59,
+      "evidence": [
+        { "page_id": "B_0358_R", "signal": "place", "excerpt": "We found a space on West Mersea Quay ... 5 lakes golfing hotel ... Markes Farm, Tillingham" },
+        { "page_id": "B_0359_L", "signal": "place", "excerpt": "St. Peter on the Wall at Bradwell on Sea" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Mersea/Bradwell/Hyde Hall/London is a continuation of the Suffolk coast trip (no home return after Felixstowe), so this likely belongs to the B_0357_L trip; low-confidence split, kept for index alignment (p59/p60).",
+      "confidence": 0.3
+    },
+    {
+      "start_page_id": "B_0360_R",
+      "kind": "trip",
+      "title_guess": "Enfield Church (Staffs) day trip via Black Country",
+      "date_guess": "2022-02-26",
+      "index_page_no": 61,
+      "evidence": [
+        { "page_id": "B_0360_R", "signal": "departure", "excerpt": "Saturday February 26th 2022 11.30. We left George Rd to spend a day in the country. NW. We parked at Enfield Church, Staffordshire for lunch ... headed for home through the Black Country" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the END of the Oct/Nov 2021 London/Hyde Hall trip and a 'November 15th' van-load note. The new Feb 26 2022 Enfield Church day trip starts at the dated heading; a further trip (March 9 Penn Onn/Crail) also begins lower on the page.",
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "B_0360_R_b",
+      "kind": "trip",
+      "title_guess": "Penn Onn (Kay/Eben) & Claudia's wedding at Crail, Scotland",
+      "date_guess": "2022-03-09",
+      "index_page_no": 61,
+      "evidence": [
+        { "page_id": "B_0360_R", "signal": "departure", "excerpt": "Wednesday March 9th 8.30 we set off ... off to Penn Onn to help Kay ... go on to Claudia's wedding in Scotland after Wales." },
+        { "page_id": "B_0361_L", "signal": "place", "excerpt": "getting to Crail about 4.15 ... The wedding was beautiful in the Cow Shed at Crail" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Boundary falls within B_0360_R at the 'Wednesday March 9th' heading (after the Feb 26 day trip ends). Cannot use a per-page id for the second start on the same page, so suffixed _b; the long wedding trip continues to B_0361/B_0362.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "B_0361_R",
+      "kind": "trip",
+      "title_guess": "Peak District: Tissington Trail, Parwich, Minninglow (e-bikes)",
+      "date_guess": "2022-03-25",
+      "index_page_no": 62,
+      "evidence": [
+        { "page_id": "B_0361_R", "signal": "departure", "excerpt": "Friday March 25th We left home at 9.45 to take Tinder to the vet ... up to the Peak District + parked ... at Alsop on the Tissington Trail ... camped at Fourginside Farm near Parwich" },
+        { "page_id": "B_0362_L", "signal": "place", "excerpt": "We drove to Minninglow ... cycled SE to Middleton Top" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the END of the Crail wedding trip ('We have offered to have Conta to stay ... Kirk Loch ... Monday ... hurried home'). New Peak District trip starts at the 'Friday March 25th' heading.",
+      "confidence": 0.75
+    },
+    {
+      "start_page_id": "B_0362_R",
+      "kind": "trip",
+      "title_guess": "Redditch/Brook House Farm errand & Hay Festival (Hay on Wye)",
+      "date_guess": "2022-03-31",
+      "index_page_no": 63,
+      "evidence": [
+        { "page_id": "B_0362_R", "signal": "departure", "excerpt": "Thursday March 31st. ... Simon & Tinder & I set off for Redditch ... On to Brook House Farm ... Home." },
+        { "page_id": "B_0362_R", "signal": "departure", "excerpt": "Sunday 29th May Simon, Eve Tinder set off at 9.15 for Hay on Wye. William & family saw a Lenny Henry talk" }
+      ],
+      "mixed": false,
+      "mixed_detail": "B_0362_R holds a short Mar 31 Redditch/Brook House Farm errand (with home return) followed by the start of the longer Hay Festival trip (May 29) which runs through B_0363/B_0364 (Kilpeck). Treated as a cluster; the Hay leg dominates.",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "B_0364_R",
+      "kind": "trip",
+      "title_guess": "Fleet/Eversley & London (Hounslow West, Harrods/Harvey Nichols)",
+      "date_guess": "2022-06-15",
+      "index_page_no": 65,
+      "evidence": [
+        { "page_id": "B_0364_R", "signal": "place", "excerpt": "Wednesday June 1st ... Simon + I drove to see Kilpeck church ... on the way home" },
+        { "page_id": "B_0365_L", "signal": "departure", "excerpt": "3pm Wednesday June 15th. We left home + put Tinder in Hylton Hound Kennels ... Little Bramshott Farm campsite ... Near Fleet ... Eversley Church where we were married nearly 48 years ago ... trained into London on the Piccadilly line" }
+      ],
+      "mixed": false,
+      "mixed_detail": "B_0364_R ends the Hay/Kilpeck trip ('on the way home'). The new Fleet/Eversley & London trip's departure heading ('Wednesday June 15th') actually appears at the top of B_0365_L; recorded at B_0364_R for index alignment (p65). Could instead be tagged to B_0365_L.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "B_0366_L",
+      "kind": "trip",
+      "title_guess": "France & Switzerland: Vitry-le-François, Gray, St Point Lake, Gadmen",
+      "date_guess": "2022-06-17",
+      "index_page_no": 66,
+      "evidence": [
+        { "page_id": "B_0366_L", "signal": "departure", "excerpt": "Friday 17th June at 7.30 we left for France ... near Vitry la France ... St. Point Lake ... Los Hopitsaux Neufs" },
+        { "page_id": "B_0366_R", "signal": "place", "excerpt": "Monday We left at 8.50. Into Switzerland ... We reached Gadmen village + the campsite" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of B_0366_L ('We had a good supper at the Plough in our usual Kent campsite') is the tail of the Fleet/London trip's outbound stop in Kent. The Continental trip proper starts at 'Friday 17th June ... we left for France'. This trip continues past the window (still in Switzerland at the end of B_0366_R).",
+      "confidence": 0.6
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Continental trip starting B_0366_L (France & Switzerland, June 2022) is still in progress at the end of the window — they are in Gadmen, Switzerland on B_0366_R with no return home.",
+  "notes": "Window covers spreads B_0337-B_0366 (the books index ranges to B_0373 but only these spreads were transcribed). Years run 2020 (house sale at '86', move to George Rd in Oct, Covid) through mid-2022. Many entries are short home-based errand/family trips logged in clusters, and several long entries (Hay->Beverley->Teesdale->Killhope->Vindolanda; Suffolk->Mersea->Bradwell->London) run across multiple index pages without explicit home returns, so the split points there are low-confidence (0.3-0.5) and may collapse to fewer, longer trips in the merge step. Two boundaries fall mid-page on B_0360_R (Feb 26 day trip end / March 9 wedding trip start); the second is recorded with a synthetic id 'B_0360_R_b'. Page numbers (no field) align with the volume B book5 index (2021/2022 years): B_0340_R=41, B_0341_R=42, B_0343_R=44, B_0344_R=45, B_0346_R=47, B_0349_R=50, B_0351_R=52, B_0352_R=53, B_0353_R=54, B_0354_R=55, B_0355_R=56, B_0356_R=57, B_0357_R=58, B_0360_R=61, B_0361_R=62, B_0362_R=63, B_0364_R=65."
+}

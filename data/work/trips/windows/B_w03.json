@@ -1,0 +1,144 @@
+{
+  "window_id": "B_w03",
+  "spread_range": ["B_0049", "B_0078"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0049_L",
+      "kind": "trip",
+      "title_guess": "Malvern: John & Greg's concert weekend",
+      "date_guess": "2004-10",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0049_R", "signal": "date", "excerpt": "Sunday ... Monday October 22nd. John, Melody, Charlotte, Simon & Eve" },
+        { "page_id": "B_0049_L", "signal": "narrative", "excerpt": "John was playing \"The Swan\" at Little Malvern Court. So we went to hear him." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.4,
+      "notes": "Window opens mid-narrative; this trip starts before B_0049 in the previous window. Reported at the window edge; continues_from_previous_window."
+    },
+    {
+      "start_page_id": "B_0051_R",
+      "kind": "trip",
+      "title_guess": "Hanbury Hall day trip (Droitwich)",
+      "date_guess": "2004",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0051_R", "signal": "narrative", "excerpt": "went on a day trip to Hanbury Hall 1801 near Droitwich" },
+        { "page_id": "B_0052_L", "signal": "sketch", "excerpt": "the icehouse was 6m wide & high built of brick [icehouse cross-section diagram]" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.35,
+      "notes": "B_0050 is an inserted concert programme (St Edmund's Hall, 17 Oct 2004) belonging to the surrounding Malvern material. B_0051_R opens a Hanbury Hall day outing; B_0052_R has a 2002 photo caption (older photo reused). Hard to tell if Hanbury is a distinct outing or part of the Malvern weekend — low confidence."
+    },
+    {
+      "start_page_id": "B_0053_L",
+      "kind": "trip",
+      "title_guess": "Aston Cantlow & Kinwarton Dovecot",
+      "date_guess": "2005-04-09",
+      "index_page_no": 50,
+      "evidence": [
+        { "page_id": "B_0053_L", "signal": "departure", "excerpt": "April 9th 2005. At 11 we set off for Aston Cantlow. On the way we had to stop in a layby for the brakes" },
+        { "page_id": "B_0054_R", "signal": "return", "excerpt": "We got home at 3.05. Sunday" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.92,
+      "notes": "Clear departure from home (brakes 'wrong straight after the winter'). Trip ends on B_0054_R with 'We got home at 3.05.' Matches volB index p.50 'Aston Cantlow' (2005) and p.51 'Kinwarton'."
+    },
+    {
+      "start_page_id": "B_0054_R",
+      "kind": "trip",
+      "title_guess": "Malvern (Charles/John concert) & Knapton, Shuckborough",
+      "date_guess": "2005-05-27",
+      "index_page_no": 52,
+      "evidence": [
+        { "page_id": "B_0054_R", "signal": "departure", "excerpt": "Friday May 27th. Simon + Eve left at 12.40. + then had to go back, at Lordswood Rd ... We are going to pick them up + take them to Malvern." },
+        { "page_id": "B_0055_L", "signal": "heading", "excerpt": "We finally get to Trimplay then on to lunch at Kate + Jamie's ... off to Malvern ... John or Charles play in every part of the concert." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0054_R contains the END of the Aston Cantlow trip ('We got home at 3.05. Sunday') in its top section, then the START of the next outing under the heading 'Friday May 27th' ('Simon + Eve left at 12.40...'). Break falls at the 'Friday May 27th' heading.",
+      "confidence": 0.85,
+      "notes": "Matches volB index p.52 'Malvern, Bromyard', p.53 'Knapton', p.54 'Cambridge/Oxburgh Hall' etc. Departure cited (left, went back to Lordswood Rd for B&B name). Runs through Malvern, Knapton, Shuckborough."
+    },
+    {
+      "start_page_id": "B_0056_L",
+      "kind": "trip",
+      "title_guess": "Eastern England: Harrington, Cambridge/Oxburgh Hall, Mileham, Blickling, Halesworth, Oundle, Corby (home)",
+      "date_guess": "2005-06-17",
+      "index_page_no": 54,
+      "evidence": [
+        { "page_id": "B_0056_L", "signal": "departure", "excerpt": "June 17th Friday. We left St. George's at 9.30. pm after a Malawi Concert & reached a campsite next to Harrington Secret Aviation Museum" },
+        { "page_id": "B_0060_L", "signal": "return", "excerpt": "we drove on through the heat for home. At 5.30. we took the route along Bristol Rd. + rt. at Cannon Hill up Priory Rd." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0056_L top continues the previous Malvern/Knapton outing ('to but there wasn't anyone else there. We reached the campsite & had tea...' and the William & Bryony farewell), then under the heading 'June 17th Friday' a new departure begins ('We left St. George's at 9.30. pm ... Harrington'). Break falls at the 'June 17th Friday' heading.",
+      "confidence": 0.8,
+      "notes": "Ends on B_0060_L with explicit return home to Edgbaston (Bristol Rd, Cannon Hill, Priory Rd). B_0060_R is blank; belongs to this trip. Covers index p.54-57 (Oxburgh Hall, Mileham, Reepham/Blickling, Halesworth, Corby/Naseby)."
+    },
+    {
+      "start_page_id": "B_0061_L",
+      "kind": "non_trip",
+      "title_guess": "New notebook front matter: home address & date range",
+      "date_guess": "2005-07",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0061_L", "signal": "narrative", "excerpt": "86 WestField Rd, Edgbaston, Birmingham B15 3 JG. 0121-454-3730. 2005. July – 2008 July." },
+        { "page_id": "B_0061_R", "signal": "narrative", "excerpt": "Three rabbits representing the Trinity, Mediaeval glass, Long Melford ... [photo caption]" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9,
+      "notes": "Start of a new physical notebook (book starting B_0062 per bundle 'books'). Owner address inside cover + 'July 2005 – July 2008' date range. Not a van trip; front matter / flyleaf."
+    },
+    {
+      "start_page_id": "B_0062_L",
+      "kind": "non_trip",
+      "title_guess": "Handwritten index pages for this notebook",
+      "date_guess": "2005",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0062_L", "signal": "narrative", "excerpt": "[index list] 2. Vaudomanche, Clairvaux ... 29 Kinver, R. Severn" },
+        { "page_id": "B_0062_R", "signal": "narrative", "excerpt": "30 Melverley ... 69 Mery-sur-Seine" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.92,
+      "notes": "Both pages of spread B_0062 are the diary's own index (index_page:true), mapping page numbers to places for trips later in this notebook. Not a trip itself."
+    },
+    {
+      "start_page_id": "B_0063_L",
+      "kind": "trip",
+      "title_guess": "Malvern College Leavers' Ball & Thorpeness (John finishing school)",
+      "date_guess": "2005-07-08",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0063_L", "signal": "heading", "excerpt": "Malvern College Leavers Ball Friday 8th July 2005 9pm – 1am" },
+        { "page_id": "B_0063_R", "signal": "departure", "excerpt": "Friday July 8th 2005. Simon + John (17) + Eve set off at 4.25. for the Malvern Leavers' Ball ... Then we'll set off home, + on to Thorpeness in 2 cars" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0063_R holds the END of the short Malvern Leavers'-Ball / Thorpeness outing (top), then the START of the big France trip under the heading 'Friday July 22nd' ('John, Charles, Simon + Eve set off at 5pm for France, waved off by Thomas + Peter'). Break falls at the 'Friday July 22nd' heading.",
+      "confidence": 0.6,
+      "notes": "Short July 2005 outing centred on Malvern College Leavers' Ball (Friday 8 July) with onward plan to Thorpeness; glued-in event card. Not in the index list (which begins with the France trip). Boundary between this and the France departure is on the same page (mixed)."
+    },
+    {
+      "start_page_id": "B_0063_R",
+      "kind": "trip",
+      "title_guess": "France 2005: Provence & Alps (Clairvaux, Malaucène, Avignon, Vaucluse, Sénanque, Mt Ventoux, Moustiers, Gorges du Verdon, Drôme, Vercors)",
+      "date_guess": "2005-07-22",
+      "index_page_no": 2,
+      "evidence": [
+        { "page_id": "B_0063_R", "signal": "departure", "excerpt": "Friday July 22nd. John, Charles, Simon + Eve set off at 5pm for France, waved off by Thomas + Peter. We are listening to the Ashes on the" },
+        { "page_id": "B_0064_R", "signal": "place", "excerpt": "The campsite in fields outside Laudemanche [Vaudemanche] ... We reached Clairvaux Abbey" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Major 2005 France trip starting Fri 22 July; matches index p.2 'Vaudemanche, Clairvaux' through Provence (Malaucene, Avignon, Fontaine de Vaucluse p.5, Senanque p.6, Mt Ventoux p.7, Colorado de Rustrel p.8, Esparron p.10, Moustiers p.11, Gorges de Verdon p.12, Drome p.14, Saillans p.15, Vercors p.16). Trip continues past the end of this window."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "France 2005 trip starting B_0063_R continues past this window (last spread B_0078 is still in the Vercors); not yet returned home.",
+  "notes": "Window B_0049-B_0078 spans the tail of vol B book 1 (2004-mid 2005 short English outings ending with return home at B_0060_L) and the opening of the next notebook (front matter B_0061, index B_0062) leading into the big 2005 France trip from B_0063_R. Several END/START breaks fall on a single physical page (B_0054_R, B_0056_L, B_0063_R) and are flagged mixed. B_0050 is an inserted concert programme and B_0060_R is blank; both assigned to their surrounding trips. Earliest two boundaries (B_0049_L, B_0051_R) are low-confidence because the window opens mid-stream and it is unclear whether the Malvern weekend and Hanbury Hall are one outing or two."
+}

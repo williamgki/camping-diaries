@@ -1,0 +1,156 @@
+{
+ "trip_id": "1997-france-1997-burgundy-home-continuation",
+ "title_guess": "France 1997: Burgundy & home (continuation)",
+ "date_guess": "1997-08",
+ "volume": "A",
+ "spread_range": [
+  "A_0217",
+  "A_0219"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [
+  "/Users/williamgkirby/Sites/camping-diaries/scans/volA/llm/A_0218_R.jpg",
+  "/Users/williamgkirby/Sites/camping-diaries/scans/volA/llm/A_0219_L.jpg"
+ ],
+ "pages": [
+  {
+   "page_id": "A_0217_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Tues 12th Aug",
+     "iso": "1997-08-12"
+    },
+    {
+     "raw": "Wednesday 13th August",
+     "iso": "1997-08-13"
+    }
+   ],
+   "headings": [
+    "Wednesday 13th August"
+   ],
+   "places": [
+    "Monastier",
+    "Lyons",
+    "Rhône valley",
+    "Givry",
+    "St. Jean le Vaux"
+   ],
+   "legibility": 0.88,
+   "text": "+ loos were painted blue, the ladies' pink. Tues 12th Aug\nWe shopped at Monastier Ecomarket + set of n.e.\nthough Lyons on a fast road. We pulled off the\nmotorway to have lunch at a bend of a road\nin the woods. Simon left the beer bottles open.\nCharles caught a wasp in one bottle. When Simon\nwent to take a final gulp of beer, Thomas\nsaid \"Watch out! Charles' wasp\" + Simon spat\nbeer all over the table. We are about to turn\nnorth up the Rhône valley.\n    Beyond Givry we reached __St. Jean le Vaux__.\nThe pool is open until 8 in the evening, but\nunfortunately they expect the boys to wear\nskimpy swim suits. We have a delicious supper\nof chicken + charcuterie salad. Charles is\nterrified of the wasps.\n    Wednesday 13th August\n    Thomas bought bread in the village.\nYesterday the boys, John + Charles, were allowed to\nborrow swim suits, but they had to wait to\nborrow them today. They ended up wearing their\nunderwear / knickers instead."
+  },
+  {
+   "page_id": "A_0217_R",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Thursday 14th August",
+     "iso": "1997-08-14"
+    }
+   ],
+   "headings": [
+    "Thursday 14th August"
+   ],
+   "places": [
+    "Givry",
+    "Hotel du Raisin",
+    "St. Jean"
+   ],
+   "legibility": 0.87,
+   "text": "Simon + Eve walked in the village + booked to\ntaste wine at 10.30 the next morning.\nAfterwards, it was so hot, that even Simon\nswam. So did Thomas + Eve.\n    We went back to the Hotel du Raisin\nrestaurant in Givry. We had delicious the cold\nherring + potatoes in oil, poached eggs in Burgundy\n+ cream caramel.\n    Back at the campsite we rested + swam.\nSimon got tea ready + prepared a picnic.\n    Thomas + John set off at 6.30 without a map.\nThe rest of us nearly didn't go because Charles\nlost his shoes. Finally we found them beyond where\nhis out-door bed had been. William stayed reading\n(so that he wouldn't have to put his lens in) +\nSimon, Peter + Eve + Charles walked up into the\nvinyards to the north of St. Jean. It was a beautiful\nwalk. We had supper near woods + watched the clouds\n+ looked at old crosses. Peter found a dead snake in the\nroad.\n    When we got back, we had apple tart +\nblack berries which John had picked for us.\n    __Thursday 14th August__\n    More trouble at the pool. John + Charles are wearing\nknickers + Thomas is not swimming. We left John +"
+  },
+  {
+   "page_id": "A_0218_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Friday 15th August",
+     "iso": "1997-08-15"
+    }
+   ],
+   "headings": [
+    "Friday 15th August."
+   ],
+   "places": [
+    "Michel Isaie",
+    "Reims",
+    "La Belle Pêche",
+    "Hames-Boucres"
+   ],
+   "legibility": 0.82,
+   "text": "Charles swimming, + went to taste wine at Michel Isaie. We paid for 60 bottles. At the camp we lunched, rested + swam. After tea, Thomas, William + Peter read. Simon, Eve John + Charles [?bought charcuteries] walked up by water troughs + saw a bird farm. It gradually dropped more + more rain drops ... + then poured down. Peter + Eve read in the tent while the others went out in the van to pick up the Charcuterie + wine. John + Charles were given a tour of the caves.\n\n\tFor supper we had pâté + Thomas + John fetched hot chips from the café at the acceuil, which were delicious.\n\n__Friday 15th August.__\n\tSimon gave me tea at 8. We left at 10.10. We have headed up the pay motorway past Reims. We happened to stop at the same Aires 3 times with another family - There is about 7 hours' driving.\n\n\tAfter circling in a spiral for what seemed ages, we finally found La Belle Pêche *** at Hames-Boucres. It's a bit __old + tired__, full of families, nice dogs, friendly people + gnomes in their fenced-in [?playground] gardens. The café has happy music"
+  },
+  {
+   "page_id": "A_0218_R",
+   "no": 48,
+   "dates": [
+    {
+     "raw": "FRANCE 1997",
+     "iso": "1997"
+    }
+   ],
+   "headings": [
+    "FRANCE 1997"
+   ],
+   "places": [
+    "Picardy",
+    "Amiens",
+    "Ile-de-France",
+    "Normandy",
+    "Champagne",
+    "Lorraine",
+    "Alsace",
+    "Brittany",
+    "Loire Valley",
+    "Burgundy",
+    "Franche-Comté",
+    "Poitou/Charentes",
+    "Limousin",
+    "Auvergne",
+    "Rhône Valley",
+    "Savoy",
+    "Aquitaine",
+    "Pyrénées",
+    "Conques",
+    "Chalon of Saône",
+    "Rhône",
+    "Tampiny",
+    "Bourges",
+    "Languedoc/Roussillon",
+    "Côte d'Azur",
+    "Provence",
+    "Riviera"
+   ],
+   "sketch": true,
+   "sketch_desc": "A hand-drawn outline map of France with regional labels. A pink/red route line connects campsite markers (small triangles) starting in the Picardy region in the north, running south through Amiens, the Paris/Île-de-France area, a stop in the Loire Valley area, then Bourges, continuing south-west through Auvergne to Conques, then east to the Rhône area (Tampiny), then north up through Chalon of Saône back towards the starting point in Picardy. Title at bottom reads 'FRANCE 1997'.",
+   "legibility": 0.9,
+   "text": "[Hand-drawn map of France with regions labelled and a pink route line marked with campsite triangle symbols. Labels on the map: Picardy, Amiens, Ile-de-France, Normandy, Paris [?Avril], Champagne, Lorraine, Alsace, Brittany, Loire Valley, Burgundy, Franche-Comté, Poitou/Charentes, Limousin, Auvergne, Rhône Valley, Savoy, Aquitaine, Pyrénées, Conques, Chalon of Saône, Rhône, Tampiny [?Tain l'Hermitage], Bourges, Languedoc/Roussillon, Côte d'Azur, Provence, Riviera. Route appears to run from Picardy southward through Amiens, Paris area, [unnamed stop], Bourges, [unnamed stop in Auvergne], Conques, then east to Tampiny/Rhône area, then north back up through Chalon of Saône, and back to Picardy.]\n\nFRANCE 1997"
+  },
+  {
+   "page_id": "A_0219_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Saturday 16th August",
+     "iso": "1997-08-16"
+    }
+   ],
+   "headings": [
+    "Saturday 16th August"
+   ],
+   "places": [
+    "Oxford",
+    "Road Chef",
+    "Oxford services"
+   ],
+   "sketch": true,
+   "sketch_desc": "A rough sketch of a vehicle (described as a French ambulance resembling a Renault Express) with propeller or fan-like shapes around it, labelled 'French'.",
+   "legibility": 0.72,
+   "boundary_mixed": true,
+   "text": "like an English pub. Eve went to find out what was for supper. When I heard it was biftek + frites, I said we'd eat at the van. Little children keep cycling past with flowers on their bikes. It was a relief to stop motoring. I'd almost got bedsores on my bot. Pretty just on nines.\n\n__Saturday 16th August__\nSunshine, but no coffee for breakfast. On the le shuttle we had a ambyplane, behind it was a Mercedes amnatance that looke like a Renolt express.\nit was [sketch of vehicle with propeller] French\n\nAfter coming through the Tunnel, we had a disappointing lunch in a Road Chef. We guessed that we'd be home at 3.45., but we had not reckoned on a puncture just by Oxford on the M.40. at 70 mph. Everyone helped change the tyre, + we stopped at the Oxford services to"
+  }
+ ]
+}

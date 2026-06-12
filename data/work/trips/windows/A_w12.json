@@ -1,0 +1,217 @@
+{
+  "window_id": "A_w12",
+  "spread_range": ["A_0265", "A_0294"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0265_L",
+      "kind": "trip",
+      "title_guess": "East Anglia: Fakenham, Little Snoring, Ely",
+      "date_guess": "1999-04-30",
+      "index_page_no": 9,
+      "evidence": [
+        { "page_id": "A_0265_L", "signal": "departure", "excerpt": "April 30th. After Charles' cricket practice we left for Fakenham at 6.10." },
+        { "page_id": "A_0266_R", "signal": "place", "excerpt": "We found a campsite at 3 miles N.W of Littleport, Hale Ten, Cave farm" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the END of the previous (Hove/Leonardslee, April 12th) trip — 'We set off through more showers for Birmingham' — then the new East Anglia trip starts at the 'April 30th' heading later on the same page.",
+      "confidence": 0.86
+    },
+    {
+      "start_page_id": "A_0267_R",
+      "kind": "trip",
+      "title_guess": "Wales: Malvern concert, Dinas, Port Maddock, Portmeirion",
+      "date_guess": "1999-05-28",
+      "index_page_no": 11,
+      "evidence": [
+        { "page_id": "A_0267_R", "signal": "departure", "excerpt": "Fri May 28th 9.20pm Simon & John set off for Malvern ... 4.45 All of us set off for [?Dinas]." },
+        { "page_id": "A_0268_L", "signal": "place", "excerpt": "we left to put Thomas on the train at Llanbdr ... collected circular slate from the slate factory at Port Maddock" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.82
+    },
+    {
+      "start_page_id": "A_0268_R",
+      "kind": "trip",
+      "title_guess": "Cambridge: David & Debbie Ford, St John's",
+      "date_guess": "1999-06-26",
+      "index_page_no": 12,
+      "evidence": [
+        { "page_id": "A_0268_R", "signal": "departure", "excerpt": "Saturday June 26th. Simon, Eve & Charles set off for Cambridge at 10.30 ... arrived on David & Debbie Ford's drive." },
+        { "page_id": "A_0269_R", "signal": "return", "excerpt": "we called on Richard Holroyd ... before going home" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the end of the Wales trip (took the tent down, stopped at Burger King outside Shrewsbury) then the Cambridge trip starts at 'Saturday June 26th'.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "A_0270_L",
+      "kind": "trip",
+      "title_guess": "Scotland: Glasgow, Mull, Iona, Trossachs, St Andrews, Edinburgh",
+      "date_guess": "1999-07-31",
+      "index_page_no": 13,
+      "evidence": [
+        { "page_id": "A_0270_L", "signal": "departure", "excerpt": "Sat 31st July. We set off at 4 pm, S, E, W, P, J, C ... We motored up to Orton near the Lake District" },
+        { "page_id": "A_0278_L", "signal": "return", "excerpt": "Sat Aug 14th ... got home about 8.45. Then we all went out for a balti." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.93
+    },
+    {
+      "start_page_id": "A_0279_L",
+      "kind": "trip",
+      "title_guess": "Stapeley Water Gardens; then London (move Thomas to Mountview Rd)",
+      "date_guess": "1999-08-22",
+      "index_page_no": 22,
+      "evidence": [
+        { "page_id": "A_0279_L", "signal": "heading", "excerpt": "Sunday 22nd August. After church we went to Stapeley Water Gardens with Jim, Margaret & Helen" },
+        { "page_id": "A_0279_L", "signal": "departure", "excerpt": "Friday 3rd Sept. Simon, Thomas & Eve set off early for London ... We moved Thomas into 32 Mountview Rd, N4." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page holds two short outings: the Sunday 22nd Aug Stapeley day-trip and a separate Friday 3rd Sept London trip. Index entry p22 'Stapeley water gardens / London' appears to fold both together; break falls at the 'Friday 3rd Sept' heading.",
+      "confidence": 0.62
+    },
+    {
+      "start_page_id": "A_0279_R",
+      "kind": "trip",
+      "title_guess": "Ely & Chippenham (Robert Upex's 50th party)",
+      "date_guess": "1999-10-09",
+      "index_page_no": 22,
+      "evidence": [
+        { "page_id": "A_0279_R", "signal": "departure", "excerpt": "Saturday October 9th. Simon & Eve drove across to Ely Station to pick up Thomas for Robert Upex's 50 birthday party at Chippenham." },
+        { "page_id": "A_0279_R", "signal": "return", "excerpt": "we took Thomas to the station & went home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the end of the Sept London/Mountview trip ('hurrying back to Birmingham') then the Oct 9th Ely/Chippenham trip starts.",
+      "confidence": 0.66
+    },
+    {
+      "start_page_id": "A_0280_L",
+      "kind": "trip",
+      "title_guess": "Bath: Roman Baths, American Museum, Limpley Stoke",
+      "date_guess": "2000-05-05",
+      "index_page_no": 23,
+      "evidence": [
+        { "page_id": "A_0280_L", "signal": "departure", "excerpt": "May 5th 2000 Friday. 6.35pm Simon, Eve, John 12, Charles 11 left 86 for Bath ... Bath Marina Park" },
+        { "page_id": "A_0281_R", "signal": "return", "excerpt": "We had tea in the carpark & left for home, dropping off John at Malvern on the way" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0281_R",
+      "kind": "trip",
+      "title_guess": "Malvern summer concert weekend",
+      "date_guess": "2000-05-26",
+      "index_page_no": 25,
+      "evidence": [
+        { "page_id": "A_0281_R", "signal": "departure", "excerpt": "Friday May 26th. Simon & Eve, John & Charles drove down to the Malvern summer concert ... We slept outside No 7." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the end of the Bath trip ('left for home, dropping off John at Malvern') then the Malvern concert weekend starts at 'Friday May 26th'.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0282_L",
+      "kind": "trip",
+      "title_guess": "Cotswolds: Enslow, Tackley, Thrupp",
+      "date_guess": "2000-05-28",
+      "index_page_no": 25,
+      "evidence": [
+        { "page_id": "A_0282_L", "signal": "departure", "excerpt": "On Sunday at 3.10. we left for the Cotswolds. We have come to Enslow, 4 miles from Woodstock." },
+        { "page_id": "A_0282_R", "signal": "return", "excerpt": "After returning to the van, David made tea for all of us + then we set off home" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the tail of the Malvern concert weekend ('we brought William + Peter home. Saturday we spent at home') then the Cotswolds/Enslow trip starts at 'On Sunday at 3.10 we left for the Cotswolds'.",
+      "confidence": 0.66
+    },
+    {
+      "start_page_id": "A_0283_L",
+      "kind": "trip",
+      "title_guess": "Hay-on-Wye, Llanthony Priory, Skenfrith, Capel-y-ffin",
+      "date_guess": "2000-07-01",
+      "index_page_no": 26,
+      "evidence": [
+        { "page_id": "A_0283_L", "signal": "departure", "excerpt": "Saturday July 1st. We left home, S, E, J, C, & breakfasted in a lay by. We reached Hay-on-Wye" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0284_R",
+      "kind": "trip",
+      "title_guess": "Peak District: Lathkill Gorge, Over Haddon, Ashbourne",
+      "date_guess": "2000-09-22",
+      "index_page_no": 28,
+      "evidence": [
+        { "page_id": "A_0284_R", "signal": "date_gap", "excerpt": "September 22nd. There has [been] a huge gap because we hired an RV in California for a month ... Charles, Simon & Eve, + Tonic are going" },
+        { "page_id": "A_0285_L", "signal": "place", "excerpt": "up to the Peak District through dense traffic ... We arrived at Hadon Grove" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with end of the Hay-on-Wye trip (Capel-y-ffin asterisk continuation, 'Then we went home') then a months-long gap (California RV) and the Sept 22nd Peak District trip starts.",
+      "confidence": 0.72
+    },
+    {
+      "start_page_id": "A_0285_R",
+      "kind": "trip",
+      "title_guess": "Hendon RAF Museum & London (Courtauld, Science Museum, Tate Modern, Globe)",
+      "date_guess": "2000-10-20",
+      "index_page_no": 29,
+      "evidence": [
+        { "page_id": "A_0285_R", "signal": "departure", "excerpt": "Sat October 20th. We left home at 9.50. & drove to Coleshill & bought a Brompton folding bike. Then we had lunch in the carpark at the Hendon RAF museum." },
+        { "page_id": "A_0288_R", "signal": "place", "excerpt": "Tuesday We reached the Tate Modern at 11.15" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with end of the Peak District trip ('Sunday Sept 24th ... set off to reach home for lunch') then the Oct 20th RAF/London trip starts.",
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "A_0290_R",
+      "kind": "trip",
+      "title_guess": "Bath: Bristol cycle path, Herschel Museum, Bath Abbey",
+      "date_guess": "2001-05-04",
+      "index_page_no": 34,
+      "evidence": [
+        { "page_id": "A_0290_R", "signal": "departure", "excerpt": "Friday 4th May. 2001 5.15. Simon, Charles, Eve + Tonic left with our 3 bikes ... for Bath; we want to go on the Bath/Bristol cycle path." },
+        { "page_id": "A_0292_R", "signal": "return", "excerpt": "Monday May 7th ... After elevenses we left for home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the close of the Oct 2000 London trip (Picketts Lock; 'I now have a portable CD player') then the May 2001 Bath cycling trip starts at 'Friday 4th May. 2001'.",
+      "confidence": 0.84
+    },
+    {
+      "start_page_id": "A_0292_R",
+      "kind": "trip",
+      "title_guess": "Malvern concert weekend (Peter's 18th)",
+      "date_guess": "2001-05-25",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "A_0292_R", "signal": "departure", "excerpt": "Friday May 25th. Peter is 18 today! ... Simon, Eve & Charles [?Tonic] set off for [?Malvern] at 4.45 ... We camped outside No 7." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the end of the Bath trip ('After elevenses we left for home') then the Malvern concert weekend starts at 'Friday May 25th'.",
+      "confidence": 0.62
+    },
+    {
+      "start_page_id": "A_0293_L",
+      "kind": "trip",
+      "title_guess": "Cambridge & the Fens: punting, Burwell, Wicken Fen",
+      "date_guess": "2001-05-27",
+      "index_page_no": 37,
+      "evidence": [
+        { "page_id": "A_0293_L", "signal": "departure", "excerpt": "Sunday We left breakfastless at 6.35 am ... We dropped them off at the airport at 7.05" },
+        { "page_id": "A_0293_R", "signal": "place", "excerpt": "We reached Cambridge at 10.15, & met Richard Holroyd at William's room ... we got on a punt at St. John's" },
+        { "page_id": "A_0294_L", "signal": "place", "excerpt": "Monday 28th May ... He went to Wicken Fen ... Burwell Church is magnificent" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the end of the Malvern concert weekend (drove home with Chris Lowe, water-pistol fight, barbeque at home) then a new Cambridge/Fens trip starts at 'Sunday We left breakfastless at 6.35 am' (airport drop-off then Cambridge).",
+      "confidence": 0.6
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "The Cambridge/Fens trip starting A_0293_L is still in progress at the window edge (Wicken Fen / Burwell, Mon 28th May 2001) and likely continues into the next window.",
+  "notes": "Window covers spreads A_0265-A_0294 (book metadata gives books[].start A_0256/end A_0350, but transcribed spreads in this bundle begin at A_0265). Content spans 1999-04 to 2001-05 and corresponds to index book4 entries roughly p6-p37. The window opens mid-trip: A_0265_L begins with the END of the 1999 Hove/Leonardslee (Brighton/Bramber) trip that started in the previous window. Many one-line photo/sketch-only right-hand pages (e.g. A_0267_L Brighton Pier, A_0278_R Scotland route map, A_0283_R/A_0284_L Llanthony/Skenfrith sketches, A_0294_R Wicken Fen) belong to the surrounding trip. Several short weekend outings share index lines and are reported as separate boundaries with lower confidence where the home-return between them is implicit rather than explicit."
+}

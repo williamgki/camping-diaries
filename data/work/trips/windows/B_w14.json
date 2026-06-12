@@ -1,0 +1,312 @@
+{
+  "window_id": "B_w14",
+  "spread_range": ["B_0313", "B_0342"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0313_L",
+      "kind": "trip",
+      "title_guess": "Herefordshire: Bromyard, Eardisland, Burton Hall & Croft Castle",
+      "date_guess": "2018-05-31",
+      "index_page_no": 14,
+      "evidence": [
+        { "page_id": "B_0313_L", "signal": "departure", "excerpt": "Thursday May 31st. 5.15. We set off for the farm." },
+        { "page_id": "B_0313_L", "signal": "place", "excerpt": "We stopped in Bromyard + went on to Eardisland... We walked around Burton Hall." },
+        { "page_id": "B_0314_L", "signal": "heading", "excerpt": "Croft Castle ... June 3rd Sunday" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0314_R",
+      "kind": "trip",
+      "title_guess": "Farnham: Hattie & Ramsey's wedding",
+      "date_guess": "2018-08-04",
+      "index_page_no": 15,
+      "evidence": [
+        { "page_id": "B_0314_R", "signal": "departure", "excerpt": "August 4th, Saturday. At 9 Simon, Eve & Tinder left for Hattie's & Ramsey's wedding at Farnham." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0314_R holds the end of the Croft Castle trip context, the short Farnham wedding weekend, AND the start of the Rhayader trip (Wed Aug 16th) lower on the page.",
+      "confidence": 0.75
+    },
+    {
+      "start_page_id": "B_0314_R",
+      "kind": "trip",
+      "title_guess": "Wales: Rhayader, Elan Valley (Wyside)",
+      "date_guess": "2018-08-16",
+      "index_page_no": 15,
+      "evidence": [
+        { "page_id": "B_0314_R", "signal": "departure", "excerpt": "Wed Aug 16th. We left at 12.45 & went to Brook House Farm... On to Rhayader in the middle of Wales. We are camped at Wyside Club Site." },
+        { "page_id": "B_0315_L", "signal": "place", "excerpt": "We drove up to the 3rd lake in the Elan Valley" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Starts mid-page after the Farnham wedding weekend ends on the same page (B_0314_R).",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0315_R",
+      "kind": "trip",
+      "title_guess": "The farm: hop-picking (late August)",
+      "date_guess": "2018-08-26",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0315_R", "signal": "heading", "excerpt": "Aug 26th Saturday~~ Sunday. Simon & Eve at farm for hop-picking. Parked in courtyard. Came home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Rhayader trip ends ('In the van on the way to the farm now to pick up the smalls... Came home') then a brief farm hop-picking outing starts in the last lines of B_0315_R.",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "B_0316_L",
+      "kind": "trip",
+      "title_guess": "Dormston (Dornston): St Nicholas church & blackberrying",
+      "date_guess": "2018-09-28",
+      "index_page_no": 16,
+      "evidence": [
+        { "page_id": "B_0316_L", "signal": "departure", "excerpt": "Friday 28th Sept 4 pm. Simon, Eve, Tinder -> Dornston." },
+        { "page_id": "B_0316_L", "signal": "return", "excerpt": "lunch + home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0316_L contains the whole short Dornston trip (Sept 28-29) AND the start of the April 5th 2019 Newark Park trip lower on the page.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0316_L",
+      "kind": "trip",
+      "title_guess": "Gloucestershire: near Barnsley, Newark Park (Ashen Mains)",
+      "date_guess": "2019-04-05",
+      "index_page_no": 17,
+      "evidence": [
+        { "page_id": "B_0316_L", "signal": "departure", "excerpt": "April 5th 2019. Simon, Eve + Tinder come to near Barnsley. Arrived 5:30." },
+        { "page_id": "B_0316_R", "signal": "place", "excerpt": "Ashen Mains campsite ... Newark Park, Gloucs" },
+        { "page_id": "B_0317_L", "signal": "heading", "excerpt": "April 6th ... We drove to Newark Park." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Starts in the last lines of B_0316_L after the Dornston trip ends with 'lunch + home'.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0318_L",
+      "kind": "trip",
+      "title_guess": "Northampton: 78 Derngate (Mackintosh house)",
+      "date_guess": "2019-04-28",
+      "index_page_no": 18,
+      "evidence": [
+        { "page_id": "B_0318_L", "signal": "departure", "excerpt": "Sunday April 28th. We shd have left at 8.30... booked into a 10.30 tour of Dern Gate, Mackintosh's house in Northampton." },
+        { "page_id": "B_0318_R", "signal": "return", "excerpt": "On the way home we stopped with Judith Kirby for lunch at Bierton" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Newark Park trip ends on B_0318_L ('Frampton on Severn... Then on to home.') then the Derngate day/overnight trip starts on the same page.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0319_L",
+      "kind": "trip",
+      "title_guess": "Dursley: Athen Plains family gathering (Newark Park)",
+      "date_guess": "2019-05-10",
+      "index_page_no": 19,
+      "evidence": [
+        { "page_id": "B_0319_L", "signal": "departure", "excerpt": "Friday May 10th. 3.15. Simon, Eve & Tinder left... We are going back to Dursley. We arrived at Athen Plains" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0319_R",
+      "kind": "trip",
+      "title_guess": "Thorpeness: Monig & Leo's wedding reception (Suffolk)",
+      "date_guess": "2019-05-24",
+      "index_page_no": 20,
+      "evidence": [
+        { "page_id": "B_0319_R", "signal": "departure", "excerpt": "Friday 24th May 7.30 am Simon, Eve & Tinder left for Monig's & Leo's wedding reception at Thorpeness." },
+        { "page_id": "B_0320_L", "signal": "place", "excerpt": "Walk into Aldeburgh... Of to a kampsite Arbon Barn in Whepstead." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Dursley trip ends on B_0319_R ('went to Stroud, but most of Stroud closed. Then home.') then the Thorpeness wedding trip starts on the same page.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0320_R",
+      "kind": "trip",
+      "title_guess": "France: Provence & Burgundy (Pesmes, Malaucene, Senanque, St Tropez, Orange, Baie de Somme)",
+      "date_guess": "2019-06-06",
+      "index_page_no": 21,
+      "evidence": [
+        { "page_id": "B_0320_R", "signal": "departure", "excerpt": "6th June, Thursday. Lots of news on Radio about D Day landings 75 years ago. We left the house at 1 + dropped Tinker off at kennels... reached Stalisfield" },
+        { "page_id": "B_0320_R", "signal": "heading", "excerpt": "June 7th. Horrid crossing... We headed south" },
+        { "page_id": "B_0321_L", "signal": "place", "excerpt": "east past Rheims... we reached huremont et Villotte" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Thorpeness wedding trip ends on B_0320_R ('We had lunch east of Nazeby before going home') then the long France trip starts on the same page.",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0334_L",
+      "kind": "trip",
+      "title_guess": "Wales: Penn Onn (St Illtud), Brecon, Merthyr Cynog",
+      "date_guess": "2019-08-16",
+      "index_page_no": 35,
+      "evidence": [
+        { "page_id": "B_0334_L", "signal": "caption", "excerpt": "St. Illtud's Church Llanilltud Fawr" },
+        { "page_id": "B_0334_R", "signal": "departure", "excerpt": "Friday 16th August. Peter had left his car at 86... We drove his car to Penn Onn." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0335_R",
+      "kind": "trip",
+      "title_guess": "Seamark & Butley Priory: Sam & Iona's wedding (Suffolk)",
+      "date_guess": "2019-09-27",
+      "index_page_no": 36,
+      "evidence": [
+        { "page_id": "B_0335_R", "signal": "departure", "excerpt": "Friday Sept 27th. We had trouble leaving... set off at 8.10... On to Seamark where we camped in the garden." },
+        { "page_id": "B_0336_L", "signal": "place", "excerpt": "a coach from the Dolphin took us to the Priory Butley Pr. near Orford... Sam + Iona's wedding." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Wales/Penn Onn trip ends on B_0335_R (Monday Berrington Hall, 'On the way home we called in on Helen') then the Seamark trip starts on the same page.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0336_L",
+      "kind": "trip",
+      "title_guess": "Alcester & Studley: visit to Studley Campers",
+      "date_guess": "2019-10-11",
+      "index_page_no": 36,
+      "evidence": [
+        { "page_id": "B_0336_L", "signal": "departure", "excerpt": "October 11th Friday. Simon, Eve + Tincts went to Alcester to pick up... papers... then on to Studley to see Studley Campers." },
+        { "page_id": "B_0336_R", "signal": "return", "excerpt": "ideas for a new camping van. Home at 5.20." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Butley Priory wedding trip ends on B_0336_L ('there was a hog roast + we drove home. A lovely weekend.') then the short Alcester/Studley day trip starts on the same page.",
+      "confidence": 0.65
+    },
+    {
+      "start_page_id": "B_0336_R",
+      "kind": "trip",
+      "title_guess": "Cotswolds: Burford & Bourton-on-the-Water (first trip after lockdown)",
+      "date_guess": "2020-07-04",
+      "index_page_no": 37,
+      "evidence": [
+        { "page_id": "B_0336_R", "signal": "departure", "excerpt": "July 4th 2020. Field Barn Park. Simon, Charles, Arrington, Eve + Tindes set off at 8.05. for Burford. This is our first night away since N.I. in February - we have had Covid 19 Lockdown." },
+        { "page_id": "B_0337_L", "signal": "place", "excerpt": "Bourton on the water... Stow... Rollright Stones" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Alcester/Studley trip ends at top of B_0336_R ('Home at 5.20.') then the July 2020 Burford trip starts on the same page.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0337_R",
+      "kind": "trip",
+      "title_guess": "Ross on Wye (New House Farm) & visit to John, Kay & Eben",
+      "date_guess": "2020-07-10",
+      "index_page_no": 38,
+      "evidence": [
+        { "page_id": "B_0337_R", "signal": "departure", "excerpt": "Friday July 10th. We sold the house, 86, this week... Simon & Eve & Tinder set off at 3.30, to near Ross on Wye. The site is on a farm, New House Farm." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Burford/Bourton trip ends on B_0337_R ('Simon & Eve left in Peter's green mercedes to go home... Peter brought the van back on Wednesday.') then the Ross on Wye trip starts on the same page.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0338_L",
+      "kind": "trip",
+      "title_guess": "Thorpeness via Wimpole Hall (Suffolk)",
+      "date_guess": "2020-07-20",
+      "index_page_no": 38,
+      "evidence": [
+        { "page_id": "B_0338_L", "signal": "departure", "excerpt": "Monday July 20th. Off to Thorpeness with champagne + everyone except Charles + Austin... met up with John + Kay + Eben at Wimpole Hall... on to Thorpe." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Ross on Wye trip ends at top of B_0338_L ('We had a super visit... Home after lunch on Sunday.') then the Thorpeness trip starts on the same page; an Oxford day-out (Sat 25th July) is also noted.",
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "B_0338_R",
+      "kind": "trip",
+      "title_guess": "The farm: hop-picking (23rd August)",
+      "date_guess": "2020-08-23",
+      "index_page_no": 39,
+      "evidence": [
+        { "page_id": "B_0338_R", "signal": "departure", "excerpt": "Sunday 23rd August. Tinder, Simon + Eve set off at 4.30. for hop picking at the farm... We stayed from Sunday to Saturday." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "B_0338_R",
+      "kind": "trip",
+      "title_guess": "The farm: hop-picking again (30th August)",
+      "date_guess": "2020-08-30",
+      "index_page_no": 39,
+      "evidence": [
+        { "page_id": "B_0338_R", "signal": "departure", "excerpt": "We return again Sunday Aug 30th. We set off at 16.40... We are heading home now to go to a socially distanced street party with our neighbours-to-be at George Rd." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Second distinct farm outing departing/returning home, starting on the same page (B_0338_R) after the 23rd Aug outing ends.",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "B_0339_L",
+      "kind": "trip",
+      "title_guess": "The farm: hop-picking (8th September) & William's birthday",
+      "date_guess": "2020-09-08",
+      "index_page_no": 39,
+      "evidence": [
+        { "page_id": "B_0339_L", "signal": "departure", "excerpt": "Tuesday 8th September. Simon, Eve + Tinder returned to the farm. William's birthday + more hop-picking. We returned on Saturday 12th September." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "B_0339_L",
+      "kind": "trip",
+      "title_guess": "Monmouth: 3 Horseshoes, John & Kay & Eben (Symonds Yat)",
+      "date_guess": "2020-09-27",
+      "index_page_no": 39,
+      "evidence": [
+        { "page_id": "B_0339_L", "signal": "departure", "excerpt": "Sunday September 27th 2020... At 9.15. we set off to John's... met John, Kay + Eben at the 3 Horseshoes... Then home, via a pretty field with a view of Symonds Yat." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Starts mid-page after the 8th Sept farm outing ends ('We returned on Saturday 12th September.') on B_0339_L.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "B_0339_L",
+      "kind": "trip",
+      "title_guess": "The farm: delivering furniture (4th October)",
+      "date_guess": "2020-10-04",
+      "index_page_no": 39,
+      "evidence": [
+        { "page_id": "B_0339_L", "signal": "departure", "excerpt": "Sunday October 4th. At 2.30. we drove off to the farm with the white sofa + chair... 4 Gordon Russell chairs." },
+        { "page_id": "B_0339_R", "signal": "return", "excerpt": "Sunshine on the way home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Starts mid-page after the Monmouth outing ends ('Then home') on B_0339_L; continues onto B_0339_R.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "B_0340_R",
+      "kind": "trip",
+      "title_guess": "Bedfordshire: Wrest Park, Berkhamstead, Aylesbury, Chandlers Ford, Edge Hill (new Peugeot Boxer van)",
+      "date_guess": "2020-10-27",
+      "index_page_no": 41,
+      "evidence": [
+        { "page_id": "B_0340_R", "signal": "departure", "excerpt": "NEW VAN Peugeot Boxer. 27 October 2020. Set off quite soon after breakfast to rural Bedfordshire... near an English Heritage site, Wrest Park." },
+        { "page_id": "B_0341_R", "signal": "place", "excerpt": "Witney... Finstock (the Plough)... a campsite at Edge Hill NW of Banbury" },
+        { "page_id": "B_0342_L", "signal": "return", "excerpt": "On Saturday, the weather looked pretty miserable so we decided to end the trip a little early." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    }
+  ],
+  "continues_from_previous_window": false,
+  "open_at_end": null,
+  "notes": "Window covers book5 early pages (index entries ~13-43), spanning 2018-2019 weekend/UK trips, the long June 2019 France trip (B_0320_R-B_0333), and a cluster of short 2020 Covid-era farm/family outings (B_0336_R-B_0339) plus the Oct 2020 new-van Bedfordshire trip. Many physical pages are mixed because short outings are packed several per page; the repeated farm hop-picking outings (Aug 23, Aug 30, Sept 8, Oct 4 2020) are each a depart-home/return-home cycle and reported separately at lower confidence. Page numbers written in the diary are jumbled (e.g. B_0332_R shows '83'), so dating relies on dated headings and narrative rather than the 'no' fields."
+}

@@ -1,0 +1,50 @@
+{
+ "trip_id": "2004-bath-weekend-camping-with-david-marina",
+ "title_guess": "Bath weekend camping with David (Marina Campsite, Roman Baths)",
+ "date_guess": "2004-08-29",
+ "volume": "B",
+ "spread_range": [
+  "B_0047",
+  "B_0048"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "B_0047_R",
+   "no": 45,
+   "dates": [
+    {
+     "raw": "Sunday 29th August",
+     "iso": "2004-08-29"
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Bath",
+    "Marina Campsite"
+   ],
+   "legibility": 0.88,
+   "text": "Sunday 29th August.\n        9.45. we set off, Simon, Eve, John, Charles, Melody 14 & Charlotte 13, to __Bath__ to Camp with David. We arrived & found their van at the Marina Campsite [illegible] but they had gone out. The 4 children played 4 in a Row & chess at the table, while Simon & Eve went out for a walk by the river. When we got back Eve had to yell \"John, John Kirby!\" several times before Charles came & let us in. Everyone was laughing.\n        We had a very slow start to lunch with extremely strong cider provided by David & just as we started to carve the chicken at 2 pm the heavens opened with 2 heavy rain showers. We left the food under a parasol & sheltered in the vans. Finally we got fed.\n        Soon after, at [?3].45. (!) we set off walking into Bath. Charles had hurt his back falling off the swing in the playground."
+  },
+  {
+   "page_id": "B_0048_L",
+   "no": null,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Roman Baths",
+    "Bath"
+   ],
+   "captions": [
+    "Gorgon's head. Romano Celtic Head from Pediment of the Temple of Sulis Minerva, Roman Baths, Bath."
+   ],
+   "legibility": 0.9,
+   "boundary_mixed": true,
+   "text": "Gorgon's head.\nRomano Celtic Head from Pediment of the Temple of Sulis Minerva, Roman Baths, Bath.\n\n\"The David Kirby were going to Sarah's 50\"\nbirthday party. We all walked to see the"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+  "window_id": "A_w15",
+  "spread_range": ["A_0337", "A_0350"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0337_L",
+      "kind": "trip",
+      "title_guess": "Cornwall: Fowey (END only — trip continues from previous window)",
+      "date_guess": "2003",
+      "index_page_no": 81,
+      "evidence": [
+        { "page_id": "A_0337_L", "signal": "narrative", "excerpt": "crossed the R. Fowey at Fowey on the car ferry ... The campsite ... Basic + clean" },
+        { "page_id": "A_0337_R", "signal": "return", "excerpt": "we gave up + set off for home. We telephoned Peter ahead ... arrival at 7.35" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Window opens mid-trip; this is the tail end of the 2003 Eden Project / Cornwall / Fowey trip (book4 index p79-81). Trip ends on A_0337_R with the drive home.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0338_L",
+      "kind": "trip",
+      "title_guess": "Manchester & Tatton Park (Quarry Bank Mill, Styal, Knutsford)",
+      "date_guess": "2003-05",
+      "index_page_no": 82,
+      "evidence": [
+        { "page_id": "A_0338_L", "signal": "departure", "excerpt": "Saturday May 3rd. We left at 3 pm, Simon, Eve, Tonic, to go north. Quarry Bank Mill & the Styal Estate are just south of Manchester" },
+        { "page_id": "A_0338_R", "signal": "return", "excerpt": "we drove Thomas & Owen back to Manchester & set off home, having tea at Keele services" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.88
+    },
+    {
+      "start_page_id": "A_0338_R",
+      "kind": "trip",
+      "title_guess": "Malvern (school concert/speech day) & Llanafan Fawr, Wales",
+      "date_guess": "2003-05",
+      "index_page_no": 83,
+      "evidence": [
+        { "page_id": "A_0338_R", "signal": "departure", "excerpt": "Friday May 23rd. We left at 5.35. (Simon, Eve & Tonic). The motorway traffic was stationary so we went on back roads to Malvern for the 7. concert" },
+        { "page_id": "A_0339_R", "signal": "place", "excerpt": "the 3 of us have come to Llanafan Fawr. There is a church & pub here & lots of sheep ... south of Elan Valley near Builth Wells" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0338_R is mixed: top continues/ends the Manchester trip ('set off home, having tea at Keele services'); the break falls at 'Friday May 23rd. We left at 5.35.' which starts the Malvern concert + Llanafan Fawr trip.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0340_R",
+      "kind": "non_trip",
+      "title_guess": "Malvern day visits (Jamie's farm; Reg Farrar's drinks party)",
+      "date_guess": "2003-06",
+      "index_page_no": 85,
+      "evidence": [
+        { "page_id": "A_0340_R", "signal": "narrative", "excerpt": "Tuesday. We left at 9.15 ... We reached Jamie's farm ... After leaving the farm we went to Holloway's garden shop ... We drove on home." },
+        { "page_id": "A_0340_R", "signal": "narrative", "excerpt": "June 15th Sunday. After the 10.30. we drove down to Malvern, to Reg Farrar's, for a drinks party." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0340_R is mixed: the 'Tuesday' paragraph ends the Llanafan Fawr/Malvern trip with the drive home; the break falls at 'June 15th Sunday' which is a short same-day drive to Malvern (Reg Farrar's drinks party) — appears non-overnight / not a van outing. Low-ish confidence on its trip status. NOTE: spread A_0341 is a near-duplicate re-transcription of A_0340 (same page no 85) — same content, not a separate boundary.",
+      "confidence": 0.45
+    },
+    {
+      "start_page_id": "A_0342_L",
+      "kind": "trip",
+      "title_guess": "Cambridge (King's College May Ball, William & Bryony)",
+      "date_guess": "2003-06",
+      "index_page_no": 85,
+      "evidence": [
+        { "page_id": "A_0342_L", "signal": "departure", "excerpt": "Tuesday June 17th. Simon + Eve set off at 4 for Cambridge + parked at William's house, 7 Maddingley Rd ... May Ball" },
+        { "page_id": "A_0342_R", "signal": "return", "excerpt": "After going to bed at 3 am, we left at 7.45. for the factory and home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "A_0342_R",
+      "kind": "trip",
+      "title_guess": "Germany: Bad Honnef, Alsfeld, Eisenach (Wartburg), Erfurt, Weimar",
+      "date_guess": "2003-08",
+      "index_page_no": 86,
+      "evidence": [
+        { "page_id": "A_0342_R", "signal": "departure", "excerpt": "Friday 1st August. Simon, Eve, Thomas, John Charles left at 6 for Germany ... On to Ashford in Kent, to Broad Hembury Campsite (OK for using en route to Tunnel). 10pm" },
+        { "page_id": "A_0343_L", "signal": "place", "excerpt": "We drove through France, Belgium, Holland + into Germany ... arriving at Bad Honnef" },
+        { "page_id": "A_0348_R", "signal": "place", "excerpt": "Friday August 8th ... Weimar Bauhaus Museum" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0342_R is mixed: top ends the Cambridge trip ('we left at 7.45. for the factory and home'); the break falls at 'Friday 1st August. Simon, Eve, Thomas, John Charles left at 6 for Germany' which starts the major 2003 Germany trip (Ashford -> Tunnel -> Bad Honnef -> Alsfeld -> Eisenach/Wartburg -> Erfurt -> Weimar). This trip runs A_0343-A_0349 and does not show a return home within this window.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0350_L",
+      "kind": "trip",
+      "title_guess": "Normandy: Pegasus Bridge & Caen (out-of-sequence / misfiled 2001 page)",
+      "date_guess": "2001",
+      "index_page_no": 45,
+      "evidence": [
+        { "page_id": "A_0350_L", "signal": "narrative", "excerpt": "Pegasus Bridge from the air ... 00.19 hrs June 6th 1944" },
+        { "page_id": "A_0350_R", "signal": "place", "excerpt": "We drove on to Caen ... the Abbaye aux Dames ... Abbaye aux Hommes ... camped in some trees beside the racecourse" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Date/narrative discontinuity: A_0349 is still in Germany (2003, Weimar); A_0350 jumps to a Normandy trip. Page no on A_0350_R is 45, matching book4 index p44-45 (Deauville/Pegasus Bridge, Caen, 2001 marker). This page appears physically out of sequence — a 2001 Normandy trip fragment bound in among the 2003 Germany pages — rather than a continuation of the Germany trip.",
+      "confidence": 0.55
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Germany 2003 trip starting A_0342_R runs through A_0349 and shows no return home before the window ends; A_0350 is a separate out-of-sequence Normandy (2001) page rather than its continuation.",
+  "notes": "Page numbering in the Germany section is inconsistent (A_0343=87, A_0344=88, A_0348=72) suggesting re-pagination, but narrative continuity across A_0343-A_0349 is clear. Spreads A_0340 and A_0341 are near-duplicate transcriptions of the same physical spread (both page no 85); the A_0340_R mixed boundary covers both."
+}

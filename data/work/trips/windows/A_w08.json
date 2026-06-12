@@ -1,0 +1,210 @@
+{
+  "window_id": "A_w08",
+  "spread_range": ["A_0169", "A_0198"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0170_R",
+      "kind": "trip",
+      "title_guess": "Bromyard / Kate & Jamie's farm; Farnham & Hartley Wintney christening",
+      "date_guess": "1995-08",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "A_0170_R", "signal": "heading", "excerpt": "August 31st 1995. ... Simon & Eve, Thomas 15, William 13, John 8, Charles 6, left for Bromyard, Kate & Jamie's farm." },
+        { "page_id": "A_0171_L", "signal": "narrative", "excerpt": "On the way we passed through Hartley Wintney + stopped to see Peter + Belinda... On to Farnham... we walked to the church... reception" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0171_L",
+      "kind": "trip",
+      "title_guess": "London (Pickett's Lock, V&A, British Museum)",
+      "date_guess": "1995-10",
+      "index_page_no": 2,
+      "evidence": [
+        { "page_id": "A_0171_L", "signal": "departure", "excerpt": "We got home about 7pm. ... Friday October 22nd. The seven of us set off for London at 10.20." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0171_L: trip 1 (Farnham/Hartley Wintney christening) ENDS at 'We got home about 7pm.'; the London trip STARTS at the next line 'Friday October 22nd. The seven of us set off for London at 10.20.'",
+      "confidence": 0.88
+    },
+    {
+      "start_page_id": "A_0172_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp (John's cello course) & Gloucester / Deerhurst",
+      "date_guess": "1996-04",
+      "index_page_no": 3,
+      "evidence": [
+        { "page_id": "A_0172_L", "signal": "return", "excerpt": "We are driving home up the motorway. ETA 7.50." },
+        { "page_id": "A_0172_R", "signal": "heading", "excerpt": "9th April 1996 ... 8.30. We set off for Beauchamps for John to go on his first 'cello course." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "A_0174_R",
+      "kind": "trip",
+      "title_guess": "Calver Mill (Peak District), Tickhill puppy, Chatsworth",
+      "date_guess": "1996-04",
+      "index_page_no": 3,
+      "evidence": [
+        { "page_id": "A_0174_L", "signal": "return", "excerpt": "John's concert was at 2.30... Home for supper." },
+        { "page_id": "A_0174_R", "signal": "heading", "excerpt": "Sat Apl 20. We set off at 9.30... arrived at Tickhill near Doncaster... On through Doncaster to Calver Mill." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.88
+    },
+    {
+      "start_page_id": "A_0177_L",
+      "kind": "trip",
+      "title_guess": "Farnborough Hall (day trip)",
+      "date_guess": "1996-05",
+      "index_page_no": 7,
+      "evidence": [
+        { "page_id": "A_0177_L", "signal": "departure", "excerpt": "After tea in the carpark at 4.30, we set off for home. May 25th Sat. We opened Peter's Birthday presents & set off at 10.20. On a day trip... to Farnborough Hall, 6 miles from Banbury." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0177_L: Calver/Chatsworth trip ENDS at 'we set off for home'; the Farnborough Hall day trip STARTS at 'May 25th Sat... set off at 10.20. On a day trip... to Farnborough Hall.'",
+      "confidence": 0.82
+    },
+    {
+      "start_page_id": "A_0177_R",
+      "kind": "trip",
+      "title_guess": "Stratford & Tyburn Rd / Five Ways (day trip)",
+      "date_guess": "1996-05",
+      "index_page_no": 8,
+      "evidence": [
+        { "page_id": "A_0177_R", "signal": "heading", "excerpt": "May 28th Tuesday. 12 we set off to the south... We went to Stratford... drove on to Tyburn Rd... supper at J Jays at 5-ways." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0177_R: top of page continues/closes the Farnborough Hall sketch & visit; the Stratford day trip STARTS at 'May 28th Tuesday. 12 we set off to the south.'",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0178_R",
+      "kind": "trip",
+      "title_guess": "Layer Marney / Colchester & Mersea (Spooner party)",
+      "date_guess": "1996-06",
+      "index_page_no": 9,
+      "evidence": [
+        { "page_id": "A_0178_R", "signal": "heading", "excerpt": "Saturday June 1st. 1pm we - P,J,C, S,E, set off for Laurel Spooner's 40th... at Layer Marney Tower near Colchester... camping on the island of Mersea, Ten Farm campsite." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0179_L",
+      "kind": "trip",
+      "title_guess": "Doncaster (puppy) / Appleby Magna (day trip)",
+      "date_guess": "1996-06",
+      "index_page_no": 9,
+      "evidence": [
+        { "page_id": "A_0179_L", "signal": "heading", "excerpt": "Sunday June 16th. We picked Peter up... on our way to see the puppy... Tea at Appleby Magna... on the way home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0179_L: opens with the June 16th Doncaster/puppy day trip; a second trip (Thorpeness) STARTS lower on the same page at 'Sunday 13th July. We seven + Naomi Grimley collected Peter from Evensong + set off to Thorpeness.'",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "A_0179_L",
+      "kind": "trip",
+      "title_guess": "Thorpeness (Suffolk)",
+      "date_guess": "1996-07",
+      "index_page_no": 9,
+      "evidence": [
+        { "page_id": "A_0179_L", "signal": "heading", "excerpt": "Sunday 13th July. We seven + Naomi Grimley collected Peter from Evensong + set off to Thorpeness." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Second boundary on A_0179_L (see above): the Thorpeness trip starts mid-page; it then closes on A_0179_R ('At 4.45... we left for home on Thursday July 17th').",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0179_R",
+      "kind": "trip",
+      "title_guess": "Ireland (Glendalough, Kilkenny, Cashel, Dingle, Blaskets, Burren, Knowth)",
+      "date_guess": "1996-08",
+      "index_page_no": 10,
+      "evidence": [
+        { "page_id": "A_0179_R", "signal": "departure", "excerpt": "we left for home on Thursday July 17th. Saturday August 3rd. At 10.10. we set off, all 7 of us, for Ireland." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0179_R: Thorpeness trip ENDS at 'we left for home on Thursday July 17th'; the Ireland trip STARTS at 'Saturday August 3rd. At 10.10. we set off, all 7 of us, for Ireland.'",
+      "confidence": 0.92
+    },
+    {
+      "start_page_id": "A_0190_R",
+      "kind": "trip",
+      "title_guess": "Beauchamp music camp drop-off (Peter with Portals)",
+      "date_guess": "1996-08",
+      "index_page_no": 21,
+      "evidence": [
+        { "page_id": "A_0190_L", "signal": "return", "excerpt": "We are travelling home on John's birthday... We got home at 11, the van on a truck." },
+        { "page_id": "A_0190_R", "signal": "heading", "excerpt": "Sunday 25th August. We left to take Peter to join the Portals at Beauchamp music camp." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "A_0190_R",
+      "kind": "trip",
+      "title_guess": "Stamford Bridge campsite & farm; Malvern (William's birthday)",
+      "date_guess": "1996-09",
+      "index_page_no": 21,
+      "evidence": [
+        { "page_id": "A_0190_R", "signal": "heading", "excerpt": "Friday Sept 13th. We set off at 6.15. & spent 25 minutes at WoodEnd... On to Stamford Bridge a campsite." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0190_R: the short Aug 25 Beauchamp drop-off ENDS, and the Sept 13 Stamford Bridge trip STARTS at 'Friday Sept 13th. We set off at 6.15.'",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0191_R",
+      "kind": "trip",
+      "title_guess": "London (Chad/Coda Centre, Fulham) & Belgium (Ypres, Kortrijk, Oudenaarde, Gent)",
+      "date_guess": "1996-10",
+      "index_page_no": 22,
+      "evidence": [
+        { "page_id": "A_0191_R", "signal": "heading", "excerpt": "Wed Oct 23rd. Simon, William, Peter, John & Charles left at 10.35. for Chad to pack... arrived at the Coda Centre, Munster Rd., Fulham, London." },
+        { "page_id": "A_0192_L", "signal": "narrative", "excerpt": "we went to the Channel Tunnel... on to Belgium. Kemmel campsite near Ypra." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0191_R: top of page closes the Stamford Bridge / farm / Malvern outing ('Tea & on to Malvern... Lovely, long (tiring) day.'); the London-then-Belgium trip STARTS at 'Wed Oct 23rd. Simon, William, Peter, John & Charles left at 10.35.'",
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "A_0195_L",
+      "kind": "trip",
+      "title_guess": "Forest of Dean (Pedalaway) & Beauchamp cello course",
+      "date_guess": "1997-04",
+      "index_page_no": 25,
+      "evidence": [
+        { "page_id": "A_0195_L", "signal": "departure", "excerpt": "We'd have liked to visit Leeds Castle... drove on home. Saturday 1997 April 5th. We left at 8.30 + breakfasted at the M50 turn-off... We reached a campsite next to the Forest of Dean." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0195_L: the Oct 1996 Belgium/Ypres trip ENDS (return via Broadhembury overnight stop, 'drove on home'); the April 1997 Forest of Dean trip STARTS at 'Saturday 1997 April 5th. We left at 8.30.'",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0197_L",
+      "kind": "trip",
+      "title_guess": "Bristol (Robert Grimley's installation as Dean)",
+      "date_guess": "1997-04",
+      "index_page_no": 28,
+      "evidence": [
+        { "page_id": "A_0196_R", "signal": "return", "excerpt": "We set off for home at 4.50." },
+        { "page_id": "A_0197_L", "signal": "heading", "excerpt": "Friday 18 April. We left at about 6.15 pm for Robert Grimley's installation at Bristol... We camped at Failand." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.88
+    }
+  ],
+  "continues_from_previous_window": false,
+  "open_at_end": null,
+  "notes": "Window is Vol A Book 3 (1995-1997). Opens with index page A_0169 (Book 2 tail, entries 76-80) plus blank pages A_0169_R/A_0170_L, which belong to the surrounding index/trip-1 start. Many short weekend/day outings are clustered onto mixed pages (A_0177, A_0179, A_0190, A_0191); a few are low-confidence because the family stacks consecutive short trips without a clear home-return line. The Bristol installation trip (A_0197_L) runs to the end of the window and closes within it at A_0198_L ('After lunch we set off home'), so nothing is left open at the window edge."
+}

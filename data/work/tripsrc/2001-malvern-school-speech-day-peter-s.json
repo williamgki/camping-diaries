@@ -1,0 +1,44 @@
+{
+ "trip_id": "2001-malvern-school-speech-day-peter-s",
+ "title_guess": "Malvern (school speech day, Peter's 18th)",
+ "date_guess": "2001-05",
+ "volume": "A",
+ "spread_range": [
+  "A_0292",
+  "A_0292"
+ ],
+ "mixed_start": true,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "A_0292_R",
+   "no": 3,
+   "dates": [
+    {
+     "raw": "Monday May 7th.",
+     "iso": null
+    },
+    {
+     "raw": "Friday May 25th",
+     "iso": null
+    }
+   ],
+   "headings": [
+    "Monday May 7th.",
+    "Friday May 25th"
+   ],
+   "places": [
+    "Bath",
+    "Herschel's house",
+    "Poulteney Bridge",
+    "Malvern"
+   ],
+   "legibility": 0.82,
+   "boundary_mixed": true,
+   "text": "& Charles mended the bike. We have been cold all day.\n__Monday May 7th.__\n    Better weather today, still a cool breeze, but warm sunshine.\n    We cycled into Bath along the north bank of the river. We left the tow path opposite Herschel's house. Eve put Tonic in the front basket. We cycled though Bath along first roads. In the centre of town we rejoined the river & went west along the south bank, starting at Poulteney Bridge. When we reached passed the railway station, we crossed to the north bank again & back to the van. After elevenses we left for home.\n    __Friday May 25th__    Peter is 18 today! Phew!\n    Simon, Eve & Charles [?Tonic] set off for [?Malvern] at 4.45. We dropped off Nathan Archer on the way. Blue Coat had broken up on Thursday, the day before, & Charles & Nathan had been ice-skating & putting Nemoskey on the allotment.\n    John & Peter sang & played in the summer concert. Charles met Jamie Russell who is to be his housemaster. We camped"
+  }
+ ]
+}

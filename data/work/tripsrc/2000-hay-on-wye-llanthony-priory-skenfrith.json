@@ -1,0 +1,78 @@
+{
+ "trip_id": "2000-hay-on-wye-llanthony-priory-skenfrith",
+ "title_guess": "Hay-on-Wye, Llanthony Priory, Skenfrith, Capel-y-ffin",
+ "date_guess": "2000-07-01",
+ "volume": "A",
+ "spread_range": [
+  "A_0283",
+  "A_0284"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [
+  "/Users/williamgkirby/Sites/camping-diaries/scans/volA/llm/A_0284_L.jpg"
+ ],
+ "pages": [
+  {
+   "page_id": "A_0283_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Saturday July 1st.",
+     "iso": null
+    },
+    {
+     "raw": "Sunday July 2nd.",
+     "iso": null
+    }
+   ],
+   "headings": [
+    "Saturday July 1st."
+   ],
+   "places": [
+    "Worcester",
+    "Hay-on-Wye",
+    "Radnor's End",
+    "Offa's Dyke",
+    "Llanthony Priory"
+   ],
+   "legibility": 0.85,
+   "text": "__Saturday July 1st.__\t\t\t10 miles w. of Worcester.\n\tWe left home, S, E, J, C, & breakfasted in a lay by. We reached __Hay-on-Wye__ at H.30., 11.45., where we looked at book shops. Simon bought books on Colorado & Eve NT GR. We had fish & chips & looked around more. The campsite was across the bridge at __Radnor's End__ * * * *\n\tIt rained at tea time. We watch Wimbledon outside, then inside the van. Simon listened to cricket on the radio.\n\tAt 7 the weather cleared & we walked down across the bridge into Hay. Offa's Dyke is nearby. There is canoeing along the river! Another time we might have dinner in a good restaurant.\n\tWe had supper & went to bed. The loos are OK. The house vegetable garden is beautiful.\nSunday July 2nd.\n\tGood weather. Breakfast outdoors & we drove to __Llanthony Priory__ - Very beautiful."
+  },
+  {
+   "page_id": "A_0283_R",
+   "no": 27,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Llanthony Priory",
+    "Skenfrith Castle"
+   ],
+   "captions": [
+    "Llanthony Priory"
+   ],
+   "legibility": 0.88,
+   "text": "The infirmary chapel became the parish church. A local lord had also used [the ruin] as his hyde to shoot from. An inn in the ruins. Lovely architecture. Carved memorials in the church.\n\tWe started lunch with the doors pinned back but it poured, so we closed them. A bus started its engine, & idled in the car park for 30 minutes before we left.\n\tJohn & Charles keep playing piggy backs. *\n\tWe are having tea [lunch crossed out] in a lay by. We are near a mill & bridge at __Skenfrith Castle__.\n[Sketch caption:] Llanthony Priory"
+  },
+  {
+   "page_id": "A_0284_L",
+   "no": null,
+   "dates": [],
+   "headings": [
+    "Skenfrith Castle."
+   ],
+   "places": [
+    "Skenfrith Castle",
+    "Tretower",
+    "Gwent"
+   ],
+   "sketch": true,
+   "sketch_desc": "Plan-view diagram of Skenfrith Castle. Outer curtain wall (roughly square with rounded corners) contains: 'Corner Tower' (circle, top-left), unlabelled circular tower (top-right), two more rounded corner bastions (bottom-left and bottom-right). Along the top inner wall: 'wooden buildings'. Centre of courtyard: 'Tower' with asterisk (the circular keep). Left wall: 'watergate' (rectangular feature). Right inner area: 'C17 stone building'. Centre-lower area: 'oven + kitchens' (circle) and 'Chapel'. Bottom gate: 'gate + drawbridge' with arrow pointing outward. Below outer wall: 'mill.' label with upward arrow. Top of diagram: 'river' label with arrow. Curtain wall and features drawn in blue pen.",
+   "legibility": 0.88,
+   "boundary_mixed": true,
+   "text": "[Hand-drawn plan/sketch of Skenfrith Castle — see route_sketch_description]\n\n__Skenfrith Castle.__\nOne of 3 built by Normans in wood before 1100. Rebuilt 1270 in stone (along with Tretower) subduing Gwent.\n  * central tower had appartments on first floor. Archers on roof shooting over outer walls."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "trip_id": "2020-thorpeness-via-wimpole-hall",
+ "title_guess": "Thorpeness via Wimpole Hall",
+ "date_guess": "2020-07-20",
+ "volume": "B",
+ "spread_range": [
+  "B_0338",
+  "B_0338"
+ ],
+ "mixed_start": true,
+ "mixed_end": false,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "B_0338_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Monday July 20th",
+     "iso": "2020-07-20"
+    },
+    {
+     "raw": "Saturday 25th July",
+     "iso": "2020-07-25"
+    },
+    {
+     "raw": "Sunday",
+     "iso": "2020-07-26"
+    }
+   ],
+   "headings": [
+    "Monday July 20th",
+    "Saturday 25th July",
+    "Sunday"
+   ],
+   "places": [
+    "Thorpeness",
+    "Wimpole Hall",
+    "Thorpe",
+    "Oxford"
+   ],
+   "legibility": 0.87,
+   "boundary_mixed": true,
+   "text": "We had a super visit + lots of hugs with Eben, one walk near [?Iltud], down to the sea + one through woods. Eben smiles + smiles. Home after lunch on Sunday.\n__Monday July 20th__\nOff to Thorpeness with champagne + everyone except Charles + Austin. Tinder went into [?Pennels] + we met up with John + Kay + Eben at Wimpole Hall. lovely gardens. Socially distanced. I did a salad lunch then on to Thorpe.\n__Saturday 25th July__\nSimon + Eve went on a day out in Oxford.\n__Sunday__\nPeter, Nana, Conrad, Nini + Gigi set off. ???"
+  }
+ ]
+}

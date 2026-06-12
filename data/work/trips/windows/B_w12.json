@@ -1,0 +1,163 @@
+{
+  "window_id": "B_w12",
+  "spread_range": ["B_0265", "B_0294"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0265_R",
+      "kind": "trip",
+      "title_guess": "Holt Fleet / Ombersley (Worcs) overnight",
+      "date_guess": "2016-06-03",
+      "index_page_no": 85,
+      "evidence": [
+        { "page_id": "B_0265_R", "signal": "departure", "excerpt": "June 3rd Friday  Simon, Eve & Tinder left at about 3.30 ... We reached campsite near Holt Fleet, Worcs. ... We left at 8.30" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with a standalone 'April 2016' Black Country canal-walk note (a separate, earlier short outing / non-trip-style log) BEFORE the 'June 3rd Friday' departure. Index entry 85 ('Black Country, Omberley') bundles both. Break falls at the 'June 3rd Friday' line.",
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "B_0266_L",
+      "kind": "trip",
+      "title_guess": "Moor End Farm, Ashperton & London (Finsbury Pk)",
+      "date_guess": "2016-06",
+      "index_page_no": 86,
+      "evidence": [
+        { "page_id": "B_0266_L", "signal": "narrative_discontinuity", "excerpt": "Moor End Farm Ashperton ... we looked at the excavations for the big new hop barn ... Belmont Abbey" },
+        { "page_id": "B_0267_L", "signal": "departure", "excerpt": "Wednesday July 6th 9.15. Simon, Finder & Eve drove to Charles' & Jenny's new house in Oxford ... On to Peter & Nana's house at Finsbury Pk" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "B_0267_L",
+      "kind": "trip",
+      "title_guess": "Oxford, Watlington & London (design show)",
+      "date_guess": "2016-07-06",
+      "index_page_no": 86,
+      "evidence": [
+        { "page_id": "B_0267_L", "signal": "departure", "excerpt": "We left early to get back to Sunday church at St. G. [end of prior trip] ... Wednesday July 6th 9.15. Simon, Finder & Eve drove to Charles' & Jenny's new house in Oxford" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of page ends the Moor End Farm/Ashperton outing ('We left early to get back to Sunday church at St. G.'); the 'Wednesday July 6th' line below begins a new departure to Oxford then London. This page may instead be a continuation of one extended outing (low confidence on the Moor End split).",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "B_0270_L",
+      "kind": "trip",
+      "title_guess": "Wales: Elan Valley, Rhayader & St David's",
+      "date_guess": "2016-08-12",
+      "index_page_no": 90,
+      "evidence": [
+        { "page_id": "B_0270_L", "signal": "return", "excerpt": "Sunday ... On our way home to watch ... Wimbledon Finals" },
+        { "page_id": "B_0270_L", "signal": "departure", "excerpt": "Monday August 12th ... 12.30 Simon & Eve, Tindse leave for farm ... arrive farm at 3" },
+        { "page_id": "B_0270_R", "signal": "place", "excerpt": "3.45. we reach Polwigo Campsite Llanwrthwl near Rhayader & Elan valley" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top 'Sunday' section ends the previous London/Sussex trip with the drive home; the 'Monday August 12th' line begins the new Wales trip (farm, then Elan Valley). Break at the 'Monday August 12th' heading.",
+      "confidence": 0.88
+    },
+    {
+      "start_page_id": "B_0275_L",
+      "kind": "trip",
+      "title_guess": "Eckington Mill & Croome Park (Worcs)",
+      "date_guess": "2016-09-02",
+      "index_page_no": 95,
+      "evidence": [
+        { "page_id": "B_0274_R", "signal": "return", "excerpt": "Returning at 2.30, we had tea + a slow drive back to B'ham [ends Wales trip]" },
+        { "page_id": "B_0275_L", "signal": "departure", "excerpt": "Friday Sept 2nd. 4.15. Simon, Tinder + Eve set out. 5.30. We reached Eckington Mill camp-site" },
+        { "page_id": "B_0275_R", "signal": "return", "excerpt": "We got home at 4 pm" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0276_L",
+      "kind": "trip",
+      "title_guess": "Inigo Jones windmill & Charlecote Park (day out)",
+      "date_guess": "2016-11-05",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0276_L", "signal": "departure", "excerpt": "November 5th. 2016 Simon, Eve & Tinder left 86 just after 9 ... We stopped at Inigo Jones' windmill ... Charlecote Park ... Now on our way home" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0276_R",
+      "kind": "trip",
+      "title_guess": "Sarehole / Keel Drive (Tolkien area, day out)",
+      "date_guess": "2017-04-09",
+      "index_page_no": 96,
+      "evidence": [
+        { "page_id": "B_0276_R", "signal": "heading", "excerpt": "April 9th Palm Sunday 2017 We drove to Tolkein's area & parked outside Rosie's Rd, Keel Drive ... A lovely afternoon ... Near Sarehole Mill" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page contains a short April 9th 2017 day-out (Keel Drive / Sarehole, index 96 'Keel Drive') in its upper portion, then the 'April 22nd Saturday' line below begins the long Italy grand tour. Break at the 'April 22nd Saturday' heading.",
+      "confidence": 0.7
+    },
+    {
+      "start_page_id": "B_0276_R",
+      "kind": "trip",
+      "title_guess": "Grand tour: France & Italy (Reims, Cinque Terre, Tuscany, Umbria)",
+      "date_guess": "2017-04-22",
+      "index_page_no": 96,
+      "evidence": [
+        { "page_id": "B_0276_R", "signal": "departure", "excerpt": "April 22nd Saturday We left home at 11, reached the Green Man" },
+        { "page_id": "B_0277_L", "signal": "place", "excerpt": "We reached Oxford for lunch ... went south to near the Channel Tunnel ... Sunday April 23rd ... Reims" },
+        { "page_id": "B_0279_L", "signal": "place", "excerpt": "St. Gothard tunnel ... we reach Pavra Ticino campsite ... Cinque Terre" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Second boundary on B_0276_R (see mixed_detail of the April 9th entry above). This is the trip START following that page break.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0291_L",
+      "kind": "trip",
+      "title_guess": "Telford, Berrington Hall & Hay Festival",
+      "date_guess": "2017-06-02",
+      "index_page_no": 111,
+      "evidence": [
+        { "page_id": "B_0291_L", "signal": "return", "excerpt": "We had an uneventful tunnel crossing ... reached Westfield Rd at 6.30. A super, long holiday. [ends grand tour]" },
+        { "page_id": "B_0291_L", "signal": "departure", "excerpt": "June 2nd Friday 8.45. Conrad, Eleni, Tinder, Simon & I set off for Telford ... On to Berrington Hall NT" },
+        { "page_id": "B_0291_R", "signal": "place", "excerpt": "On to the house Peter has rented for Hay festival w/end" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of page closes the Italy grand tour (tunnel crossing home, 'reached Westfield Rd at 6.30. A super, long holiday.'); the 'June 2nd Friday' line begins the new Berrington Hall / Hay Festival trip. Break at the 'June 2nd Friday' heading.",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0293_L",
+      "kind": "trip",
+      "title_guess": "Norfolk: Norwich, Seamark (family wedding)",
+      "date_guess": "2017-08-04",
+      "index_page_no": 112,
+      "evidence": [
+        { "page_id": "B_0293_L", "signal": "return", "excerpt": "Sunday Bryony gave us lunch & we drove home to take the Mitchcocks to St. George's. [ends prior outing]" },
+        { "page_id": "B_0293_L", "signal": "departure", "excerpt": "Friday August 4th 8 am we set off to the factory ... On to NE of Norwich ... Reached Seamark after 5 pm" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with a 'Sunday' drive home that closes the previous (Bromyard/wedding-weekend) outing, then the 'Friday August 4th' line begins the Norwich/Seamark wedding trip. Break at the 'Friday August 4th' heading.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0293_R",
+      "kind": "trip",
+      "title_guess": "Farm & camping with John & Kay (John's 30th)",
+      "date_guess": "2017-08-16",
+      "index_page_no": 113,
+      "evidence": [
+        { "page_id": "B_0293_R", "signal": "return", "excerpt": "Sunday milled around ... Hamburgers on the way home ... Home at 10. [ends Norwich/Seamark trip]" },
+        { "page_id": "B_0293_R", "signal": "departure", "excerpt": "Wed 16th Aug Simon, Eve, Tinder left 86 at 10. Off to farm & then camping with John & Kay to celebrate John's 30th birthday on Saturday" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page closes the Norwich/Seamark trip ('Home at 10.') then the 'Wed 16th Aug' line begins a new farm/camping trip with John & Kay (continuing onto B_0294 Axbridge). Break at the 'Wed 16th Aug' heading.",
+      "confidence": 0.82
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Trip starting B_0293_R (Wed 16th Aug 2017, farm & camping with John & Kay) continues onto B_0294 (Axbridge) and appears to run past the end of this window.",
+  "notes": "Page numbers map to the volB_book4 index (entries 85-114). B_0265_L is the tail of a Brampton Valley / Market Harborough trip that started before this window ('We set off for home just before 3') = continues_from_previous_window. Lowest-confidence calls are the Moor End Farm / Ashperton vs. July-6th-London split around B_0266_L-B_0267_L (0.55): it is unclear whether the Moor End/Belmont visit and the Oxford/Watlington/London run are one extended outing or two; the 'We left early to get back to Sunday church' line on B_0267_L suggests a return between them but is ambiguous. Several pages are physically mixed (end of one trip + start of next) and are flagged accordingly."
+}

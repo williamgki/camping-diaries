@@ -1,0 +1,109 @@
+{
+  "window_id": "B_w05",
+  "spread_range": ["B_0097", "B_0126"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0097_L",
+      "kind": "trip",
+      "title_guess": "France: Montreuil, Bauge opera, Auvergne, Millau, Entraygues, Conques, Figeac, Chamberet",
+      "date_guess": "2006-07",
+      "index_page_no": 35,
+      "evidence": [
+        { "page_id": "B_0097_L", "signal": "departure", "excerpt": "July 23rd Sunday ... At 9.20 we left for France with Charles." },
+        { "page_id": "B_0097_R", "signal": "heading", "excerpt": "La Calotterie near Montreuil. ... We set off Monday 24th" },
+        { "page_id": "B_0102_R", "signal": "date", "excerpt": "Viaduc de Millau ... 2006 Norman Foster + Partners." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0097_L opens mid-page with the END of a previous home episode (hot weather, Simon rigging hose pipe for Margaret, family scattered). The new France trip starts at the dated heading 'July 23rd Sunday ... At 9.20 we left for France with Charles.'",
+      "confidence": 0.95
+    },
+    {
+      "start_page_id": "B_0113_R",
+      "kind": "trip",
+      "title_guess": "Hanbury & Bideford-on-Avon (24-hour weekend trip)",
+      "date_guess": "2006-10",
+      "index_page_no": 52,
+      "evidence": [
+        { "page_id": "B_0113_R", "signal": "departure", "excerpt": "Saturday October 7th. Simon, Eve + Tonic left home at [?11] for a 24 hour trip." },
+        { "page_id": "B_0113_L", "signal": "return", "excerpt": "Then we took Margaret + Helen back to Trumpley + then home to 86." }
+      ],
+      "mixed": false,
+      "mixed_detail": "The France trip's return home ('home to 86') is on the facing left page B_0113_L; the new Bideford trip starts cleanly at the top of B_0113_R with its own dated departure heading.",
+      "confidence": 0.93
+    },
+    {
+      "start_page_id": "B_0114_R",
+      "kind": "trip",
+      "title_guess": "Oakington / Cambridge: William & Bryony MA graduation weekend",
+      "date_guess": "2007-05",
+      "index_page_no": 53,
+      "evidence": [
+        { "page_id": "B_0114_R", "signal": "departure", "excerpt": "May 11th Friday Simon, Eve & Tonie set off at 6.20. for William's & Bryony's MA Graduation weekend." },
+        { "page_id": "B_0114_L", "signal": "return", "excerpt": "Sunday Oct 8th. ... At 9am we set off home for Harvest festival." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0114_R opens with a stray note 'Early April 2007 Simon drove to [?Impley] & back' then begins the May graduation trip at 'May 11th Friday ... set off at 6.20.' The previous Bideford trip's return ('set off home for Harvest festival') is on the facing left page B_0114_L.",
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0115_L",
+      "kind": "trip",
+      "title_guess": "Short local van outings: Warwick Uni / Windmill (June 6th) and Margaret & Helen river supper (June 11th)",
+      "date_guess": "2007-06",
+      "index_page_no": 53,
+      "evidence": [
+        { "page_id": "B_0115_L", "signal": "heading", "excerpt": "Wednesday June 6th. Simon + Eve drove to Warwick Uni + picked up John + Katy + drove to the Windmill ... picnic in the van" },
+        { "page_id": "B_0115_L", "signal": "heading", "excerpt": "Monday June 11th Simon + Eve took Margaret + Helen out to supper in the van + a walk along the river." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0115_L continues the graduation weekend (Sunday: Tess & Bryony) at the top, then records two further short standalone evening van outings under separate dated headings (Wed June 6th Warwick/Windmill; Mon June 11th Margaret & Helen supper). Hard to tell whether these are separate micro-trips or appended notes; index page 53 bundles Oakington/Cambridge/Warwick together, so they may belong to the same scaffold entry.",
+      "confidence": 0.4
+    },
+    {
+      "start_page_id": "B_0115_R",
+      "kind": "trip",
+      "title_guess": "Lower Middleton Cheney & Stowe weekend (with Thomas & Naomi)",
+      "date_guess": "2007-06",
+      "index_page_no": 54,
+      "evidence": [
+        { "page_id": "B_0115_R", "signal": "heading", "excerpt": "Thursday June 14 We drove in convoy from Westfield Rd -> Lower Middleton Cheney." },
+        { "page_id": "B_0116_R", "signal": "return", "excerpt": "we drove from the carpark (Naomi to visit Keisha in Suffolk, Simon & Eve home) to the lodge" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0117_L",
+      "kind": "trip",
+      "title_guess": "Malvern (Charles' leavers) & the Farm for Ed & Frankie's wedding",
+      "date_guess": "2007-07",
+      "index_page_no": 56,
+      "evidence": [
+        { "page_id": "B_0117_L", "signal": "departure", "excerpt": "July 6th 5.15. Simon + Eve left for Malvern." },
+        { "page_id": "B_0117_R", "signal": "return", "excerpt": "Set off back to 86 at 3.45." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.88
+    },
+    {
+      "start_page_id": "B_0118_L",
+      "kind": "trip",
+      "title_guess": "France: Montreuil, Reims, Provence (Malaucene/Vaison), Grimaud/St Tropez, Frejus, Nice, Sospel, Monaco",
+      "date_guess": "2007-07",
+      "index_page_no": 56,
+      "evidence": [
+        { "page_id": "B_0118_L", "signal": "departure", "excerpt": "Sunday 29th July After the 8 o'clock we set off for France. Simon, Eve, Melody (17) & Charlotte (16) at 9.25." },
+        { "page_id": "B_0118_L", "signal": "heading", "excerpt": "arrived at the White Swan campsite, Montreuil *** at 6.05." },
+        { "page_id": "B_0119_R", "signal": "heading", "excerpt": "Valreas in Provence ... reached N.D. des Vignes (page no 57)" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.92
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "France 2007 trip starting B_0118_L is still in progress at the end of the window (B_0126: Sospel, Monaco, Villa Ephrussi de Rothschild) and continues past B_0126",
+  "notes": "Diary page numbers (no) align with the volB_book2_index page_no scaffold: B_0097_R=35 Montreuil, B_0104_R=43, B_0106_R=45 Conques, B_0107_R=46 Figeac, B_0110_R=49 David's, B_0113_R=52 Bideford-on-Avon, B_0114_R=53 Oakington/Cambridge, B_0115_R=54 Lower Middleton Cheney, B_0117/B_0118=56 (Malvern + Montreuil/Reims grouped under one index entry), B_0119_R=57 Valreas/Provence. Index entry 56 ('Malvern, Bromgard. / Montreuil / Reims...') spans BOTH the Malvern/Farm wedding trip and the France 2007 trip start; treated here as two boundaries (B_0117_L and B_0118_L). 2006 vs 2007 dating confirmed by '2006' on B_0102_R, \"'06\" on B_0112_L, 'Early April 2007' on B_0114_R, and 'Saturday 12th August '06'."
+}

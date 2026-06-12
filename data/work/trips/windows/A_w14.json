@@ -1,0 +1,164 @@
+{
+  "window_id": "A_w14",
+  "spread_range": ["A_0313", "A_0342"],
+  "boundaries": [
+    {
+      "start_page_id": "A_0314_L",
+      "kind": "trip",
+      "title_guess": "Dorset: Lyme Regis (Queen's Golden Jubilee weekend)",
+      "date_guess": "2002-05-31",
+      "index_page_no": 58,
+      "evidence": [
+        { "page_id": "A_0314_L", "signal": "heading+departure", "excerpt": "Friday Jan May 31st. 4.10. we ... Heavy Traffic that kept moving to Malvern. It's the Queen's Jubilee weekend." },
+        { "page_id": "A_0314_L", "signal": "place", "excerpt": "The drive south to Lyme Regis ... smaller roads to Hook Farm at Uplyme" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0316_L",
+      "kind": "trip",
+      "title_guess": "Day trip: Clent Hills picnic",
+      "date_guess": "2002-07-07",
+      "index_page_no": 60,
+      "evidence": [
+        { "page_id": "A_0316_L", "signal": "return-then-departure", "excerpt": "Tuesday we packed in the rain ... arrived home at 1 pm." },
+        { "page_id": "A_0316_L", "signal": "heading+departure", "excerpt": "Sunday July 7th. At 10.30. Simon, Eve, John, Charles, Kalgin picked up Annie Crews ... We parked at Clent & walked around the hills ... set off home to watch Wimbledon." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0316_L carries the END of the Lyme Regis trip (top: 'arrived home at 1 pm') and then the Clent day-trip start ('Sunday July 7th ... We parked at Clent'), and lower on the same page the START of the France trip ('Monday July 29th ... we have left for France'). Three sections on one page.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "A_0316_L",
+      "kind": "trip",
+      "title_guess": "France: Burgundy, Lyon, Le Puy, Ardèche canoeing (Cevennes)",
+      "date_guess": "2002-07-29",
+      "index_page_no": 61,
+      "evidence": [
+        { "page_id": "A_0316_L", "signal": "heading+departure", "excerpt": "Monday July 29th. Two days after arriving back from Thorperness we have left for France. Simon, Eve, John, Charles. Peter will fly to Lyons" },
+        { "page_id": "A_0316_R", "signal": "place", "excerpt": "we arrived at Vendeuil south of St. Quentin ... Chaumard" }
+      ],
+      "mixed": true,
+      "mixed_detail": "France trip starts lower on A_0316_L at the 'Monday July 29th ... we have left for France' line, after the Clent day-trip section above it.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0331_L",
+      "kind": "non_trip",
+      "title_guess": "Local day outings: New Art Gallery Walsall & tea at Trimpley",
+      "date_guess": "2002-08-24",
+      "index_page_no": 75,
+      "evidence": [
+        { "page_id": "A_0331_L", "signal": "return-then-new-section", "excerpt": "We reached home at 7. William had cooked supper ... For the first time, the boys helped put away stuff in the kitchen when we got home." },
+        { "page_id": "A_0331_L", "signal": "heading", "excerpt": "Saturday August 24th Simon, Eve, W, P, J, C went to see the New Art Gallery, Walsall." },
+        { "page_id": "A_0331_R", "signal": "heading", "excerpt": "Sunday 25th All 7 of us went to tea at Trimpley." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0331_L carries the END of the France trip (top: 'We reached home at 7') and then local day-outing notes (Walsall art gallery, Sat Aug 24) continuing onto A_0331_R (tea at Trimpley, Sun Aug 25). These are local outings, not overnight van trips.",
+      "confidence": 0.5
+    },
+    {
+      "start_page_id": "A_0332_L",
+      "kind": "trip",
+      "title_guess": "Peak District: Biddulph Grange Garden & Edale",
+      "date_guess": "2002-10-05",
+      "index_page_no": 76,
+      "evidence": [
+        { "page_id": "A_0332_L", "signal": "heading+departure", "excerpt": "Saturday October 5th 2002 Simon, Eve & Tonic left home at about 11 & motored north. We had sandwiches in the carpark of Biddulph Grange Garden." },
+        { "page_id": "A_0333_R", "signal": "place", "excerpt": "Coopers' Campsite Edale" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0334_R",
+      "kind": "trip",
+      "title_guess": "Cornwall: Eden Project & Fowey",
+      "date_guess": "2003-04-04",
+      "index_page_no": 79,
+      "evidence": [
+        { "page_id": "A_0334_R", "signal": "return-then-departure", "excerpt": "Then we drove on home. (2 girls were told off ...) We came home via Lichfield & Sutton Park." },
+        { "page_id": "A_0334_R", "signal": "heading+departure", "excerpt": "Friday April 4th 2003 Simon, Eve, John 15, Charles 13 ... set off at 6 for the Eden Project, Cornwall. Lovely Sunshine." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0334_R carries the END of the Biddulph/Edale trip (top: 'Then we drove on home ... via Lichfield & Sutton Park', dated Sun Oct 6th) and then the START of the Cornwall/Eden Project trip ('Friday April 4th 2003 ... set off at 6 for the Eden Project, Cornwall').",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "A_0338_L",
+      "kind": "trip",
+      "title_guess": "Cheshire: Quarry Bank Mill, Manchester & Tatton Park / Knutsford",
+      "date_guess": "2003-05-03",
+      "index_page_no": 82,
+      "evidence": [
+        { "page_id": "A_0338_L", "signal": "heading+departure", "excerpt": "Saturday May 3rd. We left at 3 pm, Simon, Eve, Tonic, to go north. Quarry Bank Mill & the Styal Estate are just south of Manchester." },
+        { "page_id": "A_0338_R", "signal": "place", "excerpt": "We drove a short way into Knutsford & walked around ... set off home, having tea at Keele services." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "A_0338_R",
+      "kind": "trip",
+      "title_guess": "Wales: Malvern concert & Llanafan Fawr (Elan Valley)",
+      "date_guess": "2003-05-23",
+      "index_page_no": 83,
+      "evidence": [
+        { "page_id": "A_0338_R", "signal": "return-then-departure", "excerpt": "we drove Thomas & Owen back to Manchester & set off home, having tea at Keele services." },
+        { "page_id": "A_0338_R", "signal": "heading+departure", "excerpt": "Friday May 23rd. We left at 5.35. (Simon, Eve & Tonic). The motorway traffic was stationary so we went on back roads to Malvern for the 7. concert." },
+        { "page_id": "A_0339_L", "signal": "place", "excerpt": "the 3 of us have come to Llanafan Fawr. There is a church & pub here & lots of sheep." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0338_R carries the END of the Cheshire/Knutsford trip (top: 'set off home, having tea at Keele services') and then the START of the Malvern/Llanafan Fawr trip ('Friday May 23rd. We left at 5.35 ... to Malvern for the 7. concert').",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "A_0340_R",
+      "kind": "non_trip",
+      "title_guess": "Local day outing: Malvern drinks party (Reg Farrar's)",
+      "date_guess": "2003-06-15",
+      "index_page_no": 83,
+      "evidence": [
+        { "page_id": "A_0340_R", "signal": "return-then-new-section", "excerpt": "After leaving the farm we went to Holloway's garden shop ... We drove on home." },
+        { "page_id": "A_0340_R", "signal": "heading", "excerpt": "June 15th Sunday After the 10.30. we drove down to Malvern, to Reg Farrar's, for a drinks party." }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0340_R (and its near-duplicate A_0341_R) carries the END of the Llanafan Fawr trip ('We drove on home', Tuesday) followed by a one-line local day-outing note ('June 15th Sunday ... drove down to Malvern, to Reg Farrar's, for a drinks party'). The Tuesday section also includes a same-trip stop at Jamie's farm. A_0341 appears to be a duplicate transcript of A_0340.",
+      "confidence": 0.45
+    },
+    {
+      "start_page_id": "A_0342_L",
+      "kind": "trip",
+      "title_guess": "Cambridge: William's May Ball (King's College)",
+      "date_guess": "2003-06-17",
+      "index_page_no": 85,
+      "evidence": [
+        { "page_id": "A_0342_L", "signal": "heading+departure", "excerpt": "Tuesday June 17th Simon + Eve set off at 4 for Cambridge + parked at William's house, 7 Maddingley Rd ... May Ball." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.75
+    },
+    {
+      "start_page_id": "A_0342_R",
+      "kind": "trip",
+      "title_guess": "Germany: via Ashford/Tunnel, Bad Honnef, Alsfeld, Eisenach, Weimar",
+      "date_guess": "2003-08-01",
+      "index_page_no": 86,
+      "evidence": [
+        { "page_id": "A_0342_R", "signal": "return-then-departure", "excerpt": "After going to bed at 3 am, we left at 7.45. for the factory and home." },
+        { "page_id": "A_0342_R", "signal": "heading+departure", "excerpt": "Friday 1st August Simon, Eve, Thomas, John Charles left at 6 for Germany ... On to Ashford in Kent, to Broad Hembury Campsite ... (OK for using en route to Tunnel). 10pm" }
+      ],
+      "mixed": true,
+      "mixed_detail": "A_0342_R carries the END of the Cambridge May Ball trip (top: 'we left at 7.45. for the factory and home') and then the START of the Germany trip ('Friday 1st August ... left at 6 for Germany ... Ashford in Kent ... en route to Tunnel'). The Germany trip continues past the end of this window.",
+      "confidence": 0.8
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "Germany trip starting A_0342_R (Friday 1st August 2003, via the Channel Tunnel) appears to continue past this window",
+  "notes": "Window transcripts cover spreads A_0313-A_0342 (book range A_0256-A_0350 includes earlier index/photo spreads not present as transcripts here). The window opens mid-trip: A_0313 is the END of a 2002 Wales/Pembroke trip (St Davids, Llandygwydd, returning via Cleobury Mortimer/Trumpley) that began in a previous window. Several physical pages are mixed (end of one trip + start of next, often with short day-outing notes wedged between). A_0341 is a near-duplicate transcript of A_0340 (same 'Monday May 26th' Llanafan Fawr content); treated as the same trip. Day/local outings (Clent picnic Jul 2002; Walsall+Trimpley Aug 2002; Malvern drinks Jun 2003) are flagged with lower confidence; the Clent picnic is logged as a deliberate van outing (kind:trip) while the Walsall/Trimpley and Malvern-drinks visits read as local non-camping outings (kind:non_trip)."
+}

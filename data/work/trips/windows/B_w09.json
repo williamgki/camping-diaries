@@ -1,0 +1,127 @@
+{
+  "window_id": "B_w09",
+  "spread_range": ["B_0193", "B_0222"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0193_L",
+      "kind": "trip",
+      "title_guess": "Germany & Italy: Ulm, Bavaria, Verona opera, Lake Orta, Monte Rosa, Val d'Aosta, Mont Blanc, Cluny, Montbard (summer 2012)",
+      "date_guess": "2012-07",
+      "index_page_no": 14,
+      "evidence": [
+        { "page_id": "B_0193_L", "signal": "narrative_midstream", "excerpt": "at Ulm. Jewish window... We drove on through lovely grassy fields of Bavaria to Ellessee an old campsite on a lake." },
+        { "page_id": "B_0195_L", "signal": "date", "excerpt": "Valido il 29/07/2012 (Verona opera ticket stub)" },
+        { "page_id": "B_0194_L", "signal": "place", "excerpt": "Camping Castel San Pietro ... Verona Opera" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6,
+      "notes": "Window opens mid-trip: page B_0193_L begins in the middle of a narrative (already at Ulm). This is the Verona-opera / Lake Orta / Monte Rosa Italy trip (book4 index entries 14-26). It continues from the previous window. Index page numbers do not match notebook 'no' fields here (notebook renumbered)."
+    },
+    {
+      "start_page_id": "B_0208_R",
+      "kind": "trip",
+      "title_guess": "Bourton Westwood Farm & Much Wenlock (Shropshire)",
+      "date_guess": "2012-08-30",
+      "index_page_no": 28,
+      "evidence": [
+        { "page_id": "B_0208_R", "signal": "return_then_departure", "excerpt": "A super trip. [then] August 30th Friday. Bourton Westwood Farm — 8.30. Simon, Eve & Tinder set off for a farm campsite South west of Much Wenlock." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of B_0208_R ends the Italy trip ('Our train was supposed to be 12:06 ... A super trip.'); the break falls at 'August 30th Friday. Bourton Westwood Farm', where the Much Wenlock trip begins.",
+      "confidence": 0.9,
+      "notes": "Matches index entry 28 'St. Tropey, Boulogne, Aston Rowant / Much Wenlock' (St Tropez/Boulogne/Aston Rowant close the Italy trip; Much Wenlock opens this one)."
+    },
+    {
+      "start_page_id": "B_0210_L",
+      "kind": "trip",
+      "title_guess": "Devizes & Foxhanger (Kennet & Avon Canal) with Charles, Jenny & John",
+      "date_guess": "2012-09-28",
+      "index_page_no": 29,
+      "evidence": [
+        { "page_id": "B_0210_L", "signal": "heading", "excerpt": "Friday September 28th — Simon, Eve & Tinder left at 5 to go to Devizes to spend the w/end with Charles & Jenny ... We're at Foxhangar" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Date jump from early Sept (Much Wenlock) to Sept 28th. Matches index entry 29 'Devizes, Boxhanger' (Boxhanger ~ Foxhanger). B_0210_R is a glued-in canal leaflet belonging to this trip."
+    },
+    {
+      "start_page_id": "B_0211_R",
+      "kind": "trip",
+      "title_guess": "Wales: Grawen, Cefn Coed, Penderyn (visiting John)",
+      "date_guess": "2013-05-17",
+      "index_page_no": 31,
+      "evidence": [
+        { "page_id": "B_0211_R", "signal": "heading", "excerpt": "Friday May 17th. Simon, Eve + Tinder set off at 4.30 for Wales to see John. We are staying at Grawen ... The Station Hotel, Cefn Coed ... The distillery, Penderyn" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Large date jump (Sept to May; year advances, likely 2013). Matches index entry 31 'Cefn Coed Austed'. B_0211_L is the tail of the Devizes trip ('all left ... on the way home')."
+    },
+    {
+      "start_page_id": "B_0212_L",
+      "kind": "trip",
+      "title_guess": "Ansted (Annette's executors visit)",
+      "date_guess": "2013-05-25",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0212_L", "signal": "heading", "excerpt": "Saturday May 25th Peter's birthday. 11 Simon, Eve & Tinder left to go to Ansted so that Annette can chat with her executors ... After Sunday lunch we head towards Richard Holroyd in Cambridge ... drove home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6,
+      "notes": "Short weekend outing to Ansted (Annette's home). Begins mid-page B_0212_L after the Wales trip ends. Could be read as a family-visit rather than a touring trip, but it is a van outing with departure/return, so kind=trip with moderate confidence. No clear index match (Ansted appears at index 31 'Austed' and later)."
+    },
+    {
+      "start_page_id": "B_0212_R",
+      "kind": "trip",
+      "title_guess": "South of England: Standen, Capel, Petworth, Churt, Ash Vale",
+      "date_guess": "2013-06-15",
+      "index_page_no": 32,
+      "evidence": [
+        { "page_id": "B_0212_R", "signal": "departure", "excerpt": "Saturday June 15th — 9.40. we leave for the south of England. We visit Standen, the Beale family home" },
+        { "page_id": "B_0214_L", "signal": "place", "excerpt": "We set off for Petworth ... looked at the house" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0212_R top continues the Ansted trip ('us on Sunday ... drove home.'); the break falls at 'Saturday June 15th — 9.40. we leave for the south of England'.",
+      "confidence": 0.8,
+      "notes": "Matches index entries 32 'Standen, Capel...' and 33 'Steyning, Petworth' and 35 'Churt, Guildford...'. Trip ends at B_0216_L 'had supper at the White Horse with Charles + Jenny + drove on home.'"
+    },
+    {
+      "start_page_id": "B_0216_R",
+      "kind": "trip",
+      "title_guess": "Hay on Wye (Rodnors Farm), Black Mountain Gliding, Raglan Castle",
+      "date_guess": "2013-06-28",
+      "index_page_no": 36,
+      "evidence": [
+        { "page_id": "B_0216_R", "signal": "heading", "excerpt": "Friday 28th June 2.35. Simon, Eve, Peter, Nana, Conrad (3½ m) + Tinder get off for Hay on Wye. ... Rodnors Farm" },
+        { "page_id": "B_0217_L", "signal": "place", "excerpt": "Glad Mountain Gliding Club ... On to Raglan Castle. ... Then on to home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0216_R top (the 'Tulips & Roses' Jekyll postcard caption and 'drove on home') closes the South-of-England trip; the break falls at 'Friday 28th June 2.35.' where the Hay on Wye trip begins.",
+      "confidence": 0.8,
+      "notes": "Matches index entry 36 'Hay, Raglan, Arras Kambrai' (Hay & Raglan belong to this trip; Arras/Kambrai open the next). Trip ends at B_0217_L 'On to Raglan Castle. ... Then on to home.'"
+    },
+    {
+      "start_page_id": "B_0217_L",
+      "kind": "trip",
+      "title_guess": "France/Burgundy: Arras, Cambrai, St Quentin, Montbard, Abbaye de Fontenay, Provins, Reims, Le Crotoy",
+      "date_guess": "2013-08-06",
+      "index_page_no": 36,
+      "evidence": [
+        { "page_id": "B_0217_L", "signal": "departure", "excerpt": "Tuesday [?7/6]th August — 10 we left home + dropped Tinder off at kennels. ... at the Channel Tunnel ... We camped next to a lake ... between [?Arras] + Cambrai." },
+        { "page_id": "B_0217_R", "signal": "place", "excerpt": "raining during our trip on to St. Quentin ... Labyrinthe at St Quentin, Picardie Cathedrals" },
+        { "page_id": "B_0219_R", "signal": "place", "excerpt": "We packed up & drove to Abbey de Fontenay" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0217_L: top continues/closes the Hay trip ('On to Raglan Castle. ... Then on to home.'); the break falls at 'Tuesday [?7/6]th August — 10 we left home + dropped Tinder off at kennels ... Channel Tunnel', where the France trip departs.",
+      "confidence": 0.85,
+      "notes": "Matches index entries 36-42 (Arras Kambrai, St Quentin Montbard, Buffon/Bourgogne Canal, Abbaye de Fontenay, Gouaix Provins, Bourget Commun Abbeville, Novellet). This trip continues past the end of the window (B_0222_R ends mid-narrative at Le Crotoy/Novelles, a Friday)."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "France/Burgundy trip starting B_0217_L continues past this window (B_0222_R ends mid-narrative at Le Crotoy / Novelles; index entries 42-43 'Novellet' / 'Marais, Watlington' fall beyond the window)",
+  "notes": "All transcribed spreads in this window are volume B, notebook 'book4' territory (B_0193-B_0222). Notebook page 'no' fields are inconsistent with index page_no (the book was renumbered), so matching is by place name + narrative. Years are inferred: the opening Italy trip is 2012 (Verona opera ticket dated 29/07/2012); subsequent shorter UK outings then run through autumn 2012 and into 2013 (May/June/August), inferred from month headings and seasonal progression with no explicit years on the pages."
+}

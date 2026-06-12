@@ -1,0 +1,159 @@
+{
+  "window_id": "B_w06",
+  "spread_range": ["B_0121", "B_0150"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0121_L",
+      "kind": "trip",
+      "title_guess": "South of France & Italy: St Tropez, Cote d'Azur, Aussois (return via Amiens)",
+      "date_guess": "2007-08",
+      "index_page_no": 59,
+      "evidence": [
+        { "page_id": "B_0121_L", "signal": "date", "excerpt": "Friday August 3rd ... We drove lots + the last part was very windy." },
+        { "page_id": "B_0121_R", "signal": "place", "excerpt": "At 4 we arrived at Madam Ferrero, Camping a la ferme, Grimaud ... distant view of St. Tropez (page 59)" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Trip already in progress at window start (continues from previous window). Book2 diary page numbers run 59 (B_0121_R) to 70 (B_0132_R): Grimaud/St Tropez, Frejus, Nice/Vence, Sospel/Menton/Monaco, Cuneo/Fenestrelle (Italy), Aussois, St Rampart, Mery-sur-Seine, Amiens. Year inferred ~2007; no explicit year on these pages."
+    },
+    {
+      "start_page_id": "B_0133_L",
+      "kind": "trip",
+      "title_guess": "Photo/overflow pages for the France & Italy trip (St Tropez, Aussois)",
+      "date_guess": "2007-08",
+      "index_page_no": 71,
+      "evidence": [
+        { "page_id": "B_0133_R", "signal": "narrative", "excerpt": "See P.59." },
+        { "page_id": "B_0134_R", "signal": "caption", "excerpt": "The walk down from the lakes to Aussois. See P.68." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.5,
+      "notes": "Pages 71-72: drawings/photos with explicit back-references to pages 59 and 68 of the same France/Italy trip. Belong to the preceding trip, not a new boundary; reported here only as overflow material, merge step should fold into B_0121 trip."
+    },
+    {
+      "start_page_id": "B_0135_L",
+      "kind": "trip",
+      "title_guess": "Day outings: Hampton Lode / Severn Valley Park & Churchill Forge",
+      "date_guess": "2008-05",
+      "index_page_no": 73,
+      "evidence": [
+        { "page_id": "B_0135_L", "signal": "date", "excerpt": "April 26th 2008 ... Today we took Margaret + Helen out to the Severn Valley Park at Alveley ... On the way home we stopped..." },
+        { "page_id": "B_0135_L", "signal": "date", "excerpt": "Sunday May 11th ... we picked up Margaret + Helen + drove to Churchhill Forge." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6,
+      "notes": "Date jump of ~8 months from the August France/Italy trip to April/May 2008. Short local day outings from home (Edgbaston), each starting and ending home. Page 73. Could be lumped as several micro-day-trips; treated as one local-outings section here."
+    },
+    {
+      "start_page_id": "B_0136_L",
+      "kind": "trip",
+      "title_guess": "Defford (Malvern) overnight & Croome Park; Great Witley day",
+      "date_guess": "2008-05",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0136_L", "signal": "date", "excerpt": "Friday May 16th. Journey 50 min from 8.40am ... We camped at the Defford Arms ... After lunch we drove to Croome Park ... we came home 5.25" },
+        { "page_id": "B_0136_R", "signal": "date", "excerpt": "Friday June 6th ... We ate lunch in the carpark of Great Witley Church" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.45,
+      "notes": "Camping weekend at Defford Arms (Fri May 16th-Sat) + Croome Park, then a separate Great Witley day (Fri June 6th). Distinct from the May 11th day outings, but both short local outings around Birmingham. Low confidence on whether to split from B_0135."
+    },
+    {
+      "start_page_id": "B_0137_L",
+      "kind": "trip",
+      "title_guess": "Hay-on-Wye & Llanthony Abbey (Black Mountains)",
+      "date_guess": "2008-06",
+      "index_page_no": 75,
+      "evidence": [
+        { "page_id": "B_0137_L", "signal": "place", "excerpt": "On to Hay where we met up in the campsite with Thomas, Naomi + Austin ... Saturday June 7th ... long drive to Llanthony Abbey" },
+        { "page_id": "B_0138_L", "signal": "return", "excerpt": "Sunday June 8th ... After lunch we drove home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Camping trip to Hay/Llanthony (Sat June 7th-Sun June 8th 2008), page 75. Ends with 'we drove home' on B_0138_L. The B_0137_L entry opens mid-sentence ('On to Hay'); the actual departure likely sits on the prior page, so this boundary's exact start is uncertain."
+    },
+    {
+      "start_page_id": "B_0138_L",
+      "kind": "trip",
+      "title_guess": "Trimpley / Hampton Load day out (Margaret & Helen)",
+      "date_guess": "2008-07-26",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0138_L", "signal": "date", "excerpt": "Saturday July 26th ... We went to Hampton Load with Margaret & Helen ... We reached home ... by 4 about 3.30." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0138_L holds the END of the Hay trip (Sunday June 8th, 'we drove home') in its top half, then the START of a new Saturday July 26th day-out section (Trimpley/Hampton Load) mid-page beginning at the line 'Saturday July 26th  Thomas has taken Tonic & Lulu to Kennels'.",
+      "confidence": 0.5,
+      "notes": "Single-day local outing (home by ~3.30 same day) on the eve of the big Spain departure. Short; could be considered a prelude to the Spain trip."
+    },
+    {
+      "start_page_id": "B_0138_R",
+      "kind": "trip",
+      "title_guess": "Spain & France 2008: Bilbao ferry, Burgos, Zamora, Salamanca (the long summer tour)",
+      "date_guess": "2008-07-27",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "B_0138_R", "signal": "departure", "excerpt": "Sunday July 27th  Simon, Charles & Eve set off for Spain & France. We went down the M5 & changed to the M4 ... At 6 we left for the ferry." },
+        { "page_id": "B_0139_R", "signal": "date", "excerpt": "Wednesday July 30th ... We drove off to Burgos" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Explicit departure 'set off for Spain & France' (Sunday July 27th 2008), ferry to Spain. This is the start of the 2008 Spain trip (book3 index, year 2008). Narrative runs B_0138_R-B_0141 (ferry, Burgos, Zamora) then is interrupted by overflow/index pages; resumes at B_0146_R (book3 page 1)."
+    },
+    {
+      "start_page_id": "B_0142_R",
+      "kind": "non_trip",
+      "title_guess": "Overflow photo/note pages (Beaune, Gorges de Ses) from an earlier French trip; address & Prado note",
+      "date_guess": null,
+      "index_page_no": 80,
+      "evidence": [
+        { "page_id": "B_0142_R", "signal": "narrative", "excerpt": "Saint Anne Room, Beaune, former linen room, P 20 ... Youth hostel & camping, Lorde valley ... [?Fridefont] Auvergne" },
+        { "page_id": "B_0143_L", "signal": "narrative", "excerpt": "Friday 15  we left the village ... down along the cliff path of the Gorges de Ses (page 40)" },
+        { "page_id": "B_0144_L", "signal": "narrative", "excerpt": "86 Westfield Rd, Edgbaston, Birmingham ... 2008 July. The favourite painting of Eugenio Triana Sr. at the Prado" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.4,
+      "notes": "B_0142_R (page 80) and B_0143 (page 40, Gorges de Ses, 'Garabit/Fridefont' per book2 index pp.38-40) are out-of-sequence overflow pages from an earlier France (Auvergne/Aveyron) trip, glued/written into the back of book2. B_0144 is the family address page plus a 2008 July Prado note. Not a distinct van trip in this window; flagged non_trip / overflow. Low confidence."
+    },
+    {
+      "start_page_id": "B_0145_L",
+      "kind": "non_trip",
+      "title_guess": "Index pages for Volume B book3 (2008 trips, pp.1-60)",
+      "date_guess": "2008",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0145_L", "signal": "heading", "excerpt": "1. Zamora, Spain 2008  2.St. Pedro  3.Salamanca, Arpile ... 21 Cragside, Rothbury Kielder" },
+        { "page_id": "B_0146_L", "signal": "heading", "excerpt": "38 Canoeing on Lot ... 60 Cheddar Gorge." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9,
+      "notes": "B_0145_L, B_0145_R and B_0146_L are the handwritten index for book3 (2008), index_page:true. Not trip narrative."
+    },
+    {
+      "start_page_id": "B_0146_R",
+      "kind": "trip",
+      "title_guess": "Spain & France 2008 (resumes): Zamora, San Pedro de la Nave, Salamanca, Arapile",
+      "date_guess": "2008-07-31",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "B_0146_R", "signal": "date", "excerpt": "Thursday July 31st 2008 ... We slept in Zamora campsite + drove into Zamora ... Simon, Eve & Charles (19) are in Spain. We arrived here by ferry with Thomas..." },
+        { "page_id": "B_0149_L", "signal": "place", "excerpt": "Saturday ... We drove to Arapile & Simon & Eve walked up a ridge to where Wellington stood" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6,
+      "notes": "Book3 page 1 begins the formal narrative of the 2008 Spain trip already started at B_0138_R. This is the SAME trip as B_0138_R (departure July 27th); the diary restarts the account in the new book at page 1 (Thursday July 31st 2008). Runs B_0146_R-B_0150 (Zamora, San Pedro, Salamanca, Camping Torres, Arapile battlefield, Art Nouveau museum) and continues open past the window end. Merge step should join with B_0138_R."
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "2008 Spain & France trip (resumed at B_0146_R / book3 page 1, Salamanca) continues past the end of this window",
+  "notes": "Volume B contains multiple physical notebooks; book2 (pages with the France/Italy 2007 trip) ends around B_0144, with overflow/photo pages out of sequence (B_0142-B_0143). The book3 index (B_0145-B_0146_L) then opens the 2008 material. The 2008 Spain trip is split: departure narrative at B_0138_R-B_0141 (written in book2), then the full account restarts at B_0146_R (book3 page 1). Treated as one trip across both. Several low-confidence local day-outing boundaries (B_0135, B_0136, B_0138_L) may be lumped or split differently by a human; reported separately per the honesty rule."
+}

@@ -1,0 +1,252 @@
+{
+  "window_id": "B_w13",
+  "spread_range": ["B_0289", "B_0318"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0289_L",
+      "kind": "trip",
+      "title_guess": "France 2017: Provence/Burgundy return (Dombes Abbey, St. Jean de Vaux)",
+      "date_guess": "2017-05",
+      "index_page_no": 108,
+      "evidence": [
+        { "page_id": "B_0289_L", "signal": "narrative", "excerpt": "On to have lunch near alot of lakes at Dombes Abbey... We shopped - for England... + reached St. Jean de Vaux." },
+        { "page_id": "B_0290_L", "signal": "date", "excerpt": "\"Thursday May 11\" ... we bought 60 bottles of Cremant de Bourgogne" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.55,
+      "notes": "Window opens mid-trip; this is the tail end of a 2017 France trip already in progress in the previous window (book4). Reported as a start only because it is the first visible content; the real boundary lies before this window."
+    },
+    {
+      "start_page_id": "B_0291_L",
+      "kind": "trip",
+      "title_guess": "Hay Festival weekend (Berrington Hall, Hay-on-Wye)",
+      "date_guess": "2017-06-02",
+      "index_page_no": 111,
+      "evidence": [
+        { "page_id": "B_0291_L", "signal": "return+departure", "excerpt": "reached Westfield Rd at 6.30. A super, long holiday. __June 2nd Friday__ 8.45. Conrad, Eleni, Tinder, Simon & I set off for Telford... On to Berrington Hall NT" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0291_L: the France 2017 trip ENDS at 'reached Westfield Rd at 6.30. A super, long holiday.' (return home); the Hay Festival trip STARTS at the '__June 2nd Friday__' heading.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0292_R",
+      "kind": "trip",
+      "title_guess": "Bromyard / Belmont Abbey (Charles & Jenny's wedding)",
+      "date_guess": "2017-07-28",
+      "index_page_no": 112,
+      "evidence": [
+        { "page_id": "B_0292_R", "signal": "return+departure", "excerpt": "Then home. __Friday July 28th__ __Bromyard__ Eve drove red jazz to farm... Charles' + Jenny's wedding at Belmont Abbey." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0292_R: the Hay trip ENDS at 'We had coffee, tea... Then home.' (after Sunday June 4th); the Bromyard/Belmont wedding trip STARTS at '__Friday July 28th__ Bromyard'.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0293_L",
+      "kind": "trip",
+      "title_guess": "Norfolk: Seamark (Mitsuba & Taiki's wedding, Norwich)",
+      "date_guess": "2017-08-04",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0293_L", "signal": "return+departure", "excerpt": "drove home to take the Mitchcocks to St. George's. __Friday August 4th__ 8 am we set off to the factory... On to NE of Norwich... Reached Seamark after 5 pm." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0293_L: the Bromyard wedding trip ENDS at 'Bryony gave us lunch & we drove home' (Sunday); the Norwich/Seamark trip STARTS at '__Friday August 4th__'.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0293_R",
+      "kind": "trip",
+      "title_guess": "Farm hop barn + Greenacres/Axbridge (John's 30th birthday)",
+      "date_guess": "2017-08-16",
+      "index_page_no": 113,
+      "evidence": [
+        { "page_id": "B_0293_R", "signal": "return+departure", "excerpt": "Hamburgers on the way home... Home at 10. __Wed 16th Aug__ Simon, Eve, Tinder left 86 at 10. Off to farm & then camping with John & Kay to celebrate John's 30th birthday" },
+        { "page_id": "B_0295_L", "signal": "narrative", "excerpt": "On to __Greenacres__ campsite near Compton Martin... John & Kaz arrived in time for supper." },
+        { "page_id": "B_0295_R", "signal": "heading", "excerpt": "__Saturday__ John's 30th birthday" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0293_R: the Norwich/Seamark trip ENDS at 'Hamburgers on the way home... Home at 10.'; the farm/Greenacres (John's 30th) trip STARTS at '__Wed 16th Aug__'. Trip runs through B_0294 (Axbridge) and B_0295 (Greenacres, Compton Martin).",
+      "confidence": 0.75
+    },
+    {
+      "start_page_id": "B_0296_L",
+      "kind": "trip",
+      "title_guess": "Short autumn outing via Alcester (supper with Charles & Jenny)",
+      "date_guess": "2017-10-16",
+      "index_page_no": 115,
+      "evidence": [
+        { "page_id": "B_0296_L", "signal": "return+departure", "excerpt": "stopping off with papers for the Chad accountant at Alcester on the way home. __Monday October 16th__ Eve caught an Uber to Chad, cleared the loo & we set off for supper with Charles & Jenny." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0296_L: the previous (John's 30th/Greenacres) trip ENDS at '...on the way home.'; a new short outing STARTS at '__Monday October 16th__'. B_0296_R is blank.",
+      "confidence": 0.5
+    },
+    {
+      "start_page_id": "B_0297_L",
+      "kind": "non_trip",
+      "title_guess": "End-of-book reference notes & folding/craft sketches (Cluny cake box, Lake Orta/Mont Blanc cafes)",
+      "date_guess": null,
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0298_L", "signal": "narrative", "excerpt": "x 2 / fold / front / this flap only on one... cake box from Cluny" },
+        { "page_id": "B_0299_L", "signal": "narrative", "excerpt": "Recommended place to go for a coffee near Lake Orta... Ski lift right next to Restaurant Zerotta near Mont Blanc" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.6,
+      "notes": "Loose sketch/notes pages and a blank (B_0299_R) at the back of book4. Not a van trip; reference/craft material."
+    },
+    {
+      "start_page_id": "B_0300_R",
+      "kind": "non_trip",
+      "title_guess": "New volume front matter + index (book5: 'Camping van log April 13th 2018 - June 25th 2022')",
+      "date_guess": "2018",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0300_R", "signal": "heading", "excerpt": "Camping van log April 13th 2018 – June 25th 2022 ... Simon + Eve Kirby, 86 Westfield Rd, Edgbaston B15 3JG" },
+        { "page_id": "B_0301_L", "signal": "route_list", "excerpt": "[index_page] 1 Rosson Wye / Caerleon / 5 Penn On Cardiff..." },
+        { "page_id": "B_0302_L", "signal": "route_list", "excerpt": "[index_page] 55 St. Melangel's Church... 72 Pian del Voglio" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9,
+      "notes": "New notebook begins here. B_0300_R is the title/ownership page; B_0301-B_0302 are the handwritten index for book5 (years 2018-2022 with 2021/2022 markers). B_0300_L is a Canterbury Cathedral photo caption belonging to the close of book4."
+    },
+    {
+      "start_page_id": "B_0303_R",
+      "kind": "trip",
+      "title_guess": "Wales: Ross-on-Wye, Caerleon, Penn Onn / St Fagans (John & Kay's new house)",
+      "date_guess": "2018-04-13",
+      "index_page_no": 4,
+      "evidence": [
+        { "page_id": "B_0303_R", "signal": "departure", "excerpt": "April 13th 2018 Simon, Eve & Tinder left for Wales to visit John & Kag in their new house (11am)... On to Caerleon... White House Farm" },
+        { "page_id": "B_0304_L", "signal": "narrative", "excerpt": "__Saturday April 14th__ ...arrived at Penn Onn at 10.15" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.95,
+      "notes": "First trip of book5. B_0303_L is a Caerleon photo caption."
+    },
+    {
+      "start_page_id": "B_0305_L",
+      "kind": "trip",
+      "title_guess": "Kent & France: Ightham Mote/Stalisfield, Loire (Beaugency, David at Treignac), Tournon/Tournus, St. Jean de Vaux, Canterbury & London",
+      "date_guess": "2018-05-03",
+      "index_page_no": 6,
+      "evidence": [
+        { "page_id": "B_0305_L", "signal": "return+departure", "excerpt": "raced home... to get to church. __Thursday May 3rd__ We set off at 9, voted (Newman House)... dropped off Tinder... on to Ightham Mote... the Plough Inn Stalisfield" },
+        { "page_id": "B_0306_L", "signal": "narrative", "excerpt": "We got to the Tunnel an hour early... camping beyond Dreux at a Municipal Park at St. Remysur l'Avre." },
+        { "page_id": "B_0312_R", "signal": "return", "excerpt": "We called in for a pub lunch with Judith & Rosemary on the way to Kennels. Then home" }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0305_L: the Wales/Penn Onn trip ENDS at the Sunday paragraph 'we... raced home... to get there with 10 minutes to spare to get to church.'; the long Kent+France trip STARTS at '__Thursday May 3rd__'. This trip runs B_0305 through B_0312_R (ends 'Then home', ~May 22nd).",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0313_L",
+      "kind": "trip",
+      "title_guess": "Herefordshire: Bromyard, Eardisland, Burton Hall, Shobdon, Croft Castle",
+      "date_guess": "2018-05-31",
+      "index_page_no": 13,
+      "evidence": [
+        { "page_id": "B_0313_L", "signal": "departure", "excerpt": "Thursday May 31st. 5.15. We set off for the farm... We stopped in Bromyard + went on to __Eardisland__." },
+        { "page_id": "B_0314_L", "signal": "narrative", "excerpt": "__Croft Castle__ ...the Iron Age hill fort." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85,
+      "notes": "Preceding boundary (B_0312_R) already returned home, so this opens cleanly. Trip runs through B_0314_L (June 3rd Sunday, returning home)."
+    },
+    {
+      "start_page_id": "B_0314_R",
+      "kind": "trip",
+      "title_guess": "Farnham (Hattie & Ramsey's wedding)",
+      "date_guess": "2018-08-04",
+      "index_page_no": 15,
+      "evidence": [
+        { "page_id": "B_0314_R", "signal": "departure", "excerpt": "__August 4th, Saturday__ At 9 Simon, Eve & Tinder left for Hattie's & Ramsey's wedding at Farnham... took the scenic routes. Heavy traffic for part of the way back." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0314_R contains TWO trip starts. First the brief Farnham wedding trip (Aug 4) which begins and returns home within the first paragraph; then the Rhayader/Elan Valley trip STARTS at '__Wed Aug 16th__'.",
+      "confidence": 0.75
+    },
+    {
+      "start_page_id": "B_0314_R",
+      "kind": "trip",
+      "title_guess": "Rhayader & Elan Valley (Wyside Club Site, via Brook House Farm)",
+      "date_guess": "2018-08-16",
+      "index_page_no": 15,
+      "evidence": [
+        { "page_id": "B_0314_R", "signal": "departure", "excerpt": "__Wed Aug 16th__ We left at 12.45. & went to Brook House Farm... On to Rhayader in the middle of Wales. We are camped at __Wyside Club Site__" },
+        { "page_id": "B_0315_L", "signal": "narrative", "excerpt": "We drove up to the 3rd lake in the Elan Valley" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8,
+      "notes": "Second start on B_0314_R. Trip runs through B_0315 (Thursday/Friday/Saturday at Rhayader)."
+    },
+    {
+      "start_page_id": "B_0315_R",
+      "kind": "trip",
+      "title_guess": "Farm hop-picking (Aug 26)",
+      "date_guess": "2018-08-26",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0315_R", "signal": "departure", "excerpt": "Aug 26th Saturday~~ Sunday Simon & Eve at farm for hop-picking. Parked in courtyard. Came home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0315_R: the Rhayader/Elan Valley trip ENDS at '...on the way to the farm now to pick up the smalls & keep them at 86 until Tuesday.'; a short farm hop-picking trip STARTS at 'Aug 26th'. Very brief entry.",
+      "confidence": 0.45,
+      "notes": "Could be read as a continuation/coda of the Rhayader trip rather than a separate van outing; entry is one line. Low confidence."
+    },
+    {
+      "start_page_id": "B_0316_L",
+      "kind": "trip",
+      "title_guess": "Dornston (campsite, St. Nicholas church)",
+      "date_guess": "2018-09-28",
+      "index_page_no": 16,
+      "evidence": [
+        { "page_id": "B_0316_L", "signal": "departure", "excerpt": "Friday 28th Sept 4 pm Simon, Eve, Tinder → __Dornston__. Campsite... Sat 29th... lunch + home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.8,
+      "notes": "Dornston/Dormston matches book5 index p16. Trip is Sept 28-29 2018, returning home."
+    },
+    {
+      "start_page_id": "B_0316_L",
+      "kind": "trip",
+      "title_guess": "Barnsley / Newark Park (Ashen Mains campsite, with Charles)",
+      "date_guess": "2019-04-05",
+      "index_page_no": 17,
+      "evidence": [
+        { "page_id": "B_0316_L", "signal": "date_discontinuity", "excerpt": "April 5th 2019 Simon, Eve + Tinder come to near Barnsley. Arrived 5:30." },
+        { "page_id": "B_0316_R", "signal": "narrative", "excerpt": "Newark Park, Gloucs ... Ashen Mains campsite." },
+        { "page_id": "B_0317_L", "signal": "heading", "excerpt": "__April 6th__ ...We drove to Newark Park." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0316_L: the Dornston trip ENDS at 'lunch + home.'; the Barnsley/Newark Park trip STARTS at 'April 5th 2019' (a ~6-month date jump). Trip runs B_0316 through B_0318_L.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0318_L",
+      "kind": "trip",
+      "title_guess": "Northampton: 78 Derngate (Mackintosh house), via Bierton & Bicester",
+      "date_guess": "2019-04-28",
+      "index_page_no": 18,
+      "evidence": [
+        { "page_id": "B_0318_L", "signal": "return+departure", "excerpt": "Then on to home. Sunday April 28th We shd have left at 8.30... booked into a 10.30. tour of Dern Gate, Mackintosh's house in Northampton." },
+        { "page_id": "B_0318_R", "signal": "return", "excerpt": "On the way home we stopped with Judith Kirby for lunch at Bierton, then had tea on the roadside... near Bicester." }
+      ],
+      "mixed": true,
+      "mixed_detail": "B_0318_L: the Newark Park/April 2019 trip ENDS at 'Frampton on Severn... Then on to home.'; the Derngate/Northampton trip STARTS at 'Sunday April 28th'. This trip closes at the end of the window (B_0318_R, returns home).",
+      "confidence": 0.8
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": null,
+  "notes": "Window straddles two notebooks: it covers the closing trips of book4 (2017, page nos ~108-116; B_0289-B_0296 plus loose sketch/notes pages B_0297-B_0299) and the opening of book5 ('Camping van log April 13th 2018 - June 25th 2022', title page B_0300_R, index B_0301-B_0302, narrative from B_0303_R). Physical page numbers in the 2017 section are scrambled by scan order (109,118,112,113,114,116) but the dated narrative is continuous; boundaries are reported in spread order. The Derngate trip at B_0318 returns home before the window edge, so nothing is left open."
+}

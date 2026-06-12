@@ -1,0 +1,76 @@
+{
+ "trip_id": "2000-bath-roman-baths-american-museum-limpley",
+ "title_guess": "Bath: Roman Baths, American Museum, Limpley Stoke",
+ "date_guess": "2000-05-05",
+ "volume": "A",
+ "spread_range": [
+  "A_0280",
+  "A_0281"
+ ],
+ "mixed_start": false,
+ "mixed_end": true,
+ "index_entry": null,
+ "boundary_evidence": [],
+ "sketch_images": [],
+ "pages": [
+  {
+   "page_id": "A_0280_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "May 5th 2000 Friday",
+     "iso": "2000-05-05"
+    },
+    {
+     "raw": "May 6th",
+     "iso": "2000-05-06"
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Bath",
+    "Bath Marina Park",
+    "Roman Baths",
+    "Pulteney Bridge"
+   ],
+   "legibility": 0.87,
+   "text": "May 5th 2000  Friday.\n  6.35pm  Simon, Eve, John 12, Charles 11 left 86 for Bath.  Charles map read.  We are staying at the __Bath Marina Park__, west of Bath.  The town is a short bus ride away on a park & ride bus, every 15 minutes.\n\n  May 6th  The day started overcast, but by this afternoon there was blazing sunshine!  At 10 we left & went to the Roman Baths.  It is beautifully laid out & very interesting.  We had a drink & looked at the [illegible] shape below Pulteney Bridge; the weir.\n  We had a delicious lunch, which was a long time coming.  Eve had a salad of Bacon, avocado, lettuce, roast onion & pepper, fresh onion & pepper, [illegible] cucumber, tomatoes & dressing.\n  In the afternoon we visited the photography museum which had a marvellous exhibition of photos of faces of the C20.  Then we returned to the van for a"
+  },
+  {
+   "page_id": "A_0280_R",
+   "no": null,
+   "dates": [],
+   "headings": [],
+   "places": [
+    "Bath",
+    "American Museum"
+   ],
+   "captions": [
+    "Shaker Room, American Museum, Bath."
+   ],
+   "legibility": 0.9,
+   "text": "cup of tea.\n  Bath has beautiful columns, capitals, warm stone & little balconies.  Very pretty.\n  At 6.45 pm we left the campsite, bussed back into town & had supper at"
+  },
+  {
+   "page_id": "A_0281_L",
+   "no": null,
+   "dates": [
+    {
+     "raw": "Sunday",
+     "iso": null
+    }
+   ],
+   "headings": [],
+   "places": [
+    "Vine Tree",
+    "Royal Crescent",
+    "Claverton",
+    "Limpley Stoke",
+    "Freshford"
+   ],
+   "legibility": 0.88,
+   "boundary_mixed": true,
+   "text": "the Vine Tree. Delicious. Pork & faggots. lovely roast Mediterranean vegetables. After supper we walked to look at the Royal Crescent. Fortunately it wasn't raining, but there was a magnificent thunderstorm across the valley. We were lucky to catch a Taxi back to the campsite.\n\n     Hot weather again on __Sunday__. The people at Claverton village were snooty about helping us find a church when we arrived at the end of their service. At the next church, __Limpley Stoke__, Simon saw Jill Wright crossing the graveyard. Inspite of telephoning Jill & Hugh we had failed to make contact, so it was good to meet them by chance. Hugh had just finished preaching. So we shared their church coffee (Saxon arch) & set off to Freshford. A very welcoming church & good sermon by a lay-reader. Hugh & Jill invited us to lunch."
+  }
+ ]
+}

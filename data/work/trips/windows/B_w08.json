@@ -1,0 +1,163 @@
+{
+  "window_id": "B_w08",
+  "spread_range": ["B_0169", "B_0198"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0169_R",
+      "kind": "trip",
+      "title_guess": "Wales: Penrhos, Brecon Beacons & Crickhowell",
+      "date_guess": "2010-04-09",
+      "index_page_no": 24,
+      "evidence": [
+        { "page_id": "B_0169_R", "signal": "departure", "excerpt": "Friday April 9th 2010 @ 6.15. Simon + Eve set off with Tonic ... We drove thru [?Sunshine] to the Walks Penrhos, Wales, on the way to the Brecons 8.05." },
+        { "page_id": "B_0169_R", "signal": "narrative", "excerpt": "(preceding lines end the Brandon Hills outing; one-line non-trip note 'Saturday October 24th. Simon + Eve take Margaret & Helen out to tea.' sits between)" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page ends the prior Brandon Hills trip (continues from previous window) and a one-line home/tea non-trip note, then opens the April 2010 Wales/Brecons trip at the heading 'Friday April 9th 2010'.",
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0171_L",
+      "kind": "trip",
+      "title_guess": "Cotswolds: Pangolin Foundry, Folly Farm & Snowshill Manor",
+      "date_guess": "2010-05-07",
+      "index_page_no": 25,
+      "evidence": [
+        { "page_id": "B_0171_L", "signal": "departure", "excerpt": "Friday May 7th. 6.25 we left Westfield [?S] & drove to Moreton on the Marsh ... We ended up arriving too late (8.10) & slept in carpark." },
+        { "page_id": "B_0171_L", "signal": "heading", "excerpt": "Saturday May 8th ... breakfast at William's & Bryony's B&B in Lower Swell, Cotswolds ... Pangolin Foundry in Chalford." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.92
+    },
+    {
+      "start_page_id": "B_0172_R",
+      "kind": "non_trip",
+      "title_guess": "Home note: Strawberry Tea with Margaret & Helen (23 May)",
+      "date_guess": "2010-05-23",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0172_R", "signal": "return", "excerpt": "We had lunch in the carpark. They drove back to London & we are going back to Birmingham." },
+        { "page_id": "B_0172_R", "signal": "heading", "excerpt": "23 May Sunday Traffic jams as we left [?Sham] at 1.30 to take Margaret & Helen out for a Strawberry Tea." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of page closes the Cotswolds trip ('going back to Birmingham'); the '23 May Sunday' heading begins a short local Strawberry-Tea outing, not a touring trip.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "B_0173_R",
+      "kind": "trip",
+      "title_guess": "Shropshire/Wales: Ludlow, Stokesay, Elsich Barns, Elan Valley",
+      "date_guess": "2010-06-11",
+      "index_page_no": 27,
+      "evidence": [
+        { "page_id": "B_0173_R", "signal": "departure", "excerpt": "Friday June 11th. At 2.15. we left for Wales. Simon, Eve, Peter, Magda Lipinska. And Tonic. We drove to Ludlow ... Elstich Barns campsite." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.93
+    },
+    {
+      "start_page_id": "B_0175_R",
+      "kind": "trip",
+      "title_guess": "Suffolk graduation party then Belgium (Thorpeness, Groenpark)",
+      "date_guess": "2010-07-17",
+      "index_page_no": 30,
+      "evidence": [
+        { "page_id": "B_0175_R", "signal": "return", "excerpt": "Saturday July 4th Simon & Eve & Tonic went over to Trimpley ... Then we had tea in the van. (closes Wales trip; intervening short day notes)" },
+        { "page_id": "B_0175_R", "signal": "departure", "excerpt": "Saturday July 17th. 10 Simon & Eve set off, dropping Tonic at [?Karsels]. We are driving to [?Thornesweathers] for Momiji's & Koroku's graduation party." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with the end of the Ludlow/Wales trip and short day-trip notes (Saturday July 4th Trimpley/Arley Arboretum), then the 'Saturday July 17th' heading begins the Suffolk-then-Belgium trip.",
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "B_0177_R",
+      "kind": "non_trip",
+      "title_guess": "New notebook front-matter: Van Log cover + index (Book 4)",
+      "date_guess": "2011-10",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0177_R", "signal": "heading", "excerpt": "Van Log Friday 14th October 2011 - October 2017. 86 Westfield G, Edgbaston, Birmingham B15 3J0." },
+        { "page_id": "B_0178_R", "signal": "index", "excerpt": "1. Kidderminster 2 Brook House Farm 3 Wilsham House ... (handwritten index page, repeated on B_0179_R, continued B_0180)" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0181_R",
+      "kind": "trip",
+      "title_guess": "Devon & Cornwall: Kidderminster, Wilsham, Barnstaple, Padstow, Eden Project",
+      "date_guess": "2011-10-14",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "B_0181_R", "signal": "departure", "excerpt": "Friday 14th October 2011 We set off, Simon, Eve + Tonic (13) to visit Grandma in the Shruberg at Kidderminster ... We set off for the farm." },
+        { "page_id": "B_0183_L", "signal": "narrative", "excerpt": "we drove south to Wilsham House B + B ... Then we drove on past Lorna Doone's Farm to a nearby camp site, near Oare ... On to Barnstaple." },
+        { "page_id": "B_0185_R", "signal": "return", "excerpt": "Wednesday October 19th We left the lovely campsite at 9.30 for home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.92
+    },
+    {
+      "start_page_id": "B_0187_L",
+      "kind": "trip",
+      "title_guess": "Wales: Barmouth & Mawddach Estuary (Craig Wen)",
+      "date_guess": "2012-04-27",
+      "index_page_no": 7,
+      "evidence": [
+        { "page_id": "B_0187_L", "signal": "departure", "excerpt": "Friday April 27th 2012. Simon, Eve & Tinder (6 mo) set off at 6 for Barmouth area ... Craig Wen campsite LL39 1BQ." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.93
+    },
+    {
+      "start_page_id": "B_0189_L",
+      "kind": "trip",
+      "title_guess": "Suffolk: Annette's birthday party (Wingfield, Halesworth)",
+      "date_guess": "2012-06-09",
+      "index_page_no": 9,
+      "evidence": [
+        { "page_id": "B_0189_L", "signal": "return", "excerpt": "so we headed for home. On the way we stopped at Wroxeter ... (closes the Barmouth trip)" },
+        { "page_id": "B_0189_L", "signal": "departure", "excerpt": "June 9th 8.45. Simon, Eve & Tinder are off to Annette's birthday party ... evening concert at Wingfield church ... near Halesworth ... We slept on Annette's drive." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of page returns home from the Barmouth trip (via Wroxeter); the 'June 9th' heading begins the Suffolk birthday-party trip.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0189_R",
+      "kind": "trip",
+      "title_guess": "Day trip to Pershore (Abbey)",
+      "date_guess": "2012-06-16",
+      "index_page_no": 9,
+      "evidence": [
+        { "page_id": "B_0189_R", "signal": "return", "excerpt": "2.45. We head for home. A good week end. (closes the Suffolk trip)" },
+        { "page_id": "B_0189_R", "signal": "departure", "excerpt": "About June 16th Simon & Eve & Tinder went on a day trip to Pershore. Simon bought a battery for the van. We wandered around Pershore ... The Abbey is beautiful." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Top of page ends the Suffolk weekend ('We head for home'); the 'About June 16th' heading is a separate single-day Pershore outing.",
+      "confidence": 0.5
+    },
+    {
+      "start_page_id": "B_0190_L",
+      "kind": "trip",
+      "title_guess": "Italy: via Belgium, Germany (Ulm), Bolzano, Verona Opera & Lake Orta",
+      "date_guess": "2012-07-21",
+      "index_page_no": 10,
+      "evidence": [
+        { "page_id": "B_0190_L", "signal": "departure", "excerpt": "Sat. July 21st ... Simon + Eve set off at 4 pm for Italy. We called in at Chad ... We arrived in Stallisfield again, the same as last year." },
+        { "page_id": "B_0190_R", "signal": "narrative", "excerpt": "Sunday July 22nd. ... Queues at Channel tunnel terminus ... It took ages to find the Belgican campsite ... St. Seveur." },
+        { "page_id": "B_0193_L", "signal": "narrative", "excerpt": "We drove on through lovely grassy fields of Bavaria to Ellessee ... on to Bolsano ... Lake Garda comes in sight." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    }
+  ],
+  "continues_from_previous_window": true,
+  "open_at_end": "The July 2012 Italy trip starting B_0190_L is still in progress at B_0198 (at Domodossola/Lake Orta); it continues past this window.",
+  "notes": "Window starts mid-trip: B_0169_L continues the Brandon Hills outing from the previous window (no clear departure cited here). B_0177_R is the Book 4 'Van Log' cover/title page; B_0178-B_0180 are handwritten index pages (B_0178_R and B_0179_R are two scans of the same index page); these are non-narrative front-matter, grouped under the single non_trip boundary at B_0177_R. Index-page mapping for the Book 4 narrative trips: Kidderminster/Cornwall trip = index pp.1-6; Barmouth = p.7; Suffolk/Pershore = p.9; Italy = pp.10-18. Earlier 2010 trips map onto the Book 3 index (Brecon/Crickhowell pp.24-25; Pangolin/Snowshill pp.25-26; Ludlow/Elan pp.27-29; Suffolk/Belgium pp.30-31)."
+}

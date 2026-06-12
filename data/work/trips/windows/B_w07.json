@@ -1,0 +1,175 @@
+{
+  "window_id": "B_w07",
+  "spread_range": ["B_0145", "B_0174"],
+  "boundaries": [
+    {
+      "start_page_id": "B_0146_R",
+      "kind": "trip",
+      "title_guess": "Spain & France: Zamora, Salamanca, Madrid, Toledo, Pyrenees & David's house",
+      "date_guess": "2008-07",
+      "index_page_no": 1,
+      "evidence": [
+        { "page_id": "B_0146_R", "signal": "heading", "excerpt": "Thursday July 31st 2008 ... We slept in Zamora campsite + drove into Zamora the next day" },
+        { "page_id": "B_0146_R", "signal": "narrative", "excerpt": "Simon, Eve & Charles (19) are in Spain. We arrived here by ferry with Thomas, Nadin + Austin who have gone over the Pyrenees" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.92
+    },
+    {
+      "start_page_id": "B_0159_L",
+      "kind": "trip",
+      "title_guess": "Local picnic: Trimpley / Hampton Lode with Helen & Margaret",
+      "date_guess": "2009-04-04",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0159_L", "signal": "date", "excerpt": "April 4th 2009 Simon & Eve & Tonic drove over to [?Trumpby] & took Helen & Margaret out for a picnic lunch at Hampton ? Lode" }
+      ],
+      "mixed": false,
+      "mixed_detail": "Date jumps from the 2008 Spain/France trip straight to April 4th 2009; this is a short same-day van picnic outing, distinct from the eastward trip that begins B_0159_R.",
+      "confidence": 0.55
+    },
+    {
+      "start_page_id": "B_0159_R",
+      "kind": "trip",
+      "title_guess": "East Anglia: Peckover House, Fotheringay, Foulsham, Norfolk Broads, Halesworth",
+      "date_guess": "2009-04-18",
+      "index_page_no": 14,
+      "evidence": [
+        { "page_id": "B_0159_R", "signal": "heading", "excerpt": "Saturday April 18th. Simon, Eve & Tonic set off eastwards ... lunch in the carpark near Peckover House" },
+        { "page_id": "B_0161_L", "signal": "return", "excerpt": "We returned to 86 at about 7.45. Charles had already eate[n]." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0161_R",
+      "kind": "trip",
+      "title_guess": "Shropshire & borders: Enville, Long Mynd (Hamperley), Oswestry",
+      "date_guess": "2009-05",
+      "index_page_no": 16,
+      "evidence": [
+        { "page_id": "B_0161_R", "signal": "heading", "excerpt": "Mayors Sunday At 9.50, we went to church & then on to Enville for lunch in a field. (S.E, Tonic)" },
+        { "page_id": "B_0161_R", "signal": "narrative", "excerpt": "On to Hamperley campsite, SE corner Long Mynd ... On to Oswestry by a route to the west partly in Wales" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.78
+    },
+    {
+      "start_page_id": "B_0162_L",
+      "kind": "trip",
+      "title_guess": "Local tea outing: Bewdley / Trimpley with Margaret & Helen",
+      "date_guess": "2009-05-17",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0162_L", "signal": "narrative", "excerpt": "Mary cooked us a delicious supper + we came home." },
+        { "page_id": "B_0162_L", "signal": "date", "excerpt": "May 17th Sunday. 2pm we set off in the rain to take Margaret + Helen out. to tea ... took Margaret + Helen back to Trimpley + went home." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page ends the Oswestry trip ('we came home') then starts the short May 17th Sunday tea outing on the same page.",
+      "confidence": 0.6
+    },
+    {
+      "start_page_id": "B_0162_R",
+      "kind": "trip",
+      "title_guess": "Local tea/evening outings: Hampton Lode/Arley, Trimpley, Kings Norton (May–July 2009)",
+      "date_guess": "2009-05-31",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0162_R", "signal": "heading", "excerpt": "May 31st Sunday a glorious afternoon. We took Helen + Margaret out to tea." },
+        { "page_id": "B_0162_R", "signal": "heading", "excerpt": "Friday July 24th John, Simon, Eve + Tonic went along beyond Kings Norton ... It was 9.15, so we came home." }
+      ],
+      "mixed": false,
+      "mixed_detail": "Page contains three short same-day local van outings (May 31st, Sat July 18th, Fri July 24th), each leaving from and returning home; grouped as a cluster of micro-outings.",
+      "confidence": 0.5
+    },
+    {
+      "start_page_id": "B_0163_L",
+      "kind": "trip",
+      "title_guess": "Northumberland & Yorkshire: Humber Bridge, Bridlington, Alnwick, Bamburgh, Holy Island, Cragside, Kielder, Teesdale",
+      "date_guess": "2009-08-07",
+      "index_page_no": 18,
+      "evidence": [
+        { "page_id": "B_0163_L", "signal": "heading", "excerpt": "Thursday August 7  070809 Friday 11.15, Simon, Eve & Tonic set off to Northumberland." },
+        { "page_id": "B_0167_R", "signal": "return", "excerpt": "We left for Bham at 4pm + had supper at Pinnocchio's When we got home." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.9
+    },
+    {
+      "start_page_id": "B_0168_L",
+      "kind": "trip",
+      "title_guess": "Exmoor weekend: Halse Farm, Winsford Hill, Brandon Hills, Queens Camel",
+      "date_guess": "2009-10-16",
+      "index_page_no": 22,
+      "evidence": [
+        { "page_id": "B_0168_L", "signal": "heading", "excerpt": "October 16th Friday. 1.50. Simon, Eve & Tonic left for a w/end holiday ... Halse Farm campsite (middle of Exmoor)" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page opens with a 'September/October' note recording 3 separate local teas/lunches in the van, then starts the Oct 16th Exmoor weekend trip below it.",
+      "confidence": 0.82
+    },
+    {
+      "start_page_id": "B_0169_R",
+      "kind": "trip",
+      "title_guess": "Brecon Beacons & Welsh borders: Penrhos, Torpantau, Crickhowell, Abbey Dore",
+      "date_guess": "2010-04-09",
+      "index_page_no": 24,
+      "evidence": [
+        { "page_id": "B_0169_R", "signal": "narrative", "excerpt": "At 12.50. we arrived at the Thatch, Queens Camel, for lunch with the Urbaincyks." },
+        { "page_id": "B_0169_R", "signal": "heading", "excerpt": "Friday April 9th 2010 @ 6.15. Simon + Eve set off with Tonic ... drove thru [?Sunshine] to the Walks Penrhos, Wales, on the way to the Brecons" }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page top finishes the Exmoor weekend (Queens Camel lunch return leg), then a one-line Oct 24th tea outing note, then starts the Brecons trip 'Friday April 9th 2010'.",
+      "confidence": 0.8
+    },
+    {
+      "start_page_id": "B_0171_L",
+      "kind": "trip",
+      "title_guess": "Cotswolds: Moreton-in-Marsh, Pangolin Foundry (Chalford), Lower Swell, Folly Farm, Snowshill Manor",
+      "date_guess": "2010-05-07",
+      "index_page_no": 25,
+      "evidence": [
+        { "page_id": "B_0171_L", "signal": "heading", "excerpt": "Friday May 7th. 6.25t we left Westfield [?S] & drove to Moreton on the Marsh" },
+        { "page_id": "B_0172_R", "signal": "return", "excerpt": "They drove back to London & we are going back to Birmingham." }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    },
+    {
+      "start_page_id": "B_0172_R",
+      "kind": "trip",
+      "title_guess": "Local tea outing: Strawberry Tea with Margaret & Helen",
+      "date_guess": "2010-05-23",
+      "index_page_no": null,
+      "evidence": [
+        { "page_id": "B_0172_R", "signal": "narrative", "excerpt": "We had lunch in the carpark. They drove back to London & we are going back to Birmingham." },
+        { "page_id": "B_0172_R", "signal": "heading", "excerpt": "23 May Sunday Traffic jams as we left [?Sham] at 1.30 to take Margaret & Helen out for a Strawberry Tea." }
+      ],
+      "mixed": true,
+      "mixed_detail": "Page finishes the Cotswolds trip ('going back to Birmingham') then starts the short May 23rd Strawberry Tea outing on the same page.",
+      "confidence": 0.58
+    },
+    {
+      "start_page_id": "B_0173_R",
+      "kind": "trip",
+      "title_guess": "Shropshire & Wales: Ludlow, Elstich Barns, Stokesay Castle, Elan Valley",
+      "date_guess": "2010-06-11",
+      "index_page_no": 28,
+      "evidence": [
+        { "page_id": "B_0173_R", "signal": "heading", "excerpt": "Friday June 11th. At 2.15. we left for Wales. Simon, Eve, Peter, Magda Lipinska. And Tonic." },
+        { "page_id": "B_0174_L", "signal": "narrative", "excerpt": "Saturday June 12th ... We went to Stokesay Castle ... Enroute to the Elan Valley Reservoirs" }
+      ],
+      "mixed": false,
+      "mixed_detail": null,
+      "confidence": 0.85
+    }
+  ],
+  "continues_from_previous_window": false,
+  "open_at_end": "Trip starting B_0173_R (Ludlow / Stokesay / Elan Valley, June 2010) is still in progress at B_0174_R, the last transcribed spread; narrative on the Elan Valley reservoirs is cut off mid-sentence and continues past this window.",
+  "notes": "Window opens with two index pages (B_0145_L, B_0145_R, B_0146_L) from volB book3 listing the 2008-2009 trips; first diary text is B_0146_R. The big 2008 Spain/France trip runs B_0146_R->B_0158_R. From spring 2009 the diary shifts to many short UK weekend trips plus brief same-day van outings to take elderly relatives (Margaret/Helen) out for tea; several of those micro-outings share physical pages with the start/end of longer trips (flagged mixed). The day-outing 'trips' (B_0159_L, B_0162_L, B_0162_R, B_0172_R) are genuine but very short and given lower confidence; the merge step may choose to fold or treat them as their own outings. Place names like 86 and Sham=Birmingham/home confirm home departures and returns."
+}
