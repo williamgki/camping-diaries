@@ -11,7 +11,7 @@
         "volume": { "enum": ["A", "B"] },
         "start_date": { "type": ["string", "null"] },
         "end_date": { "type": ["string", "null"] },
-        "year": { "type": ["integer", "null"], "minimum": 1989, "maximum": 2019 },
+        "year": { "type": ["integer", "null"], "minimum": 1989, "maximum": 2026 },
         "date_precision": { "enum": ["day", "month", "year"] },
         "travellers": { "type": "array", "items": { "type": "string" } },
         "countries": { "type": "array", "items": { "type": "string", "pattern": "^[A-Z]{2}$" } },
