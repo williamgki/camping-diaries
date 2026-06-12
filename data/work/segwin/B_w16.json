@@ -1,0 +1,768 @@
+{
+ "window_id": "B_w16",
+ "volume": "B",
+ "books": [
+  {
+   "start": "B_0301",
+   "end": "B_0373",
+   "index_spreads": [
+    "B_0301",
+    "B_0302"
+   ]
+  }
+ ],
+ "index_entries": [
+  {
+   "file": "volB_index.json",
+   "entries": [
+    {
+     "page_no": 1,
+     "text": "Weimar, Buchenwald\nLudwigstadt, Bamburg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 3,
+     "text": "Rothenburg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 4,
+     "text": "Rot-am-See, Heidelberg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 6,
+     "text": "Hermeskeil, Ypres",
+     "year": 2003,
+     "note": "marginal note beside: 'too sunior air craft' (uncertain)"
+    },
+    {
+     "page_no": 7,
+     "text": "London, Burrough, Netherwestcote",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 8,
+     "text": "Malvern, Barnard Castle, High Force",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 9,
+     "text": "Haltwhistle, Vindolanda",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 10,
+     "text": "Housesteads, Chesters etc",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 11,
+     "text": "Heaton, Newcastle",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 12,
+     "text": "Rye Court, Golden Valley",
+     "year": 2004,
+     "note": "2004 year marker written beside this entry"
+    },
+    {
+     "page_no": 13,
+     "text": "Upton, Malvern",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 14,
+     "text": "Woodrow, Bromyard, W. Malvern",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 15,
+     "text": "Burrough, London, Southwork\nChipping Campden, Malvern,",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 16,
+     "text": "Dinas, Harlech",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 17,
+     "text": "Machynlleth",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 18,
+     "text": "Little Cressingham\nSutton Coldfield\nSouthampton",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 19,
+     "text": "Bilbao",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 20,
+     "text": "Guernica,\nMutriku",
+     "year": 2004,
+     "note": "a struck-through word follows 'Guernica,' on the same line"
+    },
+    {
+     "page_no": 21,
+     "text": "Puente de la Reina\nSanta Maria Eunate\nHoz de Lumbier",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 22,
+     "text": "Lerre, Sanguesa\nRuesta, Lake Yesa",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 23,
+     "text": "Jaca",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 24,
+     "text": "Aragon, Ainsa",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 27,
+     "text": "Plan",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 28,
+     "text": "Bielsa Tunnel",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 29,
+     "text": "Massat, Bedeilhac",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 30,
+     "text": "Le Mazageou, Ax-les-Thermes",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 31,
+     "text": "Montaillou",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 32,
+     "text": "Vernet, Les Sauterelles",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 33,
+     "text": "St. Martin's Abbey\nCanigou",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 35,
+     "text": "Cuxa Abbey, Eus",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 36,
+     "text": "Treve, Carcassonne",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 37,
+     "text": "Realmont",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 38,
+     "text": "Albi",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 40,
+     "text": "Eymoutiers, Futuroscope",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 41,
+     "text": "Le Suisse Normand",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 42,
+     "text": "Normandy Beaches\nBayeux",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 43,
+     "text": "Longues, Point du Hoc\nBarfleur",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 45,
+     "text": "Bath",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 46,
+     "text": "Trimpley, Bromyard\nMalvern Court",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 48,
+     "text": "Hanbury Hall",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 50,
+     "text": "Aston Cantlow",
+     "year": 2005,
+     "note": "2005 year marker written above this entry"
+    },
+    {
+     "page_no": 51,
+     "text": "Kinwarton",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 52,
+     "text": "Malvern, Bromyard",
+     "year": 2005,
+     "note": "'PTO' marker below this entry indicating index continues on next spread"
+    },
+    {
+     "page_no": 53,
+     "text": "Knapton",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 54,
+     "text": "Cambridge\nOxburgh Hall\nMileham\nEast Dereham",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 56,
+     "text": "Reepham\nBlickling Hall\nHalesworth",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 57,
+     "text": "Corby",
+     "year": 2005,
+     "note": null
+    }
+   ]
+  }
+ ],
+ "spreads": [
+  {
+   "spread_id": "B_0361",
+   "pages": [
+    {
+     "page_id": "B_0361_L",
+     "no": null,
+     "dates": [
+      "Saturday",
+      "Sunday"
+     ],
+     "headings": [
+      "Saturday",
+      "Sunday"
+     ],
+     "places": [
+      "Crail",
+      "Cow Shed at Crail"
+     ],
+     "text": "[Chorby?] Woods at about 8.25. for breakfast, on the road again at 8.55. We went on + on + will be getting to Crail about 4.15. Conta has rented a house where we are staying. She is organising a pre-wedding supper in a hall, to which we are bringing Welsh daffodils. The dinner all went very well. Conta had cooked delicious Lasagna, peas + chocdate Brownies. Claudia + Theo went to supper with their father, Joss + Wanda ate with us. We slept in Conta's house.\n\n__Saturday__\nAlas Conta woke up with a throbbing headache + bore throat + tested positive for Covid 19. The wedding was beautiful in the Cow Shed at Crail. There was an amusing MC. Theo played the [Piano?]. Joss told a poem. Over 200 at the wedding. Delicious beef cheek. We had to leave after the dancing started because of strobe lights. Alfie made a speech about how nice Conta is.\n\n__Sunday__\nWe chatted + then went to the brunch back in the Crushed. Louisa had baked a triple cake - lemon? vanilla, chocolate, ginger? The brunch was also super. We chatted to new friends + said Goodbye to all, including David + Maxine, who was 60 on the day."
+    },
+    {
+     "page_id": "B_0361_R",
+     "no": 62,
+     "dates": [
+      "Monday",
+      "Friday March 25th"
+     ],
+     "headings": [
+      "Monday",
+      "Friday March 25th"
+     ],
+     "places": [
+      "Kirk Loch",
+      "Englewood Brook Chapel",
+      "Bolton",
+      "Peak District",
+      "Alsop",
+      "Tissington Trail",
+      "Hartington station",
+      "Fourginside Farm",
+      "Parwich"
+     ],
+     "text": "We have offered to have Conta to stay while she recovers from Covid. We set off + spent the night at __Kirk Loch__. Lovely.\n\n__Monday__\n  Simon tested positive when we woke up. He doesn't feel well. We had lunch at Englewood Brook Chapel. Picked up lampshades in Bolton, picked up dog from Jackie + hurried home before Conta gets there!\n\n__Friday March 25th__\nWe left home at 9.45. to take Tinder to the vet. Skin lesions, sore ear. (Charles had a baby Oliver last week. Wanda has turned her face to the wall.) We travelled all morning up to the Peak District + parked [Seplurt?] at Alsop on the Tissington Trail. A marvellous bike ride with our now ebikes N to Hartington station. [10 miles] Now we are camped at Fourginside Farm near Parwich. Glorious sunshine. The solar panel is more than adaquate to fill the ebikes. The sunshine continues."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0362",
+   "pages": [
+    {
+     "page_id": "B_0362_L",
+     "no": null,
+     "dates": [
+      "Friday",
+      "Sunday"
+     ],
+     "headings": [
+      "Sunday"
+     ],
+     "places": [
+      "Minninglow",
+      "Middleton Top",
+      "Parwich"
+     ],
+     "text": "[Friday] We drove to Minninglow. I gave Tinder a short walk & then we left him in the van while we cycled SE to Middleton Top. 16 miles. The High Peak Railway 1825-30 was one of the world's earliest railways. Horses pulled the carriages on the flat & steam powered beam engines in engine houses pulled the wagons up hills with cabs. Amazingdrystone walls up embankments.\n\n    After lunch back at the campsite we napped & then cycled into Parwich - a v. pretty village. Nice church, stream runs through village. Hilly. Lots of stone houses. Thank goodness for ebikes. War memorial is a sundial. Tinder stays in the van during bike rides now.\n\n~~Sober~~ Sunday\nIt's cold at night, so we keep the heater on a bit. We haven't really brought enough food, but fortunately Simon found some of Conti's brownies in a cupboard left over from the wedding. We can't go to a pub because I might still have Covid."
+    },
+    {
+     "page_id": "B_0362_R",
+     "no": 63,
+     "dates": [
+      "Thursday March 31st.",
+      "Sunday 29th May"
+     ],
+     "headings": [
+      "Thursday March 31st.",
+      "Sunday 29th May"
+     ],
+     "places": [
+      "Redditch",
+      "Brook House Farm",
+      "Elms",
+      "Hay on Wye"
+     ],
+     "text": "We reached home before lunch. Simon is testing negative, I'm still a bit positive. A really super holiday\n\n__Thursday March 31st.__\n__Wanda died yesterday.__ 8 45. Simon & Tinder & I set off for Redditch & Simon got more material & more wood for things in the van.\nOn to Brook House Farm, where Simon met Robert in the hop barn. Johnnie & Penny were there. Bryony was on a music course. After lunch we saw Eller, the Elms pony that Nina borrows in the holidays. Home.\n\n__Sunday 29th May__\nSimon, Eve Tinder set off at 9.15, for Hay on Wye. William & family saw a Lenny Henry talk. We've joined by John & family, Peter & family & Thomas & the girls. It is likely to rain, so we walk to the food tent. It doesn't rain. Food Tent food v expensive scrum. We return to van"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0363",
+   "pages": [
+    {
+     "page_id": "B_0363_L",
+     "no": null,
+     "dates": [
+      "Monday",
+      "Tuesday"
+     ],
+     "headings": [
+      "Monday",
+      "Tuesday"
+     ],
+     "places": [
+      "Hay Castle",
+      "Co-op"
+     ],
+     "text": "for Peter's 39th birthday cake. He asked me if I had put all 36 candles on it to test me. Then William & family went home (school). & John & family went home (work). Nana's sleeping in a tent, Gigi is filling the triangle in the camping van be[d] left by Peter. Simon has made a [struck-through word] tray to fill the space between the cab seats for Olive to sleep on. Thomas is sleeping in a dome with [?]Flora + Betty. We stared salady stuff + Nina's cooking. Cold in the night.\n\n__Monday__\nI walked to the festival with Betty, Olive, Conrad + Nini + we had a super craft morning. lots of talks. Nana + I sat in on \"His dark materials.\" Simon bought meal deal lunches at Co-op. Messed about in the afternoon. Fish + chip supper.\n\n__Tuesday__\nWe all went to different things. I slept in a lecture with Peter. In the afternoon Simon + I took Nini + Flora to Hay Castle for Julius Caesar. Big mistake. Children v bored. I left at ½ time with chil + Simon enjoyed the rest."
+    },
+    {
+     "page_id": "B_0363_R",
+     "no": 12,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Kilpeck"
+     ],
+     "captions": [
+      "12 chevrd / f St. Mary / + St. David / Kilpeck"
+     ],
+     "text": "12 chevrd\nf St. Mary\n+ St. David\nKilpeck\n\n[Photo of carved Norman doorway arch of a stone church]\n\nAfter ½ cup tea, Thomas drove chit + me down to the river, where Nini, Betty + Olive paddle[d] without being knocked over by the current. I hav[e] bought each of the children a book, so they are re[ally] needing lots which is great. Meanwhile [?John] Gaskell has [?turned] up at the campsite is chatt[ing] to Nana."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0364",
+   "pages": [
+    {
+     "page_id": "B_0364_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Kilpeck Church"
+     ],
+     "captions": [
+      "Kilpeck Church"
+     ],
+     "text": "Kilpeck Church"
+    },
+    {
+     "page_id": "B_0364_R",
+     "no": 65,
+     "dates": [
+      "Wednesday June 1st"
+     ],
+     "headings": [
+      "Wednesday June 1st"
+     ],
+     "places": [
+      "Kilpeck church",
+      "Hay"
+     ],
+     "text": "At suppertime we go to the Indian restaurant across the field. V. clean loos + showers. Most satisfactory. The composting loo at the campsite has a diversion so pee goes one way + pooh the other. Children can't use it because their bums aren't big enough, so they use the porta loos. Then Simon lit the out door fire pit, the children play with planes + we chat.\n__Wednesday June 1st__\nLots of packing up. Nana + I take Connor, Nin, Olive + Betty to \"Making a wild scrap book\" which we greatly enjoyed. Olive made a grass man. Then Thomas arrived + we spent time again in the bookshop.\nThomas dropped me back at the campsite. Simon + I drove to see Kilpeck church^1134 + had lunch there on the way home.\nThe weather at Hay was much kinder than we expected with only a little bit of rain sometimes. There's lots of bunting for the Queen's platinum jubilee next week."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0365",
+   "pages": [
+    {
+     "page_id": "B_0365_L",
+     "no": null,
+     "dates": [
+      "Wednesday June 15th"
+     ],
+     "headings": [
+      "Thursday"
+     ],
+     "places": [
+      "Hylton Hound Kennels",
+      "Little Bramshott Farm",
+      "Fleet",
+      "Eversley",
+      "Farley",
+      "Hounslow West",
+      "Eversley Church",
+      "London",
+      "Harrods",
+      "Berkeley Hotel",
+      "Harvey Nichols"
+     ],
+     "text": "3pm Wednesday June 15th.\nWe left home + put Tinder in Hylton Hound Kennels at 4.\nWe arrived at Little Bramshott Farm campsite at 6.20. Near Fleet, Fussy owner, lovely oak Trees.\nIn the map the site is marked with red hatching as if War Dept. land.\nSo hot in the morning I had to wear a hat in bed to drink tea.\n__Thursday__\nWe set off [for] thru Eversley to Farley to deliver [?Lash].\nThen on to Hounslow West, underground station, to park van.\nWe stopped off to see Eversley Church where we were married nearly 48 years ago. Locked. But in the graveyard we found Charles Kingsley's tomb (quickly 2 ladies with flowers) buried with his wife,\n[strikethrough: Amabo] Anavimus, Anamus, Anabamus.\nWe trained into London on the Piccadilly line + bought chocolates at Harrods. On to the Berkeley Hotel + met Bobby + Steve in the lobby. Then back to Harvey Nichols where we had a good lunch with Peter + Nana outside. But it got a bit hot.\nWe trained back to Hounslow West + [?] set off thru"
+    },
+    {
+     "page_id": "B_0365_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Harvey Nichols"
+     ],
+     "captions": [
+      "Harvey Nichols"
+     ],
+     "text": ""
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0366",
+   "pages": [
+    {
+     "page_id": "B_0366_L",
+     "no": null,
+     "dates": [
+      "Friday 17th June"
+     ],
+     "headings": [
+      "Saturday"
+     ],
+     "places": [
+      "Kent",
+      "France",
+      "Vitry la France",
+      "Luce Mont",
+      "Villotte",
+      "Gray",
+      "St. Point Lake",
+      "Los Hopitsaux Neufs"
+     ],
+     "text": "We had a good supper at the Plough in our usual Kent campsite\n\nFriday 17th June at 7.30. we left for France. Lots of lorries in layby, Bad queueing system.\nWe motored south east + spent the night at Camping à la Nature [dt?] A Ventra walk before bed.\nnear Vitry la France, Luce Mont + Villotte.\n\nSaturday\nA leisurely departure. It might be 35 or 7°. England was v. hot just as we left.\nWe drove 4 hours to Gray + had lunch at the Brasserie overlooking the weir. A boat went down the lock. On for hours. I got fed up. We went to a U supermarket, then on to St. Point Lake. First campsite is full. Lots of motor bikes!\nWe found a campsite higher in the hills. Miroir at Los Hopitsaux Neufs. 5 villages make up a ski resort lovely small valley. Skiers/mountain bikes. We had a drink in the bar (Wi-Fi) for waiting for Charles to ring, but he didn't."
+    },
+    {
+     "page_id": "B_0366_R",
+     "no": null,
+     "dates": [
+      "Sunday",
+      "Monday"
+     ],
+     "headings": [
+      "Sunday",
+      "Monday"
+     ],
+     "places": [
+      "Switzerland",
+      "Bern",
+      "Groenwald",
+      "Interlaken",
+      "Gadmen"
+     ],
+     "text": "Sunday We started putting up the awning. 6[?] I broke the support at my end, then Simon broke it at his end. It was v. hot. The awning wouldn't stay up. We recovered by going on a 5m bike ride. Down the valley + up a hill side. The ebikers are wonderful. We then recharged them from solar power. Nice gazpacho + cheese + pate from Supermarket. A nice town. Will the skiing be hit by global warming?\n\nMonday\nWe left at 8.50. Into Switzerland. Beautiful, neat, clean, lots of road works. Past Bern. Groenwald off to right. Past Interlaken\nWe reached Gadmen village + the campsite + had lunch. We had [sticker obscures text] bike r[ide] a nap + then set off on a wonderful [illegible] bike ride\nWe tried all sorts of paths + finally found a concrete one that went up + up. (The rubble ones perhaps are for mtn bikers.) We went up 1100 ft in 3 miles\n(another 150ft to top of pass)\nV. steep drops. We were above the snowline.\nI slipped off the path from not concentrating, but fortunately on the mtn side. Cows, yellow fox-gloves. For 30 min we came downhill with both brakes on squeaking all the way down.\n\nThe campsite is excentric. The owner (Dutch?) wanders round in bare feet. Mexican woodworker"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0367",
+   "pages": [
+    {
+     "page_id": "B_0367_L",
+     "no": null,
+     "dates": [
+      "Tuesday"
+     ],
+     "headings": [
+      "Tuesday"
+     ],
+     "places": [
+      "Susten Pass",
+      "Glaciers",
+      "Dorfi",
+      "St. Gotthard Tunnel",
+      "Lake Lugano",
+      "Como"
+     ],
+     "text": "does the cooking. Veg garden. Compost heap. Real towel in bathroom. Homemade benches + slide. V nice but oh dear! we were greeted by 2 horse-flies. Masses of flies. V. natural + healthy but fly-ridden.\n    Charles has suggested going over the Susten Pass.\n    Supper at the campsite restaurant - pizza + chocolate cake. V. full. We are going to use the fly screens tonight.\n__Tuesday__ I hand washed some clothes. Simon cleaned the windscreen.\n  We set off in the direction we had been cycling. Glaciers. Through the Susten pass. V [?beautiful] but dangerous bends, some straight after tunnels. Mad motorcyclists. After the pass, (a short tunnel) we zigzagged down, going through Dorfi ([?Ibdis] village?) + south through the St. Gotthard Tunnel. 17R long.\n[?Later]    On along complicated fast roads, past Lake Lugano + near Como. We went to the Fiamma huge shop that made the awning that broke. They don't have the parts that broke. (probably sold out to other people with busted awnings). 12 other vans in carpark"
+    },
+    {
+     "page_id": "B_0367_R",
+     "no": 68,
+     "dates": [
+      "Wednesday June 22nd."
+     ],
+     "headings": [
+      "Wednesday June 22nd."
+     ],
+     "places": [
+      "Pavia",
+      "St. Michael Major church",
+      "St. Tadeo"
+     ],
+     "text": "probably all after bloody broken awning parts. Simon thinks he's bought enough bits to mend it.\n  V hot + sweaty. On the to Pavia. Yoga, shower, supper, walk.\n  We passed poplar plantations and [green] rice paddy fields. Poplars put up with water, so they are good for making pallettes.\n  Walter + Austin have both got into schools for the autumn. It will be the first time that all 5 children will be in school. Olive is 7. She will be 8 in November.\n__Wednesday June 22nd.__\n  Rain, but still warm. In the morning we swam. [The] I used [used] the washing machine. We cycled into Pavia + went to St. Michael Major church then the cathedral - dome work[ed] in by [Leonardo + Bramante?] - impressive marble. We went on to the big square. While we were in the cathedral Charles telephoned. We saw huge square tower (why built?) in the university quarter + finished our visit at St. Tadeo."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0368",
+   "pages": [
+    {
+     "page_id": "B_0368_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Edessa",
+      "St Michael Major Church"
+     ],
+     "captions": [
+      "Crucifixe of St. Teodote (?) Abbess Raingarda at its feet. Linked by legend to Abgar, King of Edessa, at time of Christ's death. Thin silver gilded foil.",
+      "Archangel Michael (on facade) who crushes the devil-dragon",
+      "St Michael Major Church.",
+      "[?Nativity] Annunciation - but who is the child?"
+     ],
+     "text": "Crucifixe of St. Teodote (?) Abbess Raingarda at its feet. Linked by legend to Abgar, King of Edessa, at time of Christ's death. Thin silver gilded foil.\n\nArchangel Michael (on facade) who crushes the devil-dragon\n\nSt Michael Major Church.\n\n[?Nativity] Annunciation - but who is the child?"
+    },
+    {
+     "page_id": "B_0368_R",
+     "no": 69,
+     "dates": [
+      "Thursday"
+     ],
+     "headings": [
+      "Thursday"
+     ],
+     "places": [
+      "Pavia",
+      "St. Tades",
+      "Canterbury",
+      "Chiesa di San Pietro in Ciel d'Oro",
+      "Castle"
+     ],
+     "text": "The wind was getting stronger. Simon had mended the awning in the morning & he didn't want it to be blown down while we were away. So we raced home on our bikes. Alas, the [?rain] fell 10 minutes before we got back. So we spent the night festooned in damp clothes. It rained off + on but it was great having the awning.\n__Thursday__\nWe set off at 9.15. back to Pavia. We leave the battery packs at the van, so some of the cycling is a bit of a challenge, but mostly flat. We go back to St. Tades to look at more of the paintings. It's a friendly church. They invite us up to look at the paintings & switch the light on for us. In one [?painting] of the town & towers, there are paddle wheels at the back of the boats. But how do they turn the wheels? Lanfranc (d 1098) Archb[ishop] of Canterbury, was born in Pavia. On we went to Chiesa di San Pietro in Ciel d'Oro where Tomb of St Augustine is. V. ornate. Then we cycled on to the Castle built by"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0369",
+   "pages": [
+    {
+     "page_id": "B_0369_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Pavia Cathedral",
+      "St Michael Major church"
+     ],
+     "captions": [
+      "Death of the Righteous Man",
+      "St Michael Major church"
+     ],
+     "text": "[Photo of mosaic scene]\nDeath of the Righteous Man\n\n[Printed text block — The floor mosaic]\nThe restoration of 1863 revealed in the presbytery, a large portion of the Romanesque mosaic floor (Fig. 14) from the first half of the twelfth century. In the middle of a sequence of arcs, the figure of the Year (King) on the throne is flanked on the left by the months of February (churning), March (blowing the horns) and April (holding flowers) and on the right, by May [illegible] (with the sickle), June and July (reap grain). Below is a portion of a labyrinth organized in geometric concentric arcs.\n\n[Photo of mosaic floor with labyrinth and calendar scenes]\nSt Michael\nMajor church\n\n[Vertical text in right margin:] Wooden model of Pavia Cathedral\n\nthe Visconti Family. There is a large archeological museum + art gallery. Romanesque sculpture. V. stuffy rooms. A huge enclosed area. [?14]. We cycled back + most of the washing was dry.\nWe swam."
+    },
+    {
+     "page_id": "B_0369_R",
+     "no": null,
+     "dates": [
+      "Friday"
+     ],
+     "headings": [
+      "Friday"
+     ],
+     "places": [
+      "Pavia Cathedral"
+     ],
+     "captions": [
+      "Wooden model of Pavia Cathedral, kept in the Castle. It was made because it was more accurate for making the building than drawings would be. It's huge. It might just fit in our kitchen."
+     ],
+     "text": "[Vertical text on left side:] Wooden model of Pavia Cathedral, kept in the Castle. It was made because it was more accurate for making the building than drawings would be. It's huge. It might just fit in our kitchen.\n\n[Large photo of wooden model of Pavia Cathedral]\n\n__Friday__ We packed up + 6 st. In the night the fridge kept going on + off so we switched it off. We think it's because there were so many trees, shade, in the campsite. The fridge uses 40w."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0370",
+   "pages": [
+    {
+     "page_id": "B_0370_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Certosa"
+     ],
+     "text": "We drove to Certosa + the fridge is working again. Certosa is a monastery set up in [?C4] by Visconti family. It still has 6 monks. Beautiful carvings, inlays, frescoes.\n\n[right margin annotations alongside aerial photo:]\n25 little houses for ~~most~~ monks.\nfood put through hatch in wall\ndownstairs Sitting room chapel garden\nup stairs bedroom loggia"
+    },
+    {
+     "page_id": "B_0370_R",
+     "no": 71,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Certosa"
+     ],
+     "text": "Cisterian order founded by St. Bruno (10\nwork, prayer, meditation, silence, study\n\n[below top photo, left side:]\nSmall cloister"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0371",
+   "pages": [
+    {
+     "page_id": "B_0371_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "captions": [
+      "5ft high? made of ivory + hippo teeth"
+     ],
+     "text": "5ft high? made of ivory + hippo teeth"
+    },
+    {
+     "page_id": "B_0371_R",
+     "no": 72,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Pian' del Voglio"
+     ],
+     "text": "We shopped. Well Simon shopped.\nWe camped after a long, horrible, 4 hour journey (flat crowded motorways) at 'Pian' del Voglio, a lovely rural campsite downhill from the village. This time the campsite owner yet again had a foreign wife? Philippino? Super spot. At Relax campsite (vg)"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0372",
+   "pages": [
+    {
+     "page_id": "B_0372_L",
+     "no": null,
+     "dates": [
+      "Saturday June 25th."
+     ],
+     "headings": [],
+     "places": [],
+     "captions": [
+      "blue ceiling of church"
+     ],
+     "text": "blue ceiling of church\n\nSaturday June 25th.\nWe walked up a zig zag path through fruit trees &\ncrawled out of a hole in the hedge into the road\ncircling the village. The church is beautiful & plain.\nI lit a candle for Joan Grimley. Amazing views of\nfields all round. A super [illegible] walk in an old\nvillage with nice modern bits. Friendly people.\nAn old fort belonging to Medici's next to the church.\nIt would be good to come back. We bought bread.\nAlex said that not only the Medici are"
+    },
+    {
+     "page_id": "B_0372_R",
+     "no": 13,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "della Casas"
+     ],
+     "text": "from round here, but also the\ndella Casas."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0373",
+   "pages": [
+    {
+     "page_id": "B_0373_L",
+     "no": null,
+     "blank": true,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": ""
+    },
+    {
+     "page_id": "B_0373_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Pian del Voglio"
+     ],
+     "text": "Camping Relax\nVia del Lavoro, 10 - 40048 Pian del Voglio (BO)\ntel/fax +39 0534 98 228 - email: campingrelax@alice.it\nwww.sophieallport.com"
+    }
+   ]
+  }
+ ]
+}

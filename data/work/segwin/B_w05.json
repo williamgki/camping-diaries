@@ -1,0 +1,1417 @@
+{
+ "window_id": "B_w05",
+ "volume": "B",
+ "books": [
+  {
+   "start": "B_0062",
+   "end": "B_0144",
+   "index_spreads": [
+    "B_0062"
+   ]
+  }
+ ],
+ "index_entries": [
+  {
+   "file": "volB_index.json",
+   "entries": [
+    {
+     "page_no": 1,
+     "text": "Weimar, Buchenwald\nLudwigstadt, Bamburg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 3,
+     "text": "Rothenburg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 4,
+     "text": "Rot-am-See, Heidelberg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 6,
+     "text": "Hermeskeil, Ypres",
+     "year": 2003,
+     "note": "marginal note beside: 'too sunior air craft' (uncertain)"
+    },
+    {
+     "page_no": 7,
+     "text": "London, Burrough, Netherwestcote",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 8,
+     "text": "Malvern, Barnard Castle, High Force",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 9,
+     "text": "Haltwhistle, Vindolanda",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 10,
+     "text": "Housesteads, Chesters etc",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 11,
+     "text": "Heaton, Newcastle",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 12,
+     "text": "Rye Court, Golden Valley",
+     "year": 2004,
+     "note": "2004 year marker written beside this entry"
+    },
+    {
+     "page_no": 13,
+     "text": "Upton, Malvern",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 14,
+     "text": "Woodrow, Bromyard, W. Malvern",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 15,
+     "text": "Burrough, London, Southwork\nChipping Campden, Malvern,",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 16,
+     "text": "Dinas, Harlech",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 17,
+     "text": "Machynlleth",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 18,
+     "text": "Little Cressingham\nSutton Coldfield\nSouthampton",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 19,
+     "text": "Bilbao",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 20,
+     "text": "Guernica,\nMutriku",
+     "year": 2004,
+     "note": "a struck-through word follows 'Guernica,' on the same line"
+    },
+    {
+     "page_no": 21,
+     "text": "Puente de la Reina\nSanta Maria Eunate\nHoz de Lumbier",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 22,
+     "text": "Lerre, Sanguesa\nRuesta, Lake Yesa",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 23,
+     "text": "Jaca",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 24,
+     "text": "Aragon, Ainsa",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 27,
+     "text": "Plan",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 28,
+     "text": "Bielsa Tunnel",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 29,
+     "text": "Massat, Bedeilhac",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 30,
+     "text": "Le Mazageou, Ax-les-Thermes",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 31,
+     "text": "Montaillou",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 32,
+     "text": "Vernet, Les Sauterelles",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 33,
+     "text": "St. Martin's Abbey\nCanigou",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 35,
+     "text": "Cuxa Abbey, Eus",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 36,
+     "text": "Treve, Carcassonne",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 37,
+     "text": "Realmont",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 38,
+     "text": "Albi",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 40,
+     "text": "Eymoutiers, Futuroscope",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 41,
+     "text": "Le Suisse Normand",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 42,
+     "text": "Normandy Beaches\nBayeux",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 43,
+     "text": "Longues, Point du Hoc\nBarfleur",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 45,
+     "text": "Bath",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 46,
+     "text": "Trimpley, Bromyard\nMalvern Court",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 48,
+     "text": "Hanbury Hall",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 50,
+     "text": "Aston Cantlow",
+     "year": 2005,
+     "note": "2005 year marker written above this entry"
+    },
+    {
+     "page_no": 51,
+     "text": "Kinwarton",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 52,
+     "text": "Malvern, Bromyard",
+     "year": 2005,
+     "note": "'PTO' marker below this entry indicating index continues on next spread"
+    },
+    {
+     "page_no": 53,
+     "text": "Knapton",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 54,
+     "text": "Cambridge\nOxburgh Hall\nMileham\nEast Dereham",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 56,
+     "text": "Reepham\nBlickling Hall\nHalesworth",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 57,
+     "text": "Corby",
+     "year": 2005,
+     "note": null
+    }
+   ]
+  }
+ ],
+ "spreads": [
+  {
+   "spread_id": "B_0097",
+   "pages": [
+    {
+     "page_id": "B_0097_L",
+     "no": null,
+     "dates": [
+      "July 23rd Sunday"
+     ],
+     "headings": [
+      "July 23rd Sunday"
+     ],
+     "places": [
+      "Skye",
+      "Thorpeness",
+      "France",
+      "Norfolk Court",
+      "Croatia",
+      "Newcastle Cathedral",
+      "I of Wight",
+      "Kenya",
+      "Uganda",
+      "Hythe",
+      "Dymchurch"
+     ],
+     "text": "his laptop + showed pictures of Skye + Thorpeness. It's very, very hot & we can't find the key for the windows to give Margaret fresh air. Simon rigged up the hose pipe for Margaret to fill the pond.\n\n__July 23rd Sunday__\n\tSimon & Ebe went to the 8 o'clock. At 9.20 we left for France with Charles. Thomas & Naomi are moving into Norfolk Court, William & Bryony are in Croatia. Peter is about to sing on a Newcastle Cathedral choir tour on the I of Wight, John is in Kenya or Uganda or...\n\tIt has been swelteringly hot for the last week. It poured rain on the motorway.\n\tWe wanted to see a restored Martello Tower No 24 at near Hythe, Dymchurch, but when we got there, it was closed (English Heritage). It was disappointing.\n\tWe caught an earlier [?train] + in under 1½ hours we reached the campsite"
+    },
+    {
+     "page_id": "B_0097_R",
+     "no": 35,
+     "dates": [
+      "Monday 24th"
+     ],
+     "headings": [
+      "La Calotterie near Montreuil"
+     ],
+     "places": [
+      "La Calotterie",
+      "Montreuil",
+      "M25",
+      "Abbeville",
+      "Tours",
+      "Dijon"
+     ],
+     "text": "__La Calotterie__ near Montreuil.\n\tVery green, a grassy valley, cold showers, fresh bread deliveries for breakfast.\n\t(At lunch on the motorway M25, Simon noticed oily spray on the back window. He + Charles looked at the engine & decided it's a faulty oil pressure sensor.)\n\tWe set off Monday 24th; another very hot day (Thunderstorms due on Thursday.) & [?reached] in Montreuil the garage man said it would take one or 2 days for the oil pressure gauge to arrive. So we drove to __Abbeville__. After a 2 hour wait, the garage reopened. We used the intervening time to shop & eat lunch. After a long wait + alot of discussion (during which we considered having the new part sent to Tours for us to get fixed after the opera) the Abbeville garage used one that someone else had already ordered & we were mended. During the wait I've chatted to a man & wife from Dijon whose alternator was not alternating.\n\tWe drove down the motorway to a village with a lake where the campsite shut at 6."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0098",
+   "pages": [
+    {
+     "page_id": "B_0098_L",
+     "no": null,
+     "dates": [
+      "Monday"
+     ],
+     "headings": [
+      "Monday"
+     ],
+     "places": [
+      "Sacé",
+      "Baugé"
+     ],
+     "text": "So we back-tracked about 12 miles to __Sacé__, * * a drive-in campsite in a village, pretty beech hedges, choose your own plot, & the warden comes to collect money at 7, 6 & 10 pm.\n__Monday__\nWe stopped off for coffee in a forest with lots of horseflies. We drove on to __Baugé__, where"
+    },
+    {
+     "page_id": "B_0098_R",
+     "no": 36,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Baugé"
+     ],
+     "text": "Venetia Grommett's mother puts on operas. The campsite was municipal & had \"Post\" in the [?name] * * * ?. The washing machine didn't work at first. Irish people tried to help me. There was a super pool next door - one of the nicest I've swum in - hugely wide, so that old ladies can sedately crawl down the middle without being bombed by the youth congregating at the sides.\nAt 4.40 we set off to walk to the Opera - Richard the Lionheart, Handel. It was in a hired [?open-air] theatre & was the hottest I've every been in my life - sitting streaming with sweat. In the middle we had supper on the grass - delicious paniers arrived. Sweat poured down. Fabulous, fabulous duets."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0099",
+   "pages": [
+    {
+     "page_id": "B_0099_L",
+     "no": null,
+     "dates": [
+      "Tuesday"
+     ],
+     "headings": [
+      "Tuesday"
+     ],
+     "places": [
+      "La Vielle Morte",
+      "Ids St. Rozh"
+     ],
+     "text": "After the opera Simon + Eve walked home. Charles went out drinking with Venetia + the other opera people + played charades.\n   When we arrived at the bar, the French lazy bar workers refused to keep the bar open because they were past their 35 hour a-a-week limit even though they were making half their annual profit that night.\n__Tuesday__\n   Still very hot, 37°. Charles slept in, Eve swam. We left at 11.10. At 5pm, Eve complained she'd had enough of being driven in a hot van. Simon was disappointed: we hadn't even reached the motorway part of the journey. During tea in a wood, he found a local campsite with a swimming pool. It's called \"__La Vielle Morte__\"(!) Ids St. Rozh. ****. It's a very eccentric campsite in scorched orchards. The owner + her husband are Dutch. They've been here 20 years + have just sold out to a Welsh man. They will continue to live in the"
+    },
+    {
+     "page_id": "B_0099_R",
+     "no": 37,
+     "dates": [
+      "Wednesday"
+     ],
+     "headings": [
+      "Wednesday"
+     ],
+     "places": [
+      "Clermont-Ferrand"
+     ],
+     "text": "village. We ordered chips + salad. There are 39 families + 3 loos which as [?probable] probably won't work.\n   We brought the chips + salad back to eat in the van. A thunderstorm has been circling. It's been round 3 times now. Sometimes we sit in + sometimes out. At the moment we've sitting in – sweat trickling inside, raindrops trickling outside – + sunshine. Very beautiful. The Dutch sit in their cars for safety.\n__Wednesday__\n   During the night there was terrific strobe lightening which seemed to go on for ages. Simon took a cine film of it, but found, in the morning, that his camera had been on the wrong setting. At 7.45., as Simon gave out tea, rain started falling from a grey sky. We have no bread, so we're moving to the square for breakfast.\n   The campsite from last night is worth remembering, on the fairs → Clermont-Ferrand motorwa[y] 6miles away. It would be a good job – take away – Salads + chips to each camping family, not labori-"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0100",
+   "pages": [
+    {
+     "page_id": "B_0100_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "captions": [
+      "SAINT-FLOUR"
+     ],
+     "text": "intensive with waitresses & washing up. people bring back the 2 bowls at the end, £7 per time. We were lucky to be away in an outside (rented) strip of field with some cows. (no camp lights).\n\tIt's blissfully cool now."
+    },
+    {
+     "page_id": "B_0100_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Aire du Grand Meaulnes",
+      "St. Flour",
+      "Viaduc de Garabit",
+      "Fridefont",
+      "R. Truyère"
+     ],
+     "text": "We drove down the motorway, past 38 the Aire du Grand Meaulnes - The aire where we had lunch had shady trees to eat & lie under. It became much hotter. We set off & shopped outside St. Flour.\n\tWe drove on to the __Viaduc de Garabit__, a railway bridge built by Eiffel to the design of Léon Boyer. 1882-4. It was as a result of building the viaduct that Eiffel gained in confidence to build the Eiffel Tower. It's very impressive.\n\tWe drove on to [?Camping at the Farm] see back cover * * Fridefont. It's a magnificent valley. There's a dormitory for Charles, because of the storm, but he & Simon have put up the tent. The storm started as they were putting up the tent. There are lots of chickens. It's got cooler again.\n\tWe passed lots of swimming places in the lake of the R. Truyère, but they are marked 'danger'.\n\tWe had a mega meal at the farmhouse which started at 7.30 & finished after 10."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0101",
+   "pages": [
+    {
+     "page_id": "B_0101_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Garabit",
+      "Truyere"
+     ],
+     "captions": [
+      "The Viaduct of Garabit (Chantal). Built by Eiffel 1882-4. 565 m. long. across R. Truyere. Designed by Boyer."
+     ],
+     "text": "The Viaduct of Garabit (Chantal). Built by Eiffel 1882-4. 565 m. long. across R. Truyere. Designed by Boyer.\n\nWe sat with 2 other couples & had:\nmelon\nmushroom omlette (ceps)\nstuffed cabbage\ncheese\nFar Breton? on pastry with raspberries."
+    },
+    {
+     "page_id": "B_0101_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "sketch": true,
+     "sketch_desc": "Hand-drawn pencil sketch occupying the upper half of the page, appearing to show a campsite layout or pitch arrangement. Includes a note 'hoops adapter? to camp electric cables' written alongside the sketch. The sketch shows what appear to be lines representing a vehicle/van, a fence or barrier with cross-hatching, and other campsite features. A small label at the bottom of the sketch is illegible.",
+     "text": "During the night there was terrific lightning + the cockerel kept crowing. Rain poured + Charles came back into the van, thank goodness -a strong sense of self-preservation. He then dashed back to get his sleeping bag.\n\tHaving spoken to our neighbours at supper, we decided to try one of the walks."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0102",
+   "pages": [
+    {
+     "page_id": "B_0102_L",
+     "no": null,
+     "dates": [
+      "Saturday",
+      "Sunday"
+     ],
+     "headings": [
+      "Camp St. Martin"
+     ],
+     "places": [
+      "Millan",
+      "Camp St. Martin"
+     ],
+     "text": "Saturday  Charles woke us early! + we set off. For the first time I shopped in a French super market. We then drove on to see the Millan Bridge. It only opened in April. Cars were queueing up to park on the Aire, which was brand new - just red earth. We climbed up to the viewing platform. It's very beautiful, elegant. Cantilever cable stayed. Apparently it has brought more business to the town, because people come to look at it + tour round for a couple of days. Even the local garage has [illegible] on top.\n      __Camp St. Martin__ [?x x x x]\n      We could just see it from the camp site. After supper, Simon + I walked up a lane to look at it in the sunset, a marvellous site, contrasting with the stink of an enormous pile of chickensh*t on the hillside. A farmer keeps birds in cages.\n      Swimming pool, v. clean., washing machine\nSunday\n      We went to church in Millan \"Our lady of the crown of thorns.\" Lots of painted walls."
+    },
+    {
+     "page_id": "B_0102_R",
+     "no": null,
+     "dates": [
+      "2006"
+     ],
+     "headings": [
+      "Viaduc de Millau"
+     ],
+     "places": [
+      "Viaduc de Millau",
+      "Millan"
+     ],
+     "captions": [
+      "Viaduc de Millau / Length 2460 m, height top of pylons 343 m. / Ht of road bridge above river 270 m. / 2006 Norman Foster + Partners."
+     ],
+     "text": "__Viaduc de Millau__\nLength 2460 m, height top of pylons 343 m.\nHt of road bridge above river 270 m.\n2006 Norman Foster + Partners.\n\n      Afterwards, we went to Millan Museum. Part describes leather processing + glove-making + part fossils + Roman archaeology. The town was famous for earthenware pots in Roman times. An interesting model of a firing oven."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0103",
+   "pages": [
+    {
+     "page_id": "B_0103_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Millan",
+      "Islambul",
+      "Constantinople",
+      "Millau",
+      "Grenoble",
+      "Entraygues",
+      "Val dos Saures"
+     ],
+     "text": "The dog poo in Millan is appalling. Simon trod in a really soupy one. Apparently poo + pee are used in leather work, so perhaps they've used to it. A pisserwoman used to go out every morning to collect contributions from every house hold. And I think the french read that dog shit was brought in from Islambul, Constantinople.\n\nMillau + Grenoble were important glove-making towns. But when gloves went out of fashion in the 1950s, they lost jobs. There was a film of glove-making explained by a \"Gantier\". All his family had been glove makers too. A lot of leather-stretching was involved.\n\nWe drove on to Entraygues after lunch in a field by a river. There were huge brushwood stacks up in the trees by the river from winter flooding. It's hot again. Charles paddled across the river.\n\nThe Entraygues campsite is called __Val dos Saures__ (Valley of the lizards?) *+** pitch 104\none of the best campsites we've ever been in"
+    },
+    {
+     "page_id": "B_0103_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": "It's rather annoying that the men at the Accueil take the hours off 12-4, which means that if you get there at 1.45, you don't know for ages if there's a space."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0104",
+   "pages": [
+    {
+     "page_id": "B_0104_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Le Dancing"
+     ],
+     "captions": [
+      "Le Dancing"
+     ],
+     "text": "Le Dancing, founded by the owner's grandfather in 1926. The last time they had dancing was in the 1950's for workers on the dam.\nSimon & Eve had smoked ham salad & chestnuts Trufader - chunks of potatoes with stretchy cheese.\nSimon had pear in wine Eve had crème brulée."
+    },
+    {
+     "page_id": "B_0104_R",
+     "no": 43,
+     "dates": [
+      "2003"
+     ],
+     "headings": [],
+     "places": [
+      "Isle"
+     ],
+     "text": "Fortunately, we arrived at the same time as a man who had papers showing a reservation - the papers claimed the Accueil opened at 2. So he got the cleaning girl to ring the Accueil man, who came back.\n\tWe finally chose a pitch right by the river, only 2 find 2 enormous dog poohs, which I cleared up. (Later in the day, Charles put his hand in bird droppings .... the saga continues.)\n\tWe swam in the pool. Then we walked into town for supper. The Isle between the campsite / foot ball field & town was flooded in 2003 & trees replanted. Simon remembered the old trees.\n\tCharles had steak & chips & glaces."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0105",
+   "pages": [
+    {
+     "page_id": "B_0105_L",
+     "no": null,
+     "dates": [
+      "Monday July 31st."
+     ],
+     "headings": [],
+     "places": [
+      "Millan"
+     ],
+     "captions": [
+      "Musée de Millan painted + embroidered gloves made in Millan"
+     ],
+     "text": "[photo: painted + embroidered gloves, caption reads:] Musée de Millan\npainted + embroidered\ngloves\nmade in\nMillan [illegible]\n\nMonday July 31st.\nBy 9.45 we were at the canoe depot. They gave us wour coats + paddles + we set off, Simon + Eve in a double canoe + Charles in a single. Old houses lie on the hillside either side of the [?hot]. We disturbed 2 Heron. It was beautiful +"
+    },
+    {
+     "page_id": "B_0105_R",
+     "no": 44,
+     "dates": [
+      "Tuesday"
+     ],
+     "headings": [
+      "Tuesday"
+     ],
+     "places": [
+      "Entraygues"
+     ],
+     "text": "smelt good. Simon + Eve couldn't always agree on how to paddle + steer. We reached the pick-up pace by 12 + were driven back to camp in a diesel master. With extra pull-down seats in the aisles, it could fit 20 It was very loud when it was idling, but quiet + strong going along, pulling a trailer with lots of canoes.\n\n\tIn the afternoon we napped + swam + then walked into town again for suppies. The meal was delicious sausage + Aligot.\n\n__Tuesday__. It rained before + after breakfast. We went in to see the Entraygues market + bought food + stamps.\n\n\tAfter lunch Eve napped + swam. Charles + Simon set off to look at the river. Simon found an old plastic downpipe. Charles dammed a section of water better. Then they came back to the van + put a stick through a plastic milk bottle + gave it 4 fins from a plastic prosciutto jacket + hung it on 2 forked sticks to spin like a mill in the waterpower. Eve found the rest of the milk in a container in the fridge, for tea"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0106",
+   "pages": [
+    {
+     "page_id": "B_0106_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Conques"
+     ],
+     "captions": [
+      "Conques - Détail du Tympan"
+     ],
+     "text": "Intaglios - gemstones with carved designs. Pepin [?] Topane is in St. [?] religious box. [G] [?Ronald] Catrelin representing Apollo"
+    },
+    {
+     "page_id": "B_0106_R",
+     "no": 45,
+     "dates": [
+      "Wednesday August 1st"
+     ],
+     "headings": [],
+     "places": [
+      "Conques",
+      "Cassianousc",
+      "Calvinet"
+     ],
+     "text": "We played \"Set\" again in the evening + again Charles won, twice!\n A Wednesday\n[strikethrough: Tuesday] August 1st.\nSimon walked into town to buy bread. We packed up + wandered along hair-pin bends at 20 mph to Conques. The Abbey is as lovely as ever. After pizza in the square, we looked at the Treasury (newly laid out [?200?])\n We wandered further, with more hair-pin bends to __Cassianousc__. Girls were playing with lizards in a basin. They have been trying to attract Charles attention ever since we got here.\n Simon + Eve walked from Cassianousc to [?Catre] Calvinet in the afternoon, over the fields + a slight ridge. Lots of grasshoppers. The Hotel Beau Sejour is booked for both evenings that we're here, so we reserved for tomorrow's lunch.\n In the evening we listened to a Podcast about the Spanish Inquisition, but unfortunately it ended before the end.\n It started raining at 7pm + went on all night."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0107",
+   "pages": [
+    {
+     "page_id": "B_0107_L",
+     "no": null,
+     "dates": [
+      "Thursday"
+     ],
+     "headings": [
+      "Thursday"
+     ],
+     "places": [
+      "Cassianouse",
+      "Entraquel"
+     ],
+     "text": "[...nous] (it has stopped raining\n__Thursday__ It was very wet, when we woke, but, hoping for the best, I set off to the washing machine with all the bed clothes + 4 euros. The wash takes 2¾ hours! It's a blustery day with bits of sunlight. In all, we managed 3 washes + it's now 6.30, + the last lot are pegged out to dry, so I hope the grey clouds stay away. Charles + I are cold outside because our sweatshirts are still drying, + the flies in the van are annoying.\n\tLunch was delicious. We had Chateldon Sagy water. They brought lots of little dishes. Charles had veal + cheese in macaroni, Simon + Eve had lamb + aubergine – I would have liked potatoes too. The wine was good from ~~Entraque~~ Entraquel. But __best of all__ was the pud. If I come back I will only have 3 puds. Chestnut icecream. Apples on shortbread + cream. Chestnut honey + amazing radio masts with a 10 inch tall spike, made out of a chestnut with melted hard sugar. It all tasted really good. We staggered home across fields.\n\tWe drove into Cassianouse in the late afternoon + bought bread. The"
+    },
+    {
+     "page_id": "B_0107_R",
+     "no": 46,
+     "dates": [
+      "Friday",
+      "1930",
+      "1790–1832"
+     ],
+     "headings": [
+      "Friday"
+     ],
+     "places": [
+      "Figiac",
+      "Cassianouse",
+      "Notre-Dame de la Pitié",
+      "Places des Escritures",
+      "Louvre"
+     ],
+     "text": "processional cross in the church is famous (13), found by a shepherdess in a cave in 1930, after it was hidden during the Revolution.\n\tIt didn't rain again + the washing was fine\n__Friday__\n\tWe set off for Figiac along beautiful small roads + reached it before lunch. The scenery was beautiful – a marvellous cluster of symmetrical old barns around a country-house Chateau just outside Cassianouse [is] one of my favourite views. The road went along river valleys + zigzag roads, lots of sweet chestnut trees.\n\tIn Figiac we saw the church with a beautiful, painted crypt-chapel. We ate pizza + cakes. The chapel was called Notre-Dame de la Pitié. Some of the buildings have a distinctive architecture, large [?four] pointed arches on the ground floor + galleries above + some even have a tall chimney tower. In Places des Escritures an American has made a large copy of the Rosetta Stone in Zimbabwean granite. Lassell.\n\tJean-François Champollion translated the Rosetta Stone + set up the Egyptian Collection at the Louvre. He had to work from copies. 1790–1832"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0108",
+   "pages": [
+    {
+     "page_id": "B_0108_L",
+     "no": null,
+     "dates": [
+      "Saturday August 5th"
+     ],
+     "headings": [
+      "Saturday August 5th"
+     ],
+     "places": [
+      "Lissac et Mouret"
+     ],
+     "text": "We drove on to __Lissac et Mouret__, M. GAY Gerard, a lovely campsite in an enormous field with walnut trees. The farmhouse has a pool & trampolines & a bar. We swam in the pool, & later in the day we went back to the bar & Simon & Charles played pool. 05 65 34 40 98.\n__Saturday August 5th__\n   We had a leisurely morning, reading. At 11.30 we set off to buy bread. As I got out to look at the baker's door, a van drew up & the man turned out to be selling bread.\n   We drove to John Hurman's house. It took quite a while to find it in the hamlet. It's a beautiful house, completely developed from a barn with entrances each end on separate levels. The bottom floor has 3 bedrooms (2 with shower rooms) a bath room & a laundry. Upstairs has an enormous hall with a fire in the corner by the door. The other end has a balcony built up with a spiral staircase. At the end is a kitchen with a long low [?bow] window, with a kitchen table made out of different woods with a long drawer for bagettes. It has a step-out balcony & a staircase into the garden. The garden has lovely lilacs of India, pink with a lovely smell."
+    },
+    {
+     "page_id": "B_0108_R",
+     "no": 47,
+     "dates": [
+      "Sunday August 6th"
+     ],
+     "headings": [
+      "Sunday August 6th"
+     ],
+     "places": [
+      "Paris",
+      "Maison du Thé",
+      "LISSAC-ET-MOURET",
+      "FIGEAC"
+     ],
+     "captions": [
+      "l'Oasienne — Chambres d'hôtes gîtes ruraux — Camping à la ferme — Crêperie - Pierrade — Piscines - Mini-golf - Jeux — Nicole et Gérard GAY \"Claviés\" 46100 LISSAC-ET-MOURET — Près de FIGEAC — Tél.-Fax: 05 65 34 40 98"
+     ],
+     "text": "To the side of the house is an old pig sty. We took John out to the riverside for a picnic & afterwards walked & saw a small plane take off & land. We returned to his house & carried / rolled rocks up from the piggery & had delicious rose tea & lemon & a WONDERFUL pear cake on the balcony under shady umbrellas. He buys teas in Paris, from a special shop, Maison du Thé. Maison frères.\n   We came back to the camp again & chatted & read.\n__Sunday August 6th__\nJohn gave us a large bag of walnuts. Last year it dropped 4,400 walnuts. This year it has very few.\n\n[glued-in business card: l'Oasienne — Chambres d'hôtes gîtes ruraux — Camping à la ferme — Crêperie - Pierrade — Piscines - Mini-golf - Jeux — Nicole et Gérard GAY \"Claviés\" 46100 LISSAC-ET-MOURET — Près de FIGEAC — Tél.-Fax: 05 65 34 40 98]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0109",
+   "pages": [
+    {
+     "page_id": "B_0109_L",
+     "no": null,
+     "dates": [
+      "Sunday August 4th"
+     ],
+     "headings": [
+      "Sunday August 4[?th]"
+     ],
+     "places": [
+      "Figéac",
+      "Saillant",
+      "le Bontet"
+     ],
+     "text": "Sunday August 4[?th]\n\n    We parked in Figéac & went to church with John Hurman, leaving Charles in the van. After the service, which was full of people & quite easy to follow, we walked around the old part of town & had lemon tea & coffee. When we returned to the van, Charles was [?frumped] because we'd been so long. He had not slept well because a mouse kept coming to visit his tent in the night. (He had \"strengthened the gates.\"!)\n\n    We drove off through lovely country side & reached Saillant, [strikethrough: le Solid] le Bontet the campsite is next to a river where Charles & I paddled & slid over rocks – the current was pretty strong in parts & we bumped our bums. I hand washed clothes.\n    Parts of the grounds really stank of piss, but it was very beautiful.\n\nMonday We walked down to look at the chapel, which has windows by Marc Chagall, pretty but difficult to understand. The village is nice. The chateau looks grand, with a big lake that we couldn't see."
+    },
+    {
+     "page_id": "B_0109_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Uzerche"
+     ],
+     "captions": [
+      "Uzerche, church of St. Peter & other views of the walled town."
+     ],
+     "text": "[Postcard of Uzerche glued in]\n\nUzerche, church of St. Peter & other views of the walled town.\n\n    We drove to Uzerche, a town that in about 850 endured a 7 year siege against the Saracens. At the end of the 7 years, they tricked the Saracens by presenting them with a fat calf & a bale of hay, & the Saracens gave up.\n    We had delicious chips for lunch."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0110",
+   "pages": [
+    {
+     "page_id": "B_0110_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Chamberet"
+     ],
+     "text": "On to David's at his new house. All the family are there. We walked through beautiful woods & went to supper at Margaret's hotel. at Chamberet."
+    },
+    {
+     "page_id": "B_0110_R",
+     "no": 49,
+     "dates": [
+      "Tuesday"
+     ],
+     "headings": [],
+     "places": [
+      "Nede"
+     ],
+     "text": "Tuesday Simon & Eve drove off at 8.45. to pick up Margaret & Helen. David & Sally left at 9 with Maia & Minor to put Minor on a train & buy a bed. Charles, Dylan & Jem slept on.... Aylen woke up & made tea for everyone.\nMid morning we left for La[?tte] des Insects at Nede. It was fascinating, with a beautiful observationants' nest, a tunnel with lit-up ant passage ways underneath. The family had just bought it in March & moved here from London.\nWe had lunch in the car park."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0111",
+   "pages": [
+    {
+     "page_id": "B_0111_L",
+     "no": null,
+     "dates": [
+      "Wednesday"
+     ],
+     "headings": [
+      "Wednesday"
+     ],
+     "places": [
+      "Lake Vassivière",
+      "Bas Noir",
+      "Treignac"
+     ],
+     "text": "We drove on to Lake Vassivière, where people swam. Sally & Maia joined us & we had tea before driving home to Bas Noir.\n\tDavid & Simon assembled beds. Charles assembled the b.b.q. Sally made salads & Dylan & Charles b.b.q'd the meat & veg. Dylan played his recorder as the sun set & it was beautiful, beautiful.\n\n__Wednesday__\n\tDylan eventually went off on a bike ride. David [struck through word] drove Margaret, Helen & Jem off to try to book a table for supper & a swim. Sally & Maia painted, Eve read. Charles scythed & got blister. Simon & David [dug up] looked at the rotting floor boards by the front door where water has got in. They scythed too.\n\tWe had a late lunch. Then David dug out the earth by the front door. Simon & Eve drove to Treignac & bought a b.b.q meat. We swam.\n\tIn the evening we had the b.b.q, again cooked by Charles. Neighbours (from"
+    },
+    {
+     "page_id": "B_0111_R",
+     "no": 50,
+     "dates": [
+      "Thursday"
+     ],
+     "headings": [
+      "Thursday"
+     ],
+     "places": [
+      "Mont Gargan",
+      "La Belvinieire",
+      "Route des Ponts d'Aridu",
+      "Tour en Sologne",
+      "Chambord",
+      "Courcheveigny"
+     ],
+     "text": "Potiers really) stopped by for a chat. Simon took Helen & Margaret back to their hotel. Maia, David, Dylan & Charles played bridge until late.\n\n__Thursday__\n\tSimon, Eve, Charles, Margaret & Helen left after a leisurely breakfast. We look at the view from Mont Gargan. We drove north to Margaret's & Helen's hotel La Belvinieire, Route des Ponts d'Aridu, 41, 250 Tour en Sologne. +33(0)254-46-08-31, near Chambord. They said we could camp there (after we arrived) but we had already put up the tent at Courcheveigny municipal camping ***.\n\n[photograph: farm buildings reflected in water, pastoral countryside scene]\n\nWe went back to Courcheveigny for supper. Margaret's room was lovely, and old loose box, but they had to put a bed downstairs near the bathroom. Helen fell in the night & cut her hand. It was expensive, good[illegible]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0112",
+   "pages": [
+    {
+     "page_id": "B_0112_L",
+     "no": null,
+     "dates": [
+      "Saturday 12th August '06"
+     ],
+     "headings": [
+      "Saturday 12th August '06"
+     ],
+     "places": [
+      "Boulanger",
+      "Chateau de Chambord",
+      "Paris",
+      "Amiens",
+      "St. Fuscien",
+      "LeClerc",
+      "Hortillages",
+      "England"
+     ],
+     "text": "Our campsite was basic – only one shower, but clean. A man next to us was camping on his own with 4 children\n__Friday__ Boulanger 2 min. walk. Eve bought cakes.\n\tWe picked up M+H & drove past Chateau de Chambord.\n\tWe drove north, Charles map-reading with the GPS through Paris suburbs. Just south of Amiens, St. Fuscien, is Margaret's hotel. We dropped off her case & found a LeClerc & stocked up for England. Simon drove into Amiens & we found a very good place to eat supper, overlooking the boat-gardens, Hortillages. Lovely scenery.\n\tIn the night there was a terrific thunderstorm, but Margaret slept through it!\n~~Thursday~~ __Saturday 12th August '06__\n\tWe all came into the \"hotel\" for a stupendous breakfast, artistically laid out –"
+    },
+    {
+     "page_id": "B_0112_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Amiens Cathedral",
+      "France"
+     ],
+     "captions": [
+      "Angel, weeping on the tomb of Guillan Lucas, Amiens Cathedral. The largest Gothic Cathedral in France. 75 stones high on nave column before vaulting XIII"
+     ],
+     "text": "Angel,\nweeping on\nthe tomb of\nGuillan Lucas,\nAmiens\nCathedral.\n\nThe largest\nGothic Cathedral\nin France.\n75 stones high\non nave column\nbefore vaulting\n__XIII__\n\nwatermelon, apples & grapes, sugared (frozen?) [a bit.] musoli, bread, cake, croissants. We chatted about his design business & Chad.\n\tWe looked at Amiens Cathedral & set"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0113",
+   "pages": [
+    {
+     "page_id": "B_0113_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Channel",
+      "Oldham",
+      "Trumpley"
+     ],
+     "text": "off for the Channel. There has been a foiled terrorist attack on planes between US + England (29 Pakistan).\n\tThe drive to the Channel was awful, + we didn't have much time to spare – rain, spray + a headwind. The man who asked whether we had turned off the gas didn't bother to check, so that we could hurry through to get on the train (the numbering system for calling us was unclear) but then we just sat infront of the barrier + missed the train.\n\tAfter that, the journey improved. We got to Di Simmonds in Oldham at 3.30. There we showed her [strikethrough:gods] grandson, little Harry, the camping van. Then we took Margaret + Helen back to Trumpley + then home to 86."
+    },
+    {
+     "page_id": "B_0113_R",
+     "no": 52,
+     "dates": [
+      "Saturday October 7th"
+     ],
+     "headings": [
+      "Saturday October 7th"
+     ],
+     "places": [
+      "China",
+      "Warwick",
+      "Malvern",
+      "Hanbury",
+      "Bredon",
+      "Cotswolds",
+      "Cottage of Content",
+      "Bideford on Avon",
+      "Bideford"
+     ],
+     "sketch": true,
+     "sketch_desc": "A small hand-drawn squiggly line appearing after 'Free range cats' — appears to be a simple route or road sketch with zigzag/wavy marks, no labelled places.",
+     "text": "__Saturday October 7th__\n\tSimon, Eve + Tonic left home at [?11] for a 24 hour trip. The last 2 months has been full of weddings + getting Thomas into his flat, Peter off to China, John off to Warwick + Charles back to Malvern. It's a beautiful day We drove to Hanbury church – lovely red stone + arch over doors, only one high box pew remaining. A monastery was on the site in 800. Amazing view from hill (an Iron Age fort?) of Bredon, Malvern + Cotswolds.\n\tThe nearby campsite was too boggy so we drove on, [?Rom Salt Road from] [?Pershore] to the Cottage of Content pub ** (loos but no shower). We walked along raised levees to Bideford on Avon. Lots of fruit bushes, mini plums, which Eve picked while Simon washed up. The local farms sold us fruit + veg. Free range cats.\n\tBideford has an old Mediaeval Bridge, + cars parked to watch children playing foot ball. Super warm weather.\n\tWe drank at our campsite pub. The publican + his girlfriend (?) were watching"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0114",
+   "pages": [
+    {
+     "page_id": "B_0114_L",
+     "no": null,
+     "dates": [
+      "Sunday Oct 8th"
+     ],
+     "headings": [
+      "Sunday Oct 8th."
+     ],
+     "places": [],
+     "text": "football. Finally he turned it off & said he had to watch because his customers would ask him about it. Rather sad: no other customers. He was like Ian Holm. He said England (£75 p.w) were playing Macedonia (£1500 p.w) = 0:0.\n\nV. cold night with full moon. Actually, cloud came & it was less cold than we thought. By 9pm the pub car park was filling up with cars.\n\n__Sunday Oct 8th.__\n\nThe van heater worked a bit, which made it much nicer getting dressed. I took Tonie on a walk & found hundreds of Blackberries. At 9am we set off home for Harvest festival."
+    },
+    {
+     "page_id": "B_0114_R",
+     "no": 53,
+     "dates": [
+      "Early April 2007",
+      "May 11th Friday",
+      "Saturday"
+     ],
+     "headings": [
+      "May 11th Friday",
+      "Saturday"
+     ],
+     "places": [
+      "Oakington",
+      "St. John's",
+      "Heffer's Book Shop",
+      "Grad Pad",
+      "Kings"
+     ],
+     "text": "Early April 2007 Simon drove to [?Impley] & back.\n\n__May 11th Friday__ Simon, Eve & Tonie set off at 6.20. for William's & Bryony's MA Graduation weekend. It's cold & rainy.\n\nWe reached Oakington at 8.30. Just before the village was the refugee camp, surrounded by barbed wire. Just after the village was our camp site, small & sheltered. A miserable woman came out of her wood cabin to make sure we weren't on her grass.\n\nRosie at school\n\n__Saturday__\nAt 9.20. we called on Jane & Robert, Robert was in his dressing gown, Jane in bed asleep. We had coffee & chatted. We met William at the Fisher Building at St. John's. The degree ceremony was delayed so we had coffee at Heffer's Book Shop. We enjoyed the degree ceremony. Then William returned his fancy gown & we lunched at the Grad Pad. We shopped & I bought shoes & a hand bag. We met up with Bryony & John & Tess & had a cup of tea underground. Then William & Tess went back to the house & the rest of us went to Evensong at Kings & heard one of Bryony's favourite anthems. It rained off & on all day."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0115",
+   "pages": [
+    {
+     "page_id": "B_0115_L",
+     "no": null,
+     "dates": [
+      "Sunday",
+      "Wednesday June 6th.",
+      "Monday June 11th"
+     ],
+     "headings": [
+      "Sunday",
+      "Wednesday June 6th.",
+      "Monday June 11th"
+     ],
+     "places": [
+      "Ross St.",
+      "Warwick Uni",
+      "Windmill",
+      "Fosse Way",
+      "Bridgnorth"
+     ],
+     "text": "We parked a few roads down on a wider road near Tess house, 26 Ross St., near the station. Tess + Bryony cooked us a delicious supper- fish lasagna.\n\n__Sunday__\nTess gave us delicious croissants + took William + Bryony to the station at 9.10. We left + had a cup of tea with Richard Holroyd + looked at routes through France. We had a picnic lunch in a lay by. Lots more rain.\n\n__Wednesday June 6th.__\nSimon + Eve drove to Warwick Uni + picked up John + Katy + drove to the Windmill. It was a lovely evening. We had a picnic in the van, off the Fosse Way. A [?herd] herd of cows (with sheep) with an enormous bull passed the van. We played bridge.\n\n__Monday June 11th__\nSimon + Eve took Margaret + Helen out to supper in the van + a walk along the river. We had a good meal in the sunshine. A local resident came + picked up [?litter] litter + joked that GPS systems didn't work because of the pedestrian river ferry. When they go wrong, they have to make a 13 mile detour via [?Bridgnorth]"
+    },
+    {
+     "page_id": "B_0115_R",
+     "no": 54,
+     "dates": [
+      "Thursday June 14",
+      "Friday"
+     ],
+     "headings": [
+      "Thursday June 14",
+      "Friday"
+     ],
+     "places": [
+      "Westfield Rd",
+      "Lower Middleton Cheney",
+      "M40",
+      "New Inn",
+      "Burgess Farm",
+      "Lord Heseltine's house",
+      "Lord Heseltine's lake"
+     ],
+     "text": "__Thursday June 14__\nWe drove in convoy from Westfield Rd -> __Lower Middleton Cheney__. The rain tipped down + the M40 + services flooded. Thomas + Naomi went in the red car, Simon, Eve + Tonic in the van. There were huge traffic jams. We walked to the New Inn for supper.        Burgess Farm [illegible][illegible][illegible][illegible]\n\n__Friday__\nWe had a superb walk, about 5 miles, cow parsley + elderflower. Sheep, cows, church, [?Tudor plaster?] we were not on a public footpath when we neared Lord Heseltine's house, (1769) there was a lime, oak, chestnut avenue. Naomi washed her [?stuff/feet] feet in Lord Heseltine's lake. The sun shone hot. We reached the shop + it got cloudy + we again went to the New Inn for lunch. The rain lashed down again. Will Thomas + Naomi be able to cook a fish bbq for supper?\n\nWell, yes they did! Simon helped light the bbq + just as it caught the heavens opened again, as I had predicted. So they shoved it under a nearby metal plant trough until the worst of the rain was passed. Naomi made a salad + wrapped salmon + corn on the cob in tin foil. It wa[s]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0116",
+   "pages": [
+    {
+     "page_id": "B_0116_L",
+     "no": null,
+     "dates": [
+      "Saturday"
+     ],
+     "headings": [
+      "Saturday"
+     ],
+     "places": [
+      "Banbury Station",
+      "St. Augustines",
+      "Stowe",
+      "Elysian field"
+     ],
+     "text": "delicious!\n__Saturday__\nWe slept well & it was a bit chilly in the morning so we breakfasted in the van. Then Naomi took Thomas to Banbury Station to go back to play a concert at St. Augustines. She returned & we had coffee before setting off for __Stowe__.\nWe walked near the Elysian field which was very beautiful. Lots of temples & pillars, & views. It was built by Lord Cobham, 1760? Lovely big trees & places to picnic. Sold to NT by school in 1989."
+    },
+    {
+     "page_id": "B_0116_R",
+     "no": 55,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Suffolk"
+     ],
+     "text": "We walked, had a picnic at the van & walked again & had a cup of tea. V. large fish, geese.\n\nWe were very lucky with the weather. As we drove from the carpark (Naomi to visit Keisha in Suffolk, Simon & Eve home) to the lodge, it started to rain again. It was a very good weekend, not least because Naomi taught us what kissing gates are for."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0117",
+   "pages": [
+    {
+     "page_id": "B_0117_L",
+     "no": null,
+     "dates": [
+      "July 6th",
+      "Saturday July 7th"
+     ],
+     "headings": [
+      "July 6th",
+      "Saturday July 7th"
+     ],
+     "places": [
+      "Malvern",
+      "Farm",
+      "St. George"
+     ],
+     "text": "__July 6th__\n   5.15. Simon + Eve left for Malvern. At home John is being baby sat, by Margaret Greaves, having just got out of hospital after malaria. Then William + Bryony arrive for the night + will drive him to the Farm for Ed's wedding tomorrow.\n   We reached Malvern by 6.20. in time for the leavers' chapel service. Eve sat near Charles, Simon parked the van. Dr. Welch spoke, the new acting head, she spoke well, mentioning the hills.\n   We had supper at [?] SH. Jamie Russell mentioned us in his speech. (Apparently the head mentioned us in her speech as well, but we arrived too late to hear it. \"The last Kirby\") The fireworks were beautiful, out in front of St. George. We chatted to Simon Luther's family. We slept on the old nissen hut area again. For the last time? (St E[?], midnight\n__Saturday July 7th__                                          Charles bed 2 am)\n   We went to coffee with Mr. Frayn, lookin[g]"
+    },
+    {
+     "page_id": "B_0117_R",
+     "no": 56,
+     "dates": [
+      "Sunday"
+     ],
+     "headings": [
+      "Sunday"
+     ],
+     "places": [
+      "Farm",
+      "India"
+     ],
+     "text": "at his lovely garden + __house__ + views. Very hospitable.\n   On the Farm for Ed's + Frankie's wedding at the Farm. Marvellous 200 people. House, then marquee, Cricket Stumps + teepee made by Kate + Jamie + painted by Matsuuras. Lots of Harries + Louisa. Addie came back from India for 25 hours. Humanist ceremony, drinks, (Chamagne) meal, dancing.   Tepee\n__Sunday__\n   Chatting at the table, coffee + toast at marquee. Cricket, a lunch, more cricket. Such fun being with the cousins. Charles [?nearly] lost his jacket + Simon's glasses lost a lens. John even managed to play tennis. Nice to see old friends. Set off back to 86 at 3.45."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0118",
+   "pages": [
+    {
+     "page_id": "B_0118_L",
+     "no": null,
+     "dates": [
+      "Sunday 29th July",
+      "Monday Saturday July 30th"
+     ],
+     "headings": [
+      "Sunday 29th July",
+      "Saturday July 30th"
+     ],
+     "places": [
+      "France",
+      "Florence",
+      "Scotland",
+      "Shanghai",
+      "Barcelona",
+      "Italy",
+      "Croatia",
+      "Guatemala",
+      "White Swan campsite",
+      "Montreuil",
+      "Montreuil-sur-Mer"
+     ],
+     "text": "Sunday 29th July\n\n After the 8 o'clock we set off for France. Simon, Eve, Melody (17) & Charlotte (16) at 9.25. We stopped at services for petrol & while choosing sandwiches, Melody & Charlotte caused a landslide.\n    HOORAY! William & Bryony are engaged! They have just telephoned from their balcony overlooking hills outside Florence. Thomas & Naomi + ½ are in Scotland with the Thorburns in Scotland. Peter is in Shanghai. John is with Katy – Barcelona → Italy → Croatia & Charles is in Guatemala.\n    We went through the tunnel & arrived at the __White Swan campsite__, Montreuil *** at 6.05. The pool was shut but they kindly opened it for Melody & Charlotte to swim. We were here last year in the same valley.\n    It was annoying & funny that our mobile phones kept cutting out in our conversation with William & Bryony. The girls were amused by the problems we had with them. Simon sent a text\n  Monday\n__Saturday July 30th__  \"Congratulations! About time!\"\n\nLovely sunshine but we've camped in the shade. Simon slept 10 hours!\nWe set off & walked & on the ramparts in Montreuil. The sea would have once come up the valley. It's called Montreuil - sur - Mer."
+    },
+    {
+     "page_id": "B_0118_R",
+     "no": 56,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Rheims",
+      "Notre Dame de Reims"
+     ],
+     "captions": [
+      "The Knight's Communion",
+      "(13) Notre Dame de Reims"
+     ],
+     "text": "The Knight's Communion\n\n(13) Notre Dame de Reims\n\nWe drove on to Le Rheims & bought half a bottle of Champagne to celebrate William's & Bryony's engagement & cakes for supper. The cathedral windows glowed in the sunshine"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0119",
+   "pages": [
+    {
+     "page_id": "B_0119_L",
+     "no": null,
+     "dates": [
+      "Tuesday"
+     ],
+     "headings": [
+      "Tuesday"
+     ],
+     "places": [
+      "Connantre",
+      "Arcis-sur-Aube",
+      "Le Beau Sejour",
+      "Lyons",
+      "Shanghai",
+      "Czech",
+      "Lithuania"
+     ],
+     "captions": [
+      "Nous cuisons dans nos fours l'ensemble de nos pains pour qu'ils obtiennent une mie moelleuse et une croûte croquante et bien dorée."
+     ],
+     "text": "Before looking at the Cathdral we had pizza from a real wood-fired oven. The pizza rested directly on the hot stones.\n\n   On & to __Connantre__ for the night. Simon paddled in the lake, Eve swam & the girls watched. A long, sandy Beach.\n                                  2 squatter\n                                  bos\n\n[glued-in newspaper clipping with image of person using long-handled paddle at wood-fired oven, caption reads: \"Nous cuisons dans nos fours l'ensemble de nos pains pour qu'ils obtiennent une mie moelleuse et une croûte croquante et bien dorée.\"]\n\nTuesday\n   We drove for 1 hour & shopped at Arcis-sur-Aube where Simon & Melody & Charlotte did a huge Supermarket Shop. The girls liked the Chaource cheese & Prawn. A long, long day's drive from 9.30-6.15 They swam at the small pool when we got here to Le Beau Sejour * * *.\n   There are Chinese Students (management at Lyons) working as fruit packers, staying at the camp for 2 months, 2 of them from Shanghai. Also cars from Czech & Lithuania. I slept well. It's warmer."
+    },
+    {
+     "page_id": "B_0119_R",
+     "no": 57,
+     "dates": [
+      "Wednesday"
+     ],
+     "headings": [
+      "Wednesday"
+     ],
+     "places": [
+      "Valreas",
+      "Provence",
+      "N.D. des Vignes",
+      "Reims Cathedral"
+     ],
+     "captions": [
+      "Reims Cathedral 1974 Chagall left lancet Virgin & Child"
+     ],
+     "text": "Wednesday                                                 57\n   We left the motorway & went through Valreas in Provence, & reached N.D. des Vignes, an old pilgrimage site in a pine plantation. The nun said that the hermitage well had run dry & she wished they could have some rain from the English floods! She asked Melody & Charlotte if they could hear the grasshoppers\n\nReims Cathedral\n1974 Chagall\nleft lancet\nVirgin &\nChild\n\n[large glued-in colour photo of Chagall stained glass window depicting Virgin and Child]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0120",
+   "pages": [
+    {
+     "page_id": "B_0120_L",
+     "no": null,
+     "dates": [
+      "Thursday"
+     ],
+     "headings": [
+      "Thursday"
+     ],
+     "places": [
+      "Malaucène",
+      "Vaison-la-Romaine",
+      "Les Bosquets",
+      "Vaison",
+      "Roman Bridge",
+      "Ouvèze"
+     ],
+     "text": "It was a beautiful gilded church & felt a bit like an old Roman temple glade.\n\n\tOn to __Malaucène__ beyons Vaison-la-Romaine. Les Bosquets ****,  where we were with William + Bryony 2 years ago. Lovely big L shaped pool. They have put 'portacabins, ugly, on the top level.\n\tWe had lunch & swam & rested. We did a washing-machine load (at the snack bar) + put up the tent.\n\tIn the evening we walked into Malaucène & ate at the restaurant with the fountain Blé aux Herbes. It rained a bit in the early morning.\n__Thursday__\n\tAt 9.30 we set off on a day trip to Vaison. We walked up the winding streets to the castle. Sheltered in a cafe during a shower. Lovely views of old parts of houses. The Roman Bridge didn't get washed away during the 1993 flood, although 37 people drowned, 150 houses were washed away & all the modern industrial estate. We also saw the Roman ruins ruins - 2 latrines & a rebuilt amphi-theatre. We bought chocolate puddings for this evening & baguettes for lunch. The cathedral has a lovely altar stone with fluted carvings JJJJJJJJJ\n\n[margin, rotated:] Roman Bridge [CAD] over Ouvèze"
+    },
+    {
+     "page_id": "B_0120_R",
+     "no": 58,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Ouvèze",
+      "Vaison-la-Romaine",
+      "Malaucène"
+     ],
+     "captions": [
+      "Roman Bridge [CAD] over Ouvèze / Vaison - la - Romaine"
+     ],
+     "text": "& stone apse & there's a pretty cloisters.\nThere was a hotel de la Beffroy, Beffroi, what is the origin of [the word?]\n\n[photo with caption:] Roman Bridge [CAD] over Ouvèze\nVaison - la - Romaine\n\nWe returned to Malaucène & swam & had supper. The chocolate puddings were delicious."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0121",
+   "pages": [
+    {
+     "page_id": "B_0121_L",
+     "no": null,
+     "dates": [
+      "Friday August 3rd"
+     ],
+     "headings": [],
+     "places": [],
+     "captions": [
+      "Simon's favourite cheese."
+     ],
+     "text": "Simon's favourite cheese.\nFriday August 3rd\n    There was a terrific thunder storm just after we went to bed. We were concerned as to whether M+C were OK in the tent. They were fine. Lots of rain, no wind.\n    Simon had ordered bread which arrived at 8.10.\n    We drove lots + the last part was very windy. For lunch we had stopped at an aire with an olive mill. It had changed from water power to electricity. It seems that they cooked the olives before taking the oil?"
+    },
+    {
+     "page_id": "B_0121_R",
+     "no": 59,
+     "dates": [
+      "Saturday"
+     ],
+     "headings": [
+      "Saturday"
+     ],
+     "places": [
+      "Madam Ferrero",
+      "Grimaud",
+      "St. Tropez",
+      "Saint-Tropez"
+     ],
+     "captions": [
+      "Simon's chocolate wrapper",
+      "entry ticket to museum. Lovely Picassos"
+     ],
+     "text": "At 4 we arrived at __Madam Ferrero__, Camping à la ferme, Grimaud. We are in a grove of pines + cork oak. The lower trunk bark has been peeled away. There's a distant view of St. Tropez + a ferris wheel + roller coaster + harbour with lots of masts. There's no pool but there is a ping pong table + lovely breeze. * See page 71 + 72\nSaturday\n    The showers are cold, except for one in the room with the ping pong table. The farmer's wife has white hair + is around a lot + it's very clean.\n\nentry ticket to museum.\nLovely Picassos"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0122",
+   "pages": [
+    {
+     "page_id": "B_0122_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "St Tropez",
+      "L'Annonciade Museum"
+     ],
+     "captions": [
+      "L'Annonciade Museum (in an old church) Edouard Vuillard 1868-1940. La Soupe d'Annette 1900-1901."
+     ],
+     "text": "We drove into St Tropez + parked the car quite far out + walked in. There were hoardes of people. We saw the museum. We had drinks in an expensive cafe by the sea front. Obscenely expensive boats. Then we walked in the old town + bought sandwiches\n\n[glued-in postcard: painting reproduced on art card]\n\nL'Annonciade Museum (in an old church)\nEdouard Vuillard 1868-1940.\nLa Soupe d'Annette 1900-1901."
+    },
+    {
+     "page_id": "B_0122_R",
+     "no": 60,
+     "dates": [
+      "Sunday"
+     ],
+     "headings": [
+      "Sunday"
+     ],
+     "places": [
+      "Gigaro beach",
+      "Heracles beach",
+      "Grimaud",
+      "France",
+      "Saint Tropez"
+     ],
+     "text": "which we ate seated on a window sill.\nWe drove to Gigaro beach - Heracles beach.\nV. hot. We swam + had tea + then came back to the campsite. The farmer gave Simon a big bunch of grapes.\n__Sunday__\n   We went into Grimaud + were early for church. We looked around the town - very hilly, old path[s] we walked up near the castle. Attractive doorways + water fountains + pavemented roads. The church service was clear - I thought the priest must be English from the way he spoke french. The singing brought people in + was often in Latin.\n   We drove on to a Geant supermarket which was very, very crowded. We got back to the campsite at 2 pm for lunch. Unfortunately Simon crunched his door into a tree while parking.\n   It was very interesting to see how mass is in France, though I didn't understand anything from it. the music was very nice. The time we spent at the beach and in the sea was a lot of fun, the Views from the south of France, Saint Tropez, were amazing; I do miss the sea. I also enjoyed a[lot] the time I spent on the Swings. The food was [lucky/lovely], especially the chocolate cakes."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0123",
+   "pages": [
+    {
+     "page_id": "B_0123_L",
+     "no": null,
+     "dates": [
+      "Monday"
+     ],
+     "headings": [
+      "Monday"
+     ],
+     "places": [
+      "France",
+      "England",
+      "Fréjus"
+     ],
+     "text": "I found it very strange at first, that French loos don't seem to have toilet seats as I have never [strikethrough] seen loos without seats, but latter, I got used to the idea of it. Although I do fall asleep a lot of the time when we are in the van, I did enjoy looking at the views (when I'm awake). Whilst England seem to have lost the sun, in France, the sun never seems to be too tierd to shine. As much as I like the warmth brought by the sun I was worried that I might get tanned. I haven't seen the sea for nearly 3 yrs so to be able to visit and swim in it yesterday was amazing! (though it WAS salty...)\n\nMonday\n  We went to Fréjus. The Roman amphitheatre was closed but we saw the amazing old [5?] baptistery at the cathedral, for immersion of adults in the floor, a separate building from the cathadral. The doors (6 wood, were beautiful, too. There was a cloister with double stories. We"
+    },
+    {
+     "page_id": "B_0123_R",
+     "no": 61,
+     "dates": [
+      "Tuesday"
+     ],
+     "headings": [
+      "Tuesday"
+     ],
+     "places": [
+      "St. Laurent de Var",
+      "Nice",
+      "Bham"
+     ],
+     "captions": [
+      "Alexander Calder\n[illegible] 1952"
+     ],
+     "text": "also saw one section of the aquaduct built by the Romans to carry water 25m[iles?]\n  We drove on along the coast road, the next 24 hours were a bit grim. There are endless no-parking low baffles for vans. The camp - Magali at __St. Laurent de Var__ is best quickly forgotten. Airbes. Simon was nervous of the man - florid & big-tummied, who stood next to us swilling beer & wondering how to break into the van. Melody & Charlotte Swan. We set off to walk to a restaurant but the road was so dangerous we turned back & for the first time I cooked spaghetti. There were mosquitos. None of us slept well.\n  Tuesday We left at 8 & got the girls to Nice airport for 8.30. litter in the day they texted to say they'd arrived at Bham\n\nAlexander Calder\n[illegible] 1952"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0124",
+   "pages": [
+    {
+     "page_id": "B_0124_L",
+     "no": null,
+     "dates": [],
+     "headings": [
+      "Maeght Foundation"
+     ],
+     "places": [
+      "Golf Juan",
+      "Picasso Museum",
+      "Roquefort les Pins",
+      "Maeght Foundation"
+     ],
+     "captions": [
+      "Joan Miro: Jeune fille s'évadant 1968"
+     ],
+     "text": "We drove to Golf Juan. The [?Saturday] was [?awful] near the coast. Constant traffic jams. No parking. We went to the Boat-makers & saw Peggy, showing off the new Chad Catalogue. Very high-spec.\n\n   We left & searched & searched for a parking space so we could see the Picasso Museum with no success, so we left & found a restaurant, Lebanese, where (Le [?Sha] Saj at Roquefort les Pins) we had a good lunch.\n\n   Then we went to the __Maeght Foundation__\n\nJoan Miro: Jeune fille s'évadant 1968\n\nThe museum was set up by an art dealer & his wife in memory of their son. lovely spaces, courtgards, water, fountains, walled courtyards. I was nearly caught photographing too close (resting my hand"
+    },
+    {
+     "page_id": "B_0124_R",
+     "no": 62,
+     "dates": [
+      "Wednesday"
+     ],
+     "headings": [
+      "Wednesday"
+     ],
+     "places": [
+      "St. Jeannet",
+      "Nice",
+      "Matisse Museum",
+      "Vence"
+     ],
+     "text": "on the cabinet) by the guards with walkie talkies.\n\n   We arrived at Camping a la ferme, Vignobles __de des [?Sausses]__ __Chemin des Sausses__ St. Jeannet *** * very quiet, free choice of pitch, lovely view down [?tall vines]. Good showers. Aware of beauty. Roses at the end of each row. Large [?bottles] left out in the sun.\n\nWednesday\nWe paid & bought 3 bottles of rosé wine. We were actually v. near last night's campsite, but much higher up.\n\n   Again we drove to Nice, & we stayed in the north of the city, away from the beach. Parking wasn't quite so difficult & we managed to visit the Matisse Museum. It was interesting to look at the development of his drawings. We saw the model of the chapel, with his Virgin & Child. He live[d] the last part of his life in the south because of his health. During bombing of Ni[ce] he went to Vence."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0125",
+   "pages": [
+    {
+     "page_id": "B_0125_L",
+     "no": null,
+     "dates": [
+      "1951",
+      "1952"
+     ],
+     "headings": [],
+     "places": [],
+     "captions": [
+      "Henri Matisse 1869-1954 Baigneuse dans les roseaux 1952 paper & Canvas."
+     ],
+     "text": "Matisse was too ill to go to the opening of the chapel in 1951, but in a letter to the bishop he wrote that the chapel was his best work.\n\n[photo caption:] Henri Matisse 1869-1954\nBaigneuse dans les roseaux 1952\npaper & Canvas.\n\n[vertical right-margin text:] Vierge à l'enfant 1951\nAf[illegible]\nat [illegible]\nnc[illegible]"
+    },
+    {
+     "page_id": "B_0125_R",
+     "no": null,
+     "dates": [
+      "1951"
+     ],
+     "headings": [],
+     "places": [
+      "Boulevard de Pastour"
+     ],
+     "captions": [
+      "Vierge à l'enfant 1951 Ceramic panel."
+     ],
+     "text": "Vierge à l'enfant 1951\nCeramic panel.\n\n[photo of ceramic panel artwork]\n\nAfter driving in zig zags & a circle we had lunch at \"[?Tab] \"tout va\" 94 Boulevard de Pastour, a really nice French meal, escalope of chicken & salad.\nThen we set off one of the zig-zaggiest ro[ads we]\never [saw / had]."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0126",
+   "pages": [
+    {
+     "page_id": "B_0126_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Sospel",
+      "Menton",
+      "Nice",
+      "Monaco"
+     ],
+     "text": "up to Sospel.\n\tThe town Sospel is lovely, old + new. An old bridge with a building on it. We are in the municipal park camping place, only 2 loos + 2 showers but very clean. It's an odd assortment of campers. We are next to 2 town drunks in a low tent; v. beaten-up face, chain smoking, slumped against a tree, 7 men who are probaly cycling + several families.\n\tWe walked into the Town + paid £3.50 to use the internet for 20 minutes, to see how Charles is (fine) bought bread + veg + wandered around.\n\tThe plan is we will take a train to Menton tomorrow, via Nice, then Monaco + spend the night in Monaco + see the home of Miss Rothschild on the way back. We have received our place for 3 nights. We have run down the food + will switch off the fridge."
+    },
+    {
+     "page_id": "B_0126_R",
+     "no": 64,
+     "dates": [
+      "Thursday"
+     ],
+     "headings": [],
+     "places": [
+      "Nice",
+      "Menton",
+      "Monaco",
+      "Colombus",
+      "Grimaldi forum",
+      "Beaulieu sur Mer",
+      "Villa Ephrussi de Rothschild",
+      "Cape Ferrat"
+     ],
+     "text": "Thursday We caught the train → Nice → Menton + wandered round, climbed the hill (exhausting) + had lunch. There were lots of rugby signs in the street. Faded grandeur, gentle, has-been. Old houses at one end of the sea front, which Simon could remember. Nice shops. Promenade\nWe trained to Monaco where Tourist Information told us that all cheap rooms were already let, so we'd have to stay in an expensive hotel. WHOOPEE! We got a balcony + bath. We swam in the hotel pool. It was really nice, the Colombus.\nWe picked up supper in a delicatessen - meat balls + spinach pie + went into the Grimaldi forum for the Princess Grace exhibition. She was stunningly [?beaten] beautiful. The son looks nice, Prince Albert.\nAfter a large breakfast we took the train back to Beaulieu sur Mer. The T. Information said it was short walk - 800m … well it took over half-an-hour. (Disagreement here). Finally we reached Villa Ephrussi de Rothschild. It's spectacular, painted in pink, Beatrice's favourite colour.\nShe bought 14 acres at the narrow part of the isthmus of Cape Ferrat + built a dream house, filled with art she had collected from all over the world. There are views of the sea all round"
+    }
+   ]
+  }
+ ]
+}

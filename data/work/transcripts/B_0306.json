@@ -8,7 +8,7 @@
       "side": "L",
       "handwritten_page_no": null,
       "blank": false,
-      "full_text": "We got to the Tunnel an hour early & they put us onto the next train - ahead of the Bank Holiday weekend.\nWe drove past Etaples & Rouen & are camping beyond Dreux at a Municipal Park at St. Remysur l'Avre. The river splits in 2 in the town.\nA lovely, [?&] warm evening walk in the sunshine. There's an Irishman in the camp who sits in his car all day.\nDelicious\n[?eclair/eclairs]\n[?1/3] fields oil seed rape\n[remainder cut off / illegible at bottom]",
+      "full_text": "We got to the Tunnel an hour early & they put us onto the next train - ahead of the Bank Holiday weekend.\nWe drove past Etaples + Rouen + are camping beyond Dreux at a Municipal Park at St. Remysur l'Avre. The river splits in 2 in the town.\nA lovely, au warm evening walk in the Sunshine. There's an Irishman in the camp who sits in his car all day.\nDelicious\n    eclairs\n1/3 fields oil seed rape\n[illegible] [illegible]",
       "dates": [],
       "headings": [],
       "underlined_places": [],
@@ -18,29 +18,29 @@
       "photo_captions": [],
       "is_index_page": false,
       "ink": "blue",
-      "legibility": 0.8,
-      "notes": "Page is a continuation from preceding spread. Top of page text begins mid-sentence. Left side features a hand-drawn sketch of a whisk and a glued-in rubbing/print of a baguette. Bottom text is partially cut off; 'eclair/eclairs' is a best guess. The place name 'St. Remysur l'Avre' may read 'St. Rémy-sur-Avre' — written as one word in the diary. 'Etaples' could be 'Étaples'. No handwritten page number visible (top corner cut off or absent)."
+      "legibility": 0.75,
+      "notes": "Page is a continuation from preceding spread; top text begins mid-sentence. No handwritten page number visible at top left. Left margin features a pencil sketch of a whisk. Centre-right has a glued-in or rubbed print image of a baguette. Bottom text partially cut off; reads '1/3 fields oil seed rape' then further illegible text. 'au warm' transcribed as written - 'au' may be an informal French usage. Place name 'St. Remysur l'Avre' likely 'St. Remy-sur-Avre' written without hyphens; could also read 'St. Remysur l'Arve'. Right edge of the image is cut off; partial text visible on right margin belongs to right page."
     },
     {
       "page_id": "B_0306_R",
       "side": "R",
       "handwritten_page_no": null,
       "blank": false,
-      "full_text": "[?...] Saturday.\n      We shopped in Dreux & lunched overlooking R. le [?hour] a few kilometres north of Chateaudun. We've camped at le Floe at Beaugency. lots of watermills, broad river. Old bridges. Church has a capitol of David & Goliath & font from 1593. A good meal (except pudding). A nice town to wander in.\n\n      Lovely views from the van across the river.\n\nSunday a near-perfect day so far.\nWarm sunshine in the van first thing. An 11 mile bike ride to Meung. lovely bike track. Fields, villages.\nDelicious lasagna, rose &\nlashings of chocolate on\nthe profiteroles at this\nrestaurant. Frogs making a\ntremendous racket.\nA market in Meung & beautful Romanesque door outside Church & nice Stained glass window.\nBack to Beaugency. The bridge is beautiful.\nBoth campsites have been only €11 per night.",
+      "full_text": "[?Bble] Saturday.\n      We shopped in Dreux + lunched overlooking R. le [?lour] a few kilometres north of Chateaudun. We've camped at le [?Floe] at Beaugency. lots of watermills, broad river. Old bridges. Church has a capitol of David & Goliath & font from 1593. A good meal (-except pudding). A nice town to wander in.\n\n      Lovely views from the van across the river.\n\n__Sunday__ a near-perfect day so far.\nWarm sunshine in the van first thing. An 11 mile bike ride to Meung. lovely bike track. Fields, villages.\nDelicious lasagna, rose + lashings of chocolate on the profiteroles at this restaurant. Frogs making a tremendous racket.\nA market in Meung + beatiful Romanesque door outside church + nice Stained glass window.\nBack to Beaugency. The bridge is beautifal.\nBoth campsites have been only £11 per night.",
       "dates": [
         { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 },
         { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
       ],
-      "headings": [],
+      "headings": ["Sunday"],
       "underlined_places": ["Sunday"],
       "place_mentions": ["Dreux", "Chateaudun", "Beaugency", "Meung", "Meung sur Loire"],
       "route_sketch": false,
       "route_sketch_description": null,
-      "photo_captions": [],
+      "photo_captions": ["Restaurant L'Atelier de Jeanne, 3 impasse du Chateau - Meung sur Loire"],
       "is_index_page": false,
       "ink": "blue",
       "legibility": 0.85,
-      "notes": "Page begins mid-entry with '[?...] Saturday.' — continuation from left page or previous spread. 'R. le [?hour]' likely refers to a river name (possibly 'R. le Loir'). 'le Floe' is uncertain — could be 'le Floc' or similar campsite name at Beaugency. 'Chateaudun' likely 'Châteaudun'. 'Sunday' is underlined. Restaurant card 'L\'Atelier de Jeanne, 3 impasse du Château – Meung sur Loire' is glued in on the right side. Euro currency (€11) confirms date is post-2002; volume context (2003–2019) supports this. 'beautful' is as written (missing 'i')."
+      "notes": "Page begins with '[?Bble] Saturday.' - first word before Saturday is unclear, possibly a day abbreviation or page label. No handwritten page number visible at top right. 'R. le [?lour]' is a partial river name - likely 'R. le Loir' (the Loir river). 'le [?Floe]' is uncertain spelling for a campsite at Beaugency - could be 'le Floc' or 'le Floe'. 'Sunday' appears underlined as a section heading. 'beatiful' and 'beautifal' are transcribed as written (diary spellings). A restaurant business card is glued in on the right side: 'Restaurant L'Atelier de Jeanne, 3 impasse du Chateau - Meung sur Loire, www.atelierdejeanne.fr, latelierdejeanne@orange.fr, 02 38 66 12 33 - 06 89 21 20 21'. The price '£11 per night' uses pound sterling symbol (not euro). Volume context (2003-2019) and Bank Holiday reference suggest a May Bank Holiday trip to France."
     }
   ]
 }

@@ -1,0 +1,50 @@
+{
+  "spread_id": "B_0368",
+  "volume": "B",
+  "pdf_page": 368,
+  "pages": [
+    {
+      "page_id": "B_0368_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Crucifixe of St. Teodote (?) Abbess Raingarda at its feet. Linked by legend to Abgar, King of Edessa, at time of Christ's death. Thin silver gilded foil.\n\nArchangel Michael (on facade) who crushes the devil-dragon\n\nSt Michael Major Church.\n\n[?Nativity] Annunciation - but who is the child?",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Edessa", "St Michael Major Church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "Crucifixe of St. Teodote (?) Abbess Raingarda at its feet. Linked by legend to Abgar, King of Edessa, at time of Christ's death. Thin silver gilded foil.",
+        "Archangel Michael (on facade) who crushes the devil-dragon",
+        "St Michael Major Church.",
+        "[?Nativity] Annunciation - but who is the child?"
+      ],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page is primarily photos (a crucifix, an archangel relief carving, and a Nativity/Annunciation relief). Handwritten captions accompany each photo. 'Crucifixe' may be 'Crucifixo' or 'Crucifix'. 'Teodote' could be 'Teodote' or 'Teodoto'. 'Raingarda' is a reading; could be 'Raingarla' or similar. The heading '[?Nativity]' is crossed out and replaced with 'Annunciation'. Context from right page places this in Pavia, Italy — St Michael Major Church (San Michele Maggiore) is in Pavia."
+    },
+    {
+      "page_id": "B_0368_R",
+      "side": "R",
+      "handwritten_page_no": 69,
+      "blank": false,
+      "full_text": "The wind was getting stronger. Simon had mended the awning in the morning & he didn't want it to be blown down while we were away. So we raced home on our bikes. Alas, the [?rain] fell 10 minutes before we got back. So we spent the night festooned in damp clothes. It rained off + on but it was great having the awning.\n__Thursday__\nWe set off at 9.15. back to Pavia. We leave the battery packs at the van, so some of the cycling is a bit of a challenge, but mostly flat. We go back to St. Tades to look at more of the paintings. It's a friendly church. They invite us up to look at the paintings & switch the light on for us. In one [?painting] of the town & towers, there are paddle wheels at the back of the boats. But how do they turn the wheels? Lanfranc (d 1098) Archb[ishop] of Canterbury, was born in Pavia. On we went to Chiesa di San Pietro in Ciel d'Oro where Tomb of St Augustine is. V. ornate. Then we cycled on to the Castle built by",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": [],
+      "place_mentions": ["Pavia", "St. Tades", "Canterbury", "Chiesa di San Pietro in Ciel d'Oro", "Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page number 69 visible in top-right corner. Text continues from/to adjacent pages. 'St. Tades' is likely San Teodoro (St Theodore) church in Pavia — uncertain reading. 'Alas, the [?rain]' — the word after 'Alas' is partially obscured; reads like 'the ro[of]' or 'the rain'. The sentence 'Lanfranc (d 1098) Archb[ishop] of Canterbury, was born in Pavia' is an aside/annotation inserted mid-text. Text cuts off mid-sentence at bottom: 'Then we cycled on to the Castle built by'. No explicit year on page; Pavia context and volume position (2003-2019) suggests this is a cycling holiday in northern Italy."
+    }
+  ]
+}

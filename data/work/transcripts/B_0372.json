@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0372",
+  "volume": "B",
+  "pdf_page": 372,
+  "pages": [
+    {
+      "page_id": "B_0372_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "blue ceiling of church\n\nSaturday June 25th.\nWe walked up a zig zag path through fruit trees &\ncrawled out of a hole in the hedge into the road\ncircling the village. The church is beautiful & plain.\nI lit a candle for Joan Grimley. Amazing views of\nfields all round. A super [illegible] walk in an old\nvillage with nice modern bits. Friendly people.\nAn old fort belonging to Medici's next to the church.\nIt would be good to come back. We bought bread.\nAlex said that not only the Medici are",
+      "dates": [
+        { "raw": "Saturday June 25th.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["blue ceiling of church"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Photo shows interior of a church with blue vaulted ceiling. Caption 'blue ceiling of church' written in top-right corner of the page beside/above the photo. One word appears struck through before 'walk' — reads like a cancelled word, transcribed as [illegible]. 'Medici' and 'Medici's' likely refer to the Medici family; the fort/fort location and village are not named on this page. Year cannot be determined from this page alone; Saturday June 25 fell on e.g. 2005, 2011, 2016 within the volume range but no year is written."
+    },
+    {
+      "page_id": "B_0372_R",
+      "side": "R",
+      "handwritten_page_no": 13,
+      "blank": false,
+      "full_text": "from round here, but also the\ndella Casas.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["della Casas"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten number '13' visible in top-right corner — may be a page number or annotation. Text is a continuation of the sentence from the left page: 'Alex said that not only the Medici are from round here, but also the della Casas.' 'della Casas' likely refers to the Casa/Casas family name (Italian). The rest of the page is blank."
+    }
+  ]
+}

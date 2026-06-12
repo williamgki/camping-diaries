@@ -1,0 +1,2957 @@
+{
+ "window_id": "A_w07",
+ "volume": "A",
+ "books": [
+  {
+   "start": "A_0084",
+   "end": "A_0167",
+   "index_spreads": [
+    "A_0084"
+   ]
+  },
+  {
+   "start": "A_0168",
+   "end": "A_0255",
+   "index_spreads": [
+    "A_0168",
+    "A_0169"
+   ]
+  }
+ ],
+ "index_entries": [
+  {
+   "file": "volA_book2_index.json",
+   "entries": [
+    {
+     "page_no": 2,
+     "text": "Di + Ian\nHungerford, Newbury\nChandlers Ford",
+     "year": 1993,
+     "note": "labelled P.2; 1993 year marker written beside this entry"
+    },
+    {
+     "page_no": 3,
+     "text": "Romsey, Portsmouth",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 4,
+     "text": "Finsbury Circus",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 5,
+     "text": "Manifold Valley",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 6,
+     "text": "Market Drayton",
+     "year": 1993,
+     "note": "number overwritten/struck (8 corrected to 6)"
+    },
+    {
+     "page_no": 6,
+     "text": "Llanbrynmair",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 7,
+     "text": "Barmouth\nLlanfair, Festiniog\nArdudwy",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 8,
+     "text": "Montgomery\nRochester",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 9,
+     "text": "Grincourt\nSt. Gottard",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 11,
+     "text": "Lugano",
+     "year": 1993,
+     "note": "preceding word struck through before Lugano"
+    },
+    {
+     "page_no": 12,
+     "text": "Crema, Soncino\nLake Como",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 13,
+     "text": "Cremona",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 14,
+     "text": "Salsomaggiore Terme\nArigona",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 15,
+     "text": "Parma",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 16,
+     "text": "Torrechiara",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 17,
+     "text": "Berceto\nBorgo val di Taro\nVarese",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 18,
+     "text": "Sestre, Levante\nCorniglia, Vernazza",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 20,
+     "text": "Rapallo\nCunes\nLes Deux Alpes",
+     "year": 1993,
+     "note": "last line clipped at bottom edge of page"
+    },
+    {
+     "page_no": 21,
+     "text": "Fracassos\nSt. Jean le Vaux",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 24,
+     "text": "Lumbres",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 25,
+     "text": "Rhiwiau Conway",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 26,
+     "text": "Telford Beauchamp\nForest of Dean",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 27,
+     "text": "Ashleworth Court, Westermill Farm",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 28,
+     "text": "Dunster",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 30,
+     "text": "Naunton, Guiting Power",
+     "year": 1993,
+     "note": null
+    },
+    {
+     "page_no": 31,
+     "text": "Bourton",
+     "year": 1994,
+     "note": "1994 year marker written beside this entry (with closing bracket)"
+    },
+    {
+     "page_no": 33,
+     "text": "Betws-y-Coed",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 34,
+     "text": "Dolwyddelan, Upton",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 35,
+     "text": "Altarnun, Delabole, St Columb, Truro",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 36,
+     "text": "St. Ives",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 37,
+     "text": "St. Just, Penzance",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 38,
+     "text": "Geevor, Lands End, Mullions Cove, Lizard",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 39,
+     "text": "Trebagh Gardens, Liskeard, Saltash",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 40,
+     "text": "Dartington Cider Press, Blaencanllais Fach",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 41,
+     "text": "Ystradfellte",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 42,
+     "text": "Cwm Llwch Bwlch, Tretower",
+     "year": 1994,
+     "note": "a word struck through before Bwlch"
+    },
+    {
+     "page_no": 43,
+     "text": "Nr. Stourbridge, Malvern, Thorpeness",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 44,
+     "text": "The Nook, Kent, Normandy graves, Laon\nCaverne de Dragon",
+     "year": 1994,
+     "note": "a word struck through before Dragon"
+    },
+    {
+     "page_no": 45,
+     "text": "Vauclair, Pontavert, beemuseum",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 46,
+     "text": "Troyes, Vezelay, Lormes, Autun",
+     "year": 1994,
+     "note": "small inserted 47 above between Vezelay and Lormes"
+    },
+    {
+     "page_no": 49,
+     "text": "St. Jean de Vaux, Chalon sur Saône Givry",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 51,
+     "text": "Clairvaux, Bar sur Aube, St-Marie du... lac\nLumbres",
+     "year": 1994,
+     "note": "St-Marie line abbreviated with superscript du-; Lumbres written on line below"
+    },
+    {
+     "page_no": 52,
+     "text": "Beauchamp x 2",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 53,
+     "text": "Dinas, Roman Steps, Harlech",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 54,
+     "text": "Lichfield + Cannock Chase, Lee Valley",
+     "year": 1994,
+     "note": null
+    },
+    {
+     "page_no": 55,
+     "text": "Cambridge Stoke Works",
+     "year": 1995,
+     "note": "1995 marker (underlined) inserted between Cambridge and Stoke Works"
+    },
+    {
+     "page_no": 57,
+     "text": "Knutsford, Rydal, Hawkshead",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 58,
+     "text": "Coniston, Brantwood",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 60,
+     "text": "Hardknott fort. Harter Fell, Eskdale",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 61,
+     "text": "Boot",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 62,
+     "text": "Wast Water, Grasmere, Trout Beck",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 63,
+     "text": "Upper Cantref",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 64,
+     "text": "Llanfrynach\nBwlch",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 65,
+     "text": "Middleton Hall, Naseby",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 66,
+     "text": "Belton-in-Rutland, Uppingham\nMalvern, Little Sombourne",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 67,
+     "text": "Castro Urdiales, Santillana",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 68,
+     "text": "San Vincente, Cova Donga",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 69,
+     "text": "Picos",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 70,
+     "text": "Marillas, Leon",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 71,
+     "text": "Villemartin",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 72,
+     "text": "O Cebreiro",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 73,
+     "text": "Portomarin, Compostella",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 74,
+     "text": "Ria Camiñares",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 75,
+     "text": "Braga, Oporto",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 76,
+     "text": "Castro Daire, Castelo Mendo\nCiudad Rodrigo, La Alberca",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 77,
+     "text": "Miranda, El Gasco\nel Portillo",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 78,
+     "text": "Salamanca",
+     "year": 1995,
+     "note": null
+    }
+   ]
+  },
+  {
+   "file": "volA_book3_index.json",
+   "entries": [
+    {
+     "page_no": 1,
+     "text": "Bromyard. Farnham\nHartley Wintney",
+     "year": 1995,
+     "note": "1995 marker beside this entry; 'Farnham' struck through"
+    },
+    {
+     "page_no": 2,
+     "text": "London",
+     "year": 1995,
+     "note": null
+    },
+    {
+     "page_no": 3,
+     "text": "Beauchamp, Gloucester\nCalver Mill, Peaks",
+     "year": 1996,
+     "note": "1996 marker beside this entry"
+    },
+    {
+     "page_no": 5,
+     "text": "Chatsworth",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 7,
+     "text": "Farnborough Hall",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 8,
+     "text": "Stratford",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 9,
+     "text": "Mersea, Colchester, Doncaster,\nThorpeness",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 10,
+     "text": "Anglesey, Dun Laoghaire",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 11,
+     "text": "Glendalough. Kildare, Kilkenny",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 12,
+     "text": "Rock of Cashel, Micheltown",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 13,
+     "text": "Dingle, Micheltown, Gallarus",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 14,
+     "text": "Dunquin",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 15,
+     "text": "Great Blasket, Camp",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 16,
+     "text": "Lahinch, Moher, Aillwee, Burren",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 17,
+     "text": "Map of Ireland, Leamaneh",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 18,
+     "text": "Ennis, Clonmacnoise, Lough Ree",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 19,
+     "text": "Granard",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 20,
+     "text": "Killyleagh, Seaforde, Portaferry,\nKnowth",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 21,
+     "text": "Beauchamp, Stamford Bridge",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 22,
+     "text": "London, Ypres",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 23,
+     "text": "Kortrijk, Oudenaarde",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 24,
+     "text": "Gent",
+     "year": 1996,
+     "note": null
+    },
+    {
+     "page_no": 25,
+     "text": "Broadhembury, Forest of Dean",
+     "year": 1997,
+     "note": "1997 marker beside this entry"
+    },
+    {
+     "page_no": 26,
+     "text": "Beauchamp",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 28,
+     "text": "Bristol",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 29,
+     "text": "Derbyshire, Calke Abbey",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 30,
+     "text": "Dinas",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 31,
+     "text": "Rhinog, Harlech",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 32,
+     "text": "Clent, Alfreton, Upton",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 33,
+     "text": "Amiens, Loeuilly",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 34,
+     "text": "Paris",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 35,
+     "text": "La Ferte sur Aube",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 38,
+     "text": "Bourges, Foecy",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 39,
+     "text": "Cassaniouze, Calvinet",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 40,
+     "text": "Conques",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 41,
+     "text": "Vieville",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 42,
+     "text": "Entraygues",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 43,
+     "text": "Avon, Armand\nLa Malene",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 45,
+     "text": "St. Enimie",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 46,
+     "text": "Monastier / St. Jean",
+     "year": 1997,
+     "note": "'Stavanger' written in margin to the left of entries 46-47; right edge of page text may be cut off"
+    },
+    {
+     "page_no": 47,
+     "text": "La Belle Peche\nVaux",
+     "year": 1997,
+     "note": "right edge of page may be cut off"
+    },
+    {
+     "page_no": 48,
+     "text": "Channel Tunnel",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 49,
+     "text": "Beauchamp",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 50,
+     "text": "Malmesbury\nEast of Welland",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 51,
+     "text": "London Greenwich\nImp War Museum\nTate",
+     "year": 1997,
+     "note": null
+    },
+    {
+     "page_no": 55,
+     "text": "Oundle",
+     "year": 1998,
+     "note": "1998 marker beside this entry"
+    },
+    {
+     "page_no": 56,
+     "text": "Beauchamp, Gloucester",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 58,
+     "text": "Abbey Dore, Golden Valley",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 59,
+     "text": "Hanley Swan",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 61,
+     "text": "Ainas, Festiniog",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 62,
+     "text": "Machynlleth\nNewcastle, Bergen",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 64,
+     "text": "Dale",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 65,
+     "text": "Hardal, Borgund",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 66,
+     "text": "Sognafjord, Solvorn",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 68,
+     "text": "Nigardsbreen glacier\nForde, Urnes",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 69,
+     "text": "Bergsdoler, Ringebu\nTrojung",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 70,
+     "text": "Koppang, Holjes",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 71,
+     "text": "Humletorps Missback",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 72,
+     "text": "Sunne, Oslo",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 74,
+     "text": "Konsberg",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 75,
+     "text": "Rjukan, Vemork",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 76,
+     "text": "Setesdal",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 77,
+     "text": "Sirdal\nStavanger",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 78,
+     "text": "North Shields\nLincolnshire\nConway",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 79,
+     "text": "Dolwyddelan\nLlangollen\nLlandudno",
+     "year": 1998,
+     "note": null
+    },
+    {
+     "page_no": 80,
+     "text": "Beauchamp",
+     "year": 1998,
+     "note": null
+    }
+   ]
+  },
+  {
+   "file": "volA_book4_index.json",
+   "entries": [
+    {
+     "page_no": 1,
+     "text": "Bourton-on-the-Water",
+     "year": 1998,
+     "note": "underlined year marker above entry 1 is cut off at top edge of scan; appears to read 1998 (governs entries 1-2 before the 1999 marker at entry 3)"
+    },
+    {
+     "page_no": 2,
+     "text": "Slaughter, Rahnege",
+     "year": 1998,
+     "note": "second place spelled 'Rahnege' as written"
+    },
+    {
+     "page_no": 3,
+     "text": "London",
+     "year": 1999,
+     "note": "1999 year marker (underlined) written beside this entry"
+    },
+    {
+     "page_no": 6,
+     "text": "Hove, Washington",
+     "year": 1999,
+     "note": "gap: no entries 4-5"
+    },
+    {
+     "page_no": 7,
+     "text": "Bramber, Brighton",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 8,
+     "text": "Leonardslee, Longwood",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 9,
+     "text": "Little Snoring, Letheringsett Hall",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 10,
+     "text": "Chippenham Park, Littleport\nEly, Strethan, Rogersons",
+     "year": 1999,
+     "note": "multi-line entry"
+    },
+    {
+     "page_no": 11,
+     "text": "Malvern, Dinas, Port Maddock",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 12,
+     "text": "Portmeirion, Cambridge",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 13,
+     "text": "Orton, Glasgow",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 14,
+     "text": "Balloch, Inveray, Oban",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 15,
+     "text": "Craigmure, Suart",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 16,
+     "text": "Iona",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 17,
+     "text": "Tobermory, Loch Sunart",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 18,
+     "text": "Glen Coe, Trossachs, Doune",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 19,
+     "text": "Dunblane, St. Andrews",
+     "year": 1999,
+     "note": "'Stirling' written as a superscript correction/addition above 'Dunblane'"
+    },
+    {
+     "page_no": 20,
+     "text": "Edinburgh",
+     "year": 1999,
+     "note": null
+    },
+    {
+     "page_no": 21,
+     "text": "North Berwick, Soutra, Hawick\nSelkirk",
+     "year": 1999,
+     "note": "multi-line entry"
+    },
+    {
+     "page_no": 22,
+     "text": "Stapeley water gardens\nLondon",
+     "year": 1999,
+     "note": "multi-line entry"
+    },
+    {
+     "page_no": 23,
+     "text": "Ely, Bath",
+     "year": 2000,
+     "note": "2000 year marker (underlined) written between Ely and Bath beside this entry"
+    },
+    {
+     "page_no": 24,
+     "text": "Limpley Stoke",
+     "year": 2000,
+     "note": null
+    },
+    {
+     "page_no": 25,
+     "text": "Malvern, Enslow, Tadley.",
+     "year": 2000,
+     "note": null
+    },
+    {
+     "page_no": 26,
+     "text": "Hay-on-Wye, Llanthony Priory",
+     "year": 2000,
+     "note": null
+    },
+    {
+     "page_no": 27,
+     "text": "Skenfrith Castle, Malvern",
+     "year": 2000,
+     "note": null
+    },
+    {
+     "page_no": 28,
+     "text": "Capel-y-Ffin\nPeak District, Lathkill Gorge",
+     "year": 2000,
+     "note": "multi-line entry; continuation line in blue ink"
+    },
+    {
+     "page_no": 29,
+     "text": "Ashbourne, Hendon RAF museum",
+     "year": 2000,
+     "note": null
+    },
+    {
+     "page_no": 30,
+     "text": "St. Margaret's Westminster\nLondon, Courtauld\nDavid & Sally, art galleries\nHamleys, Liberty's",
+     "year": 2000,
+     "note": "multi-line entry"
+    },
+    {
+     "page_no": 31,
+     "text": "Science Museum",
+     "year": 2000,
+     "note": null
+    },
+    {
+     "page_no": 32,
+     "text": "Tate Modern",
+     "year": 2000,
+     "note": null
+    },
+    {
+     "page_no": 33,
+     "text": "The Globe Theatre",
+     "year": 2000,
+     "note": null
+    },
+    {
+     "page_no": 34,
+     "text": "Bath",
+     "year": 2001,
+     "note": "2001 year marker (underlined) written beside this entry"
+    },
+    {
+     "page_no": 37,
+     "text": "Burwell, Wicken Fen",
+     "year": 2001,
+     "note": "gap: no entries 35-36"
+    },
+    {
+     "page_no": 39,
+     "text": "Flecknoe, Guildford,",
+     "year": 2001,
+     "note": "gap: no entry 38; trailing comma after Guildford; a superscript word (possibly 'Chust') written to the right between this entry and entry 41, uncertain reading/attachment"
+    },
+    {
+     "page_no": 41,
+     "text": "Normandy\nHenqueville, Étretat\nYvetot",
+     "year": 2001,
+     "note": "gap: no entry 40; multi-line entry"
+    },
+    {
+     "page_no": 42,
+     "text": "Seine, Jumièges, Yainville",
+     "year": 2001,
+     "note": null
+    },
+    {
+     "page_no": 43,
+     "text": "Hennequeville",
+     "year": 2001,
+     "note": null
+    },
+    {
+     "page_no": 44,
+     "text": "Deauville, Pegasus Bridge",
+     "year": 2001,
+     "note": null
+    },
+    {
+     "page_no": 45,
+     "text": "Caen, Suisse Normande",
+     "year": 2001,
+     "note": null
+    },
+    {
+     "page_no": 46,
+     "text": "Arromanches",
+     "year": 2001,
+     "note": "written in pink/magenta ink"
+    },
+    {
+     "page_no": 48,
+     "text": "Bayeux",
+     "year": 2001,
+     "note": "gap: no entry 47; pink ink"
+    },
+    {
+     "page_no": 49,
+     "text": "Cerisy la Forêt, St. Lo,",
+     "year": 2001,
+     "note": "pink ink; 'Cerisy' circled; trailing comma"
+    },
+    {
+     "page_no": 50,
+     "text": "Coutances, Lessay,",
+     "year": 2001,
+     "note": "pink ink; trailing comma"
+    },
+    {
+     "page_no": 52,
+     "text": "Carteret, Cherbourg",
+     "year": 2002,
+     "note": "gap: no entry 51; pink ink; 2002 year marker (green ink) written beside this entry"
+    },
+    {
+     "page_no": 53,
+     "text": "Cambridge, Brown Cow",
+     "year": 2002,
+     "note": "pink ink"
+    },
+    {
+     "page_no": 54,
+     "text": "Prees",
+     "year": 2002,
+     "note": "pink ink"
+    },
+    {
+     "page_no": 55,
+     "text": "Kington",
+     "year": 2002,
+     "note": "pink ink"
+    },
+    {
+     "page_no": 56,
+     "text": "Pembroke",
+     "year": 2002,
+     "note": "pink ink"
+    },
+    {
+     "page_no": 57,
+     "text": "St. David's, Solva",
+     "year": 2002,
+     "note": "pink ink"
+    },
+    {
+     "page_no": 58,
+     "text": "Llandygwydd, Cleobury Mortimer\nTrimpley, Malvern, Bristol, Lyme Regis",
+     "year": 2002,
+     "note": "pink ink; multi-line entry"
+    },
+    {
+     "page_no": 60,
+     "text": "Clent",
+     "year": 2002,
+     "note": "gap: no entry 59"
+    },
+    {
+     "page_no": 61,
+     "text": "Vendeuil, St Quentin, Chaumard",
+     "year": 2002,
+     "note": null
+    },
+    {
+     "page_no": 63,
+     "text": "Cluny",
+     "year": 2002,
+     "note": "gap: no entry 62"
+    },
+    {
+     "page_no": 64,
+     "text": "Anse, Lyons, Heyrieux",
+     "year": 2002,
+     "note": "first place reads 'Anse' (Lyon area)"
+    },
+    {
+     "page_no": 65,
+     "text": "Puy en Velay, Langogne, Mende",
+     "year": 2002,
+     "note": null
+    },
+    {
+     "page_no": 67,
+     "text": "Vaiserelle",
+     "year": 2002,
+     "note": "gap: no entry 66"
+    },
+    {
+     "page_no": 68,
+     "text": "La Couvertoirade\nCirque de Navacelles\nGanges, Brissac\nSt. Bauzille de Putois",
+     "year": 2002,
+     "note": "multi-line entry; '(Cevennes)' annotation written diagonally beside this entry"
+    },
+    {
+     "page_no": 69,
+     "text": "Bastide, Nîmes",
+     "year": 2002,
+     "note": null
+    },
+    {
+     "page_no": 70,
+     "text": "Pont du Gard\nArdèches",
+     "year": 2002,
+     "note": "multi-line entry"
+    },
+    {
+     "page_no": 73,
+     "text": "Tain l'Hermitage",
+     "year": 2002,
+     "note": "gap: no entries 71-72"
+    },
+    {
+     "page_no": 74,
+     "text": "Villefranche-sur-Saône\nSt. Jean de Vaux",
+     "year": 2002,
+     "note": "multi-line entry"
+    },
+    {
+     "page_no": 75,
+     "text": "Lumbres, Sevenoaks\nWalsall",
+     "year": 2002,
+     "note": "multi-line entry"
+    },
+    {
+     "page_no": 76,
+     "text": "Trimpley, Biddulph Grange",
+     "year": 2002,
+     "note": null
+    },
+    {
+     "page_no": 78,
+     "text": "Edale",
+     "year": 2002,
+     "note": "gap: no entry 77"
+    },
+    {
+     "page_no": 79,
+     "text": "Eden Project, Cornwall",
+     "year": 2003,
+     "note": "2003 year marker (green ink, underlined) written beside this entry"
+    },
+    {
+     "page_no": 81,
+     "text": "Fowey",
+     "year": 2003,
+     "note": "gap: no entry 80"
+    },
+    {
+     "page_no": 82,
+     "text": "Manchester",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 83,
+     "text": "Knutsford, Malvern\nLlanafan Fawr.",
+     "year": 2003,
+     "note": "multi-line entry; 'Malvern' and 'Llanafan Fawr' written in green ink"
+    },
+    {
+     "page_no": 85,
+     "text": "Kate & Jamie's farm, Malvern\nCambridge",
+     "year": 2003,
+     "note": "gap: no entry 84; multi-line entry"
+    },
+    {
+     "page_no": 86,
+     "text": "Ashford, Bad Honnef",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 87,
+     "text": "Alsfeld",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 88,
+     "text": "Eisenach",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 90,
+     "text": "Wartburg, Erfurt",
+     "year": 2003,
+     "note": "gap: no entry 89"
+    },
+    {
+     "page_no": 91,
+     "text": "Weimar",
+     "year": 2003,
+     "note": null
+    }
+   ]
+  },
+  {
+   "file": "volA_index.json",
+   "entries": [
+    {
+     "page_no": 1,
+     "text": "Malvern + farm",
+     "year": 1989,
+     "note": "1989 marker at top of index, beside this entry"
+    },
+    {
+     "page_no": 2,
+     "text": "Harlech",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 4,
+     "text": "Peak District",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 5,
+     "text": "Dinas",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 6,
+     "text": "Leeds",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 7,
+     "text": "York",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 8,
+     "text": "Hadrian's Wall",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 9,
+     "text": "Settle",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 12,
+     "text": "Burnley",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 13,
+     "text": "Warburton, Arley Hall",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 14,
+     "text": "Little Somborne",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 15,
+     "text": "Stokesay Castle",
+     "year": 1989,
+     "note": null
+    },
+    {
+     "page_no": 16,
+     "text": "Hamperley",
+     "year": 1990,
+     "note": "1990 marker beside this entry"
+    },
+    {
+     "page_no": 17,
+     "text": "Windmill",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 18,
+     "text": "Di, Avebury, Devizes",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 19,
+     "text": "Lacock",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 20,
+     "text": "Bradford",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 21,
+     "text": "Bath",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 22,
+     "text": "Hamperley",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 23,
+     "text": "Long Mynd",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 26,
+     "text": "Wales with Bartels",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 33,
+     "text": "Cherry Tree Farm, Daventry",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 34,
+     "text": "Woodford Halse, Canons Ashby",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 38,
+     "text": "Canterbury, Arras",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 40,
+     "text": "Germicourt, Arc-en-Barois",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 41,
+     "text": "Coloumbiers le Vieux",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 43,
+     "text": "Aubenas, Les Blaches",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 44,
+     "text": "R. Chassezac",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 47,
+     "text": "Chambonas",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 49,
+     "text": "R. Ardeche",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 53,
+     "text": "Triers",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 54,
+     "text": "Bad Honnef",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 56,
+     "text": "Calais",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 57,
+     "text": "Channel Tunnel Museum",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 58,
+     "text": "Hook Norton",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 59,
+     "text": "Wiggington, Sibford",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 60,
+     "text": "Parsons Green",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 61,
+     "text": "Tetbury, Avening Park",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 65,
+     "text": "New Forest",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 66,
+     "text": "Beaulieu",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 67,
+     "text": "Chandlers' Ford",
+     "year": 1990,
+     "note": null
+    },
+    {
+     "page_no": 69,
+     "text": "Oxford",
+     "year": 1991,
+     "note": "1991 marker written beside this entry"
+    },
+    {
+     "page_no": 72,
+     "text": "Chesham",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 73,
+     "text": "Flamstead",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 75,
+     "text": "Hamperley",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 77,
+     "text": "Dinas",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 79,
+     "text": "Montreuil",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 80,
+     "text": "Chartres",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 83,
+     "text": "Chaumont",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 84,
+     "text": "Chenonceau",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 85,
+     "text": "R. Vienne",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 86,
+     "text": "Eymontier",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 90,
+     "text": "Cassaniouze",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 92,
+     "text": "Conques",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 95,
+     "text": "Estaing / Espalion",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 96,
+     "text": "R. Lot",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 98,
+     "text": "Pacoudiere",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 99,
+     "text": "Beauvais",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 100,
+     "text": "Torcy nr. Paris / Crecy",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 102,
+     "text": "Beauchamp House",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 103,
+     "text": "Arlingham",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 104,
+     "text": "Thorpeness / Trimley farm.",
+     "year": 1991,
+     "note": null
+    },
+    {
+     "page_no": 105,
+     "text": "Simon in London",
+     "year": 1992,
+     "note": "1992 marker written beside this entry"
+    },
+    {
+     "page_no": 106,
+     "text": "Tetchill, Ellesmere",
+     "year": 1992,
+     "note": "'Tetchill' appears struck through in the original"
+    },
+    {
+     "page_no": 109,
+     "text": "Beauchamp",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 111,
+     "text": "Dinas",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 115,
+     "text": "Harlech",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 116,
+     "text": "Little Gaddesden, Malvern",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 117,
+     "text": "Lincoln",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 121,
+     "text": "Pont Audemer, Reilly",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 123,
+     "text": "Azay-le-Rideau, Champigny-sur-Veude, Chinon",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 124,
+     "text": "Richelieu, St Estephe",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 125,
+     "text": "Brantome, Roufignac, Les Eyzies, Le Queylou",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 126,
+     "text": "Font de Gaume",
+     "year": 1992,
+     "note": "entry begins at foot of left column (partially cut off) and continues at top of right column"
+    },
+    {
+     "page_no": 127,
+     "text": "St. Cyprien, Rocamadour",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 129,
+     "text": "Casaniouse",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 130,
+     "text": "Entragues",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 131,
+     "text": "Conques",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 133,
+     "text": "Chartres",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 134,
+     "text": "St. Illiers la Ville",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 135,
+     "text": "Thornham Magna",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 136,
+     "text": "Thorpeness, Beauchamp",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 137,
+     "text": "King Sterndale, Goyt Valley, Buxton",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 138,
+     "text": "York",
+     "year": 1992,
+     "note": null
+    },
+    {
+     "page_no": 140,
+     "text": "Coningsby",
+     "year": 1992,
+     "note": null
+    }
+   ]
+  }
+ ],
+ "spreads": [
+  {
+   "spread_id": "A_0145",
+   "pages": [
+    {
+     "page_id": "A_0145_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Coniston"
+     ],
+     "captions": [
+      "\"Gondola\" on Coniston Water, The Lake District.",
+      "View from our campsite at Coniston."
+     ],
+     "text": "View from our campsite at Coniston."
+    },
+    {
+     "page_id": "A_0145_R",
+     "no": 59,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": "Ruskin wrote \"There is no wealth but life.\"\n\tHe also said \"... happiness is increased not by the enlargement of the possessions, but of the heart; and days lengthened, not by the crowding of emotions, but the economy of them... if thus we taught, we had the ordering of our house and estate in our own hands, I believe no manner of temperance in pleasure would be better rewarded than that of making our gardens gay only with common flowers.\"\n\tHe paid workmen to hew a nice house out of the solid rock hillside in his garden in order to give cold comforts to people who were ill in the local area."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0146",
+   "pages": [
+    {
+     "page_id": "A_0146_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "L. Coniston",
+      "L. Coniston"
+     ],
+     "sketch": true,
+     "sketch_desc": "A hand-drawn horizon/skyline sketch spanning the page, showing two contrasting profiles labelled left and right. Left section captioned 'skyline on west side of L. Coniston, slate, bare volcanic'; right section captioned 'skyline on east side of L. Coniston, limestone, trees'. The sketch illustrates the geological difference between the two sides of Coniston Water.",
+     "text": "skyline on west side of L. Coniston, slate, bare volcanic\n\nskyline on east side of L. Coniston, limestone, trees"
+    },
+    {
+     "page_id": "A_0146_R",
+     "no": 80,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Coniston"
+     ],
+     "text": "Dry stone wall at Coniston. Alternating layers of flat slates & round limestone.\n\nSheep. oats original crops.\n\nBee skeps made out of rye + split bramble.\n\n        The Gondola brought us back. I have never been in such a comfortable, fast, quiet small boat. The first passenger trip isn't until 11, but the men arrive at 9.0. to start the fire."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0147",
+   "pages": [
+    {
+     "page_id": "A_0147_L",
+     "no": null,
+     "dates": [
+      "Tuesday 2nd May"
+     ],
+     "headings": [
+      "Tuesday 2nd May."
+     ],
+     "places": [
+      "Wrynose Pass",
+      "Wrynose Bottom",
+      "Scidden Valley",
+      "Hard Knott Pass",
+      "Hardknott Roman Fort",
+      "Mediobogdum",
+      "Harter Fell",
+      "Scarfell Pike",
+      "Birk Bridge",
+      "Boot",
+      "Eskdale",
+      "Wast Water"
+     ],
+     "text": "Tuesday 2nd May.\n\n      We left at 9.10.  We drove over Wrynose Pass, steep, huge drops, into Wrynose Bottom + [strikethrough] down to Scidden Valley.\n\n[sketch of valley cross-section] glacial valleys + the rivers have hardly worn into the granite.  In some places hanging valleys [sketch] with waterfalls.\n\n      We walked over Hard Knott Pass + saw Hardknott Roman Fort, __Mediobogdum.__  It's on the edge of a cliff with a parade ground 3 acres, cleared + levelled, nearby.  We carried on around Harter Fell.  We had lunch at the top of steep cliffs next to the fort, looking out at Scarfell Pike.  It was a long, hot walk.  Downhill we came through forrests where men were sawing, through an old oak wood + over a beautiful packhorse bridge with deep cool rock pools on either side.  Birk Bridge carpark.\n\n      We drove on north west + camped at __Boot__ in __Eskdale__.  The local pub provided beer, but the young, good-looking barman, whose father was a farmer up the valley, took ages to\n\n[marginal note rotated, running vertically along right edge:] Wast Water, deepest lake in England, facing east"
+    },
+    {
+     "page_id": "A_0147_R",
+     "no": 61,
+     "dates": [
+      "Wed"
+     ],
+     "headings": [],
+     "places": [
+      "Hollin Farm",
+      "Ravenglass",
+      "Eskdale",
+      "Boot",
+      "Scafell",
+      "Haystacks",
+      "Great Gable",
+      "Whatdale Head",
+      "Kirk Fell",
+      "Wast Water",
+      "Lake District"
+     ],
+     "sketch": true,
+     "sketch_desc": "A hand-drawn sketch map of Lake District fells fills most of the right page. The map shows a ridge line running roughly north-south. Labels identify (from top to bottom on the left ridge): Haystacks, Great Gable, Kirk Fell. To the right is a separate ridge/valley labelled Whatdale Head (could be Wasdale Head). Scafell is labelled faintly at the top right. The diagonal caption 'Wast Water, deepest lake in England, facing east' appears on the left margin (carried over from left page). A lower caption reads 'These 3 hills symbol of Lake District', referring to the three main fell outlines depicted.",
+     "text": "calculate the cost of 2 half-pints of beer.\nWed      The campsite smells beautiful of damp vegetation + cows.  __Hollin Farm__ 09467-23253  We walked up early to see the [?16c] corn mill but it wasn't open until 11.  The terminus of the Ravenglass/Eskdale railway is at Boot.\n\n[hand-drawn route sketch/map of Lake District fells, with labels:]\nScafell [label top right, faint]\nHaystacks [label top left of map]\nGreat Gable [label middle left]\nWhatdale Head [label middle]\nKirkFell [label lower left]\n\n[caption rotated diagonally, lower left:] Wast Water, deepest lake in England, facing east\n[caption lower:] These 3 hills symbol of Lake District"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0148",
+   "pages": [
+    {
+     "page_id": "A_0148_L",
+     "no": null,
+     "dates": [
+      "WEDNESDAY 3 MAY 1995"
+     ],
+     "headings": [
+      "WHITE MOSS HOUSE"
+     ],
+     "places": [
+      "Rydal Water",
+      "Grasmere",
+      "Bonchester"
+     ],
+     "text": "WHITE MOSS HOUSE\n\nRydal Water\nTel. Grasmere 35295\n\nWEDNESDAY 3 MAY 1995\n\nCarrot, coriander, lentil and orange soup\n****\nA bombe of brill with a centre of Bonchester Brie wrapped in smoked salmon\nSorrel and watercress sauce\n****\nRack of Westmorland Herdwick spring lamb roasted with a herb crust of parsley, sage, rosemary and thyme (served pink unless otherwise requested)\nRecurrant, mint and merlot sauce\nPotato splits\nAubergines cooked with sesame oil and three peppers\nSteamed cauliflower\nStir fried fine green beans\n****\nSticky chocolate hazelnut cream slice\nCabinet pudding with fluffy lemon sauce (a hot, light steamed lemon pudding coated in raisins)"
+    },
+    {
+     "page_id": "A_0148_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "White Moss"
+     ],
+     "text": "Sticky chocolate hazelnut cream slice\nCabinet pudding with fluffy lemon sauce (a hot, light steamed lemon pudding coated in raisins)\nBanana ice cream\n****\nBritish cheeses with White Moss oat biscuits\n***\nCoffee\n\nMay we suggest a glass of Brown Brothers' Orange Muscat and Flora 19[illegible] with your dessert? £3.50\n\nTo avoid discomfort to others, guests are requested not to smoke in the dining room"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0149",
+   "pages": [
+    {
+     "page_id": "A_0149_L",
+     "no": null,
+     "blank": true,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": ""
+    },
+    {
+     "page_id": "A_0149_R",
+     "no": 62,
+     "dates": [
+      "Thu May 4th."
+     ],
+     "headings": [
+      "Thu May 4th."
+     ],
+     "places": [
+      "Wast Water",
+      "St. Olaf's",
+      "White Moss Inn",
+      "South Wray Castle Farm",
+      "Dove Cottage",
+      "Grasmere",
+      "Ravenglass",
+      "Wast Water",
+      "Scafell Pike",
+      "Cliffe",
+      "Coniston",
+      "Hawkshead",
+      "Ulverston",
+      "Grasmere",
+      "Ambleside",
+      "Rydal Water",
+      "Troutbeck",
+      "Kendal",
+      "Barrow"
+     ],
+     "sketch": true,
+     "sketch_desc": "A hand-drawn map of the Lake District in the lower half of the page. Places labelled include (reading roughly left to right and top to bottom): Ravenglass (bottom left), Wast Water (left, with a lake shape), Scafell Pike (centre-left, marked with a triangle symbol), Cliffe (centre-left, also marked with a triangle), Coniston (centre, with a small lake shape), Hawkshead (centre), Ulverston (centre-right), Grasmere (top centre), Ambleside (top centre), Rydal Water (top centre-right), [?Troutbeck] (top right area), Kendal (right), Barrow (bottom centre). Coastline is sketched along the left and bottom edges. Small circles mark lakes/tarns. The map has no explicit arrows but the spatial arrangement suggests a Lake District area overview.",
+     "text": "We drove up to Wast Water & walked in the village, seeing St. Olaf's tiny church where climbers are buried & drystode walls of the farm. Some lush farm lands to the south of Wast Water. ~~For supper we went~~ We drove back via the coast road. For supper we went to the White Moss Inn - a truely delicious meal. We camped at __South Wray Castle Farm__ * * * * an amazing camp site with a meandering stream, bog & field - Was the stream for the Castle children to play on?\n\n    __Thu May 4th.__ We drove to Dove Cottage at Grasmere, coming in on a very steep road, 25% of 1 in 4 above the white Moss Inn."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0150",
+   "pages": [
+    {
+     "page_id": "A_0150_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Dove Cottage",
+      "Troutbeck",
+      "Townend"
+     ],
+     "text": "The cottage + museum were very interesting with well-informed guides. The Dove Cottage had been a pub - the Dove + Olive. The Wordsworths - William, Mary + Dorothy + Mary's sister, Anne, finally moved out because there wasn't enough room. Coleridge visited + fell in love with Anne, inspite of being married himself, which Wordsworth regarded as an \"inconvenience.\" They lived at Dove Cottage from 1799-1808 + Wordsworth wrote most of his best poetry while living there. We looked around the church. + at the Wordsworth graves + the tourist shops + then drove off into the countryside to have lunch in the van near Troutbeck.\n    We visited Townend, __Troutbeck__, for 400 years home of the Browne family. George Brown d.1914, + his 3rd daughter died 1943. It has been a NT house since 1947. There is amazing carved oak furniture in all the rooms - clocks, beds, wainscoats, bookcases. Troutbeck is a very pretty village - groups of houses. At 4.30 we set off for home."
+    },
+    {
+     "page_id": "A_0150_R",
+     "no": 25,
+     "dates": [
+      "Saturday May 27th"
+     ],
+     "headings": [
+      "Saturday May 27th"
+     ],
+     "places": [
+      "Jonathan's",
+      "Dove Cottage",
+      "Grasmere",
+      "Bewdley",
+      "Upper Cantref Farm"
+     ],
+     "text": "We had supper at Jonathan's on the way - broccoli, cheddar, Stilton, Butterscotch icecream + vanilla sauce.\n    Wordsworth was left £900 by a friend whom he nursed while he died of consumption. Wordsworth invested the money, to receive £80 p.a., of which £8 pa was paid in rent for Dove Cottage. The Grasmere vicar earned £40 pa at this time.\n\nSaturday May 27th\n    We left, the 7 of us at 8.20, at 9.0 we stopped for breakfast on Bewdley by-pass. It's advertised as a car park for the Worcs. Way. We drove on along roads, not motorways, through very heavy traffic + only arrived at __Upper Cantref Farm__ at 12.00. The boys played cricket. Peter + [?Thomas] rode in the afternoon. It started raining just as William + Simon finished putting up the tents. Simon + Eve + John walked down to [the village] [?Llangynach]. It is extraordinarily windy + [Simon]"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0151",
+   "pages": [
+    {
+     "page_id": "A_0151_L",
+     "no": null,
+     "dates": [
+      "Sunday 28th May"
+     ],
+     "headings": [
+      "Sunday 28th May",
+      "Monday"
+     ],
+     "places": [],
+     "text": "kept sitting up in bed to check the tents. John slept in the cab + Charles slept on the top bunk for the first time. John + Charles are the same age that William + Peter were when first we started camping.\n__Sunday 28th May__\n\tAt 9.30 John + Charles rode around the ring on leading reins led by the rest of us. John started learning to post to the trot.\n\tAt 10.30. Thomas, William + Peter set off on a day trip. It didn't stop raining. At 2.40. they came back without having stopped for a picnic lunch.\n\tEve, John + Charles went off to Evensong + Thomas + William had a fight in the gangway + broke William's glasses.\n\tThere was a sexton, his wife + the vicar + we sang hymns unaccompanied.\n\tAfter tea the sun came out, we tried to dry the clothes + played cricket.\n\tJohn + Charles had baths in the shower [illegible]. Peter + Eve showered.\n__Monday__ Thomas + [William crossed out]Peter [?William written above] showered in the morning. It's still raining a lot. There are ewes lambing in this field. The farmer woman comes to visit them every few hours. Before lunch one"
+    },
+    {
+     "page_id": "A_0151_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Brecon",
+      "Llanfrynach",
+      "Cantref",
+      "Roman Bathhouse"
+     ],
+     "text": "of the ewes had one lamb, + after lunch there were two.\tJohn + Charles went on horseback in the ring [?with a leading rein].\n\tThomas + Peter set off on a day ride with Jean, the head horse woman (really a local school teacher) William, John, Charles, [?Junior] + Eve set off to Brecon. We stopped at the White Swan __Llanfrynach__, to book a meal of 7 at 7.. At Brecon we telephoned Joan Clarke, cancelling the barbeque + inviting ourselves to tea tomorrow. We bought good-quality waterproofs for T, W, P. We bought charcoal, bread + milk. We should have brought one loaf per day, + we had forgotten the tinned milk. On the way back to Cantref we stopped in the road to look at the Blackham's house.\n\tHaving started lunch outside, we moved the table into the tent as it started to shower. In the afternoon the boys played cricket with Simon + Charles + Eve collected sheep pooh.\n\tAt 6.15 we set off to walk the 1½ miles to the restaurant. We got there early, + followed a sort of mill-race back through a park towards [to] a Roman Bathhouse.\n\tSupper was delicious - onion soup, Welsh lamb chops + caramel cream. We staggered home."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0152",
+   "pages": [
+    {
+     "page_id": "A_0152_L",
+     "no": null,
+     "dates": [
+      "Tuesday 30th May"
+     ],
+     "headings": [],
+     "places": [
+      "Malvern"
+     ],
+     "text": "Tuesday 30th May\n\tNo rain so far this morning. John wanders up to look at the horses. He loves the dogs & cats. There is a dog, corgi, called Holly. All 7 of us are setting out on a ride at 10.30.\n\tThe ride was marvellous. There were 11 of us altogether. We went along trails & narrow stream beds & hillsides. Twice one of the guides went ahead with John, Charles & Simon & the rest of us held back for a canter. John has already learnt to rise to the trot & Charles bounces about like a relaxed pea. There were lovely views & it didn't rain.\n\tUnfortunately William fell off onto his nose on the last canter. (Superman fell off the day before & broke his neck).\n\tWe had lunch, packed up & drove off to have tea with Joan Clarke. Then we went on for fish & chips at Malvern & dropped Thomas. We got home, showered the children & Eve was in the bath when John W & Hannah & 3 boys arrived!\n\tInspite of the rain, it was a super half-term camping trip. (& 200 for camping & riding)"
+    },
+    {
+     "page_id": "A_0152_R",
+     "no": 85,
+     "dates": [
+      "Sunday June 18",
+      "Saturday 24th June",
+      "June 14th"
+     ],
+     "headings": [
+      "Sunday June 18",
+      "Saturday 24th June"
+     ],
+     "places": [
+      "Middleton Hall",
+      "Northamptonshire",
+      "Nasby",
+      "Leicester",
+      "Belton-in-Rutland"
+     ],
+     "text": "Sunday June 18\n\t__Simon, Eve, Thomas, William, John + Charles went to Middleton Hall for Mary Cohen's afternoon concert.__ Peter cathedralled & lunched at Susan & Simon Smith's. William watched rugger on TV in the van. Thomas played his violin. Charles, Simon & Eve listened to all the concert. Mark Hick joined William. It was a lovely sunny afternoon. We had a picnic lunch.\n\nSaturday 24th June\n\t__We left at 9.05 for Northamptonshire.__ Simon, Eve, Karoleia, William, Peter, John, Charles. We had coffee on the way at __Nasby__. Fairfax & Ireton won the battle against Prince Rupert. Dead Bodies lay all the way to Leicester. The 350th anniversary was on June 14th. It happened 1645.\n\tIt is most disappointing that it is raining slightly & not very warm.\n\tWe arrived at __Belton-in-Rutland__ *** at 11.45. There is a pretty farm house with horses & portabloos. About 15 caravans."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0153",
+   "pages": [
+    {
+     "page_id": "A_0153_L",
+     "no": null,
+     "dates": [
+      "Sunday June 25th"
+     ],
+     "headings": [],
+     "places": [
+      "Rutland Water"
+     ],
+     "text": "John & Charles play on the see-saw & rope ladder.\n    We had lunch inside, because it is horribly damp, windy & cold, & then walked up to look at the church. The Gough family gave a window to St. George. There is a face with donkey ears, sticking its tongue out in the piscina. The font is 13 or 14.\n    We continued on 1½ miles around the village & countryside. 5 horses stood around Eve in a field. Simon carried Charles over the nettles. Peter felt ill & William listened to rugger on the radio so they both stayed behind at the van. We had played cricket when we got back. Most people had left the campsite to cycle around Rutland Water.\n    In the evening we had a barbeque - lamb chops, sausages, & veg & beef kebabs.\n    __Sunday June 25th__\n    Church at 9.0. Carefully modulated tones. Returned to wash up, elevenses, & put away tents."
+    },
+    {
+     "page_id": "A_0153_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Upper [?Cautres]",
+      "Uppingham"
+     ],
+     "captions": [
+      "Sunny supper at Upper [?Cautres] after a very wet days' riding"
+     ],
+     "text": "John wailing over writing a butterfly poem.\n[photo caption, rotated left margin:] Sunny supper at Upper [?Cautres] after a very wet days' riding\n    After failing to get lunch at a village pub, we ate at a coaching inn in Uppingham & returned home in the sun."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0154",
+   "pages": [
+    {
+     "page_id": "A_0154_L",
+     "no": null,
+     "dates": [
+      "Sunday July 2nd.",
+      "11am Tuesday July 25th"
+     ],
+     "headings": [
+      "Sunday July 2nd.",
+      "11am Tuesday July 25th"
+     ],
+     "places": [
+      "Malvern common",
+      "Spain",
+      "Venetia",
+      "Southampton",
+      "Colorado",
+      "Alaska",
+      "Castro Urdiales"
+     ],
+     "text": "Sunday July 2nd.\n      Simon & Eve took supper over to __Malvern common__ for Jim, Margaret, & Helen & Reg Farrer. Thomas came running up late. Thomas played Mozart Rondo in C in Big School. Mary Cohen & Jim & Margaret & Helen & Mary came back for a cup of tea & cashew nuts after the concert.\n\n11am Tuesday July 25th\n      Simon, Eve, Thomas, Peter, John & Charles set off for Spain via Venetia & Southampton. (William in Colorado & Alaska). See map near index.\n      We had tea at Venetia's, seeing Olivia, George, Tilla & Archie. Laura & Jack left Cordelia & Helena to play. We had a lovely tea in the hot sun. But V has just been burgled, the guinea pig has died, the puppy stolen & they've building a horrible commerical shed in the next-door field. The new cottage next door is being done up, with the fellowes painting it.\n      The ferry left at 8 pm & got in at 7am on Thu. It was rather sickening.\n      We motored to __Castro Urdiales__. We walked up to the church which had"
+    },
+    {
+     "page_id": "A_0154_R",
+     "no": null,
+     "dates": [
+      "Friday 28th July"
+     ],
+     "headings": [
+      "Friday 28th July"
+     ],
+     "places": [
+      "Castro Urdiales",
+      "Mogro",
+      "Santillana de Mar",
+      "Spain",
+      "Cadiz"
+     ],
+     "text": "an interesting frieze of sculptures around the top. The town had lovely balconies & a market where we bought food. John & Charles went in the playground. Thomas bought Cadbury's sweets when we had coffee.\n      We had lunch & swam at Mogro. The tide was coming in & covering up John's & Charles' holes in the sand. Peter had a lilo. The current was strong.\n      We drove on to a campsite __Santillana de Mar__. The view is of a grassy hillside. There is a pool & restaurant & playground & lots of Brits in Key Camps. In the evening Simon & Eve walked past a field with cows in down to the \"prettiest village in Spain.\" The courtiers from Cadiz built stone houses there, now lived in by farmers. It is beautiful in all directions. (St. Juliane = Santillana)\n\nFriday 28th July\n      We rigged up shade & Eve washed clothes in the machine.\n\n      We swam, had lunch, napped, swam, had icecream, a cup of tea, and at 5.30. pm. set off down the hill for"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0155",
+   "pages": [
+    {
+     "page_id": "A_0155_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "captions": [
+      "St. Juliana taking the demon captive."
+     ],
+     "text": "the village. It is glorious. We went to the diocesan museum, which has one of the most beautiful cloisters I have ever seen. The collegiate church has wonderful Romanesque late [12] carvings.\n\n[photo of stone relief carving]\n\nSt. Juliana taking the demon captive."
+    },
+    {
+     "page_id": "A_0155_R",
+     "no": 68,
+     "dates": [
+      "Saturday 29th July"
+     ],
+     "headings": [
+      "Saturday 29th July"
+     ],
+     "places": [
+      "Santillana del Mar",
+      "Cantabria",
+      "Altimira Caves",
+      "San Vincente de Barche"
+     ],
+     "text": "A good hotel to stay in would be Paradores, Playa Ramon Pelayo 8, 39330 Santillana del Mar, Cantabria. 942-81-80-00. First or 2nd floor\nFax 942, 81-83-91.\n\nThere are 4 apostles + a Panto Creator too.\n\nJohn bought a penknife + we nearly bought a goatskin. We had a delicious supper with white bean soup with a few blobs of sausage, + a pudding of semolina + honey cake.\n\nThere are also the Altimira Caves near by, but we have not gone to them.\n\n__Saturday 29th July__\n\nAfter early sun, a mist surrounded the campsite. We left early in the damp + drove westward, stopping to shop at San Vincente de Barche, where Peter bought a pen knife + we tasted cheeses + sausage at the market. The town was built on a good defensive position on 2 estuaries. We had lunch inland, + found a good swimming river for the boys to try out 2 rubber boats which we [?just] bought."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0156",
+   "pages": [
+    {
+     "page_id": "A_0156_L",
+     "no": null,
+     "dates": [
+      "Sunday"
+     ],
+     "headings": [
+      "Sunday"
+     ],
+     "places": [
+      "Cova Donga",
+      "Fabada"
+     ],
+     "text": "Peter + John fought Thomas in the boats. Charles fell out of the boat, reaching for the paddle + swam to the edge.\n\tWe ended up in a squalid campsite for the night __Cova Donga__ *. Dirty. Loo paper around. People leaving early in the night for work. We had a super super at Restaurant __Fabada__ where we had a friendly waiter. Peter + Thomas ate enormous amounts! Nice, clean.\n\t__Sunday__\n\tWe went up to Cova Donga. It was ghastly. People had given lovely jewelry, named + dated + the Church had locked it up in glass cases. A chieftain, Pelayo, had beaten the Moors for the first time in 722. A Visigoth descendant, he united Spain to drive the Moors out. He is celebrated as a sort of King Arthur/Alfred. The monuments + chapels were built 1880. + stirred up nationalism. The church was firmly shut for the service, + Simon was wearing shorts, so we didn't attempt to go. It's enough to make you turn Quaker. Spaniards rather cold.\n\tWe went to the zoo afterwards, which was good in parts, but had 4 unhappy pacing brown grizzly bears. Apparently they are wild on the mountains.\n\tWe ran out of wine, + opened a"
+    },
+    {
+     "page_id": "A_0156_R",
+     "no": 69,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "captions": [
+      "Peter + John,        Thomas + Charles in boats."
+     ],
+     "text": "Peter + John,\t\tThomas + Charles in boats."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0157",
+   "pages": [
+    {
+     "page_id": "A_0157_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Picos",
+      "Ponton",
+      "River Sella",
+      "Ponton Pass",
+      "Riano"
+     ],
+     "sketch": true,
+     "sketch_desc": "Hand-drawn mountain profile/skyline sketch at the top of the page, showing the view looking East across the Picos after crossing the pass at Ponton. Shows a rough outline of mountain ridges with vertical lines suggesting cliffs or slopes on the left.",
+     "captions": [
+      "looking East across the Picos after crossing the pass at Ponton"
+     ],
+     "text": "looking East across the Picos after\ncrossing the pass at Ponton\n\nbottle with a bear + honey on for lunch.\nIt turned out to be brandy. By the time Eve\nhad drunk Charles's + Thomas's + her own, she\nwas in a much better mood. We had lunch\nby grassy meadowland + apple trees near a\nsalmon river.\n\tWe drove on up River Sella, a gorgeous\ngorge, with the peaks partly in cloud. We\ncrossed over at Ponton Pass, 1280 m. low on\npetrol.\n\tIn the north it was green + they grew\nmaize. There were cows near the pass. Once\nover the pass the scenery is yellower with\nMed Scrub.\n\tWe stopped to have tea at Riano which is on\na mega lake, a small marina + modern houses"
+    },
+    {
+     "page_id": "A_0157_R",
+     "no": 70,
+     "dates": [
+      "Monday 31st July"
+     ],
+     "headings": [
+      "__Esla__"
+     ],
+     "places": [
+      "Picos",
+      "Mansillas Los Mulas",
+      "Esla",
+      "Leon",
+      "Beauvais"
+     ],
+     "text": "red tiled roof\nhooks for onions\ndoor to store maize\nhanging [?EP]\nwood beams\nstilts with mushroom\nbaffles\nsteps\n\nAnti-rat house. horreos.\nnorth of Picos. For storing crops\n\n\tWe drive on along a flat valley,\nvery hot with the sun in our eyes. Most\nvillages have a stork's nest on the church. * *\nOn to Mansillas Los Mulas + camp at __Esla__\nsmall, pretty clean. They are building tennis courts.\n\tMonday 31st July\t[?Irrigation from the lakes/dams make]\n\t\t\t\t[?the first part of the plain fertile.]\n\tWe bought coffee at the Bar, on the\ncampsite, because we've run out of\ncoffee. We reached Leon, which we liked.\nUntil the beginning of this century, the pop.\nwas 30,000. Now it is [strikethrough: 100,] 130,000, so there is\na band of modern flats around the old town.\nThe cathedral dominates cf Beauvais, but many\nflying buttresses, so it didn't fall down.\nGrills around monuments - Charles's question to\nme \"Mummy, why don't they let you see\nJesus?\"\n3 storks' nests on cathedral."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0158",
+   "pages": [
+    {
+     "page_id": "A_0158_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": "3 times on the predella space under a [promi-] bishop I saw a woman distributing bread to 3 beggars/cripples.\n\n[hand-drawn stick figure sketches of figures]\n\nbut goodness knows what the story was.\n\n  Eve went to the museum for an hour + saw carvings, particularly mother-+-child with similar family features, from the surrounding parish churches __XII__ carved from logs of wood. I hope the churches have good copies. Simon looked after the boys.\n\n  At 1.15. we had lunch in a café bar – very friendly, Paella, potato omlette, cream caramel + rough wine which the Romans must have [lo-] drunk. Charles got the mopes. Becau[se] he didn't get the opportunity to choose his own food."
+    },
+    {
+     "page_id": "A_0158_R",
+     "no": null,
+     "dates": [
+      "Tuesday Aug 1st."
+     ],
+     "headings": [
+      "S. Martin"
+     ],
+     "places": [
+      "Val de Verda",
+      "S. Martin"
+     ],
+     "text": "We stopped in a pine wood something [illegible] of incense for tea, it was too hot, + then found a supermarket. Simon shopped with the children + packed the van for 1½ hours.\n\n  We had great trouble finding the campsite, not at Val de Verda as marke[d] but at the village beyond. __S. Martin__ *****\n\n  It is lovely: very pretty, with the opportunity to camp in the woods in the dark, or clustered around the shower blocks. Everyone, except Simon, swam in the river with the new dinghy before supper at 9.30.\n\n  Tuesday Aug 1st.\n  Clear skies, followed by cloud, followed by sun at 11.00, as we set off [down] to the river. Simon stopped a woman + her children from throwing stones off the artificial dam. Charles is making holes + channels in the \"sandy beach\". Simon + Thomas, Peter + John have disappeared off upstream in the boats.\n\n  The 4 boys played in the river morning and afternoon. We had lunch – chicken, ham[?] [illegible]"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0159",
+   "pages": [
+    {
+     "page_id": "A_0159_L",
+     "no": null,
+     "dates": [
+      "Wed 2nd Aug",
+      "Thu 3rd Aug"
+     ],
+     "headings": [
+      "Wed 2nd Aug",
+      "Thu 3rd Aug"
+     ],
+     "places": [
+      "Santiago",
+      "OCebreiro",
+      "Portmarin"
+     ],
+     "text": "eggs, ice creams, in the camp restaurant. In the evening we walked in the village. Old slates on the roof, balconies. The exterior of the church being pointed, steps up to the bells + a wobbly balcony. Pretty, lush fields up to the road, irrigation ditches, maize, tomatoes, peppers, melons, gladioli. Several new houses being built, as a result of the new motorway?\n\n__Wed 2nd Aug__\n\tWe got up late. Again the boys play with boats in the river. Simon + Thomas had a grand fight. Charles got frightened in the boat + swam to the shore. We had lunch at the camp restaurant again, + went back to the river afterwards. The camp laundry service washed the towels + clothes (but did not dry) in their machine for 675 ptas. The boys watched a bull fight on T.V. At 9.40. Thomas + Eve went into the village to sketch. Just as we had finished drawing the church, stork arrived, so we went back to draw them too.\n\n__Thu 3rd Aug__\n\tWe set off to [struck: Santiag] Santiago, visiting 2 churches on the way. We saw OCebreiro and Portmarin. OCebreiro is high up, with lovely views of hills, on the Pilgrimage route. The houses in the hamlet are old. Some of the thatched rooves with plaited ropes over them are this shape [sketch]. One had a museum showing a living room/hall, bedroom + kitchen. The church was"
+    },
+    {
+     "page_id": "A_0159_R",
+     "no": 72,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Villamartin"
+     ],
+     "captions": [
+      "church with stork's nest  Villamartin"
+     ],
+     "text": "church with stork's nest  Villamartin"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0160",
+   "pages": [
+    {
+     "page_id": "A_0160_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Santiago de Compostella"
+     ],
+     "captions": [
+      "Santiago de Compostella"
+     ],
+     "text": "[photo of stone carving of angel with horn]\n\nSantiago de Compostella"
+    },
+    {
+     "page_id": "A_0160_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "St. Rocca",
+      "Portomarin",
+      "Compostella",
+      "As cancelas",
+      "Spain"
+     ],
+     "text": "lovely with their shape in the stones supporting the roof beams. St. Rocca appears often along the trail. In this chapel there were hundreds of flowers.\n\nLater we visited Portomarin. The valley was flooded for controlling water for irrigation, + the church was brought up, stone by stone, to a higher village. The stones still had numbers on. The archit. + carving were again beautiful Romanesque.\n\nWe reached __Compostella__ + camped as __As cancelas__ ***, at 7.0.. The rain is falling, so we have not put up the tent. We set off on the bus for the city centre. The cathedral is [?wonderful]. The first place in Spain that the church seems user-friendly. [?Mass] is being celebrated, + tourists swarm all around, admiring, gawping, eating crepes, achieving their goal. Many people praying. Many walk up behind the altar to kiss the"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0161",
+   "pages": [
+    {
+     "page_id": "A_0161_L",
+     "no": null,
+     "dates": [
+      "Friday 4th Aug"
+     ],
+     "headings": [
+      "Friday 4th Aug"
+     ],
+     "places": [
+      "St. lago",
+      "Nottingham",
+      "St. Maria del Mar"
+     ],
+     "text": "statue, & down into the crypt to see the silver caskett with St. lago's bones. Glorious Romanesque architecture & a golden baldachino. The sculptures are beautiful too.\n      We had an enormous Paella Supper with all sorts of sea food. Then back to the van.\n   We passed many walkers, pilgrims, on the way here.\n   __Friday 4th Aug__\n      At 10.30. We went of again on the bus & saw the cathedral. Eve saw sculpture & the cloister & museum. There are 5 alabasters from Nottingham. We had lunch in the street, looked at the cathedral again, bought mouth organs for T, P, J + C & walked to St. Maria del Mar, an amazing church with pillars leaning out wards & tremendous buttresses. There was a pretty cloister too, and a playground."
+    },
+    {
+     "page_id": "A_0161_R",
+     "no": 14,
+     "dates": [
+      "Saturday 5th August"
+     ],
+     "headings": [
+      "Saturday 5th August"
+     ],
+     "places": [
+      "Santiago",
+      "Leis",
+      "Ria Caminares"
+     ],
+     "text": "We caught a bus back to the van & had Santiago cake for supper.\n[musical notation drawn here]\n\n__Saturday 5th August__\n   We packed up & left in cloud & drove w.S.w. through hills to the coast. We passed many oblong horreros. The peasants, on the whole, seem poor. They use scythes & barrows for collecting hay: oxen pull wagons, occasionally more often very old tractor. Beautiful stone buildings. We gave a lift to 4 swimmers/surfers heading for the coast. We had a delicious lunch - 2 crabs among 3 of us, followed by Beeffor 6 [?] O Altrovido at Paesta, recommended by \"Backroads of Spain.\" We drove through many eucalyptus plantations & maize.\n   We arrived at __Leis__ on the bay above the Ria Caminares. The town is across the bay. At 5 we went down through the pine woods for a swim. There are a few bungalows here, & a playground. A beautiful site for ou[r]"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0162",
+   "pages": [
+    {
+     "page_id": "A_0162_L",
+     "no": null,
+     "dates": [
+      "Sunday"
+     ],
+     "headings": [
+      "Sunday"
+     ],
+     "places": [
+      "Muros"
+     ],
+     "text": "van with a view of the setting sun across the bay. There were 2 life guards in orange patrolling the beach on foot, + an inflatable motor boat with 4 more life guards patrolled the bay. Thomas + Peter practised Baywatch drill, falling out of the boat by the beach. Heaven help their victims. Charles help Eve collected seaweed for the allotment. John + Charles built sand castles on the beach. It is lovely, + not too crowded.\n\tSimon prepared food. The Spanish seem to have lunch at about 2.30. + supper at 10.\n\n__Sunday__\n\tWe swam + set off at 1.0. high at 2.45. We are going south along the coast. One village with ugly smokey factory chimneys. All the other villages very pretty small campings, small beaches + fishing villages. Rafts, 60 of them in one bay, probably with ropes hanging down for muscles to breed on. Muros would be the most interesting old village to stay in.\n\tWe stopped for lunch by the sea"
+    },
+    {
+     "page_id": "A_0162_R",
+     "no": 15,
+     "dates": [
+      "Sunday"
+     ],
+     "headings": [],
+     "places": [
+      "Portugal",
+      "Vigo",
+      "Braga"
+     ],
+     "text": "horreos\n\nBy tea time at 5.30., we had turned inland. Maize grown everywhere. Almost every old farm house has its horreos.\n\tWe crossed into Portugal, after Eve drove a lightening tour in Vigo. We had to drive until 9.50. pm to find the only campsite around - in __Braga__ *\n\tFrom the sublime to the ridiculous. We are parked on a spare corner of ground next to a pile of road gravel. Cheek by jowl throughout the campsite, but at least no one quite next to us. The wash house like an abattoire. But a glorious view, first of the sunset across the city, then of skyscrapers sparking in dawn sun - churches, working cranes.\n\tBecause it was Sunday evening we have been unable to change [illegible]."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0163",
+   "pages": [
+    {
+     "page_id": "A_0163_L",
+     "no": null,
+     "dates": [
+      "Monday 6 April August"
+     ],
+     "headings": [],
+     "places": [
+      "Oporto",
+      "St. Francis Church"
+     ],
+     "text": "Monday 6 April August\n\t\tloud bangs & fireworks across city at midnight. Birtugese drivers have the panache of the Italians, but the roads aren't as safe.\n\t\tWe packed up & set of south for Oporto.\nChaotic map reading. We parked in the higgledy-piggledy old quarter at the top of the hill & walked down to the harbour. The houses are close together, balconies, 3 tiers of lots of family washing. Houses covered in very pretty tiles.\n\t\tWe visited St. Francis Church. Amazeing. Covered in a gold fungus. For the poor saint. A wooden sculpture of 5 Franciscans having their heads chopped off by Moors. In the museum nice lamps on lampposts with little cherubs.\n\t\tThe old harbour is pretty. Original warehouses for port brought down in pink-type boats, later by train. Sandman black man? Children jumping off the quay.\n\t\tWe had lunch in a family-run restaurant. Mama with 3 daughters in the kitchen & father with 2 sons as waiter.\n\t\tOld English port buildings solidly-built, could be in Sham.\n\t\tThe temperature is perfect in the shady streets. Lots of interesting bridges; one of cars above & cars below. A railway. And the coast motorway being"
+    },
+    {
+     "page_id": "A_0163_R",
+     "no": null,
+     "dates": [
+      "Tues 7 April August"
+     ],
+     "headings": [
+      "Castelo Mendo",
+      "Ciudad Rodrigo"
+     ],
+     "places": [
+      "R. Douro",
+      "Cinfaes",
+      "Castro Daire",
+      "Guarda",
+      "Castelo Mendo",
+      "Ciudad Rodrigo"
+     ],
+     "text": "built. We went inland, up the R. Douro, to Cinfaes, which I would like to see more of, then south east, up a tributary to the right to Castro Daire **** , a member of Orbiter camps.\nThere was a pool outside the campsite.\n\t\tWe went through country side with large boulders, & vines edging fields. Maize. Amazing view of ridges of mountains to the south. Very tiring zig zag roads. Portuguese drivers take horrendous risks.\n\t\tThe campsite smells of beautiful pines.\n\nTues 7 April August\n\t\tWe set off south towards Guarda. Large lorries carrying enormous blocks of stone. Large boulders by the side of the road.\n\t\t__Castelo Mendo__, near the old road, we stopped at. [?Magnificent] old walls. Houses clustered inside. 2 vans selling visited the village. 3 people were filling up bottles at the 2 village taps. 3 churches, 2 locked & one open – roof has fallen in. The Sacristy had 2 beds built into the wall. Hermit? Pillars & balconies on some houses. Very has-been & cut off, with old peasant women in black. But 2 young families, too. 16 large stone blocks on top of each other – height of walls. Wellington lived in a house near, for 1 year.\n\t\tWe arrived at __Ciudad Rodrigo__, & saw the cathedral with good Romanesque carvings, even a"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0164",
+   "pages": [
+    {
+     "page_id": "A_0164_L",
+     "no": null,
+     "dates": [
+      "Wed 8th August"
+     ],
+     "headings": [],
+     "places": [
+      "Aberca"
+     ],
+     "captions": [
+      "BODEGAS DUEÑAS — printed map showing LOS ARRIBES, VITIGUDINO, EL CAMPO CHARRO, CIUDAD RODRIGO, LA ALBERCA, SIERRA DE FRANCIA, las Hurdes"
+     ],
+     "text": "[Glued-in map/postcard: BODEGAS DUEÑAS — printed map showing Duero region, with labels including LOS ARRIBES, VITIGUDINO, SALAMANC[a], EL CAMPO CHARRO, CIUDAD RODRIGO, LA ALBERCA, SIERRA DE FRANCIA, las Hurdes, Portugal]\n\nSee map near inside\n\nthe foot of the columns. The square was pretty, people dancing and celebrating, we had icecream. Vanbanesque town walls. John dropped a pebble over. * * * *\n   At 7, we arrived at la [?Aberca] campsite. It had a pale turquoise swimming pool + lovely views of hills. But the campsite people seem lazy. They don't pick up litter or mend taps, or locks. We swam. We picked blackberries. There were vanilla trees, peach, sweet chestnut + oak trees.\n   The shop was shut, so we couldn't buy wine for supper, or bread. We had blackberries for supper. And then porridge oats + milk + sugar + more blackberries. It was delicious.\n   Wed 8th August\n      We decided to go on a circular tour. We"
+    },
+    {
+     "page_id": "A_0164_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Tamames",
+      "Miranda",
+      "El Gaseo",
+      "Casthuerdo",
+      "El Portillo",
+      "La Lena"
+     ],
+     "text": "shopped at [?Tamames], where there is a storks' nest + stork on the church.\n   We drove on to [?Miranda] + had a delicious lunch. John finished mine. The Gazpacho was very good. We walked around, the village, looking up side roads. Overhanging balconies where you could touch across the alleys, one supported on pillars. Little squares. We weren't sure which was the church. Escutcheons + 4 herds of goats on the walls.\n   We went on to __El Gaseo__ in [?Casthuerdo], very cut-off village. Poor people, but generous, they gave us tomatoes + pears, + all we could give them was some chocolates. The houses cling to the cliff, some are round with big, irregular slates on the roof. These now house the donkeys + chickens, + the people are in modern houses. Steep paths. The river is at the bottom. All along the river, there are runnels off to irrigate the crops in the river bends.\n   We came home up hairpin bends to a pass __El Portillo__, amazing views. Horrific drops. (We missed out \"La Lena\" the highest hill, with a monastery on the top.) We had a swim + then prawns for supper, which was a bit of a disaster because wasps swarmed in.\n   Earlier in the day, Thomas, Peter, John + Charles had done hard washing of their clothes"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0165",
+   "pages": [
+    {
+     "page_id": "A_0165_L",
+     "no": null,
+     "dates": [
+      "Thu 9th Aug"
+     ],
+     "headings": [
+      "Thu 9th Aug"
+     ],
+     "places": [
+      "Behar Hills",
+      "Sierra de Behar",
+      "Tamames",
+      "Carbajosa de la Sagrada",
+      "Salamanca"
+     ],
+     "captions": [
+      "Old Roman bridge, Salamanca"
+     ],
+     "text": "One of the trees in the campsite seemed to be carob. It was dropping brown stick drip 9. Only the tent. [?a bit]  their suction pull over [?pest] 9. fall 9 [?from] [illegible] [?brambels]. After ages S pulled him out on a rope.\n\tIn the night there was distant lightening over the Behar Hills, Sierra de Behar, + slight rain. So we brought in the washing. Besides this, a bird flew in through the open back doors of the van + pecked the washing above Eve's head. So it was not a restful night.\n\t__Thu 9th Aug__\n\t\tWe stopped for gas at Tamames, + Eve saw the church, clean + simple + cheerful inside.\n\t\tOn through cattle country. Holm oak trees dot the fields as far as you can see. Why? Large farms. Corrals for cows, mostly\n\n[wine label glued in: BODEGAS DUEÑAS / VINO DE MESA / TINTO PUENTE / EMBOTELLADO POR BODEGAS DUEÑAS, S.A. / Pol. El MONTALVO, Tlf. 27638-212980 / CARBAJOSA DE LA SAGRADA-Salamanca (España) / 73 cl. / GRADO ALCOHOLICO 13% Vol. / R.E.N.º 2906·SA · R.S.N.º 30166/SA]\n\nOld Roman bridge, Salamanca."
+    },
+    {
+     "page_id": "A_0165_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Salamanca",
+      "Roman Bridge",
+      "San Ricardo"
+     ],
+     "text": "[sketch of oak tree: Oak tree carefully pruned - large branches spread out.]\n[sketch of tall tree with label: caro tree?]\n\n\tWe parked outside __Salamanca__ + walked in across the Roman Bridge. Charles watched for lizards. storks, rooks + storks\n\tWe looked around the old cathedral. Scaley roof. Romanesque carvings + old wall-paintings; cloister. We had the best meal of the trip at __San Ricardo__, inside pink granite portals. Even good puddings. I had spinache, egg & prawn + caramel custard. And some of this bottle of wine. We saw the square. A good city.\n\tEve took Peter, John + Charles back to the van, so that Simon + Thomas could [illegible] + shop. A storm was coming. Eve thought it wouldn't rain. Simon + Thomas came running + then the heavens opened. We sat in a [?cageby] [illegible] twice.\n\tOn eastward. The countryside grows wheat + some sunflowers. Richer. Modern farm machinery [illegible] for the first time. Villages use brick"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0166",
+   "pages": [
+    {
+     "page_id": "A_0166_L",
+     "no": null,
+     "dates": [
+      "Friday 10th Aug"
+     ],
+     "headings": [],
+     "places": [
+      "Tordesillas",
+      "Valladolid",
+      "El Astral",
+      "Lerma",
+      "Covar Rubias",
+      "San Domingo de Silos"
+     ],
+     "text": "We stopped at El Astral at Tordesillas nr to Valladolid The storm came close so the boys weren't allowed to swim at first. Then we all swam, except Simon, who wasn't feeling & very well after all yesterday's fruit & gas pacho. [marginalia: bisomething of] (campersham to h. Auvero again like [?Portugal])\nSo [marginalia: Friday 10th Aug] [marginalia: breakfast something] we left at 10.35. Simon's better.\nThe loos don't seem as clean as France. Dirty water left around in mop buckets (not at El Astral).\nch Broken things. Men don't mind. Broken brackets & screws on children's playgrounds. 2 out of 3 lav. do locks broken. Shower taps fall off. Home-made or badly designed shower cubicles. Not enough hooks.\nA We stopped for lunch, + quickly moved on because of 8 wasps arriving in 2 minutes. We next stopped in a field of poplars near Lerma. Fewer wasps.\nA disappointing afternoon. 2 church visits, + we couldn't get in. The first, 3.15 Covar Rubias, was a church which was shut until 4.30. The village was pretty, a __monastery__ is there, but we drove on.\nThe second had a plain church which we saw, + a beautiful cloister, but the queue was too long. San Domingo de Silos, a"
+    },
+    {
+     "page_id": "A_0166_R",
+     "no": 79,
+     "dates": [
+      "Sat 11th Aug",
+      "Sun 12th Aug"
+     ],
+     "headings": [
+      "Sat 11th Aug",
+      "Sun 12th Aug"
+     ],
+     "places": [
+      "El Frontal",
+      "Abegar",
+      "Molinos",
+      "Vinuesa"
+     ],
+     "text": "monastery is still there.\nWe carried on to El Frontal [?++++] at Abegar. Expensive, a lovely clover-shaped swimming pool + a [strikethrough: con] canopy of pines. Mini football. There is a lake, but we haven't been there.\nSat 11th Aug\nWe have spent a lazy day at the pool. Very pleasant. OK. lunch in camp restaurant, but horrible rock music.\nSimon cooked delicious tom. + egg fry-up for supper, + next door campers blared out more rock music at full volume until Simon + Thomas asked them to switch it off. Nice not having any dau.\nSun 12th Aug\nWe left at 10.30. Bought petrol. As we got to Molinos to go to church, everyone was filing out. It was an upstairs room. Too bad, it looked merry with lots of children. On to Vinuesa, a nice church, candlelit. Balconies in the village. Boys playing tennis on half a court + wall. Wash house, long + low, with river, mill-race, flowing through. Stones for women to kneel + rub clothes. Paddock at the back. We went over a very high pass, [?5] 1 nes. On to where there was a good restaurant, lot"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0167",
+   "pages": [
+    {
+     "page_id": "A_0167_L",
+     "no": null,
+     "dates": [
+      "Mon 13th",
+      "Tues 14th 1995"
+     ],
+     "headings": [],
+     "places": [
+      "Spain",
+      "Najera",
+      "Rioja",
+      "Bilbao",
+      "Portsmouth",
+      "Birmingham"
+     ],
+     "text": "For May half-term need woolly hats, barbeque, meat, charcoal, a loaf a day, tinned milk, loo paper\nat 2.30. it was full. So we drove on looking for a place to make out our own lunch in the shade, but the gorge was so steep we didn't find one. Finally we found a restaurant + had lunch at 3.30.\n\t\tWe've stopped in our last campsite in Spain. It is very clean + has a municipal pool nearby. __Najera__\t\t**** We swam + Thomas + Ster rowed, so we are not looking around the town. The best campsite we've been in this holiday - We are in a circular courtyard.\n\t\tAfter supper we went out for a walk + joined the promenaders. Festive crowds in the town, John + Charles + I joined in some dancing.\n\tMon 13th\n\tWe got up at 8 + left at 9.45. Through terraced Rioja country. Unfortunately it rained + wet the tent. We reached Bilbao in time. There were long queues on the quai.\n\t__Tues 14th 1995__\n\t\tWe set off from Portsmouth for Birmingham at 4.40. pm."
+    },
+    {
+     "page_id": "A_0167_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Vézelay"
+     ],
+     "captions": [
+      "[?Sennit] 523-6668 [?compositor]"
+     ],
+     "text": "[Glued-in black-and-white photograph of a Romanesque tympanum, likely from __Vézelay__ basilica]\n[?Sennit] 523-6668\n[?compositor]\n__Vézelay__"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0168",
+   "pages": [
+    {
+     "page_id": "A_0168_L",
+     "no": null,
+     "dates": [
+      "August 31st 1995"
+     ],
+     "headings": [
+      "Log 3"
+     ],
+     "places": [
+      "Edgbaston",
+      "Birmingham",
+      "Borgund"
+     ],
+     "captions": [
+      "BORGUND STAVKYRKJE / FORENINGEN / TIL NORSKE FORTIDSMINNES- / MERKERS BEVARING / Kr. 100,- / 2880"
+     ],
+     "text": "Kirby  86 Westfield Rd, Edgbaston Birmingham B1533[?b]\nAugust 31st 1995\n\nLog 3\n\n[glued-in ticket: BORGUND STAVKYRKJE / FORENINGEN / TIL NORSKE FORTIDSMINNES- / MERKERS BEVARING / Kr. 100,- / 2880]\n£1 = NK12"
+    },
+    {
+     "page_id": "A_0168_R",
+     "no": null,
+     "dates": [
+      "1995",
+      "1996",
+      "1997",
+      "1998"
+     ],
+     "headings": [],
+     "places": [
+      "Bromyard",
+      "Farnham",
+      "Hartley Wintney",
+      "London",
+      "Beauchamps",
+      "Gloucester",
+      "Calver Mill",
+      "Peaks",
+      "Chatsworth",
+      "Farnborough Hall",
+      "Stratford",
+      "Mersea",
+      "Colchester",
+      "Doncaster",
+      "Thorpeness",
+      "Anglesey",
+      "Dun Laoghaire",
+      "Glendalough",
+      "Kildare",
+      "Kilkenny",
+      "Rock of Cashel",
+      "Micheltown",
+      "Dingle",
+      "Gallarus",
+      "Dunquin",
+      "Great Blasket",
+      "Camp",
+      "Lahinch",
+      "Moher",
+      "Millvee",
+      "Burren",
+      "Leamaneh",
+      "Ennis",
+      "Clonmacnoise",
+      "Lough Ree",
+      "Grandard",
+      "Killyleagh",
+      "Seaforde",
+      "Portaferry",
+      "Stanford Bridge",
+      "Ypres",
+      "Kortrijk",
+      "Oudenaarde",
+      "Gent",
+      "Broadlembury",
+      "Forest of Dean",
+      "Bristol",
+      "Derbyshire",
+      "Calke Abbey",
+      "Dinas",
+      "Rhinog",
+      "Harlech",
+      "Clent",
+      "Alfreton",
+      "Upton",
+      "Amiens",
+      "Paris",
+      "La Perle",
+      "Bourges",
+      "Conques",
+      "La Malène",
+      "St. Enimie",
+      "Monastier",
+      "Channel Tunnel",
+      "Malmesbury",
+      "London",
+      "Greenwich",
+      "Imp War Museum",
+      "Tate",
+      "Oundle",
+      "Abbey Dore",
+      "Hanley Swan",
+      "Machynlleth",
+      "Newcastle",
+      "Bergen",
+      "Dale",
+      "Laerdal",
+      "Bergsdalen",
+      "Sunne",
+      "Oslo"
+     ],
+     "index_page": true,
+     "text": "1. Bromyard. Farnham 1995\n   Hartley Wintney\n2. London\n3. Beauchamps Gloucester 1996\n   Calver Mill, Peaks\n5. Chatsworth\n7. Farnborough Hall\n8. Stratford\n9. Mersea, Colchester, Doncaster,\n   Thorpeness\n10. Anglesey, Dun Laoghaire\n11. Glendalough. Kildare, Kilkenny.\n12. Rock of Cashel, Micheltown.\n13. Dingle, [?Micheltown], Gallarus\n14. Dunquin\n15. Great Blasket, Camp\n16. Lahinch, Moher, Millvee, Burren\n17. Map of Ireland, Leamaneh.\n18. Ennis, Clonmacnoise, Lough Ree\n19. Grandard\n20. Killyleagh, Seaforde, Portaferry.\n   Karcutt [?Kircutt].\n21. Beauchamp, Stanford Bridge\n22. London, Ypres\n23. Kortrijk. Oudenaarde\n24. Gent\n25. Broadlembury 1997 Forest of Dean\n26. Beauchamp\n28. Bristol\n29. Derbyshire, Calke Abbey.\n30. Dinas\n31. Rhinog, Harlech\n32. Clent, Alfreton, Upton\n33. Amiens, Loeully [?Loeuilly]\n34. Paris\n35. La Perle St. [illegible]\n38. Bourges [?Foecy]\n39. [?Cassahiouse] [?Celurnu]\n40. Conques\n41. [?Vieuville]\n42. Entragues [?Entraygues]\n43. Avon [?Armand]\n   La Malène\n45. St. Enimie\n46. Monastier / St. Jean [illegible]\n47. La Belle [?Eche]  [?Vaux]\n48. Channel Tunnel\n49. Beauchamp\n50. Malmesbury\n   East of Welland\n51. London Greenwich\n   Imp War Museum\n   __Tate__ 1998\n55. Oundle\n56. Beauchamp, [?Worcstr]\n58. Abbey Dore, Golden Vall[ey]\n59. Hanley Swan.\n61. [?Bnas] [?Fetincy]\n62. Machynlleth\n   Newcastle, Bergen\n64. Dale\n65. Laerdal, [?Borgand]\n66. [?Sognafjord], [?Schwengabb]\n68. [?Nigardsbreen] glacier\n   [?Arde], [?Urnes]\n69. Bergsdalen, [?Ringebu]\n   [?Trajvang]\n70. Koppang, [?Holjes]\n71. [?Humletorp] [?Marbeck]\n72. Sunne, Oslo\n74. [?Konasberg]\n75. [?Rjukan] [?Vemost]"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0169",
+   "pages": [
+    {
+     "page_id": "A_0169_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Setesdal",
+      "Sirdal",
+      "Stavanger",
+      "North Shields",
+      "Lincolnshire",
+      "Conway",
+      "Dolwyddelan",
+      "Llangollen",
+      "Llandudno",
+      "Beauchamp"
+     ],
+     "index_page": true,
+     "text": "76 Setesdal\n77 Sirdal\n   Stavanger\n78 North Shields\n   Lincolnshire\n   Conway\n79 Dolwyddelan\n   Llangollen\n   Llandudno\n80 Beauchamp"
+    },
+    {
+     "page_id": "A_0169_R",
+     "no": null,
+     "blank": true,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": ""
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0170",
+   "pages": [
+    {
+     "page_id": "A_0170_L",
+     "no": null,
+     "blank": true,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": ""
+    },
+    {
+     "page_id": "A_0170_R",
+     "no": 1,
+     "dates": [
+      "August 31st 1995",
+      "Friday",
+      "Saturday",
+      "Saturday 9th September"
+     ],
+     "headings": [
+      "Friday",
+      "Saturday",
+      "Saturday 9th September"
+     ],
+     "places": [
+      "Bromyard",
+      "Beauchamp",
+      "Australia"
+     ],
+     "text": "August 31st 1995.\n\n   We were about to leave at 6.0. but Eve alarmed John in the house. It was 8 before the alarm men managed to reset it. Simon & Eve, Thomas 15, William 13, John 8, Charles 6, left for Bromyard, Kate & Jamie's farm. (Peter at Beauchamp).\n   The Sands, Peter + his were at the Farm with their children, before leaving for Australia.\n\n__Friday__\n   We watched the grain lorry loading with grain. The boys saw Edward's 2 Vietnamese pigs being fed. We swam & played tennis & picked Blackberries. A lovely day.\n   Kate & Jamie & Ben & Edward joined us for supper.\n\n__Saturday__\n   Edward & Jamie beat Thomas & Eve at tennis, just. (Simon & Eve had beaten Thomas & William the day before) There's a good ball machine called a Lob-ster. It rained intermittently in the morning.\n   We left for Beauchamp at 1.0.\n\n__Saturday 9th September__\n   Simon, Eve, Peter, John & Charles left for Charity's (Hatty's) christening at about 5.15."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0171",
+   "pages": [
+    {
+     "page_id": "A_0171_L",
+     "no": null,
+     "dates": [
+      "Friday October 22nd"
+     ],
+     "headings": [],
+     "places": [
+      "Hartley Wintney",
+      "Farnham",
+      "London",
+      "Pickett's lock"
+     ],
+     "text": "On the way we passed through __Hartley Wintney__ + stopped to see Peter + Belinda. We shared supper on the kitchen table - we provided Bacon sandwiches + they contributed smoked salmon. We saw to goats, dogs, birds + rabbits too.\n      On [the] to __Farnham__, + after the children were in bed on the drive we chatted to Mary + Richard, her parents, brother, [Lee/Bec], wife, Deana + their children while they all had lasagna. Richard Hendon was there too.\n   The next [Sunday] day we walked to the church, It rained. George got lost twice. We went to the reception at [?Quenetter] + saw Jane + Harry, Sally + her family + David Maxine + the girls, Tim with a dreadful beard with his family + the new arrival Cains.\n   We got home about 7pm.\n~~Saturday~~ Friday October 22nd.\n   The seven of us set off for __London__ at 10.20. We arrived at Pickett's lock, [?sa] [?Vallba leisure] centre. (Cinema) *** Depressing too, but nice to come home to a movie. The managers were abrupt.\n   The weather was marvellous all 3 days.\n      Simon, V+A ; Thomas Planetarium + Sims; William, Planetarium + Sims; Peter Planetarium +"
+    },
+    {
+     "page_id": "A_0171_R",
+     "no": 2,
+     "dates": [
+      "Sunday"
+     ],
+     "headings": [
+      "Sunday"
+     ],
+     "places": [
+      "British museum",
+      "Victoria + Albert Museum",
+      "Adelphi",
+      "Westminster Abbey",
+      "Pizza Hut",
+      "Planetarium",
+      "Regents Park",
+      "London"
+     ],
+     "text": "British museum; John Planetarium + films.\nCharles Planetarium + films, Eve V+A Ivories + Liberties.\n   We had lunch + bought day tickets + went to the Victoria + Albert Museum. We saw beautiful ivories + an Elizabethan portrait. We had tea. We went into the Friends of the V+A room + had tea + saw [?Chad Hadkins].\n   We tried to get tickets for Starlight Express at the Adelphi, but there weren't any. We saw the Chad lights in the bar upstairs.\n   We bussed + trained back, queued for movie tickets + gobbled supper in the movies. E, T, W, P went to the Net; E, J, C, went to Pocahontas.\n   Sunday We had a frustrating journey into London, + arrived in time for a sung [?Each] at Westminster Abbey, + glimpsed Peter Portal. We lunched at Pizza Hut + went on to the Planetarium. The films made Eve feel sick + brought on a migraine to add to her tooth ache.\n   We had Tea watching tennis in Regents Park.\n   We returned to the campsite.\nTWSJC saw Apollo 13, E+P saw 9 Months. We had supper in the van before the movies"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0172",
+   "pages": [
+    {
+     "page_id": "A_0172_L",
+     "no": null,
+     "dates": [
+      "Monday October 24th"
+     ],
+     "headings": [
+      "Monday October 24th"
+     ],
+     "places": [
+      "Libertys",
+      "Tottenham Court Rd",
+      "British Museum"
+     ],
+     "text": "__Monday October 24th__\n      We set off to Libertys & looked for material for Simon's dressing gown, bought Eve a rugby-watching brown coat & [illegible] velvet scarf. Peter bought a CA, John bought a candle.\n      We had a delicious lunch at the Newman Arms, off Tottenham Court Rd.; Eve had steak & [?fried] kidney pudding & spotted dick & custard.\n      We saw the Egyptian section & the peat bog man in the British Museum. Jane Total was out.\n      We had an icecream in a park & trained & bussed back to the cinema car park.\n      We are driving home up the motorway. ETA 7.50."
+    },
+    {
+     "page_id": "A_0172_R",
+     "no": 3,
+     "dates": [
+      "9th April 1996"
+     ],
+     "headings": [],
+     "places": [
+      "Beauchamps",
+      "France",
+      "Gloucester",
+      "Wales"
+     ],
+     "text": "9th April 1996\nSimon 46, Eve 42, Thomas 16, William 14\nPeter 12, John 8, Charles 6. (7 next week).\n      8.30. We set off for __Beauchamps__ for John to go on his first 'cello course. Peter is staying with Lawrence [?Barret] in France.\n      Overcast, but slightly warmer.\n      We are camping in the field.\n      After lunch we drove to __Gloucester__ Cathedral. Gorgeous Norman [?arches] & fat pillars. Fan vaulting & old lead?.\n      Font with [?] patterns on robes (12?) in lady chapel. Effigy of Robert Curthose elegant. Wood? painted red. William, Robert + William + Henry sons of William the Conqueror. Robert inherited Normandy. Robert William got England. Henry imprisoned Robert in Wales 1106–134, when Robert died & was buried at Gloucester.\n      On to the Docks.\n      We returned just before 4 as John finished his first day on the course."
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0173",
+   "pages": [
+    {
+     "page_id": "A_0173_L",
+     "no": null,
+     "dates": [],
+     "headings": [
+      "LADY CHAPEL"
+     ],
+     "places": [
+      "Lady Chapel"
+     ],
+     "text": "[Glued-in printed leaflet: LADY CHAPEL\n\nBuilt between 1457-1499 during the abbacies of Richard Hanley and William Farley, and standing on the site of a smaller building dating back to 1224. But originally the apsidal chapel of the Norman church, which was similar to those either side of the entrance, stood on this site. Chantry chapels with singing galleries form, as it were, small transepts. Christopher Whall designed and reglazed the windows (with one exception) 1898-1909.\n\nThis is the last of the major building works of the abbey period. It is a superb example of Perpendicular work (1470-1499) and judged by many to be the most beautiful Lady Chapel in the country. Everything about it speaks of shape and form, of ordered space, in which one can see grace and beauty, peace and harmony.\n\nEither side is a wall of glass, with the stonework reduced to a tall slender shaft to provide support to the vault. The glass in the east window is from the 14th to early 16th centuries. In medieval times the windows were filled with figures, scores of them on either side, some half materialising, as it were, to become stone figures in niches up the wall shafts. The reredos too was filled with figures of the saints and brilliantly coloured.]\n\n[Second partial printed leaflet fragment visible at right edge, partially obscured:\n...W\n...1089, the nave\n...it survives in the\n...nave replaced in\n...style. West end\n...1-1437.  Stained]\n\n[Handwritten text in red/brown ink visible at far right margin, mostly obscured by gutter — partial fragments only:\n...ve\n...\n...1...\n...u...\n...f...\n...\n...un\n...to\n...ri\n...\n...Lo\n...h...\n...\n...m\n...D...\n...p...\n...R...\n...ro\n...ca\n...T...\n...\n...pr...\n...da...]"
+    },
+    {
+     "page_id": "A_0173_R",
+     "no": null,
+     "dates": [
+      "April 10"
+     ],
+     "headings": [],
+     "places": [
+      "Gloucester",
+      "The Red Lion",
+      "Odda's Chapel",
+      "St. Mary Deerhurst",
+      "Beauchamp",
+      "Over"
+     ],
+     "text": "It rained in the early morning, so we set off to swim April 10\". Charles was very brave jumping off the high board 18 ft. at Gloucester swimming pool. Unfortunately the chute was only open from 1-5 pm.\n   We drove to a pub for lunch, where we'd been for a drink before - stone toad stools outside the door, where the river is liable to flood. The Red Lion. Lots of stuffed fish in glass cases. We had good sausage + chips + chocolate pud.\n   On to Odda's Chapel, which Robert [?Grimley] had told Simon about, & St. Mary Deerhurst. Amazing old Saxon long & short quoins, splayed windows, carvings. Old Roman bricks recycled. Jacobean wood-carved pews in chancel. Brasses. An old font. The 2 best Saxon carving difficult to see, presumably, that's why they were not destroyed by Puritans.\n   We came home via the ^Beauchamp Over fam[illegible — text cut off at page bottom]"
+    }
+   ]
+  },
+  {
+   "spread_id": "A_0174",
+   "pages": [
+    {
+     "page_id": "A_0174_L",
+     "no": null,
+     "dates": [
+      "April 15"
+     ],
+     "headings": [],
+     "places": [
+      "Beauchamp"
+     ],
+     "text": "shop, buying fruit + veg + looking at the goats + donkeys + 2 ostrichos.\n\n\tAt Beauchamp, John was already sitting in the tent. We spent the evening playing ping pong + watching the boys playing achie 123. John hurt his knee, but it was better in the morning.\n\nApril 15\n\tA cold damp morning. We read + played ping pong. Simon + Eve walked up to the rail way line with Charles. By lunch time the sun had come out. John's concert was at 2.30. He played \"Greensleeves\" + the \"Great Western\" by Granny very well. Granny worked hard to keep John in the senior group for orchestra, because she did not realise that he was only 8.\n\tHome for supper."
+    },
+    {
+     "page_id": "A_0174_R",
+     "no": 5,
+     "dates": [
+      "Sat Apl 20"
+     ],
+     "headings": [
+      "Sat Apl 20"
+     ],
+     "places": [
+      "Tickhill",
+      "Doncaster",
+      "Calver Mill"
+     ],
+     "text": "__Sat Apl 20__\n\tWe set off at 9.30. S, E, P, J, C, Daniela Fischer, the German, au pair, and Lawrence Basset, Peter's French exchange. Daniela + Lawrence are sharing a tent.\n\tWe arrived at Tickhill near Doncaster at 11.30. to see border terriers, puppies. We can't decide whether to get a red or a blue. We'll return to pick one up from the next litter in August. Maybe we'll call him \"Tonic.\"\n\tOn through Doncaster to __Calver Mill__. It is a pleasant campsite, sheltered by hills in a dell with a raised canal alongside running to an old textile mill.\n\tAfter lunch we walked along the canal + river. A very good walk + it didn't rain. The loos are OK. Keyed. We have a new mat for outside the van - nylon. 10ft + 10 ft. to keep our feet dry. John + Charles ran laps around the site."
+    }
+   ]
+  }
+ ]
+}

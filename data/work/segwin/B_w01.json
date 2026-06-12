@@ -1,0 +1,1464 @@
+{
+ "window_id": "B_w01",
+ "volume": "B",
+ "books": [
+  {
+   "start": "B_0001",
+   "end": "B_0061",
+   "index_spreads": [
+    "B_0002",
+    "B_0003"
+   ]
+  }
+ ],
+ "index_entries": [
+  {
+   "file": "volB_index.json",
+   "entries": [
+    {
+     "page_no": 1,
+     "text": "Weimar, Buchenwald\nLudwigstadt, Bamburg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 3,
+     "text": "Rothenburg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 4,
+     "text": "Rot-am-See, Heidelberg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 6,
+     "text": "Hermeskeil, Ypres",
+     "year": 2003,
+     "note": "marginal note beside: 'too sunior air craft' (uncertain)"
+    },
+    {
+     "page_no": 7,
+     "text": "London, Burrough, Netherwestcote",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 8,
+     "text": "Malvern, Barnard Castle, High Force",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 9,
+     "text": "Haltwhistle, Vindolanda",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 10,
+     "text": "Housesteads, Chesters etc",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 11,
+     "text": "Heaton, Newcastle",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 12,
+     "text": "Rye Court, Golden Valley",
+     "year": 2004,
+     "note": "2004 year marker written beside this entry"
+    },
+    {
+     "page_no": 13,
+     "text": "Upton, Malvern",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 14,
+     "text": "Woodrow, Bromyard, W. Malvern",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 15,
+     "text": "Burrough, London, Southwork\nChipping Campden, Malvern,",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 16,
+     "text": "Dinas, Harlech",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 17,
+     "text": "Machynlleth",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 18,
+     "text": "Little Cressingham\nSutton Coldfield\nSouthampton",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 19,
+     "text": "Bilbao",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 20,
+     "text": "Guernica,\nMutriku",
+     "year": 2004,
+     "note": "a struck-through word follows 'Guernica,' on the same line"
+    },
+    {
+     "page_no": 21,
+     "text": "Puente de la Reina\nSanta Maria Eunate\nHoz de Lumbier",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 22,
+     "text": "Lerre, Sanguesa\nRuesta, Lake Yesa",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 23,
+     "text": "Jaca",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 24,
+     "text": "Aragon, Ainsa",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 27,
+     "text": "Plan",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 28,
+     "text": "Bielsa Tunnel",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 29,
+     "text": "Massat, Bedeilhac",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 30,
+     "text": "Le Mazageou, Ax-les-Thermes",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 31,
+     "text": "Montaillou",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 32,
+     "text": "Vernet, Les Sauterelles",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 33,
+     "text": "St. Martin's Abbey\nCanigou",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 35,
+     "text": "Cuxa Abbey, Eus",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 36,
+     "text": "Treve, Carcassonne",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 37,
+     "text": "Realmont",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 38,
+     "text": "Albi",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 40,
+     "text": "Eymoutiers, Futuroscope",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 41,
+     "text": "Le Suisse Normand",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 42,
+     "text": "Normandy Beaches\nBayeux",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 43,
+     "text": "Longues, Point du Hoc\nBarfleur",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 45,
+     "text": "Bath",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 46,
+     "text": "Trimpley, Bromyard\nMalvern Court",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 48,
+     "text": "Hanbury Hall",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 50,
+     "text": "Aston Cantlow",
+     "year": 2005,
+     "note": "2005 year marker written above this entry"
+    },
+    {
+     "page_no": 51,
+     "text": "Kinwarton",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 52,
+     "text": "Malvern, Bromyard",
+     "year": 2005,
+     "note": "'PTO' marker below this entry indicating index continues on next spread"
+    },
+    {
+     "page_no": 53,
+     "text": "Knapton",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 54,
+     "text": "Cambridge\nOxburgh Hall\nMileham\nEast Dereham",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 56,
+     "text": "Reepham\nBlickling Hall\nHalesworth",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 57,
+     "text": "Corby",
+     "year": 2005,
+     "note": null
+    }
+   ]
+  }
+ ],
+ "spreads": [
+  {
+   "spread_id": "B_0001",
+   "pages": [
+    {
+     "page_id": "B_0001_L",
+     "no": null,
+     "dates": [
+      "August 8th 2003 - June 2005"
+     ],
+     "headings": [],
+     "places": [
+      "Edgbaston",
+      "Birmingham"
+     ],
+     "text": "Kirby\nB15 3JG\n86 Westfield Rd, Edgbaston, Birmingham\nAugust 8th 2003 - June 2005"
+    },
+    {
+     "page_id": "B_0001_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": ""
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0002",
+   "pages": [
+    {
+     "page_id": "B_0002_L",
+     "no": null,
+     "dates": [
+      "2003",
+      "2004",
+      "2005"
+     ],
+     "headings": [
+      "2003",
+      "2004",
+      "2005"
+     ],
+     "places": [
+      "Weimar",
+      "Buchenwald",
+      "Ludwigstadt",
+      "Bamburg",
+      "Rothenb[u]rg",
+      "Rot-am-See",
+      "Heidelberg",
+      "Hermeskeil",
+      "Ypres",
+      "London",
+      "Burrough",
+      "Nether Wotote",
+      "Malvern",
+      "Barnett Castle",
+      "High Force",
+      "Halt Whistle",
+      "Vindolanda",
+      "Houseteads",
+      "Chestars",
+      "Heatton",
+      "Newcastle",
+      "Rye Court",
+      "Colton Valley",
+      "Upton",
+      "Malvern",
+      "Woodrow",
+      "Bromyard",
+      "W Malvern",
+      "Beborough",
+      "London",
+      "Southwark",
+      "Chipping Campden",
+      "Malvern",
+      "Dinas",
+      "Harlech",
+      "Machynlleth",
+      "Little Crossingham",
+      "Sutton Coldfield",
+      "Southampton",
+      "Bilbao",
+      "Guernica",
+      "Mutreku",
+      "Puente de la Reina",
+      "Santa Maria Eunate",
+      "Hoz de Lumbier",
+      "Logrono",
+      "Sanguesa",
+      "Ruesta",
+      "Jaca",
+      "Aragon",
+      "Ainsa",
+      "Plan",
+      "Bielsa Tunnel",
+      "Massat",
+      "Bedeilhac",
+      "Melageon",
+      "Arc-les-Thermes",
+      "Montaillou",
+      "Vernet",
+      "Les Sauterelles",
+      "St. Martin's Abbey",
+      "Canigou",
+      "Cuca Abbey",
+      "Treve",
+      "Carcasson",
+      "Realment",
+      "Albi",
+      "Eymentiers",
+      "Futuroscope",
+      "Le Suisse Normand",
+      "Normandy Beaches",
+      "Bayeux",
+      "Lodques",
+      "Point du Hoc",
+      "Barfleur",
+      "Bath",
+      "Trumpley",
+      "Bromyard",
+      "Malvern Court",
+      "Harbury Hell",
+      "Aston Cantlow",
+      "Kinwarton",
+      "Malvern",
+      "Bilbao"
+     ],
+     "index_page": true,
+     "text": "__2003__\n1. Weimar, Buchenwald\n   Ludwigstadt, Bamburg\n3 Rothenb[u]rg\n4 Rot-am-See, Heidelberg\n6 Hermeskeil [illegible] Ypres\n7 London, Burrough, Nether Wotote\n8 Malvern, Barnett Castle, High Force\n9 Halt Whistle, Vindolanda,\n10 Houseteads, Chestars\n11 Heatton, Newcastle\n12 Rye Court, Colton Valley. __2004__\n13 Upton, Malvern\n14 Woodrow, Bromyard, W Malvern\n15 Beborough, London, Southwark\n   Chipping Campden, Malvern\n16 Dinas, Harlech\n17 Machynlleth\n18 Little Crossingham\n   Sutton Coldfield\n   Southampton\n19 Bilbao\n20 Guernica, [?Markina]\n   Mutreku\n21 Puente de la Reina\n   Santa Maria Eunate\n   Hoz de Lumbier\n22 Logrono, Sanguesa\n   Ruesta, Lake [?Yesa]\n23 Jaca\n24 Aragon, Ainsa\n27 Plan\n28 Bielsa Tunnel\n29 Massat, Bedeilhac\n30 [?Mas] Melageon, Arc-les-Thermes\n31 Montaillou\n32 Vernet, Les Sauterelles\n33 St. Martin's Abbey\n   Canigou\n35 Cuca Abbey, [?Elne]\n36 Treve, Carcasson\n37 Realment\n38 Albi\n40 Eymentiers, Futuroscope\n41 Le Suisse Normand\n42 Normandy Beaches\n   Bayeux\n43 Lodques, Point du Hoc\n   Barfleur\n45 Bath\n46 Trumpley, Bromyard\n   Malvern Court\n48 Harbury Hell\n__2005__\n50 Aston Cantlow\n51 Kinwarton\n52 Malvern [?Bromyard]\n   PTO\n\nGuggenheim Museum\nBilbao\n1997 by Frank O'Gehry"
+    },
+    {
+     "page_id": "B_0002_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": ""
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0003",
+   "pages": [
+    {
+     "page_id": "B_0003_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Knapton",
+      "Cambridge",
+      "Oxburgh Hall",
+      "Mileham",
+      "East Dereham",
+      "Reepham",
+      "Blickling Hall",
+      "Halesworth",
+      "Corby"
+     ],
+     "index_page": true,
+     "text": "53 Knapton\n54 Cambridge\n   Oxburgh Hall\n   Mileham\n   East Dereham\n56 Reepham\n   Blickling Hall\n   Halesworth\n57 Corby"
+    },
+    {
+     "page_id": "B_0003_R",
+     "no": null,
+     "dates": [
+      "Saturday August 6 2005",
+      "April 11th 1945",
+      "1937-45"
+     ],
+     "headings": [
+      "Saturday August 6 2005",
+      "Sunday"
+     ],
+     "places": [
+      "Weimar",
+      "Buchenwald",
+      "Neumannshof",
+      "Saalfeld"
+     ],
+     "text": "Saturday August 6 2005\nAt 9.15. we left the Gemmeke's house in Weimar. We are: Thomas 23, John about to be 16, Charles 14 + Simon & Eve.\n   We drove to Buchenwald, arriving at 9.5[illegible]. __Buchenwald__ was the prototype concentration camp + had satelite camps. It was where the SS trained. 1937-45. Then the Russians ran it for 5 years.\n   250,000 passed through. 50,000 died, of [?whom] 1,000 were strangled. Many were shot in the back of the neck. They were \"Social misfits\", politicians, Jehovas Witnesses, Jews, homosexuals. The week they were liberated, April 11th 1945, the American soldiers made local Weimar people walk through the camp. We saw the ovens.\n   It's very hot. We stopped at a supermarket, then had lunch next to a railway line. We drove on to find a campsite by a lake. The first one was full. We've stopped at __Neumannshof__. It's crowded, no shade, + the swimming is a bit dirty-looking down a steep shale slope. John + Eve had trouble with the credit-card showers. Lots of instant bbqs stink. There's a barking dog right next to us.\nSunday\nWe left to drive Thomas to the station at Saalfeld for an 11.45 train. We discussed how poor E. Germa[ny illegible]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0004",
+   "pages": [
+    {
+     "page_id": "B_0004_L",
+     "no": null,
+     "dates": [
+      "1991-2003"
+     ],
+     "headings": [],
+     "places": [
+      "Steinbach/Heide",
+      "Ludwigstadt",
+      "Bamburg"
+     ],
+     "text": "feale. As we drove through, there is much ugliness, few little leasure facilities (tennis courts), little beauty. Broken-down factory units, empty bombed lots. One of the few signs of prosperity are expensive cars. Thomas was annoyed that there were no shops at the station. Simon remarked that the time-span since the Wall came down – 1991-2003 – is the same as for our childhood since WWII 1946-58. And the country/town regeneration is probably similar to Britain then.\n\n    It's still hot & sweaty all the time.\n    Steinbach/Heide we have just passed one of the prettiest villages I have ever seen. It's in a wooded valley. At the top of the centre of the village is a pond. The whole of the village green was allotments, full of flowers, at the bottom was a church.\n    We saw a swimming pool from the road. It was large & inviting & not very full. Ludwigstadt. Beautifully clean & quiet. We swam, had lunch in the van in the carpark & swam again. Charles spent ages on the 3.5m. (11ft) diving board.\n    Things in the East seem to be organised for the workers. The customer/consumer doesn't matter. When there is a road block for road works, no 'deviation' signs are given. Customers have to manage as best they can. ****\n    We drove on to Bamburg. We are back in"
+    },
+    {
+     "page_id": "B_0004_R",
+     "no": 2,
+     "dates": [
+      "Monday August 11\""
+     ],
+     "headings": [
+      "Monday August 11\""
+     ],
+     "places": [
+      "West Germany",
+      "Germany",
+      "Bamburg"
+     ],
+     "text": "West Germany now. The campsite owner spoke English & told us we could park wherever we like on the site. There is a river. For the first time, the showers are free. All through Germany the washrooms have been spotless.\n    We have been eating sausage, salami, black pudding & fruit – peaches & grapes. We bought a packet of sauerkraut which tasted horrible. The Top is good.\n    The fridge has packed up. It has been the hottest holiday ever, & sometimes we have left the gas fridge on when going along & it should have been on electric only.\n    This campsite is nice & dark at night. Some of them have been terribly bright.\n\n    Monday August 11\"\n    This is the nicest campsite we've been in. We caught the bus into Bamburg & looked at the cathedral. There are lots of sculptures, old & new. \"The horse rider\" is (13). In a small crypt is a beautiful new sculpture on an old theme – a bishop presenting a cathedral. It is sort of cubist, with his eye brow, nostrils & mouth slightly asymmetrical. There are also beautiful panels in the altar & lecturn. There is also an enormous crypt that was [illegible]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0005",
+   "pages": [
+    {
+     "page_id": "B_0005_L",
+     "no": null,
+     "dates": [
+      "July 23rd '44"
+     ],
+     "headings": [],
+     "places": [
+      "Bamburg"
+     ],
+     "captions": [
+      "The Horse Rider Bamburg Cathedral"
+     ],
+     "text": "[Photo of equestrian statue, caption top-right: The Horse Rider Bamburg Cathedral (3.)]\n\nWe ate at a rather grubby pub. Walking round the town was pleasant but hot. There was a memorial to Graf von Stauffenberg in an [?arch] [marginal annotation: July 23rd '44] [marginal annotation: Old Rathau[s]] where 2 women played chambermusic in the building on the island on the bridge over the river. Bamburg has many buildings that are"
+    },
+    {
+     "page_id": "B_0005_R",
+     "no": 3,
+     "dates": [
+      "Tuesday"
+     ],
+     "headings": [
+      "Tuesday"
+     ],
+     "places": [
+      "Rothenburg",
+      "St. Jacobs",
+      "St. James of Compostella"
+     ],
+     "text": "original, it was not much bombed by the British.\n\nBack in the campsite Simon is fiddling with the fridge. The boys have fallen back on the usual absorbtion: playing with ants. The ants found Charles wasp trap + they have set up the camera on the tripod to photograph it. I am lying on the blue mat under a magnificent oak Tree. Charles rowed + Eve swam upstream + back.\n\nWe had supper in the restaurant - the boys had spaghetti + Simon + I had delicious meat + veg stew. After supper we chatted. There are Chinese campers here.\n\n__Tuesday__ We woke at 7.40.\n\nWe left at 9.30. The previous evening we watched a man + his wife erecting a collapsible towed caravan (35 min). They left just after we got up. We drove south to Rothenburg. It's an amazing town, built [?at] a very steep hill above a wriggly river. It was rich until [illegible] + then became a backwater because it was Protestant, so it was never modernised. [It] made preservation orders everywhere. It has lovely expensive shops, icecreams + cake shops. We went into St. Jacobs church, named after St. James of Compostella. The altarpiece is again carved by Riemenschneider. I promised John"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0006",
+   "pages": [
+    {
+     "page_id": "B_0006_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Rotherburg ob der Tauber"
+     ],
+     "captions": [
+      "Altar of The Holy Blood in St. Jacob's church Rotherburg ob der Tauber by Tilman Riemen schneider 1499 1504"
+     ],
+     "text": "& Charles icecreams if they would sit & look at it. There's a relic in the middle of the cross. St. Judas is in the middle being handed a piece of bread. Beautifully carved & pleasing composition. His of figures often seem to hold pieces of cloth.\n\n[photograph of the Altar of the Holy Blood]\n\nAltar of The Holy Blood in St. Jacob's church Rotherburg ob der Tauber by Tilman Riemen schneider 1499 1504"
+    },
+    {
+     "page_id": "B_0006_R",
+     "no": 4,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Rot-am-see"
+     ],
+     "text": "After that we went to the torture museum, which got a bit monotonous. It went on until [18?]. We walked along paths below the town. There are still huge gates & town walks, a beautiful town, but totally touristified. [Even McDonalds has] [illegible] [illegible] bought cakes & walked back to the van. It's still hot.\n   We have driven on to Rot-am-see [****] [(Ettlingen?)] Although it mentions lake, we are not allowed to swim in it. So we are having a quiet evening. The campsite feels like a ghost-town, people must only come at weekends. (A car of young people has dropped off 2 tents & driven off - LT - Lithuania?)\n   This is the first campsite where Charles has been able to eat with us at the table, instead of hiding in the loo, because there was only one wasp (spheksophobia - fear of wasps) at each meal. All the rubbish in the litter bins was contained under lids, whereas other campsites had disgraceful stench piles overflowing. Perhaps the families & old fogeys at the [wend?] won't tolerate dirt, unlike holiday campers. There's no swimming at the camp & [there's] not much to do, but it's pleasant. The old man running the camp switched the light"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0007",
+   "pages": [
+    {
+     "page_id": "B_0007_L",
+     "no": null,
+     "dates": [
+      "Wednesday"
+     ],
+     "headings": [],
+     "places": [
+      "Heidelberg",
+      "Lichtenstein"
+     ],
+     "captions": [
+      "Heidel berg Castle (ruins) behind the old Bridge"
+     ],
+     "text": "of when I was having a shower. Simon switched the light off when I was on the loo. Such energy conservation! Infact, this is the first campsite with dirt in loo showers, left by lithuanians. We have been ~~dec~~ clearing up after them.\n__Wednesday__ We are off to __Heidelberg__ to pick up Thomas who has been staying with Ingvo in Lichtenstein. In the town we parked near a super market & shopped (only dry Salami & tinned herring because no fridge) then walked to the station to meet Thomas. It took ages to ~~watt~~ find a parking space.\n\n[photo: Heidelberg Castle (ruins) behind the Old Bridge]\n\nHeidel berg Castle (ruins) behind the old Bridge\nWe parked near the castle & caught the funicular down the hill. It was boring - it went in a tunnel all the way. We had lunch at an Italian restaurant. We looked at the Heiliggeistkirche church & saw King Rupert, Ruprecht's gravestone with his wife Elizabeth von Hohenzollam from 1706-1936 it had a dividing wall so that one end was protestant & the other catholic. We trained back"
+    },
+    {
+     "page_id": "B_0007_R",
+     "no": null,
+     "dates": [
+      "1751"
+     ],
+     "headings": [],
+     "places": [
+      "Heidelberg",
+      "Haide Campsite",
+      "River Neckar"
+     ],
+     "text": "up to the castle & saw the gardens, the apothecary museum & the Grosses Fass, Big Barrel, it was made for Prince Karl Theodore in 1751 from 130 oak tree trunks. It held 221,725 litres. It's 8.5 m across & 7m high with a dance floor on top. The people at the castle used to drink nearly 2,000 litres a day.\nWe lacked ~~energy~~ energy because of the boat. We reached the Haide Campsite, 5k. along the north side of the River Neckar from Heidelberg.\nI again had trouble with the showers. Having undressed & hung my clothes on the hooks, I had to rehang them to open the door to put the token in the metre. Once I'd done this, water started pouring out of the next-door shower...\nWe needed clothes, so I did a wash & Simon got annoyed at having to hang a washing line after supper. In the middle of the night the sky looked cloudy. So I took in half the washing. Later it started to rain, so I brought in the rest. It has drizzled this"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0008",
+   "pages": [
+    {
+     "page_id": "B_0008_L",
+     "no": null,
+     "dates": [
+      "Thursday"
+     ],
+     "headings": [
+      "Thursday"
+     ],
+     "places": [
+      "Clifton"
+     ],
+     "text": "morning. Fortunately nearly all the clothes are dry (except 2 boxers) & we've been able to put them away. We were parked next to a porter from Clifton.\n\n__Thursday__\n   We are leaving the campsite at 9.40.. There's free internet access. The pitch was quite noisy with (working?) boats going up + down the river + trains just the other side of the river. Further back, there would have been more space in the campsite. We could order bread for breakfast. It was quite a good campsite.\n   There are 2 sets of double locks on the river.\n\n   We drove + drove westward with Charles map-reading. Thomas is back, doing more Rebel Personality GPS navigating on the laptop. He got very shirty at the rud. Thomas + John were both annoyed that Simon + Eve walked across the field to the chapel. It was a graveyard. The war monument was sad – one name in WWI + 3 names in WWII were the same. There was an odd, uncommon name – Leo Junior.\n\n   Next to our lunch field were planes, it turned out to be an aircraft museum, founded 1973 by Leo Junior. Amazing place. V. enjoyable. Sorry Peter's not here. A rocket, helicopters, passengers, transport, planes, fighters, bomber Fokkers, Heineke, Hornier, British, [?MiG], US, French, Russian, Engines, auto-giro, ejecto-seat"
+    },
+    {
+     "page_id": "B_0008_R",
+     "no": null,
+     "dates": [
+      "Friday"
+     ],
+     "headings": [
+      "Friday"
+     ],
+     "places": [
+      "Hermeskeil",
+      "Le Val d'Enverande",
+      "Neufchateau",
+      "Anlier",
+      "central Arden"
+     ],
+     "text": "Orville mentions, Bleriot plane + Demoiselle, a go-cart with wooden pedals + a lawn mower engine suspended over it 1909. They've made a little cafe in the Concorde. Leo's son, Richard, seems to be involved too.\n\n[GLUED TICKET: FLUGAUSSTELLUNG / I. & P. Junior / Tel. 06503 - 7693 Fax 3410 / 54411 HERMESKEIL 2 / 151 / 23 –]\n\n   We arrived at [?Le Val d'Enverande] campsite at Neufchateau + drove into the village for supper. Good tomato soup. The campsite is very basic. Not only no-soup soap, no loo paper, but also no loo seats either, but it clean. People had dogs fenced in round their caravans. A nice meadow nearby with cows. The campsite owner had chickens.\n\nFriday\n   We're in a pretty area, I've seen 3 country houses. The area is described here –\n\n[GLUED TOURIST BROCHURE TEXT: Friends visitors, by choosing our area for your stay, you resolutely chose to breath. With the doors of this green lung that is the forest of Anlier to the crossroads of the motorways, in the heart of nature, central Arden is a true space of relaxation, of adventure, of leisure, of sport, excursions and rest. Our area abounds in ideas of stays or escapades: the peaceful nature, forest, rivers, villages, the architectural heritage, the quality and variety of lodging, good tables, succulent soils products, walks on foot, horse, bicycle. In any season tourist, cultural and sport festivities. Thus profit from the convivial manner of the inhabitants and the heat of their reception. With this first edition of the tourist brochure, the \"Syndicat d'Initiative du Pays de Neufchateau\" hopes to make even more pleasant your stay in central Arden. Be welcome!]\n\n   We've run out of bread + are using up the left-over bread, but the boys were decisive about the quality of bread [here / rest cut off]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0009",
+   "pages": [
+    {
+     "page_id": "B_0009_L",
+     "no": null,
+     "dates": [
+      "Saturday August 16th"
+     ],
+     "headings": [],
+     "places": [
+      "Ypres",
+      "Menin Gate",
+      "Kenmels",
+      "Belgium",
+      "Ieper"
+     ],
+     "text": "We stopped at a Spar supermarket. But forgot to buy tea.... After lunch on a road off the motorway we reached Ypres + bought chocolate. Then we visited the WW1 Museum. It was very sad. The buildings of Ypres + the trees around were all flattened. They found the remains of a soldier when Charles visited in the spring. The sound effects + poetry reading were good.\n\n    We had supper on the Square + walked down to hear the last post at the Menin Gate. It was very crowded. 2 bugles played. An old man from Yorkshire laid a wreath. 3 teenagers also laid a wreath.\n    We drove on to a campsite __Kenmels__[?Kenmelst] where we stayed before when we came to Belgium with all the boys to see a show for Chad. It's on a ridge that was fought over near the end of WW I.\n\n    Charles' chocolate label on the box.\n    We wondered, over supper, whether German + English use alliteration in advertising slogans more than the Romance languages do.\n\n[glued-in business card: 't Heimelryck / Zoetheden & Streekspecialiteiten / MEENSESTRAAT 10 • 8900 IEPER / TEL: 057/360.361]\n\nSaturday August 16th\n    The campsite had a beautiful view out over the ridge. We left at 9.10., 20 min early!"
+    },
+    {
+     "page_id": "B_0009_R",
+     "no": null,
+     "dates": [
+      "Saturday August 23rd"
+     ],
+     "headings": [
+      "Saturday August 23rd."
+     ],
+     "places": [
+      "Ashford",
+      "London",
+      "M25",
+      "Kennels",
+      "Cotswolds",
+      "Istanbul",
+      "France",
+      "Beckett's Farm",
+      "Nether Westcote"
+     ],
+     "text": "We just missed getting on the earlier [train] by one car. Our own train was taken off because it was late arriving from England, + our actual train left at 10.43, which was very annoying. [annotation: (10.34)]\n    We dropped off Thomas + John at Ashford station to go + visit William in his new house at [?Burrough] in London. There were big jams on the M25. We picked up Tonic from Kennels on the way home.\n\n__Saturday August 23rd.__\n    Simon, John, Charles, Eve + Helen set off to go to the Cotswolds to camp with David, Jean + [?Dylan] (Sally's in Istanbul + [?Maria's] in France) who are bringing William + Bryony from London, + Tim + Margaret. We stopped at Beckett's Farm for food.\n    We reached __Nether Westcote__ at 12.45. It's a village, one of several, on the row of springs half way up the line of hills. Tim + Margaret arrived at 13. John has just texted William with his new mobile phone to find out when they are arriving.\n    When they arrived we all had tea. There is a lovely old lane next to the campsite where I walked Tonic. David cooked supper, or organised the"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0010",
+   "pages": [
+    {
+     "page_id": "B_0010_L",
+     "no": null,
+     "dates": [
+      "Ag Sunday",
+      "Monday"
+     ],
+     "headings": [
+      "Ag Sunday",
+      "Monday"
+     ],
+     "places": [
+      "Oxford",
+      "Cheltenham",
+      "Sledington",
+      "R. Evenlode",
+      "Idbury",
+      "New Inn",
+      "Birmingham"
+     ],
+     "text": "cooking of supper. He cooked sausages, tomatoes & potatoes. He gave Margaret French beans to cook & me [struck:bread] broccoli. Simon & I walked up the road & looked at the distant glow of town lights (Oxford, Cheltenham?). It rained in the night.\n\n    Ag __Sunday__\n        Aylan ate with us & Jem & David with Grandma. At 11 we left the campsite carrying a picnic. William & John were wearing sandals with no heel straps. Grandma also wore sandals because she forgot to change. It was quite warm. We walked down the old road at the side of the site which led down into the valley. At the bottom there were difficult ploughed fields that we found it difficult to walk through. The Oxfordshire Way had been ploughed up. We went through Sledington & Simon found a marvellous place for a picnic under a huge shady tree, by the R. Evenlode. We walked back out of the valley by road passing through Idbury. In the evening we had supper at the New Inn, our campsite pub.\n\n    Monday\n        We chatted & [?of] had coffee & left at 11.30., bringing Aylan back to Birmingham"
+    },
+    {
+     "page_id": "B_0010_R",
+     "no": 8,
+     "dates": [
+      "Sunday October 19th",
+      "Friday October 24th"
+     ],
+     "headings": [
+      "Friday October 24th"
+     ],
+     "places": [
+      "Doe Park",
+      "Cotherstone",
+      "Barnard Castle"
+     ],
+     "text": "Sunday October 19th\n    S+E  We left at 5 to pick up Jim, Margaret & Helen to hear John play his 'cello in an informal concert. He played very well, one of his grade 8 pieces, & in a 'cello quartet. The best we'd heard him play for ages.\n__Friday October 24th__\n    We should have left at 4.30., but 10 minutes before getting in the van I saw Tonic had a sore eye. So I dashed to the vet, got stuff for conjunctivitis, & dashed back. [marginal annotation: I put the ointment in his wrong eye first] We left at 5.10... It was a long, long drive north. We are camping at Doe Park __Cotherstone__, NW Barnard Castle.\n    There is a dog walk, lovely views, old Georgian house & HEATED toilets. This is important because we are all absolutely __freezing__. I am wearing a sweater, an arran cardigan, a sheepskin waistcoat & a jacket & my hands are nearly too cold to write. I wish I'd brought boots. The van heater is broken."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0011",
+   "pages": [
+    {
+     "page_id": "B_0011_L",
+     "no": null,
+     "dates": [
+      "Saturday"
+     ],
+     "headings": [
+      "Saturday"
+     ],
+     "places": [
+      "High Force"
+     ],
+     "captions": [
+      "High Force, the highest waterfall in Britain, only had water in this ↓ channel."
+     ],
+     "text": "__Saturday__\n\tIt's a fine morning. The boys showered because there may be no showers this evening.\n\tWe drove to High Force. There were\n\n[photo of waterfall]\n\nHigh Force, the highest waterfall in Britain, only had water in this ↓ channel."
+    },
+    {
+     "page_id": "B_0011_R",
+     "no": 9,
+     "dates": [
+      "Saturday"
+     ],
+     "headings": [],
+     "places": [
+      "Teesdale",
+      "Haltwhistle",
+      "Newcastle Uni",
+      "Vindolanda",
+      "Bardon Mill",
+      "R. Tyne"
+     ],
+     "text": "canoeists in the river. It's in Teesdale. We very much like the countryside.\n\tWe drove on to __Haltwhistle__, had lunch & met Peter (from Newcastle Uni) off the train. Then we went on to Vindolanda. Rain threatened, but apart from walking back to the car (when we saw a glorious [?&] double rainbow) we were lucky.\n\tThere have been an incredible number of finds, every year. There are still 30,000 unexcavated graves. The conditions have preserved stuff exceptionally well — wooden tablets with writing on, leather shoes with delicate cut-out leather uppers, coins, hair combs & a horse's leather helmet.\n\tThey have a reconstructed turf wall, wooden [?] fort & typical stone tower. A good museum.\n\tThe campsite is at Bardon Mill. [?] it is a very pretty field next to the R. Tyne, lots of rabbit holes for Tonic to search in. Quite sheltered, so less windy than last night, but a heavy frost. Cold again, but not quite so"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0012",
+   "pages": [
+    {
+     "page_id": "B_0012_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Housesteads"
+     ],
+     "captions": [
+      "The latrines at Housesteads, as they were"
+     ],
+     "text": "cold. The van heater is broken. We had a good supper in the local pub, with a roaring fire.\n\n    We asked how much it cost at the campsite & the farmer said £3 a night & John thought he said \"£3 and 8\".\n\n[photo: The latrines at Housesteads, as they were] [caption written vertically along right edge: The latrines at Housesteads, as they were]\n\n[text continues bottom-right, partially cut off or continued on next spread]"
+    },
+    {
+     "page_id": "B_0012_R",
+     "no": 10,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Housesteads"
+     ],
+     "text": "[small partial text visible at top-left gutter from left page: ...ra / the / [illegible]]\n\n[postcard/illustration: artist's reconstruction of Romans using the latrines at Housesteads]\n\n    The sun shone in the morning. Toni got filthy digging his [?own] way into rabbit holes.\n\n    We went to __Housesteads__, I remembered the loos."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0013",
+   "pages": [
+    {
+     "page_id": "B_0013_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Chesters"
+     ],
+     "text": "On to __Chesters__, where there is a Roman Bridge abuttment. Hadrian's wall is 73 miles long (90 Roman miles) We had lunch in the carpark + walked around in good weather."
+    },
+    {
+     "page_id": "B_0013_R",
+     "no": null,
+     "dates": [
+      "Monday"
+     ],
+     "headings": [
+      "Monday"
+     ],
+     "places": [
+      "Newcastle",
+      "St. Gabriel's",
+      "Haxton",
+      "Sykes' Wall",
+      "St. Nicholas Cathedral"
+     ],
+     "sketch": true,
+     "sketch_desc": "A hand-drawn floor plan sketch of Peter's house, showing a rectangular outline with internal partitions suggesting rooms. Lines and boxes appear to indicate doors and rooms. The sketch accompanies text describing the house layout (3 bedrooms, living, kitchen & bathroom).",
+     "text": "In the evening we reached __Newcastle__. Simon & Eve went to church at St. Gabriel's. Peter lives at 6 St. John's Terrace, Haxton, which is ENE of the city centre, behind Sykes' Wall, which is visible from the bridge.\n\tWe had supper before Evensong + then left straight away for the movie which was a looooong 30 minute walk away. We saw \"Finding Nemo.\"\n\tMonday\n\tJohn & Charles sleep on Peter's floor, they spend alot of time in playing Kieran's James Bond computer game. Tord is the other housemate who organises things.\n\tPeter's house, which looks 4 ft. [illegible] but is, infact, up a flight of stairs to 3 bedrooms, living, kitchen & bathroom\n\tSimon & Eve slept in the van. It was much warmer in town + more comfortable + Peter has central heating. We saw where P[eter] [illegible] News. St. Nicholas Cathed[ral] Peter had a lesson at 5pm. He was"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0014",
+   "pages": [
+    {
+     "page_id": "B_0014_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Baltic Flour Mill",
+      "Laing Gallery",
+      "Heaton Park"
+     ],
+     "text": "with us all day. We went to the Baltic Flour Mill & saw lots of exhibitions - woodwork, slide shows (dislocated), had lunch in a fish place, then we went shopping & to the Laing Gallery; this was mostly closed for refurbishing, but there was a good exhibition on arts of NE - glass, pottery, Bewick engraver, cloth (acetate, nylon, acrylic.)\n    There was an old jug, white & pink\n\"Have communion with few\n  Be familiar with one\n  Deal justly with all\n  Speake evil of none.\"\n    We returned to the house for Peter to set off for his class. I walked Toni in Heaton Park. He seemed quite happy sitting in the car.\n    We ate at the same Bistro restaurant. Arlequin CCX"
+    },
+    {
+     "page_id": "B_0014_R",
+     "no": 12,
+     "dates": [
+      "Tuesday October 28th"
+     ],
+     "headings": [
+      "Tuesday October 28th"
+     ],
+     "places": [
+      "Hatton Gallery",
+      "Newcastle",
+      "Metro",
+      "York"
+     ],
+     "text": "Tuesday October 28th\n    Simon & Eve went into Peter's flat again for breakfast.\n    Eve walked the dog in the park.\n    We went to the Hatton Gallery, the university museum, & saw a marvellous exhibition of Kenneth Rowntree's paintings 1915-97, a Quaker & a Yorkshireman.\n    We stopped & had a good, cheap lunch. We caught the Metro back to Peter's house, buying Peter a crash-helmet for cycling to the university. He had an afternoon class & we set off home through Newcastle traffic jams over one of the bridges. We left at 2pm & stopped in York for a cracked light. There were 2 more jams on the motorway & we only got home at 10pm."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0015",
+   "pages": [
+    {
+     "page_id": "B_0015_L",
+     "no": null,
+     "dates": [
+      "Saturday May 1st. Noon 2004"
+     ],
+     "headings": [],
+     "places": [
+      "Rye Court",
+      "Rye Brook",
+      "Rye Farm",
+      "Rye St.",
+      "Callow End",
+      "Stanbrook Abbey",
+      "Welland",
+      "Golden Valley",
+      "Duke of York"
+     ],
+     "text": "Saturday May 1st. Noon 2004\n\nSimon, Eve & Tonic set off for Bank Holiday weekend, leaving Ben at home. Weather forecast bad. Sunny as we go south on motorway. (Ryeross, Rye Court, Rye Brook, Rye Farm, Rye St. We get the massage. Rye Court was the campsite where we spent the night.)\n\nWe turned left to Callow End, pass Stanbrook Abbey & on through Welland. The trees are gorgeous. We stopped at __Rye Court Campsite__ **** We walked to look over Golden Valley. 100s rabbits Tonic didn't catch one, but on the way back we saw a dead rabbit. We met people called [?fels] who make reprod. classical sculpture, who had been listening to a cuckoo. Lots of individual forms.\n\nThe rain held off until we were back inside the van. We walked to [crossed out word] Duke of York pub for supper. A bit like the Tickell Arms, the owner drank as a customer near the door & welcomed customers.\n\n__Sunday.__\n\nLots of cut grass in the van to sweep out. They have planted horse-"
+    },
+    {
+     "page_id": "B_0015_R",
+     "no": 13,
+     "dates": [
+      "9.30."
+     ],
+     "headings": [],
+     "places": [
+      "Upton",
+      "Upton Snodsbury"
+     ],
+     "text": "chestnuts in the campsite, & fir trees which look odd, in groves, but maybe they are being grown as Christmas Trees.\n\nAt 9.30. we left to find a church at Upton. The service was at 11. It was opened by the Foxs Morris dancers, dancing the Upton Snodsbury Fertility Dance - \"give it lots of Wellie\" which was unnerving - blackened faces (some wearing glasses) & bells & thumping feet & thwacking clubs. At the end they threw the clubs on the floor. Then the cross & procession which introduced calm. The vicar called it an \"act of worship\".\n\nOne of the women Morris dancers jingled her way up to the lecturn to read the lesson. The other Morris dancers had taken their leg bells off for the service.\n\nThe Morris dancers had 5 musicians 2 small accordions a pipe & a wash board made of metal, worn like a breast plate & played with 5 metal fingers & nails on each hand."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0016",
+   "pages": [
+    {
+     "page_id": "B_0016_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "N. Somerset",
+      "Emmaus",
+      "Upton Folk Festival",
+      "Malvern Common"
+     ],
+     "text": "We had psalms sung by Vital Spark accompanied by 2 violins & clarinet & a serpent (old, large & smokey). They sounded like a cross between Country Western & a Glee Club & sang a tune like \"Green Grow the rushes Oh!\" for the psalms.\n\tThe Barley Rye (!) also sang - a community choir from N. Somerset (which means that anyone can join) 2 songs. We were remembering the 10th [struck] Ordination of Women & the 10th anniversary of all S. Africa being able to vote. [struck: The chu]\n\tThe church choir then sang \"Brother James' Air\" with great enthusiasm & skill.\n\tThe sermon concerned the road to Emmaus.\n\tAfterwards we walked out & join the procession, led by the Morris Dancers, to celebrate the __Upton Folk Festival__. Very enjoyable, the sun has come out.\n\tWe have come to __Malvern Common__ for"
+    },
+    {
+     "page_id": "B_0016_R",
+     "no": 4,
+     "dates": [
+      "Monday May 3rd"
+     ],
+     "headings": [
+      "Monday May 3rd"
+     ],
+     "places": [
+      "Malvern Common",
+      "Ochill Run",
+      "Malvern Link",
+      "Paprika",
+      "No. 7",
+      "Cottage Nursery",
+      "Woodrow",
+      "Christine's"
+     ],
+     "text": "lunch. We had a leisurely lunch & [?car] & walk along the old House view of No 7, the Ochill Run, past houses, reservoir, railway line, golf course.\n\tIn the evening we had a very good curry in \"Paprika\" (newly named) at Malvern Link, then on to a SH concert organised by John Koroku \"resident artist\"; had organised an exhibition of art work too. Simon & I really liked his prints. Charles on his euphonium, was the only base in the band.\n\n__Monday May 3rd__\n\tWe spent the night outside No. 7. & woke to the sound of rain. We tried to go to the Cottage Nursery but it's closed on Sundays & Mondays. In Christine's & Martin's hamlet \"Woodrow\" we walk [?tonic] on a footpath through a field of very inquisitive horses. Then on to a delicious lunch at Christine's where Simon saw the"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0017",
+   "pages": [
+    {
+     "page_id": "B_0017_L",
+     "no": null,
+     "dates": [
+      "Saturday May 15th"
+     ],
+     "headings": [
+      "Saturday May 15th",
+      "Sunday"
+     ],
+     "places": [
+      "Kate & Jamie's farm",
+      "South Hyde campsite",
+      "W. Malvern",
+      "St. James",
+      "Gregory Swinford's house",
+      "the Common"
+     ],
+     "text": "new garden & house. It was a good meal & afternoon with friends. Then home.\n__Saturday May 15th__\n   We left soon after lunch (S o E) & got to Kate & Jamie's farm at 3. We went on a long walk around the farm looking at apple blossom & organic wheat fields. Tonic got over-hot, lay in muddy puddles, rolled & dust & had to have a wash. Jamie has built a hot overlooking the river. We had tea on the terrace. It was lovely & sunny.\n   On [the] To South Hyde campsite, W. Malvern, a lovely field & [tent/tipi?] near the oak tree. John sang with the choir at St. James, a good concert. We then had drinks & nibbles at Gregory Swinford's house.\n__Sunday__ After chapel we had John's parents' day, drinks at the Russells & lunch with John & Charles on the Common. Then home."
+    },
+    {
+     "page_id": "B_0017_R",
+     "no": 15,
+     "dates": [
+      "Sat 22nd May"
+     ],
+     "headings": [
+      "Sat 22nd May"
+     ],
+     "places": [
+      "Borough",
+      "London",
+      "William's & Bryony's house",
+      "Southwark Cathedral",
+      "St. Albans"
+     ],
+     "text": "__Sat 22nd May__\nSimon & Eve set off for Borough in London, William's & Bryony's house. We camped in the courtyard. Simon had a heavy cold. We went to a super modern ballet, after supper at Esh. Bryony's mother, Tess, was there.\n   We had breakfast in the conservatory, a very pleasant slow, cooked breakfast, with lots of coffee. Then Simon & Eve went to Southwark Cathedral, where Canon Jeffrey John celebrated Communion for the last time before moving to be Dean of St. Albans. He preached about the need for people to stay in the Church, even when they were got at, to [bear/leave] fruit in the Church.\n   We bought lunch at M & S for everyone & then went home.\n   William's & Bryony's van is looking very smart with new yellow curtains."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0018",
+   "pages": [
+    {
+     "page_id": "B_0018_L",
+     "no": null,
+     "dates": [
+      "Friday May 28th",
+      "Saturday 29th"
+     ],
+     "headings": [
+      "Friday May 28th",
+      "Saturday 29th"
+     ],
+     "places": [
+      "Strat ford",
+      "Chipping Campden",
+      "Malvern",
+      "Wells Cathedral"
+     ],
+     "text": "__Friday May 28th__\n\n     We set off as planned at 2, but had to loop back because Simon had forgotten his telephone. We delivered lights to Strat ford & reached __Chipping Campden__ at 3.30., where Simon is chatting to William Welsch.\n     We just reached __Malvern__ at 6.35, in time for the 7 Summer Concert. Charles stood for applause, with 3 other brass players at the end of the William Tell Overture. John was in every piece. A lovely Mozart chamber music piece.\n__Saturday 29th__\n\n     We slept outside No 7. Then met up with Jane & Harry & Koroku for the service at Malvern Theatre & prize giving also at Malvern Theatre. We had a good sermon from the & Dean Emeritus of Wells Cathedral: \"When God works he works to the sound of Bach, when he eavesdrops he listens to the angels who listen to Mozart.\""
+    },
+    {
+     "page_id": "B_0018_R",
+     "no": 16,
+     "dates": [
+      "Sunday 30th May"
+     ],
+     "headings": [
+      "Sunday 30th May"
+     ],
+     "places": [
+      "SH",
+      "Ninas",
+      "Welshpool"
+     ],
+     "text": "service to the world without arrogance or egotism. The choir sang \"I'd like to teach the world to sing.\" because the former head of Coca Cola for Brit. & Ireland gave the prizes, Penny Hughes. She became head at 33, then left after 10 years to have children.\n     We had lunch at SH, then set off at 2 in the van, arriving at __Ninas__ at 6. On the way we stopped for tea & saw William & Bryony & Thomas drive past in William's & Bryony's new orange Vw camping van. They had telephoned us at __Welshpool__ to ask about shopping.\n     We had chicken salad & stodge for supper. The midges were bad. Thomas lit a fire. Bryony found an orchid in the meadow.\n__Sunday 30th May__\n\n     It rained heavily in the night & the day took a while to warm up. After breakfast Thomas set off for a walk & went 11 miles, only returning at 7.25. for supper. The rest of us read & chatted & Bryony made coffee. Simon & Eve took the wild flower book into the meadow & tried to identify flowers. There were blue dragon[flies?]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0019",
+   "pages": [
+    {
+     "page_id": "B_0019_L",
+     "no": null,
+     "dates": [
+      "Monday May 31st"
+     ],
+     "headings": [
+      "Monday May 31st"
+     ],
+     "places": [
+      "Harlech",
+      "Llanbedr"
+     ],
+     "text": "After lunch we went off on a lovely 2hr walk, up the hill behind the campsite. Tonic had trouble climbing stone wall stiles & was good about not chasing sheep. When we got back his front leg got paralysed & he had spasms. Since then he has been fine.\n   Simon & Charles & William cooked 18 lamb chops & sausages on the bbq. Then we lit Thomas' \"fire\", inside an old tyre, & cooked smores. John & Charles kept putting grass on, black smuts.\n   __Monday May 31st__\n   It was cold in the night. After breakfast Thomas, William & Bryony left in the orange van. We layed about. I read in the meadow.\n   After lunch we set off for Harlech, but as we left through the campground gates the water bracket fell off twice.\n   We parked in the Castle carpark at Harlech & wandered around the town buying coffee, bread, milk & icecreams. Then we drove back via Llanbedr. There we stopped too, but there was nothing to buy. The \"Queen Victoria\" pub grows"
+    },
+    {
+     "page_id": "B_0019_R",
+     "no": 17,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "North Wales",
+      "Wirral",
+      "Chester",
+      "Wrexham",
+      "Rhyl",
+      "Colwyn Bay",
+      "Llandudno",
+      "Conwy",
+      "Bangor",
+      "Caernarfon",
+      "Harlech",
+      "Barmouth",
+      "Cardigan Bay",
+      "Caernarfon Bay",
+      "Holyhead",
+      "Anglesey"
+     ],
+     "text": "[Printed map of North Wales glued in — decorative illustrated map titled \"NORTH WALES\" showing regions including Wirral, Chester, Wrexham, Rhyl, Colwyn Bay, Llandudno, Conwy, Bangor, Caernarfon, Harlech, Barmouth, Cardigan Bay, Caernarfon Bay, Holyhead, Anglesey, and many other place names]\n\nits own vegetables. Back at the campsite we had tea. Then it started to rain & we read & read. Charles & Simon managed to light the fire & the boys sat next to it after supper."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0020",
+   "pages": [
+    {
+     "page_id": "B_0020_L",
+     "no": null,
+     "dates": [
+      "Tuesday 1st June",
+      "Sunday June 27th"
+     ],
+     "headings": [
+      "Tuesday 1st June",
+      "Sunday June 27th"
+     ],
+     "places": [
+      "Machynlleth",
+      "Trimpley",
+      "Malvern"
+     ],
+     "text": "__Packing for 7 for the w/end__. We seem to have needed 12 pints milk, 5 loaves 2 pkts coffee. 1½ iceberg lettuce.\n~~Friday~~ Saturday we had cold chicken + cold stock, Sunday cheese + salad for lunch + apple pie lamb chops + sausage bbq in the evening. Monday cheese + eggs lunch, chicken evening. Needed 2 more puddings including Caramel flan.\n\n~~Monday~~ __Tuesday 1st June__\nWe pack up + set off for the Alternative Technology Centre at __Machynlleth__? The veg, grown out of compost, are marvellous. It made us want to save water from the downpipes + get 3 compost bins for the garden. We had a delicious lunch (veg) in the cafeteria. We reached home before 6.\n\n__Sunday June 27th__\nSimon + Eve set off at 4.40. to pick up Helen + Margaret from Trimpley to go to Malvern. We are having supper in the"
+    },
+    {
+     "page_id": "B_0020_R",
+     "no": 18,
+     "dates": [
+      "Saturday July 3rd"
+     ],
+     "headings": [
+      "Saturday July 3rd"
+     ],
+     "places": [
+      "Malvern",
+      "Little Gossingham"
+     ],
+     "text": "van at 6.30. before John's Vivaldi 'cello concerto at 7.30. Peter + Ben have been gliding. They will pick up Janet Ludford on the way for supper. Koroku + Charles might join us. Catherine + Colin + John will join us for a glass of wine after the concert.\nIn the end Hector Loring + René joined us too. We had a very good evening + we were extremely proud of John.\n\n__Saturday July 3rd__\nWe left Peter, John, Koroku + Charles + Charles' friend, Charlie Mercer, at home (going go-karting) + Simon + Eve set off at 11.15 for Kate + Ed's wedding. At __Little Gossingham__.\nIt was a beautiful wedding in a church where the tower had fallen down in 1700s. Eve read St. Francis' prayer. Kate wore pale blue. There were no bridesmaids or pages. The reception was at Ed's parents' home. Very friendly. Beth Butler + Lygie Davies were there. Good hog roast."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0021",
+   "pages": [
+    {
+     "page_id": "B_0021_L",
+     "no": null,
+     "dates": [
+      "Sunday 4th July",
+      "Saturday July 31st"
+     ],
+     "headings": [
+      "Sunday 4th July",
+      "Saturday July 31st"
+     ],
+     "places": [
+      "Clermont Hall",
+      "Sutton Coldfield"
+     ],
+     "text": "speeches by the Jones family (Clermont Hall) & by Max. The disco started & we walked across the carpark & through the wood to the drive. There was a watering machine ticking next to the van. And enormous hose bobbin reeling in the sprinkler. We slept well & watched the farmer move the machine at 7.15. the next morning.\n\t__Sunday 4th July__\n\tBen joined us after breakfast. He had slept in Jessica's borrowed car. We set off back to Peter Fisher's 60th birthday party at Sutton Coldfield.\n__Saturday July 31st__\n\tWe left at 10 but before reaching Sainsburys we returned home for Simon's sandals. We had a lovely lunch & tea at James & Hattie [?Augustier] & Laura & Edward & Hattie's mother, Nancy Seal were there. Croquet, James has an old Citroen. We left at 6 for the ferry."
+    },
+    {
+     "page_id": "B_0021_R",
+     "no": 19,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Bay of Biscay"
+     ],
+     "text": "The ferry was OK. The food was well done, except the restaurant opened late for breakfast on the last day, at 5.45 instead of 5.30. The most annoying thing was waiting for \"The Day after Tomorrow\" movie, first no picture, then no sound, for 40 minutes with Spanish subtitles, before they gave up.\n\tClive someone gave a marvellous talk on dolphins & whales. There is a greater variety of whales found in the Bay of Biscay than anywhere else in the world. A sperm has a head 1/3 size body, [he] can go 10,000 ft. down (submarines only reach 1,500 ft.). A blue whale's heart is the size of a VW Beetle. (two men stand on top of each other in [its aorta?]).\n\tRorqual is the sort of throat some whales have — lots of pleating [symbol] that enables them to open their mouths wide.\n\tBaleen is the filter system — they gulp in water & plankton & krill, shut their teeth & spit it out — nutrients stay in teeth, wipe both with tongues. Some tongues are the size of an elephant.\n\tCharles took pictures of dolphins a group of 100+ and saw a group far off of nearly 1100 dolphins, & also saw the jet of 3 bottlenose whales and took a picture of the later 2"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0022",
+   "pages": [
+    {
+     "page_id": "B_0022_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Mutriku",
+      "Guggenheim Museum",
+      "Bilbao"
+     ],
+     "captions": [
+      "The beach at Mutriku"
+     ],
+     "text": "The beach at Mutriku\n\nWe disembarked + went to see the Guggenheim Museum (Bilbao). It's amazing looking - titanium + limestone. We walked round the outside in the drizzle. Workmen in cranes were also putting up buildings covered in a sort of reflective/rainbow mother of pearl [plast...]"
+    },
+    {
+     "page_id": "B_0022_R",
+     "no": null,
+     "dates": [
+      "Tuesday August 3rd"
+     ],
+     "headings": [
+      "Tuesday August 3rd"
+     ],
+     "places": [
+      "Guernica",
+      "Mutriku"
+     ],
+     "text": "The [?guide/guidebook] [?] said we should also see the old art museum, but unfortunately it was shut because it's Monday.\n\nWe drove on to __Guernica__ + ate a very good lunch in a room behind a bar. We had salad + escalope + tuna/sword fish + cold rice pudding - very good.\n\nThe market was undercover. Simon bought food. Then we set off through the [?heat] to find a campsite. Finally we found a lovely beach at Mutriku. We drove on + found a campsite on the east side of __Mutriku__[?**], above the harbour. Italians have moved into the site next to us with enormous caravans. Ait zeta\n\n__Tuesday August 3rd__\n\nThere are a huge number of nationalities at this campsite - Dutch, Polish, Germans, Italians, Brits, Belgians. (Why are the Brits the only ones arrogant enough to call themselves \"great\" GB)\n\nIt's damp + misty. Simon slept in until 8.25.! We left + drove east, toward[s]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0023",
+   "pages": [
+    {
+     "page_id": "B_0023_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Mutiku",
+      "Donostia-San Sebastian",
+      "Pamplona"
+     ],
+     "captions": [
+      "East side of Mutiku - the harbour. Our campsite is at X"
+     ],
+     "text": "6 [?lots] [?of] sometimes → [?birds] on a church\n\n[photo: aerial view of harbour]\n\nEast side of Mutiku - the harbour. Our campsite is at X\n\nDonostia-San Sebastian, then south Towards Pamplona. We got a bit lost, so rigged up the GPS (by satalite again) so that we knew where we were. It became very very hot."
+    },
+    {
+     "page_id": "B_0023_R",
+     "no": 21,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Puente de la Reina",
+      "Santa Maria Eunate",
+      "Aitxeta Campsite"
+     ],
+     "captions": [
+      "Aitxeta Campsite"
+     ],
+     "text": "We had lunch at Puente de la Reina, which has a lovely old bridge. Simon had pale green beans. There are several old church in the town, including one with a statue of Christ left by a Mediaeval German pilgrim. We drove on to see a [?funeral] church, Santa Maria Eunate, where pilgrims would be buried. It was in a field of sunflowers.\n        We found a campsite at Lumber[illegible]\n\n[photo: aerial view of coastal campsite]\n\nAitxeta Campsite"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0024",
+   "pages": [
+    {
+     "page_id": "B_0024_L",
+     "no": null,
+     "dates": [
+      "Wednesday"
+     ],
+     "headings": [
+      "Wednesday"
+     ],
+     "places": [
+      "Hoz de Lumbier",
+      "Leyre"
+     ],
+     "captions": [
+      "EuNATE",
+      "LuMBIER"
+     ],
+     "text": "lots of dog pooh + flies.\n\nThere are buzzards cirding at the top of diff + storks nests on the churches. People are polite + friendly. Cars stop at pedestrian crossings.\n\n__Wednesday__\n    We set of to Hoz de Lumbier, it's a gorge, limestone. $[?trail-] way tunnels give access at either end. It's about 5 km long. Charles disappeared + walked on ahead. Fortunately he guessed when to turn back. Then we drove a short distance to the monastery of Leyre."
+    },
+    {
+     "page_id": "B_0024_R",
+     "no": 22,
+     "dates": [
+      "Wednesday (continued)"
+     ],
+     "headings": [],
+     "places": [
+      "Leyre",
+      "Sanguesa",
+      "Seguey",
+      "Sortile"
+     ],
+     "captions": [
+      "Gorge of Lumbier",
+      "LeYRE"
+     ],
+     "text": "The capital looks so low-down on the column in the photo of Leyre, because it is low down. That's in the crypt. We also saw the church, with a lovely doorway into a chapel, + the Judgement portal with Jonah + the Whale. (11 - 14).\n\n    We shopped at __Sanguesa__\n__Seguey__, on the Pilgrims Road. Then found a campsite, R[?obesta] ****\non the far side of the lake we could see from the monastery (amazing views from the monastery). It is up a long winding shingle track. The village on the other side of the river is deserted because the dam flooded Sortile valley land. From the campsite we walked down 30 min along old farm tracks to the lake, carrying swim suits, boat, pump + paddle. Charles + Eve swam. Eve picked fennel for supper."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0025",
+   "pages": [
+    {
+     "page_id": "B_0025_L",
+     "no": null,
+     "dates": [
+      "Thursday August 5th"
+     ],
+     "headings": [
+      "THIS BELONGS A PAGE BACK AT LUMBIER",
+      "Thursday August 5th"
+     ],
+     "places": [
+      "Lumbier",
+      "Lake Yesa",
+      "Ruesta"
+     ],
+     "text": "(Simon dropped the 3 of us off at the municipal swimming pool around the corner, while he drove to the supermarket. We expected a lift back, & it was only when Charles decided to walk, 1½ hours later, that we realised Simon had already got back. The cool swimming was marvellous (10 min along road).\n\n__THIS BELONGS A PAGE BACK AT LUMBIER__\n\nWe had bought white asparagus (tinned) which Charles said looked like wax candles, it didn't taste very good. The cider was acidic. I offered to put it in the French dressing. The cheese is rather like parmesan. The jar of tuna fish in olive oil was very good. Lake Yesa.\n__Thursday August 5th__\n\tSunny all day. We are staying on at Ruesta. In the morning we read & John beat Eve at Scrabble. At 3.30. we set off for the lake again. John & Eve swam across to the promontory. Simon didn't enjoy the swim[...]"
+    },
+    {
+     "page_id": "B_0025_R",
+     "no": 23,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Ruesta"
+     ],
+     "sketch": true,
+     "sketch_desc": "A hand-drawn outline shape near the top of the page, appearing to represent a lake or geographic feature (possibly Lake Yesa or the local lake mentioned in the text). No directional arrows or labelled place names within the sketch itself.",
+     "text": "Our campsite has been levelled & lots of poplar trees planted.\n\n[sketch of lake or terrain outline]\n\nlots of old cong[illegible] haired [?hippies] at the site - relaxed but cl[illegible]\n\nbecause the clay/sand was so slimy. Cha[rles] played with the yellow boat. John & Charles got cross because Eve wouldn't let them cross the lake - John swimming & Charles in the boat.\n\tWe returned to the campsite & walk[ed] up to the nearly-deserted town of Ruesta for supper. There was a pilgrims' supper at 8.30. which cost us £8 each - bacon soup, plaice & salad & an orange. Charles refused to eat fish, so we have had all sorts of 'Plaice jokes' since then. The pilgrims are Spanish, French & German. Simon weeded one of the yellow arrows on the track by our campsite because pilgrims were missing it."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0026",
+   "pages": [
+    {
+     "page_id": "B_0026_L",
+     "no": null,
+     "dates": [
+      "Friday August 6"
+     ],
+     "headings": [],
+     "places": [
+      "Jaca",
+      "Pyrennes"
+     ],
+     "text": "Friday August 6\n\tThere was endless drumming in the night, everytime any of us woke up. There is also a range rover next to us with an English couple in a tent. During the night they had a noisy row with the man shouting that his wife was FAT. He, himself, had a terrific paunch & was much fatter than she was!\n\tJohn & Eve set off at 9, carrying 1 Mas bar, a bottle of water, the boat & pump. John swam 2k + across the lake. It took 1hr 5min. Simon & Charles packed up camp & drove to the bridge on the far side. They flashed us with the washing-up tray, to tell us where to come in.\n\tThe middle of the lake was very beautiful & peaceful - a turquoise colour, with a wind mill farm far in the distance to the left, & the Pyrennes, that look like clouds, on the right.\n\tWe drove on to Jaca & saw lovely capitals - David & Musicians & Salen's Ass at the"
+    },
+    {
+     "page_id": "B_0026_R",
+     "no": 24,
+     "dates": [
+      "Friday August 6"
+     ],
+     "headings": [],
+     "places": [
+      "Spain",
+      "Hotel Oznas",
+      "Jaca",
+      "Aragon",
+      "Ainsa"
+     ],
+     "text": "Cathederal. We found the restaurant - Hotel Oznas - & had our best meal in Spain - a glass of gazpacho, cold meats (there was also tuna & potato stew) & liver & chips, then chocolate mousse for pud (not good). Then excellent coffee.\n\tWe drove east & found a level park for tea. There is a man doing a rush seat, maybe a Gypsy.\n\tWe (Simon & Eve) had wanted to give the last campsite 5 stars, but John & Charles would only let us give 4 - there were only cold showers & lots of flies, no drinking water & the lake had slimy mud in the bottom. Charles got laughed at for being English (he thinks they still have spite because of the Armada).\n\tWe travelled over a high pass & came down through Aragon. There were at least 5 deserted villages. We finally reached Ainsa (John: 'this wine Ainsa bad!') & shopped. The new town is down by the river & the"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0027",
+   "pages": [
+    {
+     "page_id": "B_0027_L",
+     "no": null,
+     "dates": [],
+     "headings": [
+      "Alto Aragón"
+     ],
+     "places": [
+      "Alto Aragón",
+      "[?Ainsa]"
+     ],
+     "captions": [
+      "Alto Aragón"
+     ],
+     "text": "Alto Aragón\n\nold town is up on the hill. Charles swam. [?Ainsa] *** (J+C?) **** (S+E) is across the river from the town. There is a long campsite / lovely pool, lots of showers (warm"
+    },
+    {
+     "page_id": "B_0027_R",
+     "no": 35,
+     "dates": [
+      "Friday August 8th"
+     ],
+     "headings": [
+      "Friday August 8th"
+     ],
+     "places": [
+      "Alto Aragón",
+      "[?Ainsa]"
+     ],
+     "text": "+ very- well-designed shower cubicles. Eve washed clothes + J, C+E hung them on the line at 8.30.pm. I had spent the 30min while the machine washed chopping the salad. After hanging the clothes we had supper. ($3.80 token from camp supermarket).\n\t\tDuring the night I was woked by a flash, then lots of flashes + rumbles. Charles + Eve dashed out to get in the clothes (nearly dry). Simon saw to the tent + John wondered what was going on.\n\t\t__Friday August 8th__\n\t\tWe've had a lazy morning, playing bridge + swimming. During lunch + during the afternoon nap it) rained. Tea at 4.30.\n\t\tThere is a huge mix of campers - Catalan Spanish campers with children, 2 Dutch guys in a tent + Porche, German (?) bikers - very disciplined, arrived in leathers & put up 2 tents straight away in blazing heat, a biker with a tent + 4\n\t\t\t\tpedal"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0028",
+   "pages": [
+    {
+     "page_id": "B_0028_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Ainsa"
+     ],
+     "captions": [
+      "hilltop → old town view from campsite this side of river",
+      "Ainsa"
+     ],
+     "text": "hilltop\n→ old town view from campsite this side of river\n\nAinsa\n\nsensible 4 men tents & green marquee of a group of English Scouts, complete with Union Jack. This afternoon they got clothes bag"
+    },
+    {
+     "page_id": "B_0028_R",
+     "no": 26,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Ainsa"
+     ],
+     "text": "out of their van - probably with Scout uniforms in. (Jamboree?) There is a cafe/bar at the campsite, but we are going to walk into the town this afternoon (5.30) to sightsee & try the restaurant mentioned in the guide book.\n\nWhen we arrived at the campsite we were nearly out of water - we had used Bham water until then. Simon filled with the hose near the entrance .... the water tasted disgusting & chlorinated, so we bought drinking bottles from the shop. After a day, Simon saw more hoses round the field ... he realised we had filled with swimming pool water, so we emptied & re-filled.\n\nIt has been marvellous swimming in the heat & washing my hair in a warm shower afterwards, once at noon, once at 5.30. I've put olive oil on my hair because it's sodry, which has made it difficult to wash now\n\nAt 6.30. we set off along a footpath through the fields to the river. There's a raised canal for watering lush allotment gardens. All the plants are"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0029",
+   "pages": [
+    {
+     "page_id": "B_0029_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "sketch": true,
+     "sketch_desc": "Hand-drawn diagram (not a geographic map) showing a bellows mechanism with three numbered positions. Labels include 'Salmon on wall.' and 'Fixed middle Froth'. Arrows and circles indicate the movement of parts. This is a mechanical sketch, not a route map.",
+     "text": "twice the size of English ones. We used the road bridge to cross the river into the modern town. I suggested we could catch a bus up to the old city (it was still tremendously hot) + was met with a cold stare + \"Is that a joke\". So we launched up a very steep flight of steps + arrived at cobbled streets. Very pretty but a bit gnomy in parts. Big square, little squares\n\tWe went in a museum of country crafts: basket weaving, horseshoeing, an __enormous__ __bellows__ for the blacksmith.\n5ft high ?\n\n[hand-drawn diagram of bellows mechanism with labels: \"Salmon on wall.\", \"Fixed middle Froth\", and numbered annotations]\n\n① Man pulls chain which raises bottom chamber to push air out + [?raises/collapses] top chamber at ③ to [?send] air [illegible]. [?out]\n② Man releases chain [illegible] which [?surpasses/pumps] air from top chamber [illegible]\n③ + lowers chain to [?sink/send] air into bottom chamber."
+    },
+    {
+     "page_id": "B_0029_R",
+     "no": 27,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Way of St. James"
+     ],
+     "text": "weaving wool smocks, carding wool, spinning, wood carving – spoons, dough troughs, table-top wooden containers with sliding lids, donkey saddles, nail-making in black smith forges, [?rattle] children's walkers.) Saw pit saws.\n\tThe cathedral had a terrific barrel vault, like the restaurant. Lovely cloisters with a display of the Way of St. James, [strikethrough: but a] tiny, but a Spanish girl chatting at full volume on her mob phone. For $1 you could have 5 min of a flood lit church + Gregorian Chant, which cut-off in mid bar. The crypt had low-down capitols, which made them easy to see.\n\tThe restaurants only opened at 8.30, although we were ready for food at 8. I sat on a terrace + watched forked lightening strike the mountains in the distance. Sparks seemed to fly where the forks hit the rock. It was very beautiful.\n\tThe supper was delicious. John + Charles had yet more gazpacho + Simon + Eve had well-boar ravioli + truffle sauce. Then Charles had rabbit, quail + chicken, John had sea bream + Simon + Eve shared paella – mussels + scampi – the works. Then there was lemon pudding –"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0030",
+   "pages": [
+    {
+     "page_id": "B_0030_L",
+     "no": null,
+     "dates": [
+      "Sunday August 8th"
+     ],
+     "headings": [
+      "Sunday August 8th"
+     ],
+     "places": [
+      "Gistaín",
+      "Plan"
+     ],
+     "text": "We walked out into a brewing thunderstorm & sheltered in 2 doorways. 2 men stood in Simon's doorway & one smoked his way through the storm. (Even at the scout jamboree in the square there were men in uniform smoking). The rain poured down in stair rods & thunder & lightning crashed simultaneously, like a hammer horror film. When it eased up we walked back to the campsite down the steps & along the road because it was too dark to see in the fields.\n\n__Sunday August 8th__\n    John went swimming yesterday with 5 of Charles' MDs in his pocket! Apparently they all still work! Simon & Charles are furious at the campsite owners who won't exchange other goods from the shop for our enormous drinking water bottles, that we no longer need.\n\n    We set off eastward & went up into a dead-end valley, Gistaín, to find a church. The service in Plan village fortunately started 35 minutes after we got there. It was a lovely, full church, a small prayer area with cushions at the back, too"
+    },
+    {
+     "page_id": "B_0030_R",
+     "no": 28,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Plan",
+      "Gistaín"
+     ],
+     "captions": [
+      "Plan Church, Valley of Gistaín, Aragon Pyrenees"
+     ],
+     "text": "altars with flowers, one had a book open with lives of the saints. The congregation sang the service with enthusiasm. The service, with sermon, took 35 minutes."
+    }
+   ]
+  }
+ ]
+}

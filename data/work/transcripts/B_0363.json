@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0363",
+  "volume": "B",
+  "pdf_page": 363,
+  "pages": [
+    {
+      "page_id": "B_0363_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "for Peter's 39th birthday cake. He asked me if I had put all 36 candles on it to test me. Then William & family went home (school). & John & family went home (work). Nana's sleeping in a tent, Gigi is filling the triangle in the camping van be[d] left by Peter. Simon has made a [struck-through word] tray to fill the space between the cab seats for Olive to sleep on. Thomas is sleeping in a dome with [?]Flora + Betty. We stared salady stuff + Nina's cooking. Cold in the night.\n\n__Monday__\nI walked to the festival with Betty, Olive, Conrad + Nini + we had a super craft morning. lots of talks. Nana + I sat in on \"His dark materials.\" Simon bought meal deal lunches at Co-op. Messed about in the afternoon. Fish + chip supper.\n\n__Tuesday__\nWe all went to different things. I slept in a lecture with Peter. In the afternoon Simon + I took Nini + Flora to Hay Castle for Julius Caesar. Big mistake. Children v bored. I left at ½ time with chil + Simon enjoyed the rest.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.15 },
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.15 }
+      ],
+      "headings": ["Monday", "Tuesday"],
+      "underlined_places": [],
+      "place_mentions": ["Hay Castle", "Co-op"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.78,
+      "notes": "Text begins mid-sentence — continuation from previous spread. The word before 'tray' is struck through in the original; appears to be 'top' crossed out. 'stared' likely means 'shared' or could be 'staved' — transcribed as written. 'His dark materials' is a theatrical production at what appears to be the Hay Festival (Hay-on-Wye) based on Hay Castle reference and festival context. Peter's '39th' birthday mentioned with '36 candles' — the candle count discrepancy is in the original. No handwritten page number visible in top-left corner. Right-margin partial text ('A / th / in / Bo / re / Ga / to') belongs to the right page and is not transcribed here."
+    },
+    {
+      "page_id": "B_0363_R",
+      "side": "R",
+      "handwritten_page_no": 12,
+      "blank": false,
+      "full_text": "12 chevrd\nf St. Mary\n+ St. David\nKilpeck\n\n[Photo of carved Norman doorway arch of a stone church]\n\nAfter ½ cup tea, Thomas drove chit + me down to the river, where Nini, Betty + Olive paddle[d] without being knocked over by the current. I hav[e] bought each of the children a book, so they are re[ally] needing lots which is great. Meanwhile [?John] Gaskell has [?turned] up at the campsite is chatt[ing] to Nana.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Kilpeck"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["12 chevrd / f St. Mary / + St. David / Kilpeck"],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.72,
+      "notes": "Handwritten page number '12' in top-right corner. Photo shows the famous Norman carved doorway of St Mary and St David church at Kilpeck, Herefordshire. Caption text reads '12 chevrd / f St. Mary / + St. David / Kilpeck' — 'chevrd' is unclear; could be an abbreviation for 'church' or 'chev[ron]ed' (describing the carved chevrons on the arch), or '12[th century] ch[urch]' with unusual abbreviation; 'f' likely abbreviates 'of'. 'chit' in the body text may be a person's name or nickname. '[?John] Gaskell' — first name uncertain; 'John' is a guess. Text continues from previous spread's Tuesday entry. Right-side text partially visible in left image overlap has been included here."
+    }
+  ]
+}

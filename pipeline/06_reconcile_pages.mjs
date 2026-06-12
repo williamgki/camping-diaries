@@ -17,52 +17,65 @@ for (const vol of ['A', 'B']) {
     .filter((f) => f.startsWith(`${vol}_`) && f.endsWith('.json'))
     .sort()
   const anomalies = []
-  const books = [] // { start_spread, end_spread, byNumber, index_spreads }
-  let book = null
-  const newBook = (spread) => {
-    book = { start_spread: spread, end_spread: spread, byNumber: {}, index_spreads: [] }
-    books.push(book)
-  }
-  let prev = null // { no, page_id }
+
+  // Load all transcripts in spread order.
+  const spreads = []
   for (const f of files) {
-    let t
     try {
-      t = JSON.parse(readFileSync(join(TDIR, f), 'utf8'))
+      spreads.push(JSON.parse(readFileSync(join(TDIR, f), 'utf8')))
     } catch {
       anomalies.push({ type: 'unreadable_transcript', file: f })
-      continue
     }
-    if (!book) newBook(t.spread_id)
+  }
+
+  // Pass 1: notebook boundaries = clusters of index spreads. Each physical
+  // notebook in the compiled volume opens with its own handwritten index;
+  // page-number readings are too noisy to use for splitting (misreads would
+  // create false notebooks), so indexes are the only split signal.
+  const indexSpreadNums = spreads
+    .filter((t) => (t.pages ?? []).some((p) => p.is_index_page))
+    .map((t) => Number(t.spread_id.split('_')[1]))
+  const boundaries = []
+  for (const n of indexSpreadNums) {
+    const last = boundaries[boundaries.length - 1]
+    if (last && n - last.end <= 2) last.end = n
+    else boundaries.push({ start: n, end: n })
+  }
+
+  // Pass 2: assign every spread to the book opened by the latest boundary.
+  const books = boundaries.map((b) => ({
+    index_at: b,
+    start_spread: null,
+    end_spread: null,
+    byNumber: {},
+    index_spreads: [],
+  }))
+  if (!books.length) books.push({ index_at: null, start_spread: null, end_spread: null, byNumber: {}, index_spreads: [] })
+  let prev = null
+  for (const t of spreads) {
+    const n = Number(t.spread_id.split('_')[1])
+    let bi = 0
+    for (let i = 0; i < boundaries.length; i++) if (n >= boundaries[i].start) bi = i
+    const book = books[bi]
+    if (!book.start_spread) {
+      book.start_spread = t.spread_id
+      prev = null // numbering restarts with each notebook
+    }
+    book.end_spread = t.spread_id
     for (const p of t.pages ?? []) {
-      if (p.is_index_page && !book.index_spreads.includes(t.spread_id)) {
-        // an index page after numbered content signals the next notebook
-        if (Object.keys(book.byNumber).length > 10) {
-          newBook(t.spread_id)
-          prev = null
-        }
-        book.index_spreads.push(t.spread_id)
-      }
-      const n = p.handwritten_page_no
-      if (n == null) continue
-      // numbering reset (e.g. 140 -> 2) without an index in between: new book
-      if (prev && n < prev.no - 20 && n <= 12) {
-        newBook(t.spread_id)
-        prev = null
-      }
-      if (book.byNumber[n] && book.byNumber[n] !== p.page_id) {
-        anomalies.push({ type: 'duplicate_page_no', no: n, pages: [book.byNumber[n], p.page_id] })
+      if (p.is_index_page && !book.index_spreads.includes(t.spread_id)) book.index_spreads.push(t.spread_id)
+      const no = p.handwritten_page_no
+      if (no == null) continue
+      if (book.byNumber[no] && book.byNumber[no] !== p.page_id) {
+        anomalies.push({ type: 'duplicate_page_no', no, pages: [book.byNumber[no], p.page_id] })
       } else {
-        book.byNumber[n] = p.page_id
+        book.byNumber[no] = p.page_id
       }
       if (prev) {
-        if (n < prev.no) {
-          anomalies.push({ type: 'decreasing_page_no', from: prev, to: { no: n, page_id: p.page_id } })
-        } else if (n - prev.no > 6) {
-          anomalies.push({ type: 'large_jump', from: prev, to: { no: n, page_id: p.page_id } })
-        }
+        if (no < prev.no) anomalies.push({ type: 'decreasing_page_no', from: prev, to: { no, page_id: p.page_id } })
+        else if (no - prev.no > 6) anomalies.push({ type: 'large_jump', from: prev, to: { no, page_id: p.page_id } })
       }
-      prev = { no: n, page_id: p.page_id }
-      book.end_spread = t.spread_id
+      prev = { no, page_id: p.page_id }
     }
   }
   const byNumber = books[0]?.byNumber ?? {} // front index targets the first book

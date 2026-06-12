@@ -1,0 +1,52 @@
+{
+  "spread_id": "B_0360",
+  "volume": "B",
+  "pdf_page": 360,
+  "pages": [
+    {
+      "page_id": "B_0360_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the van\nThursday\nWe spent Today in the field campsite reading\n\nFriday\n  At 10.30, we set off for lunch with David +\nthe weekend with Peter in London. It's Maia's\nbirthday- Imogen Maxwell has had a baby boy.\n    David + Sally were well. David has lost\nweight. He returns to [?Norce] for a month in\nNovember. He has to be in Europe 6mo + per\nyear\n    We stayed with Peter + Nana for Friday +\nSaturday nights. Lots of building works in\nprogress + proposed. We took Kiri + Gigi to\nBear + Wolf Cafe. Playground. Watched foot ball.\nFarmers Market. Peter sick then better.\n\nSunday. Chris Lowe + Fran + Oscar came. We\nleft straight after lunch to get back for the\nSt. G. church course. Home 5.15.\nOctober → __November 15th__\nSimon has used the van to clear out the Chad\nFactory building → George Rd. + the Farm.\nAbout 5-6 loads.",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "October → November 15th", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Thursday", "Friday", "Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["London", "George Rd.", "Chad Factory building", "the Farm"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page is a continuation from a prior spread — top line reads 'the van', suggesting the heading was on the previous page. 'Norce' is uncertain; could be a place name or abbreviation (possibly 'Norse' countries/Norway, or a misread). The text about David returning 'to [?Norce] for a month in November' and needing 'to be in Europe 6mo + per year' suggests a work posting abroad. 'Bear + Wolf Cafe' is likely a specific café name. No handwritten page number visible in the top-left corner. Right-side text is partially cut by the gutter overlap, particularly 'At 10.30, we set off for lunch with David +' (rest obscured). The November 15th entry is underlined."
+    },
+    {
+      "page_id": "B_0360_R",
+      "side": "R",
+      "handwritten_page_no": 61,
+      "blank": false,
+      "full_text": "Saturday February 26th 2022\n11.30. We left George Rd to spend a day in the\ncountry. NW.\n  We parked at Enfield Church, Staffordshire for lunch.\nThen we walked down the hill + across fields near\nthe hall, past playing fields to a lake. A lovely\nsunny walk, v. windy. Back at the van [?Donna]\ndoesn't answer her phone (no tea at Astley\nAbbotts) so we headed for home through the\nBlack Country. At Spring Hill we filled up with\nLPG gas.\n  Simon was showing how the heater worked to [?Lizzie].\nHe didn't switch it off properly. After 3½ days he\nfound the van warm + had to fill it again.\n\nWednesday March 9th\n8.30. we set off for Jackie's to leave Tinders in\nVictoria Rd. On the way there Peter telephoned for\nus to wish Conrad + Nini happy birthday.\nWe are off to [?Penn Onn] to help Kay with Eben +\nRalph (3 mo) while John is a new registrar.\n[?Arrington]'s + Charles' baby is due in a few days.\nWe go on to Claudia's wedding in Scotland after\nWales. (Wed night in [?Penn Onn].)\nThursday We left the layby at 6.50. + reached\n[text continues on next page]",
+      "dates": [
+        { "raw": "Saturday February 26th 2022", "iso_guess": "2022-02-26", "confidence": 0.95 },
+        { "raw": "Wednesday March 9th", "iso_guess": "2022-03-09", "confidence": 0.85 },
+        { "raw": "Thursday", "iso_guess": "2022-03-10", "confidence": 0.6 }
+      ],
+      "headings": ["Saturday February 26th 2022", "Wednesday March 9th", "Thursday"],
+      "underlined_places": [],
+      "place_mentions": ["George Rd", "Enfield Church", "Staffordshire", "Astley Abbotts", "Black Country", "Spring Hill", "Victoria Rd", "Scotland", "Wales"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "The date 'Saturday February 26th 2022' is clearly written; this places the entries in 2022, which is outside the stated volume range of 2003-2019, suggesting this volume continued past 2019. Handwritten page number '61' is visible in the top-right corner. 'Enfield Church, Staffordshire' is likely Enville Church near Stourbridge, or possibly Enfield in Staffordshire — transcribed exactly as written. 'Astley Abbotts' is a real village near Bridgnorth, Shropshire. '[?Donna]' is uncertain — a person's name whose phone was not answered. '[?Lizzie]' is uncertain — the person Simon was showing the heater to. '[?Penn Onn]' is uncertain — likely a place in Wales (possibly 'Penon', 'Pennon', or 'Pen-y-cae'); context is a trip to Wales to help Kay. '[?Arrington]' is uncertain — could be a surname. 'Conrad + Nini' are personal names. Text is cut off at the bottom."
+    }
+  ]
+}

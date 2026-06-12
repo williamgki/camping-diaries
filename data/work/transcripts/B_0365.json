@@ -1,0 +1,57 @@
+{
+  "spread_id": "B_0365",
+  "volume": "B",
+  "pdf_page": 365,
+  "pages": [
+    {
+      "page_id": "B_0365_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "3pm Wednesday June 15th.\nWe left home + put Tinder in Hylton Hound Kennels at 4.\nWe arrived at Little Bramshott Farm campsite at 6.20. Near Fleet, Fussy owner, lovely oak Trees.\nIn the map the site is marked with red hatching as if War Dept. land.\nSo hot in the morning I had to wear a hat in bed to drink tea.\n__Thursday__\nWe set off [for] thru Eversley to Farley to deliver [?Lash].\nThen on to Hounslow West, underground station, to park van.\nWe stopped off to see Eversley Church where we were married nearly 48 years ago. Locked. But in the graveyard we found Charles Kingsley's tomb (quickly 2 ladies with flowers) buried with his wife,\n[strikethrough: Amabo] Anavimus, Anamus, Anabamus.\nWe trained into London on the Piccadilly line + bought chocolates at Harrods. On to the Berkeley Hotel + met Bobby + Steve in the lobby. Then back to Harvey Nichols where we had a good lunch with Peter + Nana outside. But it got a bit hot.\nWe trained back to Hounslow West + [?] set off thru",
+      "dates": [
+        { "raw": "Wednesday June 15th", "iso_guess": "2016-06-15", "confidence": 0.55 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": [],
+      "place_mentions": [
+        "Hylton Hound Kennels",
+        "Little Bramshott Farm",
+        "Fleet",
+        "Eversley",
+        "Farley",
+        "Hounslow West",
+        "Eversley Church",
+        "London",
+        "Harrods",
+        "Berkeley Hotel",
+        "Harvey Nichols"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "No year given on page. Entry starts Wednesday June 15th; June 15 fell on a Wednesday in 2011 and 2016 — late position in volume B (2003–2019) makes 2016 the stronger candidate, but this cannot be confirmed from page content alone so confidence is modest. 'Tinder' appears to be a pet name (put in kennels). 'Hylton Hound Kennels' is a place name. The Latin-ish words after Charles Kingsley's tomb mention appear to be the diarist's attempt to recall the tomb inscription 'Amavimus, Amamus, Amabimus' (We have loved, We love, We shall love) — rendered here as struck-through first attempt then 'Anavimus, Anamus, Anabamus'. The word after 'deliver' in the Thursday entry is unclear — possibly 'Lash' or 'Cash'. The text is cut off at the bottom ('set off thru' — continues on following page)."
+    },
+    {
+      "page_id": "B_0365_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Harvey Nichols"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Harvey Nichols"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 1.0,
+      "notes": "Right page is entirely a glued-in photograph showing the interior of Harvey Nichols (restaurant/bar area with distinctive decor). The text 'HARVEY NICHOLS' is printed on the photo itself, not handwritten. No handwritten text on this page."
+    }
+  ]
+}

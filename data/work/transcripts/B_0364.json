@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0364",
+  "volume": "B",
+  "pdf_page": 364,
+  "pages": [
+    {
+      "page_id": "B_0364_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Kilpeck Church",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Kilpeck Church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Kilpeck Church"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "Page is almost entirely photographs of stone carvings and architectural details from Kilpeck Church. The only handwritten text is the caption 'Kilpeck Church' written in black ink beneath the lower-left cluster of photos. No handwritten page number visible."
+    },
+    {
+      "page_id": "B_0364_R",
+      "side": "R",
+      "handwritten_page_no": 65,
+      "blank": false,
+      "full_text": "At suppertime we go to the Indian restaurant across the field. V. clean loos + showers. Most satisfactory. The composting loo at the campsite has a diversion so pee goes one way + pooh the other. Children can't use it because their bums aren't big enough, so they use the porta loos. Then Simon lit the out door fire pit, the children play with planes + we chat.\n__Wednesday June 1st__\nLots of packing up. Nana + I take Connor, Nin, Olive + Betty to \"Making a wild scrap book\" which we greatly enjoyed. Olive made a grass man. Then Thomas arrived + we spent time again in the bookshop.\nThomas dropped me back at the campsite. Simon + I drove to see Kilpeck church^1134 + had lunch there on the way home.\nThe weather at Hay was much kinder than we expected with only a little bit of rain sometimes. There's lots of bunting for the Queen's platinum jubilee next week.",
+      "dates": [
+        { "raw": "Wednesday June 1st", "iso_guess": "2022-06-01", "confidence": 0.95 }
+      ],
+      "headings": ["Wednesday June 1st"],
+      "underlined_places": [],
+      "place_mentions": ["Kilpeck church", "Hay"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page number 65 visible at top right. A superscript '1134' appears after 'Kilpeck church' — likely a footnote or reference number, not a page number. 'Wednesday June 1st' is underlined. The reference to 'Queen's platinum jubilee next week' firmly dates this entry to June 2022 (Platinum Jubilee was 2–5 June 2022), despite volume B being labelled 2003–2019; the volume evidently extended beyond 2019. 'Hay' refers to Hay-on-Wye. 'Nin' could read 'Nia'; 'Connor' could be 'Conor'. The text beginning 'At suppertime' continues from the previous spread."
+    }
+  ]
+}

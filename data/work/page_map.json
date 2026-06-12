@@ -1,0 +1,2351 @@
+{
+ "A": {
+  "transcript_files": 350,
+  "books": [
+   {
+    "start_spread": "A_0001",
+    "end_spread": "A_0083",
+    "numbered_pages": 122,
+    "index_spreads": [
+     "A_0002"
+    ],
+    "byNumber": {
+     "1": "A_0003_R",
+     "2": "A_0004_L",
+     "3": "A_0004_R",
+     "4": "A_0005_L",
+     "5": "A_0005_R",
+     "6": "A_0006_L",
+     "7": "A_0006_R",
+     "8": "A_0007_L",
+     "9": "A_0007_R",
+     "10": "A_0008_L",
+     "11": "A_0008_R",
+     "12": "A_0009_L",
+     "13": "A_0009_R",
+     "14": "A_0010_L",
+     "15": "A_0010_R",
+     "16": "A_0011_L",
+     "17": "A_0011_R",
+     "18": "A_0012_L",
+     "19": "A_0012_R",
+     "20": "A_0013_L",
+     "21": "A_0013_R",
+     "22": "A_0014_L",
+     "23": "A_0014_R",
+     "24": "A_0015_L",
+     "25": "A_0015_R",
+     "26": "A_0016_L",
+     "27": "A_0016_R",
+     "28": "A_0017_L",
+     "29": "A_0017_R",
+     "30": "A_0018_L",
+     "31": "A_0018_R",
+     "32": "A_0019_L",
+     "33": "A_0019_R",
+     "34": "A_0020_L",
+     "35": "A_0020_R",
+     "36": "A_0021_L",
+     "37": "A_0021_R",
+     "38": "A_0022_R",
+     "40": "A_0023_L",
+     "41": "A_0023_R",
+     "42": "A_0024_L",
+     "43": "A_0024_R",
+     "44": "A_0025_L",
+     "45": "A_0025_R",
+     "47": "A_0026_L",
+     "48": "A_0026_R",
+     "49": "A_0027_L",
+     "50": "A_0027_R",
+     "51": "A_0028_L",
+     "53": "A_0028_R",
+     "54": "A_0029_R",
+     "55": "A_0030_L",
+     "56": "A_0030_R",
+     "57": "A_0031_L",
+     "58": "A_0031_R",
+     "59": "A_0032_L",
+     "60": "A_0032_R",
+     "61": "A_0033_L",
+     "62": "A_0033_R",
+     "63": "A_0034_L",
+     "65": "A_0035_L",
+     "66": "A_0035_R",
+     "67": "A_0036_L",
+     "68": "A_0036_R",
+     "69": "A_0037_L",
+     "71": "A_0038_L",
+     "72": "A_0039_L",
+     "73": "A_0039_R",
+     "74": "A_0040_L",
+     "75": "A_0040_R",
+     "76": "A_0041_L",
+     "77": "A_0041_R",
+     "80": "A_0042_L",
+     "81": "A_0042_R",
+     "82": "A_0043_L",
+     "83": "A_0043_R",
+     "84": "A_0044_L",
+     "85": "A_0046_R",
+     "86": "A_0045_L",
+     "87": "A_0045_R",
+     "92": "A_0048_L",
+     "94": "A_0049_L",
+     "95": "A_0049_R",
+     "96": "A_0050_L",
+     "97": "A_0050_R",
+     "100": "A_0052_L",
+     "101": "A_0052_R",
+     "102": "A_0053_L",
+     "103": "A_0053_R",
+     "104": "A_0047_L",
+     "105": "A_0054_R",
+     "106": "A_0055_L",
+     "107": "A_0055_R",
+     "108": "A_0056_L",
+     "109": "A_0056_R",
+     "110": "A_0057_L",
+     "112": "A_0058_L",
+     "113": "A_0058_R",
+     "114": "A_0059_L",
+     "115": "A_0059_R",
+     "116": "A_0060_L",
+     "117": "A_0060_R",
+     "118": "A_0061_L",
+     "119": "A_0061_R",
+     "120": "A_0062_L",
+     "121": "A_0062_R",
+     "124": "A_0064_R",
+     "125": "A_0065_R",
+     "126": "A_0066_R",
+     "127": "A_0067_R",
+     "128": "A_0068_R",
+     "129": "A_0069_R",
+     "130": "A_0070_R",
+     "131": "A_0071_R",
+     "132": "A_0072_R",
+     "133": "A_0073_R",
+     "134": "A_0074_R",
+     "136": "A_0076_R",
+     "137": "A_0077_R",
+     "138": "A_0078_R",
+     "139": "A_0079_R",
+     "140": "A_0080_R"
+    }
+   },
+   {
+    "start_spread": "A_0084",
+    "end_spread": "A_0167",
+    "numbered_pages": 48,
+    "index_spreads": [
+     "A_0084"
+    ],
+    "byNumber": {
+     "1": "A_0086_R",
+     "2": "A_0087_R",
+     "4": "A_0089_R",
+     "9": "A_0094_R",
+     "10": "A_0095_R",
+     "11": "A_0096_R",
+     "12": "A_0097_R",
+     "13": "A_0098_R",
+     "14": "A_0099_R",
+     "15": "A_0100_R",
+     "16": "A_0101_R",
+     "18": "A_0103_R",
+     "19": "A_0104_R",
+     "22": "A_0107_R",
+     "24": "A_0109_R",
+     "25": "A_0108_R",
+     "26": "A_0111_R",
+     "27": "A_0112_R",
+     "28": "A_0113_R",
+     "29": "A_0114_R",
+     "30": "A_0115_R",
+     "31": "A_0116_R",
+     "32": "A_0117_R",
+     "35": "A_0120_R",
+     "36": "A_0121_R",
+     "37": "A_0143_R",
+     "38": "A_0118_R",
+     "40": "A_0125_R",
+     "42": "A_0127_R",
+     "43": "A_0129_R",
+     "45": "A_0131_R",
+     "56": "A_0142_R",
+     "57": "A_0140_R",
+     "58": "A_0144_R",
+     "59": "A_0145_R",
+     "61": "A_0147_R",
+     "62": "A_0149_R",
+     "67": "A_0137_R",
+     "68": "A_0155_R",
+     "69": "A_0156_R",
+     "70": "A_0157_R",
+     "72": "A_0159_R",
+     "78": "A_0134_R",
+     "79": "A_0166_R",
+     "80": "A_0146_R",
+     "85": "A_0152_R",
+     "88": "A_0136_R",
+     "95": "A_0085_R"
+    }
+   },
+   {
+    "start_spread": "A_0168",
+    "end_spread": "A_0255",
+    "numbered_pages": 40,
+    "index_spreads": [
+     "A_0168",
+     "A_0169"
+    ],
+    "byNumber": {
+     "1": "A_0170_R",
+     "2": "A_0171_R",
+     "3": "A_0172_R",
+     "4": "A_0178_R",
+     "5": "A_0174_R",
+     "6": "A_0175_R",
+     "8": "A_0177_R",
+     "12": "A_0185_R",
+     "13": "A_0182_R",
+     "17": "A_0186_R",
+     "19": "A_0251_R",
+     "21": "A_0190_R",
+     "24": "A_0193_R",
+     "25": "A_0197_R",
+     "28": "A_0219_R",
+     "30": "A_0200_R",
+     "32": "A_0201_R",
+     "33": "A_0202_R",
+     "34": "A_0203_R",
+     "35": "A_0204_R",
+     "37": "A_0206_R",
+     "38": "A_0207_R",
+     "41": "A_0210_R",
+     "43": "A_0213_R",
+     "46": "A_0216_R",
+     "48": "A_0209_R",
+     "50": "A_0220_R",
+     "51": "A_0221_R",
+     "53": "A_0223_R",
+     "59": "A_0225_R",
+     "62": "A_0232_R",
+     "63": "A_0233_R",
+     "67": "A_0237_R",
+     "70": "A_0248_R",
+     "75": "A_0243_R",
+     "77": "A_0249_R",
+     "78": "A_0179_R",
+     "79": "A_0254_R",
+     "80": "A_0252_R",
+     "94": "A_0244_R"
+    }
+   },
+   {
+    "start_spread": "A_0256",
+    "end_spread": "A_0350",
+    "numbered_pages": 53,
+    "index_spreads": [
+     "A_0256"
+    ],
+    "byNumber": {
+     "1": "A_0257_R",
+     "2": "A_0279_R",
+     "3": "A_0289_R",
+     "4": "A_0298_R",
+     "5": "A_0314_R",
+     "7": "A_0263_R",
+     "8": "A_0264_R",
+     "9": "A_0265_R",
+     "10": "A_0266_R",
+     "11": "A_0267_R",
+     "15": "A_0271_R",
+     "16": "A_0273_L",
+     "17": "A_0273_R",
+     "18": "A_0274_R",
+     "19": "A_0275_R",
+     "21": "A_0297_R",
+     "27": "A_0283_R",
+     "31": "A_0295_R",
+     "37": "A_0293_R",
+     "38": "A_0294_R",
+     "40": "A_0296_R",
+     "45": "A_0350_R",
+     "46": "A_0301_R",
+     "47": "A_0302_R",
+     "48": "A_0303_R",
+     "49": "A_0304_R",
+     "50": "A_0305_R",
+     "53": "A_0308_R",
+     "54": "A_0309_R",
+     "55": "A_0310_R",
+     "56": "A_0311_R",
+     "58": "A_0313_R",
+     "62": "A_0317_R",
+     "64": "A_0319_R",
+     "65": "A_0318_R",
+     "66": "A_0321_R",
+     "67": "A_0322_R",
+     "68": "A_0315_R",
+     "69": "A_0324_R",
+     "70": "A_0325_R",
+     "72": "A_0348_R",
+     "73": "A_0328_R",
+     "75": "A_0330_R",
+     "76": "A_0331_R",
+     "78": "A_0333_R",
+     "79": "A_0334_R",
+     "80": "A_0335_R",
+     "82": "A_0337_R",
+     "84": "A_0339_R",
+     "85": "A_0340_R",
+     "86": "A_0316_R",
+     "87": "A_0343_R",
+     "88": "A_0344_R"
+    }
+   }
+  ],
+  "anomalies": [
+   {
+    "type": "duplicate_page_no",
+    "no": 53,
+    "pages": [
+     "A_0028_R",
+     "A_0029_L"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 84,
+    "pages": [
+     "A_0044_L",
+     "A_0046_L"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 87,
+     "page_id": "A_0045_R"
+    },
+    "to": {
+     "no": 84,
+     "page_id": "A_0046_L"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 85,
+     "page_id": "A_0046_R"
+    },
+    "to": {
+     "no": 104,
+     "page_id": "A_0047_L"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 104,
+     "page_id": "A_0047_L"
+    },
+    "to": {
+     "no": 92,
+     "page_id": "A_0048_L"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 11,
+    "pages": [
+     "A_0008_R",
+     "A_0051_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 97,
+     "page_id": "A_0050_R"
+    },
+    "to": {
+     "no": 11,
+     "page_id": "A_0051_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 11,
+     "page_id": "A_0051_R"
+    },
+    "to": {
+     "no": 100,
+     "page_id": "A_0052_L"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 104,
+    "pages": [
+     "A_0047_L",
+     "A_0054_L"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 95,
+     "page_id": "A_0085_R"
+    },
+    "to": {
+     "no": 1,
+     "page_id": "A_0086_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 25,
+     "page_id": "A_0108_R"
+    },
+    "to": {
+     "no": 24,
+     "page_id": "A_0109_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 38,
+     "page_id": "A_0118_R"
+    },
+    "to": {
+     "no": 35,
+     "page_id": "A_0120_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 42,
+    "pages": [
+     "A_0127_R",
+     "A_0128_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 42,
+    "pages": [
+     "A_0127_R",
+     "A_0129_L"
+    ]
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 45,
+     "page_id": "A_0131_R"
+    },
+    "to": {
+     "no": 78,
+     "page_id": "A_0134_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 78,
+     "page_id": "A_0134_R"
+    },
+    "to": {
+     "no": 88,
+     "page_id": "A_0136_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 88,
+     "page_id": "A_0136_R"
+    },
+    "to": {
+     "no": 67,
+     "page_id": "A_0137_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 67,
+     "page_id": "A_0137_R"
+    },
+    "to": {
+     "no": 57,
+     "page_id": "A_0140_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 57,
+     "page_id": "A_0140_R"
+    },
+    "to": {
+     "no": 56,
+     "page_id": "A_0142_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 56,
+     "page_id": "A_0142_R"
+    },
+    "to": {
+     "no": 37,
+     "page_id": "A_0143_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 37,
+     "page_id": "A_0143_R"
+    },
+    "to": {
+     "no": 58,
+     "page_id": "A_0144_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 59,
+     "page_id": "A_0145_R"
+    },
+    "to": {
+     "no": 80,
+     "page_id": "A_0146_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 80,
+     "page_id": "A_0146_R"
+    },
+    "to": {
+     "no": 61,
+     "page_id": "A_0147_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 25,
+    "pages": [
+     "A_0108_R",
+     "A_0150_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 62,
+     "page_id": "A_0149_R"
+    },
+    "to": {
+     "no": 25,
+     "page_id": "A_0150_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 25,
+     "page_id": "A_0150_R"
+    },
+    "to": {
+     "no": 85,
+     "page_id": "A_0152_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 85,
+     "page_id": "A_0152_R"
+    },
+    "to": {
+     "no": 68,
+     "page_id": "A_0155_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 14,
+    "pages": [
+     "A_0099_R",
+     "A_0161_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 72,
+     "page_id": "A_0159_R"
+    },
+    "to": {
+     "no": 14,
+     "page_id": "A_0161_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 15,
+    "pages": [
+     "A_0100_R",
+     "A_0162_R"
+    ]
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 15,
+     "page_id": "A_0162_R"
+    },
+    "to": {
+     "no": 79,
+     "page_id": "A_0166_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 8,
+     "page_id": "A_0177_R"
+    },
+    "to": {
+     "no": 4,
+     "page_id": "A_0178_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 4,
+     "page_id": "A_0178_R"
+    },
+    "to": {
+     "no": 78,
+     "page_id": "A_0179_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 78,
+     "page_id": "A_0179_R"
+    },
+    "to": {
+     "no": 13,
+     "page_id": "A_0182_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 13,
+    "pages": [
+     "A_0182_R",
+     "A_0184_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 13,
+     "page_id": "A_0184_R"
+    },
+    "to": {
+     "no": 12,
+     "page_id": "A_0185_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 34,
+    "pages": [
+     "A_0203_R",
+     "A_0205_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 35,
+     "page_id": "A_0204_R"
+    },
+    "to": {
+     "no": 34,
+     "page_id": "A_0205_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 37,
+    "pages": [
+     "A_0206_R",
+     "A_0208_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 38,
+     "page_id": "A_0207_R"
+    },
+    "to": {
+     "no": 37,
+     "page_id": "A_0208_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 37,
+     "page_id": "A_0208_R"
+    },
+    "to": {
+     "no": 48,
+     "page_id": "A_0209_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 48,
+     "page_id": "A_0209_R"
+    },
+    "to": {
+     "no": 41,
+     "page_id": "A_0210_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 48,
+    "pages": [
+     "A_0209_R",
+     "A_0218_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 48,
+     "page_id": "A_0218_R"
+    },
+    "to": {
+     "no": 28,
+     "page_id": "A_0219_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 28,
+     "page_id": "A_0219_R"
+    },
+    "to": {
+     "no": 50,
+     "page_id": "A_0220_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 34,
+    "pages": [
+     "A_0203_R",
+     "A_0224_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 53,
+     "page_id": "A_0223_R"
+    },
+    "to": {
+     "no": 34,
+     "page_id": "A_0224_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 34,
+     "page_id": "A_0224_R"
+    },
+    "to": {
+     "no": 59,
+     "page_id": "A_0225_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 3,
+    "pages": [
+     "A_0172_R",
+     "A_0226_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 59,
+     "page_id": "A_0225_R"
+    },
+    "to": {
+     "no": 3,
+     "page_id": "A_0226_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 5,
+    "pages": [
+     "A_0174_R",
+     "A_0227_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 41,
+    "pages": [
+     "A_0210_R",
+     "A_0231_R"
+    ]
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 5,
+     "page_id": "A_0227_R"
+    },
+    "to": {
+     "no": 41,
+     "page_id": "A_0231_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 41,
+     "page_id": "A_0231_R"
+    },
+    "to": {
+     "no": 62,
+     "page_id": "A_0232_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 62,
+    "pages": [
+     "A_0232_R",
+     "A_0234_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 63,
+     "page_id": "A_0233_R"
+    },
+    "to": {
+     "no": 62,
+     "page_id": "A_0234_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 62,
+    "pages": [
+     "A_0232_R",
+     "A_0238_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 67,
+     "page_id": "A_0237_R"
+    },
+    "to": {
+     "no": 62,
+     "page_id": "A_0238_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 67,
+    "pages": [
+     "A_0237_R",
+     "A_0239_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 12,
+    "pages": [
+     "A_0185_R",
+     "A_0242_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 67,
+     "page_id": "A_0239_R"
+    },
+    "to": {
+     "no": 12,
+     "page_id": "A_0242_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 12,
+     "page_id": "A_0242_R"
+    },
+    "to": {
+     "no": 75,
+     "page_id": "A_0243_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 75,
+     "page_id": "A_0243_R"
+    },
+    "to": {
+     "no": 94,
+     "page_id": "A_0244_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 75,
+    "pages": [
+     "A_0243_R",
+     "A_0246_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 94,
+     "page_id": "A_0244_R"
+    },
+    "to": {
+     "no": 75,
+     "page_id": "A_0246_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 75,
+    "pages": [
+     "A_0243_R",
+     "A_0247_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 75,
+     "page_id": "A_0247_R"
+    },
+    "to": {
+     "no": 70,
+     "page_id": "A_0248_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 70,
+     "page_id": "A_0248_R"
+    },
+    "to": {
+     "no": 77,
+     "page_id": "A_0249_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 78,
+    "pages": [
+     "A_0179_R",
+     "A_0250_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 78,
+     "page_id": "A_0250_R"
+    },
+    "to": {
+     "no": 19,
+     "page_id": "A_0251_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 19,
+     "page_id": "A_0251_R"
+    },
+    "to": {
+     "no": 80,
+     "page_id": "A_0252_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 78,
+    "pages": [
+     "A_0179_R",
+     "A_0254_L"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 80,
+     "page_id": "A_0252_R"
+    },
+    "to": {
+     "no": 78,
+     "page_id": "A_0254_L"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 11,
+    "pages": [
+     "A_0267_R",
+     "A_0268_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 1,
+    "pages": [
+     "A_0257_R",
+     "A_0269_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 11,
+     "page_id": "A_0268_R"
+    },
+    "to": {
+     "no": 1,
+     "page_id": "A_0269_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 1,
+     "page_id": "A_0269_R"
+    },
+    "to": {
+     "no": 15,
+     "page_id": "A_0271_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 19,
+     "page_id": "A_0275_R"
+    },
+    "to": {
+     "no": 2,
+     "page_id": "A_0279_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 2,
+    "pages": [
+     "A_0279_R",
+     "A_0281_R"
+    ]
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 2,
+     "page_id": "A_0281_R"
+    },
+    "to": {
+     "no": 27,
+     "page_id": "A_0283_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 2,
+    "pages": [
+     "A_0279_R",
+     "A_0284_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 27,
+     "page_id": "A_0283_R"
+    },
+    "to": {
+     "no": 2,
+     "page_id": "A_0284_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 2,
+    "pages": [
+     "A_0279_R",
+     "A_0288_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 3,
+    "pages": [
+     "A_0289_R",
+     "A_0291_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 3,
+    "pages": [
+     "A_0289_R",
+     "A_0292_R"
+    ]
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 3,
+     "page_id": "A_0292_R"
+    },
+    "to": {
+     "no": 37,
+     "page_id": "A_0293_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 38,
+     "page_id": "A_0294_R"
+    },
+    "to": {
+     "no": 31,
+     "page_id": "A_0295_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 31,
+     "page_id": "A_0295_R"
+    },
+    "to": {
+     "no": 40,
+     "page_id": "A_0296_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 40,
+     "page_id": "A_0296_R"
+    },
+    "to": {
+     "no": 21,
+     "page_id": "A_0297_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 21,
+     "page_id": "A_0297_R"
+    },
+    "to": {
+     "no": 4,
+     "page_id": "A_0298_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 4,
+     "page_id": "A_0298_R"
+    },
+    "to": {
+     "no": 46,
+     "page_id": "A_0301_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 58,
+     "page_id": "A_0313_R"
+    },
+    "to": {
+     "no": 5,
+     "page_id": "A_0314_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 5,
+     "page_id": "A_0314_R"
+    },
+    "to": {
+     "no": 68,
+     "page_id": "A_0315_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 68,
+     "page_id": "A_0315_R"
+    },
+    "to": {
+     "no": 86,
+     "page_id": "A_0316_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 86,
+     "page_id": "A_0316_R"
+    },
+    "to": {
+     "no": 62,
+     "page_id": "A_0317_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 65,
+     "page_id": "A_0318_R"
+    },
+    "to": {
+     "no": 64,
+     "page_id": "A_0319_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 65,
+    "pages": [
+     "A_0318_R",
+     "A_0320_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 68,
+    "pages": [
+     "A_0315_R",
+     "A_0323_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 85,
+    "pages": [
+     "A_0340_R",
+     "A_0341_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 86,
+    "pages": [
+     "A_0316_R",
+     "A_0342_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 88,
+     "page_id": "A_0344_R"
+    },
+    "to": {
+     "no": 72,
+     "page_id": "A_0348_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 72,
+     "page_id": "A_0348_R"
+    },
+    "to": {
+     "no": 45,
+     "page_id": "A_0350_R"
+    }
+   }
+  ],
+  "indexCheck": {
+   "entries": 85,
+   "mapped": 78,
+   "unmapped": [
+    {
+     "page_no": 79,
+     "text": "Montreuil"
+    },
+    {
+     "page_no": 90,
+     "text": "Cassaniouze"
+    },
+    {
+     "page_no": 98,
+     "text": "Pacoudiere"
+    },
+    {
+     "page_no": 99,
+     "text": "Beauvais"
+    },
+    {
+     "page_no": 111,
+     "text": "Dinas"
+    },
+    {
+     "page_no": 123,
+     "text": "Azay-le-Rideau, Champigny-sur-Veude, Chinon"
+    },
+    {
+     "page_no": 135,
+     "text": "Thornham Magna"
+    }
+   ]
+  }
+ },
+ "B": {
+  "transcript_files": 373,
+  "books": [
+   {
+    "start_spread": "B_0001",
+    "end_spread": "B_0061",
+    "numbered_pages": 45,
+    "index_spreads": [
+     "B_0002",
+     "B_0003"
+    ],
+    "byNumber": {
+     "2": "B_0004_R",
+     "3": "B_0005_R",
+     "4": "B_0006_R",
+     "8": "B_0010_R",
+     "9": "B_0011_R",
+     "10": "B_0012_R",
+     "12": "B_0014_R",
+     "13": "B_0015_R",
+     "15": "B_0017_R",
+     "16": "B_0018_R",
+     "17": "B_0019_R",
+     "18": "B_0020_R",
+     "19": "B_0021_R",
+     "21": "B_0023_R",
+     "22": "B_0024_R",
+     "23": "B_0025_R",
+     "24": "B_0026_R",
+     "26": "B_0028_R",
+     "27": "B_0029_R",
+     "28": "B_0030_R",
+     "29": "B_0031_R",
+     "30": "B_0032_R",
+     "31": "B_0033_R",
+     "32": "B_0034_R",
+     "33": "B_0035_R",
+     "34": "B_0036_R",
+     "35": "B_0027_R",
+     "36": "B_0038_R",
+     "37": "B_0039_R",
+     "38": "B_0040_R",
+     "40": "B_0042_R",
+     "41": "B_0043_R",
+     "45": "B_0047_R",
+     "46": "B_0048_R",
+     "47": "B_0049_R",
+     "48": "B_0051_R",
+     "50": "B_0052_R",
+     "51": "B_0053_R",
+     "52": "B_0054_R",
+     "54": "B_0056_R",
+     "55": "B_0057_R",
+     "56": "B_0058_R",
+     "57": "B_0059_R",
+     "92": "B_0044_R",
+     "94": "B_0046_R"
+    }
+   },
+   {
+    "start_spread": "B_0062",
+    "end_spread": "B_0144",
+    "numbered_pages": 57,
+    "index_spreads": [
+     "B_0062"
+    ],
+    "byNumber": {
+     "6": "B_0068_R",
+     "10": "B_0072_R",
+     "13": "B_0075_R",
+     "18": "B_0080_R",
+     "21": "B_0083_R",
+     "23": "B_0085_R",
+     "24": "B_0086_R",
+     "25": "B_0087_R",
+     "26": "B_0088_R",
+     "27": "B_0089_R",
+     "28": "B_0090_R",
+     "29": "B_0091_R",
+     "30": "B_0092_R",
+     "32": "B_0094_R",
+     "33": "B_0095_R",
+     "35": "B_0097_R",
+     "36": "B_0093_R",
+     "37": "B_0099_R",
+     "39": "B_0096_R",
+     "40": "B_0143_R",
+     "43": "B_0104_R",
+     "44": "B_0105_R",
+     "45": "B_0106_R",
+     "46": "B_0107_R",
+     "47": "B_0108_R",
+     "49": "B_0110_R",
+     "50": "B_0111_R",
+     "52": "B_0113_R",
+     "53": "B_0114_R",
+     "54": "B_0115_R",
+     "55": "B_0116_R",
+     "56": "B_0117_R",
+     "57": "B_0119_R",
+     "58": "B_0120_R",
+     "59": "B_0121_R",
+     "60": "B_0122_R",
+     "61": "B_0123_R",
+     "62": "B_0124_R",
+     "64": "B_0126_R",
+     "65": "B_0127_R",
+     "66": "B_0128_R",
+     "67": "B_0129_R",
+     "68": "B_0130_R",
+     "69": "B_0131_R",
+     "70": "B_0132_R",
+     "71": "B_0133_R",
+     "72": "B_0134_R",
+     "73": "B_0135_R",
+     "75": "B_0137_R",
+     "76": "B_0138_R",
+     "77": "B_0139_R",
+     "78": "B_0140_R",
+     "79": "B_0081_R",
+     "80": "B_0142_R",
+     "84": "B_0070_L",
+     "85": "B_0070_R",
+     "98": "B_0062_R"
+    }
+   },
+   {
+    "start_spread": "B_0145",
+    "end_spread": "B_0177",
+    "numbered_pages": 19,
+    "index_spreads": [
+     "B_0145",
+     "B_0146"
+    ],
+    "byNumber": {
+     "1": "B_0146_R",
+     "2": "B_0147_R",
+     "3": "B_0148_R",
+     "4": "B_0149_R",
+     "5": "B_0150_R",
+     "6": "B_0161_R",
+     "8": "B_0153_R",
+     "9": "B_0154_R",
+     "12": "B_0157_R",
+     "14": "B_0159_R",
+     "18": "B_0163_R",
+     "20": "B_0165_R",
+     "21": "B_0166_R",
+     "22": "B_0167_R",
+     "23": "B_0168_R",
+     "25": "B_0170_R",
+     "27": "B_0172_R",
+     "28": "B_0173_R",
+     "29": "B_0174_R"
+    }
+   },
+   {
+    "start_spread": "B_0178",
+    "end_spread": "B_0300",
+    "numbered_pages": 80,
+    "index_spreads": [
+     "B_0178",
+     "B_0179",
+     "B_0180"
+    ],
+    "byNumber": {
+     "1": "B_0181_R",
+     "2": "B_0182_R",
+     "3": "B_0183_R",
+     "5": "B_0185_R",
+     "9": "B_0189_R",
+     "10": "B_0190_R",
+     "12": "B_0192_R",
+     "15": "B_0195_R",
+     "17": "B_0193_R",
+     "18": "B_0198_R",
+     "19": "B_0199_R",
+     "21": "B_0201_R",
+     "25": "B_0205_R",
+     "30": "B_0210_R",
+     "31": "B_0211_R",
+     "32": "B_0212_R",
+     "34": "B_0214_R",
+     "35": "B_0215_R",
+     "37": "B_0217_R",
+     "39": "B_0239_R",
+     "41": "B_0221_R",
+     "42": "B_0222_R",
+     "43": "B_0223_R",
+     "45": "B_0225_R",
+     "46": "B_0226_R",
+     "47": "B_0227_R",
+     "48": "B_0228_R",
+     "51": "B_0231_R",
+     "52": "B_0230_R",
+     "53": "B_0213_R",
+     "54": "B_0234_R",
+     "55": "B_0235_R",
+     "57": "B_0237_R",
+     "60": "B_0240_R",
+     "61": "B_0241_R",
+     "62": "B_0242_R",
+     "63": "B_0243_R",
+     "64": "B_0244_R",
+     "65": "B_0245_R",
+     "66": "B_0246_R",
+     "67": "B_0247_R",
+     "68": "B_0248_R",
+     "69": "B_0249_R",
+     "70": "B_0250_R",
+     "72": "B_0252_R",
+     "73": "B_0253_R",
+     "74": "B_0254_R",
+     "75": "B_0255_R",
+     "76": "B_0256_R",
+     "77": "B_0257_R",
+     "79": "B_0259_R",
+     "80": "B_0260_R",
+     "82": "B_0262_R",
+     "84": "B_0264_R",
+     "85": "B_0265_R",
+     "86": "B_0266_R",
+     "88": "B_0268_R",
+     "89": "B_0269_R",
+     "91": "B_0271_R",
+     "92": "B_0272_R",
+     "93": "B_0273_R",
+     "96": "B_0276_R",
+     "97": "B_0277_R",
+     "98": "B_0278_R",
+     "99": "B_0279_R",
+     "102": "B_0282_R",
+     "103": "B_0283_R",
+     "106": "B_0286_R",
+     "107": "B_0287_R",
+     "108": "B_0288_R",
+     "109": "B_0289_R",
+     "110": "B_0298_R",
+     "112": "B_0292_R",
+     "113": "B_0293_R",
+     "114": "B_0294_R",
+     "115": "B_0295_R",
+     "116": "B_0296_R",
+     "118": "B_0290_R",
+     "119": "B_0297_R",
+     "518": "B_0238_R"
+    }
+   },
+   {
+    "start_spread": "B_0301",
+    "end_spread": "B_0373",
+    "numbered_pages": 45,
+    "index_spreads": [
+     "B_0301",
+     "B_0302"
+    ],
+    "byNumber": {
+     "1": "B_0345_R",
+     "2": "B_0320_R",
+     "3": "B_0302_R",
+     "4": "B_0303_R",
+     "6": "B_0316_R",
+     "8": "B_0307_R",
+     "9": "B_0308_R",
+     "12": "B_0363_R",
+     "13": "B_0372_R",
+     "15": "B_0314_R",
+     "19": "B_0318_R",
+     "23": "B_0321_R",
+     "25": "B_0324_R",
+     "28": "B_0327_R",
+     "29": "B_0328_R",
+     "30": "B_0329_L",
+     "31": "B_0329_R",
+     "32": "B_0331_R",
+     "34": "B_0333_R",
+     "37": "B_0336_R",
+     "38": "B_0335_R",
+     "41": "B_0340_R",
+     "42": "B_0341_R",
+     "43": "B_0342_R",
+     "44": "B_0343_R",
+     "45": "B_0344_R",
+     "47": "B_0346_R",
+     "50": "B_0349_R",
+     "52": "B_0351_R",
+     "53": "B_0352_R",
+     "54": "B_0353_R",
+     "55": "B_0354_R",
+     "56": "B_0355_R",
+     "57": "B_0356_R",
+     "58": "B_0357_R",
+     "61": "B_0360_R",
+     "62": "B_0361_R",
+     "63": "B_0362_R",
+     "65": "B_0364_R",
+     "68": "B_0367_R",
+     "69": "B_0368_R",
+     "71": "B_0370_R",
+     "72": "B_0371_R",
+     "83": "B_0332_R",
+     "712": "B_0312_R"
+    }
+   }
+  ],
+  "anomalies": [
+   {
+    "type": "duplicate_page_no",
+    "no": 4,
+    "pages": [
+     "B_0006_R",
+     "B_0016_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 13,
+     "page_id": "B_0015_R"
+    },
+    "to": {
+     "no": 4,
+     "page_id": "B_0016_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 4,
+     "page_id": "B_0016_R"
+    },
+    "to": {
+     "no": 15,
+     "page_id": "B_0017_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 24,
+     "page_id": "B_0026_R"
+    },
+    "to": {
+     "no": 35,
+     "page_id": "B_0027_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 35,
+     "page_id": "B_0027_R"
+    },
+    "to": {
+     "no": 26,
+     "page_id": "B_0028_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 35,
+    "pages": [
+     "B_0027_R",
+     "B_0037_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 35,
+    "pages": [
+     "B_0027_R",
+     "B_0041_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 38,
+     "page_id": "B_0040_R"
+    },
+    "to": {
+     "no": 35,
+     "page_id": "B_0041_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 41,
+     "page_id": "B_0043_R"
+    },
+    "to": {
+     "no": 92,
+     "page_id": "B_0044_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 94,
+     "page_id": "B_0046_R"
+    },
+    "to": {
+     "no": 45,
+     "page_id": "B_0047_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 57,
+    "pages": [
+     "B_0059_R",
+     "B_0060_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 98,
+     "page_id": "B_0062_R"
+    },
+    "to": {
+     "no": 6,
+     "page_id": "B_0068_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 6,
+     "page_id": "B_0068_R"
+    },
+    "to": {
+     "no": 84,
+     "page_id": "B_0070_L"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 85,
+     "page_id": "B_0070_R"
+    },
+    "to": {
+     "no": 10,
+     "page_id": "B_0072_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 18,
+     "page_id": "B_0080_R"
+    },
+    "to": {
+     "no": 79,
+     "page_id": "B_0081_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 79,
+     "page_id": "B_0081_R"
+    },
+    "to": {
+     "no": 21,
+     "page_id": "B_0083_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 36,
+     "page_id": "B_0093_R"
+    },
+    "to": {
+     "no": 32,
+     "page_id": "B_0094_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 39,
+     "page_id": "B_0096_R"
+    },
+    "to": {
+     "no": 35,
+     "page_id": "B_0097_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 36,
+    "pages": [
+     "B_0093_R",
+     "B_0098_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 56,
+    "pages": [
+     "B_0117_R",
+     "B_0118_R"
+    ]
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 79,
+    "pages": [
+     "B_0081_R",
+     "B_0141_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 80,
+     "page_id": "B_0142_R"
+    },
+    "to": {
+     "no": 40,
+     "page_id": "B_0143_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 12,
+    "pages": [
+     "B_0157_R",
+     "B_0160_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 14,
+     "page_id": "B_0159_R"
+    },
+    "to": {
+     "no": 12,
+     "page_id": "B_0160_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 12,
+     "page_id": "B_0160_R"
+    },
+    "to": {
+     "no": 6,
+     "page_id": "B_0161_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 6,
+     "page_id": "B_0161_R"
+    },
+    "to": {
+     "no": 18,
+     "page_id": "B_0163_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 17,
+     "page_id": "B_0193_R"
+    },
+    "to": {
+     "no": 15,
+     "page_id": "B_0195_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 21,
+    "pages": [
+     "B_0201_R",
+     "B_0207_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 25,
+     "page_id": "B_0205_R"
+    },
+    "to": {
+     "no": 21,
+     "page_id": "B_0207_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 21,
+     "page_id": "B_0207_R"
+    },
+    "to": {
+     "no": 30,
+     "page_id": "B_0210_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 32,
+     "page_id": "B_0212_R"
+    },
+    "to": {
+     "no": 53,
+     "page_id": "B_0213_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 53,
+     "page_id": "B_0213_R"
+    },
+    "to": {
+     "no": 34,
+     "page_id": "B_0214_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 3,
+    "pages": [
+     "B_0183_R",
+     "B_0218_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 37,
+     "page_id": "B_0217_R"
+    },
+    "to": {
+     "no": 3,
+     "page_id": "B_0218_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 37,
+    "pages": [
+     "B_0217_R",
+     "B_0219_R"
+    ]
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 3,
+     "page_id": "B_0218_R"
+    },
+    "to": {
+     "no": 37,
+     "page_id": "B_0219_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 52,
+     "page_id": "B_0230_R"
+    },
+    "to": {
+     "no": 51,
+     "page_id": "B_0231_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 52,
+    "pages": [
+     "B_0230_R",
+     "B_0232_R"
+    ]
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 57,
+     "page_id": "B_0237_R"
+    },
+    "to": {
+     "no": 518,
+     "page_id": "B_0238_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 518,
+     "page_id": "B_0238_R"
+    },
+    "to": {
+     "no": 39,
+     "page_id": "B_0239_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 39,
+     "page_id": "B_0239_R"
+    },
+    "to": {
+     "no": 60,
+     "page_id": "B_0240_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 74,
+    "pages": [
+     "B_0254_R",
+     "B_0274_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 93,
+     "page_id": "B_0273_R"
+    },
+    "to": {
+     "no": 74,
+     "page_id": "B_0274_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 74,
+     "page_id": "B_0274_R"
+    },
+    "to": {
+     "no": 96,
+     "page_id": "B_0276_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 109,
+     "page_id": "B_0289_R"
+    },
+    "to": {
+     "no": 118,
+     "page_id": "B_0290_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 118,
+     "page_id": "B_0290_R"
+    },
+    "to": {
+     "no": 112,
+     "page_id": "B_0292_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 119,
+     "page_id": "B_0297_R"
+    },
+    "to": {
+     "no": 110,
+     "page_id": "B_0298_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 9,
+     "page_id": "B_0308_R"
+    },
+    "to": {
+     "no": 712,
+     "page_id": "B_0312_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 712,
+     "page_id": "B_0312_R"
+    },
+    "to": {
+     "no": 15,
+     "page_id": "B_0314_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 15,
+     "page_id": "B_0314_R"
+    },
+    "to": {
+     "no": 6,
+     "page_id": "B_0316_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 6,
+     "page_id": "B_0316_R"
+    },
+    "to": {
+     "no": 19,
+     "page_id": "B_0318_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 19,
+     "page_id": "B_0318_R"
+    },
+    "to": {
+     "no": 2,
+     "page_id": "B_0320_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 2,
+     "page_id": "B_0320_R"
+    },
+    "to": {
+     "no": 23,
+     "page_id": "B_0321_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 32,
+     "page_id": "B_0331_R"
+    },
+    "to": {
+     "no": 83,
+     "page_id": "B_0332_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 83,
+     "page_id": "B_0332_R"
+    },
+    "to": {
+     "no": 34,
+     "page_id": "B_0333_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 38,
+     "page_id": "B_0335_R"
+    },
+    "to": {
+     "no": 37,
+     "page_id": "B_0336_R"
+    }
+   },
+   {
+    "type": "duplicate_page_no",
+    "no": 38,
+    "pages": [
+     "B_0335_R",
+     "B_0337_R"
+    ]
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 45,
+     "page_id": "B_0344_R"
+    },
+    "to": {
+     "no": 1,
+     "page_id": "B_0345_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 1,
+     "page_id": "B_0345_R"
+    },
+    "to": {
+     "no": 47,
+     "page_id": "B_0346_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 63,
+     "page_id": "B_0362_R"
+    },
+    "to": {
+     "no": 12,
+     "page_id": "B_0363_R"
+    }
+   },
+   {
+    "type": "large_jump",
+    "from": {
+     "no": 12,
+     "page_id": "B_0363_R"
+    },
+    "to": {
+     "no": 65,
+     "page_id": "B_0364_R"
+    }
+   },
+   {
+    "type": "decreasing_page_no",
+    "from": {
+     "no": 72,
+     "page_id": "B_0371_R"
+    },
+    "to": {
+     "no": 13,
+     "page_id": "B_0372_R"
+    }
+   }
+  ],
+  "indexCheck": {
+   "entries": 47,
+   "mapped": 38,
+   "unmapped": [
+    {
+     "page_no": 1,
+     "text": "Weimar, Buchenwald\nLudwigstadt, Bamburg"
+    },
+    {
+     "page_no": 6,
+     "text": "Hermeskeil, Ypres"
+    },
+    {
+     "page_no": 7,
+     "text": "London, Burrough, Netherwestcote"
+    },
+    {
+     "page_no": 11,
+     "text": "Heaton, Newcastle"
+    },
+    {
+     "page_no": 14,
+     "text": "Woodrow, Bromyard, W. Malvern"
+    },
+    {
+     "page_no": 20,
+     "text": "Guernica,\nMutriku"
+    },
+    {
+     "page_no": 42,
+     "text": "Normandy Beaches\nBayeux"
+    },
+    {
+     "page_no": 43,
+     "text": "Longues, Point du Hoc\nBarfleur"
+    },
+    {
+     "page_no": 53,
+     "text": "Knapton"
+    }
+   ]
+  }
+ }
+}

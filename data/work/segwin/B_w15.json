@@ -1,0 +1,1501 @@
+{
+ "window_id": "B_w15",
+ "volume": "B",
+ "books": [
+  {
+   "start": "B_0301",
+   "end": "B_0373",
+   "index_spreads": [
+    "B_0301",
+    "B_0302"
+   ]
+  }
+ ],
+ "index_entries": [
+  {
+   "file": "volB_index.json",
+   "entries": [
+    {
+     "page_no": 1,
+     "text": "Weimar, Buchenwald\nLudwigstadt, Bamburg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 3,
+     "text": "Rothenburg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 4,
+     "text": "Rot-am-See, Heidelberg",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 6,
+     "text": "Hermeskeil, Ypres",
+     "year": 2003,
+     "note": "marginal note beside: 'too sunior air craft' (uncertain)"
+    },
+    {
+     "page_no": 7,
+     "text": "London, Burrough, Netherwestcote",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 8,
+     "text": "Malvern, Barnard Castle, High Force",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 9,
+     "text": "Haltwhistle, Vindolanda",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 10,
+     "text": "Housesteads, Chesters etc",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 11,
+     "text": "Heaton, Newcastle",
+     "year": 2003,
+     "note": null
+    },
+    {
+     "page_no": 12,
+     "text": "Rye Court, Golden Valley",
+     "year": 2004,
+     "note": "2004 year marker written beside this entry"
+    },
+    {
+     "page_no": 13,
+     "text": "Upton, Malvern",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 14,
+     "text": "Woodrow, Bromyard, W. Malvern",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 15,
+     "text": "Burrough, London, Southwork\nChipping Campden, Malvern,",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 16,
+     "text": "Dinas, Harlech",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 17,
+     "text": "Machynlleth",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 18,
+     "text": "Little Cressingham\nSutton Coldfield\nSouthampton",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 19,
+     "text": "Bilbao",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 20,
+     "text": "Guernica,\nMutriku",
+     "year": 2004,
+     "note": "a struck-through word follows 'Guernica,' on the same line"
+    },
+    {
+     "page_no": 21,
+     "text": "Puente de la Reina\nSanta Maria Eunate\nHoz de Lumbier",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 22,
+     "text": "Lerre, Sanguesa\nRuesta, Lake Yesa",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 23,
+     "text": "Jaca",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 24,
+     "text": "Aragon, Ainsa",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 27,
+     "text": "Plan",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 28,
+     "text": "Bielsa Tunnel",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 29,
+     "text": "Massat, Bedeilhac",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 30,
+     "text": "Le Mazageou, Ax-les-Thermes",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 31,
+     "text": "Montaillou",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 32,
+     "text": "Vernet, Les Sauterelles",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 33,
+     "text": "St. Martin's Abbey\nCanigou",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 35,
+     "text": "Cuxa Abbey, Eus",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 36,
+     "text": "Treve, Carcassonne",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 37,
+     "text": "Realmont",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 38,
+     "text": "Albi",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 40,
+     "text": "Eymoutiers, Futuroscope",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 41,
+     "text": "Le Suisse Normand",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 42,
+     "text": "Normandy Beaches\nBayeux",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 43,
+     "text": "Longues, Point du Hoc\nBarfleur",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 45,
+     "text": "Bath",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 46,
+     "text": "Trimpley, Bromyard\nMalvern Court",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 48,
+     "text": "Hanbury Hall",
+     "year": 2004,
+     "note": null
+    },
+    {
+     "page_no": 50,
+     "text": "Aston Cantlow",
+     "year": 2005,
+     "note": "2005 year marker written above this entry"
+    },
+    {
+     "page_no": 51,
+     "text": "Kinwarton",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 52,
+     "text": "Malvern, Bromyard",
+     "year": 2005,
+     "note": "'PTO' marker below this entry indicating index continues on next spread"
+    },
+    {
+     "page_no": 53,
+     "text": "Knapton",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 54,
+     "text": "Cambridge\nOxburgh Hall\nMileham\nEast Dereham",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 56,
+     "text": "Reepham\nBlickling Hall\nHalesworth",
+     "year": 2005,
+     "note": null
+    },
+    {
+     "page_no": 57,
+     "text": "Corby",
+     "year": 2005,
+     "note": null
+    }
+   ]
+  }
+ ],
+ "spreads": [
+  {
+   "spread_id": "B_0337",
+   "pages": [
+    {
+     "page_id": "B_0337_L",
+     "no": null,
+     "dates": [
+      "Sunday",
+      "Monday"
+     ],
+     "headings": [
+      "Monday"
+     ],
+     "places": [
+      "Bourton on the water",
+      "Stow",
+      "Rollright Stones"
+     ],
+     "text": "walk along footpaths through woods & fields & country estates.\nSunday A leisurely start. Simon & Charles looked at the van engine. Arri & Eve read & did sudokus. After tea we went to walk around Bourton on the water & had a delicious supper. Much social distancing.\n__Monday__\nCharles dropped off his van at the VW garage for an MOT. We stopped at Stow & shopped while Simon put the van up on a kerb & mended the water tank straps. More hand sanitiser in each shop.\nLunch is to be a picnic with Peter at the Rollright Stones. (We have just had an offer for the full price on 86, more viewings with estate agent this afternoon.)\nWe had the picnic, got Charles' van & met John. Then Charles & Arri left. We drove to a village green, had tea with John & Peter & Conrad."
+    },
+    {
+     "page_id": "B_0337_R",
+     "no": 38,
+     "dates": [
+      "Friday July 10th",
+      "Saturday July 11th"
+     ],
+     "headings": [
+      "Friday July 10th",
+      "Saturday July 11th"
+     ],
+     "places": [
+      "High Wycombe",
+      "Ross on Wye",
+      "New House Farm",
+      "45 George Rd"
+     ],
+     "text": "After tea Simon & Eve left in Peter's green mercedes to go home. Peter took the van with Conrad to camp near High Wycombe for a Dads & lads weekend with William, Joseph & Seb & John & Thomas & Walter. They had a BBQ.\n   Peter brought the van back on Wednesday.\n__Friday__ July 10th\nWe sold the house, 86, this week. We hope to move to 45 George Rd about October 20th. Simon & Eve & Tinder set off at 3.30, to near Ross on Wye. The site is on a farm, New House Farm, a nice, small, sunken field. Another camper admired our van & offered to buy it if Peter doesn't want it. The odometer has gone wrong. We were cold in the night.\n__Saturday__ July 11th\nWe walked up & down an old track & set off for John & Kay & Eben."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0338",
+   "pages": [
+    {
+     "page_id": "B_0338_L",
+     "no": null,
+     "dates": [
+      "Monday July 20th",
+      "Saturday 25th July",
+      "Sunday"
+     ],
+     "headings": [
+      "Monday July 20th",
+      "Saturday 25th July",
+      "Sunday"
+     ],
+     "places": [
+      "Thorpeness",
+      "Wimpole Hall",
+      "Thorpe",
+      "Oxford"
+     ],
+     "text": "We had a super visit + lots of hugs with Eben, one walk near [?Iltud], down to the sea + one through woods. Eben smiles + smiles. Home after lunch on Sunday.\n__Monday July 20th__\nOff to Thorpeness with champagne + everyone except Charles + Austin. Tinder went into [?Pennels] + we met up with John + Kay + Eben at Wimpole Hall. lovely gardens. Socially distanced. I did a salad lunch then on to Thorpe.\n__Saturday 25th July__\nSimon + Eve went on a day out in Oxford.\n__Sunday__\nPeter, Nana, Conrad, Nini + Gigi set off. ???"
+    },
+    {
+     "page_id": "B_0338_R",
+     "no": null,
+     "dates": [
+      "Sunday 23rd August",
+      "Sunday Aug 30th"
+     ],
+     "headings": [
+      "Sunday 23rd August",
+      "Sunday Aug 30th"
+     ],
+     "places": [
+      "Westfield Rd",
+      "George Rd"
+     ],
+     "text": "__Sunday 23rd August__\nTinder, Simon + Eve set off at 4.30. for hop picking at the farm. (In 2 months' time we hope to move from Westfield Rd to George Rd) We stayed from Sunday to Saturday. Machines are working much better due to winter repairs. Harry stood on a conveyor belt when Henry switched on + nearly had his leg dragged in by a machine. I heard shouting from the orchard! Pavel [illegible] tore skin on his palm. William asked me to do first aid. We ate twice in the house. I spent time with the grandchildren + picked fruit.\nWe return again __Sunday Aug 30th__.\nWe set off at 16.40.\nWe spent Sunday + Monday nights at the farm, next to the croquet lawn behind the [?yew] hedge. It's freezing cold at night. Fortunately the van heater is working well. So are the hop machines. We are heading home now to go to a socially distanced street party with our neighbours-to-be at George Rd."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0339",
+   "pages": [
+    {
+     "page_id": "B_0339_L",
+     "no": null,
+     "dates": [
+      "Tuesday 8th September",
+      "Saturday 12th September",
+      "Sunday September 27th 2020",
+      "Sunday October 4th."
+     ],
+     "headings": [
+      "Tuesday 8th September",
+      "Sunday September 27th 2020",
+      "Sunday October 4th."
+     ],
+     "places": [
+      "the farm",
+      "George Rd",
+      "Monmouth",
+      "3 Horseshoes",
+      "Symonds Yat",
+      "London"
+     ],
+     "text": "__Tuesday 8th September__  Simon, Eve + Tinder returned to the farm. William's birthday + more hop-picking. We returned on Saturday 12th September.\n\n__Sunday September 27th 2020__\nTwo days ago we got the keys to George Rd. At 9.15. we set off to John's with 2 large palm pot plants + other things that John wants from 86. Sheep on the road on the downhill road into Monmouth held us up for ages.\nWe met John, Kay + Eben at the 3 Horseshoes. Lovely sunshine. Pub lunch. Simon road Eben a book on Quantum Mechanics. Back to their house for a cup of tea + chat. Then home, via a pretty field with a view of Symonds Yat.\n   Peter is taking the van with the American beds in down to London. In the end, he didn't have to - both beds fitted in his green Mercedes-\namazing!\n__Sunday October 4th.__\nAt 2.30. we drove off to the farm with the white sofa + chair from the living room, 4 kitchen chairs + 4 Gordon Russell chairs. William + Bryony"
+    },
+    {
+     "page_id": "B_0339_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Broadstairs"
+     ],
+     "text": "had been to Broadstairs for 2 nights. It rained so Louise looked after Seb + Nina. Joseph boarded, but was sick, so they had to come back early. We chatted, but didn't go in because of Covid restrictions. Sunshine on the way home."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0340",
+   "pages": [
+    {
+     "page_id": "B_0340_L",
+     "no": null,
+     "blank": true,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": ""
+    },
+    {
+     "page_id": "B_0340_R",
+     "no": 41,
+     "dates": [
+      "27 October 2020"
+     ],
+     "headings": [
+      "NEW VAN    Peugeot Boxer"
+     ],
+     "places": [
+      "Bedfordshire",
+      "Wrest Park",
+      "Berkhamstead",
+      "West Coast Main Line",
+      "Grand Union Canal"
+     ],
+     "text": "__NEW VAN__    Peugeot Boxer\n\n27 October 2020\nSet off quite soon after breakfast to rural Bedfordshire to pick up a wine rack that Simon had ordered. This happened to be near an English Heritage site, Wrest Park, that Peter had suggested for a meet up after not seeing Peter, Nana and the children for a long time due to Covid restrictions.\n We parked and the green Mercedes arrived soon after.    Unfortunately the weather turned very unpleasant.\n        We endured stories out doors in sleety rain at the conservatory, old stables, etc. which Nini insisted on attending all three. It was bloody cold but lovely to see the family.\n        Intending to visit Judith the next day, we looked up and found a small campsite near Berkhamstead.   We were the only campers but the owner strolled down to meet us in the dark. He was a campervan enthusiast.\n        In the morning we did a 1½ hour round trip walk over hillsides overlooking the West Coast Main Line and Grand Union Canal, returning to the van along the towpath."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0341",
+   "pages": [
+    {
+     "page_id": "B_0341_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Aylesbury",
+      "Chilterns",
+      "M3",
+      "Winchester",
+      "Chandlers Ford",
+      "Swindon"
+     ],
+     "text": "We then drove to Aylesbury and found Judith's house. She was in and we chatted for about half an hour on her font porch. We then found a local supermarket where we bought a few things, having lunch in the car park.\n\n\tWe thought it would interestingly to drive along below the escarpment of the Chilterns and keep going. We joined the M3 and on past Winchester to a campsite west of Chandlers Ford.\n\n\tIn the morning we telephoned the Dugnids and Jones invited us for a Socialy distanced lunch in their conservatory, with the doors open. It was lovely to have a meal with friends.\n\n\tEve then phoned Venetia to see if we could visit on our way north and she and David were at home gardening so we did, having tea outside. We left at dusk and drove the short distance to also call on Belinda.\n\n\tWe then thought it may be possible to call on Conta the next day so picked a campsite SE of Swindon at a"
+    },
+    {
+     "page_id": "B_0341_R",
+     "no": 42,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Witney",
+      "Finstock",
+      "Edge Hill",
+      "Banbury"
+     ],
+     "text": "small farm that kept a special herd of sheep. They sold lamb from the farm twice a week. Unfortunately, our phone calls to Conta were unanswered\n\n\tSidon had already located a scrap car firm that happened to have an old Renault Master Mk 1 that may have had an instrument panel that could be used to replace the defective one in our old van. This yard was in Witney so we drove there, luckily finding a parking place near the yard.\n\n\tThe owner assured Simon that although his Master was a diesel version, and about seven years younger, it would still be OK as a replacement. Simon bought it for about £[illegible].\n\n\tIt was then nearly lunchtime and we thought it would be nice to have a pub lunch and we found a good one at Finstock (the Plough).\n\n\tAfter lunch, we meandered north ending up at a campsite at Edge Hill NW of Banbury, owned by a seemingly eccentric woman who gave instructions over the phone. There were animal sculptures and activities"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0342",
+   "pages": [
+    {
+     "page_id": "B_0342_L",
+     "no": null,
+     "dates": [
+      "Saturday"
+     ],
+     "headings": [],
+     "places": [],
+     "text": "for children laid out. It also had a library and building where you could cook a meal and sit at tables inside.\n\tOn Saturday, the weather looked pretty miserable so we decided to end the trip a little early.\n\tDuring the trip, Simon noticed a message on the dashboard saying that the rear number plate light was not working. It was also apparent that the rear window demister on the nearside was also defective. It looked likely that Leo's team had caused some problem to electrical feed to that rear door."
+    },
+    {
+     "page_id": "B_0342_R",
+     "no": 43,
+     "blank": true,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": ""
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0343",
+   "pages": [
+    {
+     "page_id": "B_0343_L",
+     "no": null,
+     "blank": true,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": ""
+    },
+    {
+     "page_id": "B_0343_R",
+     "no": 44,
+     "dates": [
+      "Friday April 23rd. St George's Day 2021",
+      "Saturday"
+     ],
+     "headings": [
+      "11am Friday April 23rd. St George's Day 2021",
+      "Saturday"
+     ],
+     "places": [
+      "Cardiff",
+      "Dyffryn Gardens",
+      "N. Gower coast",
+      "Salt Flats",
+      "Gower",
+      "Llanrhidian"
+     ],
+     "text": "__11am Friday April 23rd. St George's Day 2021__\n   Simon, Eve & Tinder set off. Picnic lunch on the way, then tea with John & Kay & Eben near Cardiff. Lovely sunny day. They took us to Dyffryn Gardens where Simon & Eben played in the log garden. It was so lovely to see them after lockdown 7 months. On to a campsite for 3 nights on N. Gower coast. Salt Flats.\n   It was a long journey with a glaring sun in our eyes & at the end we had trouble getting through an old farmyard into the campsite. Then the heater wouldn't heat at first. However, things got better & we had a good night. Lovely views of the salt marsh estuary where they fatten sheep.\n   __Saturday__\n   We move the van up the hill, for a better view especially of the sunset. We went into the castle which has an interesting exhibition of castles on the Gower, mostly started by Norman colonisation.\n   Then we walked 4 miles & back along the coastal path, first where the sheep graze on the salt marshes to Llanrhidian. Alas, the pub is still closed because of COVID19. We came back along the high ground."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0344",
+   "pages": [
+    {
+     "page_id": "B_0344_L",
+     "no": null,
+     "dates": [
+      "Sunday"
+     ],
+     "headings": [],
+     "places": [
+      "the Gower",
+      "Whiteford Bay",
+      "Thorpeness"
+     ],
+     "text": "We spent the afternoon at the campsite enjoying the view + the sunshine. Simon has not brought any maps [?Ordnance Survey] because we can now rely on his mob.... but alas he has forgotten to bring the lead for his mob. Fortunately when we went to the library - it has finally opened after months of lockdown - he got out a book of walks on the Gower so we can use that.\n\nA lovely sunset.\n\nSunday\n    We set off on an even longer walk of 6 miles to see the metal light house (1865, the last metal light house in Europe.) Parts of it are made of copper, mined locally. We drove to [?Llan-]mador + walked from there. Dunes, lovely pine woods idyllic walking. Shells on the beach, bright sunshine. We reached the light house, Whiteford Bay, at 11.35., Five minutes after low tide, which gave us confidence. The beach to it was rocky + sloshy.\n    After we got back to the van, we bought ice creams, my first since Thorpeness last summer."
+    },
+    {
+     "page_id": "B_0344_R",
+     "no": 45,
+     "dates": [],
+     "headings": [],
+     "places": [],
+     "text": "On the walk we saw a mare separated from her foal by a fence. I telephoned a [?mussel] number on a gate of a sheep field + got the"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0345",
+   "pages": [
+    {
+     "page_id": "B_0345_L",
+     "no": null,
+     "dates": [
+      "Monday",
+      "Tuesday May 25th"
+     ],
+     "headings": [
+      "Monday",
+      "Tuesday May 25th"
+     ],
+     "places": [
+      "Llanmador",
+      "Gower",
+      "St. Davids",
+      "Heads of the Valleys",
+      "Raglan Castle",
+      "Chadworth Roman Villa"
+     ],
+     "text": "police, a very nice policeman. All announcements start in Welsh & change to English so it look for-ever. The [?ex] policeman couldn't work out where I was. We didn't have the same pronounciation for Llanmador & I forgot the word Gower. He finally decided that I wasn't in St. Davids & kindly put me through to another police station but they never answered the phone. Then a man walked past & said he would get his Wellingtons & sort it out. Later we saw them trotting along the beach to join other horses. They all have lovely long hair. In the too very high tides horses & cows are moved off the beach but the sheep are left standing in the water.\n\n__Monday__\nWe have driven quite a tortuous route over the Heads of the Valleys – new roads being built, & stopped for lunch at Raglan Castle.\n\n__Tuesday May 25th__ Peter's Birthday 11.10. We left for a short trip to see Chadworth Roman Villa While eating lunch we heard that Kaz & John are expecting their second baby.\n\n[margin, vertical] There are also 2 buckeye trees from US, grafted onto English horse chestnuts.\n\n[margin, vertical, lower] Chadworth Roman Villi [illegible lines]"
+    },
+    {
+     "page_id": "B_0345_R",
+     "no": 1,
+     "dates": [],
+     "headings": [
+      "Chedworth Roman Villa"
+     ],
+     "places": [
+      "Chedworth Roman Villa",
+      "Chadworth Roman Villa"
+     ],
+     "captions": [
+      "Chadworth Roman Villa / Mosaic floor of the Warm Room (Tepidarium) in the hot living / C4"
+     ],
+     "text": "[printed postcard/information card — Chedworth Roman Villa]\n\nChedworth Roman Villa was discovered in 1864 when a gamekeeper, out ferreting for rabbits, found small stone cubes – loose tesserae – from one of the buried mosaics. The site was swiftly due to reveal extensive walls, bath houses and fine mosaics from one of the most significant Roman villas in Britain.\n\nThe 19th century landowner, Lord Eldon, came to survey the finds, took shelter buildings over the most delicate ruins, and had a small museum for the artefacts. The estate was sold in the 1920s and the Villa was bought for the nation through public subscription.\n\nChedworth Roman Villa was at its greatest in the fourth century, as a large and luxurious country house, with many domestic comforts such as underfloor heating and two bath houses.\n\n[handwritten, left margin, vertical]\nChadworth Roman Villa\nMosaic floor of the Warm Room\n(Tepidarium) in the hot living\nC4\n\n[handwritten, left margin, vertical, continuation from L page]\nThere are also 2 buckeye trees from US,\ngrafted onto English horse chestnuts\n(This is the buckeye state)\nThe Romans brought all seeds – still here!\n\n[photo: interior photo of mosaic floor and hypocaust pillars at Chedworth Roman Villa]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0346",
+   "pages": [
+    {
+     "page_id": "B_0346_L",
+     "no": null,
+     "dates": [
+      "Wed May 26th",
+      "Thursday June 3rd"
+     ],
+     "headings": [
+      "Wed May 26th",
+      "Thursday June 3rd."
+     ],
+     "places": [
+      "Denfurlong Farm Campsite",
+      "Chipping Sodbury",
+      "Amigos",
+      "Kimbolton"
+     ],
+     "text": "__Wed May 26th__\nWe're in Denfurlong Farm Campsite.\nThe sun is shining & it's a bit warmer. lovely empty site. Silence! Rabbits. Birds.\nNew van doing well. Simon presses buttons to check on things. I had a shower.\nWe are about to leave for Chipping Sodbury.\nWe wander in the town & do a bit of shopping. Then we have a delicious lunch at Amigos, Shamsi & Dave's restaurant, which they don't let us pay for. Jill visits too. Then we head for home.\n\n__Thursday June 3rd.__\n\tSimon, Eve & Tinder left at 10.45 & picked up Flora. We stopped for lunch at Kimbolton, a church in the middle of nowhere. Workmen were doing up the tiny church with a little kitchen, disabled loo & spiral staircase up to the bells. The village want the schoolchildren to use"
+    },
+    {
+     "page_id": "B_0346_R",
+     "no": 47,
+     "dates": [
+      "June 5th"
+     ],
+     "headings": [
+      "June 5th"
+     ],
+     "places": [
+      "Hay on Wye",
+      "Racketty Lodge"
+     ],
+     "text": "the church more. It is all being beautifully done.\nOwain Glendower is buried in the church yard, the last Prince of Wales before the Tudors.\nWe reached the Gaskells & chatted to John, then arrived [?at 3] at Racketty Lodge, outside Hay on Wye. It's a superhouse in a campsite.\nZoe, Graham, Clara & Seren arrived, then Peter, Nana, Conrad, Nini & Giaconda.\n\tThe next day Nana had organised horse riding for all the children. Peter rode his 9 [?bott]. Simon visited Mrs. Gaskell on her 95th birthday. In the afternoon Zoe left (after giving me a beautiful book of Thorpe [?photo]s) & John, Kay & Eben arrived. [strikethrough: Cots] Conta Criswell came to lunch. William visited for a couple of hours.\n\t__June 5th__ We walked into Hay & shopped & had icecream. I bought a dress & a red knapsack. After lunch & a nap we walked along the [strikethrough] river & found a beach & some of us swam. Eben is enjoying his cousins.\n[illegible line at bottom]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0347",
+   "pages": [
+    {
+     "page_id": "B_0347_L",
+     "no": null,
+     "dates": [
+      "June 6th",
+      "2 pm Monday June 28th",
+      "Tuesday"
+     ],
+     "headings": [],
+     "places": [
+      "Hay Bluff",
+      "Rutland water",
+      "Linton top",
+      "Rutland Water",
+      "Edith Weston",
+      "Kielder",
+      "Stowe"
+     ],
+     "text": "June 6th  My birth day. Kay had cooked me a super chocolate cake which we ate yesterday. We were supposed to meet up with William & family at Hay Bluff, but instead Bryony & William had us at the farm as the weather was cooler. Fred & Ginger (pigs) & sheep are there. At the end of the day, Joseph, Seb & Nina swam. I fell over on the walk back from the church. But it was a super day.\n\n2 pm Monday June 28th\nSimon, Eve, Tinder drive to Rutland water. Damp, gloomy mist & rain. Tinder & Simon walk. Eve stays in the van. Linton top.\n\nTuesday\nWe cycled along Rutland Water path. Tinder was in the bike bag most of the way. We visited a very pretty church at Edith Weston & then a partly sunken church. R.W. is the largest [?reser] in Britain by area (but more volume in Kielder) A chatty man who had been artist in residence at Stowe was also on a bike ride. Simon cycled along the road back to the van to fetch it down to"
+    },
+    {
+     "page_id": "B_0347_R",
+     "no": null,
+     "dates": [
+      "Wednesday"
+     ],
+     "headings": [
+      "Wednesday"
+     ],
+     "places": [
+      "Stamford",
+      "Cambridge",
+      "Palace farm",
+      "Spalding",
+      "Grantham"
+     ],
+     "text": "the lake to pick up Tinder & Eve for which [wheel?] we were very grateful. For the first time Tinder has consented to ride in the bag. Something \"gave\" in my hip whilst retelling & my hip hurts.\n\nWe drove on to Stamford. The town is lovely we walked around. Lots of bridges. The church on the main street was ruined by a developer but the other buildings, often Georgian, are super. A bit like Cambridge without students & tourists.\n\nOn to Frances Plummer. We drove into Palace farm, only to be told that she had moved across the road.... 15 years previously. We gave her tea from the van in her beautiful garden. At 7 Peter arrived from Spalding & we had a delicious chorizo stew for supper & a lovely evening chatting.\n\n__Wednesday__\nWe camped on Frances' drive & after breakfast we went on a walk around the village. Frances has put a second hand book/jigsaw swap in the church porch. She knows the other villagers. The gardens are glorious. The old village stocks are still there.\n\nWe set off for Grantham where the light"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0348",
+   "pages": [
+    {
+     "page_id": "B_0348_L",
+     "no": null,
+     "dates": [],
+     "headings": [
+      "Beverley Minster"
+     ],
+     "places": [
+      "Beverley",
+      "Willow Lane Campsite",
+      "Beverley Minster",
+      "Lindisfarne"
+     ],
+     "captions": [
+      "Beverley Minster West Front + South Side. A Saxon church was here about 700. St. John from Lindisfarne did miracles. Mediaeval parts well-attuned to each other in the present Minster. Sanctuary"
+     ],
+     "text": "[...shop] Simon know has closed. There are lots of elderflower trees on the incredibly straight A1 going north. We've reached Beverley by 3, but parking is difficult so we're going straight to the campsite. Willow Lane Campsite, 3 minutes from town, Didyoga.\n\n[photo of Beverley Minster]\n\n__Beverley Minster__\nWest Front + South Side.\nA Saxon church was here about 700. St. John from Lindisfarne did miracles. Mediaeval parts well-attuned to each other in the present Minster. Sanctuary\n\nrights. Beautiful & interesting exhibits - [strikethrough] Sanctuary\n[illegible]"
+    },
+    {
+     "page_id": "B_0348_R",
+     "no": null,
+     "dates": [
+      "Thursday",
+      "Friday"
+     ],
+     "headings": [
+      "Thursday",
+      "Friday"
+     ],
+     "places": [
+      "Beverley",
+      "Bowes",
+      "Pecknell Farm",
+      "Tees Valley",
+      "Killhope"
+     ],
+     "text": "The campsite is an 11 minute walk from [4?] Town. There's [are] incredible building projects for housing near the site. Until WW2 there could have been fields up to the Minster. V. nice paths & cycle ways. We had coffee & shopped & enjoyed the Minster, then returned for Tinder & had fish & chips in town for lunch. Reading in the van. 3 other vans/caravans on site, & a man who spent hours doing exercise!\n\nThere are lots of Georgian houses in Beverley. The campsite has massive house-building next to it.\n\n__Thursday__\nEve walked Tinder & we set off for Bowes for lunch with the Fishers. We had a super day, chatting & admired their garden & an hour's walk. We got back for a cup of tea just before torrential rain. Both looking well.\nNow we are at Pecknell Farm campsite on the [dale] way to the upper Tees Valley.\nAmazing, well-built dry-stone wall up drive Ash dale-[?Pack]. Swallows.\n\n__Friday__\nWe stopped for bread on the way & drove on to the Killhope (!) lead mine. It was free because"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0349",
+   "pages": [
+    {
+     "page_id": "B_0349_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Killhope",
+      "Killhope Lead Mining Museum",
+      "Upper Weardale",
+      "Co Durham"
+     ],
+     "captions": [
+      "Killhope's Armstrong Water Wheel / Killhope Lead Mining Museum, / Upper Weardale, Co Durham."
+     ],
+     "text": "the engine was away being repaired. A knowledgable guide showed us the wild flowers – purple violets & [?Sor] Scurvy grass that are lead tolerant, + grow above the lead seams. Hare's tales is another of them. There are 4 in the area. The seams of lead lie vertically. It was first mined by the Romans. When miners suspect lead is below the surface, they do hushing.\n\n        The Bowers\n        bloom May-Aug\n        The miners\n        divert streams [?for]\n        [?ix] for a 6 mile[s]\n        + dam them +\n        then explode the\n        dam + drive\n        away peat +"
+    },
+    {
+     "page_id": "B_0349_R",
+     "no": 50,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Alston",
+      "St. John's Chapel",
+      "Australia"
+     ],
+     "captions": [
+      "THE GOSPEL SHIP"
+     ],
+     "text": "shale to reveal the lead seams. Ponies brought the lead in the form of galena out of the mines in heavy tubs on rails. Boys washed the galena. Floride is found as well.\n\n        Working conditions & living conditions were hard – 32 men slept in one room. They died in their 40s of \"black spit.\"\n\n        The mine owner provided schools. literacy was 70% whereas in coal mines it was 3%. These miners were so well thought-of that mine owners in Australia would pay their passage there.\n\n        A Gospel Ship – the Methodists were strong here. We looked at the shops in Alston & then came on to a campsite near St. John's Chapel."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0350",
+   "pages": [
+    {
+     "page_id": "B_0350_L",
+     "no": null,
+     "dates": [
+      "Sunday",
+      "Monday"
+     ],
+     "headings": [
+      "Sunday",
+      "Monday"
+     ],
+     "places": [
+      "Pennine Lodge",
+      "St. John's Chapel",
+      "Westgate",
+      "Killhope",
+      "Vindolanda"
+     ],
+     "text": "We spent the night at Pennine Lodge next to St. John's Chapel.\nSunday\n   We drove to Westgate + walked up a very steep hill. We went along tracks, some even, some [?eroded], + came to an absolutely beautiful woodland path which took us back down to the van. (Under 4 miles.) There was a motorbike scramble about to happen but we couldn't stay for it because we needed lunch. We passed the entrance + washing places to quite a few lead mines.\n   We returned to Killhope to look at the machinery. Some of the machines work like hop-picking machines. We had lunch + came back to Pennine Lodge. Rain. The rain held off for the morning. In the afternoon it was wet.\nMonday\nWe went on a short walk from the nice campsite. There's a steep car ford, but the water is deep from the rains. (We slept with the skylight open + the rain didn't come in - v. pleasant.) We walked across the pretty stream using the footbridge.\n   We drove on to Vindolanda - much developed since our last visit. Most fascinating are the 350 letters left over from the leaving bonfire."
+    },
+    {
+     "page_id": "B_0350_R",
+     "no": null,
+     "dates": [
+      "4th of July"
+     ],
+     "headings": [],
+     "places": [
+      "Vindolanda",
+      "Sutton Hoo",
+      "Manchester",
+      "Brook House Farm",
+      "Middlewich"
+     ],
+     "captions": [
+      "The most extraordinary of all Vindolanda's letters - the birthday party invitation from Claudia Severa to Sulpicia Lepidina, the wife of Vindolanda's prefect. It dates to the period A.D. 100/104 and the closing salutation, in Claudia Severa's hand, represents the earliest surviving writing by a woman."
+     ],
+     "text": "Unfortunately we walked out in a shower of rain & our legs got v. wet. We had coffee to warm up. There were diggers excavating with enthusiasm. We had lunch at the cafe + enjoyed the indoor museum. Recent excavations were started in 1938, the same as the Sutton Hoo.\n\nCharles has sent a 4th of July video from the U.S. We have driven down to beyond Manchester for the night. Brook House Farm Middlewich. Wish more salt. There's a salt mining museum nearby. (until 1986)"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0351",
+   "pages": [
+    {
+     "page_id": "B_0351_L",
+     "no": null,
+     "dates": [
+      "Sunday July 25th"
+     ],
+     "headings": [
+      "Sunday July 25th"
+     ],
+     "places": [
+      "Green House",
+      "Headlands",
+      "Thorpe",
+      "Kennels"
+     ],
+     "text": "Tuesday we went on a short walk in __[?Middlewood]-[?Postock]__ Green & admired the 1902 cricket [?Pavillion]. Then we set off for home. More rain now.\n\n__Sunday July 25th__\nWe left home & returned for fan belt & bottle tops for the Master. Peter is bringing the Master to Thorpe & John is bringing his van. We dropped Tinder off at Kennels.\n\nWe slept in the van, leaving the bed up all week & eating in The Green House. / the Headlands. When we first arrived we didn't dare go into the house for a day & night because W.B's friend, Dr. Tom, could not distinguish between Covid & a hangover. Seamark allowed no one into the house – Ester was breathfeeding & had not had a vaccination. Jane was at the house celebrating her 90 years. Unfortunately she had 2 falls & after the second one her hip was too painful to walk & she went home early in a taxi. V Brave & smiling, but a sad situation. (Wanda has broken her collar bone)\nThomas & Naomi had to swap half way through the week cos of Austin. But a super Thorpe – no rows."
+    },
+    {
+     "page_id": "B_0351_R",
+     "no": 52,
+     "dates": [
+      "August 7th Saturday"
+     ],
+     "headings": [
+      "August 7th Saturday"
+     ],
+     "places": [
+      "Eye church",
+      "Kennels",
+      "Cheshire",
+      "Jodrell Bank",
+      "Goosefield"
+     ],
+     "captions": [
+      "Jodrell Bank telescope (photo, no caption text)"
+     ],
+     "text": "On the way home we stopped for High Mass with John [?Warburston] at Eye church. Then on to Kennels & home.\n\n__August 7th Saturday__\nSimon & Eve leave for Imogen Maxwell's marriage to Nick Greasley. We are staying at a £32 B&B organised by Conta. Awful reviews. Rich [?foot Ballet] country in Cheshire. Down the road from Jodrell Bank.\n    Chatted to Wanda. Lovely \"wedding\" service at Nick Greasley's home ([?Goosefield]). Speeches v. good. David ill with cancer. Dancing feasting dancing. Cold.\nSimon gave lifts back to Thomas, Ed, Frankie & Holly. Wanda has a broken collar bone.\nIn the morning Miles cooked a bbq. breakfast in the rain, provided by Louisa, for lots of cousins.\nA super wedding. Off to [?Th...] [illegible]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0352",
+   "pages": [
+    {
+     "page_id": "B_0352_L",
+     "no": null,
+     "dates": [
+      "August '21"
+     ],
+     "headings": [],
+     "places": [],
+     "text": "Camping after Imogen's & Nean's wedding. August '21\n\nlater Walter left & Olive arrived\n\nFlora\nConrad\nWalter\nNini\nGigi"
+    },
+    {
+     "page_id": "B_0352_R",
+     "no": 53,
+     "dates": [
+      "Monday",
+      "Tuesday"
+     ],
+     "headings": [
+      "Monday",
+      "Tuesday"
+     ],
+     "places": [
+      "Chester",
+      "Netherton"
+     ],
+     "text": "We had a talk, telling about the Pulsar origin (1 tsp = weight of mount Everest from dying star) of \"LGM\" (Little green men.) Then on to camping near Chester with Thomas & Peter, 3vans, 2 tents.\n\t__Netherton__ touring site. A very good site with swings & good loos. A restaurant just up the road next to a garage. Thomas cooked a BBQ. Walter had a melt down.\n__Monday__\n\tThe children played in the camp until lunch time. In the afternoon we cycled, all of us (Gigi in a seat on Peter's bike) into Chester & got an ice-cream. A lovely day out. Walter had another melt-down [strikethrough: So Thomas] over where he would sit in the near-by restaurant. Then back at the campsite Walter had another melt-down so Thomas set off for home with Walter at 9.30. & I slept with Flora in the tent.\n__Tuesday__\nFlora, Nini & I set off for shopping in Chester. Thomas [text continues on next page]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0353",
+   "pages": [
+    {
+     "page_id": "B_0353_L",
+     "no": null,
+     "dates": [
+      "Wednesday"
+     ],
+     "headings": [
+      "Wednesday"
+     ],
+     "places": [
+      "Chester",
+      "Harlech",
+      "Dee estuary",
+      "Dolwyddelen Castle"
+     ],
+     "text": "arrived with Olive. They played cricket / foot ball at the campsite. Then we all met up at a restaurant in Chester for lunch. Peter + I cycled back with Gigi to the campsite where Gigi + I had naps. Peter went back into Town with the others + they saw the Cathedral + a model railway (west coast main line) + arch building. And shopping.\nIn the evening Thomas cooked another lovely BBQ.\n\n__Wednesday__\nWe waited while the Tents dried + Thomas + Peter packed up. In leaving Thomas went to look at camping vans. They all went home. Simon + Eve went west to near Harlech.\n   We had trouble finding a lunch place along the Dee estuary. We saw an old ship with a red + back funnel. Travelling inland we passed Dolwyddelen Castle. 1283 it fell to Edward I."
+    },
+    {
+     "page_id": "B_0353_R",
+     "no": 54,
+     "dates": [
+      "Thursday",
+      "Friday"
+     ],
+     "headings": [
+      "Thursday",
+      "Friday"
+     ],
+     "places": [
+      "Llan Bleanow Ffestiniog",
+      "Harlech",
+      "Llandanwg",
+      "Glan y Gors",
+      "St. Tanwg",
+      "Y Maes Cafe"
+     ],
+     "text": "We stopped for tea near a pass before a big slate mine. Llan Bleanow Ffestiniog. Then onto the campsite south of Harlech, Llandanwg village. Glan y Gors campsite. A short walk away is a [?B] chapel, sunk in the dunes, St. Tanwg arrived there in the [?6].\nWe were quite tired after being with the family.\n\n__Thursday__\n   We walk behind the dunes in the salt marshes. They are protecting the marram grass which takes 5 years for a [?big] clump to get established. Lunch - cheese pasties + later tea time ice cream at Y Maes Cafe. Well run. V. busy. V. V. windy in the afternoon, keeping the skylight shut. Families on the sandy beach.\n\n__Friday__\n   We left before breakfast to get a space in the carpark, but there was a 2 m baffle, so we are"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0354",
+   "pages": [
+    {
+     "page_id": "B_0354_L",
+     "no": null,
+     "dates": [
+      "Saturday"
+     ],
+     "headings": [
+      "Saturday"
+     ],
+     "places": [
+      "Shell Island",
+      "Barmouth",
+      "Hellfire Pass",
+      "Lake Bala",
+      "Lake Vyrnwy"
+     ],
+     "text": "[parted] on the roadside. We cycled against a strong head wind to Shell Island. The previous day the wind had blown me over while I was doing yoga. We cycled around Shell Island – a few shops + lots of campers + sand dunes. Just as we were about to cycle back along the causeway it was closed for high tide when the water covers the road. So Simon bought food in a super market + we had lunch in a sheltered part of the beach. Then we cycled back to the van [the water was still a bit over road] + drove back via Barmouth then up a v. windy, hairy high valley road to a wild camping place for the night, on Wales second highest pass, Hellfire Pass, between Lake Bala + Lake Vyrnwy.\nWe wild camped.\n__Saturday__\nWe drove along a v. windy road to Lake Vyrnwy After the dam we stopped for bread, loo paper, the Times + Tea. We drove on along beautiful country"
+    },
+    {
+     "page_id": "B_0354_R",
+     "no": 55,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Lake Vyrnwy",
+      "Llyn Efyrnwy",
+      "St. Melangell's church"
+     ],
+     "captions": [
+      "lake Vyrnwy / Llyn Efyrnwy"
+     ],
+     "text": "lake Vyrnwy / Llyn Efyrnwy\n[photo of Lake Vyrnwy / Llyn Efyrnwy with dam and tower]\nroads to a village near St. Melangell's church. We had lunch outdoors at the pub – scampi + Lasagna."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0355",
+   "pages": [
+    {
+     "page_id": "B_0355_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "St. Melangell's Church",
+      "North Powys",
+      "Llan fechain",
+      "Welshpool"
+     ],
+     "captions": [
+      "The Shrine, St. Melangell's Church, North Powys, David Bilbey"
+     ],
+     "text": "The Shrine\nSt. Melangell's\nChurch\nNorth Powys\n\nDavid Bilbey\n\nAfter lunch we went on a walk 2½m to St. Melangell's church, an old pilgrimage site. Her shrine was dismantled in the Reformation.\nParts of it were hidden in the lychgate & other buildings. Now her shrine has been rebuilt.\nSt. Melangell protected a hare from a huntsman in the [?C].\nLots of quail. Smelly. A quail farm?\nWe camped at Llan fechain, quite near Welshpool"
+    },
+    {
+     "page_id": "B_0355_R",
+     "no": 56,
+     "dates": [
+      "Friday August 20th",
+      "Sunday",
+      "Saturday"
+     ],
+     "headings": [
+      "Sunday",
+      "Friday August 20th",
+      "Saturday"
+     ],
+     "places": [
+      "Newnham",
+      "Pangbourne",
+      "Meadow Farm",
+      "Reading",
+      "M40"
+     ],
+     "text": "__Sunday__\nWe walked in a peaceful valley & set off at 10.15. for home.\n__Friday August 20th__\nWe set off at 7.35. for a hop business meeting with William, Ed [?Davis/Jones] & others at Newnham. Simon had a good meeting. I walked Tinder & wrote letters. We drove on to Pangbourne. Meadow Farm, Pangbourne, campsite. It is a beautiful, big, flat [?site] near the river. It floods in winter. It might be a good site to meet up with Pete. We arrived at 3.40. Charles came from Reading an hour later. We spent the evening chatting.\n__Saturday__\nWe got up & Charles got up a bit later. At 11.45. we walked along the meadows into Pangbourne. Then we came back to the van, had lunch & left. It was lucky the rain held off. We left across the toll Bridge 60p. The day before we had crossed it twice, overshooting the campsite entrance. M40.\nThen home."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0356",
+   "pages": [
+    {
+     "page_id": "B_0356_L",
+     "no": null,
+     "dates": [
+      "Wednesday August 25th",
+      "Sunday August 26th",
+      "Friday 9th Sept",
+      "Tuesday 14th September",
+      "Thursday 23rd Sept"
+     ],
+     "headings": [],
+     "places": [
+      "farm",
+      "Newnham hops",
+      "Kent"
+     ],
+     "text": "Wednesday August 25th\n5.45. left home for farm. Supper with William. Saw children before bed.. V peaceful in their bedrooms.\n\nThursday\n__Simon__ tested hop machines. I was in house while Joseph on puzzle lesson zoom. We located hop black boxes for teas. Came home.\n\nSunday August 26th\n4.30. Simon, Eve + Tinder have left to go hop picking. It went well. Simon fixed machines. Eve made rag dolls with Nina, Backgammon with Seb, sewed a draw string bag with Joseph. Country life filmed the family at Newnham hops. Home on Friday. Back to farm Sunday. Home on 8th William's birthday morning.\nFriday 9th Sept back to farm. Rain. Simon continued to work on machines. Bon fest in the Woods. Swimming. Aga not yet on.\nTuesday 14th September Home\nThursday 23rd Sept Simon picked Eve up from dentist & we're off at [?B] 11.15. to see Charles apple counting in Kent. Manually by Richard & Mary in daylights"
+    },
+    {
+     "page_id": "B_0356_R",
+     "no": 57,
+     "dates": [
+      "Friday",
+      "Wed + Thu, 6th + 7th Oct"
+     ],
+     "headings": [
+      "Friday"
+     ],
+     "places": [
+      "Kent",
+      "Cambridge",
+      "Dartford Tunnel",
+      "M11"
+     ],
+     "text": "by machine in the dark.\nWe arrived at 3. Tea with Richard + Mary, George + Charles + Tom. Richard + Mary had been counting apples for 2 or 3 days (almost grounds for divorce.) Charles took car to get machine (overgrown golf buggy that US uses for hunting, electric) from secure farm lock up. We have supper with Charles in van. Then first I, then Simon go out in buggy with Charles. Counting apples. 2 lights + screens, 2 cameras. Each camera takes 17 pics per second, 2 miles per hour, every 5th row. At night. Data analysed: size of apples. No of apples, in\nReading.\n\n__Friday__ Charles arrived for breakfast promptly at [?8].9. He had left the buggy (cheeky) in the campsite with us overnight as he had done another farm at 10p[m] + got locked out of the secure farm building. At 10 we left for home. Simon needs to get home to exchange contracts on the factory building. A dreadful traffic jam. Google advised us to go up towards Cambridge after the Dartford Tunnel (M11) + we need to get to the solicitor.\nWed + Thu, 6th + 7th Oct, Simon used van to pick up lights + work bench from Chad, as he's selling the [?factory] building."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0357",
+   "pages": [
+    {
+     "page_id": "B_0357_L",
+     "no": null,
+     "dates": [
+      "Friday 8th"
+     ],
+     "headings": [],
+     "places": [
+      "George Rd.",
+      "Thorpeness",
+      "Bardsey",
+      "Malvern",
+      "Run Cottage",
+      "Hollesley",
+      "Woodbridge",
+      "Shingle St.",
+      "Orford Castle",
+      "Orfordness"
+     ],
+     "text": "Friday 8th\n6.50. Simon & Tinder left George Rd. to come & pick up Eve at Thorpeness. 11.20. We drove to Bardsey to see the radar establishment which was there before it moved to Malvern during WW2., but it was closed. We had lunch there, then drove on to __Run Cottage__ campsite Hollesley, Nr. Woodbridge. V. clean & well-kpt. We went for a 5 mile walk to Shingle St. Flat. Tide out, beautiful colours. We could look up the Ness from where R. Deben enters to Orford Castle, church, & in the East the gov't buidlings on Orfordness.\nSat There is a dangerous walk to the pub, without pavements. I also had a ghastly luke-warm shower. But the campsite is pretty & clean.\nIt was warm & we had the chance to try out 3 new things for the first time - electric hook-up, included in the price, our awning & new covers to keep dog out of the seats, new elastic washing lines, light covers & (outdoor table) & leg extentions on [illegible] chairs."
+    },
+    {
+     "page_id": "B_0357_R",
+     "no": 58,
+     "dates": [
+      "Sunday"
+     ],
+     "headings": [
+      "Sunday"
+     ],
+     "places": [
+      "Scotland",
+      "Portugal",
+      "Hollesley",
+      "Hosely",
+      "Bawdsey",
+      "Malvern",
+      "Ferry",
+      "Felixstowe"
+     ],
+     "text": "We laped about the campsite & walked to the pub in the evening with a woman called Fiona Price. She had made money in the city, started a subscription website for women training horses (their thoughts & how to) sold it, sold up & designed her own camping van, cab & trailer. She had toured Scotland for 2 months & wants to settle in Portugal.\n__Sunday__\nWe went to Hollesley (Hosely) church. V. welco[ming] & the arth[d] knew Penny Bham arch d. lovely bells - an octave. Lovely Flint church. All Saints, Friendly.\nOn t[o] Bawdsey Radar museum. Watson-Watts Simon was taught by [?Rd] Dr. Rowe at Malvern He was top of the picture display at the museum Radar later moved to Mal Col. We had lunch & nap [sun] in the carpark then cycled to Ferry & across those golf courses to sea front at Felixstowe. Beach huts galore. Lots of dogs. 12 derricks in the distance. Tinder calmer in basket [cut off]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0358",
+   "pages": [
+    {
+     "page_id": "B_0358_L",
+     "no": null,
+     "dates": [
+      "Monday"
+     ],
+     "headings": [
+      "Monday"
+     ],
+     "places": [
+      "Sutton Hoo",
+      "Felixstowe",
+      "Orwell River",
+      "Bentley",
+      "Naze",
+      "Naze Tower",
+      "Ness",
+      "Frinton",
+      "Graces Road",
+      "Walton-on-the-Naze"
+     ],
+     "captions": [
+      "Walton-on-the-Naze",
+      "\"Mermaid\" by Duffy Tomei. Actually the Naze Tower"
+     ],
+     "text": "We motored inland past Sutton Hoo & Felixstowe, over the Orwell River to camp at __Bentley__. A quiet fold.\n\n__Monday__\nOn to the Naze, built in 1700s. Naze Tower, to help shipping before light houses. A nice art/ craft exhibit on all the floors. Spectacular view from tower to the Ness. Hoardes of school children Nice receptionist On to Frinton after lunch. We wandered near the keys & Graces Road looking at residential\n\n[Photo of Walton-on-the-Naze with Naze Tower on cliff edge; caption printed on photo: \"Walton-on-the-Naze\"]\n\n\"Mermaid\" by Duffy Tomei. Actually the Naze Tower"
+    },
+    {
+     "page_id": "B_0358_R",
+     "no": null,
+     "dates": [
+      "Tuesday"
+     ],
+     "headings": [
+      "Tuesday"
+     ],
+     "places": [
+      "West Mersea Quay",
+      "West Mersea",
+      "St Peter & Paul",
+      "Duke's Restaurant",
+      "5 lakes golfing hotel",
+      "Markes Farm",
+      "Tillingham"
+     ],
+     "text": "art deco houses, lots of them. lovely. But glad we don't have a flat roof.\n We found a space on West Mersea Quay, [?Rothari] Park 4 Night. It's a beautiful spot. High tide almost reaches us. Lovely sunset, misty sunrise.\n\n__Tuesday__\nWe had a leisurely walk in the evening going south along the sea front & in the morning we went north & inland to see the church. St Peter & Paul. 3 keyholes in the large wooden box. Beautiful tapestry kneelers, from all local organisations – darts team, play groups.\n   We stopped at the Duke's Restaurant, a [?fish] bar, & had a delicious fish platter outside Smoked salmon, smoked mackerel, shrimps, [?ocean] ocean sticks, crayfish tails, dressed crab, whelk prawns, mussels, bread, salad.\n   Then off to 5 lakes golfing hotel, where [?Sum] has been asked to repair bedside lights. Only 20 lights have broken out of 270 in 20 years.\n   We arrived at Markes Farm, Tillingham &"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0359",
+   "pages": [
+    {
+     "page_id": "B_0359_L",
+     "no": null,
+     "dates": [
+      "Wednesday"
+     ],
+     "headings": [
+      "Wednesday"
+     ],
+     "places": [
+      "The Old Cork",
+      "St. Nicholas",
+      "St. Peter on the Wall",
+      "Bradwell on Sea",
+      "Fort of Othona",
+      "Northumberland",
+      "Bishop of London",
+      "Sutton Hoo"
+     ],
+     "text": "Eve had a shower. On returning to the van, find Matt & Heather Portal, with Botty dog. They had come to find us. After a cup of tea, we walked back to their lovely house \"The Old Cork,\" next to the church, St. Nicholas, a mile away, past badgers' setts, for a super supper.\n\n__Wednesday__\nWe arrived back at their house for breakfast at 8.10. Then we set off for St. Peter on the Wall at Bradwell on Sea, (the Fort of Othona.) It was built for St Cedd's mission from Northumberland to the Saxons in 654. (The land round here has the earliest charter in existence of land Transferred by charter from a local chief to the Bishop of London.) The chapel was built in the wall of a Roman Fort. Same age as Sutton Hoo.\nAfter our visit we returned to Matt's house for"
+    },
+    {
+     "page_id": "B_0359_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Hyde Hall",
+      "Matt's house"
+     ],
+     "captions": [
+      "St. Peter on the Wall, Bradwell on Sea  654"
+     ],
+     "text": "coffee & left the dogs there. We drove to Hyde Hall. This is quite a modern garden, very beautiful. We looked at the veg & \"dry garden\" (comparable to Peter Buncombe's \"wash gardens.\"\nWe had lunch & shopped.\nAfter tea at Matt's house we walked back to"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0360",
+   "pages": [
+    {
+     "page_id": "B_0360_L",
+     "no": null,
+     "dates": [
+      "Thursday",
+      "Friday",
+      "Sunday",
+      "October → November 15th"
+     ],
+     "headings": [
+      "Thursday",
+      "Friday",
+      "Sunday"
+     ],
+     "places": [
+      "London",
+      "George Rd.",
+      "Chad Factory building",
+      "the Farm"
+     ],
+     "text": "the van\nThursday\nWe spent Today in the field campsite reading\n\nFriday\n  At 10.30, we set off for lunch with David +\nthe weekend with Peter in London. It's Maia's\nbirthday- Imogen Maxwell has had a baby boy.\n    David + Sally were well. David has lost\nweight. He returns to [?Norce] for a month in\nNovember. He has to be in Europe 6mo + per\nyear\n    We stayed with Peter + Nana for Friday +\nSaturday nights. Lots of building works in\nprogress + proposed. We took Kiri + Gigi to\nBear + Wolf Cafe. Playground. Watched foot ball.\nFarmers Market. Peter sick then better.\n\nSunday. Chris Lowe + Fran + Oscar came. We\nleft straight after lunch to get back for the\nSt. G. church course. Home 5.15.\nOctober → __November 15th__\nSimon has used the van to clear out the Chad\nFactory building → George Rd. + the Farm.\nAbout 5-6 loads."
+    },
+    {
+     "page_id": "B_0360_R",
+     "no": 61,
+     "dates": [
+      "Saturday February 26th 2022",
+      "Wednesday March 9th",
+      "Thursday"
+     ],
+     "headings": [
+      "Saturday February 26th 2022",
+      "Wednesday March 9th",
+      "Thursday"
+     ],
+     "places": [
+      "George Rd",
+      "Enfield Church",
+      "Staffordshire",
+      "Astley Abbotts",
+      "Black Country",
+      "Spring Hill",
+      "Victoria Rd",
+      "Scotland",
+      "Wales"
+     ],
+     "text": "Saturday February 26th 2022\n11.30. We left George Rd to spend a day in the\ncountry. NW.\n  We parked at Enfield Church, Staffordshire for lunch.\nThen we walked down the hill + across fields near\nthe hall, past playing fields to a lake. A lovely\nsunny walk, v. windy. Back at the van [?Donna]\ndoesn't answer her phone (no tea at Astley\nAbbotts) so we headed for home through the\nBlack Country. At Spring Hill we filled up with\nLPG gas.\n  Simon was showing how the heater worked to [?Lizzie].\nHe didn't switch it off properly. After 3½ days he\nfound the van warm + had to fill it again.\n\nWednesday March 9th\n8.30. we set off for Jackie's to leave Tinders in\nVictoria Rd. On the way there Peter telephoned for\nus to wish Conrad + Nini happy birthday.\nWe are off to [?Penn Onn] to help Kay with Eben +\nRalph (3 mo) while John is a new registrar.\n[?Arrington]'s + Charles' baby is due in a few days.\nWe go on to Claudia's wedding in Scotland after\nWales. (Wed night in [?Penn Onn].)\nThursday We left the layby at 6.50. + reached\n[text continues on next page]"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0361",
+   "pages": [
+    {
+     "page_id": "B_0361_L",
+     "no": null,
+     "dates": [
+      "Saturday",
+      "Sunday"
+     ],
+     "headings": [
+      "Saturday",
+      "Sunday"
+     ],
+     "places": [
+      "Crail",
+      "Cow Shed at Crail"
+     ],
+     "text": "[Chorby?] Woods at about 8.25. for breakfast, on the road again at 8.55. We went on + on + will be getting to Crail about 4.15. Conta has rented a house where we are staying. She is organising a pre-wedding supper in a hall, to which we are bringing Welsh daffodils. The dinner all went very well. Conta had cooked delicious Lasagna, peas + chocdate Brownies. Claudia + Theo went to supper with their father, Joss + Wanda ate with us. We slept in Conta's house.\n\n__Saturday__\nAlas Conta woke up with a throbbing headache + bore throat + tested positive for Covid 19. The wedding was beautiful in the Cow Shed at Crail. There was an amusing MC. Theo played the [Piano?]. Joss told a poem. Over 200 at the wedding. Delicious beef cheek. We had to leave after the dancing started because of strobe lights. Alfie made a speech about how nice Conta is.\n\n__Sunday__\nWe chatted + then went to the brunch back in the Crushed. Louisa had baked a triple cake - lemon? vanilla, chocolate, ginger? The brunch was also super. We chatted to new friends + said Goodbye to all, including David + Maxine, who was 60 on the day."
+    },
+    {
+     "page_id": "B_0361_R",
+     "no": 62,
+     "dates": [
+      "Monday",
+      "Friday March 25th"
+     ],
+     "headings": [
+      "Monday",
+      "Friday March 25th"
+     ],
+     "places": [
+      "Kirk Loch",
+      "Englewood Brook Chapel",
+      "Bolton",
+      "Peak District",
+      "Alsop",
+      "Tissington Trail",
+      "Hartington station",
+      "Fourginside Farm",
+      "Parwich"
+     ],
+     "text": "We have offered to have Conta to stay while she recovers from Covid. We set off + spent the night at __Kirk Loch__. Lovely.\n\n__Monday__\n  Simon tested positive when we woke up. He doesn't feel well. We had lunch at Englewood Brook Chapel. Picked up lampshades in Bolton, picked up dog from Jackie + hurried home before Conta gets there!\n\n__Friday March 25th__\nWe left home at 9.45. to take Tinder to the vet. Skin lesions, sore ear. (Charles had a baby Oliver last week. Wanda has turned her face to the wall.) We travelled all morning up to the Peak District + parked [Seplurt?] at Alsop on the Tissington Trail. A marvellous bike ride with our now ebikes N to Hartington station. [10 miles] Now we are camped at Fourginside Farm near Parwich. Glorious sunshine. The solar panel is more than adaquate to fill the ebikes. The sunshine continues."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0362",
+   "pages": [
+    {
+     "page_id": "B_0362_L",
+     "no": null,
+     "dates": [
+      "Friday",
+      "Sunday"
+     ],
+     "headings": [
+      "Sunday"
+     ],
+     "places": [
+      "Minninglow",
+      "Middleton Top",
+      "Parwich"
+     ],
+     "text": "[Friday] We drove to Minninglow. I gave Tinder a short walk & then we left him in the van while we cycled SE to Middleton Top. 16 miles. The High Peak Railway 1825-30 was one of the world's earliest railways. Horses pulled the carriages on the flat & steam powered beam engines in engine houses pulled the wagons up hills with cabs. Amazingdrystone walls up embankments.\n\n    After lunch back at the campsite we napped & then cycled into Parwich - a v. pretty village. Nice church, stream runs through village. Hilly. Lots of stone houses. Thank goodness for ebikes. War memorial is a sundial. Tinder stays in the van during bike rides now.\n\n~~Sober~~ Sunday\nIt's cold at night, so we keep the heater on a bit. We haven't really brought enough food, but fortunately Simon found some of Conti's brownies in a cupboard left over from the wedding. We can't go to a pub because I might still have Covid."
+    },
+    {
+     "page_id": "B_0362_R",
+     "no": 63,
+     "dates": [
+      "Thursday March 31st.",
+      "Sunday 29th May"
+     ],
+     "headings": [
+      "Thursday March 31st.",
+      "Sunday 29th May"
+     ],
+     "places": [
+      "Redditch",
+      "Brook House Farm",
+      "Elms",
+      "Hay on Wye"
+     ],
+     "text": "We reached home before lunch. Simon is testing negative, I'm still a bit positive. A really super holiday\n\n__Thursday March 31st.__\n__Wanda died yesterday.__ 8 45. Simon & Tinder & I set off for Redditch & Simon got more material & more wood for things in the van.\nOn to Brook House Farm, where Simon met Robert in the hop barn. Johnnie & Penny were there. Bryony was on a music course. After lunch we saw Eller, the Elms pony that Nina borrows in the holidays. Home.\n\n__Sunday 29th May__\nSimon, Eve Tinder set off at 9.15, for Hay on Wye. William & family saw a Lenny Henry talk. We've joined by John & family, Peter & family & Thomas & the girls. It is likely to rain, so we walk to the food tent. It doesn't rain. Food Tent food v expensive scrum. We return to van"
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0363",
+   "pages": [
+    {
+     "page_id": "B_0363_L",
+     "no": null,
+     "dates": [
+      "Monday",
+      "Tuesday"
+     ],
+     "headings": [
+      "Monday",
+      "Tuesday"
+     ],
+     "places": [
+      "Hay Castle",
+      "Co-op"
+     ],
+     "text": "for Peter's 39th birthday cake. He asked me if I had put all 36 candles on it to test me. Then William & family went home (school). & John & family went home (work). Nana's sleeping in a tent, Gigi is filling the triangle in the camping van be[d] left by Peter. Simon has made a [struck-through word] tray to fill the space between the cab seats for Olive to sleep on. Thomas is sleeping in a dome with [?]Flora + Betty. We stared salady stuff + Nina's cooking. Cold in the night.\n\n__Monday__\nI walked to the festival with Betty, Olive, Conrad + Nini + we had a super craft morning. lots of talks. Nana + I sat in on \"His dark materials.\" Simon bought meal deal lunches at Co-op. Messed about in the afternoon. Fish + chip supper.\n\n__Tuesday__\nWe all went to different things. I slept in a lecture with Peter. In the afternoon Simon + I took Nini + Flora to Hay Castle for Julius Caesar. Big mistake. Children v bored. I left at ½ time with chil + Simon enjoyed the rest."
+    },
+    {
+     "page_id": "B_0363_R",
+     "no": 12,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Kilpeck"
+     ],
+     "captions": [
+      "12 chevrd / f St. Mary / + St. David / Kilpeck"
+     ],
+     "text": "12 chevrd\nf St. Mary\n+ St. David\nKilpeck\n\n[Photo of carved Norman doorway arch of a stone church]\n\nAfter ½ cup tea, Thomas drove chit + me down to the river, where Nini, Betty + Olive paddle[d] without being knocked over by the current. I hav[e] bought each of the children a book, so they are re[ally] needing lots which is great. Meanwhile [?John] Gaskell has [?turned] up at the campsite is chatt[ing] to Nana."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0364",
+   "pages": [
+    {
+     "page_id": "B_0364_L",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Kilpeck Church"
+     ],
+     "captions": [
+      "Kilpeck Church"
+     ],
+     "text": "Kilpeck Church"
+    },
+    {
+     "page_id": "B_0364_R",
+     "no": 65,
+     "dates": [
+      "Wednesday June 1st"
+     ],
+     "headings": [
+      "Wednesday June 1st"
+     ],
+     "places": [
+      "Kilpeck church",
+      "Hay"
+     ],
+     "text": "At suppertime we go to the Indian restaurant across the field. V. clean loos + showers. Most satisfactory. The composting loo at the campsite has a diversion so pee goes one way + pooh the other. Children can't use it because their bums aren't big enough, so they use the porta loos. Then Simon lit the out door fire pit, the children play with planes + we chat.\n__Wednesday June 1st__\nLots of packing up. Nana + I take Connor, Nin, Olive + Betty to \"Making a wild scrap book\" which we greatly enjoyed. Olive made a grass man. Then Thomas arrived + we spent time again in the bookshop.\nThomas dropped me back at the campsite. Simon + I drove to see Kilpeck church^1134 + had lunch there on the way home.\nThe weather at Hay was much kinder than we expected with only a little bit of rain sometimes. There's lots of bunting for the Queen's platinum jubilee next week."
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0365",
+   "pages": [
+    {
+     "page_id": "B_0365_L",
+     "no": null,
+     "dates": [
+      "Wednesday June 15th"
+     ],
+     "headings": [
+      "Thursday"
+     ],
+     "places": [
+      "Hylton Hound Kennels",
+      "Little Bramshott Farm",
+      "Fleet",
+      "Eversley",
+      "Farley",
+      "Hounslow West",
+      "Eversley Church",
+      "London",
+      "Harrods",
+      "Berkeley Hotel",
+      "Harvey Nichols"
+     ],
+     "text": "3pm Wednesday June 15th.\nWe left home + put Tinder in Hylton Hound Kennels at 4.\nWe arrived at Little Bramshott Farm campsite at 6.20. Near Fleet, Fussy owner, lovely oak Trees.\nIn the map the site is marked with red hatching as if War Dept. land.\nSo hot in the morning I had to wear a hat in bed to drink tea.\n__Thursday__\nWe set off [for] thru Eversley to Farley to deliver [?Lash].\nThen on to Hounslow West, underground station, to park van.\nWe stopped off to see Eversley Church where we were married nearly 48 years ago. Locked. But in the graveyard we found Charles Kingsley's tomb (quickly 2 ladies with flowers) buried with his wife,\n[strikethrough: Amabo] Anavimus, Anamus, Anabamus.\nWe trained into London on the Piccadilly line + bought chocolates at Harrods. On to the Berkeley Hotel + met Bobby + Steve in the lobby. Then back to Harvey Nichols where we had a good lunch with Peter + Nana outside. But it got a bit hot.\nWe trained back to Hounslow West + [?] set off thru"
+    },
+    {
+     "page_id": "B_0365_R",
+     "no": null,
+     "dates": [],
+     "headings": [],
+     "places": [
+      "Harvey Nichols"
+     ],
+     "captions": [
+      "Harvey Nichols"
+     ],
+     "text": ""
+    }
+   ]
+  },
+  {
+   "spread_id": "B_0366",
+   "pages": [
+    {
+     "page_id": "B_0366_L",
+     "no": null,
+     "dates": [
+      "Friday 17th June"
+     ],
+     "headings": [
+      "Saturday"
+     ],
+     "places": [
+      "Kent",
+      "France",
+      "Vitry la France",
+      "Luce Mont",
+      "Villotte",
+      "Gray",
+      "St. Point Lake",
+      "Los Hopitsaux Neufs"
+     ],
+     "text": "We had a good supper at the Plough in our usual Kent campsite\n\nFriday 17th June at 7.30. we left for France. Lots of lorries in layby, Bad queueing system.\nWe motored south east + spent the night at Camping à la Nature [dt?] A Ventra walk before bed.\nnear Vitry la France, Luce Mont + Villotte.\n\nSaturday\nA leisurely departure. It might be 35 or 7°. England was v. hot just as we left.\nWe drove 4 hours to Gray + had lunch at the Brasserie overlooking the weir. A boat went down the lock. On for hours. I got fed up. We went to a U supermarket, then on to St. Point Lake. First campsite is full. Lots of motor bikes!\nWe found a campsite higher in the hills. Miroir at Los Hopitsaux Neufs. 5 villages make up a ski resort lovely small valley. Skiers/mountain bikes. We had a drink in the bar (Wi-Fi) for waiting for Charles to ring, but he didn't."
+    },
+    {
+     "page_id": "B_0366_R",
+     "no": null,
+     "dates": [
+      "Sunday",
+      "Monday"
+     ],
+     "headings": [
+      "Sunday",
+      "Monday"
+     ],
+     "places": [
+      "Switzerland",
+      "Bern",
+      "Groenwald",
+      "Interlaken",
+      "Gadmen"
+     ],
+     "text": "Sunday We started putting up the awning. 6[?] I broke the support at my end, then Simon broke it at his end. It was v. hot. The awning wouldn't stay up. We recovered by going on a 5m bike ride. Down the valley + up a hill side. The ebikers are wonderful. We then recharged them from solar power. Nice gazpacho + cheese + pate from Supermarket. A nice town. Will the skiing be hit by global warming?\n\nMonday\nWe left at 8.50. Into Switzerland. Beautiful, neat, clean, lots of road works. Past Bern. Groenwald off to right. Past Interlaken\nWe reached Gadmen village + the campsite + had lunch. We had [sticker obscures text] bike r[ide] a nap + then set off on a wonderful [illegible] bike ride\nWe tried all sorts of paths + finally found a concrete one that went up + up. (The rubble ones perhaps are for mtn bikers.) We went up 1100 ft in 3 miles\n(another 150ft to top of pass)\nV. steep drops. We were above the snowline.\nI slipped off the path from not concentrating, but fortunately on the mtn side. Cows, yellow fox-gloves. For 30 min we came downhill with both brakes on squeaking all the way down.\n\nThe campsite is excentric. The owner (Dutch?) wanders round in bare feet. Mexican woodworker"
+    }
+   ]
+  }
+ ]
+}

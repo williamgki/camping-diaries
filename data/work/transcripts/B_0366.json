@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0366",
+  "volume": "B",
+  "pdf_page": 366,
+  "pages": [
+    {
+      "page_id": "B_0366_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We had a good supper at the Plough in our usual Kent campsite\n\nFriday 17th June at 7.30. we left for France. Lots of lorries in layby, Bad queueing system.\nWe motored south east + spent the night at Camping à la Nature [dt?] A Ventra walk before bed.\nnear Vitry la France, Luce Mont + Villotte.\n\nSaturday\nA leisurely departure. It might be 35 or 7°. England was v. hot just as we left.\nWe drove 4 hours to Gray + had lunch at the Brasserie overlooking the weir. A boat went down the lock. On for hours. I got fed up. We went to a U supermarket, then on to St. Point Lake. First campsite is full. Lots of motor bikes!\nWe found a campsite higher in the hills. Miroir at Los Hopitsaux Neufs. 5 villages make up a ski resort lovely small valley. Skiers/mountain bikes. We had a drink in the bar (Wi-Fi) for waiting for Charles to ring, but he didn't.",
+      "dates": [
+        { "raw": "Friday 17th June", "iso_guess": "2022-06-17", "confidence": 0.8 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Kent", "France", "Vitry la France", "Luce Mont", "Villotte", "Gray", "St. Point Lake", "Los Hopitsaux Neufs"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The top portion of the left page has text that appears to be carry-over from the previous spread: 'We had a good supper at the Plough in our usual Kent campsite'. A large red foil/wrapper item is glued to the top-left corner, obscuring any handwritten page number. The text 'Camping à la Nature [dt?] A Ventra walk before bed' is partially unclear — 'dt?' may be an abbreviation, and 'A Ventra' could be 'A Venture' or a place name. 'Los Hopitsaux Neufs' may also read 'Les Hopitaux Neufs' (a real ski village in the Doubs, France). 'Miroir' likely refers to Lac Miroir or similar. '35 or 7°' likely means 35°C or 37°C. Friday 17th June 2022 was indeed a Friday, consistent with nearby transcripts (B_0362) being dated 2022."
+    },
+    {
+      "page_id": "B_0366_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday We started putting up the awning. 6[?] I broke the support at my end, then Simon broke it at his end. It was v. hot. The awning wouldn't stay up. We recovered by going on a 5m bike ride. Down the valley + up a hill side. The ebikers are wonderful. We then recharged them from solar power. Nice gazpacho + cheese + pate from Supermarket. A nice town. Will the skiing be hit by global warming?\n\nMonday\nWe left at 8.50. Into Switzerland. Beautiful, neat, clean, lots of road works. Past Bern. Groenwald off to right. Past Interlaken\nWe reached Gadmen village + the campsite + had lunch. We had [sticker obscures text] bike r[ide] a nap + then set off on a wonderful [illegible] bike ride\nWe tried all sorts of paths + finally found a concrete one that went up + up. (The rubble ones perhaps are for mtn bikers.) We went up 1100 ft in 3 miles\n(another 150ft to top of pass)\nV. steep drops. We were above the snowline.\nI slipped off the path from not concentrating, but fortunately on the mtn side. Cows, yellow fox-gloves. For 30 min we came downhill with both brakes on squeaking all the way down.\n\nThe campsite is excentric. The owner (Dutch?) wanders round in bare feet. Mexican woodworker",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2022-06-19", "confidence": 0.75 },
+        { "raw": "Monday", "iso_guess": "2022-06-20", "confidence": 0.75 }
+      ],
+      "headings": ["Sunday", "Monday"],
+      "underlined_places": [],
+      "place_mentions": ["Switzerland", "Bern", "Groenwald", "Interlaken", "Gadmen"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "A circular sticker/logo (letter N in a circle) is affixed to the right page, obscuring some text mid-paragraph around the 'bike ride' passage. The number after 'awning' on the first line is unclear — possibly '67' or '6?' (perhaps a temperature). 'Groenwald' could also read 'Groenwald' or 'Grünwald' — a Swiss location off to the right of the route past Bern toward Interlaken. 'excentric' is the diary's own spelling (for 'eccentric'). 'mtn' is the diarist's abbreviation for 'mountain'. Sunday and Monday dates inferred as June 19–20 2022 if Friday 17th June is the departure day."
+    }
+  ]
+}
