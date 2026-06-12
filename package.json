@@ -1,0 +1,43 @@
+{
+  "name": "camping-diaries",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "manifest": "node pipeline/00_manifest.mjs",
+    "render": "python3 pipeline/01_render.py",
+    "split": "python3 pipeline/02_split.py",
+    "reconcile": "node pipeline/06_reconcile_pages.mjs",
+    "geocode": "node pipeline/09_geocode.mjs",
+    "route": "node pipeline/10_route.mjs",
+    "assemble": "node pipeline/11_assemble.mjs",
+    "validate": "node pipeline/12_validate.mjs",
+    "pipeline": "npm run manifest && npm run render && npm run split && npm run reconcile && npm run geocode && npm run route && npm run assemble && npm run validate"
+  },
+  "dependencies": {
+    "@fontsource/ibm-plex-mono": "^5.1.0",
+    "@fontsource-variable/archivo": "^5.1.0",
+    "@fontsource-variable/newsreader": "^5.1.0",
+    "@mapbox/polyline": "^1.2.1",
+    "@turf/along": "^7.1.0",
+    "@turf/great-circle": "^7.1.0",
+    "@turf/length": "^7.1.0",
+    "maplibre-gl": "^5.0.0",
+    "minisearch": "^7.1.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "zustand": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "ajv": "^8.17.1",
+    "sharp": "^0.33.5",
+    "typescript": "~5.7.2",
+    "vite": "^6.0.0"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "generated_by": "00_manifest.mjs",
+  "sources": [
+    {
+      "volume": "A",
+      "path": "/Users/williamgkirby/Downloads/MASTER A Van 1989-2003.pdf",
+      "bytes": 208453162,
+      "sha256": "5bdf5253ff8a92fd3abe453c1ff55bc424eb919582fc2fee60b8effb57801086",
+      "pages": 350,
+      "page_rotation_deg": 90,
+      "pages_match_expected": true,
+      "status": "ok"
+    },
+    {
+      "volume": "B",
+      "path": "/Users/williamgkirby/Downloads/MASTER B 2003-2019.pdf",
+      "bytes": 227812830,
+      "sha256": "462033b0fb71c7db226092ce0b7ca418a689529a2fcc2c5af7734bcf5f57d7fe",
+      "pages": 373,
+      "page_rotation_deg": 90,
+      "pages_match_expected": true,
+      "status": "ok"
+    }
+  ]
+}

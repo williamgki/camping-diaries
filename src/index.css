@@ -1,0 +1,30 @@
+:root {
+  --paper: #f6f3ec;
+  --panel: #fcfbf8;
+  --ink: #26241f;
+  --muted: #6b675c;
+  --hairline: #e2ddd0;
+  --route-main: #a93f32;
+  --route-excursion: #4e6e8e;
+  --route-ferry: #3f7186;
+  --route-unresolved: #9a938a;
+  --font-ui: 'Archivo Variable', system-ui, sans-serif;
+  --font-serif: 'Newsreader Variable', Georgia, serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  height: 100%;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-ui);
+  font-size: 13px;
+  line-height: 1.45;
+}
