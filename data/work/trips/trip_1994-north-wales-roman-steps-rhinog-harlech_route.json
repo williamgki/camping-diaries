@@ -1,0 +1,121 @@
+{
+  "trip_id": "1994-north-wales-roman-steps-rhinog-harlech",
+  "title": "North Wales: Roman Steps, Rhinog & Harlech",
+  "volume": "A",
+  "spread_range": ["A_0139", "A_0140"],
+  "diary_page_range": [139, 140],
+  "date_start": "1994-09-03",
+  "date_end": "1994-09-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wolverhampton, UK",
+      "original_wording": "Wolverhampton",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0139_L",
+      "excerpt": "We left at 8.30. + breakfasted at the Wolverhampton camping shop where Simon bought stools.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Cwm Bychan, Rhinog, Wales",
+      "original_wording": "[?Limes]",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "A_0139_L",
+      "excerpt": "1.55. We reached [?Limes] + had lunch. The rain started. We sat in the pyramid + read + played draughts.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Rhinog, Gwynedd, Wales" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Machynlleth, Wales",
+      "original_wording": "Machynlleth Centre for Alternative Technology",
+      "role": "transit_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0140_L",
+      "excerpt": "On the way home we stopped at Machynlleth Centre for Alternative Technology.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0140_L",
+      "excerpt": "said 'do up yr seatbelts' & we went [home?]",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Walk up Roman Steps and attempted Rhinog",
+      "date_guess": "1994-09-04",
+      "stops": [
+        {
+          "normalized_name": "Roman Steps, Rhinog Fawr, Wales",
+          "original_wording": "Roman Steps",
+          "confidence": 0.95,
+          "source_page_id": "A_0139_R",
+          "excerpt": "we decided to walk up the Roman Steps in the morning. We had lunch at the top of the Roman Steps.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Rhinog Fawr, Gwynedd, Wales",
+          "original_wording": "Rhinog",
+          "confidence": 0.9,
+          "source_page_id": "A_0139_R",
+          "excerpt": "Simon, Thomas, Peter + John set off for Rhinog. But the rain came sweeping in in gusts. They arrived back only 1½ hours after us, after a shortened trip.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Evensong at Harlech",
+      "date_guess": "1994-09-04",
+      "stops": [
+        {
+          "normalized_name": "Harlech, Wales",
+          "original_wording": "Harlech",
+          "confidence": 0.95,
+          "source_page_id": "A_0139_R",
+          "excerpt": "We went to Harlech. At 5.30. There was a Evensong in Welsh.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Limes]",
+      "issue": "Campsite name illegible; likely a Welsh place name near the Roman Steps (Cwm Bychan area, Rhinog, Gwynedd) given the subsequent day's walk to the Roman Steps, but the exact name cannot be confirmed from the transcription.",
+      "source_page_id": "A_0139_L",
+      "excerpt": "1.55. We reached [?Limes] + had lunch."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A long-weekend camping trip to North Wales in early September 1994. The family based themselves near the Roman Steps in the Rhinog mountains for three nights, walking the Steps on Sunday morning before rain curtailed a planned Rhinog summit, and attending a Welsh Evensong at Harlech in the evening. The return journey on Tuesday included a stop at the Centre for Alternative Technology at Machynlleth.",
+  "extraction_notes": "The diary pages (A_0139_L to A_0140_L) open mid-content with entries from a late-August music festival at Churcham (Gloucestershire) belonging to a different trip or context; the North Wales trip begins clearly with the 'Sat Sept 3rd' entry. The campsite name is transcribed as '[?Limes]' and is unresolved — given the geography (Roman Steps walk the next day, campsite described as behind a hill with a stream) it is most plausibly Cwm Bychan or a nearby site in the Rhinog National Nature Reserve. No ferry or tunnel crossings — entirely within Great Britain. The dog 'Tinder' is not mentioned; 'Spider' appears in the Churcham context (a different dog or earlier entry). The trip appears to run Sat 3 Sept to Tues 6 Sept 1994."
+}

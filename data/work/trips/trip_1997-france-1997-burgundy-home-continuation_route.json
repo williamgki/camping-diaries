@@ -1,0 +1,142 @@
+{
+  "trip_id": "1997-france-1997-burgundy-home-continuation",
+  "title": "France 1997: Burgundy & the journey home",
+  "volume": "A",
+  "spread_range": ["A_0217", "A_0219"],
+  "diary_page_range": [null, null],
+  "date_start": "1997-08-12",
+  "date_end": "1997-08-16",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["FR", "GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Le Monastier-sur-Gazeille, France",
+      "original_wording": "Monastier",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0217_L",
+      "excerpt": "We shopped at Monastier Ecomarket + set of n.e. though Lyons on a fast road.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Lyon, France",
+      "original_wording": "Lyons",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0217_L",
+      "excerpt": "set of n.e. though Lyons on a fast road. We pulled off the motorway to have lunch",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Saint-Jean-de-Vaux, France",
+      "original_wording": "St. Jean le Vaux",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0217_L",
+      "excerpt": "Beyond Givry we reached __St. Jean le Vaux__. The pool is open until 8 in the evening",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Hames-Boucres, France",
+      "original_wording": "Hames-Boucres",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0218_L",
+      "excerpt": "we finally found La Belle Pêche *** at Hames-Boucres. It's a bit __old + tired__, full of families",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Coquelles (Eurotunnel), France",
+      "original_wording": "le shuttle",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0219_L",
+      "excerpt": "On the le shuttle we had a ambyplane ... After coming through the Tunnel, we had a disappointing lunch in a Road Chef.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Folkestone (Eurotunnel), UK",
+      "original_wording": "the Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0219_L",
+      "excerpt": "After coming through the Tunnel, we had a disappointing lunch in a Road Chef.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Oxford, UK",
+      "original_wording": "Oxford",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0219_L",
+      "excerpt": "we had not reckoned on a puncture just by Oxford on the M.40. at 70 mph ... we stopped at the Oxford services",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0219_L",
+      "excerpt": "We guessed that we'd be home at 3.45.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 4,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0219_L",
+      "excerpt": "On the le shuttle we had a ambyplane ... After coming through the Tunnel, we had a disappointing lunch in a Road Chef."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Wine tasting & dining at Givry",
+      "date_guess": "1997-08-14",
+      "stops": [
+        {
+          "normalized_name": "Givry, France",
+          "original_wording": "Givry",
+          "confidence": 0.85,
+          "source_page_id": "A_0217_R",
+          "excerpt": "We went back to the Hotel du Raisin restaurant in Givry. We had delicious the cold herring + potatoes in oil",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "type": "mixed_end",
+      "page_id": "A_0219_L",
+      "note": "Page A_0219_L mixes the end of this trip (return home via the Tunnel on Sat 16 Aug) with the start of following content; boundary_mixed flagged in source bundle."
+    }
+  ],
+  "summary": "The closing leg of the family's France 1997 touring holiday, 12-16 August 1997. After shopping at Le Monastier and driving north-east past Lyon and up the Rhône valley, they based at the campsite at Saint-Jean-de-Vaux near Givry in Burgundy, tasting and buying Givry wine and dining at the Hôtel du Raisin. On 15 August they drove north past Reims to La Belle Pêche at Hames-Boucres near Calais, crossed back to England by Eurotunnel le shuttle on 16 August, and reached home in Birmingham despite a puncture by Oxford on the M40.",
+  "extraction_notes": "This is the 'home-continuation' bundle: only the end of the France 1997 trip is narrated (Aug 12-16), so the main route begins mid-trip at the Burgundy base rather than at home. The hand-drawn route sketch (A_0218_R, 'FRANCE 1997') shows the full clockwise loop (Picardy/Amiens -> Paris area -> Loire Valley -> Bourges -> Auvergne -> Conques -> Rhône/Tain l'Hermitage -> Chalon-sur-Saône -> north through Champagne -> back to Picardy); its northbound return arm (Rhône area -> Chalon-sur-Saône/Burgundy -> north through Champagne -> Picardy -> Channel) matches and confirms this bundle's narrated homeward leg. The earlier loop stops (Bourges, Conques, Tampiny/Tain l'Hermitage, etc.) are documented on other (earlier) pages, not in this continuation bundle, so they are not duplicated as stops here. St. Jean le Vaux is normalized to Saint-Jean-de-Vaux (Saône-et-Loire), the campsite near Givry/Chalon-sur-Saône corresponding to the 'Chalon of Saone' marker on the sketch. The crossing is the Eurotunnel (named 'le shuttle' / 'the Tunnel'): route_key folkestone-coquelles, kind=tunnel, not inferred. Le Monastier and Lyon are transit/shopping stops on the driving leg. Givry is grouped as an excursion from the St-Jean-de-Vaux base. The trip ends at home in Birmingham (returned via M40 past Oxford)."
+}

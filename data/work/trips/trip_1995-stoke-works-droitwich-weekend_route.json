@@ -1,0 +1,69 @@
+{
+  "trip_id": "1995-stoke-works-droitwich-weekend",
+  "title": "Stoke Works (Droitwich) weekend",
+  "volume": "A",
+  "spread_range": ["A_0143", "A_0143"],
+  "diary_page_range": [143, 143],
+  "date_start": "1995-04-21",
+  "date_end": "1995-04-22",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Stoke Works, Worcestershire, UK",
+      "original_wording": "Stoke Works",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0143_L",
+      "excerpt": "5.45pm we left for the west. We stayed at Stoke Works.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Droitwich" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0143_L",
+      "excerpt": "But as it was raining, we left straight after breakfast.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Canal walk",
+      "date_guess": "1995-04-21",
+      "stops": [
+        {
+          "normalized_name": "Stoke Works Canal, Worcestershire, UK",
+          "original_wording": "canal",
+          "confidence": 0.85,
+          "source_page_id": "A_0143_L",
+          "excerpt": "We walked along the pretty canal.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Stoke Works, Droitwich" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": ["mixed_end"],
+  "summary": "A short Easter weekend break to a campsite at Stoke Works near Droitwich, about 20-25 minutes from Birmingham, on Friday 21 April 1995. The family walked the canal, enjoyed the site's leisure facilities, and left Saturday morning after rain set in. Thomas was not present (away at Malvern).",
+  "extraction_notes": "Single diary page. Trip ended Saturday morning (left after breakfast due to rain). The mention of going to Malvern on Sunday to see Thomas and take Bertrand to the airport is a future plan noted in the diary and is NOT part of this camping trip route. Thomas is listed in the family context but noted as absent (age 15 at time, likely at school). mixed_end flag reflects boundary uncertainty at the end of the spread."
+}

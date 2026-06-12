@@ -1,0 +1,161 @@
+{
+  "trip_id": "1995-lake-district-rydal-coniston-brantwood-eskdale",
+  "title": "Lake District: Rydal, Coniston, Brantwood & Eskdale",
+  "volume": "A",
+  "spread_range": ["A_0143", "A_0144"],
+  "diary_page_range": [37, 58],
+  "date_start": "1995-04-27",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Foxcovert Farm, near Knutsford, Cheshire",
+      "original_wording": "Foxcovert Farm",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0143_R",
+      "excerpt": "After leaving the motorway we zigzagged & went in circles to find Foxcovert Farm (covert) campsite *** at 8.15. Very pretty sheltered small valley.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bowness-on-Windermere, Cumbria",
+      "original_wording": "Bowness",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0143_R",
+      "excerpt": "We had lunch at Bowness next to a graveyard & drove on to Rydal Water.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Rydal Water, Cumbria",
+      "original_wording": "Rydal Water",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0143_R",
+      "excerpt": "We walked 3 miles around Rydal Water, seeing Wordsworth's house which was closed, as it was after 5pm, & Rydal Hall where Simon + Eve stayed with St. John's College in 1973/4.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Hawkshead, Cumbria",
+      "original_wording": "Hawkshead",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0144_L",
+      "excerpt": "We drove on to a campsite at Hawkshead.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Coniston, Cumbria",
+      "original_wording": "Coniston",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0144_R",
+      "excerpt": "We left after reading after lunch + drove a short distance to Coniston; on the N.W. side of Lake Coniston. We've camped at Pier Cottage * * * * which is so beautiful that we have decided to stay more than one night.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips start and end at home unless the diary shows otherwise; return not yet documented in transcribed pages",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Sunday morning: St. Michael's church and Hawkshead town walk",
+      "date_guess": "1995-04-29",
+      "stops": [
+        {
+          "normalized_name": "St Michael and All Angels Church, Hawkshead",
+          "original_wording": "St. Michael's church",
+          "confidence": 0.95,
+          "source_page_id": "A_0144_L",
+          "excerpt": "We walked to St. Michael's church. Beautiful. Mediaeval carvings, quite low church, 1662 Communion A & M.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 6,
+      "label": "Monday: SY Gondola trip across Lake Coniston to Brantwood",
+      "date_guess": "1995-05-01",
+      "stops": [
+        {
+          "normalized_name": "Brantwood, Coniston, Cumbria",
+          "original_wording": "Brantwood",
+          "confidence": 0.95,
+          "source_page_id": "A_0144_R",
+          "excerpt": "We set off to buy Eve new walking boots + then caught SY Gondola (steam [yacht] Gondola) around the lake, getting off at Ruskin's home, Brantwood, on the eastern shore.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Eskdale",
+      "issue": "Named in trip title/slug but not evidenced in transcribed pages; likely a further overnight base after Coniston not yet documented",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Wast Water",
+      "issue": "Named in trip title/slug but not evidenced in transcribed pages; likely visited from Eskdale base",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Grasmere",
+      "issue": "Named in trip title/slug but not evidenced in transcribed pages; may have been visited en route or as an excursion",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "[?Sun] Hotel",
+      "issue": "Pub/hotel name uncertain; transcription marked as uncertain; the Sun Hotel in Coniston is plausible",
+      "source_page_id": "A_0144_R",
+      "excerpt": "We saw the [?Sun] Hotel + had a drink at the [?Black Bull]"
+    },
+    {
+      "original_wording": "[?Black Bull]",
+      "issue": "Pub name uncertain; transcription marked as uncertain; the Black Bull Inn in Coniston is plausible",
+      "source_page_id": "A_0144_R",
+      "excerpt": "We saw the [?Sun] Hotel + had a drink at the [?Black Bull]"
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A late-April 1995 break for Simon and Eve alone in the Lake District, with children at school or cared for at home. They overnighted at Foxcovert Farm near Knutsford en route, then at Hawkshead, then settled for multiple nights at Pier Cottage on Lake Coniston, making a day trip by steam yacht to Ruskin's Brantwood. Further stops including Eskdale and Wast Water are implied by the trip title but are not yet documented in the transcribed pages.",
+  "extraction_notes": "Only two diary spreads (A_0143, A_0144) are transcribed for this trip. The trip slug and title mention Eskdale, Wast Water, and Grasmere but none of these places appear in the transcribed text, strongly suggesting further pages exist beyond the current bundle. The diary page numbers jump from 37 to 58, which may indicate a gap in transcription rather than a gap in the diary. The Monday excursion date is estimated as 1995-05-01 (the Monday after Sunday 29 April), but could be 1995-04-30 if 'Monday' referred to the day after arriving at Coniston on Sunday afternoon. The Rothay Manor restaurant dinner (A_0144_L) was a meal stop on the Saturday evening, not an overnight base. Travellers were Simon and Eve only; all children were at school or under care of au pair Karolene."
+}

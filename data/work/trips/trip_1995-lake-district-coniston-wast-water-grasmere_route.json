@@ -1,0 +1,128 @@
+{
+  "trip_id": "1995-lake-district-coniston-wast-water-grasmere",
+  "title": "Lake District: Coniston, Wast Water & Grasmere",
+  "volume": "A",
+  "spread_range": ["A_0145", "A_0150"],
+  "diary_page_range": [59, 62],
+  "date_start": "1995-05-01",
+  "date_end": "1995-05-04",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Coniston, Cumbria, UK",
+      "original_wording": "Coniston",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0145_L",
+      "excerpt": "View from our campsite at Coniston.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wrynose Pass, Cumbria, UK",
+      "original_wording": "Wrynose Pass",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0147_L",
+      "excerpt": "We drove over Wrynose Pass, steep, huge drops, into Wrynose Bottom",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Hardknott Roman Fort (Mediobogdum), Cumbria, UK",
+      "original_wording": "Hardknott Roman Fort, Mediobogdum",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0147_L",
+      "excerpt": "We walked over Hard Knott Pass + saw Hardknott Roman Fort, Mediobogdum.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Boot, Eskdale, Cumbria, UK",
+      "original_wording": "Boot in Eskdale; Hollin Farm",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0147_L",
+      "excerpt": "We drove on north west + camped at Boot in Eskdale.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Wasdale Head, Wast Water, Cumbria, UK",
+      "original_wording": "Wast Water; St. Olaf's",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0149_R",
+      "excerpt": "We drove up to Wast Water & walked in the village, seeing St. Olaf's tiny church where climbers are buried",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Low Wray, Cumbria, UK",
+      "original_wording": "South Wray Castle Farm",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0149_R",
+      "excerpt": "We camped at South Wray Castle Farm * * * * an amazing camp site with a meandering stream, bog & field",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Dove Cottage, Grasmere, Cumbria, UK",
+      "original_wording": "Dove Cottage at Grasmere",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0149_R",
+      "excerpt": "Thu May 4th. We drove to Dove Cottage at Grasmere, coming in on a very steep road, 25% of 1 in 4 above the white Moss Inn.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Townend, Troutbeck, Cumbria, UK",
+      "original_wording": "Townend, Troutbeck",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0150_L",
+      "excerpt": "We visited Townend, Troutbeck, for 400 years home of the Browne family.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0150_L",
+      "excerpt": "At 4.30 we set off for home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "type": "mixed_start",
+      "detail": "Window opens mid-trip at the Coniston campsite with no home departure shown; the trip began before this spread range (continues from a previous window). Main route therefore starts at an overnight_base, not home."
+    },
+    {
+      "type": "mixed_end",
+      "detail": "A_0150_L is flagged boundary_mixed; the next trip likely begins on the same spread after the 'set off for home' note."
+    }
+  ],
+  "summary": "A short late-spring 1995 Lake District camping trip captured mid-stream: from a campsite at Coniston the family crossed Wrynose and Hard Knott passes (visiting Hardknott Roman Fort) to camp at Boot in Eskdale (Hollin Farm), explored Wast Water and St Olaf's church, then camped at South Wray Castle Farm. On Thursday 4 May they visited Dove Cottage at Grasmere and Townend at Troutbeck before setting off home to Birmingham at 4.30.",
+  "extraction_notes": "Window is the tail of a longer Lake District trip (mixed_start=false in the bundle, but the spread opens at an already-established Coniston campsite with no home departure narrated, so home is omitted from the start of the main route; trip began in an earlier window). The three sketch pages are NOT numbered route lists: A_0146_L is a geological skyline profile of Coniston Water's two shores; A_0147_R is a fell-profile sketch (Haystacks, Great Gable, Kirk Fell, Wasdale Head, Scafell); A_0149_R is a regional orientation map of the Lake District. None impose a route order conflicting with the dated narrative, so the overnight progression follows the dated narrative (Tuesday 2nd May, Wed, Thu May 4th). 'White Moss House / White Moss Inn' (Rydal Water) was a restaurant where they dined, not an overnight stay, so it is not a main_route stop. 'South Wray Castle Farm' is read as the campsite near Wray Castle / Low Wray on Windermere's west shore (approximate). Hollin Farm (phone 09467-23253) is the named Boot/Eskdale campsite. All places are in Cumbria, England (countrycodes gb). Dates: Tuesday 2 May 1995, Wednesday 3 May 1995, Thursday 4 May 1995; date_start estimated as 1995-05-01 (Coniston night before the Tuesday departure)."
+}

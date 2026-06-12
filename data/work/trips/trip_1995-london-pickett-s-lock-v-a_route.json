@@ -1,0 +1,150 @@
+{
+  "trip_id": "1995-london-pickett-s-lock-v-a",
+  "title": "London: Pickett's Lock, V&A & British Museum",
+  "volume": "A",
+  "spread_range": ["A_0171", "A_0172"],
+  "diary_page_range": [171, 172],
+  "date_start": "1995-10-22",
+  "date_end": "1995-10-24",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Pickett's Lock, Edmonton, London",
+      "original_wording": "Pickett's lock",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0171_L",
+      "excerpt": "The seven of us set off for London at 10.20. We arrived at Pickett's lock, [?sa] [?Vallba leisure] centre.",
+      "geocode_hint": { "countrycodes": "gb", "city": "London" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0172_L",
+      "excerpt": "We are driving home up the motorway. ETA 7.50.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday: Victoria & Albert Museum, Planetarium, Madame Tussauds Sims, Adelphi",
+      "date_guess": "1995-10-22",
+      "stops": [
+        {
+          "normalized_name": "Victoria and Albert Museum, London",
+          "original_wording": "Victoria + Albert Museum",
+          "confidence": 0.95,
+          "source_page_id": "A_0171_R",
+          "excerpt": "We had lunch + bought day tickets + went to the Victoria + Albert Museum. We saw beautiful ivories + an Elizabethan portrait.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "London Planetarium, London",
+          "original_wording": "Planetarium",
+          "confidence": 0.9,
+          "source_page_id": "A_0171_L",
+          "excerpt": "Thomas Planetarium + Sims; William, Planetarium + Sims; Peter Planetarium +",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Adelphi Theatre, London",
+          "original_wording": "Adelphi",
+          "confidence": 0.9,
+          "source_page_id": "A_0171_R",
+          "excerpt": "We tried to get tickets for Starlight Express at the Adelphi, but there weren't any.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sunday: Westminster Abbey, Pizza Hut, Planetarium, Regents Park",
+      "date_guess": "1995-10-23",
+      "stops": [
+        {
+          "normalized_name": "Westminster Abbey, London",
+          "original_wording": "Westminster Abbey",
+          "confidence": 0.95,
+          "source_page_id": "A_0171_R",
+          "excerpt": "Sunday We had a frustrating journey into London, + arrived in time for a sung [?Each] at Westminster Abbey, + glimpsed Peter Portal.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "London Planetarium, London",
+          "original_wording": "Planetarium",
+          "confidence": 0.9,
+          "source_page_id": "A_0171_R",
+          "excerpt": "We lunched at Pizza Hut + went on to the Planetarium. The films made Eve feel sick.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Regent's Park, London",
+          "original_wording": "Regents Park",
+          "confidence": 0.95,
+          "source_page_id": "A_0171_R",
+          "excerpt": "We had Tea watching tennis in Regents Park.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Monday: Liberty's, Newman Arms, British Museum",
+      "date_guess": "1995-10-24",
+      "stops": [
+        {
+          "normalized_name": "Liberty's, London",
+          "original_wording": "Libertys",
+          "confidence": 0.95,
+          "source_page_id": "A_0172_L",
+          "excerpt": "We set off to Libertys & looked for material for Simon's dressing gown, bought Eve a rugby-watching brown coat.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Newman Arms, London",
+          "original_wording": "Newman Arms, off Tottenham Court Rd.",
+          "confidence": 0.9,
+          "source_page_id": "A_0172_L",
+          "excerpt": "We had a delicious lunch at the Newman Arms, off Tottenham Court Rd.; Eve had steak & [?fried] kidney pudding & spotted dick & custard.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "British Museum, London",
+          "original_wording": "British Museum",
+          "confidence": 0.95,
+          "source_page_id": "A_0172_L",
+          "excerpt": "We saw the Egyptian section & the peat bog man in the British Museum.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "A_0171_L has boundary_mixed=true: text before the Friday October 22nd heading belongs to a prior trip (Hartley Wintney, Farnham visit). The London trip begins at the heading 'Saturday Friday October 22nd'.",
+    "A_0172_L has boundary_mixed=true: entry ends mid-page; subsequent pages may begin another trip."
+  ],
+  "summary": "A three-day family trip (Friday–Monday, 22–24 October 1995) to London, based at Pickett's Lock leisure centre in Edmonton. The seven family members visited the V&A, British Museum, London Planetarium, Westminster Abbey, Regent's Park, Liberty's and the Adelphi, and attended evening cinema screenings at the campsite.",
+  "extraction_notes": "A_0171_L is boundary_mixed; the Hartley Wintney and Farnham passages before the 'Friday October 22nd' heading belong to a preceding trip and have been excluded. No international crossings — entirely domestic UK trip. The Planetarium appears on both Saturday and Sunday; modelled as separate excursion stops per day. 'Sims' alongside 'Planetarium' likely refers to Madame Tussauds Simulator rides adjacent to the Planetarium on Marylebone Road. Date start confirmed as 1995-10-22 (Friday October 22nd explicitly stated); date end 1995-10-24 (Monday October 24th explicitly stated)."
+}

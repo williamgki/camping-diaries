@@ -1,0 +1,113 @@
+{
+  "trip_id": "1989-dinas-camp-near-harlech-july-with",
+  "title": "Dinas Camp near Harlech (July, with family)",
+  "volume": "A",
+  "spread_range": ["A_0005", "A_0005"],
+  "diary_page_range": [5, 5],
+  "date_start": "1989-07-14",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dinas Camp, near Harlech, Wales",
+      "original_wording": "Dinas Camp near Harlech",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0005_R",
+      "excerpt": "Off to Dinas Camp near Harlech again, to join Tim, Margaret, Helen and David, Sally, Maia. We left before breakfast & ate at the cricket pitch.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Harlech, Wales" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Centre for Alternative Technology, Machynlleth, Wales",
+      "original_wording": "Alternative Technology Centre",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0005_R",
+      "excerpt": "Visiting Alternative Technology Centre on the way home.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Machynlleth, Wales" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Energetic country walk (Saturday)",
+      "date_guess": "1989-07-15",
+      "stops": [
+        {
+          "normalized_name": "Harlech area hills, Wales",
+          "original_wording": "walk across country",
+          "confidence": 0.6,
+          "approximate": true,
+          "source_page_id": "A_0005_R",
+          "excerpt": "On the Saturday we went on a very energetic walk across country, carrying Charles miles in my arms across heather & blueberry bushes. 7 miles.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Harlech, Wales" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Valley walk and river swim",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Rhinogydd valley, near Harlech, Wales",
+          "original_wording": "beautiful valley",
+          "confidence": 0.5,
+          "approximate": true,
+          "source_page_id": "A_0005_R",
+          "excerpt": "We walked along a beautiful valley & swam in the river.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Harlech, Wales" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Day trip to Porthmadog",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Porthmadog, Wales",
+          "original_wording": "Portmadoc",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0005_R",
+          "excerpt": "We visited Portmadoc — Sunny Italian architecture, but woods not as good as Welsh hill sides. Found a shop — Cara, to sell Fuschia sweater.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A family camping holiday at Dinas Camp near Harlech in North Wales, joining friends Tim, Margaret, Helen, David, Sally, Maia and Grandma. The family enjoyed fine weather with outdoor meals, hill walks, a river swim, and a day trip to Porthmadog, stopping at the Centre for Alternative Technology on the drive home.",
+  "extraction_notes": "Only one diary page survives for this trip (A_0005_R). The entry is written in a mix of tenses suggesting it was composed retrospectively after the stay. Departure date is Friday 14 July 1989; the Saturday walk (15 July) is the only other day dated precisely. The end date is not recorded. 'Dinas Camp near Harlech' is a real campsite (Dinas Camp, Llanbedr, near Harlech). The valley-walk stop is assigned to the Rhinogydd as a best approximation — the diary gives no valley name. The Centre for Alternative Technology is at Llwyngwern Quarry, Machynlleth, and sits plausibly en route from Harlech back to Birmingham. No ferry or border crossings — entirely within Great Britain."
+}

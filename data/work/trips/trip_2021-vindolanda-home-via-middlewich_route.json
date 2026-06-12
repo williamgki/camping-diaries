@@ -1,0 +1,73 @@
+{
+  "trip_id": "2021-vindolanda-home-via-middlewich",
+  "title": "Vindolanda (& home via Middlewich)",
+  "volume": "B",
+  "spread_range": ["B_0350", "B_0350"],
+  "diary_page_range": [350, 350],
+  "date_start": "2021-07-04",
+  "date_end": "2021-07-05",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Vindolanda, Northumberland, UK",
+      "original_wording": "Vindolanda",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0350_R",
+      "excerpt": "Unfortunately we walked out in a shower of rain & our legs got v. wet. We had coffee to warm up. There were diggers excavating with enthusiasm. We had lunch at the cafe + enjoyed the indoor museum.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Northumberland" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Brook House Farm, Middlewich, UK",
+      "original_wording": "Brook House Farm Middlewich",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0350_R",
+      "excerpt": "We have driven down to beyond Manchester for the night. Brook House Farm Middlewich.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Cheshire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Sutton Hoo",
+      "issue": "Sutton Hoo (Suffolk) is mentioned in the diary as a contextual comparison ('Recent excavations were started in 1938, the same as the Sutton Hoo') — it is a historical reference, not a stop on this trip.",
+      "source_page_id": "B_0350_R",
+      "excerpt": "Recent excavations were started in 1938, the same as the Sutton Hoo."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: B_0350 is the last page and boundary_mixed=true — the page may share content with the next trip entry"
+  ],
+  "summary": "A short summer trip (July 2021) to Vindolanda on Hadrian's Wall, where the family walked the site in the rain, watched ongoing excavations, and visited the museum. The return journey south included an overnight stop at Brook House Farm campsite in Middlewich, Cheshire, before arriving home in Birmingham.",
+  "extraction_notes": "Only one diary page (B_0350_R) covers this trip; mixed_end=true indicates the boundary falls mid-page. The date '4th of July' appears on this page but the iso date is null in the source; given the trip year guess of 2021, 2021-07-04 is used. The Vindolanda stop is treated as an overnight base (the narrative describes a full day's visit with coffee, lunch, museum), though the diary does not explicitly state 'we slept here' — the campsite at Middlewich is explicitly named as the overnight stop before returning home. Sutton Hoo is mentioned only as a historical comparison and is not a travel stop. Charles (a family member) is mentioned in a 4th of July video from the U.S. and was not travelling with the group. Travellers listed as Simon and Eve only (no children mentioned as present on this trip)."
+}

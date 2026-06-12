@@ -1,0 +1,102 @@
+{
+  "trip_id": "2009-shropshire-borders-enville-long-mynd-hamperley",
+  "title": "Shropshire & borders: Enville, Long Mynd (Hamperley), Oswestry",
+  "volume": "B",
+  "spread_range": ["B_0161", "B_0161"],
+  "diary_page_range": [null, null],
+  "date_start": "2009-05",
+  "date_end": null,
+  "date_precision": "month",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Enville, Staffordshire, UK",
+      "original_wording": "Enville",
+      "role": "transit_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0161_R",
+      "excerpt": "we went to church & then on to Enville for lunch in a field.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Staffordshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Church Stretton, Shropshire, UK",
+      "original_wording": "Pat Gregory's",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0161_R",
+      "excerpt": "At 3.45 we arrived at Pat Gregory's. Her sister, Barbara, visited too from 5 doors up the road. Lovely hills visible from the house, Caer Caradoc, Church Stretton.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Shropshire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Hamperley, Long Mynd, Shropshire, UK",
+      "original_wording": "Hamperley campsite, SE corner Long Mynd",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0161_R",
+      "excerpt": "On to Hamperley campsite, SE corner Long Mynd. We walked before bed. It was warm in the sun.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Shropshire" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Oswestry, Shropshire, UK",
+      "original_wording": "Oswestry",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0161_R",
+      "excerpt": "On to Oswestry by a route to the west partly in Wales",
+      "geocode_hint": { "countrycodes": "gb", "region": "Shropshire" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Kiddel & Kingswi[?]",
+      "issue": "Names of Sea Cadet units whose members pushed the van out of mud at Hamperley; likely TS Kiddel and TS Kingswinford (or similar) — unit names, not geographic stops; second name partially illegible.",
+      "source_page_id": "B_0161_R",
+      "excerpt": "6 Sea Cadets from Kiddel & Kingswi[?] came straight over, 5 men & one woman, & pushed us out."
+    },
+    {
+      "original_wording": "Tonic",
+      "issue": "Mentioned alongside Simon and Eve (\"S.E, Tonic\") — possibly a nickname for the dog Tinder, or an abbreviated name for another family member or friend. Cannot confirm identity from this page alone.",
+      "source_page_id": "B_0161_R",
+      "excerpt": "we went to church & then on to Enville for lunch in a field. (S.E, Tonic)"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: page B_0161_R is the last page in the spread; the diary entry ends at Oswestry with no return journey narrated — return to Birmingham is inferred per standard family pattern.",
+    "This is page no. 6 within the spread, suggesting only a fragment of the trip is captured here; mixed_end=true confirms the page boundary falls mid-trip or at trip edge."
+  ],
+  "summary": "A short May 2009 weekend trip through Shropshire, calling at Enville for a picnic lunch, visiting a friend (Pat Gregory) near Church Stretton with views of Caer Caradoc, then camping overnight at Hamperley on the Long Mynd — echoing a family visit 15 years earlier. The next morning the van got stuck and was pushed free by Sea Cadets; the party then drove on to Oswestry partly through Wales.",
+  "extraction_notes": "Single diary page (B_0161_R). No year is given explicitly in the text; 2009-05 comes from the trip bundle date_guess. 'Mayors Sunday' suggests a May date (local Mayor-making ceremonies are typically held in May in English towns). The travellers listed are Simon and Eve; 'Tonic' appears alongside their initials but cannot be identified with certainty — possibly Tinder the dog. Pat Gregory's house is described as having views of Caer Caradoc and Church Stretton, placing it in the Church Stretton valley area; marked approximate as the exact location is not given. The text notes this is '15 years on from the first time' getting stuck, consistent with the 1990 Hamperley trip. 'Kiddel & Kingswi[?]' are treated as Sea Cadet unit/ship names rather than geographic locations. The route west to Oswestry partly through Wales is noted but no specific Welsh place names are given, so no Welsh transit stops are recorded. Return to Birmingham is inferred and not narrated."
+}

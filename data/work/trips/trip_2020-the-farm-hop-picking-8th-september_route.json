@@ -1,0 +1,56 @@
+{
+  "trip_id": "2020-the-farm-hop-picking-8th-september",
+  "title": "The Farm: Hop-picking & William's Birthday",
+  "volume": "B",
+  "spread_range": ["B_0339", "B_0339"],
+  "diary_page_range": [339, 339],
+  "date_start": "2020-09-08",
+  "date_end": "2020-09-12",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hop farm, Herefordshire",
+      "original_wording": "the farm",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0339_L",
+      "excerpt": "Simon, Eve + Tinder returned to the farm. William's birthday + more hop-picking. We returned on Saturday 12th September.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Herefordshire" },
+      "notes": "Unnamed hop farm visited repeatedly across multiple trips (2017, 2020). Location inferred as Herefordshire from hop-picking context and previous trip records. Approximate location."
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0339_L",
+      "excerpt": "We returned on Saturday 12th September.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: page B_0339_L is marked boundary_mixed; entries for 27 September and 4 October 2020 on the same page belong to separate trips"
+  ],
+  "summary": "Simon, Eve and the dog Tinder returned to the family's regular hop farm in Herefordshire on Tuesday 8 September 2020 for hop-picking and to celebrate William's birthday, staying until Saturday 12 September. The diary entry is brief and the farm is not named, but it is the same hop farm visited across multiple other trips.",
+  "extraction_notes": "The diary page B_0339_L is marked mixed_end: it contains three separate dated entries (8 Sep, 27 Sep, 4 Oct 2020). Only the 8-12 September entry belongs to this trip. The farm is not named but is consistently referred to as 'the farm' across multiple trips and has been identified as a hop farm in Herefordshire in earlier extractions (e.g. 2017-farm-hop-barn-greenacres-axbridge-john). William is mentioned in connection with his birthday but is not listed as a traveller in the departure narrative; his presence at the farm is not explicitly stated so he is omitted from the travellers list. No crossings, no excursions identifiable from the text."
+}

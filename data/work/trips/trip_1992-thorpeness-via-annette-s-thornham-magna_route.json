@@ -1,0 +1,67 @@
+{
+  "trip_id": "1992-thorpeness-via-annette-s-thornham-magna",
+  "title": "Thorpeness via Annette's (Thornham Magna)",
+  "volume": "A",
+  "spread_range": ["A_0075", "A_0076"],
+  "diary_page_range": [75, 76],
+  "date_start": "1992-08-15",
+  "date_end": "1992-08-16",
+  "date_precision": "day",
+  "travellers": ["Eve", "Laura", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Thornham Magna, Suffolk, UK",
+      "original_wording": "Annette's",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0075_R",
+      "excerpt": "We set off at 10.35., Eve, Laura, Thomas, William, Peter, John + Charles, to spend the night at Annette's on the way to Thorpeness.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Thorpeness, Suffolk, UK",
+      "original_wording": "Thorpeness",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0076_L",
+      "excerpt": "to spend the night at Annette's on the way to Thorpeness",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: A_0075_R opens mid-narrative with the closing paragraphs of the preceding France trip (references to Newbury, Birmingham return, Cassanouse, St. Pierre); this trip begins at the 'Sat 15th August' heading on the same page",
+    "mixed_end: diary spread ends mid-trip on A_0076_L; the arrival and stay at Thorpeness itself is not narrated"
+  ],
+  "summary": "A domestic Suffolk trip departing Birmingham on 15 August 1992, with Eve, Laura, and five children travelling to Thorpeness on the Suffolk coast, breaking the journey with an overnight stay at Annette's house in Thornham Magna. The diary captures the stop at Annette's — a walk with the dogs, a barbecue, and a squash sleeping arrangements — before the group continued to Thorpeness the next morning.",
+  "extraction_notes": "Simon is not mentioned among the travellers; Laura (not a standard family member) is listed. The first half of page A_0075_R belongs to the preceding France trip (reflections on the holiday, Cassanouse, St. Pierre restaurant) — those place mentions (Newbury, Birmingham, Cassanouse, St. Pierre) are NOT stops on this trip and have been excluded. Thorpeness is confirmed as the main destination but the diary pages do not narrate the stay there or the return home (mixed_end). Return to Birmingham assumed per standard convention."
+}

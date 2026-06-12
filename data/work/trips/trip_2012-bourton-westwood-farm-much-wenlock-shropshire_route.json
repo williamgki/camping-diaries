@@ -1,0 +1,104 @@
+{
+  "trip_id": "2012-bourton-westwood-farm-much-wenlock-shropshire",
+  "title": "Bourton Westwood Farm & Much Wenlock, Shropshire",
+  "volume": "B",
+  "spread_range": ["B_0208", "B_0209"],
+  "diary_page_range": [208, 209],
+  "date_start": "2012-08-30",
+  "date_end": "2012-09-02",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bourton Westwood Farm, Much Wenlock, Shropshire",
+      "original_wording": "Bourton Westwood Farm",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0208_R",
+      "excerpt": "Simon, Eve & Tinder set off for a farm campsite **** South west of Much Wenlock.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Much Wenlock, Shropshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips end at home unless diary states otherwise; no departure noted",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk to Much Wenlock — Wenlock Priory and The Talbot",
+      "date_guess": "2012-09-01",
+      "stops": [
+        {
+          "normalized_name": "Much Wenlock, Shropshire",
+          "original_wording": "Much",
+          "confidence": 0.9,
+          "source_page_id": "B_0209_L",
+          "excerpt": "We went on a 4 [?mile] round trip to Much",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Wenlock Priory, Much Wenlock",
+          "original_wording": "Wenlock Priory",
+          "confidence": 0.9,
+          "source_page_id": "B_0209_R",
+          "excerpt": "Wenlock Priory, Cluniac, St. Milburge, is beautiful + peaceful. It was enormous.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "The Talbot, Much Wenlock",
+          "original_wording": "the Talbot",
+          "confidence": 0.9,
+          "source_page_id": "B_0209_R",
+          "excerpt": "We had lunch in the garden at the Talbot. Blackberry pudding + apple sauce.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Walk to Callaughton",
+      "date_guess": "2012-09-02",
+      "stops": [
+        {
+          "normalized_name": "Callaughton, Shropshire",
+          "original_wording": "Callaughton",
+          "confidence": 0.85,
+          "source_page_id": "B_0209_R",
+          "excerpt": "We walked to Callaughton on foot paths + roads. Tinder ran ahead on a path",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "B_0208_R is a mixed page: the opening lines describe the end of the preceding trip (return from France via Eurotunnel, stop at Aston Rowant). The Bourton Westwood Farm entry begins partway down the same page."
+  ],
+  "summary": "A short late-summer break for Simon, Eve and Tinder to Bourton Westwood Farm, a historic farm campsite south-west of Much Wenlock in Shropshire. Over the weekend they walked into Much Wenlock to visit the beautiful Cluniac Wenlock Priory and lunched at The Talbot, and walked to the hamlet of Callaughton, ending with a moonlit walk from which they could see the lights of Wolverhampton.",
+  "extraction_notes": "Page B_0208_R is a mixed boundary page: its opening lines complete the return leg of the preceding France trip (Boulogne, Eurotunnel, Aston Rowant tea stop) before starting the Bourton Westwood Farm entry. The dates on B_0209_L and B_0209_R were transcribed with year 2007 (iso fields), but context (August 2012, post-Olympics reference on the prior-trip section, diary volume B) confirms the year is 2012. Only Simon, Eve and Tinder are named for this trip; the sons are absent. No end date is stated; Sunday 2 September 2012 is the last datable page. Return to Birmingham is inferred. Callaughton is a small hamlet about 1.5 miles south-east of Much Wenlock."
+}

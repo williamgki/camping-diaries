@@ -1,0 +1,98 @@
+{
+  "trip_id": "2003-manchester-tatton-park-quarry-bank-mill",
+  "title": "Manchester & Tatton Park (Quarry Bank Mill, Styal)",
+  "volume": "A",
+  "spread_range": ["A_0338", "A_0338"],
+  "diary_page_range": [338, 338],
+  "date_start": "2003-05-03",
+  "date_end": "2003-05-04",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder", "Thomas"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Quarry Bank Mill, Styal, Cheshire, UK",
+      "original_wording": "Quarry Bank Mill & the Styal Estate",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0338_L",
+      "excerpt": "Quarry Bank Mill & the Styal Estate are just south of Manchester. In 1785 Samuel Greg founded a water-powered cotton mill & built the village of Styal for his workers. We arrived so late that only the woods (& shop - calico (Calcutt) shirt + apron bought) were open.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Manchester, UK",
+      "original_wording": "Manchester",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0338_L",
+      "excerpt": "On to Manchester, supper in a car park, to hear Thomas play in Strauss' 1868-1946 \"Metamorphoseus\". We camped outside Thomas' Victoria Halls of Residence.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Tatton Park, Knutsford, Cheshire, UK",
+      "original_wording": "Tatton Park",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0338_L",
+      "excerpt": "Thomas arrived at 9.30. we picked up Owen & set off for Tatton Park The gardens are beautiful, but Simon thought the outer park landscape even more magnificent. We saw a dove tree with white handkerchiefs.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.75,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips return home unless the diary states otherwise; page is mixed_end so return leg is not narrated on this page",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Tonic",
+      "issue": "Diary names the dog 'Tonic'; family dog is Tinder — likely a transcription misread",
+      "source_page_id": "A_0338_L",
+      "excerpt": "We left at 3 pm, Simon, Eve, Tonic, to go north."
+    },
+    {
+      "original_wording": "Owen",
+      "issue": "Owen is picked up in Manchester on Sunday morning — relationship to family not stated; not listed in known family members",
+      "source_page_id": "A_0338_L",
+      "excerpt": "Thomas arrived at 9.30. we picked up Owen & set off for Tatton Park"
+    },
+    {
+      "original_wording": "Racki + Lizzie & Katrin",
+      "issue": "Named individuals who stayed at the family home the previous weekend and played at Stratford — mentioned as context, not places; no location ambiguity but persons unidentified",
+      "source_page_id": "A_0338_L",
+      "excerpt": "Racki played too & we heard Wei Mi do a solo. (Racki + Lizzie & Katrin stayed at our house last w/end before the Quartet's playing at Stratford)"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: page A_0338 ends mid-sentence; return leg to Birmingham not narrated — may continue on A_0339"
+  ],
+  "summary": "A short May Bank Holiday weekend trip from Birmingham to the Manchester area, stopping at Quarry Bank Mill and Styal Estate on the way before camping overnight outside Thomas's university halls of residence in Manchester. The following morning the family visited Tatton Park with its famous gardens and parkland.",
+  "extraction_notes": "The dog is transcribed as 'Tonic' but is almost certainly Tinder (the family dog). The page is mixed_end=true, so the return to Birmingham is inferred. Thomas is a university student in Manchester (Victoria Halls of Residence). Owen is an unidentified person picked up in Manchester. The text cuts off mid-sentence ('we could') indicating the diary continues on the next page. No ferries or crossings — entirely domestic England trip. The concert was Strauss's 'Metamorphosen' (diary spells it 'Metamorphoseus'). Racki, Wei Mi, Lizzie and Katrin are musicians associated with Thomas; Stratford likely refers to Stratford-upon-Avon."
+}

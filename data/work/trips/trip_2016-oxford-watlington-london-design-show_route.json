@@ -1,0 +1,204 @@
+{
+  "trip_id": "2016-oxford-watlington-london-design-show",
+  "title": "Oxford, Watlington & London Design Show",
+  "volume": "B",
+  "spread_range": ["B_0267", "B_0269"],
+  "diary_page_range": [null, 89],
+  "date_start": "2016-07-06",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Oxford, UK",
+      "original_wording": "Oxford, Frenchay Rd off Woodstock Rd",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0267_L",
+      "excerpt": "Simon, Finder & Eve drove to Charles' & Jenny's new house in Oxford, Frenchay Rd off Woodstock Rd.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Watlington, Oxfordshire, UK",
+      "original_wording": "Watlington",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0267_L",
+      "excerpt": "On to deliver lights Watlington & [?send] Hinley.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Finsbury Park, London, UK",
+      "original_wording": "Finsbury Pk",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0267_L",
+      "excerpt": "On to Peter & Nana's house at Finsbury Pk. We slept in van & had breakfast with Nana & Thomas.",
+      "geocode_hint": { "countrycodes": "gb", "city": "London" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Headley, Surrey, UK",
+      "original_wording": "St. Mary's Headley & Box Hill",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0268_L",
+      "excerpt": "We drove on & found a carpark next to St. Mary's Headley & Box Hill, a well-kept church, for lunch.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Steyning, West Sussex, UK",
+      "original_wording": "farm above Steyning",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0268_R",
+      "excerpt": "We are at a farm above Steyning.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Littlehampton, West Sussex, UK",
+      "original_wording": "Littlehampton",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0268_R",
+      "excerpt": "At △ we left for our campsite The Ship & Anchor at Littlehampton ***",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips start and end at home; mixed_end boundary but return is standard assumption",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Merchant Taylors BBQ and design event (Wednesday evening)",
+      "date_guess": "2016-07-06",
+      "stops": [
+        {
+          "normalized_name": "Merchant Taylors' Hall, London, UK",
+          "original_wording": "Merchant Taylors",
+          "confidence": 0.9,
+          "source_page_id": "B_0267_L",
+          "excerpt": "We went to the Merchant Taylors, gorgeous, & had a BBQ in courtyard put on by [illegible]. We (Chad) had invited 3 designers.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "End of year London Design Show (Thursday)",
+      "date_guess": "2016-07-07",
+      "stops": [
+        {
+          "normalized_name": "London, UK",
+          "original_wording": "London Show",
+          "confidence": 0.85,
+          "source_page_id": "B_0267_R",
+          "excerpt": "We went to the end of year London Show. Jason (the designer's husband) gave us tickets. It was WOW!",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        }
+      ]
+    },
+    {
+      "base_seq": 6,
+      "label": "Visits to Ogdens and Gravestocks (Friday)",
+      "date_guess": "2016-07-08",
+      "stops": [
+        {
+          "normalized_name": "Steyning area, West Sussex, UK",
+          "original_wording": "Simon & Claudia Ogden",
+          "confidence": 0.7,
+          "approximate": true,
+          "source_page_id": "B_0268_R",
+          "excerpt": "We visited Simon & Claudia Ogden for elevenses. They were very welcoming. Then we joined the Gravestocks who gave us a delicious lunch. We went for a walk through a park & watched water skiing & saw the sea.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 7,
+      "label": "Cycling to Arundel and Chichester, Evensong, Bognor Regis (Saturday)",
+      "date_guess": "2016-07-09",
+      "stops": [
+        {
+          "normalized_name": "Arundel, West Sussex, UK",
+          "original_wording": "Arundel Castle",
+          "confidence": 0.9,
+          "source_page_id": "B_0269_L",
+          "excerpt": "We set off, cycling along the raised embankment next to the R. Arun. We could see Arundel Castle in the distance.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Chichester, West Sussex, UK",
+          "original_wording": "Chichester",
+          "confidence": 0.95,
+          "source_page_id": "B_0269_R",
+          "excerpt": "We caught a train back to Ford Station along the road to the campsite pub for lunch... After a nap we drove to Chichester & looked at the shops & went to Evensong.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Bognor Regis, West Sussex, UK",
+          "original_wording": "Bognor Regis",
+          "confidence": 0.9,
+          "source_page_id": "B_0269_R",
+          "excerpt": "We stopped at Bognor Regis (George V bugger Bognor!) on the way back to the campsite for supper in the van.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Hinley",
+      "issue": "Mentioned after Watlington in the context of delivering lights: '[?send] Hinley'. Could be a person's name rather than a place, or a misread of Henley (on Thames). Cannot confirm as a stop.",
+      "source_page_id": "B_0267_L",
+      "excerpt": "On to deliver lights Watlington & [?send] Hinley."
+    },
+    {
+      "original_wording": "Arathna & Godfrey",
+      "issue": "Visited after Headley/Box Hill lunch stop, en route south. Location not stated. 'Eng 12. & Evans 10' may refer to their children's ages or names. Cannot geolocate.",
+      "source_page_id": "B_0268_L",
+      "excerpt": "On to see Arathna & Godfrey. Eng 12. & Evans 10, spent all our visit playing with Tinder."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: preceding trip content on B_0267_L (Gloucester-Hereford canal, Ashperton tunnel note, Sunday church at St. G.)",
+    "mixed_end: trip ends mid-volume B_0269_R; return to Birmingham is inferred"
+  ],
+  "summary": "Simon and Eve (with the dog Tinder) made a van trip south from Birmingham in July 2016: visiting Charles and Jenny's new house in Oxford, delivering lights at Watlington, staying overnight at Peter and Nana's in Finsbury Park for a design BBQ at Merchant Taylors and a design show. They then drove south via Box Hill to a farm campsite above Steyning, then on to The Ship & Anchor campsite at Littlehampton, from which they made a cycling excursion along the Arun to Arundel and Chichester Cathedral for Evensong.",
+  "extraction_notes": "Pages B_0267_L has mixed start with a preceding trip (Gloucester-Hereford canal entry). The date 'Wednesday July 6th' maps to 2016-07-06. No index entry available. 'Finder' in the text is Tinder the dog. The end date is uncertain as boundary is mixed; Saturday July 9 (2016-07-09) is the last clearly datable day. 'Hinley' is ambiguous — likely a misread or informal reference rather than a geocodable place. The Arathna & Godfrey visit location is unresolved. The London Design Show venue is not named precisely. The Chichester Cathedral prayer caption confirms the Chichester visit. Ford Station is on the Littlehampton-Chichester rail line, consistent with the cycling narrative."
+}

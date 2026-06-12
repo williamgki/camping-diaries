@@ -1,0 +1,219 @@
+{
+  "trip_id": "1997-london-lee-valley-picketts-lock-greenwich",
+  "title": "London: Lee Valley (Picketts Lock) & Greenwich",
+  "volume": "A",
+  "spread_range": ["A_0221", "A_0225"],
+  "diary_page_range": [51, 53],
+  "date_start": "1997-10-25",
+  "date_end": "1997-10-28",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Picketts Lock, Lee Valley Leisure Centre, London",
+      "original_wording": "Lee Valley Leisure Centre Picketts Lock",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0221_R",
+      "excerpt": "At [?20] 1.45 we arrived at the Lee Valley Leisure Centre Picketts Lock.",
+      "geocode_hint": { "countrycodes": "gb", "city": "London" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0225_L",
+      "excerpt": "After taking down the 2 tents, we left at 9.45.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Day trip: Oxford Circus shopping (Sat 25 Oct)",
+      "date_guess": "1997-10-25",
+      "stops": [
+        {
+          "normalized_name": "Oxford Circus, London",
+          "original_wording": "Oxford Circus",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "A_0222_L",
+          "excerpt": "we were on the train bound for Oxford Circus.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Liberty's, London",
+          "original_wording": "Liberty's",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0222_L",
+          "excerpt": "Again we made a pilgrimage to Liberty's, Fabrics & lighting.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Hamleys, London",
+          "original_wording": "Hamleys",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0222_L",
+          "excerpt": "Then we spent nearly an hour in Hamleys.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Day trip: Greenwich river boat trip (Sun 26 Oct)",
+      "date_guess": "1997-10-26",
+      "stops": [
+        {
+          "normalized_name": "Embankment, London",
+          "original_wording": "Embankment",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0222_R",
+          "excerpt": "catching 2 buses to 7 Sisters & a tube train to Embankment.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Tower Bridge, London",
+          "original_wording": "Tower Bridge",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0222_R",
+          "excerpt": "A marvellous trip down the river on a boat in bright, bright sunshine. The boat stopped at Tower Bridge.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Greenwich, London",
+          "original_wording": "Greenwich",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "A_0222_R",
+          "excerpt": "we circled in front of the Queen's House before docking. It was very beautiful. Greenwich",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "St Alfege's Church, Greenwich",
+          "original_wording": "St. Alphege's Church",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0222_R",
+          "excerpt": "We visited St. Alphege's Church",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Greenwich Market, London",
+          "original_wording": "Greenwich Market",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0223_L",
+          "excerpt": "We went across into Greenwich Market - bustling, crowded.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Royal Observatory, Greenwich",
+          "original_wording": "Old Observatory",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "A_0223_L",
+          "excerpt": "Then we set off up the Hill to the Old Observatory. Most of us went around the Observatory.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Cutty Sark, Greenwich",
+          "original_wording": "\"Cully Sark\" 1868, last of the great Tea Clippers",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0223_R",
+          "excerpt": "the rest of us rushed down the hill to see the \"Cully Sark\" 1868, last of the great Tea Clippers which also carried wool.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Day trip: Imperial War Museum & Tate Gallery (Mon 27 Oct)",
+      "date_guess": "1997-10-27",
+      "stops": [
+        {
+          "normalized_name": "Imperial War Museum, London",
+          "original_wording": "Imperial War Museum",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "A_0224_L",
+          "excerpt": "We first visited the Imperial War Museum.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Tate Britain, London",
+          "original_wording": "the Tate",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0224_L",
+          "excerpt": "we all finally met up at the Tate with Robert Upex for lunch.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Clore Gallery, Tate Britain, London",
+          "original_wording": "the wonderful Clore Gallery full of Turners",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0224_R",
+          "excerpt": "looked around the wonderful Clore Gallery full of Turners.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Day trip: Madame Tussauds & Regent's Park (Tue 28 Oct)",
+      "date_guess": "1997-10-28",
+      "stops": [
+        {
+          "normalized_name": "Madame Tussauds, London",
+          "original_wording": "Madame Tussauds",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0225_L",
+          "excerpt": "We reached Madame Tussauds at 10.30. to meet Rob, Elizabeth + Cattarine Hungley in the queue. But the queue was 1¼ hours long so we left them to walk to Regents Park instead.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        },
+        {
+          "normalized_name": "Regent's Park, London",
+          "original_wording": "Regents Park",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0225_L",
+          "excerpt": "we left them to walk to Regents Park instead. We saw horrendous snakes, amusing chimpanzees + beautiful giraffes.",
+          "geocode_hint": { "countrycodes": "gb", "city": "London" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: true (diary continues into next trip after A_0225_L)"
+  ],
+  "summary": "A half-term family camping trip (all 7) to Picketts Lock, Lee Valley, used as a fixed base for four nights (25-28 October 1997). Day excursions covered central London shopping on Oxford Street, a Sunday river-boat trip to Greenwich with the Old Observatory and Cutty Sark, the Imperial War Museum and Tate Gallery on Monday, and Regent's Park Zoo on departure day Tuesday.",
+  "extraction_notes": "Date 1997-10-25 confirmed: 'Sat October 25th' is a Saturday in 1997. No ferry or border crossings — entirely domestic UK trip. The outward journey route from Birmingham is narrated only briefly ('All 7 of us set off for London at 10.45'); the stops at St George's and the Priory en route were errand calls (dropping a leaflet, leaving a racket for restringing) not genuine tourist stops. The campsite also had an on-site cinema; several evening movies are mentioned but these are not excursion stops. 'Topkapi' on A_0225_L is truncated at the page boundary (mixed_end); it may have been a meal destination but the text cuts off — not included as a stop. The Clore Gallery is part of Tate Britain, recorded separately as that is how the diary names it. St. Alphege's Church is now usually spelled 'St Alfege's'."
+}

@@ -1,0 +1,146 @@
+{
+  "trip_id": "1998-n-wales-drop-offs-conway-rhiwiau",
+  "title": "N. Wales drop-offs & pick-ups: Conwy, Rhiwiau, Dolwyddelan & Llandudno",
+  "volume": "A",
+  "spread_range": ["A_0251", "A_0252"],
+  "diary_page_range": [19, 80],
+  "date_start": "1998-08-22",
+  "date_end": "1998-08-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Frederick Road, Birmingham",
+      "original_wording": "Frederik Rd.",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0251_L",
+      "excerpt": "set off at 10. to pick up Dorothy Saner, the German au pair, from Frederik Rd..",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Conwy, Wales",
+      "original_wording": "Conway",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0251_L",
+      "excerpt": "We reached Conway at 1 otlod. + had lunch in the carpark, outside the cricket field. We walked along the town walls to the harbour",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Rhiwiau Riding Centre, Llanfairfechan, Wales",
+      "original_wording": "Rhiwiau",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0251_L",
+      "excerpt": "we could not drop off until 4 at Rhiwiau.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Dolwyddelan, Wales",
+      "original_wording": "Dolwyddelan",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0252_L",
+      "excerpt": "An hour on to the campsite. We put up 2 tents ... Dolwyddelan. The castle, a square keep above the campsite, is very picturesque.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Pontcysyllte Aqueduct, Llangollen, Wales",
+      "original_wording": "Llangollen Canal Viaduct",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0252_L",
+      "excerpt": "We stopped at elevenses to see the Llangollen Canal Viaduct. Then home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0252_L",
+      "excerpt": "We stopped at elevenses to see the Llangollen Canal Viaduct. Then home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Llandudno, Wales",
+      "original_wording": "Llandudno",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0252_L",
+      "excerpt": "Simon + Eve set off for N. Wales at [?5/8].10 & reached Llandudno [illegible] at 8.10. A pretty campsite, ducks & geese",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Rhiwiau Riding Centre, Llanfairfechan, Wales",
+      "original_wording": "riding",
+      "role": "main_stop",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": "A_0252_L",
+      "excerpt": "We picked up John + Charles from riding.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0252_R",
+      "excerpt": "Then home to William (Thomas at Greenbelt).",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Beauchamp",
+      "issue": "Place where the family stopped on Aug 29 to collect Peter from his Big Band Course (led by Tony Sheppard); 'raced down to Beauchamp' implies a stop between N. Wales and Birmingham, but the exact location cannot be resolved (candidates include a Beauchamp-named house/college rather than a clearly geocodable town). Kept off the main route pending review.",
+      "source_page_id": "A_0252_R",
+      "excerpt": "We raced down to Beauchamp to pick up Peter from his Big Band Course, led by Tony Sheppard."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0251_L",
+      "issue": "mixed_start: the page opens with the tail of the PREVIOUS trip ('drive to their house ... Then we drove off home.') before this trip begins at 'August 22nd Saturday.'"
+    },
+    {
+      "page_id": "A_0251_R",
+      "issue": "The hand-drawn route sketch on this page is a 'Norway / Sweden 1998, 1,500 miles' map (Stavanger, Setesdal, Kongsberg, Oslo, Rjukan, Laerdal, Urnes, Nigardsbreen, Forde, Bergen, Ringebu, Lillehammer, Karlstad, Sunne, Trondheim). It belongs to a SEPARATE Norway/Sweden trip that shares this spread and is NOT part of this N. Wales drop-offs trip. The sketch was deliberately NOT used to route this trip."
+    }
+  ],
+  "summary": "A series of late-August 1998 drop-off and pick-up runs between Birmingham and North Wales. On 22 Aug the family collected their German au pair from Frederick Road, lunched at Conwy and walked the town walls, dropped children at Rhiwiau riding centre, then camped at Dolwyddelan beneath its castle. On 23 Aug they drove home via the Llangollen Canal Viaduct (Pontcysyllte Aqueduct). On 28-29 Aug Simon and Eve returned to a Llandudno campsite, collected John and Charles from riding and Peter from a Big Band course at Beauchamp, then drove home.",
+  "extraction_notes": "Stays entirely within Great Britain (Wales); no sea/tunnel crossings, countries=[GB]. Dates are explicit and consistent (Aug 22 1998 = Saturday, Aug 28 1998 = Friday). The route is really two/three separate home-based journeys recorded together: home->Conwy->Rhiwiau->Dolwyddelan(overnight)->Llangollen viaduct->home (22-23 Aug), then home->Llandudno(overnight)->Rhiwiau pickup->Beauchamp->home (28-29 Aug); home is shown in the middle (seq 7) per the diary's explicit 'Then home.' IMPORTANT: the route sketch on A_0251_R is a Norway/Sweden 1998 map for a DIFFERENT trip bleeding onto this spread; per the Norway crossing rule it was NOT used and this trip was NOT routed through Norway or the Low Countries. Seq 9 (Rhiwiau on Aug 29) is inferred at lower confidence from 'picked up John + Charles from riding' (riding = Rhiwiau by context from 22 Aug). Frederick Road (seq 2) is a Birmingham pickup point, marked approximate. Beauchamp (Big Band Course venue) could not be geocoded confidently and is queued in unresolved rather than placed on the map. William stayed home on 22 Aug to look after Uncle John Crowder, and Thomas was at Greenbelt on 29 Aug, so the travelling party varied; Tinder (dog) not mentioned. Greenbelt and Uncle John Crowder are people/festival mentions, not travel stops."
+}

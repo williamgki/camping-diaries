@@ -1,0 +1,210 @@
+{
+  "trip_id": "1996-london-chad-coda-centre-fulham-belgium",
+  "title": "London (Chad/Coda Centre, Fulham) & Belgium: Ypres, Kortrijk, Oudenaarde, Ghent",
+  "volume": "A",
+  "spread_range": ["A_0191", "A_0194"],
+  "diary_page_range": [191, 194],
+  "date_start": "1996-10-23",
+  "date_end": "1996-10-27",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB", "FR", "BE"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Coda Centre, Fulham, London",
+      "original_wording": "the Coda Centre, Munster Rd., Fulham, London",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0191_R",
+      "excerpt": "We all arrived at the Coda Centre, Munster Rd., Fulham, London at 2.30 - 3.15. to put out the food ready for the Chad showroom opening.",
+      "geocode_hint": { "countrycodes": "gb", "q": "Coda Centre Munster Road Fulham London" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Folkestone (Eurotunnel)",
+      "original_wording": "Channel Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0192_L",
+      "excerpt": "Then we went to the Channel Tunnel, eating garage sandwiches on the way.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Coquelles (Eurotunnel)",
+      "original_wording": "Channel Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0192_L",
+      "excerpt": "Then we went to the Channel Tunnel, eating garage sandwiches on the way.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "French supermarket (northern France)",
+      "original_wording": "a French supermarket",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0192_L",
+      "excerpt": "We shopped at a French supermarket & on to Belgium.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Kemmel, Belgium",
+      "original_wording": "Kemmelcampsite near Ypra",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0192_L",
+      "excerpt": "Kemmelcampsite *** near Ypra. V. quiet. Lovely barrel wheel for running in in the playground. The campsite is planted with trees.",
+      "geocode_hint": { "countrycodes": "be", "q": "Kemmel Belgium" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Nationaal Vlasmuseum, Kortrijk, Belgium",
+      "original_wording": "the Vlax museum",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0193_L",
+      "excerpt": "We finally found the Vlax museum - specialising in linseed + flax. It is very difficult to find your way in Belgium because they only put signs actually at the turnings.",
+      "geocode_hint": { "countrycodes": "be", "q": "Nationaal Vlasmuseum Kortrijk" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Oudenaarde, Belgium",
+      "original_wording": "Oudenaarde",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0193_L",
+      "excerpt": "On to Oudenaarde where there is a lovely town hall (closed) in the square. Thomas looked around while we went to put the tent up in the Oudenaarde campsite ****.",
+      "geocode_hint": { "countrycodes": "be" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Ghent, Belgium",
+      "original_wording": "Gent",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0193_L",
+      "excerpt": "On to Gent. The Altar was closed until 2pm. So we [window] shopped + had lunch at Belfort.",
+      "geocode_hint": { "countrycodes": "be" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Coquelles (Eurotunnel)",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "return Channel Tunnel crossing inferred; outbound leg used Channel Tunnel explicitly",
+      "source_page_id": "A_0194_L",
+      "excerpt": "Tea in the car park & we set off at 5.40.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Folkestone (Eurotunnel)",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "return Channel Tunnel crossing inferred; outbound leg used Channel Tunnel explicitly",
+      "source_page_id": "A_0194_L",
+      "excerpt": "Tea in the car park & we set off at 5.40.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0192_L",
+      "excerpt": "Then we went to the Channel Tunnel, eating garage sandwiches on the way."
+    },
+    {
+      "after_seq": 10,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": false,
+      "inferred": true,
+      "inference_reason": "return crossing; outbound used Channel Tunnel explicitly, same route assumed",
+      "source_page_id": "A_0194_L",
+      "excerpt": "Tea in the car park & we set off at 5.40."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 6,
+      "label": "Interior Exhibition at Kortrijk (Chad lights)",
+      "date_guess": "1996-10-25",
+      "stops": [
+        {
+          "normalized_name": "Kortrijk, Belgium",
+          "original_wording": "Kortrijk",
+          "confidence": 0.95,
+          "source_page_id": "A_0192_R",
+          "excerpt": "we set off to the Interior Exhibition at Kortrijk where Eric is exhibiting Chad lights.",
+          "geocode_hint": { "countrycodes": "be" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Alec Maxwell's",
+      "issue": "Named individual; location unclear — the diary says they spent 1.5 hours at Alec Maxwell's using her washing machine; location assumed London/Fulham area but not confirmed",
+      "source_page_id": "A_0192_L",
+      "excerpt": "spent 1½ hours at Alec Maxwell's using her washing machine for Thomas' & Peter's clothes."
+    },
+    {
+      "original_wording": "Vlax museum",
+      "issue": "Diary spelling 'Vlax museum' — almost certainly the Nationaal Vlasmuseum in Kortrijk (now relocated/renamed), but exact identification not certain; the Leie River connection supports the Kortrijk area",
+      "source_page_id": "A_0193_L",
+      "excerpt": "We finally found the Vlax museum - specialising in linseed + flax."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0191_R begins mid-entry with content from a prior trip (Malvern farm, Tonic the dog); the current trip starts at the 'Wed Oct 23rd' heading",
+    "mixed_end: page A_0194_R contains only a postcard caption ('Just Judges and Knights of Christ') — a Van Eyck panel — and may be the last page of this trip or a boundary page"
+  ],
+  "summary": "In October 1996 the family drove from Birmingham to the Coda Centre in Fulham, London, for the opening of a Chad lighting showroom, sleeping overnight in the van. The following day they took the Channel Tunnel to France and drove on to the Kemmel campsite near Ypres, Belgium, making a day trip to the Interior Exhibition in Kortrijk before moving on to Oudenaarde and finally visiting Ghent — including the Van Eyck Altarpiece at St Bavo's — before returning home.",
+  "extraction_notes": "1. Page A_0191_R is a mixed-boundary page; the top portion ('Sat 14' entry) belongs to a prior trip (probably a Malvern/farm outing); this trip begins at the 'Wed Oct 23rd' heading on the same page. 2. The diary uses 'Ypra' for Ypres/Ieper. 3. The 'Vlax museum' is almost certainly the Nationaal Vlasmuseum in Kortrijk (on the Leie), but is recorded in unresolved given the spelling. 4. The date_end of 1996-10-27 (Sunday) is inferred: Fri=25th, Sat=26th, departure from Gent at 5:40 implies Sunday 27th return. 5. France appears in countries because they transited through northern France (supermarket stop) even though no French overnight base was used. 6. The return Channel Tunnel crossing is inferred (not explicitly stated)."
+}

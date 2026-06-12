@@ -1,0 +1,156 @@
+{
+  "trip_id": "2021-suffolk-coast-run-cottage-hollesley-shingle",
+  "title": "Suffolk Coast: Run Cottage (Hollesley), Shingle Street, Bawdsey Radar, Felixstowe",
+  "volume": "B",
+  "spread_range": ["B_0357", "B_0358"],
+  "diary_page_range": [null, null],
+  "date_start": "2021-10-08",
+  "date_end": "2021-10-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "George Rd.",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0357_L",
+      "excerpt": "Simon & Tinder left George Rd. to come & pick up Eve at Thorpeness",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Thorpeness, Suffolk, UK",
+      "original_wording": "Thorpeness",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0357_L",
+      "excerpt": "Simon & Tinder left George Rd. to come & pick up Eve at Thorpeness",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bawdsey, Suffolk, UK",
+      "original_wording": "Bardsey",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0357_L",
+      "excerpt": "We drove to Bardsey to see the radar establishment which was there before it moved to Malvern during WW2., but it was closed. We had lunch there",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Run Cottage Campsite, Hollesley, Suffolk, UK",
+      "original_wording": "Run Cottage campsite Hollesley, Nr. Woodbridge",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0357_L",
+      "excerpt": "drove on to Run Cottage campsite Hollesley, Nr. Woodbridge. V. clean & well-kpt.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Bentley, Essex, UK",
+      "original_wording": "Bentley",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0358_L",
+      "excerpt": "We motored inland past Sutton Hoo & Felixstowe, over the Orwell River to camp at Bentley. A quiet fold.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Walk to Shingle Street",
+      "date_guess": "2021-10-08",
+      "stops": [
+        {
+          "normalized_name": "Shingle Street, Suffolk, UK",
+          "original_wording": "Shingle St.",
+          "confidence": 1.0,
+          "source_page_id": "B_0357_L",
+          "excerpt": "We went for a 5 mile walk to Shingle St. Flat. Tide out, beautiful colours.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Sunday: Hollesley church, Bawdsey Radar museum, Felixstowe cycle",
+      "date_guess": "2021-10-10",
+      "stops": [
+        {
+          "normalized_name": "All Saints Church, Hollesley, Suffolk, UK",
+          "original_wording": "Hollesley (Hosely) church",
+          "confidence": 0.95,
+          "source_page_id": "B_0357_R",
+          "excerpt": "We went to Hollesley (Hosely) church. V. welco[ming] & the arth[d] knew Penny Bham arch d. lovely bells - an octave. Lovely Flint church. All Saints, Friendly.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Bawdsey Radar Museum, Bawdsey, Suffolk, UK",
+          "original_wording": "Bawdsey Radar museum",
+          "confidence": 1.0,
+          "source_page_id": "B_0357_R",
+          "excerpt": "On t[o] Bawdsey Radar museum. Watson-Watts Simon was taught by [?Rd] Dr. Rowe at Malvern",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Felixstowe, Suffolk, UK",
+          "original_wording": "Felixstowe",
+          "confidence": 0.95,
+          "source_page_id": "B_0357_R",
+          "excerpt": "cycled to Ferry & across those golf courses to sea front at Felixstowe. Beach huts galore. Lots of dogs. 12 derricks in the distance.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "Monday: Naze Tower (Walton-on-the-Naze) and Frinton-on-Sea",
+      "date_guess": "2021-10-11",
+      "stops": [
+        {
+          "normalized_name": "Naze Tower, Walton-on-the-Naze, Essex, UK",
+          "original_wording": "the Naze, built in 1700s. Naze Tower",
+          "confidence": 1.0,
+          "source_page_id": "B_0358_L",
+          "excerpt": "On to the Naze, built in 1700s. Naze Tower, to help shipping before light houses. A nice art/ craft exhibit on all the floors. Spectacular view from tower to the Ness.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Frinton-on-Sea, Essex, UK",
+          "original_wording": "Frinton",
+          "confidence": 0.9,
+          "source_page_id": "B_0358_L",
+          "excerpt": "On to Frinton after lunch. We wandered near the keys & Graces Road looking at residential",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A long-weekend caravan trip (Friday to Monday, October 2021) by Simon and Eve with dog Tinder along the Suffolk and Essex coast. They based at Run Cottage campsite near Hollesley for three nights, exploring Shingle Street, Bawdsey Radar museum, and cycling to Felixstowe, before moving on to camp at Bentley and visiting the Naze Tower at Walton-on-the-Naze and Frinton-on-Sea.",
+  "extraction_notes": "Only Simon and Eve (with Tinder) are named; no children mentioned. The 'Bardsey' in the diary is the family's spelling of Bawdsey (they tried the radar establishment on Friday but it was closed; returned to the museum on Sunday). The 'Ferry' on Sunday was the small Bawdsey Ferry foot/cycle ferry crossing the River Deben — not a sea crossing, recorded as part of the Sunday excursion. Sutton Hoo is mentioned as passed en route to Bentley ('past Sutton Hoo') but not visited. Orford Castle and Orfordness were seen in the distance from Shingle Street but not visited. The diary page numbers: B_0357_R has page number 58 printed; B_0357_L and B_0358_L have no printed numbers. Date confirmed: Friday 8 October 2021 was indeed a Friday. Return to Birmingham is implied but not explicitly narrated."
+}

@@ -1,0 +1,117 @@
+{
+  "trip_id": "1998-cotswolds-long-weekend-bourton-on-the",
+  "title": "Cotswolds Long Weekend: Bourton-on-the-Water & the Slaughters (with Thomas & Tonic)",
+  "volume": "A",
+  "spread_range": ["A_0257", "A_0258"],
+  "diary_page_range": [257, 258],
+  "date_start": "1998-09-03",
+  "date_end": "1998-09-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "Peter", "John", "Charles", "Thomas", "Tonic"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Moors Farm Campsite, Bourton-on-the-Water, UK",
+      "original_wording": "Moors Farm, one km north east of Bourton-on-the-Water",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0257_R",
+      "excerpt": "8.10. We arrived at Moors Farm, one km north east of Bourton-on-the-Water",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Return to Birmingham inferred; diary ends mid-text (mixed_end: true). Trip described as a 'long weekend' departing Thursday 3 Sept, so return likely Sunday 6 Sept."
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk around Bourton-on-the-Water village (Friday)",
+      "date_guess": "1998-09-04",
+      "stops": [
+        {
+          "normalized_name": "Bourton-on-the-Water, UK",
+          "original_wording": "Bourton",
+          "confidence": 1.0,
+          "source_page_id": "A_0257_R",
+          "excerpt": "We set off into Bourton. Very pretty & good for wandering about. In the book shop Simon bought a large-scale map of the Cotswolds",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Evening walk to Wyck Rissington (Friday)",
+      "date_guess": "1998-09-04",
+      "stops": [
+        {
+          "normalized_name": "Wyck Rissington, UK",
+          "original_wording": "Wyck Rissington",
+          "confidence": 1.0,
+          "source_page_id": "A_0257_R",
+          "excerpt": "After tea Simon & Charles & Eve went on a 3 mile walk to Wyck Rissington - a gorgeous old church, 16 wooden rounds, & green.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Walk into Bourton and supper at the Mousetrap (Saturday)",
+      "date_guess": "1998-09-05",
+      "stops": [
+        {
+          "normalized_name": "Bourton-on-the-Water, UK",
+          "original_wording": "Bourton",
+          "confidence": 1.0,
+          "source_page_id": "A_0258_L",
+          "excerpt": "We walked down to Bourton & recognised the Old New Inn where we stayed on our honeymoon.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "The Mousetrap, Bourton-on-the-Water, UK",
+          "original_wording": "Mousetrap",
+          "confidence": 0.9,
+          "source_page_id": "A_0258_L",
+          "excerpt": "The supper at the Mousetrap was delicious, especially my monkfish. Tonic was tied up outside, where people made a fuss of him.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Morton",
+      "issue": "Likely Moreton-in-Marsh (nearest railway station to Bourton-on-the-Water, from which a bus runs to Bourton). Thomas arrived by train to Morton and then bussed to Bourton. Not a stop for the main party.",
+      "source_page_id": "A_0258_L",
+      "excerpt": "He was supposed to be training to Morton & Bussing to Bourton."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: diary text ends mid-sentence on A_0258_L; return date and any Sunday activities not recorded"
+  ],
+  "summary": "A long weekend camping trip from Birmingham to Moors Farm campsite, 1km north-east of Bourton-on-the-Water in the Cotswolds, departing Thursday 3 September 1998. William, Peter, John, Charles, Simon and Eve were joined on Saturday by Thomas (and his dog Tonic, also known as Tinder), who travelled independently by train and bus. Day excursions included wandering Bourton-on-the-Water's shops, a Friday evening walk to Wyck Rissington's church, and a Saturday supper at the Mousetrap restaurant.",
+  "extraction_notes": "All travel is domestic UK; no crossings. Dates explicitly given for Thursday (3 Sept) and Friday (4 Sept); Saturday is the third diary day, 5 Sept by inference, consistent with a 'long weekend'. End date estimated as Sunday 6 Sept (return home) based on 'long weekend' phrasing — no return entry survives (mixed_end: true). 'Morton' in the diary is almost certainly Moreton-in-Marsh, the closest rail station, used only as Thomas's transit point, not a party stop. 'Tonic' is Thomas's dog (elsewhere called Tinder in family context). Thomas (eldest son, nearly adult — studying/living in London) joined mid-trip on Saturday."
+}

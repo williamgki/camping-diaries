@@ -1,0 +1,102 @@
+{
+  "trip_id": "2006-melverley-nesscliffe-shrewsbury-area-church-house",
+  "title": "Melverley & Nesscliffe (Shrewsbury area), Church House campsite",
+  "volume": "B",
+  "spread_range": ["B_0092", "B_0093"],
+  "diary_page_range": [null, null],
+  "date_start": "2006-04-21",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Church House campsite, Melverley, Shropshire",
+      "original_wording": "Church House campsite, near the Tontine Inn, Melverley, Savesley",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0092_L",
+      "excerpt": "Simon, Eve, Charles & Tonic set off for near Shrewsbury, Church House campsite, near the Tontine Inn, Melverley, Savesley.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Melverley, Shropshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips return home unless diary indicates otherwise; end boundary is mixed (mixed_end: true) so return date unknown",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Visit to St Peter's Church Melverley, Craft Centre and Fir Tree pub",
+      "date_guess": "2006-04-21",
+      "stops": [
+        {
+          "normalized_name": "St Peter's Church, Melverley",
+          "original_wording": "the amazing church",
+          "confidence": 0.95,
+          "source_page_id": "B_0092_R",
+          "excerpt": "Simon & Eve visited the amazing church. The old one was burnt down by Owain Glendwr in 1401 ... & this one dates from 1406.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Melverley, Shropshire" }
+        },
+        {
+          "normalized_name": "Old Rectory Craft Centre, Melverley",
+          "original_wording": "the Craft Centre in the Old Rectory",
+          "confidence": 0.9,
+          "source_page_id": "B_0093_L",
+          "excerpt": "We shopped at the Craft Centre in the Old Rectory.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Melverley, Shropshire" }
+        },
+        {
+          "normalized_name": "Fir Tree Inn, Melverley",
+          "original_wording": "the pub, the Fir Tree",
+          "confidence": 0.9,
+          "source_page_id": "B_0093_L",
+          "excerpt": "We all walked across the old railway bridge, now a road bridge, to look at the pub, the Fir Tree, we had a beer + lunched at the van.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Melverley, Shropshire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Savesley",
+      "issue": "Place named alongside Melverley in the diary; likely a nearby hamlet or local name in the Melverley/Nesscliffe area of Shropshire, but cannot be confirmed from current sources.",
+      "source_page_id": "B_0092_L",
+      "excerpt": "Church House campsite, near the Tontine Inn, Melverley, Savesley."
+    },
+    {
+      "original_wording": "Tontine Inn",
+      "issue": "Named as being near the campsite but described as closed; exact location in Melverley area unconfirmed.",
+      "source_page_id": "B_0092_L",
+      "excerpt": "Unfortunately the [?Tontine] Inn is closed"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: true — the diary pages for this trip are cut off mid-entry; return date unknown"
+  ],
+  "summary": "A short camping trip in late April 2006 by Simon, Eve and Charles (with dog Tinder) to the Church House campsite near Melverley, Shropshire, close to the River Vyrnwy on the England-Wales border. The highlight was St Peter's Church, Melverley — a remarkable 15th-century timber-frame church — along with visits to a local craft centre and the Fir Tree pub.",
+  "extraction_notes": "The April 8th entry on page B_0092_L describes a separate family day outing to Trimpley (River Severn, Worcestershire) and is NOT part of this camping trip; it shares the diary spread but belongs to a distinct trip. The camping trip begins on Friday 21 April. The end date is unknown because the spread ends mid-entry (mixed_end: true). Only Simon, Eve, Charles and the dog are mentioned for the camping trip — not the full family. 'Savesley' is an unresolved place name; it may be a local hamlet or possibly a misreading. The trip is entirely within England (Shropshire), no crossings."
+}

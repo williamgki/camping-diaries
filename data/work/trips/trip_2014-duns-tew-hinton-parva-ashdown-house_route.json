@@ -1,0 +1,162 @@
+{
+  "trip_id": "2014-duns-tew-hinton-parva-ashdown-house",
+  "title": "Duns Tew, Hinton Parva, Ashdown House & Stonehenge (Eve's 60th Birthday)",
+  "volume": "B",
+  "spread_range": ["B_0229", "B_0232"],
+  "diary_page_range": [null, null],
+  "date_start": "2014-06-06",
+  "date_end": "2014-06-09",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Duns Tew, Oxfordshire, UK",
+      "original_wording": "[?Suns] Tew",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0229_R",
+      "excerpt": "Simon, Eve + Tinder set off for Charles'. 2 flats at [?Suns] Tew. There we arrived just before William + Bryony, Joseph + Seb. Then John came. Finally Charles, who later collected Jenny.",
+      "notes": "Charles's house; Eve's birthday gathering. '[?Suns] Tew' reads as Duns Tew, a village in Oxfordshire where son Charles lived.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Hinton Parva, Wiltshire, UK",
+      "original_wording": "Hinton Parva",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0230_L",
+      "excerpt": "We left for Conta's house at Hinton Parva. We looked at the church next door. St. Swithins.",
+      "notes": "Daytime visit to friend Conta's house; visited St Swithin's church next door. No overnight stay mentioned before departing for next stop.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Ashdown House, Oxfordshire, UK",
+      "original_wording": "Ashdown House",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0230_R",
+      "excerpt": "On to Ashdown House, a hunting lodge built in 1662 by Lord Craven (nouveau riche Cavalier) for his girl-friend Elizabeth, daughter of James I, sister of Charles I & wife of King of Bohemia?",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Stonehenge Touring Campsite, Orcheston, Wiltshire, UK",
+      "original_wording": "Orcheston village, Stonehenge Touring Campsite",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0231_L",
+      "excerpt": "We camped at a really nice site, Orcheston village, Stonehenge Touring Campsite* [?★★★] very welcoming, clean, friendly, library.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Stonehenge, Wiltshire, UK",
+      "original_wording": "Stonehenge",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0231_L",
+      "excerpt": "Sunday 9.0 We had first-entry tickets for Stonehenge. It was just as well because when we came to leave (10.30.) it was really crowded.",
+      "notes": "English Heritage ticket glued in diary (B_0230_R): Tour Date 08 Jun 2014 09:00. Visited Sunday morning then moved on; did not return to Orcheston campsite.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Salisbury Cathedral, Salisbury, UK",
+      "original_wording": "Salisbury Cath[edral]",
+      "role": "main_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0231_R",
+      "excerpt": "George Herbert, West Front, Salisbury Cath[edral]",
+      "notes": "Photo caption in diary showing a statue of George Herbert on the west front. The family was reading a book about George Herbert and also visited Bemerton (his parish); Salisbury Cathedral is immediately adjacent to Bemerton.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Bemerton, Salisbury, UK",
+      "original_wording": "Bemerton",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0232_L",
+      "excerpt": "On to Bemerton. We are reading 'Music at Midnight by Drury, about George Herbert, for the church book club. The village has huge water meadows, which used to be flooded every winter to keep them fertile.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Farm campsite near Bemerton, Salisbury, UK",
+      "original_wording": "A farm campsite *",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0232_L",
+      "excerpt": "On to the campsite.... which couldn't have us. A farm campsite * ... As dusk fell there was a raucous noise from the oak tree next to us.",
+      "notes": "Unnamed farm campsite; initially couldn't accommodate them but they stayed. Location not specified beyond proximity to Bemerton/Salisbury route towards Farnham.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Farnham, Surrey, UK",
+      "original_wording": "Farnham",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0232_R",
+      "excerpt": "On to Farnham where Simon dropped me off & went on to a Canna meeting with Richard. I shopped & went to see Jane's new house.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0232_R",
+      "excerpt": "Simon drove home with Tinder, after leaving me at the station to visit Kate at Woking & then William at Waterloo.",
+      "notes": "Simon and Tinder returned home from Farnham. Eve continued independently via Woking and Waterloo (London).",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[?Suns] Tew",
+      "issue": "Transcription uncertainty in place name — diary reads '[?Suns] Tew' but context (son Charles's home, matches trip_id slug 'duns-tew') strongly suggests Duns Tew, Oxfordshire. Recorded as Duns Tew with confidence 0.9.",
+      "source_page_id": "B_0229_R",
+      "excerpt": "2 flats at [?Suns] Tew"
+    },
+    {
+      "original_wording": "A farm campsite *",
+      "issue": "Unnamed farm campsite visited after Bemerton; location not specified. Recorded as approximate stop near Bemerton/Salisbury area.",
+      "source_page_id": "B_0232_L",
+      "excerpt": "On to the campsite.... which couldn't have us. A farm campsite *"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0229_R begins mid-page with content from a previous trip (Isle of Wight return) before the new trip starts with 'Friday June 6th'"
+  ],
+  "summary": "A short June 2014 trip through southern England celebrating Eve's birthday, with Simon, Eve and Tinder driving from Birmingham to Charles's house at Duns Tew (Oxfordshire) for a family gathering, then south via Conta's home at Hinton Parva, the National Trust hunting lodge Ashdown House, and a campsite at Orcheston near Stonehenge. The return leg on Sunday 8 June included a first-entry Stonehenge visit, Salisbury Cathedral, and the George Herbert village of Bemerton, before Simon drove home via Farnham while Eve continued by train.",
+  "extraction_notes": "1. The page boundary is mixed: B_0229_R begins with the end of a previous trip (Isle of Wight visit) then starts this trip at 'Friday June 6th'. 2. The diary date 'Friday June 6th' with an EH ticket dated '08 Jun 2014' (Sunday) confirms the year as 2014 and the end date as Sunday 8 June (or Monday 9 June for the return). 3. '[?Suns] Tew' is almost certainly Duns Tew, Oxfordshire, consistent with the trip_id slug. 4. The Stonehenge EH ticket is glued in on B_0230_R in the middle of the Ashdown House narrative; the Sunday morning Stonehenge visit is described on B_0231_L — they camped at Orcheston Saturday night and did Stonehenge Sunday before moving on. 5. Hinton Parva is in Wiltshire (a hamlet near Bishopstone). 6. Salisbury Cathedral is included as a main_stop based on the photo caption (B_0231_R); its confidence is 0.75 as no explicit visit narrative is given. 7. No ferry or other crossings; entirely domestic England trip. 8. Eve did not return to Birmingham with Simon — she went via Woking and Waterloo independently."
+}

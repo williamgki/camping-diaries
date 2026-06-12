@@ -1,0 +1,297 @@
+{
+  "trip_id": "1997-france-1997-amiens-loire-bourges-conques",
+  "title": "France 1997: Amiens, Loire, Bourges, Conques & the Gorges du Tarn",
+  "volume": "A",
+  "spread_range": ["A_0202", "A_0216"],
+  "diary_page_range": [33, 46],
+  "date_start": "1997-07-29",
+  "date_end": "1997-08-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Loic de Fursac"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Folkestone (Eurotunnel)",
+      "original_wording": "Folkestone",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0202_R",
+      "excerpt": "We are going M40, M25 (sw of London) + M20 to Folkestone + M2 to Dover. Our Tunnel train is 10.50",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Amiens, France",
+      "original_wording": "Amiens",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0202_R",
+      "excerpt": "Amiens Cathedral. Unfortunately the rose window was boarded over. They were halfway through sand-blasting the cathedral",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Loeuilly, France",
+      "original_wording": "Loeuilly",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0203_L",
+      "excerpt": "we went on to the campsite. Loeuilly*** a lake at a lower level than a canal. We camped next to the canal bank",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "L'Isle-Adam, France",
+      "original_wording": "L'Ile Adam",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0204_L",
+      "excerpt": "We returned to the van + motored on [?***½] to n.w.of Paris. We stayed at L'Ile Adam. Good clean loos, free showers.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Paris, France",
+      "original_wording": "Paris",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0204_L",
+      "excerpt": "We left about 10 on Thursday July 31st to look for the Bassets in Paris... On to the Eiffel Tour... We parked in a camping van space next to the Eifel Tour for 2 hours.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "La Ferté-Saint-Aubin, France",
+      "original_wording": "la forte de St. Aubin",
+      "role": "overnight_base",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "A_0205_L",
+      "excerpt": "We camped in the Solange area - lots of lakes for fishing & bird shooting. We camped at la forte de St. Aubin. ... We visited the gorgeous old chateau as we left the camp.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Preuilly-sur-Claise, France",
+      "original_wording": "Preuilly",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0205_L",
+      "excerpt": "12 on to the South. Lunch in a wooded lane. We arrived at Preuilly. The ping pong is in a café the other side of a wide bridge.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Cassaniouze, France",
+      "original_wording": "Cassaniouge",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0208_R",
+      "excerpt": "We reached Cassaniouge at 6.30. Unfortunately the walled-off pool [&] is only open from about 2-7 now. But we all swam in the lake",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Entraygues-sur-Truyère, France",
+      "original_wording": "Entraigues",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0213_L",
+      "excerpt": "We packed up & drove to Entraigues, had coffee in the lovely square with its canopy of plane trees.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Aven Armand, France",
+      "original_wording": "Aven Armand caves",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0213_R",
+      "excerpt": "At 5.0 we reached the amazing Aven Armand caves. Those are the best caves which Simon & I have been in.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "La Malène, France",
+      "original_wording": "La Malene",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0214_L",
+      "excerpt": "We drove on to La Malene. The campsite was full, so we went on to the next one, 4 miles further down the Tarn.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Sainte-Énimie, France",
+      "original_wording": "St. Enimie",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0216_L",
+      "excerpt": "We drove off north north eastward. We stopped to look around in St. Enimie, also on the river, a beautiful old town, but rather over-restored - lots of gift shops.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Le Monastier-sur-Gazeille, France",
+      "original_wording": "Monastier",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0216_R",
+      "excerpt": "We spent the night at Monastier** which was mentioned by Stevenson in his Travels with a donkey.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "trips end at home unless the diary says otherwise; this page bundle ends mid-holiday at Monastier (11 Aug) with no return-home narrative captured, so the home return is inferred and the return crossing is not evidenced in these pages",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0202_R",
+      "excerpt": "Our Tunnel train is 10.50 (Quai side 10.30.) ... We had lunch on the Shuttle. No water can be poured, or washing up or coffee."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 8,
+      "label": "Day trip to Bourges (cathedral & Palais Jacques Coeur)",
+      "date_guess": "1997-08-02",
+      "stops": [
+        {
+          "normalized_name": "Bourges Cathedral, France",
+          "original_wording": "Bourges",
+          "confidence": 0.9,
+          "source_page_id": "A_0207_R",
+          "excerpt": "We set off at 10 + return at 1.45. We visit the cathedral. Magnificent. ... Unlike Amiens, the sanctuary hasn't been messed up by a gilded Baroque altar.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Palais Jacques-Coeur, Bourges, France",
+          "original_wording": "Jacques Coeur's house",
+          "confidence": 0.85,
+          "source_page_id": "A_0208_L",
+          "excerpt": "we just make it to Jacques Coeur's house, to have another hour's tour there. It is a lovely house, a courtyard & various rooms.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 9,
+      "label": "Excursions from the Cassaniouze base (Calvinet, Conques, Viellevie)",
+      "date_guess": "1997-08-05",
+      "stops": [
+        {
+          "normalized_name": "Calvinet, France",
+          "original_wording": "Calvinet",
+          "confidence": 0.85,
+          "source_page_id": "A_0209_L",
+          "excerpt": "Simon also booked supper at Calvinet. We set off walking just after 6.30 & ... got there just before 7.30. The path was mostly a rutted farm track.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Conques, France",
+          "original_wording": "Conques",
+          "confidence": 0.9,
+          "source_page_id": "A_0210_L",
+          "excerpt": "We left for the supermarket + Conques. ... reached Conques at 3.30. It was as beautiful + peaceful as ever, with lovely Romanesque architecture",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Vieillevie, France",
+          "original_wording": "le Port de Viellevie",
+          "confidence": 0.8,
+          "source_page_id": "A_0210_R",
+          "excerpt": "On the way home we stopped at le Port de Viellevie to book canoeing + look at a restaurant. Back to the campsite at 6.45.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 12,
+      "label": "Gorges du Tarn boat trip from La Malène",
+      "date_guess": "1997-08-10",
+      "stops": [
+        {
+          "normalized_name": "Gorges du Tarn, France",
+          "original_wording": "Gorges du Tarn",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "A_0215_R",
+          "excerpt": "Samira, Eve, William & Peter went on one boat. Eric took Thomas, John + Charles + 2 Strangers. He was very particular about weight distribution.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Toecy",
+      "issue": "village named as a Sunday church stop while leaving the Preuilly base; spelling uncertain and exact location not identifiable (possibly Tocy/Toucy in the Yonne, but that is far north of the southbound route, so unsure). Likely a brief church stop near the Preuilly/Auvergne road rather than a route base.",
+      "source_page_id": "A_0208_L",
+      "excerpt": "We drive of at 9.05, leaving [?later] behind, to go to church at Toecy. [we couldn't understand] [the priest's words.]"
+    },
+    {
+      "original_wording": "Mahun",
+      "issue": "place named as a petrol stop ('a kind man showed us the way to Mahun, to buy [S. Yorre] petrol'); spelling/location uncertain, cannot be placed on the route.",
+      "source_page_id": "A_0208_L",
+      "excerpt": "a kind man showed us the way to Mahun, to buy [S. Yorre] petrol."
+    },
+    {
+      "original_wording": "Calornet",
+      "issue": "named alongside Calvinet as a possible walking-supper destination from the Cassaniouze base; likely a variant/mis-spelling of Calvinet rather than a separate place, so not recorded as a distinct stop.",
+      "source_page_id": "A_0208_R",
+      "excerpt": "Simon & Eve walked almost half way to Calornet, to see if it would be possible to walk there for supper this evening."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "flag": "mixed_start",
+      "note": "A_0202_L mixes pre-departure home/UK activity (Tong cutting hair, Alfreton cushions, Upton Jazz Festival, supper at Tropley, Thoperness) with the trip departure. The trip proper starts 'At 6.25. We all left for Amiens' on Tuesday July 29th; the earlier UK place names (Alfreton, Upton, Tropley, Thoperness) are not treated as route stops."
+    },
+    {
+      "flag": "open_end",
+      "note": "mixed_end=false in the bundle, but this page range ends mid-holiday at Monastier on Monday 11 August with no return-home narrative captured. The home return (seq 15) and the return Channel crossing are therefore inferred, not evidenced in these pages."
+    }
+  ],
+  "summary": "A summer 1997 family camping trip from Birmingham via the Eurotunnel Shuttle into northern France, dropping the French exchange Loic at Amiens and visiting Amiens Cathedral. The family worked south through Loeuilly, L'Isle-Adam, Paris (Eiffel Tower), La Ferté-Saint-Aubin and Preuilly (with day trips to Bourges cathedral and the Palais Jacques-Coeur), then settled at a Cassaniouze base for visits to Conques, Calvinet and Vieillevie canoeing. They finished in the Gorges du Tarn region, taking in the Aven Armand caves, La Malène boat trips, Sainte-Énimie and a night at Monastier.",
+  "extraction_notes": "The three pages flagged as sketch_images (A_0212_R, A_0213_R, A_0215_L) are illustrative drawings only — a wasp-trap cross-section, cave/stalagmite profiles, and a captioned 'Bridge we crossed to reach Malene' — with no roads, arrows, numbered lists or place ordering. They are NOT route sketches, so evidence-hierarchy rule 1 does not apply and the route order is reconstructed from the dated narrative (rules 2–3). Crossing is the Eurotunnel Shuttle (named 'Tunnel train' and 'Shuttle'); UK terminal is Folkestone/Cheriton (the diary mentions both Folkestone and Dover but the Shuttle departs from Folkestone), mapped to folkestone-coquelles. Cassaniouze is spelt several ways in the diary (Cassaniouge / Cassanioug / Cassanionze / [?Cassfarogue]); normalised to Cassaniouze (Cantal). La Ferté-Saint-Aubin is written 'la forte de St. Aubin'/'forte' (the diary even notes 'forte = fort'); the chateau is Château de la Ferté-Saint-Aubin near Orléans. Paris and the Eiffel Tower are treated as a main_stop visited en route on 31 July rather than an overnight. Aven Armand and Sainte-Énimie are en-route main stops; the Gorges du Tarn boat trip is grouped as an excursion from La Malène. Bourges items and the Cassaniouze-area visits are excursions from their respective bases, not flattened into the main route. Date range covers the evidenced pages (29 Jul – 11 Aug); the holiday clearly continued beyond this page range."
+}

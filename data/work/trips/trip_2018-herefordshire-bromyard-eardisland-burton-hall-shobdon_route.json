@@ -1,0 +1,156 @@
+{
+  "trip_id": "2018-herefordshire-bromyard-eardisland-burton-hall-shobdon",
+  "title": "Herefordshire: Bromyard, Eardisland, Burton Hall, Shobdon, Croft Castle",
+  "volume": "B",
+  "spread_range": ["B_0313", "B_0314"],
+  "diary_page_range": [313, 314],
+  "date_start": "2018-05-31",
+  "date_end": "2018-06-03",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bromyard, Herefordshire, UK",
+      "original_wording": "the farm",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0313_L",
+      "excerpt": "5.15. We set off for the farm. Nina fell backwards off to top stairs. Somersaulted ghastly. But she was OK. Bryony gave us a good supper. We slept in the garage courtyard because wet, thunderstorm Friday Simon was in the hop barn.",
+      "notes": "Farm belonging to Nina/Bryony, associated with Jamie (mowing machine). Placed near Bromyard as the family stopped in Bromyard the next day en route to Eardisland, consistent with the 1995 and 2017 diary references to Kate and Jamie's farm near Bromyard.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bromyard, Herefordshire, UK",
+      "original_wording": "Bromyard",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0313_L",
+      "excerpt": "We stopped in Bromyard + went on to Eardisland.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Eardisland, Herefordshire, UK",
+      "original_wording": "Eardisland",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0313_L",
+      "excerpt": "went on to Eardisland. A very pretty village near Leominster. Black & white houses. Flowers. We wandered into a house drive of a very overgrown house... Delicious supper in the pub. Steak & kidney pie with suet pastry + yummy veg.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Shobdon, Herefordshire, UK",
+      "original_wording": "flat, boggy campsite",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0313_R",
+      "excerpt": "When we got back to the flat, boggy campsite, yet another camping van had got stuck & Simon help push it out.",
+      "notes": "Campsite location inferred from proximity to Burton Hall and Shobdon Church, both visited on foot from this base. Placed near Shobdon as Shobdon Church is explicitly noted and Burton Hall is in the same area of northwest Herefordshire.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "notes": "Return to Birmingham inferred; diary ends mid-sentence on B_0314_L (mixed_end: true). Date unknown but after June 3rd.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Walk to Burton Hall",
+      "date_guess": "2018-06-02",
+      "stops": [
+        {
+          "normalized_name": "Burton Court, Eardisland, Herefordshire, UK",
+          "original_wording": "Burton Hall",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0313_L",
+          "excerpt": "We walked around Burton Hall. (Burr = fortified dwelling) + saw rows of apple trees - difficult to tell what they are from a distance. Very beautiful + verdant lanes.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "Visit to Shobdon Church",
+      "date_guess": "2018-06-02",
+      "stops": [
+        {
+          "normalized_name": "Shobdon Church, Herefordshire, UK",
+          "original_wording": "Shobodon Church. 1750",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "B_0313_R",
+          "excerpt": "Shobodon Church. 1750 Ogive arches. lovely old Romanesque font with lions",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "Day trip to Croft Castle and Croft Ambrey",
+      "date_guess": "2018-06-03",
+      "stops": [
+        {
+          "normalized_name": "Croft Castle, Herefordshire, UK",
+          "original_wording": "Croft Castle",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0314_L",
+          "excerpt": "We arrived & listened to the Herefordshire Brass Band playing WWI Tunes & others. Gorgeous. Inside the house were nice portraits.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Croft Ambrey Iron Age Hill Fort, Herefordshire, UK",
+          "original_wording": "the Iron Age hill fort",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0314_L",
+          "excerpt": "We walked up the hill from 4.30 - 6.30. One of the best walks ever, the Iron Age hill fort. Huge. Amazing views. PenyFann, the Malverns. All round.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Nina",
+      "issue": "Nina is mentioned as falling on the stairs at the farm. She may be a family member, friend or farm resident, but her identity is unclear from the diary text alone.",
+      "source_page_id": "B_0313_L",
+      "excerpt": "Nina fell backwards off to top stairs. Somersaulted ghastly. But she was OK."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: diary ends mid-sentence on B_0314_L; return date to Birmingham is unknown (after 2018-06-03)"
+  ],
+  "summary": "A late-May/early-June 2018 camping trip to Herefordshire, beginning with a stay at a farm near Bromyard (Nina and Bryony's) before moving to a campsite in the Shobdon area. From the campsite the family explored Burton Hall, Shobdon Church, and Croft Castle with its Iron Age hill fort, enjoying spectacular views over the Malverns and Pen y Fan.",
+  "extraction_notes": "The farm is identified as near Bromyard based on the narrative sequence (set off for farm, then stopped in Bromyard en route to Eardisland) and consistent with earlier diary references to Kate and Jamie's farm near Bromyard. The campsite location is inferred as near Shobdon from the proximity to Burton Hall and Shobdon Church, both visited on foot. The diary ends mid-sentence on B_0314_L (mixed_end: true), so the return date is unknown but must be after June 3rd 2018. The year 2018 is confirmed by the trip_id and date_guess. No ferry crossings: entirely domestic UK trip. Tinder the dog is the family dog and likely travelled with Simon and Eve. The other family members (Thomas, William, Peter, John, Charles) are not mentioned in this diary entry."
+}

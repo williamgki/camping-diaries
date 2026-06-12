@@ -1,0 +1,138 @@
+{
+  "trip_id": "1990-dinas-welshpool-railway-harlech-barmouth-with",
+  "title": "Dinas, Welshpool Railway, Harlech & Barmouth with the Portals",
+  "volume": "A",
+  "spread_range": ["A_0016", "A_0019"],
+  "diary_page_range": [26, 32],
+  "date_start": "1990-05-30",
+  "date_end": "1990-06-03",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Welshpool, Wales",
+      "original_wording": "Welshpool",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0016_L",
+      "excerpt": "Simon noticed the Welshpool steam railway. So at the next station, Eve & all the children went by train for 20 minutes to the terminus.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Dinas, Gwynedd, Wales",
+      "original_wording": "Dinas",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0016_R",
+      "excerpt": "When we all met up we had a picnic lunch & drove on to Dinas.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Llyn Celyn, Wales",
+      "original_wording": "Celyn reservoir",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0019_L",
+      "excerpt": "We pack up at Dinas and set off for home.  We go north & have lunch at Celyn reservoir.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Pistyll Rhaeadr, Wales",
+      "original_wording": "the highest waterfall in Wales",
+      "role": "transit_stop",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "A_0019_L",
+      "excerpt": "In the afternoon we visit the highest waterfall in Wales, before reaching home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0019_L",
+      "excerpt": "In the afternoon we visit the highest waterfall in Wales, before reaching home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Tricky rocky walk from the Dinas campsite",
+      "date_guess": "1990-05-31",
+      "stops": [
+        {
+          "normalized_name": "Dinas, Gwynedd, Wales",
+          "original_wording": "the campsite",
+          "confidence": 0.7,
+          "source_page_id": "A_0016_R",
+          "excerpt": "The next day we left on a tricky walk from the campsite – rocky – every footstep counted.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Day trip to Harlech Castle",
+      "date_guess": "1990-06-01",
+      "stops": [
+        {
+          "normalized_name": "Harlech Castle, Wales",
+          "original_wording": "Harlech Castle",
+          "confidence": 0.9,
+          "source_page_id": "A_0017_L",
+          "excerpt": "On Friday we went to Harlech Castle. The rain bucketed down + we forgot to get out the gumboots.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Day trip to Barmouth (arts & crafts village, aquarium & museum)",
+      "date_guess": "1990-06-02",
+      "stops": [
+        {
+          "normalized_name": "Barmouth, Wales",
+          "original_wording": "Barmouth",
+          "confidence": 0.85,
+          "source_page_id": "A_0018_L",
+          "excerpt": "On Saturday we go to the arts crafts village which has a very good acquarium, lobsters, octopi, trout, crabs.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "A_0016_L",
+      "issue": "mixed_start: page opens with the tail of the PREVIOUS trip (Robin Hood's Butts walk, model aeroplane flying, 'After tea we set off home') before this trip begins at 'May 30th 1990. We have set off for Dinas with Matt Portal'. The Robin Hood's Butts material belongs to the prior trip and is excluded from this route.",
+      "excerpt": "the others walked around Robin Hood's Butts ... After tea we set off home ... May 30th 1990.  We have set off for __Dinas__ with Matt Portal, Claire 7 & Peter 4."
+    }
+  ],
+  "summary": "A Whitsun-week camping trip (30 May – 3 June 1990) from Birmingham to Dinas in Snowdonia, Wales, joined by Matt Portal and his children Claire and Peter. En route the family rode the Welshpool steam railway. Based at the Dinas campsite they made day trips to Harlech Castle and to Barmouth's arts-and-crafts village, aquarium and museums, then drove home via Llyn Celyn and the highest waterfall in Wales.",
+  "extraction_notes": "No route-sketch pages exist despite the task note: sketch_images is empty and the only sketch (A_0017_R) is hand-drawn TENT diagrams ('East Wind' dome tent and 'Cabanon' frame tent), not a route map, so narrative order governs. Dinas is normalized to Gwynedd/Snowdonia (approximate) because the exact Dinas is not specified; the surrounding places (Harlech, Barmouth, Portmeirion='Port Merion') place the base firmly in NW Wales. 'Highest waterfall in Wales' is identified as Pistyll Rhaeadr (confidence lowered to 0.6, approximate, since the diary names it only by description). The Friday/Saturday day trips to Harlech and Barmouth, and the rocky campsite walk, return to the Dinas base and are recorded as excursions, not main-route stops. Merthyr Campsite and Port Merion (Portmeirion) on A_0019_L are only NOTICED in passing ('we may try it next year' / 'beautiful views across to'), not visited, so they are excluded as stops. The whole trip is within Great Britain; no sea crossings."
+}

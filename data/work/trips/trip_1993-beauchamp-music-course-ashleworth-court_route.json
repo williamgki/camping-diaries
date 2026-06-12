@@ -1,0 +1,73 @@
+{
+  "trip_id": "1993-beauchamp-music-course-ashleworth-court",
+  "title": "Beauchamp Music Course & Ashleworth Court",
+  "volume": "A",
+  "spread_range": ["A_0112", "A_0112"],
+  "diary_page_range": [27, 27],
+  "date_start": "1993-08-27",
+  "date_end": "1993-08-28",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beauchamp House, Gloucestershire, UK",
+      "original_wording": "Beauchamp",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0112_R",
+      "excerpt": "We left at 5.0., & inspite of the Bank holiday, arrived at Beauchamp at 6.15.",
+      "geocode_hint": { "countrycodes": "gb", "hint": "Beauchamp House music-course venue; Gloucestershire context from Ashleworth Court proximity and prior 1992 Beauchamp concert trip" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0112_R",
+      "excerpt": "Then we packed up & went home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday visit to Ashleworth Court",
+      "date_guess": "1993-08-28",
+      "stops": [
+        {
+          "normalized_name": "Ashleworth Court, Gloucestershire, UK",
+          "original_wording": "Ashleworth Court",
+          "confidence": 0.95,
+          "source_page_id": "A_0112_R",
+          "excerpt": "While Thomas released the rest of us, went to see the cruck barn at Ashleworth Court. The church was pretty too — a squint, beautifully tapestried kneelers, & a rare, painted Edward [VI] rude screen. Flooding from [?Severn].",
+          "geocode_hint": { "countrycodes": "gb", "hint": "Ashleworth Court, village of Ashleworth near Gloucester, on the River Severn" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "The date 'Friday August 2[?]' is partially illegible; the last digit is obscured. August 27, 1993 was a Friday, consistent with the trip_id date_guess of 1993-08-27.",
+    "The '[?Severn]' in the diary is a contextual landscape note (flooding from the River Severn near Ashleworth), not a navigational stop.",
+    "Grandma, Grandpa, Aunt Helen & John attended at Beauchamp; it is unclear whether these family members travelled from Birmingham with the family or met them there independently. They are not included in the travellers list as they are not identified as part of the camping party."
+  ],
+  "summary": "On Friday 27 August 1993 the family drove from Birmingham to Beauchamp House (a music-course venue in Gloucestershire) where Thomas was performing — playing Telemann and participating in a sextet, with a New World Symphony concert on the Saturday afternoon. On Saturday morning the rest of the family visited nearby Ashleworth Court to see the cruck barn and church, before the afternoon concert, after which they packed up and returned home.",
+  "extraction_notes": "Single-page entry (A_0112_R, diary p.27). Beauchamp is the same recurring music-course venue as the 1992 Beauchamp trips; the Ashleworth Court excursion (cruck barn, church with squint and kneelers) locates the context firmly in Gloucestershire on the River Severn. The date 'Friday August 2[?]' most plausibly reads as August 27 (the only Friday in the 20s of August 1993). Thomas played Telemann and was in a sextet; the afternoon concert featured the New World Symphony. William babysat Charles during the concert. Grandma, Grandpa, Aunt Helen, and John joined for drinks at supper on the Friday but their travel origin is not stated. No crossings; entirely domestic England trip."
+}

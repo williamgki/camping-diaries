@@ -1,0 +1,102 @@
+{
+  "trip_id": "1997-the-anchor-east-of-welland-the",
+  "title": "The Anchor, East of Welland & the Malverns",
+  "volume": "A",
+  "spread_range": ["A_0221", "A_0221"],
+  "diary_page_range": [221, 221],
+  "date_start": "1997-09-19",
+  "date_end": "1997-09-21",
+  "date_precision": "month",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Thomas", "William"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Welland, Worcestershire, UK",
+      "original_wording": "East[?Ington] Welland",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0221_L",
+      "excerpt": "Simon, Eve John & Charles left home with Tonic to camp at a pub __The Anchor__ at __East[?Ington] Welland__, to take the boys out for a walk on the Saturday.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Welland", "county": "Worcestershire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0221_L",
+      "excerpt": "At 1.10 we met up with Thomas & William outside No 9 & drove to an old quarry on top of the hills for lunch.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Evening supper at Plume of Feathers, Castlemorton Common",
+      "date_guess": "1997-09-19",
+      "stops": [
+        {
+          "normalized_name": "Plume of Feathers, Castlemorton Common, Worcestershire, UK",
+          "original_wording": "the Plume of Feathers, Castlemorton Common",
+          "confidence": 0.9,
+          "source_page_id": "A_0221_L",
+          "excerpt": "It was raining we had to drive out to another pub for supper, the Plume of Feathers, Castlemorton Common",
+          "geocode_hint": { "countrycodes": "gb", "city": "Castlemorton" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Morning walk on common (blackberries), then Malvern Hills quarry and summit",
+      "date_guess": "1997-09-20",
+      "stops": [
+        {
+          "normalized_name": "Castlemorton Common, Worcestershire, UK",
+          "original_wording": "a common where there were more blackberries",
+          "confidence": 0.7,
+          "approximate": true,
+          "source_page_id": "A_0221_L",
+          "excerpt": "Then we walked Tonic on a common where there were more blackberries.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Castlemorton" }
+        },
+        {
+          "normalized_name": "Malvern Hills, Worcestershire, UK",
+          "original_wording": "an old quarry on top of the hills",
+          "confidence": 0.9,
+          "source_page_id": "A_0221_L",
+          "excerpt": "drove to an old quarry on top of the hills for lunch. William washed up. We walked to the top of the Malverns",
+          "geocode_hint": { "countrycodes": "gb", "city": "Great Malvern" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "East[?Ington] Welland",
+      "issue": "Pub name is The Anchor; location given as 'East[?Ington] Welland' — likely Welland, Worcestershire (near Malvern Hills), possibly a hamlet called Eastington near Welland. Exact pub location unconfirmed.",
+      "source_page_id": "A_0221_L",
+      "excerpt": "camp at a pub __The Anchor__ at __East[?Ington] Welland__"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0221_L begins mid-previous-trip (a different weekend gathering); the new trip entry starts at 'Fri Saturday 20 Sept.'"
+  ],
+  "summary": "A short autumn weekend camping trip (Friday–Sunday, September 1997) for Simon, Eve, John and Charles, who camped at The Anchor pub near Welland, Worcestershire, at the foot of the Malvern Hills. On the Saturday they were joined by Thomas and William for a walk to the top of the Malverns, with an evening excursion to the Plume of Feathers at Castlemorton Common.",
+  "extraction_notes": "Only one diary page (A_0221_L) covers this trip, and it shares the page with the tail end of a previous trip. The dog is called 'Tonic' in this entry (family dog usually referred to as 'Tinder'). Date start estimated as Friday 19 September 1997 based on 'Saturday 20 Sept.' text; return date estimated as Sunday 21 September — neither Friday nor Sunday is explicitly dated. Thomas and William joined from home ('No 9') for the Saturday outing but did not overnight at the campsite."
+}

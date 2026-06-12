@@ -1,0 +1,66 @@
+{
+  "trip_id": "1994-lichfield-cannock-chase-day-out",
+  "title": "Lichfield & Cannock Chase day out",
+  "volume": "A",
+  "spread_range": ["A_0140", "A_0140"],
+  "diary_page_range": [57, 57],
+  "date_start": "1994-09-24",
+  "date_end": "1994-09-24",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Lichfield, UK",
+      "original_wording": "Lichfield",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0140_R",
+      "excerpt": "we have come out for the day to Lichfield & Cannock Chase",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Cannock Chase, UK",
+      "original_wording": "Cannock Chase",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0140_R",
+      "excerpt": "We drove on to have lunch at Cannock Chase",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: diary page A_0140_R ends mid-sentence; return home assumed but not explicitly confirmed in available text"
+  ],
+  "summary": "A single-day family outing from Birmingham on Saturday 24 September 1994, visiting Lichfield Cathedral and the St. Mary's Heritage Centre before driving on to Cannock Chase for lunch and a walk on the common. No overnight stop; the party returned to Birmingham the same day.",
+  "extraction_notes": "Page A_0140_R is a mixed_end boundary — the text cuts off mid-sentence ('Simon & Eve saw'). The rest of the day's account is not included in this bundle. Return home is assumed as the trip_id designates this a 'day-out'. No ferry crossings; entirely within England. The year 1994 is confirmed by the trip_id and the fact that Saturday September 24th falls on a Saturday in 1994. Travellers list is inferred from family context (all family members plus Tinder the dog); only Peter is specifically mentioned by name in the text ('Peter is more senior in the Cathedral Choir'). 'Cathedral Precinct', 'St. Mary's centre', and 'Walter Smith's' are sub-locations within Lichfield, not separate route stops."
+}

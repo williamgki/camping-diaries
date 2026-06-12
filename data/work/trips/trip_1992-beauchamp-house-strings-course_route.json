@@ -1,0 +1,69 @@
+{
+  "trip_id": "1992-beauchamp-house-strings-course",
+  "title": "Beauchamp House Strings Course",
+  "volume": "A",
+  "spread_range": ["A_0056", "A_0056"],
+  "diary_page_range": [109, 109],
+  "date_start": "1992-04-21",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beauchamp House, UK",
+      "original_wording": "Beauchamp House",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0056_R",
+      "excerpt": "April 21st.  → Beauchamp House for Simon & Peter to join in a strings course. They are both enjoying it. Simon particularly the quartet work.",
+      "geocode_hint": { "countrycodes": "gb", "hint": "Beauchamp House residential/music centre; likely Shropshire or Worcestershire given regional context (Trimpley, Whitchurch)" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Beauchamp House",
+      "issue": "Exact location of Beauchamp House not identified. Context (Trimpley drop-off, Cloverley Hall/Whitchurch on the preceding return journey) suggests Shropshire or Worcestershire, but no address or town is given. Cannot geocode with confidence.",
+      "source_page_id": "A_0056_R",
+      "excerpt": "April 21st.  → Beauchamp House for Simon & Peter to join in a strings course."
+    },
+    {
+      "original_wording": "Trimpley",
+      "issue": "Trimpley (near Bewdley, Worcestershire) is mentioned as a drop-off point for Thomas on the way to Beauchamp House, but it is not an overnight stop and is recorded here only as contextual evidence for the route direction.",
+      "source_page_id": "A_0056_R",
+      "excerpt": "Eve arrived later in the morning with William, John & Charles, after dropping Thomas at Trimpley."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0056_R begins with the tail of the preceding trip (arrival home via Cloverley Hall, Whitchurch); the Beauchamp House strings course entry starts at 'April 21st'.",
+    "mixed_end: the diary entry ends mid-sentence ('It’s quite cold, but pleasant sitting') and likely continues on a page not present in this bundle."
+  ],
+  "summary": "On 21 April 1992 the family travelled from Birmingham to Beauchamp House for a residential strings course; Simon and Peter were the principal participants, enjoying quartet work. Eve brought the younger children later, having dropped Thomas at Trimpley en route. The exact location of Beauchamp House is unconfirmed but regional evidence (Trimpley near Bewdley, prior Cloverley Hall/Whitchurch journey) suggests Shropshire or Worcestershire.",
+  "extraction_notes": "This trip is recorded on a single mixed page (A_0056_R, diary p.109). The page opens with the conclusion of the previous trip (home via Cloverley Hall, Whitchurch on a Sunday), then pivots to 'April 21st' for the Beauchamp House entry. The entry ends mid-sentence, so the full duration of the stay is unknown; end date is null. 'Beauchamp House' cannot be geocoded without further research and is marked approximate=true and listed in unresolved. Trimpley is a documented hamlet near Bewdley, Worcestershire, and was a transit drop-off for Thomas, not an overnight stop; it has been left out of main_route but recorded in unresolved for context. The Yates family (Park Hill Rd, Harborne) is mentioned socially, not as a route element. No crossings of any kind are involved; entirely domestic UK trip."
+}

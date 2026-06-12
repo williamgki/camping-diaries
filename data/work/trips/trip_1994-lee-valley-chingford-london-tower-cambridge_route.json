@@ -1,0 +1,127 @@
+{
+  "trip_id": "1994-lee-valley-chingford-london-tower-cambridge",
+  "title": "Lee Valley (Chingford), London Tower & Cambridge",
+  "volume": "A",
+  "spread_range": ["A_0141", "A_0142"],
+  "diary_page_range": [141, 142],
+  "date_start": "1994-10-26",
+  "date_end": "1994-10-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Lee Valley Campsite, Chingford, London",
+      "original_wording": "Chingford Lee Valley",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0141_L",
+      "excerpt": "At 4.35 we set off the 7ofus, for Chingford Lee Valley... We eat in a restaurant in North Chingford + sleep altogether in the van",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Great Shelford, Cambridge",
+      "original_wording": "Great Sheldon",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0142_L",
+      "excerpt": "We decide to drive on to Cambridge... We bus in from our campsite at Great Sheldon",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0142_L",
+      "excerpt": "come home a day early because Eve is tired",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "London: furniture shops and Tower of London",
+      "date_guess": "1994-10-27",
+      "stops": [
+        {
+          "normalized_name": "Tower of London",
+          "original_wording": "the Tower",
+          "confidence": 0.95,
+          "source_page_id": "A_0141_R",
+          "excerpt": "Simon + the boys visit Furniture Shops + the Tower, riding on 8 Trains",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Cambridge sightseeing: colleges, Kettle's Yard, Evensong at King's",
+      "date_guess": "1994-10-28",
+      "stops": [
+        {
+          "normalized_name": "St John's College, Cambridge",
+          "original_wording": "St. John's",
+          "confidence": 0.9,
+          "source_page_id": "A_0142_L",
+          "excerpt": "We see St. John's, Kettle's Yard, old St. Peter's church, Clare College",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Kettle's Yard, Cambridge",
+          "original_wording": "Kettle's Yard",
+          "confidence": 0.9,
+          "source_page_id": "A_0142_L",
+          "excerpt": "We see St. John's, Kettle's Yard, old St. Peter's church, Clare College",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "St Peter's Church, Cambridge",
+          "original_wording": "old St. Peter's church",
+          "confidence": 0.85,
+          "source_page_id": "A_0142_L",
+          "excerpt": "We see St. John's, Kettle's Yard, old St. Peter's church, Clare College",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Clare College, Cambridge",
+          "original_wording": "Clare College",
+          "confidence": 0.9,
+          "source_page_id": "A_0142_L",
+          "excerpt": "we walk along the Backs + go to Evensong at King's",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "King's College Chapel, Cambridge",
+          "original_wording": "King's",
+          "confidence": 0.95,
+          "source_page_id": "A_0142_L",
+          "excerpt": "we walk along the Backs + go to Evensong at King's",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A half-term autumn trip (26-29 October 1994) in which the whole family drove from Birmingham to the Lee Valley campsite at Chingford, where Eve, Peter and Charles were struck down by a stomach bug while Simon took Thomas, William and John by train into London to visit furniture shops and the Tower of London. The following day the family drove on to Cambridge, staying at a campsite at Great Shelford and visiting the colleges, Kettle's Yard and Evensong at King's before coming home a day early.",
+  "extraction_notes": "Trip is entirely domestic (England only; no ferry crossings). The campsite is named 'Great Sheldon' in the diary — almost certainly Great Shelford, a village south of Cambridge with caravan/camping provision. Date end is inferred as 29 Oct (the trip was described as coming home 'a day early', implying the planned end was Sat 29th Oct; the narrative covers Wed 26 – Fri/Sat 28/29). The diary page A_0141_L has 'mixed_start: true' indicating it shares a page with a prior trip entry. London was a day-trip from the Lee Valley base on 27 Oct, not an overnight stop. The Grad Pad (a Cambridge cafe/restaurant) and tea with Richard Holroyd are social mentions, not route stops."
+}

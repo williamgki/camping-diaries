@@ -1,0 +1,79 @@
+{
+  "trip_id": "2018-rhayader-elan-valley-wyside-club-site",
+  "title": "Rhayader & Elan Valley (Wyside Club Site)",
+  "volume": "B",
+  "spread_range": ["B_0314", "B_0314"],
+  "diary_page_range": [314, 314],
+  "date_start": "2017-08-16",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Brook House Farm, Herefordshire, UK",
+      "original_wording": "Brook House Farm",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0314_R",
+      "excerpt": "went to Brook House Farm for Simon to check on hop-picking machines",
+      "geocode_hint": { "countrycodes": "gb", "region": "Herefordshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Legges of Bromyard, Bromyard, Herefordshire, UK",
+      "original_wording": "Legges",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0314_R",
+      "excerpt": "we went to Legges [as] we'd failed to take stuff out of fridge at home",
+      "geocode_hint": { "countrycodes": "gb", "city": "Bromyard" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Rhayader, Powys, Wales, UK",
+      "original_wording": "Rhayader",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0314_R",
+      "excerpt": "On to Rhayader in the middle of Wales. We are camped at Wyside Club Site, [?1/4] mile from town, right next to river.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Rhayader" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "Page B_0314_R is shared with the 2018 Farnham wedding trip (August 4th Saturday entry). Only the 'Wed Aug 16th' section belongs to this trip.",
+    "date_start set to 2017-08-16: 'Wed Aug 16th' matches Wednesday 16 August 2017, not 2018 (when Aug 16 was a Thursday). The bundle date_guess of 2018-08-16 appears to be in error. Trip_id retained as given.",
+    "No return date recorded; mixed_end:true indicates the page ends before the trip conclusion is written."
+  ],
+  "summary": "Simon, Eve, and the dog Tinder drove from Birmingham to Rhayader in mid-Wales in August 2017, stopping en route at Brook House Farm (to check hop-picking machines) and Legges of Bromyard (to collect forgotten food). They camped at Wyside Club Site, a quarter-mile from Rhayader town centre beside the river.",
+  "extraction_notes": "1) The diary page is boundary-mixed: the 'August 4th Saturday' section is a separate trip (Farnham wedding, already extracted as trip_2018-farnham-hattie-ramsey-s-wedding). Only the 'Wed Aug 16th' section belongs here. 2) The bundle date_guess of 2018-08-16 conflicts with day-of-week evidence: Aug 16 was a Wednesday only in 2017, not 2018. Date adjusted to 2017-08-16. Trip_id preserved as given. 3) Brook House Farm location is approximate — the family's connection to hop-picking places it in the Herefordshire/Worcestershire corridor between Birmingham and Rhayader. 4) 'Legges' is identified as Legges of Bromyard (a well-known butcher/deli in Bromyard, Herefordshire), a plausible stop on the A44/A465 route from Birmingham to Rhayader; confidence 0.75 (not stated in full). 5) No excursions are recorded (only arrival noted; trip is single-page). 6) No return date or end-of-trip narrative present."
+}

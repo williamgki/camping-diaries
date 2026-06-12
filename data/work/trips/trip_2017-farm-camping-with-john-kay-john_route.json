@@ -1,0 +1,83 @@
+{
+  "trip_id": "2017-farm-camping-with-john-kay-john",
+  "title": "Farm & Camping with John & Kay (John's 30th)",
+  "volume": "B",
+  "spread_range": ["B_0293", "B_0293"],
+  "diary_page_range": [113, 113],
+  "date_start": "2017-08-16",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0293_R",
+      "excerpt": "Simon, Eve, Tinder left 86 at 10.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "hop farm, England",
+      "original_wording": "farm",
+      "role": "unresolved",
+      "confidence": 0.45,
+      "approximate": true,
+      "source_page_id": "B_0293_R",
+      "excerpt": "Off to farm & then camping with John & Kay to celebrate John's 30th birthday on Saturday. It's Simon's second to last visit to look at the new hop barn before the hop harvest begins on Aug 31st.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "camping with John & Kay, England",
+      "original_wording": "camping with John & Kay",
+      "role": "unresolved",
+      "confidence": 0.4,
+      "approximate": true,
+      "source_page_id": "B_0293_R",
+      "excerpt": "Off to farm & then camping with John & Kay to celebrate John's 30th birthday on Saturday.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "farm",
+      "issue": "Farm name and location not given. Described as a hop farm with a new hop barn; harvest begins Aug 31st. Simon visited to inspect conveyor belts with Chris and Polish workmen. Likely a hop-growing area of England (Herefordshire, Worcestershire, or Kent possible). Exact location unknown.",
+      "source_page_id": "B_0293_R",
+      "excerpt": "Off to farm & then camping with John & Kay ... look at the new hop barn before the hop harvest begins on Aug 31st. He & William worked on the zig-zagging conveyor belts with Chris & 2 other Polish workmen."
+    },
+    {
+      "original_wording": "camping with John & Kay",
+      "issue": "Camping site name and location not given. Only context is John's 30th birthday celebration 'on Saturday' (i.e. 2017-08-19). Diary text cuts off before any campsite is named. John & Kay are friends or family not further identified here.",
+      "source_page_id": "B_0293_R",
+      "excerpt": "Off to farm & then camping with John & Kay to celebrate John's 30th birthday on Saturday."
+    },
+    {
+      "original_wording": "end date unknown",
+      "issue": "The diary page is a mixed boundary page; the trip text is cut off after 'Eve' with no further pages in this bundle. Return date and full itinerary are unknown.",
+      "source_page_id": "B_0293_R",
+      "excerpt": "Eve"
+    }
+  ],
+  "boundary_flags": ["mixed_start", "mixed_end", "single_page_bundle", "text_truncated"],
+  "summary": "On Wednesday 16 August 2017, Simon, Eve and the dog Tinder left home in Birmingham bound for a hop farm (location unidentified) and then a camping trip with friends John & Kay to celebrate John's 30th birthday. The diary page is truncated at the boundary with another trip, so the campsite location, full itinerary and return date are unknown.",
+  "extraction_notes": "Extremely fragmentary record: only the departure paragraph survives. The year 2017 is confirmed by the title_guess and by Aug 16 falling on a Wednesday in 2017. The farm is a known hop farm Simon visited regularly; William also worked there but is not listed as a traveller on this trip (he may have been at the farm separately or is not counted). The 'Dolphin', 'M42', and 'Chad' place mentions in the text belong to the preceding Sunday entry, not this trip. Confidence for the farm and camping stops is below 0.5; they are therefore marked unresolved. No crossings, no excursions identifiable. Reviewer should check adjacent pages (beyond B_0293) to locate the campsite and return date."
+}

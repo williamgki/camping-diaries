@@ -1,0 +1,493 @@
+{
+  "trip_id": "1993-france-italy-1993-rochester-guincourt-st",
+  "title": "France, Switzerland & Italy 1993: Guincourt, the St Gotthard, the Italian Lakes & Liguria",
+  "volume": "A",
+  "spread_range": ["A_0094", "A_0110"],
+  "diary_page_range": [9, 16],
+  "date_start": "1993-07-11",
+  "date_end": "1993-07-30",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB", "FR", "CH", "IT"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Rochester, Kent, UK",
+      "original_wording": "Rochester Cathedral",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0094_L",
+      "excerpt": "We went to church at Rochester Cathedral. Simon had telephoned ahead to find the time of the service (10.30.)",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Dover, Kent, UK",
+      "original_wording": "Dover",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0094_R",
+      "excerpt": "We left straight after receiving Communion to get to Dover. It was an uneventful crossing.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Guincourt, Ardennes, France",
+      "original_wording": "Guincourt",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0094_R",
+      "excerpt": "We reached Guincourt before dark. John + Charles loved the playground. We met a family from Newtownards.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Thann, Haut-Rhin, France",
+      "original_wording": "Withers, Le Long Pres / Au Lion de Belfort, Than",
+      "role": "overnight_base",
+      "confidence": 0.72,
+      "approximate": true,
+      "source_page_id": "A_0095_L",
+      "excerpt": "We spent the night at Withers, Le Long Pres. For supper we went to Than to the Au Lion de Belfort.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Lucerne, Switzerland",
+      "original_wording": "Lucerne",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0095_L",
+      "excerpt": "We drove of past Lucerne + over the St. Gottard.",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Gotthard Pass, Switzerland",
+      "original_wording": "St. Gottard",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0095_L",
+      "excerpt": "We drove of past Lucerne + over the St. Gottard. Snow, old paved stone & cobbled road with pink stripe down the middle. We got out + walked around.",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Airolo, Ticino, Switzerland",
+      "original_wording": "St. Gottard campsite",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "A_0095_L",
+      "excerpt": "About 18 miles south of the pass we came to the St. Gottard campsite. It was perched on the side of a hill.",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Lugano, Switzerland",
+      "original_wording": "Lugano",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0096_R",
+      "excerpt": "We packed up at lunch time + set off for Lugano. It's a very pretty town with a tree park + playground.",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Porlezza, Lombardy, Italy",
+      "original_wording": "Porlezza / Camping OK / Kamping Rivetta",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0097_R",
+      "excerpt": "We turned off to Camping OK Porlezza + swam in Lake Piano, between Lugano + Como.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Crema, Lombardy, Italy",
+      "original_wording": "Crema",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0097_R",
+      "excerpt": "We set off + stopped at Crema + saw the Duomo with an enormous façade, much bigger than the cathedral inside.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Soncino, Lombardy, Italy",
+      "original_wording": "Soncino",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0097_R",
+      "excerpt": "On to Soncino ... At Soncino we stopped by a lovely castle + moat + the boys played football with a group of local boys + girls.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Cremona, Lombardy, Italy",
+      "original_wording": "Cremona",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0098_L",
+      "excerpt": "We spent the night at the Cremona campsite, + had pizzas in a friendly restaurant where we watched them putting pizzas in the oven.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Salsomaggiore Terme, Emilia-Romagna, Italy",
+      "original_wording": "Salso[?Maggiore] Terme",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0099_R",
+      "excerpt": "We left & passed through a spa town, Salso[?Maggiore] Terme, & found signs to a campsite out in the country.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Salsomaggiore Terme, Emilia-Romagna, Italy",
+      "original_wording": "Arizona",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0099_R",
+      "excerpt": "found signs to a campsite out in the country ... we are very fortunate to be camped right on the edge with a marvellous view. Arizona",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Parma, Emilia-Romagna, Italy",
+      "original_wording": "Parma",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0101_L",
+      "excerpt": "We left & went to Parma ... We camped at Parma, where there was an open air concert with a blond singer.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Torrechiara, Emilia-Romagna, Italy",
+      "original_wording": "Torrechiara",
+      "role": "main_stop",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "A_0102_L",
+      "excerpt": "We had trouble finding Torrechiara. It is marvellous ... Gorgeous Romanesque arches + pleasing proportions in the open courtyard.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Berceto, Emilia-Romagna, Italy",
+      "original_wording": "Berceto",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0102_R",
+      "excerpt": "At the far side we came down to Berceto. A lovely town with a beautiful cathedral - plain Romanesque.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Borgo Val di Taro, Emilia-Romagna, Italy",
+      "original_wording": "Borgo val de Taro",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0103_L",
+      "excerpt": "On towards Sestri Levante. We've stopped to camp in Borgo val de Taro. Campsite in new town, we walk up the hill to the old town.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Varese Ligure, Liguria, Italy",
+      "original_wording": "Varese",
+      "role": "main_stop",
+      "confidence": 0.65,
+      "approximate": false,
+      "source_page_id": "A_0103_L",
+      "excerpt": "then on down to Varese, a very early example of town planning. We walked around lovely colours in the house painting.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Livorno, Tuscany, Italy",
+      "original_wording": "Livorno",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0104_L",
+      "excerpt": "In the afternoon we tried to camp at Livorno but there was no room.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Sestri Levante (Trigoso), Liguria, Italy",
+      "original_wording": "Sestri Levante / Trigoso",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0104_L",
+      "excerpt": "We finally found a camp at Sestri Levante Trigoso only 300m. from a station one down from Sestri Levante, which is just what we wanted.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Rapallo, Liguria, Italy",
+      "original_wording": "Rapallo",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0105_R",
+      "excerpt": "We got onto the autostrada + came off at Rapallo to look for a church ... Finally we found a gilded St Lawrence.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Cuneo, Piedmont, Italy",
+      "original_wording": "Cuneo",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0106_L",
+      "excerpt": "We had lunch in a layby + drove on to Cuneo, where we had trouble following signs to the campsite. The boys played ping pong.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Saluzzo, Piedmont, Italy",
+      "original_wording": "Saluzzo",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0106_L",
+      "excerpt": "We played ping pong + set off towards les Deux Alps. We stopped to shop at Saluzzo.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Les Deux Alpes, Isère, France",
+      "original_wording": "les Deux Alps",
+      "role": "overnight_base",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "A_0106_L",
+      "excerpt": "finally reached les Deux Alys[?], where the 3 boys had skied 2 years before. It was dark when we arrived. Cold, cold.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 27,
+      "normalized_name": "Grenoble, Isère, France",
+      "original_wording": "Grenoble",
+      "role": "transit_stop",
+      "confidence": 0.78,
+      "approximate": false,
+      "source_page_id": "A_0106_R",
+      "excerpt": "At 12.15. we left + passed Grenoble + ploughed through Lyons in the rush hour.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 28,
+      "normalized_name": "Lyon, France",
+      "original_wording": "Lyons",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0106_R",
+      "excerpt": "passed Grenoble + ploughed through Lyons in the rush hour. At the last minute we visited the Fracastos + swam, + they gave us a delicious barbequed supper.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 29,
+      "normalized_name": "Saint-Jean-de-Vaux, Saône-et-Loire, France",
+      "original_wording": "St. Jean de Vaux",
+      "role": "overnight_base",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "A_0107_L",
+      "excerpt": "we drove off & reached St. Jean de Vaux at 10.30. w. of Chalon sur Saone. A gorgeous vingard runs down right to the edge of the campsite.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 30,
+      "normalized_name": "Lumbres, Pas-de-Calais, France",
+      "original_wording": "Lumbres",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0110_L",
+      "excerpt": "Set off on a long drive up towards Calais 12.00 ... We reached Lumbres [?] at 9. pm. John + Charles got filthy in the play ground.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 31,
+      "normalized_name": "Calais, France",
+      "original_wording": "Calais",
+      "role": "crossing_terminal",
+      "confidence": 0.55,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "return Channel crossing not narrated within this spread range (mixed_end); family drove 'up towards Calais' before the bundle ends at Lumbres, so Calais is the most likely return port",
+      "source_page_id": "A_0110_L",
+      "excerpt": "Set off on a long drive up towards Calais 12.00.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 32,
+      "normalized_name": "Dover, Kent, UK",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "return crossing arrival port inferred as Dover (counterpart of outbound Dover crossing); not narrated in this spread",
+      "source_page_id": "A_0110_L",
+      "excerpt": "Set off on a long drive up towards Calais 12.00.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 33,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.6,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "home return implied (trips start and end at Birmingham); the actual return is on pages beyond this spread (mixed_end)",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0094_R",
+      "excerpt": "We left straight after receiving Communion to get to Dover. It was an uneventful crossing. We reached Guincourt before dark.",
+      "note": "Dover named explicitly; French arrival port not named. Dover-Calais assumed as the standard England-France ferry; arrival at Guincourt (Ardennes) the same evening is consistent with Calais."
+    },
+    {
+      "after_seq": 31,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "A_0110_L",
+      "excerpt": "Set off on a long drive up towards Calais 12.00.",
+      "note": "Return crossing not narrated within this spread (mixed_end). Modelled as Calais-Dover (reverse of dover-calais); Calais named as the drive target, Lumbres the last recorded overnight near Calais/Saint-Omer."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 22,
+      "label": "Cinque Terre day: train to Corniglia, walk to Vernazza",
+      "date_guess": "1993-07-23",
+      "stops": [
+        {
+          "normalized_name": "Corniglia, Liguria, Italy",
+          "original_wording": "Corniglia",
+          "confidence": 0.85,
+          "source_page_id": "A_0104_L",
+          "excerpt": "We hurried + caught the 9.20. train to Corniglia, to walk back to Vernazza.",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "Vernazza, Liguria, Italy",
+          "original_wording": "Vernazza",
+          "confidence": 0.88,
+          "source_page_id": "A_0105_L",
+          "excerpt": "At Vernazza we had lunch overlooking an inlet of waves which had cut through a tunnel in the rock ... we swam in the harbour + caught a train home.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 22,
+      "label": "Day trip into Sestri Levante town",
+      "date_guess": "1993-07-24",
+      "stops": [
+        {
+          "normalized_name": "Sestri Levante, Liguria, Italy",
+          "original_wording": "Sestri Levante / SL",
+          "confidence": 0.82,
+          "source_page_id": "A_0105_L",
+          "excerpt": "Simon + Thomas found a bus for us to take instead. We window shopped + saw lovely jewelry + the boys bought yet more cars.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 29,
+      "label": "Evening drive to Givry for supper (Hotel du Raisin)",
+      "date_guess": "1993-07-28",
+      "stops": [
+        {
+          "normalized_name": "Givry, Saône-et-Loire, France",
+          "original_wording": "Givry",
+          "confidence": 0.8,
+          "source_page_id": "A_0107_L",
+          "excerpt": "At 7.30 we left for supper at \"Hotel de Raisin\" Givry. It's quite a large, pretty town, buildings of tired yellow.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Withers, Le Long Pres",
+      "issue": "Overnight campsite name near Thann (Haut-Rhin); 'Le Long Pre' not confidently geocodable as a settlement. Anchored to Thann (where they had supper at the 'Au Lion de Belfort').",
+      "source_page_id": "A_0095_L",
+      "excerpt": "We spent the night at Withers, Le Long Pres. For supper we went to Than to the Au Lion de Belfort."
+    },
+    {
+      "original_wording": "the Fracastos / Fracasto",
+      "issue": "Family/friends visited near Lyon for a barbecue and swim; a household, not a separate geographic stop. Folded into the Lyon main_stop rather than mapped separately.",
+      "source_page_id": "A_0106_R",
+      "excerpt": "At the last minute we visited the Fracastos + swam, + they gave us a delicious barbequed supper."
+    },
+    {
+      "original_wording": "Marc Laborde",
+      "issue": "A wine-tasting establishment at/near Saint-Jean-de-Vaux, not a distinct place; walked to from the campsite. Not mapped as a stop.",
+      "source_page_id": "A_0107_R",
+      "excerpt": "Simon & Thomas found a wine tasting place & we all walked off to Marc Laborde & tasted & bought a dozen of white & red."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "issue": "mixed_start: A_0094_L opens mid-sentence ('where Simon bought Eve a new blue handbag') describing a Rochester museum/camping-shop visit that belongs to this trip's first day (July 11). The preceding trip's narrative shares this spread.",
+      "source_page_id": "A_0094_L"
+    },
+    {
+      "issue": "mixed_end: the bundle ends at Lumbres on 30 July (A_0110_L) with the family still in France 'up towards Calais'. The actual Channel crossing and home return fall on pages beyond this spread (A_0110_R is a caption page that already refers to the Chalons-sur-Saone leg). Return crossing and home stop are therefore inferred.",
+      "source_page_id": "A_0110_L"
+    }
+  ],
+  "summary": "A long July 1993 driving holiday from Birmingham through France, Switzerland and Italy and back. The family crossed Dover-Calais to Guincourt, drove via Alsace (Thann) over the St Gotthard Pass to the Italian Lakes (Porlezza, Lugano), then south through Lombardy and Emilia-Romagna (Cremona, the 'Arizona' campsite near Salsomaggiore, Parma/Torrechiara) to the Ligurian coast at Sestri Levante, with Cinque Terre excursions (Corniglia, Vernazza). They returned via Cuneo and the Alps to Les Deux Alpes, then Burgundy (Saint-Jean-de-Vaux, with suppers at Givry) before the long run north to Lumbres near Calais.",
+  "extraction_notes": "Sketch pages A_0095_R and A_0097_L are scenery/landscape sketches (the St Gotthard Pass road; the campsite view at Porlezza), NOT route maps or numbered route lists, so evidence-hierarchy rule 1 does not override the dated narrative here; they do corroborate St Gotthard and Porlezza. Dates: only A_0101 onward carry explicit ISO dates (19 July and later); earlier July 11/12 and the 'Wednesday/Thursday/Friday' headings were chained into 1993 calendar dates (11 Jul=Sun, 14 Jul=Wed Lugano, 15 Jul=Thu Crema/Soncino->Cremona, 16 Jul=Fri ->Arizona). 'Varese' (seq 20) is normalized to Varese Ligure (Liguria) rather than Varese (Lombardy): the caption 'early town planning, bridge 1519' matches Varese Ligure's circular 'borgo rotondo', and it sits on-route between Borgo Val di Taro and the Ligurian coast; flagged with reduced confidence. Torrechiara is treated as a main_stop on the departure leg from Parma (they did not return to the Parma base; they continued over the Sillara pass to Berceto and Borgo Val di Taro), not an excursion. Country list reflects GB, FR, CH (Lucerne/Gotthard/Lugano) and IT. The trip almost certainly continues beyond this spread; return crossing and home arrival are inferred low-confidence."
+}

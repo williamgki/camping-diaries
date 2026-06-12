@@ -1,0 +1,115 @@
+{
+  "trip_id": "2016-holt-fleet-ombersley-worcs-overnight",
+  "title": "Holt Fleet & Ombersley overnight, then Ashperton",
+  "volume": "B",
+  "spread_range": ["B_0265", "B_0266"],
+  "diary_page_range": [85, 86],
+  "date_start": "2016-06-03",
+  "date_end": "2016-06-05",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Holt Fleet, Worcestershire, UK",
+      "original_wording": "near Holt Fleet, Worcs.",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0265_R",
+      "excerpt": "We reached [?B.rnary Ho] [?farmyard] campsite near Holt Fleet, Worcs. after about 40 min.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Moor End Farm, Ashperton, Herefordshire, UK",
+      "original_wording": "Moor End Farm, Ashperton",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0266_L",
+      "excerpt": "On to the farm where we looked at the excavations for the big new hop barn structure",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Belmont Abbey, Herefordshire, UK",
+      "original_wording": "Belmont Abbey",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0266_R",
+      "excerpt": "After lunch we looked around the Abbey. Charles + Jenny had an interview with Father Nick who says they may get married at Belmont Abbey.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Moor End Farm Campsite, Ashperton, Herefordshire, UK",
+      "original_wording": "Moor End Farm Campsite",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0266_R",
+      "excerpt": "After tea, when Sonja sounded out the hotel there, we left for Moor End Farm Campsite.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Walk to Ashperton Castle Moat and church",
+      "date_guess": "2016-06-04",
+      "stops": [
+        {
+          "normalized_name": "Ashperton Castle Moat, Herefordshire, UK",
+          "original_wording": "Ashperton Castle Moat",
+          "confidence": 0.9,
+          "source_page_id": "B_0266_R",
+          "excerpt": "The farmer lent us a map + we walked thru fields of sheep + broad beans to Ashperton Castle Moat + looked round the outside of the church.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?B.rnary Ho] [?farmyard]",
+      "issue": "Campsite name at Holt Fleet is illegible; transcribed as '[?B.rnary Ho] [?farmyard]' — could be 'Barnary House farmyard' or similar; location given only as 'near Holt Fleet, Worcs.'",
+      "source_page_id": "B_0265_R",
+      "excerpt": "We reached [?B.rnary Ho] [?farmyard] campsite near Holt Fleet, Worcs. after about 40 min."
+    },
+    {
+      "original_wording": "Leggs",
+      "issue": "Shop name 'Leggs' where they bought provisions (Bromyard Brie) on the morning of June 4th, en route from Holt Fleet to Ashperton; location not stated but likely Bromyard area — not confirmed as a visited place vs. a transit shop stop",
+      "source_page_id": "B_0265_R",
+      "excerpt": "We left at 8.30. & bought a feast at Leggs including Bromyard Brie, which I just to my annoyance is actually made in Worcestershire."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A short two-night overnight trip in June 2016 for Simon, Eve and dog Tinder. The first night was spent at a campsite near Holt Fleet on the River Severn in Worcestershire; the second night at Moor End Farm Campsite near Ashperton in Herefordshire, with a visit to Moor End Farm, Belmont Abbey, and a walk to Ashperton Castle Moat.",
+  "extraction_notes": "The page B_0265_R is mixed: it opens with an April 2016 entry (a canal walk in the Black Country with Pill, Nana, Peter, Eleni & Conrad) that is a separate outing and has been excluded. The June 3rd trip is clearly delineated from that entry. The campsite name near Holt Fleet is illegible in the transcription. 'Leggs' appears to be a local shop or deli near Bromyard; it is listed as unresolved rather than a route stop as its exact location is unknown and it was a shopping stop only. Charles and Jenny's possible wedding at Belmont Abbey is mentioned as future planning (not yet arranged), context for the visit. Sonja is mentioned briefly on B_0266_R — her relationship to the party is unclear. The trip is entirely within England (GB); no crossings involved."
+}

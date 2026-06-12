@@ -1,0 +1,80 @@
+{
+  "trip_id": "2014-wolverley-stourport-with-austin-bike-ride",
+  "title": "Wolverley & Stourport with Austin (bike ride)",
+  "volume": "B",
+  "spread_range": ["B_0244", "B_0244"],
+  "diary_page_range": [64, 64],
+  "date_start": "2014-10-04",
+  "date_end": "2014-10-05",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Austin"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wolverley, Worcestershire, UK",
+      "original_wording": "Wolverley",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0244_R",
+      "excerpt": "At 11.30 we set off with Austin to Wolverley to camp for the night & go on a bike ride.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0244_R",
+      "excerpt": "We set off at 9.15 on the bike ride & got back at 2.45.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "note": "Return to home inferred; diary entry ends mid-sentence but return home is standard for this trip pattern"
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Bike ride to Kidderminster and Stourport",
+      "date_guess": "2014-10-05",
+      "stops": [
+        {
+          "normalized_name": "Kidderminster, UK",
+          "original_wording": "Kidder",
+          "confidence": 0.95,
+          "source_page_id": "B_0244_R",
+          "excerpt": "We cycled to Kidder & had coffee.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Stourport-on-Severn, UK",
+          "original_wording": "Stourport",
+          "confidence": 0.95,
+          "source_page_id": "B_0244_R",
+          "excerpt": "Then on to Stourport. V.attractive Tontine Hotel & appartments for sale. Georgian, from start of canal hotels. Built by Brindley",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: diary page B_0244 contains content from a following trip"
+  ],
+  "summary": "A one-night camping trip to Wolverley, Worcestershire, with Austin, followed by a Sunday bike ride cycling via Kidderminster to Stourport-on-Severn and back. The diary notes the Tontine Hotel at Stourport, a Georgian building associated with Brindley and the start of the canal era.",
+  "extraction_notes": "The heading reads 'Saturday Oct 3[rd] 4th' suggesting the diarist initially wrote '3rd' then corrected to '4th'; Oct 4 2014 was indeed a Saturday so date_start is set to 2014-10-04. The Sunday heading reads 'Oct 5th' which is consistent. The diary entry ends mid-sentence ('it was a hamlet calls') so the page boundary is cut off; return to Birmingham is inferred. Austin's relationship is not stated but appears to be a grandchild or young family friend (he played with a girl called Ruby who was also there with her grandparents). Thomas is noted as being in India; Naomi about to have a baby — contextual family notes, not route stops. The mixed_end flag is set as the bundle metadata indicates mixed_end: true."
+}

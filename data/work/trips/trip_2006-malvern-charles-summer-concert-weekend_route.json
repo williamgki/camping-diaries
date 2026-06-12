@@ -1,0 +1,55 @@
+{
+  "trip_id": "2006-malvern-charles-summer-concert-weekend",
+  "title": "Malvern: Charles' Summer Concert Weekend",
+  "volume": "B",
+  "spread_range": ["B_0094", "B_0094"],
+  "diary_page_range": [94, 94],
+  "date_start": "2006-05-26",
+  "date_end": "2006-05-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malvern, Worcestershire, UK",
+      "original_wording": "Malvern",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0094_L",
+      "excerpt": "At 5.20. we set off to see Charles in the Malvern Summer Concert. Dreadful jams on the Motorway. We made it to the concert with 15 minutes to spare (7pm).",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0094_L",
+      "excerpt": "At 5.20. we set off to see Charles in the Malvern Summer Concert.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page B_0094_L begins with the end of a previous trip (Sunday section mentioning Nesscliff and camping shop near Wolverhampton); the Friday May 26th entry is the start of this trip"
+  ],
+  "summary": "Simon and Eve drove from Birmingham to Malvern on Friday 26 May 2006 to attend Charles's Summer Concert at Malvern College, navigating heavy motorway traffic and arriving with 15 minutes to spare. This appears to have been a same-day trip with no overnight stay recorded.",
+  "extraction_notes": "The page B_0094_L is a mixed page (mixed_start: true, mixed_end: true). The text before the 'Friday May 26th' heading (Sunday section mentioning Nesscliff, Wolverhampton camping shop) belongs to a preceding trip. Only the 'Friday May 26th' section belongs to this trip. No overnight stay is mentioned, so the trip is treated as a single-day excursion from home (the return to Birmingham is inferred as the natural end of a day trip with no camping described). The year 2006 is confirmed by the trip_id; 26 May 2006 was indeed a Friday. No traveller count beyond Simon is explicit in the Friday section (Eve is mentioned only in the Sunday section of the preceding trip's entry on this page); travellers listed as Simon and Eve by household convention for these short trips. Charles is the reason for the visit but was already at Malvern."
+}

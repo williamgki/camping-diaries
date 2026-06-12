@@ -1,0 +1,136 @@
+{
+  "trip_id": "1999-malvern-peter-s-concert-dinas-brecon",
+  "title": "Malvern (Peter's Concert) & Dinas/Brecon, Porthmadog",
+  "volume": "A",
+  "spread_range": ["A_0267", "A_0268"],
+  "diary_page_range": [267, 268],
+  "date_start": "1999-05-28",
+  "date_end": "1999-06-01",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malvern, Worcestershire",
+      "original_wording": "Malvern",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0267_R",
+      "excerpt": "Simon & John set off for Malvern. Charles & Eve came down in the [?Pants] for Peter's concert. Thomas traind from London. SEJC slept in the van outside No 7.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0267_R",
+      "excerpt": "T drove J + C home. After lunch WPSE drove home in the van. 4.45. All of us set off for [?Dinas].",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Family returned to Birmingham after Saturday morning events at Malvern before setting off together for the camping trip."
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Brecon, Wales",
+      "original_wording": "[?Brecon]",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0267_R",
+      "excerpt": "All of us set off for [?Dinas]. Heavy traffic. Rain on the way. [?Brecon] arrived 8.15.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Wales" },
+      "notes": "The diary names both '[?Dinas]' (uncertain reading) and '[?Brecon]' (arrival point). The title confirms 'Dinas/Brecon'. Campsite was nearby; Sunday narrative mentions hill excursions and valley walks consistent with Brecon Beacons area."
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Llanbedr, Gwynedd",
+      "original_wording": "Llanbdr",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0268_L",
+      "excerpt": "at 11.30. we left to put Thomas on the train at Llanbdr.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Wales" },
+      "notes": "Llanbdr is read as Llanbedr, Gwynedd, which has a railway station on the Cambrian Coast line and fits the northward route from Brecon to Porthmadog."
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Porthmadog, Gwynedd",
+      "original_wording": "Port Maddock",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0268_L",
+      "excerpt": "We collected circular slate from the slate factory at Port Maddock & had very slow fish",
+      "geocode_hint": { "countrycodes": "gb", "region": "Wales" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Return home is implied; the diary text is cut off after Porthmadog but the trip clearly ends at home."
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Walk over usual tracks in the valley",
+      "date_guess": "1999-05-31",
+      "stops": [
+        {
+          "normalized_name": "Brecon Beacons hills and valley (near campsite)",
+          "original_wording": "the usual tracks",
+          "confidence": 0.65,
+          "approximate": true,
+          "source_page_id": "A_0268_L",
+          "excerpt": "we set off to the south, over the usual tracks. But we missed a turning & Eve got cross climbing over a high, leaning dry stone wall. After lunch we came back the same way I like through the valley.",
+          "geocode_hint": { "countrycodes": "gb", "region": "Wales" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Dinas]",
+      "issue": "Uncertain reading in diary. Could be Dinas (near Brecon Beacons, Powys), Dinas Rock, or another 'Dinas' in Wales. The title 'Dinas/Brecon' confirms it is in that region but exact location is unclear. The arrival point is given as '[?Brecon]'.",
+      "source_page_id": "A_0267_R",
+      "excerpt": "All of us set off for [?Dinas]. Heavy traffic. Rain on the way. [?Brecon] arrived 8.15."
+    },
+    {
+      "original_wording": "[?Pants]",
+      "issue": "Unclear word in 'Charles & Eve came down in the [?Pants]' — likely a misread vehicle name or slang term for the family van or car. Does not affect route.",
+      "source_page_id": "A_0267_R",
+      "excerpt": "Charles & Eve came down in the [?Pants] for Peter's concert."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "flag": "mixed_end",
+      "note": "Page A_0268_L is marked boundary_mixed=true; the diary text cuts off mid-sentence at 'had very slow fish', indicating the trip continues onto a subsequent spread not captured in this bundle."
+    }
+  ],
+  "summary": "Over the late May bank holiday weekend 1999, the family gathered at Malvern for Peter's choir concert at the Priory and celebrations at the Winter Garden, sleeping in the van on Friday night. The whole family then drove to a campsite in the Brecon/Dinas area of Wales, spending Saturday to Monday there with hill walks and cricket, before heading north through Llanbedr and Porthmadog on the Tuesday.",
+  "extraction_notes": "The diary spans two pages only. Page A_0267_R covers Fri 28 May – Sun 30 May; page A_0268_L covers Mon 31 May – Tue 1 June but is cut off mid-sentence (boundary_mixed=true). The campsite location is uncertain: '[?Brecon]' is the arrival noted at 8:15, and '[?Dinas]' is the named destination — both are uncertain transcriptions. The title_guess 'Dinas/Brecon, Port Maddock/Portmeirion' mentions Portmeirion but the surviving diary text only confirms Porthmadog (Port Maddock); Portmeirion may appear on a missing continuation page. Thomas travelled back to London by train from Llanbedr on Tuesday and missed his violin lesson (left knapsack on train, stayed with Lizzie). 'Tonie' in the diary is the dog Tinder."
+}

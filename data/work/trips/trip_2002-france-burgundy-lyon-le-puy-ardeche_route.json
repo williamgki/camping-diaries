@@ -1,0 +1,409 @@
+{
+  "trip_id": "2002-france-burgundy-lyon-le-puy-ardeche",
+  "title": "France: Burgundy, Lyon, Le Puy, Cévennes & Ardèche canoeing",
+  "volume": "A",
+  "spread_range": ["A_0316", "A_0330"],
+  "diary_page_range": [86, 75],
+  "date_start": "2002-07-29",
+  "date_end": "2002-08-17",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter", "John", "Charles"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dover",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.65,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no outbound port named (diary mentions only 'the boat'). Return crossing is explicitly Calais-Dover, so Dover/Calais is used both ways.",
+      "source_page_id": "A_0316_R",
+      "excerpt": "Simon lost his glasses on the boat",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Vendeuil, France",
+      "original_wording": "Vendeuil",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0316_R",
+      "excerpt": "At 7.15. we arrived at Vendeuil south of St. Quentin. Hot, sweaty. We had a refreshing cold shower when we arrived.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Chaumard, France",
+      "original_wording": "Chaumard / Chaumont",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0316_R",
+      "excerpt": "We left after breakfast & arrived at 7.45. pm Chaumard. ... There is a large lake here & a hydro electric dam.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Cluny, France",
+      "original_wording": "Clung / Cluny",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0318_R",
+      "excerpt": "We approached Clung, + Eve was pleased to go. ... It was poorly sign-posted once we had paid for the tickets",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Anse, France",
+      "original_wording": "Las Portes des Beaujolais Anse",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0319_R",
+      "excerpt": "We reached Las Portes des Beaujolais Anse. The site was lovely, up on a bank near the river. ... flood control for the R. Saone.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Mont d'Or, Lyon, France",
+      "original_wording": "the Gras house in the Mont d'Or north of Lyons",
+      "role": "overnight_base",
+      "confidence": 0.88,
+      "approximate": true,
+      "source_page_id": "A_0319_R",
+      "excerpt": "At elevenses we arrived at the Gras house in the Mont d'Or north of Lyons. ... while Simon + Eve went sightseeing in Lyons.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Heyrieux, France",
+      "original_wording": "Heyrieux, Mas de la Foret",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0320_L",
+      "excerpt": "After tea in the carpark we left + had much trouble finding Heyrieux, Mas de la Foret",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Le Puy-en-Velay, France",
+      "original_wording": "Puy en Velay",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0321_R",
+      "excerpt": "We had a late lunch at Puy en Velay. Then we climbed up the amazing hill to the chapel. The 'hill' is really the plug of an old volcano",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Langogne, France",
+      "original_wording": "Terrasses du Lac ... Lacde Neus[?] at [?Langoues]",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0321_R",
+      "excerpt": "we drove on ... to campsite ... Terrasses du Lac ... Lacde Neus[?] at [?Langoues]. Lots of things to do, on the side of a hill",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Mende, France",
+      "original_wording": "Mende ... Le Jardin de Tivoli",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0322_L",
+      "excerpt": "We shopped at Mende & then found the campsite Le Jardin de Tivoli. ... We walked up into Mende in the evening & went to the market.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "La Couvertoirade, France",
+      "original_wording": "La Couvertoirade",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0323_R",
+      "excerpt": "drove on to La Couvertoirade. A wall was built around it by the Knights of St. John who took over from the Templars in 1450.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Cirque de Navacelles, France",
+      "original_wording": "Cirque de [?Navacolles]",
+      "role": "main_stop",
+      "confidence": 0.82,
+      "approximate": false,
+      "source_page_id": "A_0323_R",
+      "excerpt": "We drove on to Cirque de [?Navacolles]. ... There was an amazing view from the ridge.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Madières, France",
+      "original_wording": "Madières",
+      "role": "transit_stop",
+      "confidence": 0.78,
+      "approximate": false,
+      "source_page_id": "A_0323_R",
+      "excerpt": "We went alongside the canal taking water to the power station at Madières. It was like a Madeira Levada.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Ganges, France",
+      "original_wording": "beyond Ganges 5 k south",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0323_R",
+      "excerpt": "We drove on + on to beyond Ganges 5 k south, near a river. 2 campsites have been full, but we have been allowed to spend the night outside the site",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Saint-Bauzille-de-Putois, France",
+      "original_wording": "St. Bazille de Puton",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0324_L",
+      "excerpt": "we found an unlisted one [?la te[?] R. [?Hérault]] which would have us for one night. ... We drove to local village ... St. Bazille de Puton",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Nîmes, France",
+      "original_wording": "Nimes ... campsite Bastide",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0324_R",
+      "excerpt": "We found a campsite Bastide a 30 min bus ride outside Nimes. Having set up the tent we bussed into the city + had lunch.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Vallon-Pont-d'Arc, Ardèche, France",
+      "original_wording": "our old camp site at the [?Ardèche] ... Raymond ... Gournier",
+      "role": "overnight_base",
+      "confidence": 0.82,
+      "approximate": true,
+      "source_page_id": "A_0327_L",
+      "excerpt": "We arrived at our old camp site at the [?Ardèche] only to find it was full ... up the slope we found Raymond. ... We paid for the boats & to stay overnight ... Gournier.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Saint-Martin-d'Ardèche, France",
+      "original_wording": "S. Martin / St. Martin",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0327_L",
+      "excerpt": "We paddled all day, slept at Gournier, & paddled on to S. Martin & arrived at 1.30 pm.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Tain-l'Hermitage, France",
+      "original_wording": "Tain l'Hermitage ... Luc campsite",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0329_L",
+      "excerpt": "we drove north up the Rhône beyond Valence to Tain l'Hermitage. We camped at Luc campsite, between a busy road & r. Rhône.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Saint-Jean-de-Vaux, France",
+      "original_wording": "St. Jean de Vaux",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0329_R",
+      "excerpt": "We arrived at St. Jean de Vaux at about 5. The swimming pool is fed from a spring & cold, but clean & chlorine-free.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Lumbres, France",
+      "original_wording": "Lumbres",
+      "role": "overnight_base",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "A_0330_R",
+      "excerpt": "We drove north for hours and hours, having lunch & tea on [?fires]. We have arrived at Lumbres. We had herring for supper.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Calais",
+      "original_wording": "Calais",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0330_R",
+      "excerpt": "We set off about 9.15 for the 11.00 Calais-Dover ferry. In fact we caught the 10.15 ferry & crossed in warm sunshine.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Dover",
+      "original_wording": "Dover",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0330_R",
+      "excerpt": "We set off about 9.15 for the 11.00 Calais-Dover ferry. In fact we caught the 10.15 ferry & crossed in warm sunshine.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0330_R",
+      "excerpt": "At 1.15 we reached Jane [?Portal] in her flat. We had lunch with her & Rosie.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "A_0316_R",
+      "excerpt": "Simon lost his glasses on the boat"
+    },
+    {
+      "after_seq": 23,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0330_R",
+      "excerpt": "We set off about 9.15 for the 11.00 Calais-Dover ferry. In fact we caught the 10.15 ferry & crossed in warm sunshine."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 7,
+      "label": "Sightseeing in Lyon while the boys did an exchange with Rafael + Victor",
+      "date_guess": "2002-08-02",
+      "stops": [
+        {
+          "normalized_name": "Lyon, France",
+          "original_wording": "Lyons ... Musée des Beaux Arts",
+          "confidence": 0.9,
+          "source_page_id": "A_0319_R",
+          "excerpt": "Simon + Eve went sightseeing in Lyons. We saw the Musée des Beaux Arts, which had been closed for 8 years",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Lumière Museum, then night drive to Lyon airport to collect Peter",
+      "date_guess": "2002-08-03",
+      "stops": [
+        {
+          "normalized_name": "Musée Lumière, Lyon, France",
+          "original_wording": "Lumieres Museum",
+          "confidence": 0.85,
+          "source_page_id": "A_0320_L",
+          "excerpt": "went to the Lumieres Museum + learned about early cinematography. Old silent French movies. 1895.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Lyon-Saint-Exupéry Airport, France",
+          "original_wording": "Lyons airport",
+          "confidence": 0.85,
+          "source_page_id": "A_0320_L",
+          "excerpt": "at 9.30pm we left off for Lyons airport to meet Peter.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 17,
+      "label": "Pont du Gard (Roman aqueduct)",
+      "date_guess": "2002-08-11",
+      "stops": [
+        {
+          "normalized_name": "Pont du Gard, France",
+          "original_wording": "Pont du Gard",
+          "confidence": 0.9,
+          "source_page_id": "A_0326_L",
+          "excerpt": "In the afternoon we walked up to the Pont du Gard, which is spectacular.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 21,
+      "label": "Wine tasting at the local wine villages",
+      "date_guess": "2002-08-15",
+      "stops": [
+        {
+          "normalized_name": "Chaumont, Saône-et-Loire, France",
+          "original_wording": "Chaumont",
+          "confidence": 0.6,
+          "source_page_id": "A_0329_R",
+          "excerpt": "All of us went wine tasting at Chaumont, where we bought red wine, & Isaiah, where we bought white.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Isaiah",
+      "issue": "Wine village/cellar near Saint-Jean-de-Vaux where they bought white wine; not identifiable as a place name (likely a phonetic spelling of a local hamlet or wine domaine). Kept as a wine-tasting excursion mention, not located.",
+      "source_page_id": "A_0329_R",
+      "excerpt": "Chaumont, where we bought red wine, & Isaiah, where we bought white. We borrowed a trolley, un diable, from Isaiah"
+    },
+    {
+      "original_wording": "Vaiserelle",
+      "issue": "Hamlet/farm passed on the walk in the hills above Mende; spelling uncertain and not located. Mentioned only as a walking landmark, not a stop.",
+      "source_page_id": "A_0323_L",
+      "excerpt": "It was a beautiful walk past farm houses, near Vaiserelle."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0316_L",
+      "issue": "Page opens mid-narrative on the END of a previous trip (Thorpeness, Suffolk) and a one-day picnic outing to Clent on Sunday July 7th. This France trip begins at the 'Monday July 29th' heading: 'Two days after arriving back from Thorperness we have left for France.' Earlier content excluded."
+    },
+    {
+      "page_id": "A_0330_R",
+      "issue": "Page contains the END of this trip (Saturday August 17th Calais-Dover crossing, arrival at Jane's flat) and likely runs into following content. Trip ends with the homeward ferry on 17 Aug 2002."
+    }
+  ],
+  "summary": "A summer 2002 family camping holiday through central and southern France. Simon, Eve, John and Charles drove out via Vendeuil and the Morvan (Lac de Pannesière at Chaumard), through Burgundy (Cluny, Anse) to the Monts d'Or north of Lyon, where they met the Gras family and toured Lyon before collecting Peter (back from South America) at Lyon airport. They continued to Le Puy-en-Velay, Lac de Naussac (Langogne) and Mende (camping with David's family), explored the Causses (La Couvertoirade, Cirque de Navacelles) and the Hérault valley around Ganges and Nîmes (Pont du Gard, Maison Carrée), then canoed the Ardèche gorges from Pont d'Arc via Gournier to Saint-Martin-d'Ardèche. They worked north up the Rhône/Saône (Tain-l'Hermitage, Saint-Jean-de-Vaux wine villages) and home via Lumbres and the Calais-Dover ferry on 17 August.",
+  "extraction_notes": "Travellers: Simon, Eve, John, Charles drove out from the start; Peter flew to Lyon and joined Saturday 3 Aug (collected at Lyon airport). Thomas was house-sitting at home and William was in South America (later returned early) — neither travelled, so both excluded from travellers. Tinder the dog not mentioned. Date range: trip starts Mon 29 Jul 2002 (explicit 'Monday July 29th... we have left for France'); ends Sat 17 Aug 2002 (explicit 'Saturday August 17th' Calais-Dover ferry). Several iso dates in pages confirm the Jul/Aug 2002 window (31-07-2002, Thursday 2002-08-01, Thursday August 8). SKETCH IMAGES: per evidence-hierarchy rule 1 I examined all three sketch pages. A_0322_R is a landmark drawing (13th-c. bridge at Mende), A_0324_R is a landmark drawing (old house across the R. Hérault) with only a tiny illegible coastline doodle, and A_0330_L is a rough orientation outline-map of France with three reference dots labelled P (Paris), CF (Clermont-Ferrand) and L (Lyon) — none is a numbered/ordered route sketch, so none re-orders the journey; the main route follows the dated travel narrative. Page no. 86 on A_0316_R is a stray/old page number; subsequent right pages renumber 62-75, so diary_page_range uses those (86 start marker, 75 end). Chaumard campsite is also written 'Chaumont' in a caption (A_0317_L) — same Morvan lakeside site, normalized to Chaumard, Nièvre. The Ardèche canoe base ('our old camp site', Raymond/Gournier) is near Vallon-Pont-d'Arc (the launch was Pont d'Arc); recorded as one overnight_base (approximate) since the canoe trip itself ran Pont d'Arc -> Gournier bivouac -> Saint-Martin-d'Ardèche (the latter kept as a main_stop arrival). Lyon airport and Lyon sightseeing are out-and-back excursions from the Mont d'Or / Heyrieux bases, not separate overnight bases. Wine villages Chaumont (Saône-et-Loire, near Saint-Jean-de-Vaux) and 'Isaiah' are an excursion; 'Isaiah' could not be located and is flagged. Outbound Channel crossing port not named (only 'the boat'); inferred Dover-Calais and consistent with the explicit Calais-Dover return."
+}

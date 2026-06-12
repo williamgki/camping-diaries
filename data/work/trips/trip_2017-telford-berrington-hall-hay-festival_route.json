@@ -1,0 +1,111 @@
+{
+  "trip_id": "2017-telford-berrington-hall-hay-festival",
+  "title": "Telford, Berrington Hall & Hay Festival",
+  "volume": "B",
+  "spread_range": ["B_0291", "B_0292"],
+  "diary_page_range": [291, 292],
+  "date_start": "2017-06-02",
+  "date_end": "2017-06-03",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Conrad", "Eleni", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Telford, Shropshire, UK",
+      "original_wording": "Telford",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0291_L",
+      "excerpt": "8.45. Conrad, Eleni, Tinder, Simon & I set off for Telford where Simon met with Chris Sparks to discuss conveyor belts with [?Tamer] for the hop barn for 1½ hours.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Berrington Hall, Leominster, UK",
+      "original_wording": "Berrington Hall NT",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0291_L",
+      "excerpt": "On to Berrington Hall NT while we napped.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Hay-on-Wye, Powys, UK",
+      "original_wording": "house Peter has rented for Hay festival w/end",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0291_R",
+      "excerpt": "On to the house Peter has rented for Hay festival w/end. It sleeps 5. Charles & Jenny, John & Kay came",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "trip ends at home by default; return not narrated due to mixed_end boundary",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Hay Book Festival and evening concert",
+      "date_guess": "2017-06-03",
+      "stops": [
+        {
+          "normalized_name": "Hay Festival, Hay-on-Wye, UK",
+          "original_wording": "Hay Book festival (30 years)",
+          "confidence": 0.95,
+          "source_page_id": "B_0291_R",
+          "excerpt": "Peter & Simon & Eve set off for the Hay Book festival (30 years) & parked in a field (£3). We wandered in the",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "St Mary's Church, Hay-on-Wye, UK",
+          "original_wording": "St. Mary's church",
+          "confidence": 0.85,
+          "source_page_id": "B_0292_L",
+          "excerpt": "at 11 pm went to St. Mary's church for a candlelit concert. We had to stand outside rather too long but were rewarded by impressive and sensitive cello playing interspersed with poetry.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Tamer]",
+      "issue": "Unclear personal name or place name associated with Simon's business meeting in Telford; likely a person's name, not a place.",
+      "source_page_id": "B_0291_L",
+      "excerpt": "Simon met with Chris Sparks to discuss conveyor belts with [?Tamer] for the hop barn for 1½ hours."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: B_0291_L opens with the end of a previous trip (tunnel crossing return, Frenchay Rd, Westfield Rd); the 2017 trip content begins at the 'June 2nd Friday' heading mid-page.",
+    "mixed_end: B_0292_L ends mid-narrative during the Hay Festival Saturday; return to Birmingham is not recorded."
+  ],
+  "summary": "A weekend trip from Birmingham on June 2nd 2017, stopping at Telford for a business meeting before visiting Berrington Hall NT and continuing to a rented house near Hay-on-Wye for the Hay Book Festival's 30th anniversary. On the Saturday the family attended festival talks and ended the day with a late-night candlelit cello concert at St Mary's Church.",
+  "extraction_notes": "The diary pages have mixed_start and mixed_end flags: the opening lines of B_0291_L belong to the preceding trip returning from abroad (mentions tunnel crossing, Frenchay Rd address of Charles, Westfield Rd). The 2017 trip starts at the 'June 2nd Friday' heading. The end of the trip is not narrated; return to Birmingham is inferred by default. Travellers Conrad and Eleni are likely grandchildren (children of one of the sons). Peter, Charles, Jenny, John, and Kay joined at the Hay base but did not travel from Birmingham with the main party. The overnight location is described only as a rented house (sleeps 5) near Hay; the van party slept in a nearby farmer's field. Date end is estimated as June 3rd (Saturday) based on diary content; the trip may have continued into Sunday but this is not evidenced."
+}

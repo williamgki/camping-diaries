@@ -1,0 +1,107 @@
+{
+  "trip_id": "1989-stokesay-castle-shropshire-last-trip-of",
+  "title": "Stokesay Castle, Shropshire (last trip of the year)",
+  "volume": "A",
+  "spread_range": ["A_0010", "A_0011"],
+  "diary_page_range": [15, 16],
+  "date_start": "1989-10-28",
+  "date_end": "1989-10-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Astley Abbots, Shropshire, UK",
+      "original_wording": "Astley Abbots",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0010_R",
+      "excerpt": "We visited Natalie Hodgson at Astley Abbots on the way but she was out.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Stokesay Castle, Craven Arms, Shropshire, UK",
+      "original_wording": "Stokesay Castle",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0010_R",
+      "excerpt": "Stokesay castle is a (13) fortified Manor House. It's very pretty, even in the rain. Lovely stonework, round rooms similar to Orford Castle, built by a woolmerchant",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Hamperley, Shropshire, UK",
+      "original_wording": "Hamperley",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0011_L",
+      "excerpt": "Arrived at Hamperley campsite ****\nLovely big flat field, wood along one side.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Ludlow Castle, Ludlow, UK",
+      "original_wording": "Ludlow Castle",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0011_L",
+      "excerpt": "In the morning we visited Ludlow Castle. The boys waved from the battlements.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Ludlow, Shropshire, UK",
+      "original_wording": "Ludlow",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0011_L",
+      "excerpt": "We walked around [?Ludlow].",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "B'ham",
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0011_L",
+      "excerpt": "Very useful because only 1¼ hours from B'ham.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[?Tomislen]",
+      "issue": "Final word illegible; location or name unclear — possibly a pub, place, or person",
+      "source_page_id": "A_0011_L",
+      "excerpt": "The year finished with a [illegible] at [?Tomislen]."
+    }
+  ],
+  "boundary_flags": [
+    "A_0010_R top section (Chipping Camden, Robert Welch's workshop) is boundary_mixed and belongs to a prior trip — excluded from this trip's route.",
+    "A_0011_L is boundary_mixed; lower content (Ludlow Castle visit, return home) belongs to this trip."
+  ],
+  "summary": "A one-night autumn trip to Shropshire on 28–29 October 1989, billed as the last camping trip of the year. The family drove from Birmingham via Astley Abbots (calling on Natalie Hodgson, who was out) to visit Stokesay Castle in the rain, then stayed overnight at Hamperley campsite. The following morning they visited Ludlow Castle before returning home.",
+  "extraction_notes": "The top of page A_0010_R is boundary_mixed and describes a separate outing including a stop at Robert Welch's workshop in Chipping Camden 'on the way home' — this is from a different trip and has been excluded. The trip is entirely within England; no crossings. '[?Tomislen]' at the end of A_0011_L is illegible and unresolved. Ludlow is listed separately from Ludlow Castle as the diary says they 'walked around' the town after the castle visit. The campsite at Hamperley appears to be a small farm/field campsite near Bridgnorth; rated very highly by the diarist (****) and noted as only 1¼ hours from Birmingham."
+}

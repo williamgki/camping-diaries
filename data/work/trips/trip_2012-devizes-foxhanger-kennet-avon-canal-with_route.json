@@ -1,0 +1,117 @@
+{
+  "trip_id": "2012-devizes-foxhanger-kennet-avon-canal-with",
+  "title": "Devizes & Foxhanger (Kennet & Avon Canal) with Charles, Jenny & John",
+  "volume": "B",
+  "spread_range": ["B_0210", "B_0211"],
+  "diary_page_range": [null, null],
+  "date_start": "2012-09-28",
+  "date_end": "2012-09-30",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder", "Charles", "Jenny", "John"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Foxhangers Canal Holidays, Devizes, UK",
+      "original_wording": "Foxhangar",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0210_L",
+      "excerpt": "We're at Foxhangar where in the 70's, as the canal was being repaired, a farm diversified into camp site & large marina. Lovely big open spaces.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Devizes, Wiltshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Weekend trip; return home after Sunday implied by trip structure",
+      "source_page_id": "B_0211_L",
+      "excerpt": "Sunday ... After breakfast we cycled 6½ miles towards Bradford, but there was a head wind so we didn't get there - We turned back.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday: cycle to Devizes and back via the locks",
+      "date_guess": "2012-09-29",
+      "stops": [
+        {
+          "normalized_name": "Caen Hill Locks, Devizes, UK",
+          "original_wording": "an enormous flight of locks 1796-1810",
+          "confidence": 0.95,
+          "source_page_id": "B_0210_L",
+          "excerpt": "With Tinder on a harness we cycled up an enormous flight of locks 1796-1810. to Devizes & looked around the town.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Devizes, Wiltshire, UK",
+          "original_wording": "Devizes",
+          "confidence": 1.0,
+          "source_page_id": "B_0210_L",
+          "excerpt": "cycled up an enormous flight of locks 1796-1810. to Devizes & looked around the town. Nice, Georgian, shabby Cheltenham. We had coffee & cycled back to the van.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Saturday evening: supper at The Bear, Devizes",
+      "date_guess": "2012-09-29",
+      "stops": [
+        {
+          "normalized_name": "The Bear Hotel, Devizes, UK",
+          "original_wording": "the Bear",
+          "confidence": 0.85,
+          "source_page_id": "B_0211_L",
+          "excerpt": "We had booked supper at the Bear for 7.30.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sunday: cycle towards Bradford-on-Avon and back",
+      "date_guess": "2012-09-30",
+      "stops": [
+        {
+          "normalized_name": "Bradford-on-Avon, Wiltshire, UK",
+          "original_wording": "Bradford",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "B_0211_L",
+          "excerpt": "After breakfast we cycled 6½ miles towards Bradford, but there was a head wind so we didn't get there - We turned back.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Denies]",
+      "issue": "Transcription uncertainty; almost certainly 'Devizes' — 'I cycled the 11k to [?Denies] & back' refers to Eve cycling the ~11km to Devizes along the canal towpath",
+      "source_page_id": "B_0211_L",
+      "excerpt": "I cycled the 11k to [?Denies] & back but Simon didn't need to cycle."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A long weekend camping trip to Foxhanger (Foxhangers) campsite on the Kennet & Avon Canal near Devizes, Wiltshire, with friends Charles and Jenny and son John joining on the Saturday. The family cycled the famous Caen Hill flight of locks into Devizes, had supper at The Bear hotel, and on Sunday cycled 6.5 miles along the towpath towards Bradford-on-Avon before a headwind turned them back.",
+  "extraction_notes": "The diary page B_0210_L begins mid-sentence from a previous trip entry (sheep/horse incident); the new trip starts clearly with 'Friday September 28th'. 'Foxhangar' is Foxhangers Canal Holidays at Devizes Wharf/All Cannings. The '[?Denies]' in B_0211_L is almost certainly a transcription error for 'Devizes'. 'Iddea' mentioned in the text is a wind turbine company (not a place visited). The Bear is The Bear Hotel in Devizes market place. Bradford is clearly Bradford-on-Avon on the K&A Canal, ~6.5 miles from the campsite. No page numbers are available for the left-hand pages. Date_end is estimated as 2012-09-30 (Sunday) — the diary ends mid-Sunday activity with no Monday entry."
+}

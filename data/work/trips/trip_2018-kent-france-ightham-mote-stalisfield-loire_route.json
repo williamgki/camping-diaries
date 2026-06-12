@@ -1,0 +1,433 @@
+{
+  "trip_id": "2018-kent-france-ightham-mote-stalisfield-loire",
+  "title": "Kent & France: Ightham Mote, Stalisfield & the Loire to the Rhône",
+  "volume": "B",
+  "spread_range": ["B_0305", "B_0312"],
+  "diary_page_range": [null, null],
+  "date_start": "2018-05-03",
+  "date_end": "2018-05-20",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Cobham services, Kent, UK",
+      "original_wording": "Cobham services",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0305_L",
+      "excerpt": "Lunch in the van at Cobham services + on to Ightham Mote.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Ightham Mote, Kent, UK",
+      "original_wording": "Ightham Mote",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0305_L",
+      "excerpt": "on to Ightham Mote. Lovely [C4] house. Beautiful linen fold panelling... Well worth a visit.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Stalisfield Green, Kent, UK",
+      "original_wording": "Plough Inn Stalisfield",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0305_L",
+      "excerpt": "On to the Plough Inn Stalisfield, where Simon has already booked supper. They have put us in the fireplace again.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Folkestone (Eurotunnel), UK",
+      "original_wording": "the Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "inference_reason": "diary names the Channel Tunnel / Eurotunnel shuttle ('the Tunnel', 'next train')",
+      "source_page_id": "B_0306_L",
+      "excerpt": "We got to the Tunnel an hour early & they put us onto the next train - ahead of the Bank Holiday weekend.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Étaples, France",
+      "original_wording": "Etaples",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0306_L",
+      "excerpt": "We drove past Etaples + Rouen + are camping beyond Dreux at a Municipal Park at St. Remysur l'Avre.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Rouen, France",
+      "original_wording": "Rouen",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0306_L",
+      "excerpt": "We drove past Etaples + Rouen + are camping beyond Dreux at a Municipal Park at St. Remysur l'Avre.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Saint-Rémy-sur-Avre, France",
+      "original_wording": "St. Remysur l'Avre",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0306_L",
+      "excerpt": "are camping beyond Dreux at a Municipal Park at St. Remysur l'Avre. The river splits in 2 in the town.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Dreux, France",
+      "original_wording": "Dreux",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0306_R",
+      "excerpt": "We shopped in Dreux + lunched overlooking R. le [?lour] a few kilometres north of Chateaudun.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Châteaudun, France",
+      "original_wording": "Chateaudun",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0306_R",
+      "excerpt": "lunched overlooking R. le [?lour] a few kilometres north of Chateaudun.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Beaugency, France",
+      "original_wording": "Beaugency",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0306_R",
+      "excerpt": "We've camped at le [?Floe] at Beaugency. lots of watermills, broad river. Old bridges.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Treignac, France",
+      "original_wording": "Treignac",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0307_L",
+      "excerpt": "We're off to see David... We reached David a bit later than planned. It was lovely to have a bit of the house & garden.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Meymac, France",
+      "original_wording": "Meymac",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0308_L",
+      "excerpt": "We left at 9.30 & came south, as directed by David, through Meymac, Bort, Riom, Florenc.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Bort-les-Orgues, France",
+      "original_wording": "Bort",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0308_L",
+      "excerpt": "came south, as directed by David, through Meymac, Bort, Riom, Florenc.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Riom-ès-Montagnes, France",
+      "original_wording": "Riom",
+      "role": "transit_stop",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "B_0308_L",
+      "excerpt": "came south, as directed by David, through Meymac, Bort, Riom, Florenc.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Brissac, Hérault, France",
+      "original_wording": "camping d'Anglas near Brossac",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0308_L",
+      "excerpt": "We are in camping d'Anglas near Brossac. A beautiful meadow with the sound of a river.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Saint-Hippolyte-du-Fort, France",
+      "original_wording": "St. Hyppolyte du Fauve",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0309_R",
+      "excerpt": "got to the Silk Museum at St. Hyppolyte du Fauve. It was fascinating & very interesting.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Tournon-sur-Rhône, France",
+      "original_wording": "Tournon",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0309_R",
+      "excerpt": "are now in slow-moving traffic to our hotel at Tournon... The hotel room was nice. It looked onto the Rhône.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Lyon, France",
+      "original_wording": "Lyons",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0310_L",
+      "excerpt": "we motor-wayed to Lyons & spent an hour trying to find a parking place without Success. There's a rail strike...",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Tournus, France",
+      "original_wording": "Tournous",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0310_R",
+      "excerpt": "Tournous, an important Mediaeval Monastery town... A really good meal in our hotel de la Paix.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Saint-Jean-de-Vaux, France",
+      "original_wording": "St. Jean de Vaux",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0310_R",
+      "excerpt": "We're now at St. Jean de Vaux. The sun is shining, although there might be thunder.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Château-Thierry, France",
+      "original_wording": "Port mirail (municipal park), near Châton-Thierry",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0311_L",
+      "excerpt": "We have camped at [?Port mirail] in the municipal park. Near the sports field... We ended up having a good meal at le Grand Condé.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Coquelles (Eurotunnel), France",
+      "original_wording": "Channel Train",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "inference_reason": "diary names the Channel Tunnel shuttle ('an earlier Channel Train') for the return crossing",
+      "source_page_id": "B_0311_L",
+      "excerpt": "we reached an earlier Channel Train with time to spare.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Stalisfield Green, Kent, UK",
+      "original_wording": "Roksell Farm",
+      "role": "main_stop",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0311_L",
+      "excerpt": "We reached Roksell Farm & William joined us for lunch. We spent a couple of hours looking at [?stuff] hop picking machines.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Stalisfield Green, Kent, UK",
+      "original_wording": "Plough campsite in Stalisfield",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0311_L",
+      "excerpt": "We decided to come back to the Plough campsite again in Stalisfield. — A good evening. Another good supper.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Canterbury, Kent, UK",
+      "original_wording": "Canterbury",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0311_R",
+      "excerpt": "Off to Canterbury. 597 Augustine arrived... 1170 Thomas à Becket murdered. Lovely window of Adam Delving. We liked the undercroft.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 27,
+      "normalized_name": "London, UK",
+      "original_wording": "Peter's house",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "B_0312_L",
+      "excerpt": "John & Kay were at Peter's house for tea... Nana took Simon to an Indian concert.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 28,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 5,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0306_L",
+      "excerpt": "We got to the Tunnel an hour early & they put us onto the next train - ahead of the Bank Holiday weekend."
+    },
+    {
+      "after_seq": 23,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0311_L",
+      "excerpt": "we reached an earlier Channel Train with time to spare."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 11,
+      "label": "Bike ride to Meung-sur-Loire",
+      "date_guess": "2018-05-06",
+      "stops": [
+        {
+          "normalized_name": "Meung-sur-Loire, France",
+          "original_wording": "Meung",
+          "confidence": 0.85,
+          "source_page_id": "B_0306_R",
+          "excerpt": "An 11 mile bike ride to Meung. lovely bike track... A market in Meung + beatiful Romanesque door outside church... Back to Beaugency.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 16,
+      "label": "Grotte des Demoiselles & Ganges",
+      "date_guess": "2018-05-11",
+      "stops": [
+        {
+          "normalized_name": "Grotte des Demoiselles, Saint-Bauzille-de-Putois, France",
+          "original_wording": "Grotte dos-demoisell[?es]",
+          "confidence": 0.8,
+          "source_page_id": "B_0308_L",
+          "excerpt": "We saw those amazing caves - Grotte dos-demoisell[?es] Millions of years old.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Ganges, France",
+          "original_wording": "Ganges",
+          "confidence": 0.8,
+          "source_page_id": "B_0308_L",
+          "excerpt": "Just after lunch at Ganges David Fellowes rang to say Ols has died.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 16,
+      "label": "Walk to Brissac & lunch at L'Arboussède",
+      "date_guess": "2018-05-12",
+      "stops": [
+        {
+          "normalized_name": "Brissac, Hérault, France",
+          "original_wording": "Brossac",
+          "confidence": 0.75,
+          "source_page_id": "B_0309_L",
+          "excerpt": "We walked along paths to Brossac. The castle looks beautifully built... We had lunch at L'Arboussede.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Port mirail]",
+      "issue": "Municipal campsite name uncertain; placed near Château-Thierry (Aisne) on the basis of the same-day meal at 'le Grand Condé' and the note about driving near Châton-Thierry. Could not confirm the exact village.",
+      "source_page_id": "B_0311_L",
+      "excerpt": "We have camped at [?Port mirail] in the municipal park. Near the sports field."
+    },
+    {
+      "original_wording": "Florenc",
+      "issue": "Place on the southbound leg from Treignac uncertain; likely a small Massif Central village/hamlet but not confidently geocodable, so excluded from the main route.",
+      "source_page_id": "B_0308_L",
+      "excerpt": "came south, as directed by David, through Meymac, Bort, Riom, Florenc."
+    },
+    {
+      "original_wording": "St. [?Catherine] Iss....",
+      "issue": "Church (and 'old bridge') stopped at on the Sunday drive toward the Silk Museum; place name illegible and not geocodable.",
+      "source_page_id": "B_0309_L",
+      "excerpt": "We stopped to look at an old bridge ([?2]) & church - St. [?Catherine] Iss...."
+    },
+    {
+      "original_wording": "[?Bonneil] village, near Châton-Thierry",
+      "issue": "Village passed on the wrong-turn drive north; mentioned in passing, not a deliberate stop. Likely Bonneil (Aisne) near Château-Thierry.",
+      "source_page_id": "B_0311_L",
+      "excerpt": "We went the wrong way north & ended up driving on a beautiful road, past [?Bonneil] village... near Châton-Thierry."
+    }
+  ],
+  "boundary_flags": [
+    "B_0305_L opens with a 'Sunday' (2018-04-29) entry about St. Fagan's museum that belongs to an earlier outing, not this trip. The trip proper begins at the 'Thursday May 3rd' heading on the same page.",
+    "B_0312_R is contaminating tail content from a DIFFERENT, earlier trip (dated 'May 22nd' / iso 1997, page no. 712; mentions Princess Di's dress for the BBC, talks on the Bhagavad Gita in Central London). It was NOT used for any stop on this 2018 trip."
+  ],
+  "summary": "In May 2018 Simon and Eve took the camper van from Birmingham down through Kent (Ightham Mote, an overnight at the Plough Inn, Stalisfield) and across via the Channel Tunnel to France. They worked south through the Loire (St-Rémy-sur-Avre, Beaugency) to visit David near Treignac, then on to the Cévennes/Hérault (Brissac, the Silk Museum at Saint-Hippolyte-du-Fort) and up the Rhône and Saône (Tournon, Tournus, Saint-Jean-de-Vaux). They returned via a municipal campsite near Château-Thierry and the tunnel, ending with the Plough at Stalisfield and Canterbury before heading home.",
+  "extraction_notes": "Travellers are only Simon and Eve (the children's dog Tinder was dropped at kennels; the sons/wider family appear as people met along the way - David & Helen at Treignac, John & Kay in the Caterham who crossed separately at St Malo, William joining for lunch at Roksell Farm, Peter/Nana in London). The whole journey is overland: outbound and return crossings are both the Eurotunnel shuttle (folkestone-coquelles), explicitly named ('the Tunnel'/'Channel Train'), NOT a Dover-Calais ferry. Date_start 2018-05-03 is firm ('Thursday May 3rd'); date_end 2018-05-20 is approximate (the diary references the May 2018 royal wedding they expected to miss and a London weekend at the end). Treignac and Brissac were multi-night bases. The Brissac base is the camping d'Anglas (Domaine d'Anglas, Brissac, Hérault) - the diary's 'Brossac', 'R. Hepault'/'R. Hérault' and 'caves of the Madelons' all point to this Hérault gorge location near Ganges and the Grotte des Demoiselles. St Malo is only mentioned as where John & Kay would cross, so it is NOT a crossing terminal for this party. The London/Peter's house overnight (seq 27) is low-confidence: the diary describes others at Peter's house and Nana taking Simon to a concert, implying the party paused in London before driving home."
+}

@@ -1,0 +1,99 @@
+{
+  "trip_id": "2013-surrey-rudgwick-riverside-farm-mylo-ruby",
+  "title": "Surrey: Rudgwick Riverside Farm (Mylo Ruby's christening, Woking)",
+  "volume": "B",
+  "spread_range": ["B_0226", "B_0227"],
+  "diary_page_range": [null, null],
+  "date_start": "2013-10-18",
+  "date_end": "2013-10-20",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Datchet, Berkshire, UK",
+      "original_wording": "Datchett",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0226_L",
+      "excerpt": "we spent hours in a traffic jam on the way to a Datchett petrol station",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Rudgwick Riverside Farm, Surrey, UK",
+      "original_wording": "Rudgwick Riverside Farm",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0226_L",
+      "excerpt": "We left for south of Guilford, Rudgwick Riverside Farm **** We have come down for Mylo Ruby's christening at Church of the Good Shepherd near Woking. We arrived at 8pm.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Rudgwick, West Sussex" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Church of the Good Shepherd, Pyrford, Surrey, UK",
+      "original_wording": "Church of the Good Shepherd near Woking",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0227_R",
+      "excerpt": "We set off at 8.45. + got to the Church of the Good Shepherd outside Woking at 9.35. for the 10 o'clock christening.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Woking, Surrey" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0227_R",
+      "excerpt": "We left at 2 + got home at 4.45.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Downs Link bike ride to Cranleigh and back",
+      "date_guess": "2013-10-19",
+      "stops": [
+        {
+          "normalized_name": "Downs Link path, near Rudgwick, Surrey, UK",
+          "original_wording": "Downs Link bike path",
+          "confidence": 0.95,
+          "source_page_id": "B_0226_L",
+          "excerpt": "We set off at 10 south on the [~~Thames~~] Downs Link bike path, right next to the campsite. We went for [?a] mile to see the bridge [=] which is the Downs Link symbol.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Rudgwick, West Sussex" }
+        },
+        {
+          "normalized_name": "Cranleigh, Surrey, UK",
+          "original_wording": "Cranleigh",
+          "confidence": 0.95,
+          "source_page_id": "B_0227_L",
+          "excerpt": "We reached Cranleigh + it was raining. The 6 Horseshoe Pub allowed Tinder in, but there was no food because the publican's wife was in Labour",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": ["mixed_start", "mixed_end"],
+  "summary": "A short three-day autumn weekend trip (18–20 October 2013) from Birmingham to Rudgwick Riverside Farm in Surrey, made to attend the christening of Mylo Ruby at the Church of the Good Shepherd near Woking. The Saturday was spent on a 13-mile bike ride along the Downs Link path to Cranleigh, notable for autumn colours and Tinder the dog's dramatic fall into a muddy stream.",
+  "extraction_notes": "Pages B_0226 and B_0227 are boundary pages (mixed_start, mixed_end); the preceding content on B_0226_L belongs to a different trip. Dates reconstruct clearly: 'October 18th Friday' confirms 2013-10-18. The 'William Kirbys' mentioned at the christening is a different family unit, not the travelling party. Travellers on this trip are Simon and Eve (narrator writes in first person plural); Tinder the dog is present. No ferry or international travel involved."
+}

@@ -1,0 +1,417 @@
+{
+  "trip_id": "1992-france-1992-loire-perigord-pont-audemer",
+  "title": "France 1992: Loire, Périgord & Conques",
+  "volume": "A",
+  "spread_range": ["A_0062", "A_0075"],
+  "diary_page_range": [121, 134],
+  "date_start": "1992-07-18",
+  "date_end": "1992-08-08",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Lichfield, UK",
+      "original_wording": "Lichfield",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "A_0062_R",
+      "excerpt": "We stopped in at a camping stop near Lichfield. There were several electric power stations on the River Trent",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Portsmouth, UK",
+      "original_wording": "Portsmouth",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0062_R",
+      "excerpt": "We all left at 9.30. for Portsmouth then had to go back home from Selly Oak for Simon to switch off Thomas' keyboard ... On the boat we paid to see Hook ... a delicious, eat-as-much-as-you-want meal by P&O for £50.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Le Havre, France",
+      "original_wording": "Le Havre",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0073_L",
+      "excerpt": "[Route sketch of France, labelled 1992, with route line showing:] Le Havre / Vallée de la Seine / Châteaux de la Loire / Bourges / Périgord Caves / Gorges de Truyères / Cassaniouze / Conques",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Pont-Audemer, France",
+      "original_wording": "Pont-Audemer",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0062_R",
+      "excerpt": "Once off the boat we motored for ½ - 1 hr. to a small campsite in a village, ending up in the dark by mistake in the residential end. ** Pont-Audemer",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Rugles, France",
+      "original_wording": "Ruilly",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0063_L",
+      "excerpt": "We had lunch at Abbaye de la Trappe a monastery. ... In the evening we arrived at __Ruilly__ ****. A lovely, cool river to swim in. ... We had a good anniversary meal at St. Pierre, along to road in the village.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Azay-le-Rideau, France",
+      "original_wording": "Azay-le-Rideau",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0063_R",
+      "excerpt": "We cross the R. Loire on a long suspension bridge ... We drove to Azay-le-Rideau William & the other boys liked the tapestry of the judgement of Solomon. There is a lovely facade & bas relief",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Richelieu, France",
+      "original_wording": "Richilieu",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0064_L",
+      "excerpt": "Then we drove on for 2 nights at __Richilieu__ ***",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Saint-Estèphe, Dordogne, France",
+      "original_wording": "St. Estephe",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0065_L",
+      "excerpt": "At 12. we set off south ... after checking 2 campsites on the way we finally got to __St. Estephe__ ** & swam. ... We went to Piégut to shop, & returned to the lake beach",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Brantôme, France",
+      "original_wording": "Brantôme",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0065_R",
+      "excerpt": "We set off south & stopped at __Brantôme__. Monks had founded a monastery in the cliffs with a special spring. ... We had lunch in an overgrown meadow next to the river. Then we drove on",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Grotte de Rouffignac, France",
+      "original_wording": "Rouffignac",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0066_L",
+      "excerpt": "to the cave of __Rouffignac__. We bookd tickets on a train half-an-hour later ... The caves were wonderful, 'grabbing', scraped drawings of mammoths",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Les Eyzies-de-Tayac, France",
+      "original_wording": "Le Queylou, near Les Eyzies",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0066_L",
+      "excerpt": "We looked at 3 campsites near __Les Eyzies__, zigzagging round the hills, before finding a lovely farm \"Le Queylou\" ★★★★ run by a Dutchman. A superb view of green hillside & valley",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Rocamadour, France",
+      "original_wording": "Rocamadour",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0068_L",
+      "excerpt": "Then we drove on to __Rocamadour__. We caught a slanting lift down to see the old shrine. There is a black madonna, enthroned, with a regal child on her lap.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Camping Le Lot, near Rocamadour, France",
+      "original_wording": "Camping le lot",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "A_0069_L",
+      "excerpt": "Soon after leaving Rocamadour we passed a campsite with swimming pool in a pretty field, & decided to stay there for the night. **/** \"Camping le lot\" It had a small swimming pool & a lovely old stone barn.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Cassaniouze, France",
+      "original_wording": "Casanourse",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0069_R",
+      "excerpt": "On the way to __Casanourse__ **** we stopped to book in at Le Beau Sejour at Calvinet. ... When we reached the campsite we swam & Eve did a load of wash",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Conques, France",
+      "original_wording": "Conques (field ~3 miles north)",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0072_R",
+      "excerpt": "We drove about 3 miles north from Conques & turned off into a field & all slept in the van [?2.00] ... There was a fantastic view on both sides from the field.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Lac de Sarrans, France",
+      "original_wording": "La Source, Lac du Sarrans",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0073_L",
+      "excerpt": "Then on up the valley of the Truyères, with hydro electric dams ... we had lunch in a very dirty wood & came on to a crowded, but pleasant campsite on the La Source* * * Lac du Sarrans, created by the Sarrans damn.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Bourges, France",
+      "original_wording": "Bourges",
+      "role": "transit_stop",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "A_0073_L",
+      "excerpt": "[Route sketch of France, labelled 1992, with route line showing:] ... Châteaux de la Loire / Bourges / Périgord Caves ...",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Salbris, France",
+      "original_wording": "Salbris",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0073_R",
+      "excerpt": "We drove north [past] out of the Gorges & the Chestnut Trees. We spent hours on the A71 ... We drove for 8 hours & ended up camping in quite a pretty campsite in Salbris * * *.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Chartres, France",
+      "original_wording": "Chartres",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0074_L",
+      "excerpt": "We set off towards Chartres + arrived at 12.50. Thomas + Eve spent an hour looking at stained-glass windows starting to devise a quiz",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Saint-Illiers-la-Ville, France",
+      "original_wording": "St. Illiers la Ville",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0074_R",
+      "excerpt": "After another 1½ hours' motoring we reached __St. Illiers la Ville__ ****+ jumped into the swimming pool ... The site is only 5 minutes from the station, + the train run into Paris is 50 minutes",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Le Havre, France",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.55,
+      "approximate": true,
+      "inferred": true,
+      "inference_reason": "Return crossing arrives at Southampton (named); 1992 P&O Le Havre–Southampton service is the matching French departure port, consistent with the outbound Portsmouth–Le Havre sketch evidence and the campsite location west of Paris.",
+      "source_page_id": "A_0075_L",
+      "excerpt": "We got up at 5.3[0]15. + left at 6.15, without breakfast. ... On the boat we just had sandwiches + watched Sean Connery in \"Medicine Man\". After Southampton we called in on Hathie",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Southampton, UK",
+      "original_wording": "Southampton",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0075_L",
+      "excerpt": "On the boat we just had sandwiches + watched Sean Connery in \"Medicine Man\". After Southampton we called in on Hathie, but unfortunately they were all out.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0075_L",
+      "excerpt": "After Southampton we called in on Hathie, but unfortunately they were all out. There were awful traffic jams. Finally we stopped + had tea in an almost",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "portsmouth-le_havre",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0062_R",
+      "excerpt": "We all left at 9.30. for Portsmouth ... On the boat we paid to see Hook ... a delicious, eat-as-much-as-you-want meal by P&O for £50. Once off the boat we motored for ½ - 1 hr. to a small campsite ... Pont-Audemer"
+    },
+    {
+      "after_seq": 21,
+      "route_key": null,
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": true,
+      "source_page_id": "A_0075_L",
+      "excerpt": "We got up at 5.3[0]15. + left at 6.15 ... On the boat we just had sandwiches + watched Sean Connery in \"Medicine Man\". After Southampton we called in on Hathie",
+      "note": "Return crossing: Southampton is named as the arrival port but is not in ferries.json named_routes; modelled as Le Havre–Southampton (1992 P&O cross-Channel service), consistent with outbound Portsmouth–Le Havre and the campsite location west of Paris. No matching key exists, so route_key is null."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 8,
+      "label": "Day trip from Richelieu to Champigny-sur-Veude & Chinon",
+      "date_guess": "1992-07-22",
+      "stops": [
+        {
+          "normalized_name": "Champigny-sur-Veude, France",
+          "original_wording": "Champigny sur Veude",
+          "confidence": 0.85,
+          "source_page_id": "A_0064_L",
+          "excerpt": "We went out towards Chinon. On the way we passed a beautiful old chapel __Champigny sur Veude__ 1499 lovely. proportions Sainte Chapelle, Stained glass windows, + marble statue of kneeling duke.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Chinon, France",
+          "original_wording": "Chinon",
+          "confidence": 0.9,
+          "source_page_id": "A_0064_L",
+          "excerpt": "On to Chinon. We parked at the top of the ridge + walked down into the old town with narrow streets. We saw a wine-making/coopering museum ... Chinon had a superb-looking Mississippi riverboat",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 12,
+      "label": "Day trips around Les Eyzies (Tayac, Font de Gaume)",
+      "date_guess": "1992-07-25",
+      "stops": [
+        {
+          "normalized_name": "Tayac (Les Eyzies-de-Tayac), France",
+          "original_wording": "Tayac",
+          "confidence": 0.85,
+          "source_page_id": "A_0066_R",
+          "excerpt": "We set off quite late & got to church at __Tayac__ 20 minutes before the service at 11.00. The best church we'd been to in France. ... The church is partly carved into, built into the hillside.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Grotte de Font-de-Gaume, France",
+          "original_wording": "Font de Gaume",
+          "confidence": 0.8,
+          "source_page_id": "A_0067_L",
+          "excerpt": "we walked along the road to the Caves of the __Font de Gaume__, but there was a 3 day wait to get in. They only allow 375 people per day inside, & they've the best caves after Lascaux, which are now closed.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Day trips & meals from Cassaniouze base (Calvinet, Entraygues, Vieillevie, Conques)",
+      "date_guess": "1992-07-27",
+      "stops": [
+        {
+          "normalized_name": "Calvinet, France",
+          "original_wording": "Calvinet",
+          "confidence": 0.8,
+          "source_page_id": "A_0069_R",
+          "excerpt": "we stopped to book in at Le Beau Sejour at Calvinet. They wanted us at 8 at the latest. ... At Calvinet we had our best meal yet.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Entraygues-sur-Truyère, France",
+          "original_wording": "Entraques",
+          "confidence": 0.8,
+          "source_page_id": "A_0070_R",
+          "excerpt": "Set off for __Entraques__. One of the nicest towns we've been in. Old, & not much done-up. A calm, well-kept church ... We had lunch in a restaurant near the river.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Vieillevie, France",
+          "original_wording": "Vielleville",
+          "confidence": 0.65,
+          "source_page_id": "A_0071_L",
+          "excerpt": "We had lunch at Vielleville, & then returned, to spend the afternoon at Casanrouse.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Conques, France",
+          "original_wording": "Conques",
+          "confidence": 0.9,
+          "source_page_id": "A_0071_R",
+          "excerpt": "we set off for Conques. We parked down in the valley belt below the little chapel. ... We arrived at the abbey at 11.10. Mass had started already. ... tickets for the Haydon, Bartok Quartets on Monday evening",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Daglan, Nr. Domme (M. Fayolle)",
+      "issue": "Visited en route to Rocamadour to call on Eve's tennis partner Monique (who was away); a brief social call rather than a clear overnight or sightseeing stop. Daglan/Domme are real places in the Dordogne but their exact place in the driving leg (with the unreadable lunch village 'Fon[?]') is uncertain.",
+      "source_page_id": "A_0068_L",
+      "excerpt": "We went to Daglan, Nr. Domme to see Monique, Eve's old tennis partner, but she was on holiday in Spain. We met M. Fayolle, her mother ... We had lunch in the middle of a small village, Fon[?], next to the stream. Then we drove on to __Rocamadour__."
+    },
+    {
+      "original_wording": "St. Cyprien",
+      "issue": "Shopping stop only ('stopped at St. Cyprien to shop') on the leg leaving Les Eyzies; recorded as a minor transit point, not promoted to a main_route stop.",
+      "source_page_id": "A_0067_R",
+      "excerpt": "We set off & stopped at __St. Cyprien__ to shop. (delicious [?boulang-] not selling pastries)"
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0062_R",
+      "issue": "Start boundary is mixed: the page opens mid-narrative with a camping stop near Lichfield (the actual first night) before the 'July 19th Sunday' departure from Birmingham/Selly Oak via Portsmouth. The pre-Lichfield text belongs to this trip's outbound leg."
+    },
+    {
+      "page_id": "A_0075_L",
+      "issue": "End boundary is mixed: page covers the return ferry, arrival 'After Southampton', a visit to relatives ('Hathie') and the drive home, then likely runs into the next entry."
+    }
+  ],
+  "summary": "Summer 1992 family camping holiday from Birmingham to France: a night near Lichfield, then a P&O ferry from Portsmouth to Le Havre. The family worked south through Normandy (Pont-Audemer), the Loire (Azay-le-Rideau, Richelieu with day trips to Chinon and Champigny-sur-Veude), the Périgord (St-Estèphe, Brantôme, Rouffignac and Les Eyzies caves, Rocamadour) to a fixed base at Cassaniouze, with excursions to Conques, Entraygues, Calvinet and Vieillevie. They returned north via Lac de Sarrans, Salbris, Chartres and St-Illiers-la-Ville (near Paris), then a ferry back to Southampton and home.",
+  "extraction_notes": "Date handling: several OCR 'iso' fields were stamped 1993, but the route sketch on A_0073_L is explicitly labelled 1992 and the trip_id is 1992, so all dates are normalized to 1992. The diary's weekday/date labels are internally inconsistent (e.g. two 'July 23rd' headings, a 'Fri July 23rd', a 'Tues [?August]'); date_start is inferred as ~July 18 (Saturday Lichfield night before the July 19 Sunday departure) and date_end ~Aug 8 (the day after the Sat Aug 7 return ferry). EVIDENCE HIERARCHY: the hand-drawn route map on A_0073_L (rank 1) was used to confirm Le Havre as the French port (OCR mis-read it as 'le thore') and the overall N->S->N progression. The A_0064_L sketch (riverboat) and A_0073_R sketch (campsite pool layout) are decorative/informational, not route maps. CROSSINGS: outbound Portsmouth->Le Havre is well evidenced (Portsmouth named, P&O boat named, ~1/2-1hr drive to Pont-Audemer ~50km from Le Havre, sketch confirms Le Havre). Return ferry arrives at 'Southampton' (named) but Southampton/Le Havre-Southampton is not in ferries.json named_routes, so the return crossing route_key is null with the French departure modelled as Le Havre per the 1992 P&O cross-Channel service and the campsite location west of Paris. 'Ruilly' (seq 6) is uncertain - likely Rugles in Normandy (Eure), kept as best modern match. 'Bourges' (seq 18) appears only on the route sketch with no narrative visit; included as a low-confidence transit point on the A71 northbound leg per rank-1 sketch evidence. Daglan/Domme and St. Cyprien were brief social/shopping touches and are listed as unresolved rather than main_route stops."
+}

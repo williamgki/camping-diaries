@@ -1,0 +1,190 @@
+{
+  "trip_id": "1995-wales-upper-cantref-farm-brecon-may",
+  "title": "Wales: Upper Cantref Farm, Brecon (May half-term)",
+  "volume": "A",
+  "spread_range": ["A_0150", "A_0152"],
+  "diary_page_range": [null, null],
+  "date_start": "1995-05-27",
+  "date_end": "1995-05-30",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bewdley, Worcestershire, UK",
+      "original_wording": "Bewdley by-pass",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0150_R",
+      "excerpt": "at 9.0 we stopped for breakfast on Bewdley by-pass",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Upper Cantref Farm, Brecon Beacons, Wales, UK",
+      "original_wording": "Upper Cantref Farm",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0150_R",
+      "excerpt": "only arrived at Upper Cantref Farm at 12.00",
+      "geocode_hint": { "countrycodes": "gb", "near": "Brecon, Wales" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Malvern, Worcestershire, UK",
+      "original_wording": "Malvern",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0152_L",
+      "excerpt": "Then we went on for fish & chips at Malvern & dropped Thomas.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0152_L",
+      "excerpt": "We got home, showered the children",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Saturday evening walk to village",
+      "date_guess": "1995-05-27",
+      "stops": [
+        {
+          "normalized_name": "Llangynach, Powys, Wales, UK",
+          "original_wording": "[the village] [?Llangynach]",
+          "confidence": 0.5,
+          "approximate": true,
+          "source_page_id": "A_0150_R",
+          "excerpt": "Simon + Eve + John walked down to [the village] [?Llangynach]",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Sunday unnamed day trip (Thomas, William, Peter)",
+      "date_guess": "1995-05-28",
+      "stops": []
+    },
+    {
+      "base_seq": 3,
+      "label": "Sunday Evensong at local church (Eve, John, Charles)",
+      "date_guess": "1995-05-28",
+      "stops": [
+        {
+          "normalized_name": "Church near Upper Cantref Farm, Powys, Wales, UK",
+          "original_wording": "Evensong",
+          "confidence": 0.5,
+          "approximate": true,
+          "source_page_id": "A_0151_L",
+          "excerpt": "Eve, John + Charles went off to Evensong + Thomas + William had a fight in the gangway",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Monday trip to Brecon and Llanfrynach",
+      "date_guess": "1995-05-29",
+      "stops": [
+        {
+          "normalized_name": "Llanfrynach, Powys, Wales, UK",
+          "original_wording": "White Swan Llanfrynach",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0151_R",
+          "excerpt": "We stopped at the White Swan Llanfrynach, to book a meal of 7 at 7.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Brecon, Powys, Wales, UK",
+          "original_wording": "Brecon",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0151_R",
+          "excerpt": "At Brecon we telephoned Joan Clarke, cancelling the barbeque + inviting ourselves to tea tomorrow.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Monday evening walk to restaurant near Roman Bathhouse (Llanfrynach)",
+      "date_guess": "1995-05-29",
+      "stops": [
+        {
+          "normalized_name": "Roman Bathhouse near Llanfrynach, Powys, Wales, UK",
+          "original_wording": "a Roman Bathhouse",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "A_0151_R",
+          "excerpt": "followed a sort of mill-race back through a park towards [to] a Roman Bathhouse",
+          "geocode_hint": { "countrycodes": "gb", "near": "Llanfrynach, Wales" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Tuesday tea with Joan Clarke (location unknown, between Brecon and Malvern)",
+      "date_guess": "1995-05-30",
+      "stops": [
+        {
+          "normalized_name": "Joan Clarke's house (location unknown)",
+          "original_wording": "tea with Joan Clarke",
+          "confidence": 0.4,
+          "approximate": true,
+          "source_page_id": "A_0152_L",
+          "excerpt": "packed up & drove off to have tea with Joan Clarke",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Llangynach]",
+      "issue": "Village name uncertain; the diary reads '[the village] [?Llangynach]'. Could be Llangynider or another village near Upper Cantref Farm; Llangynidr is nearby but the transcription suggests 'Llangynach'.",
+      "source_page_id": "A_0150_R",
+      "excerpt": "Simon + Eve + John walked down to [the village] [?Llangynach]"
+    },
+    {
+      "original_wording": "Thomas, William + Peter set off on a day trip",
+      "issue": "Sunday day trip destination never named in the diary. They returned after several hours without having stopped for a picnic lunch. Route and destination unknown.",
+      "source_page_id": "A_0151_L",
+      "excerpt": "Thomas, William + Peter set off on a day trip. It didn't stop raining. At 2.40. they came back without having stopped for a picnic lunch."
+    },
+    {
+      "original_wording": "tea with Joan Clarke",
+      "issue": "Joan Clarke's location not stated. The diary mentions cancelling a barbeque and inviting themselves to tea on Tuesday; they drove there after packing up camp and before reaching Malvern. Could be anywhere between Brecon and Malvern.",
+      "source_page_id": "A_0152_L",
+      "excerpt": "packed up & drove off to have tea with Joan Clarke. Then we went on for fish & chips at Malvern"
+    }
+  ],
+  "boundary_flags": ["mixed_start", "mixed_end"],
+  "summary": "May half-term 1995 camping trip for all seven family members to Upper Cantref Farm near Brecon in the Brecon Beacons, Wales. The four-night stay (Saturday to Tuesday) featured horse riding for the whole family, day trips into Brecon, and a supper at the White Swan in Llanfrynach. The return journey stopped for fish and chips in Malvern, where Thomas was dropped off.",
+  "extraction_notes": "Pages have mixed_start and mixed_end: A_0150_R begins mid-page continuing from a previous trip (Grasmere/Lake District content on the same page before Saturday May 27th heading), and A_0152_L ends mid-page. No route sketch. The date 1995-05-27 for Saturday May 27th is confirmed by calendar (May 27, 1995 was indeed a Saturday); 1995-05-30 for Tuesday 30th May is given explicitly in the transcription. The village '[?Llangynach]' is uncertain — Llangynidr is near Upper Cantref Farm but the transcription spelling differs. Joan Clarke's address is unknown. The boys' Sunday day trip destination is never named. The Roman Bathhouse near Llanfrynach is likely the remains of the Roman fort/baths at Brecon Gaer or the bathhouse at Y Gaer — recorded as approximate."
+}

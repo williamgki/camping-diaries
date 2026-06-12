@@ -1,0 +1,87 @@
+{
+  "trip_id": "2012-wales-barmouth-mawddach-estuary-craig-wen",
+  "title": "Wales: Barmouth & Mawddach Estuary (Craig Wen)",
+  "volume": "B",
+  "spread_range": ["B_0187", "B_0188"],
+  "diary_page_range": [187, 188],
+  "date_start": "2012-04-27",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Craig Wen, near Barmouth, Wales",
+      "original_wording": "Craig Wen campsite LL39 1BQ",
+      "role": "overnight_base",
+      "confidence": 0.97,
+      "approximate": false,
+      "source_page_id": "B_0187_R",
+      "excerpt": "fantastic view of Estuary from Craig Wen campsite LL39 1BQ",
+      "geocode_hint": { "countrycodes": "gb", "postcode": "LL39 1BQ" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "note": "Return home assumed; diary ends mid-sentence (boundary_mixed=true), end date unknown",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Mawddach Bike Trail ride to Dolgellau",
+      "date_guess": "2012-04-28",
+      "stops": [
+        {
+          "normalized_name": "Mawddach Bike Trail, Wales",
+          "original_wording": "Mawddach Bike Trail - a disused railway",
+          "confidence": 0.95,
+          "source_page_id": "B_0188_L",
+          "excerpt": "It was the Mawddach Bike Trail - a disused railway. We ran about 6 of the 16 miles.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Dolgellau, Wales",
+          "original_wording": "Dolgellau",
+          "confidence": 0.95,
+          "source_page_id": "B_0188_L",
+          "excerpt": "We looked around Dolgellau & had a good lasagna lunch.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Mochant[leth]",
+      "issue": "Probably Machynlleth (town in Wales); mentioned as the origin of a survey group at the campsite, not a place visited by the family — not a stop",
+      "source_page_id": "B_0188_L",
+      "excerpt": "A group from Mochant[leth]"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: diary ends mid-sentence on B_0188_R; end date and return journey not recorded in this spread"
+  ],
+  "summary": "Simon and Eve (with their 6-month-old dog Tinder) made a short trip to Craig Wen campsite (LL39 1BQ) on the Mawddach Estuary near Barmouth, departing Birmingham on Friday 27 April 2012. During the stay they cycled part of the Mawddach Bike Trail (a disused railway) to Dolgellau and enjoyed spectacular estuary views; the diary ends mid-sentence so the return date is unknown.",
+  "extraction_notes": "Only Simon, Eve and Tinder are mentioned as travellers — no children named. Craig Wen has a specific postcode (LL39 1BQ) which gives precise geocoding. Dolgellau appears both in the narrative (bike-trail day) and on a plum jam label (B_0188_R), confirming the visit. 'Mochant[leth]' is truncated at a page edge and most likely refers to Machynlleth; it denotes the origin of other campers, not a place the family visited. The diary entry on B_0188_R ends mid-sentence ('it was windy & rainy[so]'), indicating the spread boundary falls mid-trip; end date is therefore null."
+}

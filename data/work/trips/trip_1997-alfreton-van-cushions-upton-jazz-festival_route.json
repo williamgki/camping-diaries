@@ -1,0 +1,79 @@
+{
+  "trip_id": "1997-alfreton-van-cushions-upton-jazz-festival",
+  "title": "Alfreton (van cushions) & Upton Jazz Festival",
+  "volume": "A",
+  "spread_range": ["A_0202", "A_0202"],
+  "diary_page_range": [202, 202],
+  "date_start": "1997-07-28",
+  "date_end": "1997-07-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Peter", "Thomas", "William", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Alfreton, Derbyshire, UK",
+      "original_wording": "Alfreton",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0202_L",
+      "excerpt": "Simon, Eve, John & Charles returned to Alfreton to pick up the new cushions.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Alfreton" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Upton upon Severn, UK",
+      "original_wording": "Upton Jazz Festival",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0202_L",
+      "excerpt": "We went on to hear Peter play his sax in the Upton Jazz Festival. Lots of drunks. Super music. Peter & Thomas went home in the minibus. We took William for the night.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Upton upon Severn" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0202_L",
+      "excerpt": "We all left for Amiens, including Loic de Fursac, 17, the French exchange.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Tropley",
+      "issue": "Name not recognised as a standard place; possibly a friend's home or informal location name. Simon & Tonic went to supper there on July 29th to show off the new cushions.",
+      "source_page_id": "A_0202_L",
+      "excerpt": "Simon & Tonic went to supper at Tropley to show off the new cushions."
+    },
+    {
+      "original_wording": "Thoperness",
+      "issue": "Name not recognised as standard. Possibly a phonetic transcription of Thorpeness (Suffolk village, visited on other trips), but geographically unexpected for a trip based around Upton upon Severn and about to depart for Amiens. Could also be an informal family name for a campsite or location. All family members except Simon & Tonic were here on July 29th.",
+      "source_page_id": "A_0202_L",
+      "excerpt": "All the rest of us were at Thoperness."
+    }
+  ],
+  "boundary_flags": [
+    "Page A_0202_L is boundary_mixed (mixed_end=true). The final sentence ('At 6.25. We all left for Amiens, including Loic de Fursac, 17, the French exchange.') belongs to the following trip. It is excluded from this trip's main route."
+  ],
+  "summary": "A short two-day domestic outing in late July 1997. On the 28th, Simon, Eve, John and Charles drove from Birmingham to Alfreton, Derbyshire, to collect new van cushions, then continued to the Upton Jazz Festival (Upton upon Severn) where Peter performed on saxophone; Peter and Thomas returned home by minibus while the rest stayed the night with William. The following day the family was split between an unidentified location ('Thoperness') and a supper visit to 'Tropley', before all departing for Amiens to start a France trip.",
+  "extraction_notes": "Page A_0202_L covers two dates: Saturday July 28th and Tuesday July 29th. Note that in July 1997, the 28th was a Monday not a Saturday — the day-of-week label in the diary appears to be an error, or possibly the year attribution is slightly off; dates are retained as written. 'Tong' who cut hair before departure is a person's name, not a place. The Kodak factory layby is mentioned as a private lunch stop briefly — it is not recorded as a stop as it was unplanned and incidental. 'Tropley' and 'Thoperness' are unresolved; 'Thoperness' may be Thorpeness (a Suffolk village the family visited in 1991, 1992, 1994, 1996 trips), but cannot be confirmed from this page alone. The return to Birmingham before the Amiens departure is not explicitly stated but is implied (confidence 0.7) as the family needed to reconvene; alternatively Thoperness/Tropley could be the overnight stop with departure directly to the Channel. The Amiens leg is the start of the next trip and is excluded from this route."
+}

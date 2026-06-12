@@ -1,0 +1,88 @@
+{
+  "trip_id": "2005-east-anglia-duxford-long-melford-lavenham",
+  "title": "East Anglia: Duxford, Long Melford & Lavenham",
+  "volume": "B",
+  "spread_range": ["B_0084", "B_0087"],
+  "diary_page_range": [84, 87],
+  "date_start": "2005-10-08",
+  "date_end": "2005-10-09",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Duxford, Cambridgeshire, UK",
+      "original_wording": "Duxford",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0084_R",
+      "excerpt": "We reached Duxford & looked at aircraft before & after lunch.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Great Yeldham, Essex, UK",
+      "original_wording": "Great Yeldan",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0085_R",
+      "excerpt": "We camped behind the 3 Bottles at Great Yeldan, a tilted field in which Simon nearly got the van stuck.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Long Melford, Suffolk, UK",
+      "original_wording": "Long Melford",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0085_R",
+      "excerpt": "Long Melford has 5 stars in the church book, so we drove there & washed up while waiting for the service. It is a splendid church.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Lavenham, Suffolk, UK",
+      "original_wording": "Lavenham",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0086_R",
+      "excerpt": "We drove on to Lavenham (4 star church) which we didn't like as much, though it a purer style of arch+, perpendicular. We had lunch on the road outside.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: B_0084_R begins mid-sentence finishing a previous trip; Saturday October 8th heading marks the start of this trip"
+  ],
+  "summary": "A short autumn weekend trip from Birmingham to East Anglia. On Saturday (Oct 8) Simon and Eve visited the Imperial War Museum at Duxford and overnighted at the 3 Bottles pub campsite in Great Yeldham, Essex. On Sunday (Oct 9) they explored Long Melford and Lavenham, admiring both villages' notable medieval wool churches and Lavenham's Guildhall, before returning home.",
+  "extraction_notes": "Only Simon and Eve are named as travellers (Thomas is noted as about to go to Russia, John is working in Dudley). 'Great Yeldan' is almost certainly Great Yeldham, Essex — a village with a pub called the Three Bottles. The travellers tried to visit 'Laurel & Dick Spooner' (unidentified friends) but they were out; no stop was made. Long Melford and Lavenham are visited on Sunday as route stops on what appears to be the homeward leg (no return to the campsite mentioned). The mixed_start boundary means B_0084_R opens with the end of the previous trip (ferry arrival, drive home, Moseley balti)."
+}

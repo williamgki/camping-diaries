@@ -1,0 +1,62 @@
+{
+  "trip_id": "2019-dursley-athen-plains-family-gathering-newark",
+  "title": "Dursley: Athen Plains family gathering (Newark Park)",
+  "volume": "B",
+  "spread_range": ["B_0319", "B_0319"],
+  "diary_page_range": [null, null],
+  "date_start": "2019-05-10",
+  "date_end": "2019-05-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dursley, Gloucestershire, UK",
+      "original_wording": "Athen Plains",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0319_L",
+      "excerpt": "We arrived at Athen Plains & were joined by Charles, bringing Seb from the farm, John & Kay & Peter & Conrad & Elori, Jenny & Nana",
+      "geocode_hint": { "countrycodes": "gb", "near": "Dursley, Gloucestershire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Athen Plains",
+      "issue": "Exact location of 'Athen Plains' near Dursley not identified; likely a field or farm name in the Newark Park / Ozleworth area of Gloucestershire. Newark Park (National Trust) appears in the trip title as context. Could be 'Acton Plain' or a local field name — confirm from OS map or local knowledge.",
+      "source_page_id": "B_0319_L",
+      "excerpt": "We arrived at Athen Plains & were joined by Charles"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: page B_0319 ends mid-trip; return date not recorded on surviving pages"
+  ],
+  "summary": "A short domestic gathering trip in May 2019: Simon and Eve (with Tinder) drove from Birmingham to 'Athen Plains' near Dursley, Gloucestershire, after attending Charles Forsall's memorial service. The extended family assembled there over the weekend, with highlights including John and Kay's announcement of a pregnancy scan and the arrival of William, Gioconda, and others on Saturday.",
+  "extraction_notes": "Single-page entry (B_0319_L); page is boundary-mixed (mixed_end: true) so the return date is not captured. 'Athen Plains' is unverified — the trip title associates it with Newark Park (a National Trust property near Ozleworth/Wotton-under-Edge), so the overnight base is geocoded to Dursley with approximate: true. Diary dates say 'Friday May 10th' / 'Saturday May 11th'; year is 2019 per trip_id (May 10 2019 was indeed a Friday). No ferry or international crossing. Travellers named at departure are Simon, Eve and Tinder; other family members joined at the destination."
+}

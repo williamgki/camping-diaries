@@ -1,0 +1,80 @@
+{
+  "trip_id": "1993-cotswolds-naunton-guiting-power-bourton-on",
+  "title": "Cotswolds: Naunton, Guiting Power & Bourton-on-the-Water",
+  "volume": "A",
+  "spread_range": ["A_0115", "A_0116"],
+  "diary_page_range": [30, 31],
+  "date_start": "1993-09-24",
+  "date_end": "1993-09-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "Peter", "John", "Charles", "Chris Goerdt"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Naunton, Gloucestershire, UK",
+      "original_wording": "Naunton",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0115_R",
+      "excerpt": "We left at 5.40 + got to Naunton at [?] 7.10. We have camped at the back of a pub",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bourton-on-the-Water, Gloucestershire, UK",
+      "original_wording": "Bourton-on-the-Water",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0116_R",
+      "excerpt": "We drove to Bourton-on-the-Water & couldn't find the hotel we stayed in. We all enjoyed the model village.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk to Guiting Power",
+      "date_guess": "1993-09-25",
+      "stops": [
+        {
+          "normalized_name": "Guiting Power, Gloucestershire, UK",
+          "original_wording": "Power Guiting",
+          "confidence": 1.0,
+          "source_page_id": "A_0115_R",
+          "excerpt": "We left about 9.30. to walk to Power Guiting, along narrow roads, past horse farms, over foot bridges. We reached the [illegible] village + had trouble finding a cup of coffee.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A weekend camping trip to the Cotswolds in late September 1993, with the family and German au pair Chris Goerdt camping behind a pub at Naunton. Day activities included a walk to Guiting Power on Saturday and a visit to the model village at Bourton-on-the-Water on the drive home Sunday.",
+  "extraction_notes": "All three days clearly dated. The trip is entirely within England with no crossings. Guiting Power is recorded as 'Power Guiting' in the diary — normalized to correct order. Bourton-on-the-Water visited on Sunday 26th appears to be on the return journey to Birmingham rather than an excursion back to Naunton, so treated as a main_stop. The mention of 'the hotel we stayed in' at Bourton suggests a previous family visit there. Page A_0116_L has low legibility (0.55) with a glued-in photo but no additional route information. Tinder the dog is not mentioned in these pages but may have attended."
+}

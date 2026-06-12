@@ -1,0 +1,411 @@
+{
+  "trip_id": "2014-france-brittany-les-haies-de-nolettes",
+  "title": "France: Brittany & the Falaise Pocket",
+  "volume": "B",
+  "spread_range": ["B_0234", "B_0244"],
+  "diary_page_range": [54, 63],
+  "date_start": "2014-08-19",
+  "date_end": "2014-08-30",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Woking, UK",
+      "original_wording": "Woking",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0234_R",
+      "excerpt": "I rang Kate when a road sign said \"Woking\" + left a message... We slept on the drive + left at 7.20.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Folkestone (Eurotunnel)",
+      "original_wording": "Channel Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0234_R",
+      "excerpt": "got to the Channel Tunnel early + the train was 50 minutes late",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Noyelles-sur-Mer, France",
+      "original_wording": "les Haies de Nolettes / Noyelles sur Mer",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0234_R",
+      "excerpt": "We've arrived at les Haies de Nolettes *** where we've been before. There's a Chinese WW1 cemetery... Noyelles sur Mer.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Caen, France",
+      "original_wording": "Caen",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0235_L",
+      "excerpt": "We went west, though Picardy into Normany, stopping at a roadside restaurant a few miles east of Caen.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Cherrueix, France",
+      "original_wording": "Camping l'Aurore Cherrueix",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0235_L",
+      "excerpt": "Tonight we have stopped at Camping l'Aurore Cherrueix... We are 10 k west of Mont St. Michel.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Tréguier, France",
+      "original_wording": "Tréguier",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0236_L",
+      "excerpt": "On to Tréguier, very pleasant town on a hill side... we parked down below the town on the waterside, it's high tide in a tidal estuary.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Ploumanac'h, Perros-Guirec, France",
+      "original_wording": "[?Plounhinach]",
+      "role": "main_stop",
+      "confidence": 0.62,
+      "approximate": true,
+      "source_page_id": "B_0236_R",
+      "excerpt": "We drove north + soon came to [?Plounhinach]... We wanted to walk along the Sentier des Douaniers... The rocks in this poking-up bit of Brittany are amazing... Pink granite worn away in parts.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Sibiril, France",
+      "original_wording": "[?Six-Pleeter] ([?al Gieves]); Camping à la ferme",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "B_0237_R",
+      "excerpt": "We camped near [?Six-Pleeter] ([?al Gieves]). The name of the campsite owner is Gwenaelle Thomas... Camping à la ferme ***** ... It only cost €8.80 + is a lovely campsite.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Saint-Thégonnec, France",
+      "original_wording": "St. Thégonnec",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0238_L",
+      "excerpt": "We saw an impressive oak entombment + lots of glittery carvings at St. Thégonnec.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Étel, France",
+      "original_wording": "Etel; Camping de la Falaise",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0238_R",
+      "excerpt": "We drove on to Etel, a long harbour, fed by a river. The campsite 'Camping de la Falaise ***' allowed us to choose the pitch lovely views of grass-covered dunes.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Carnac, France",
+      "original_wording": "Carnac / campsite of the white sand",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0241_L",
+      "excerpt": "We found campsite of the white sand — a lovely beach. Crowded.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Malestroit, France",
+      "original_wording": "Malestroit municipal campsite",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0242_L",
+      "excerpt": "On arrival at [?Flatter] Malestroit municipal campsite ***** we wandered into town on our bikes.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Brion, France",
+      "original_wording": "[?Bréon] en [?Ail]",
+      "role": "overnight_base",
+      "confidence": 0.45,
+      "approximate": true,
+      "source_page_id": "B_0243_L",
+      "excerpt": "Onto [?Bréon] en [?Ail], we walked around before bed. There seemed to be either gypsies or poor people on the campsite.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Chambois, France",
+      "original_wording": "Chambois",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0243_L",
+      "excerpt": "We drove thro or past [?Mencon], [?Cartrouges], the round Argenten to the Chambois + looked at the town + newly laid wreaths.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Mémorial de Montormel, France",
+      "original_wording": "Montormel",
+      "role": "main_stop",
+      "confidence": 0.82,
+      "approximate": false,
+      "source_page_id": "B_0243_R",
+      "excerpt": "It's raining in Montormel... Montormel Memorial",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Saint-Paul, France",
+      "original_wording": "bigne le Foret / camp at St. Paul",
+      "role": "overnight_base",
+      "confidence": 0.5,
+      "approximate": true,
+      "source_page_id": "B_0244_L",
+      "excerpt": "went on to bigne le Foret to camp at St. Paul, It's a very pretty valley... About 2½ hours from the Channel Tunnel.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Charleval, France",
+      "original_wording": "Charleval",
+      "role": "transit_stop",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": "B_0244_L",
+      "excerpt": "We left at 8.35. For Charleval + petrol [?Salon]... We reached the train on time & had lunch in the train.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Coquelles (Eurotunnel)",
+      "original_wording": "the train / Channel Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0244_L",
+      "excerpt": "We reached the train on time & had lunch in the train.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Whittlesey, UK",
+      "original_wording": "Whittlesey St.",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0244_L",
+      "excerpt": "On to Whittlesey St., where I knocked very loudly on the door... After a night & lunch with the William Kirby we set off for [?Tinds] on the way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0244_L",
+      "excerpt": "we set off for [?Tinds] on the way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0234_R",
+      "excerpt": "got to the Channel Tunnel early + the train was 50 minutes late"
+    },
+    {
+      "after_seq": 19,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0244_L",
+      "excerpt": "We reached the train on time & had lunch in the train."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Cycle to the Chinese WW1 cemetery and Noyelles railway stations",
+      "date_guess": "2014-08-20",
+      "stops": [
+        {
+          "normalized_name": "Chinese Cemetery, Nolette, Noyelles-sur-Mer, France",
+          "original_wording": "Chinese WW1 cemetery",
+          "confidence": 0.8,
+          "source_page_id": "B_0234_R",
+          "excerpt": "We cycled to the cemetery + to the next village with 2 stations, one for modern, one for old trains.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 9,
+      "label": "Drive to look at the Enclosed Parishes (Saint-Thégonnec, Saint-Gwinilian)",
+      "date_guess": "2014-08-24",
+      "stops": [
+        {
+          "normalized_name": "Guimiliau, France",
+          "original_wording": "St. Gwinilian",
+          "confidence": 0.55,
+          "source_page_id": "B_0238_R",
+          "excerpt": "On TR to St. Gwinilian, another enclosed parish. The art of the church more welcoming.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 12,
+      "label": "Megalithic sites: Kerzerho alignments, Dolmen de Crucuno, Mané-Groh, Locmariaquer & Carnac",
+      "date_guess": "2014-08-25",
+      "stops": [
+        {
+          "normalized_name": "Alignements de Kerzerho, Erdeven, France",
+          "original_wording": "Kerzetho (Alignments)",
+          "confidence": 0.75,
+          "source_page_id": "B_0238_R",
+          "excerpt": "First stop at standing stones, 1130 stones at Kerzetho (Alignments). I'm touching stones put there... 5800 years ago!",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Dolmen de Crucuno, Plouharnel, France",
+          "original_wording": "Dolmen of Crucuno",
+          "confidence": 0.75,
+          "source_page_id": "B_0238_R",
+          "excerpt": "On to the Dolmen of Crucuno, 11 stones supporting a table, making a chamber.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Dolmen de Mané-Groh, Erdeven, France",
+          "original_wording": "Dolmen of Mané-Groch",
+          "confidence": 0.7,
+          "source_page_id": "B_0239_L",
+          "excerpt": "On to the Dolmen of Mané-Groch. This one had side-chambers.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Locmariaquer, France",
+          "original_wording": "Locmariaquer",
+          "confidence": 0.6,
+          "source_page_id": "B_0240_R",
+          "excerpt": "LOCMARIAQUER - Sites mégalithiques... Pierres Plates, Menhir Brisé, Kercadoret dolmen",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Musée de Préhistoire, Carnac, France",
+          "original_wording": "Museum of Prehistory, Carnac",
+          "confidence": 0.8,
+          "source_page_id": "B_0240_L",
+          "excerpt": "After lunch we walked about ¼ mile to the Museum of Prehistory.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 12,
+      "label": "Guided English tour of the Ménec alignments at Carnac",
+      "date_guess": "2014-08-26",
+      "stops": [
+        {
+          "normalized_name": "Alignements du Ménec, Carnac, France",
+          "original_wording": "Carnac / Menec ouest",
+          "confidence": 0.85,
+          "source_page_id": "B_0241_L",
+          "excerpt": "At 11.30 we started the English tour of the most westerly of the Carnac sites & the heavens kept opening.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 13,
+      "label": "Bike ride along the Nantes-Brest Canal to Saint-André church",
+      "date_guess": "2014-08-27",
+      "stops": [
+        {
+          "normalized_name": "Canal de Nantes à Brest, Malestroit, France",
+          "original_wording": "Brest-Nantes Canal",
+          "confidence": 0.7,
+          "source_page_id": "B_0242_R",
+          "excerpt": "We cycled N.W along the Brest-Nantes Canal... We reached St. Andrew of the Rock (lovely- well-cared for church) + had coffee + cycled home.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Six-Pleeter] ([?al Gieves])",
+      "issue": "Campsite locality name uncertain; 'Camping à la ferme' run by Gwenaelle Thomas in the Léon (Enclosed Parishes) region of north Finistère. Tentatively read as Sibiril area but unconfirmed.",
+      "source_page_id": "B_0237_R",
+      "excerpt": "We camped near [?Six-Pleeter] ([?al Gieves]). The name of the campsite owner is Gwenaelle Thomas."
+    },
+    {
+      "original_wording": "[?Bréon] en [?Ail]",
+      "issue": "Campsite locality near the Falaise/Chambois battlefields uncertain; possibly Briouze or a 'X-en-Auge' commune in the Orne. Could not confidently resolve.",
+      "source_page_id": "B_0243_L",
+      "excerpt": "Onto [?Bréon] en [?Ail], we walked around before bed."
+    },
+    {
+      "original_wording": "bigne le Foret / St. Paul",
+      "issue": "Penultimate campsite ~2.5 hrs from the Channel Tunnel; 'bigne le Foret' likely Bagnoles-de-l'Orne forest but the recorded site is south/east of there and reading is uncertain. Camping 'St. Paul' in a pretty valley with a trout stream.",
+      "source_page_id": "B_0244_L",
+      "excerpt": "went on to bigne le Foret to camp at St. Paul, It's a very pretty valley... About 2½ hours from the Channel Tunnel."
+    },
+    {
+      "original_wording": "Lisorno",
+      "issue": "Chapel/lunch stop named between Cherrueix and Tréguier; could not identify the place (possibly a Breton chapel dedication). Treated as a brief lunch stop, not a base.",
+      "source_page_id": "B_0235_L",
+      "excerpt": "We follow a sign to a chapel, St. [illegible] + had lunch, Lisorno"
+    },
+    {
+      "original_wording": "[?Tinds]",
+      "issue": "Place named on the final leg home from Whittlesey ('set off for [?Tinds] on the way home'); unreadable, possibly a relative/friend or village stop before Birmingham.",
+      "source_page_id": "B_0244_L",
+      "excerpt": "we set off for [?Tinds] on the way home."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "In late August 2014 Simon and Eve took the camper van from Birmingham via the Channel Tunnel to their old base at les Haies de Nolettes (Noyelles-sur-Mer) on the Somme, then drove west through Normandy to Brittany. Touring along the pink-granite Côte de Granit Rose (Tréguier, Ploumanac'h), the Enclosed Parishes of the Léon, and the megalithic sites around Carnac and Locmariaquer, they worked east to Malestroit before crossing into Normandy to visit the Falaise Pocket battlefields at Chambois and Montormel. They returned via the Channel Tunnel and an overnight with the William Kirby family at Whittlesey before heading home.",
+  "extraction_notes": "Only Simon and Eve travelled; page B_0234_R makes clear the children/grandchildren were all elsewhere (Swansea, Germany/France, London, Calcutta). Outbound and return crossings are both the Channel Tunnel (named in diary) — modelled as folkestone-coquelles (kind=tunnel) both ways; the diary does not state Folkestone/Coquelles explicitly but the Eurotunnel terminals are the only fit. Woking is a roadside overnight on the drive's first night (slept on a driveway, not a campsite). Several Breton/Norman campsite localities are poorly legible and are flagged in unresolved with best-guess normalized names at reduced confidence (seq 9 'Camping à la ferme', seq 14 '[?Bréon] en [?Ail]', seq 17 'St. Paul'). Day trips from the Noyelles, north-Finistère farm, Carnac and Malestroit bases are recorded as excursions, not main-route stops. Page numbering in the source bundle is erratic (e.g. no=518, no=39) and was not relied upon; diary_page_range uses the consistent values 54-63."
+}

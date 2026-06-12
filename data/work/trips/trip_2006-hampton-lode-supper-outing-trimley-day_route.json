@@ -1,0 +1,85 @@
+{
+  "trip_id": "2006-hampton-lode-supper-outing-trimley-day",
+  "title": "Hampton Lode supper outing & Trimley day visit",
+  "volume": "B",
+  "spread_range": ["B_0096", "B_0096"],
+  "diary_page_range": [39, 39],
+  "date_start": "2006-07-01",
+  "date_end": "2006-07-22",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Peter"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Supper outing to Hampton Lode (July 1st)",
+      "date_guess": "2006-07-01",
+      "stops": [
+        {
+          "normalized_name": "Hampton Lode, Shropshire, UK",
+          "original_wording": "Hampton Lode",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0096_R",
+          "excerpt": "After a mission planning day in church we left to pick up Margaret + Helen for supper in the van. A foot ball match was on TV so at 4.15. the roads were nearly empty. Very hot. We had a good evening at Hampton Lode.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "Day visit to Trimley, Suffolk (July 22nd)",
+      "date_guess": "2006-07-22",
+      "stops": [
+        {
+          "normalized_name": "Trimley, Suffolk, UK",
+          "original_wording": "Trimley",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0096_R",
+          "excerpt": "Charles, Peter, Simon, Eve + Tonic drove to Trimley where we gave Margaret + Helen lunch in the garden.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Blackburn",
+      "issue": "Mentioned only as a parenthetical errand by Simon (getting lampshades) on July 22nd; unclear if this is Blackburn, Lancashire or another Blackburn; not a family outing stop.",
+      "source_page_id": "B_0096_R",
+      "excerpt": "Simon took the van to get lampshades at Blackburn"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0096_R begins mid-entry from a prior trip (text about Darts river, clapper bridge, picking up Margaret + Helen — precedes the July 1st heading).",
+    "mixed_end: page ends mid-sentence ('Peter took along') suggesting the July 22nd entry continues on the next page."
+  ],
+  "summary": "Two short day outings from Birmingham recorded on the same diary page. On 1 July 2006 the family drove to Hampton Lode, Shropshire for an evening supper with family friends Margaret and Helen, coinciding with England's Euro exit to Portugal. On 22 July Simon also drove separately to Blackburn for lampshades while Charles, Peter, Simon, Eve and the dog visited Margaret and Helen at Trimley, Suffolk for lunch in the garden.",
+  "extraction_notes": "Page B_0096_R is flagged mixed_start and mixed_end, so the text before 'July 1st, Saturday' belongs to a preceding trip and the July 22nd entry is cut off mid-sentence. Travellers for the Trimley trip are explicitly listed as Charles, Peter, Simon, Eve and Tonic (the dog); no other family members named for July 1st beyond the van supper group. The dog is called 'Tonic' in this entry (family context gives the dog as 'Tinder' — may be a nickname or transcription variant). Blackburn is noted as an unresolved stop: it is almost certainly Blackburn, Lancashire, but it is Simon's solo errand rather than a family excursion stop and is not geocoded as a route stop."
+}

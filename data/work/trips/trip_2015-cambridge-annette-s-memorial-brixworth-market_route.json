@@ -1,0 +1,107 @@
+{
+  "trip_id": "2015-cambridge-annette-s-memorial-brixworth-market",
+  "title": "Cambridge (Annette's Memorial) & Brixworth/Market Harborough",
+  "volume": "B",
+  "spread_range": ["B_0264", "B_0265"],
+  "diary_page_range": [84, 84],
+  "date_start": "2015-09-04",
+  "date_end": "2015-09-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Cambridge, UK",
+      "original_wording": "Cambridge",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0264_L",
+      "excerpt": "Simon + [?Tinder] drove across to Cambridge, bad road works on A14. Arrived 1.30. in time for Annette's Memorial lunch.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Arlingworth Lodge Campsite, Northamptonshire, UK",
+      "original_wording": "[?Arlingworth] Lodge Campsite",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0264_R",
+      "excerpt": "Then Simon + I set out back westwards to the [?Arlingworth] Lodge Campsite, next to the village.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Brixworth, Northamptonshire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0265_L",
+      "excerpt": "We set off for home just before 3 in case Naomi needed help after Walter's tongue-tie op.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Bike ride to Brixworth",
+      "date_guess": "2015-09-05",
+      "stops": [
+        {
+          "normalized_name": "Brixworth, Northamptonshire, UK",
+          "original_wording": "Brixworth",
+          "confidence": 0.95,
+          "source_page_id": "B_0264_R",
+          "excerpt": "set off on a bike ride a disused railway, all the way to Brixworth where we had fish + chips at the pub. The saxon church 640 AD is very impressive.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Bike ride to Market Harborough",
+      "date_guess": "2015-09-06",
+      "stops": [
+        {
+          "normalized_name": "Market Harborough, Leicestershire, UK",
+          "original_wording": "Market Harborough",
+          "confidence": 0.95,
+          "source_page_id": "B_0265_L",
+          "excerpt": "We went on another, 10m. bike ride, the other way, to Market Harborough. We met a pleasant Vietnamese & French couple on a bridge.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Arlingworth] Lodge Campsite",
+      "issue": "Place name uncertain — transcription unclear; Arlingworth is a hamlet in Northamptonshire near Market Harborough and the Brampton Valley Cyclepath, which fits the context perfectly, but spelling needs verification against the original handwriting.",
+      "source_page_id": "B_0264_R",
+      "excerpt": "Then Simon + I set out back westwards to the [?Arlingworth] Lodge Campsite, next to the village."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "B_0264_L",
+      "note": "Page B_0264_L is mixed: the top portion ('Saturday 15 Aug') belongs to a different trip (Channel Tunnel crossing, Kent, M25, Oxford) and is not part of this trip. The 'Friday 4th Sept' heading marks the start of this trip."
+    }
+  ],
+  "summary": "A short domestic UK trip in early September 2015: Simon drove to Cambridge (with Tinder) for a memorial service for Annette at Lucy Cavendish College, while Eve travelled there separately by train from London. Afterwards Simon and Eve drove west to a campsite near Arlingworth, Northamptonshire, from where they made two bike rides along the Brampton Valley Cyclepath — one to Brixworth (with its remarkable Saxon church) and one to Market Harborough — before returning home on Sunday 6 September.",
+  "extraction_notes": "1. Page B_0264_L is a mixed-boundary page: the 'Saturday 15 Aug' section at the top belongs to a preceding trip (Channel Tunnel, Kent, M25, Oxford) and has been excluded from this trip's stops. 2. The campsite name reads '[?Arlingworth] Lodge Campsite' — Arlingworth is a plausible match (hamlet in Northamptonshire on or near the Brampton Valley Cyclepath between Brixworth and Market Harborough), but the original handwriting is uncertain. 3. Cambridge is treated as a main_stop rather than an overnight_base because the diary does not explicitly state the party slept in Cambridge; after the memorial they drove westward to the campsite. 4. Eve's arrival in Cambridge pre-dates Friday 4 Sept (she was at the FCO on the Thursday, then travelled by train from London to Cambridge), but the trip is recorded as starting Friday 4 Sept. 5. No ferry or tunnel crossings — entirely domestic GB trip. 6. The date 2015-09-06 for Sunday is confirmed by the ISO date in page B_0265_L."
+}

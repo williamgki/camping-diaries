@@ -1,0 +1,171 @@
+{
+  "trip_id": "2021-imogen-nick-s-wedding-cheshire-jodrell",
+  "title": "Imogen & Nick's Wedding (Cheshire, Jodrell Bank) + Chester/Netherton Family Camp",
+  "volume": "B",
+  "spread_range": ["B_0351", "B_0353"],
+  "diary_page_range": [52, 53],
+  "date_start": "2021-08-07",
+  "date_end": "2021-08-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "Peter"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Goostrey, Cheshire, UK",
+      "original_wording": "[?Goosefield], Cheshire, near Jodrell Bank",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0351_R",
+      "excerpt": "We are staying at a £32 B&B organised by Conta. Awful reviews. Rich [?foot Ballet] country in Cheshire. Down the road from Jodrell Bank.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "B&B near Jodrell Bank, Cheshire; exact locality uncertain. Goostrey is the village nearest to Jodrell Bank telescope."
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Netherton Touring Site, near Chester, UK",
+      "original_wording": "Netherton touring site",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0352_R",
+      "excerpt": "Netherton touring site. A very good site with swings & good loos. A restaurant just up the road next to a garage. Thomas cooked a BBQ.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Chester" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Near Harlech, Gwynedd, Wales, UK",
+      "original_wording": "near Harlech",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0353_L",
+      "excerpt": "Simon + Eve went west to near Harlech.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Simon and Eve only; Thomas and Peter had already gone home. No campsite name given."
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Cycling and sightseeing in Chester (Monday)",
+      "date_guess": "2021-08-09",
+      "stops": [
+        {
+          "normalized_name": "Chester, UK",
+          "original_wording": "Chester",
+          "confidence": 0.95,
+          "source_page_id": "B_0352_R",
+          "excerpt": "In the afternoon we cycled, all of us (Gigi in a seat on Peter's bike) into Chester & got an ice-cream.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Shopping in Chester (Tuesday)",
+      "date_guess": "2021-08-10",
+      "stops": [
+        {
+          "normalized_name": "Chester, UK",
+          "original_wording": "Chester",
+          "confidence": 0.9,
+          "source_page_id": "B_0352_R",
+          "excerpt": "Flora, Nini & I set off for shopping in Chester.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Cathedral, model railway and restaurant in Chester (Tuesday afternoon)",
+      "date_guess": "2021-08-10",
+      "stops": [
+        {
+          "normalized_name": "Chester Cathedral, Chester, UK",
+          "original_wording": "the Cathedral",
+          "confidence": 0.9,
+          "source_page_id": "B_0353_L",
+          "excerpt": "they saw the Cathedral + a model railway (west coast main line) + arch building. And shopping.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Restaurant lunch in Chester (Wednesday)",
+      "date_guess": "2021-08-11",
+      "stops": [
+        {
+          "normalized_name": "Chester, UK",
+          "original_wording": "a restaurant in Chester",
+          "confidence": 0.88,
+          "source_page_id": "B_0353_L",
+          "excerpt": "Then we all met up at a restaurant in Chester for lunch.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "transit_stops": [
+    {
+      "seq_after": 3,
+      "normalized_name": "Dee Estuary, UK",
+      "original_wording": "Dee estuary",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0353_L",
+      "excerpt": "We had trouble finding a lunch place along the Dee estuary. We saw an old ship with a red + back funnel.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "On the drive west from Chester towards Harlech; Simon & Eve only."
+    },
+    {
+      "seq_after": 3,
+      "normalized_name": "Dolwyddelan Castle, Gwynedd, Wales, UK",
+      "original_wording": "Dolwyddelen Castle",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0353_L",
+      "excerpt": "Travelling inland we passed Dolwyddelen Castle. 1283 it fell to Edward I.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Passed on the drive inland towards Harlech. Diary spells it 'Dolwyddelen'; modern spelling is Dolwyddelan."
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Goosefield]",
+      "issue": "The wedding venue name is uncertain; transcribed as '[?Goosefield]'. Could be a farm or house name near Jodrell Bank, Cheshire. Not identified in gazetteers.",
+      "source_page_id": "B_0351_R",
+      "excerpt": "Lovely \"wedding\" service at Nick Greasley's home ([?Goosefield])."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "Simon and Eve attended the wedding of Imogen Maxwell and Nick Greasley at a private home near Jodrell Bank, Cheshire, staying at a local B&B on the Saturday. They were then joined by Thomas, Peter and various grandchildren for a few days camping at the Netherton touring site near Chester, with day trips into Chester by bike and on foot. On Wednesday Simon and Eve drove west via the Dee estuary and Dolwyddelan Castle to stay near Harlech, while Thomas and Peter returned home.",
+  "extraction_notes": "The first paragraph of B_0351_R ('On the way home we stopped for High Mass with John [?Warburston] at Eye church. Then on to Kennels & home.') belongs to the PREVIOUS trip entry on that page and has been excluded from this trip's route. The wedding date is given as 'August 7th Saturday' which is consistent with 2021-08-07. Monday/Tuesday/Wednesday are inferred as Aug 9/10/11. The transit stops along the Dee estuary and at Dolwyddelan Castle are included as transit_stops (not in main_route) as they are on the drive from Chester to Harlech, not overnight bases. The wedding venue name '[?Goosefield]' remains unresolved."
+}

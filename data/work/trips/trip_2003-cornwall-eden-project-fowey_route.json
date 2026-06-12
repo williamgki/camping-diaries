@@ -1,0 +1,110 @@
+{
+  "trip_id": "2003-cornwall-eden-project-fowey",
+  "title": "Cornwall: Eden Project & Fowey",
+  "volume": "A",
+  "spread_range": ["A_0334", "A_0337"],
+  "diary_page_range": [79, 82],
+  "date_start": "2003-04-04",
+  "date_end": "2003-04-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bundu Campsite, near Okehampton, Devon",
+      "original_wording": "Bundu Campsite N. of Dartmoor, 5 miles west of Okehampton on A.30",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0335_L",
+      "excerpt": "Bundu Campsite *** N. of Dartmoor, 5 miles west of Okehampton on A.30. Very easy to get to after leaving road, clean, but officious land lady",
+      "geocode_hint": { "countrycodes": "gb", "near": "Okehampton, Devon" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Eden Project, Bodelva, Cornwall",
+      "original_wording": "Eden Project",
+      "role": "main_stop",
+      "confidence": 0.98,
+      "approximate": false,
+      "source_page_id": "A_0335_L",
+      "excerpt": "After an hour we reached the Eden Project. It's splendid. There was a special carpark for people with dogs",
+      "geocode_hint": { "countrycodes": "gb", "near": "St Austell, Cornwall" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Penmarlan Campsite, Fowey, Cornwall",
+      "original_wording": "Penmarlan",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0337_L",
+      "excerpt": "Penmarlan * * * * * (name may change) The campsite served as a storage place for over-wintering boats + has been purchased + improved by Fowey Harbour. Basic + clean.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Fowey, Cornwall" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Fowey, Cornwall",
+      "original_wording": "Fowey",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0337_L",
+      "excerpt": "At 9.30. we set off for church in the town. We walked down the hill + caught the ferry. I looked for a hotel to stay in with Di. John + Charles looked after Tonie while Simon + Eve went to church.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Polperro, Cornwall",
+      "original_wording": "Polperro",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0337_R",
+      "excerpt": "We set off looking for a beach for Charles. But after much map reading + travel, including Polperro, we gave up + set off for home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0337_R",
+      "excerpt": "We telephoned Peter ahead + asked him to get ready spaghetti for our arrival at 7.35.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Sat Apr 15th",
+      "issue": "Date appears to be a transcription error. The trip began Friday April 4th 2003; the Saturday would be April 5th, not April 15th. Diary reads 'Sat Apr 15th' but context confirms this is Saturday April 5th.",
+      "source_page_id": "A_0335_L",
+      "excerpt": "Sat Apr 15th. Brilliant sunshine."
+    },
+    {
+      "original_wording": "Bodinnick ferry",
+      "issue": "Bodinnick-Fowey is a car ferry across the River Fowey used on Sunday to reach Fowey town (river crossing, not a sea crossing). Not in ferries.json as it is a local river ferry, not a sea route.",
+      "source_page_id": "A_0337_R",
+      "excerpt": "The Town Fowey, we reached by the Bodinnick ferry, which takes cars + foot passengers to + fro continuously."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A long-weekend trip to Cornwall (Friday 4 to Sunday 6 April 2003) with Simon, Eve, John and Charles (plus the dog Tinder), staying first at Bundu Campsite near Okehampton before visiting the Eden Project and moving on to Penmarlan campsite near Fowey Harbour. On the final day they attended church in Fowey, briefly explored Polperro in search of a beach, then drove home to Birmingham arriving at 7:35 pm.",
+  "extraction_notes": "Thomas, William and Peter did not travel on this trip; Peter was at home and had spaghetti ready for the family's return. The diary date 'Sat Apr 15th' on page A_0335_L is an error — it should be Saturday 5 April 2003. The Fowey car ferry and Bodinnick ferry are local river crossings (River Fowey) and are not sea crossings; they are noted but not recorded as entries in the crossings array. The campsite name 'Penmarlan' is flagged in the diary with a note '(name may change)', suggesting it may trade under a different name. The dog is referred to as both 'Tonie' and 'Tonic' in the diary; the family dog's name is recorded as Tinder."
+}

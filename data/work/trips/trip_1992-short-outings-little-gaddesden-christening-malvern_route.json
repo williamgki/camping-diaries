@@ -1,0 +1,75 @@
+{
+  "trip_id": "1992-short-outings-little-gaddesden-christening-malvern",
+  "title": "Short outings: Little Gaddesden christening & Malvern",
+  "volume": "A",
+  "spread_range": ["A_0060", "A_0060"],
+  "diary_page_range": [116, 116],
+  "date_start": "1992-05-31",
+  "date_end": "1992-06-09",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "Charles", "John"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Day trip to Little Gaddesden christening (Charlotte Maxwell)",
+      "date_guess": "1992-05-31",
+      "stops": [
+        {
+          "normalized_name": "Little Gaddesden, Hertfordshire, UK",
+          "original_wording": "Little Gaddesden",
+          "confidence": 0.95,
+          "source_page_id": "A_0060_L",
+          "excerpt": "The Christening was at Little Gaddesden, + the reception/lunch was at Mrs. della Casa's house.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "Day trip to Malvern to meet Boyle, Urbanchick and the Hills",
+      "date_guess": "1992-06-09",
+      "stops": [
+        {
+          "normalized_name": "Malvern, Worcestershire, UK",
+          "original_wording": "Malvern",
+          "confidence": 0.95,
+          "source_page_id": "A_0060_L",
+          "excerpt": "Simon, Eve, Thomas, Charles (chickenpox) went over to Malvern for Thomas to meet Boyle + Urbanchick, + all to meet the Hills.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "Page A_0060_L has mixed_start=true; the opening lines ('Welshpool. We drove on home...') belong to the preceding trip and are excluded from this route."
+  ],
+  "summary": "Two separate day outings from Birmingham in May-June 1992: on 31 May, Jill and Kate Warburton attended Charlotte Maxwell's christening at Little Gaddesden, Hertfordshire, with John also joining briefly; on 9 June, Simon, Eve, Thomas and Charles (recovering from chickenpox) drove to Malvern to meet friends Boyle, Urbanchick and the Hills. Both trips were home-and-back in a single day with no overnight stays.",
+  "extraction_notes": "This bundle covers two unrelated one-day outings recorded on a single diary page (A_0060_L). The main route is trivially home→home; both visits are modelled as excursions from Birmingham. 'Jill' (outing 1) is not in the standard family list and may be a family friend or relative; she is omitted from the travellers array pending clarification. 'John' is listed in the travellers array as he is a family member explicitly mentioned arriving. The Welshpool sentence at the top of the page is the tail of the preceding Dinas/Wales trip (boundary_mixed=true) and is excluded. No crossings or overnight bases; no unresolved place names."
+}

@@ -1,0 +1,487 @@
+{
+  "trip_id": "2019-france-provence-burgundy-pesmes-malaucene-senanque",
+  "title": "France: Provence & Burgundy (Pesmes, Malaucène, Sénanque, Orange & the Baie de Somme)",
+  "volume": "B",
+  "spread_range": ["B_0320", "B_0333"],
+  "diary_page_range": [2, 34],
+  "date_start": "2019-06-06",
+  "date_end": "2019-06-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0320_R",
+      "excerpt": "We left the house at 1 + dropped Tinker off at kennels. I miss him.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Stalisfield, Kent, UK",
+      "original_wording": "Stalisfield",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0320_R",
+      "excerpt": "6.15 We've reached Stalisfield + changed supper booking from 8.15 to 7.30. Sunshine.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Dover",
+      "original_wording": "crossing",
+      "role": "crossing_terminal",
+      "confidence": 0.55,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no port named outbound (return was the Channel Tunnel from Calais). 'Horrid crossing' suggests a ferry.",
+      "source_page_id": "B_0320_R",
+      "excerpt": "Horrid crossing. Delayed only one hour in the end. The French being extra thorough. We headed south",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Huremont et Villotte campsite (France; near the Reims–Gray route, on a canal)",
+      "original_wording": "huremont et Villotte",
+      "role": "overnight_base",
+      "confidence": 0.5,
+      "approximate": true,
+      "source_page_id": "B_0321_L",
+      "excerpt": "east past Rheims. 6.50. we reached huremont et Villotte, a nice quiet campsite with 2 dogs, ducks + chickens. ... We walked down to look at the canal.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Gray, France",
+      "original_wording": "Gray",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0321_L",
+      "excerpt": "We had a good lunch at a restaurant by a river in Gray which Simon had visited twice before with Charles.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Pesmes, France",
+      "original_wording": "Pesmes (La Colombière campsite, on R. Ognon)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0321_L",
+      "excerpt": "We reached Pesmes a very pretty town with winding streets + the remains of a Roman layout at the top. After supper we wandered around the town.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Saline Royale, Arc-et-Senans, France",
+      "original_wording": "Saline Royale",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0322_R",
+      "excerpt": "As we reached Saline Royale it started to rain. The buildings were designed by Claude-Nicolas Ledoux (1736-1806)",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Meyrieu-les-Étangs, France",
+      "original_wording": "Meyrieu (near Bourgoin)",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0323_L",
+      "excerpt": "We drove SE + camped at Meyrieu. Bourgoin- Damp. I had a good shower. nice a lake",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Malaucène, France",
+      "original_wording": "Malaucene (Camp Bosquet)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0323_L",
+      "excerpt": "Tuesday It has Rained ALL DAY. We kept on SE [th?] we stopped. We have reached Malaucene.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Villes-sur-Auzon, France",
+      "original_wording": "Villes sur Anyon",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0324_L",
+      "excerpt": "We set off S.E. Villes sur Anyon, we stopped briefly. A nice old square. We bought cakes + cherries.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Gorges de la Nesque, France",
+      "original_wording": "Gorge de Vesque",
+      "role": "main_stop",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0324_L",
+      "excerpt": "We travelled along Gorge de Vesque. 1/4 Grand Canyon but small + green + practically no houses. Caves, water patterns in rock.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Gordes, France",
+      "original_wording": "Gordes (\"Source\" campsite)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0324_L",
+      "excerpt": "We reached Gordes, had T&s + walked the 20/30 min from the campsite into town. ... Source.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Saint-Pantaléon, Vaucluse, France",
+      "original_wording": "St Pantaleon",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0325_R",
+      "excerpt": "The French even have a St. Trousers. St Pantaleon. We stopped briefly.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "La Verdière, France",
+      "original_wording": "la Verdière",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0325_R",
+      "excerpt": "We arrived at la Verdière****. I did some washes. The campsite served coq au vin, [?Terling] with salad.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Barjols, France",
+      "original_wording": "Barjols",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0325_R",
+      "excerpt": "We visited Barjols. It's very attractive + has at least 30 drinking fountains. ... A lovely church with imaginative statues.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Cotignac, France",
+      "original_wording": "Cotignac",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0325_R",
+      "excerpt": "On to Cotignac. We parked at the campsite, high up in woods - prettier than the last campsite. ... Blisteringly hot.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Le Thoronet Abbey, France",
+      "original_wording": "Abbey Le Thoronet / Le Thoronet Abbey",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0326_R",
+      "excerpt": "We went onto Le Thoronet Abbey. It's the oldest (1136–1230) of the 3 Provençal Abbeys",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "La Garde-Freinet, France",
+      "original_wording": "La Garde Freinet",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0327_L",
+      "excerpt": "Lunch there then on to La Garde Freinet; a lovely Mediaeval Village. V. Good wine shop Le Cellier run by Hervé Sauvage.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Plan-de-la-Tour, France",
+      "original_wording": "Plan de la Tour ([?Thoraine] campsite)",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0327_L",
+      "excerpt": "Then we came down down down the hills to [?] Plan de la Tour. A lovely campsite [?Thoraine] in an open field with vines, a stream, an old damn.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Saint-Tropez, France",
+      "original_wording": "St. Tropez",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0327_R",
+      "excerpt": "We set off from this lovely, quiet campsite ... soon joined a ghastly queue going into St. Tropez.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Domaine du Rayol, Le Rayol-Canadel-sur-Mer, France",
+      "original_wording": "Domaine du Rayol",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0327_R",
+      "excerpt": "Eventually we reached Domaine du Rayol, a Mediterranean garden which has collected plants from hot places all over the world.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Near Aix-en-Provence, France (unnamed Thursday-night camp)",
+      "original_wording": "set off for Aix ... camped",
+      "role": "overnight_base",
+      "confidence": 0.5,
+      "approximate": true,
+      "source_page_id": "B_0328_L",
+      "excerpt": "In the afternoon we set off for Aix. ... Simon got supper ready – I did yoga, washed clothes & showered.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Aix-en-Provence, France",
+      "original_wording": "Aix (Musée Grenet / Granet)",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0328_L",
+      "excerpt": "In Aix we walked to the Musée [?des] Grenet. ... The Grenet had lovely old paintings ... several Cezannes & paintings of Mont san Victoire.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Orange, France",
+      "original_wording": "Orange (Manon campsite)",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0328_R",
+      "excerpt": "We drove on to Orange & camped at Manon. Saturday We cycled off to look at the Roman ruins. The Triumphal Arch is impressive.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Église Saint-Martin-de-Laives, Laives, France",
+      "original_wording": "St. Martin de Laives Romanesque Church (near St. Jean de Vaux)",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0330_L",
+      "excerpt": "When we got near St. Jean de Vaux we saw a sign to St. Martin de Laives Romanesque Church. We parked + walked up ... there was a music group there.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Laives, France",
+      "original_wording": "Violets de Laives (campsite on a lake)",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0330_R",
+      "excerpt": "We have driven on, to a campsite which is more like a building site, Violets de Laives, on a lake.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 27,
+      "normalized_name": "Villeneuve-sur-Yonne, France",
+      "original_wording": "Villeneuve sur Yonne",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0331_L",
+      "excerpt": "We drove north + west by 3.15. reached Villeneuve sur Yonne. The campsite is by the river, so I did yoga + then we swam.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 28,
+      "normalized_name": "Amiens, France",
+      "original_wording": "Cygalles (swans) campsite, to the west of Amiens",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0331_R",
+      "excerpt": "Off towards Sens, then round Paris. We reached Cygalles (swans) campsite in the afternoon, to the west of Amiens.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 29,
+      "normalized_name": "Noyelles-sur-Mer (Baie de Somme), France",
+      "original_wording": "les Haies de Nolette / \"Chinese Cemetery\" camp, Baie de Somme",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0332_L",
+      "excerpt": "have come up to Baie de Somme ... We are at the \"Chinese Cemetery\" camps at les Haies de Nolette.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 30,
+      "normalized_name": "Coquelles (Eurotunnel)",
+      "original_wording": "Calais / the Channel Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0333_L",
+      "excerpt": "We left at 8.40. for Calais. lovely sunny day. We drove to the Channel Tunnel & followed a handsome Ferrari onto the train.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 31,
+      "normalized_name": "Peter's home, England (location unspecified)",
+      "original_wording": "we visited Peter",
+      "role": "main_stop",
+      "confidence": 0.5,
+      "approximate": true,
+      "source_page_id": "B_0333_L",
+      "excerpt": "In England we visited Peter. Nena & Joconda have a bad chest. Conrad had spent 2 hours playing football",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 32,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0333_R",
+      "excerpt": "Then after chatting & watching a bit of cricket we left for home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "B_0320_R",
+      "excerpt": "Horrid crossing. Delayed only one hour in the end. The French being extra thorough. We headed south"
+    },
+    {
+      "after_seq": 30,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0333_L",
+      "excerpt": "We drove to the Channel Tunnel & followed a handsome Ferrari onto the train. In England we visited Peter."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 12,
+      "label": "Day trip to the Abbey of Sénanque (afternoon tour & Vespers)",
+      "date_guess": "2019-06-15",
+      "stops": [
+        {
+          "normalized_name": "Abbaye de Sénanque, Gordes, France",
+          "original_wording": "Abbey of Sénanque / L'abbaye de Sénanque",
+          "confidence": 0.9,
+          "source_page_id": "B_0325_L",
+          "excerpt": "we ... drove to Sénanque for the 3.30. tour in French. ... We saw the dormitory, warming room, chapter, cloisters, church ... At 6 we joined the monks for Vespers.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 26,
+      "label": "Bike ride from Laives to Buxy & Givry",
+      "date_guess": "2019-06-24",
+      "stops": [
+        {
+          "normalized_name": "Buxy, France",
+          "original_wording": "Buxy",
+          "confidence": 0.85,
+          "source_page_id": "B_0330_R",
+          "excerpt": "We reached Buxy, 10k away, + had a drink outside a bar with some nice Dutch people.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Givry, Saône-et-Loire, France",
+          "original_wording": "Givry / Guiry",
+          "confidence": 0.8,
+          "source_page_id": "B_0331_L",
+          "excerpt": "We decided to go on to Givry ... We reached Guiry + found lunch + looked at the church which had interesting vaulted side aisles.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 28,
+      "label": "Evening cycle into Amiens (cathedral & supper by the Somme)",
+      "date_guess": "2019-06-26",
+      "stops": [
+        {
+          "normalized_name": "Amiens, France",
+          "original_wording": "Amiens",
+          "confidence": 0.85,
+          "source_page_id": "B_0332_L",
+          "excerpt": "After tea we cycled into Amiens along a canal. It was a 13½k round trip ... We looked at the cathedral + had a good supper by the Somme.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 29,
+      "label": "Bike ride to and from Le Crotoy (Baie de Somme)",
+      "date_guess": "2019-06-28",
+      "stops": [
+        {
+          "normalized_name": "Le Crotoy, France",
+          "original_wording": "le Crotoy",
+          "confidence": 0.85,
+          "source_page_id": "B_0332_R",
+          "excerpt": "we cycled to + from le Crotoy. It was a glorious sunny ride along sunken [?Sint] cycle paths + sea rides.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "huremont et Villotte",
+      "issue": "First French overnight campsite (Fri 7 June), reached 'east past Rheims' on the run towards Gray/Pesmes; described as a quiet rural site on a canal with a 'modern village'. The name does not resolve to a confident modern place; it lies somewhere on the Reims–Gray (Champagne/Haute-Marne/Haute-Saône) corridor. Kept as an approximate overnight base; exact location for review.",
+      "source_page_id": "B_0321_L",
+      "excerpt": "east past Rheims. 6.50. we reached huremont et Villotte, a nice quiet campsite with 2 dogs, ducks + chickens."
+    },
+    {
+      "original_wording": "set off for Aix ... camped (unnamed)",
+      "issue": "Thursday 20 June night camp between Domaine du Rayol and Aix-en-Provence: the diary records leaving Rayol in the afternoon, camping (supper/yoga), then visiting Aix the next morning, but never names the campsite. Recorded as an approximate overnight base near Aix; exact location unknown.",
+      "source_page_id": "B_0328_L",
+      "excerpt": "In the afternoon we set off for Aix. ... Simon got supper ready – I did yoga, washed clothes & showered."
+    },
+    {
+      "original_wording": "we visited Peter",
+      "issue": "On the way home after the Channel Tunnel the diary records visiting their son Peter (and grandchildren Nina/Nini, Joconda, Conrad) somewhere 'In England', but gives no town. Kept as an approximate main_stop in England before home; location for review.",
+      "source_page_id": "B_0333_L",
+      "excerpt": "In England we visited Peter. ... I took Nini & Joconda to the shops & the park."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "issue": "mixed_start: the top of B_0320_R is the tail of the PREVIOUS trip (a Suffolk outing - 'tours to Morocco', St. Petronilla's church south of Bury St. Edmunds, lunch east of Naseby 'before going home'). This trip begins at the heading '6th June, Thursday' with 'We left the house at 1 + dropped Tinker off at kennels.' Earlier Suffolk content excluded from this route.",
+      "source_page_id": "B_0320_R"
+    }
+  ],
+  "summary": "A three-and-a-half-week June 2019 camper-van holiday by Simon and Eve (the dog Tinder left in kennels), crossing from Kent to France around the 75th anniversary of D-Day. They worked south-east via an overnight near Reims to Pesmes and Gray in the Saône valley (with the Saline Royale at Arc-et-Senans), then through Meyrieu to a wet Provençal base at Malaucène. After driving the Gorges de la Nesque they based at Gordes (visiting the Abbaye de Sénanque), then moved south through la Verdière, Barjols and Cotignac, taking in Le Thoronet Abbey, La Garde-Freinet, Plan-de-la-Tour, St-Tropez and the Domaine du Rayol gardens. Turning back north via Aix-en-Provence and Roman Orange (Manon campsite), they made their way through Burgundy (a concert at the church of St-Martin-de-Laives, bases at Laives, Villeneuve-sur-Yonne) and Picardy (Amiens), ending with two seaside days on the Baie de Somme at Noyelles-sur-Mer before the Channel Tunnel home, with a stop to see their son Peter in England.",
+  "extraction_notes": "Year fixed firmly to 2019: D-Day '75 years ago' on the radio (B_0320_R) and 'June 9th Sunday ... today, Whitsun' both match 2019 (Whitsun/Pentecost was 9 June 2019), as do the dated headings 'Thursday June 20th' and 'Tuesday June 25th'. The source bundle's OCR date-guesser mislabelled several headings as 2002 (e.g. B_0327_R, B_0331_L/R) and one stray '2002-06' on B_0320_R - all corrected to 2019. No route sketch pages exist, so the main route follows the dated overnight progression (evidence hierarchy 2-3). Travellers are Simon and Eve only (no sons or guests named as travelling; the diary references the family elsewhere but only the couple are on this trip). Outbound crossing: no port is named ('Horrid crossing ... The French being extra thorough'), so the default England-France dover-calais ferry is used (inferred=true); the wording 'horrid crossing' and a one-hour delay reads like a ferry rather than the Tunnel. Return crossing is explicitly the Channel Tunnel from Calais (folkestone-coquelles, kind=tunnel). Pesmes (La Colombière campsite on the R. Ognon) and the first campsite 'huremont et Villotte' are distinct sites - they cycled at the first site on 8 June, lunched at Gray, then drove on to Pesmes. Gray, Saline Royale, Villes-sur-Auzon, the Gorges de la Nesque, Barjols, Le Thoronet, La Garde-Freinet, St-Tropez, the Domaine du Rayol, Aix-en-Provence and St-Martin-de-Laives are visits/stops on driving legs (main_stop / transit_stop), not overnight bases. Simiane (B_0324_R) is NOT recorded as a stop: it is mentioned as the seat of the family that owned Gordes castle (background reading), not a place visited. Three locations are flagged in 'unresolved' but kept on the route: the first French campsite ('huremont et Villotte'), the unnamed Thursday-night camp near Aix, and son Peter's home in England. 'Manon' (Orange), '“Source”' (Gordes), '[?Thoraine]' (Plan-de-la-Tour) and 'Cygalles' (Amiens) are recorded as campsite names against their towns. Place spellings normalised: 'Villes sur Anyon' = Villes-sur-Auzon; 'Gorge de Vesque' = Gorges de la Nesque; 'Guiry' = Givry; 'Saline Royale' = the royal saltworks at Arc-et-Senans."
+}

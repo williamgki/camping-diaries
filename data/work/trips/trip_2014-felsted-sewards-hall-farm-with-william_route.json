@@ -1,0 +1,161 @@
+{
+  "trip_id": "2014-felsted-sewards-hall-farm-with-william",
+  "title": "Felsted: Sewards Hall Farm with William & Joseph (Docklands)",
+  "volume": "B",
+  "spread_range": ["B_0228", "B_0229"],
+  "diary_page_range": [null, 48],
+  "date_start": "2014-05-16",
+  "date_end": "2014-05-19",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder", "William"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Sewards Hall Farm, Felsted, Essex",
+      "original_wording": "Sewards Hall Farm",
+      "role": "overnight_base",
+      "confidence": 0.97,
+      "approximate": false,
+      "source_page_id": "B_0228_L",
+      "excerpt": "Simon, Eve & Tinder left to drive to meet William & Joseph near Felsted. It was a huge field with short grass but the man was not friendly & charged us for 2 pitches. Mean __Sewards Hall Farm__.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Felsted, Essex" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bulphan Hall Farm, Bulphan, Essex",
+      "original_wording": "Bulphan Hall Farm",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0229_L",
+      "excerpt": "3.45. We drove south down the hills into the Thames Estuary + camp at [?At] Bulphan [?Ha] Hall Farm. 2 crashes. The campsite is in a pretty area.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Bulphan, Essex" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0229_L",
+      "excerpt": "by which time William + Joseph had set off back to London",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Flitch Way (disused railway), Saturday 17 May",
+      "date_guess": "2014-05-17",
+      "stops": [
+        {
+          "normalized_name": "Flitch Way, Essex",
+          "original_wording": "Flitch Country Park",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0228_L",
+          "excerpt": "We went along a disused railway line called the Flitch Country Park. Very enjoyable.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Felsted, Essex" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Halfords trip to Braintree, Saturday 17 May",
+      "date_guess": "2014-05-17",
+      "stops": [
+        {
+          "normalized_name": "Braintree, Essex",
+          "original_wording": "Braintree",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0228_R",
+          "excerpt": "Before we left we had to drive to a Halfords in Braintree to buy a bike seat for Joseph",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Lunch at 47, near Rayne, Saturday 17 May",
+      "date_guess": "2014-05-17",
+      "stops": [
+        {
+          "normalized_name": "Rayne, Essex",
+          "original_wording": "Raine",
+          "confidence": 0.7,
+          "approximate": true,
+          "source_page_id": "B_0228_R",
+          "excerpt": "We had a delicious lunch at 47 near Raine, in the garden.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Braintree, Essex" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Lunch with Angela Sills, Sunday 18 May",
+      "date_guess": "2014-05-18",
+      "stops": [
+        {
+          "normalized_name": "Angela Sills' house, near Felsted, Essex",
+          "original_wording": "Angela Sills",
+          "confidence": 0.6,
+          "approximate": true,
+          "source_page_id": "B_0229_L",
+          "excerpt": "Then we went to lunch with Angela Sills. She has a gorgeous house, moated, + garden.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Felsted, Essex" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Docklands / Excel exhibition, Monday 19 May",
+      "date_guess": "2014-05-19",
+      "stops": [
+        {
+          "normalized_name": "Royal Docks, London",
+          "original_wording": "Docklands",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0229_L",
+          "excerpt": "We drove into Docklands. It was interesting to view London arriving from the east. Poor Tinder was trapped in the loo while we looked at the Excel exhibition where Swafer had a stand with Chad on it.",
+          "geocode_hint": { "countrycodes": "gb", "near": "London" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Angela Sills",
+      "issue": "Moated house near Felsted area; exact location of Angela Sills' house not identifiable from diary text alone",
+      "source_page_id": "B_0229_L",
+      "excerpt": "Then we went to lunch with Angela Sills. She has a gorgeous house, moated, + garden."
+    },
+    {
+      "original_wording": "47 near Raine",
+      "issue": "Restaurant or house name '47' near a place spelled 'Raine' — almost certainly Rayne, Essex, but the venue is unidentified",
+      "source_page_id": "B_0228_R",
+      "excerpt": "We had a delicious lunch at 47 near Raine, in the garden."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: April 2014 Lapworth canal-walk entry on B_0228_L belongs to a different trip; excluded from this route",
+    "mixed_end: B_0229_L continues beyond this trip's content"
+  ],
+  "summary": "Simon and Eve (with Tinder) drove from Birmingham on 16 May 2014 to meet their son William and grandson Joseph at Sewards Hall Farm near Felsted, Essex, spending two nights there with walks along the Flitch Way and a Sunday lunch with a friend. On the evening of 18 May they moved south to Bulphan Hall Farm near the Thames Estuary, then visited the Excel exhibition in Docklands on the Monday morning before heading home.",
+  "extraction_notes": "The spread (B_0228–B_0229) has mixed_start and mixed_end flags: an 'April 2014' Lapworth entry on B_0228_L is from a different trip and has been excluded. William's son Joseph (a grandchild) accompanied; 'Swafer' and 'Chad' at the Excel exhibition are not further identified. The campsite transcription reads '[?At] Bulphan [?Ha] Hall Farm' — almost certainly Bulphan Hall Farm, Bulphan, Essex. 'Raine' is read as Rayne, a village near Braintree. The Angela Sills moated house location is unresolved."
+}

@@ -1,0 +1,151 @@
+{
+  "trip_id": "2010-cotswolds-pangolin-foundry-folly-farm-snowshill",
+  "title": "Cotswolds: Pangolin Foundry, Folly Farm & Snowshill Manor",
+  "volume": "B",
+  "spread_range": ["B_0171", "B_0172"],
+  "diary_page_range": [171, 172],
+  "date_start": "2010-05-07",
+  "date_end": "2010-05-09",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Westfield [?S]",
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0171_L",
+      "excerpt": "we left Westfield [?S] & drove to Moreton on the Marsh",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Moreton-in-Marsh, Gloucestershire, UK",
+      "original_wording": "Moreton on the Marsh",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0171_L",
+      "excerpt": "drove to Moreton on the Marsh, Simon had forgotten the map so we didn't find out original campsite near Blockley. We ended up arriving too late (8.10) & slept in carpark",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Folly Farm Campsite, near Winchcombe, Gloucestershire, UK",
+      "original_wording": "Folly Farm",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0171_R",
+      "excerpt": "Then back to our campsite, __Folly Farm__, **** £12 where we're parked under beautiful apple blossom.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Trip ends at home by default; diary text trails off mid-sentence on Sunday May 9th (mixed_end: true) but no onward destination is named",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Saturday: Pangolin Foundry, Chalford",
+      "date_guess": "2010-05-08",
+      "stops": [
+        {
+          "normalized_name": "Lower Swell, Gloucestershire, UK",
+          "original_wording": "Lower Swell, Cotswolds",
+          "confidence": 0.9,
+          "source_page_id": "B_0171_L",
+          "excerpt": "By 8.30 we were having breakfast at William's & Bryony's B&B in Lower Swell, Cotswolds. Very fancy B&B, so posh Simon had to repark the van.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Pangolin Editions Foundry, Chalford, Gloucestershire, UK",
+          "original_wording": "Pangolin Foundry in Chalford",
+          "confidence": 0.95,
+          "source_page_id": "B_0171_L",
+          "excerpt": "By 10 we were at __Pangolin Foundry__ in Chalford. Andy, the designer had organised for a group of students to visit & find out about mould-making & casting metal sculptures",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Saturday evening: Winchcombe — exhibition and supper",
+      "date_guess": "2010-05-08",
+      "stops": [
+        {
+          "normalized_name": "Winchcombe, Gloucestershire, UK",
+          "original_wording": "Winchcombe",
+          "confidence": 0.9,
+          "source_page_id": "B_0171_L",
+          "excerpt": "At 4.40, W&B picked us up in their super car & drove us to Winchcombe to David Thistlethwaite's",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "The Fox Inn, Winchcombe, Gloucestershire, UK",
+          "original_wording": "the Fox",
+          "confidence": 0.8,
+          "source_page_id": "B_0171_R",
+          "excerpt": "We went out to supper at the Fox, lovely walnut & honey tart.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Sunday: Snowshill Manor",
+      "date_guess": "2010-05-09",
+      "stops": [
+        {
+          "normalized_name": "Lower Swell, Gloucestershire, UK",
+          "original_wording": "William & Bryony's B&B",
+          "confidence": 0.85,
+          "source_page_id": "B_0171_R",
+          "excerpt": "We again breakfasted with William & Bryony. The landlady's husband had been an architect for townhalls.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Snowshill Manor, Snowshill, Gloucestershire, UK",
+          "original_wording": "Snowshill Manor",
+          "confidence": 0.95,
+          "source_page_id": "B_0171_R",
+          "excerpt": "We set off to Snowshill Manor, having a bit of trouble with a cycle race enroute. The garden to Snowshill Manor is the most lovely I've seen, on the side of a hill, compartments.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Westfield [?S]",
+      "issue": "Departure point uncertain; '[?S]' is an illegible word or abbreviation. Likely a street or district name in Birmingham near home; treated as home for routing purposes.",
+      "source_page_id": "B_0171_L",
+      "excerpt": "6.25t we left Westfield [?S] & drove to Moreton on the Marsh"
+    },
+    {
+      "original_wording": "[?Admira] [?Hirst]",
+      "issue": "Two uncertain names at Pangolin Foundry — possibly 'Damien Hirst' (artist); not a place name, no routing impact.",
+      "source_page_id": "B_0171_L",
+      "excerpt": "lots of work for [?Admira] [?Hirst]. 92 people work there."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: diary text breaks off mid-sentence on B_0172_L (Sunday May 9th); return date and final routing inferred as home"
+  ],
+  "summary": "A three-day Cotswolds weekend in May 2010 using a campervan, with the first night spent in a carpark near Moreton-in-Marsh after a missed campsite, then two nights at Folly Farm near Winchcombe. Day visits included Pangolin Editions Foundry in Chalford (a bronze sculpture casting foundry), an evening exhibition and dinner in Winchcombe, and Snowshill Manor on the Sunday.",
+  "extraction_notes": "Trip appears to involve just Simon and Eve (William and Bryony are friends/family met en route, not travelling companions). The 'Westfield [?S]' departure is almost certainly Birmingham home. The B&B in Lower Swell (William & Bryony's) was visited for breakfast on Saturday and Sunday but the family slept at Folly Farm campsite. Folly Farm is a real campsite near Chipping Campden/Winchcombe in the Cotswolds. No crossings — entirely domestic UK trip. The diary page B_0172_L contains a photo of Snowshill Manor south front with a brief caption; the text continues from B_0171_R and the diary ends mid-sentence (mixed_end). The Friday night carpark stop near Moreton-in-Marsh is modelled as an overnight_base (unplanned, but they did sleep there)."
+}

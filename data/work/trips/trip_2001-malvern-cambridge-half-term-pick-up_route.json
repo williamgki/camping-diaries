@@ -1,0 +1,82 @@
+{
+  "trip_id": "2001-malvern-cambridge-half-term-pick-up",
+  "title": "Malvern & Cambridge Half-Term: Pick Up John, Visit William",
+  "volume": "A",
+  "spread_range": ["A_0308", "A_0308"],
+  "diary_page_range": [null, 53],
+  "date_start": "2001-10-20",
+  "date_end": "2001-10-21",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tinder", "John"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malvern, UK",
+      "original_wording": "Malvern",
+      "role": "transit_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0308_L",
+      "excerpt": "At Noon we went to Malvern, Simon, Eve, Charles + Tonic, to pick up John.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Cambridge, UK",
+      "original_wording": "Cambridge",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0308_L",
+      "excerpt": "We bought sandwiches, Chocolate, bread + milk at Safeway + drove to Cambridge. William gave us tea in his room in New Court",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0308_R",
+      "excerpt": "After breakfast we decided to go home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Dinner at the Tickle Arms",
+      "date_guess": "2001-10-20",
+      "stops": [
+        {
+          "normalized_name": "Tickle Arms, Cambridge, UK",
+          "original_wording": "the Tickle Arms",
+          "confidence": 0.95,
+          "source_page_id": "A_0308_R",
+          "excerpt": "We went to the Tickle Arms, now owned by Max. They are about to rebuild the extension. The meal was fantastic.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "Pages A_0308_L and A_0308_R are mixed: the left page begins with content from a separate Normandy/France trip (Carteret, Cherbourg ferry) before the heading 'Saturday 20th October' starts the Malvern/Cambridge content. The right page (A_0308_R) also ends mid-sentence, suggesting the trip continues beyond the page boundary but the diary narrative ends at the return-home decision."
+  ],
+  "summary": "A two-day half-term weekend trip (20-21 October 2001): Simon, Eve, Charles and Tinder drove from Birmingham to Malvern to collect John, then on to Cambridge to visit William at his university rooms in New Court. They camped in Cambridge (St. Neots was flooded), enjoyed a five-course dinner at the Tickle Arms, and returned home the following morning after overnight rain.",
+  "extraction_notes": "Pages are part of a mixed spread (A_0308) shared with an earlier Normandy/France trip. The relevant 2001 content begins at the heading 'Saturday 20th October' on A_0308_L. Page A_0308_R is numbered p.53 and covers Sunday 21st October. No ferry crossings — entirely UK domestic. 'Tonic' is the family dog (Tinder); 'New Court' is a court at Trinity College or St John's College, Cambridge. St. Neots was planned but not visited (site flooded), so not included as a stop. William is noted as visiting the campsite with the family but is resident at Cambridge rather than a travelling member of the party."
+}

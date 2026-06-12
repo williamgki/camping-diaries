@@ -1,0 +1,78 @@
+{
+  "trip_id": "2020-hop-picking-at-the-farm-westfield",
+  "title": "Hop-picking at the Farm (Westfield Rd era)",
+  "volume": "B",
+  "spread_range": ["B_0338", "B_0338"],
+  "diary_page_range": null,
+  "date_start": "2020-08-23",
+  "date_end": "2020-09-01",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bromyard, Herefordshire, UK",
+      "original_wording": "the farm",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0338_R",
+      "excerpt": "Tinder, Simon + Eve set off at 4.30. for hop picking at the farm. We stayed from Sunday to Saturday.",
+      "note": "\"The farm\" is Kate & Jamie's farm near Bromyard, Herefordshire, as identified in multiple earlier diary entries (e.g. 1995, 2004). First visit: Sunday 23 Aug to Saturday 29 Aug 2020.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0338_R",
+      "excerpt": "We return again Sunday Aug 30th. We set off at 16.40.",
+      "note": "Implied brief return home between the two farm visits (Saturday 29 Aug to Sunday 30 Aug departure at 16.40).",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Bromyard, Herefordshire, UK",
+      "original_wording": "the farm",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0338_R",
+      "excerpt": "We spent Sunday + Monday nights at the farm, next to the croquet lawn behind the [?yew] hedge.",
+      "note": "Second visit: Sunday 30 Aug to Monday 31 Aug (two nights). Camped next to the croquet lawn behind the yew hedge.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0338_R",
+      "excerpt": "We are heading home now to go to a socially distanced street party with our neighbours-to-be at George Rd.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "Simon and Eve (with dog Tinder) made two separate visits to Kate and Jamie's hop farm near Bromyard, Herefordshire in August 2020 to help with the hop harvest. The first stay ran from Sunday 23rd to Saturday 29th August, the second from Sunday 30th to Monday 31st August, after which they returned to Birmingham for a socially distanced street party with their new neighbours on George Road.",
+  "extraction_notes": "Only Simon, Eve, and Tinder are named as travellers; 'William' mentioned in the text appears to be a farm worker/friend (William asked Eve to do first aid), not son William. 'Westfield Rd' and 'George Rd' in the diary are Birmingham home addresses (the family was in the process of moving house), not trip stops. 'The farm' is confidently identified as Kate and Jamie's farm near Bromyard, Herefordshire, from cross-reference with 1995 and 2004 diary entries. The date_end of 2020-09-01 is approximate — two nights from Sunday 30 Aug puts return on Tuesday 1 Sep. The trip is a UK domestic trip with no crossings."
+}

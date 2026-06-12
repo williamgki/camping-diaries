@@ -1,0 +1,68 @@
+{
+  "trip_id": "2005-aston-cantlow-kinwarton-dovecot",
+  "title": "Aston Cantlow & Kinwarton Dovecot",
+  "volume": "B",
+  "spread_range": ["B_0053", "B_0054"],
+  "diary_page_range": [null, 51],
+  "date_start": "2005-04-09",
+  "date_end": "2005-04-10",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Aston Cantlow, Warwickshire, UK",
+      "original_wording": "Aston Cantlow",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0053_L",
+      "excerpt": "At 11 we set off for Aston Cantlow.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Kinwarton Dovecot, Alcester, Warwickshire, UK",
+      "original_wording": "Kinwarton Dovecot",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0054_L",
+      "excerpt": "We drove on to Kinwarton Dovecot",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips end at home unless diary shows otherwise; diary ends mid-trip (mixed_end) with no departure evidence recorded",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: diary pages end mid-trip; return home is inferred"
+  ],
+  "summary": "A short two-day Easter weekend trip from Birmingham to Aston Cantlow, Warwickshire, where the family (Simon, Eve, John, Charles, and the dog Tinder) stayed overnight at Island Meadow Caravan Park, enjoyed a celebrated pub meal at The King's Head, and visited the local church. On the second day (Easter Sunday, 9 April 2005 - the day of Prince Charles and Camilla's wedding) they drove on to Kinwarton Dovecot near Alcester.",
+  "extraction_notes": "Trip ends mid-diary (mixed_end: true); the page ends with 'We drove on to Kinwarton Dovecot' with no further content transcribed, so the return to Birmingham is inferred. Thomas, William, and Peter are mentioned as being elsewhere (US/Rome, London, Shanghai respectively) and did not travel on this trip. The dog is referred to as 'Tonic' in the diary - this is the family dog Tinder. The campsite is identified in the diary as Island Meadow Caravan Park (www.islandmeadowcaravanpark mentioned on B_0054_L). Diary page B_0053_L has no page number; B_0053_R is numbered page 51."
+}

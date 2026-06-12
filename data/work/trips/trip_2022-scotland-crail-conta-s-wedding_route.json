@@ -1,0 +1,101 @@
+{
+  "trip_id": "2022-scotland-crail-conta-s-wedding",
+  "title": "Scotland: Crail (Conta's Wedding)",
+  "volume": "B",
+  "spread_range": ["B_0361", "B_0361"],
+  "diary_page_range": [null, null],
+  "date_start": "2022-03",
+  "date_end": "2022-03",
+  "date_precision": "month",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Crail, Fife, Scotland",
+      "original_wording": "Crail",
+      "role": "overnight_base",
+      "confidence": 0.97,
+      "approximate": false,
+      "source_page_id": "B_0361_L",
+      "excerpt": "We went on + on + will be getting to Crail about 4.15. Conta has rented a house where we are staying.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Wedding at the Cow Shed at Crail",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "The Cow Shed, Crail, Fife, Scotland",
+          "original_wording": "Cow Shed at Crail",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0361_L",
+          "excerpt": "The wedding was beautiful in the Cow Shed at Crail.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sunday brunch at the Crushed (post-wedding brunch)",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "The Crushed, Crail, Fife, Scotland",
+          "original_wording": "the Crushed",
+          "confidence": 0.6,
+          "approximate": true,
+          "source_page_id": "B_0361_L",
+          "excerpt": "We chatted + then went to the brunch back in the Crushed.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[Chorby?] Woods",
+      "issue": "Transcription uncertain; place name unclear. A breakfast stop on the drive north from Birmingham to Crail, at approximately 8:25 am ('on the road again at 8.55'). Possibly a named woodland en route through England or southern Scotland — cannot identify.",
+      "source_page_id": "B_0361_L",
+      "excerpt": "[Chorby?] Woods at about 8.25. for breakfast, on the road again at 8.55."
+    },
+    {
+      "original_wording": "the Crushed",
+      "issue": "Venue name uncertain — possibly a transcription error for 'the Cow Shed' (wedding venue used the day before), or a separate post-wedding brunch venue in or near Crail. Treated as a Crail-area excursion stop.",
+      "source_page_id": "B_0361_L",
+      "excerpt": "We chatted + then went to the brunch back in the Crushed."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: true — diary page B_0361 may contain content from a subsequent trip"
+  ],
+  "summary": "A trip to Crail in Fife, Scotland for the wedding of Conta (a family friend), who had rented a house for guests to stay in. The Saturday wedding was held at The Cow Shed at Crail, followed by a post-wedding brunch on Sunday before the return home to Birmingham.",
+  "extraction_notes": "Only one diary page (B_0361_L) covers this trip. The boundary_mixed flag on this page indicates the page may run into the next trip. Dates are month-precision only (2022-03 based on date_guess; Welsh daffodils brought as a gift suggest late winter/early spring). The transit breakfast stop '[Chorby?] Woods' on the outward journey has an uncertain transcription and cannot be geocoded — logged as unresolved rather than a main_route stop. 'The Crushed' (Sunday brunch venue) is possibly a mis-transcription of 'The Cow Shed'; treated as a Crail-area excursion with low confidence. No family member names are explicitly listed for this trip in the diary text; 'we' implies Simon and Eve at minimum. No ferry crossings — trip is entirely within Great Britain."
+}

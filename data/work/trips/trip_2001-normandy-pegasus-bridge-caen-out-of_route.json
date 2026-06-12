@@ -1,0 +1,136 @@
+{
+  "trip_id": "2001-normandy-pegasus-bridge-caen-out-of",
+  "title": "Normandy: Pegasus Bridge & Caen",
+  "volume": "A",
+  "spread_range": ["A_0350", "A_0350"],
+  "diary_page_range": [45, 45],
+  "date_start": "2001",
+  "date_end": "2001",
+  "date_precision": "year",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Portsmouth",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.55,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Caen (Ouistreham) is a direct ferry destination from Portsmouth; no port named in diary but Portsmouth-Caen is the natural route from Birmingham to Normandy",
+      "source_page_id": "A_0350_R",
+      "excerpt": "We drove on to Caen, where, after much searching, we found the camp site shut.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Caen (Ouistreham)",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.55,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Portsmouth-Caen ferry arrives at Ouistreham; no port explicitly named in diary",
+      "source_page_id": "A_0350_R",
+      "excerpt": "We drove on to Caen, where, after much searching, we found the camp site shut.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Pegasus Bridge, Bénouville, France",
+      "original_wording": "Pegasus Bridge",
+      "role": "main_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0350_L",
+      "excerpt": "Pegasus Bridge from the air showing the first house liberated (now a café) & the position where the 3 gliders crash landed. 00.19 hrs June 6th 1944",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Caen, France",
+      "original_wording": "Caen",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0350_R",
+      "excerpt": "We drove on to Caen, where, after much searching, we found the camp site shut. So we have camped in some trees beside the racecourse.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips start and end at home unless diary says otherwise; return journey not documented in this single surviving page",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "portsmouth-caen",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "inference_reason": "Normandy/Caen destination from Birmingham strongly implies Portsmouth-Caen (Ouistreham) ferry; no crossing named in diary",
+      "source_page_id": "A_0350_R",
+      "excerpt": "We drove on to Caen, where, after much searching, we found the camp site shut."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Cycling into Caen: Abbaye aux Dames & Abbaye aux Hommes",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Abbaye aux Dames, Caen, France",
+          "original_wording": "Abbaye aux Dames",
+          "confidence": 0.95,
+          "source_page_id": "A_0350_R",
+          "excerpt": "We cycled into Caen & saw the Abbaye aux Dames, which is mostly rebuilt",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Abbaye aux Hommes, Caen, France",
+          "original_wording": "Abbaye aux Hommes",
+          "confidence": 0.95,
+          "source_page_id": "A_0350_R",
+          "excerpt": "& the Abbaye aux Hommes, which has a plain west front & elegant towers. There are also good misericords.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Place] [?Toutonne]",
+      "issue": "Illegible place name in diary, possibly 'Place Toutonne' or similar — could be a square or street name in Caen where they dined at Alcide",
+      "source_page_id": "A_0350_R",
+      "excerpt": "We ate supper at Alcide, in the big square with lots of sail boats. The cycle lanes are good. [?Place] [?Toutonne]."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: true — A_0350_R is flagged as boundary_mixed; this is a single out-of-sequence/misfiled page and the surrounding trip context is unknown"
+  ],
+  "summary": "A fragment from 2001 covering a Normandy visit, with stops at Pegasus Bridge (the D-Day canal crossing site, including the café in the first liberated house) and Caen, where the family camped beside the racecourse after finding the regular campsite shut. They cycled into Caen to visit the two great abbeys and dined at the restaurant Alcide.",
+  "extraction_notes": "This is a single surviving spread (A_0350) flagged as out-of-sequence and misfiled. Only one diary narrative page survives (A_0350_R, page 45); A_0350_L is a photo caption describing Pegasus Bridge aerially with historical D-Day detail. No crossing is named; the Portsmouth–Caen (Ouistreham) ferry is inferred as the natural route from Birmingham to Normandy. Travellers are listed as Simon and Eve only (no children mentioned in the text); this may be an adults-only trip but cannot be confirmed from one page. Exact dates within 2001 are unknown. The return journey is entirely undocumented. 'Alcide' restaurant and '[?Toutonne]' square are in Caen but are not geocodable stops — Alcide is treated as dining context rather than a route stop."
+}

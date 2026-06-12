@@ -1,0 +1,97 @@
+{
+  "trip_id": "2013-hay-on-wye-rodnors-farm-black",
+  "title": "Hay-on-Wye: Rodnors Farm, Black Mountain Gliding & Raglan Castle",
+  "volume": "B",
+  "spread_range": ["B_0216", "B_0216"],
+  "diary_page_range": null,
+  "date_start": "2013-06-28",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hay-on-Wye, Wales, UK",
+      "original_wording": "Hay on Wye",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0216_R",
+      "excerpt": "Simon, Eve, Peter, Nana, Conrad (3½ m) + Tinder get off for Hay on Wye. We arrive, set up the tent & walk down to the town past the 3 Tuns for a drink. … Rodnors Farm***** clean.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday: bookshops, food festival, Gaskells, map shop in Hay-on-Wye",
+      "date_guess": "2013-06-29",
+      "stops": [
+        {
+          "normalized_name": "Hay-on-Wye town centre, Wales, UK",
+          "original_wording": "bookshops … food festival … map shop",
+          "confidence": 0.95,
+          "source_page_id": "B_0216_R",
+          "excerpt": "We walk up to the bookshops, browsed, ate Shepherd’s icecreams bought food at the food festival. At 11 we had coffee with Mrs. Gaskell & John, saw John’s mental health allotment. … Peter dragged us off to see the map shop before it shut.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Crunachie]",
+      "issue": "Uncertain place name on a map bought at Hay-on-Wye map shop; could be a Scottish location (Crianlarich?) or Welsh. Context only is that maps of this area were purchased.",
+      "source_page_id": "B_0216_R",
+      "excerpt": "We bought maps of the areas of [?Crunachie], [?Swased] & [?Bham] canals"
+    },
+    {
+      "original_wording": "[?Swased]",
+      "issue": "Uncertain place name on a map bought at the Hay-on-Wye map shop; possibly 'Swansea' or similar Welsh location.",
+      "source_page_id": "B_0216_R",
+      "excerpt": "We bought maps of the areas of [?Crunachie], [?Swased] & [?Bham] canals"
+    },
+    {
+      "original_wording": "Black Mountain Gliding (from title_guess)",
+      "issue": "Named in the trip title guess but not present in the transcribed page (B_0216_R only). Likely on continuation pages not captured in this bundle (mixed_end=true). Black Mountain Gliding Club is near Talgarth, Powys, Wales.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Raglan Castle (from title_guess)",
+      "issue": "Named in the trip title guess but not present in the transcribed page (B_0216_R only). Likely on continuation pages not captured in this bundle (mixed_end=true). Raglan Castle is in Monmouthshire, Wales.",
+      "source_page_id": null,
+      "excerpt": null
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: trip may begin mid-page; earlier content on B_0216 may belong to a prior trip",
+    "mixed_end: trip continues beyond B_0216; Black Mountain Gliding and Raglan Castle (from title_guess) are not yet accounted for in the transcribed pages"
+  ],
+  "summary": "A short camping trip to Hay-on-Wye, Wales, with Simon, Eve, Peter, baby Conrad, Nana and the dog Tinder, staying at Rodnors Farm campsite. The Saturday was spent browsing the famous bookshops, attending the food festival, and visiting John Gaskell and his allotment. The trip title also references Black Mountain Gliding and Raglan Castle, but those visits appear on pages not captured in this bundle.",
+  "extraction_notes": "Only one page (B_0216_R) is transcribed; both mixed_start and mixed_end are true, meaning the diary content continues onto adjacent pages. The title_guess references 'Black Mountain Gliding' (likely Black Mountain Gliding Club near Talgarth, Powys) and 'Raglan Castle' (Monmouthshire) — these have been flagged as unresolved since they do not appear in the transcribed text. The uncertain place names [?Crunachie], [?Swased] from the map purchase sentence are retained as unresolved; '[?Bham] canals' likely refers to Birmingham canals (consistent with the family's home area). 'Nana' and 'Conrad' (3.5 months old) are additional travellers not part of the core family list — Nana is likely a grandmother figure and Conrad a new baby (possibly Peter's child or a family friend's infant). The end date is unknown as the trip text is cut off. The return-home stop at seq 3 is inferred per standard convention but marked with slightly lower confidence given the incomplete pages."
+}

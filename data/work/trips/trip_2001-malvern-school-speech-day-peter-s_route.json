@@ -1,0 +1,64 @@
+{
+  "trip_id": "2001-malvern-school-speech-day-peter-s",
+  "title": "Malvern (school speech day, Peter's 18th)",
+  "volume": "A",
+  "spread_range": ["A_0292", "A_0292"],
+  "diary_page_range": [292, 292],
+  "date_start": "2001-05-25",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malvern, Worcestershire, UK",
+      "original_wording": "[?Malvern]",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0292_R",
+      "excerpt": "Simon, Eve & Charles [?Tonic] set off for [?Malvern] at 4.45. We dropped off Nathan Archer on the way. ... John & Peter sang & played in the summer concert. Charles met Jamie Russell who is to be his housemaster. We camped",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[?Tonic]",
+      "issue": "Unclear whether 'Tonic' is the dog (family dog is named Tinder) or another pet; transcription uncertainty indicated by [?]",
+      "source_page_id": "A_0292_R",
+      "excerpt": "Simon, Eve & Charles [?Tonic] set off for [?Malvern] at 4.45"
+    },
+    {
+      "original_wording": "Nathan Archer drop-off location",
+      "issue": "Diary says they dropped off Nathan Archer on the way to Malvern but gives no location; cannot determine intermediate stop",
+      "source_page_id": "A_0292_R",
+      "excerpt": "We dropped off Nathan Archer on the way"
+    },
+    {
+      "original_wording": "end date unknown",
+      "issue": "Page is mixed_end=true; the entry cuts off after 'We camped' with no return date visible; date_end cannot be determined",
+      "source_page_id": "A_0292_R",
+      "excerpt": "We camped"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0292_R also contains an unrelated Bath cycling entry (Monday May 7th) from a different trip",
+    "mixed_end: entry cuts off mid-sentence after 'We camped'; return to Birmingham not recorded on this page"
+  ],
+  "summary": "A one-night trip to Malvern on 25 May 2001 for Peter's 18th birthday and the school summer concert, at which John and Peter performed. Simon, Eve, and Charles drove from Birmingham, dropping off a school friend (Nathan Archer) en route, and camped overnight.",
+  "extraction_notes": "Single mixed-boundary page. The Bath cycling section (Monday May 7th) on the same page belongs to a separate trip (likely trip_2001-bath-bath-marina-bristol-cycle-path). Destination 'Malvern' has a transcription query mark ([?Malvern]) but is strongly supported by context (school concert, Peter's housemaster mention, consistent with Malvern College). No ferry or crossing involved. John and Peter were presumably already at Malvern College as boarders; only Simon, Eve, and Charles are named as travelling from Birmingham. No date_end is recoverable from this page."
+}

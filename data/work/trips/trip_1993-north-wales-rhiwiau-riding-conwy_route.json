@@ -1,0 +1,113 @@
+{
+  "trip_id": "1993-north-wales-rhiwiau-riding-conwy",
+  "title": "North Wales: Rhiwiau Riding, Conwy",
+  "volume": "A",
+  "spread_range": ["A_0111", "A_0111"],
+  "diary_page_range": [111, 111],
+  "date_start": "1993-08-07",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Rhiwiau Riding Centre, North Wales",
+      "original_wording": "Rhiwiau Riding Centre",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0111_L",
+      "excerpt": "We set off at nine to take the boys to Rhiwiau Riding Centre.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Llanfairfechan, Wales" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Conwy, Wales",
+      "original_wording": "Conwy",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0111_L",
+      "excerpt": "We walked around Conwy on the walls & saw an aquarium with lobsters & eels & went inside the smallest house in Britain.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Conwy Valley area, Wales",
+      "original_wording": "middle of nowhere, near a dam",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0111_L",
+      "excerpt": "We camped in the middle of nowhere, near a dam.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Conwy Valley, Wales" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Hill walk from camp",
+      "date_guess": "1993-08-08",
+      "stops": [
+        {
+          "normalized_name": "Hills near Conwy Valley dam, Wales",
+          "original_wording": "into the hills",
+          "confidence": 0.65,
+          "approximate": true,
+          "source_page_id": "A_0111_L",
+          "excerpt": "John & Charles walked 3½ miles up into the hills",
+          "geocode_hint": { "countrycodes": "gb", "near": "Conwy Valley, Wales" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Llandudas]",
+      "issue": "Transcribed as uncertain; likely Llandulas (near Abergele, Conwy county) or possibly Llandudno Junction — diary spelling ambiguous. They had lunch on the sea front here.",
+      "source_page_id": "A_0111_L",
+      "excerpt": "We had lunch on the sea front at [?Llandudas] [?Llanfairfechan]"
+    },
+    {
+      "original_wording": "[?Llanfairfechan]",
+      "issue": "Transcribed as uncertain; Llanfairfechan is a coastal village between Conwy and Bangor. Mentioned alongside [?Llandudas] as the lunch location on the sea front — may be the same stop or two adjacent stops.",
+      "source_page_id": "A_0111_L",
+      "excerpt": "We had lunch on the sea front at [?Llandudas] [?Llanfairfechan]; where Simon tried to sail his boat in a boating pond."
+    },
+    {
+      "original_wording": "near a dam",
+      "issue": "Campsite described only as 'middle of nowhere, near a dam'. Several reservoirs/dams exist in the Conwy Valley area (e.g. Llyn Cowlyd, Llyn Eigiau, Dolgarrog area). Cannot pinpoint without further evidence.",
+      "source_page_id": "A_0111_L",
+      "excerpt": "We camped in the middle of nowhere, near a dam."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0111_L begins with a 'Sat. 31st July' entry ('We left at 9.30, & had lunch on the Dover-Calais ferry on the way back to Westfield Rd.') that belongs to the preceding France trip, not this trip. The North Wales trip content begins at the 'Sat 7th August' heading."
+  ],
+  "summary": "A short North Wales trip on 7–8 August 1993, during which Thomas, William and Peter were deposited at Rhiwiau Riding Centre while Simon, Eve, John and Charles visited Conwy (walls, aquarium, smallest house in Britain) and camped near a dam somewhere in the hills. John and Charles walked 3½ miles into the hills the following morning.",
+  "extraction_notes": "Single diary page (A_0111_L) with boundary_mixed=true. The 'Sat. 31st July' passage at the top of the page — mentioning the Dover-Calais ferry returning home — is the tail of the preceding France trip and has been excluded from this route. The trip is entirely domestic (Wales, UK); no ferry crossing involved. The lunch location on the sea front is uncertain between [?Llandudas] (likely Llandulas) and [?Llanfairfechan] — treated as unresolved transit stops rather than named main_route stops. The overnight camp 'near a dam' is placed as an approximate overnight_base in the Conwy Valley area. End date is not explicitly stated in the diary; the trip likely ended 8 or 9 August 1993 but this cannot be confirmed from the available page."
+}

@@ -1,0 +1,167 @@
+{
+  "trip_id": "2000-hendon-raf-museum-london-courtauld-science",
+  "title": "Hendon RAF Museum & London (Courtauld, Science Museum, Tate Modern, Globe)",
+  "volume": "A",
+  "spread_range": ["A_0285", "A_0290"],
+  "diary_page_range": [285, 290],
+  "date_start": "2001-10-20",
+  "date_end": "2001-10-23",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0285_R",
+      "excerpt": "We left home at 9.50. & drove to Coleshill",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Coleshill, Warwickshire, UK",
+      "original_wording": "Coleshill",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0285_R",
+      "excerpt": "drove to Coleshill & bought a Brompton folding bike",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Royal Air Force Museum London, Hendon",
+      "original_wording": "Hendon RAF museum",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0285_R",
+      "excerpt": "we had lunch in the carpark at the Hendon RAF museum. Peter went on a flight simulator.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Picketts Lock, Edmonton, London",
+      "original_wording": "Picketts Lock",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0290_L",
+      "excerpt": "We shan't be coming to Picketts Lock again, because it the cinema building is being demolished for a national athletics centre.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0290_L",
+      "excerpt": "I now have a portable CD player which makes driving along very pleasant.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Sunday: Westminster, the Courtauld & Covent Garden",
+      "date_guess": "2001-10-21",
+      "stops": [
+        {
+          "normalized_name": "St Margaret's Church, Westminster, London",
+          "original_wording": "St. Margaret's Westminster",
+          "confidence": 0.85,
+          "source_page_id": "A_0286_L",
+          "excerpt": "We drove to David's food & left the van & got to St. Margaret's Westminster. A lovely church",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Courtauld Gallery, Somerset House, London",
+          "original_wording": "the Courtauld at Somerset House",
+          "confidence": 0.9,
+          "source_page_id": "A_0286_R",
+          "excerpt": "went to the Courtauld at Somerset House. A marvellous museum with old French ivories",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Covent Garden, London",
+          "original_wording": "Covent Garden",
+          "confidence": 0.85,
+          "source_page_id": "A_0286_R",
+          "excerpt": "we went to Covent Garden, where Simon & Charles visited the Transport Museum & John had a caricature done.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Monday: Hamleys, Liberty's & the Science Museum",
+      "date_guess": "2001-10-22",
+      "stops": [
+        {
+          "normalized_name": "Hamleys, Regent Street, London",
+          "original_wording": "Hamleys",
+          "confidence": 0.85,
+          "source_page_id": "A_0287_L",
+          "excerpt": "reached Hamleys at 11. We left John + Charles there for 2 hours",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Liberty, Regent Street, London",
+          "original_wording": "Liberty's",
+          "confidence": 0.75,
+          "source_page_id": "A_0287_L",
+          "excerpt": "Eve stopped at Liberty's for Mary Haines' green baize for a card table",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Science Museum, London",
+          "original_wording": "Science Museum",
+          "confidence": 0.9,
+          "source_page_id": "A_0287_L",
+          "excerpt": "Then we set off for the Science Museum.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Tuesday: Tate Modern & Shakespeare's Globe",
+      "date_guess": "2001-10-23",
+      "stops": [
+        {
+          "normalized_name": "Tate Modern, Bankside, London",
+          "original_wording": "Tate Modern",
+          "confidence": 0.9,
+          "source_page_id": "A_0288_R",
+          "excerpt": "We reached the Tate Modern at 11.15. + met up with Thomas.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Shakespeare's Globe, Bankside, London",
+          "original_wording": "Globe theatre",
+          "confidence": 0.85,
+          "source_page_id": "A_0289_L",
+          "excerpt": "we went to the Globe theatre, where we could not stay long enough. A good Scotswoman, Margaret,",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "issue": "Page A_0285_R is boundary-mixed (mixed_start=true). Its first segment, headed 'Sunday Sept 24th' (Sept 24 = Sunday in 2000), is the TAIL of a PRIOR trip: it narrates driving towards Birmingham, visiting St. Oswald's Ashbourne, and then 'We set off to reach home for lunch.' That content is excluded from this trip's route. This trip proper begins at the 'Sat October 20th' heading: 'We left home at 9.50.'",
+      "source_page_id": "A_0285_R",
+      "excerpt": "We set off to reach home for lunch. __Sat October 20th.__ We left home at 9.50."
+    }
+  ],
+  "summary": "An autumn long-weekend camping trip from Birmingham to London in October 2001. The family drove via Coleshill (buying a Brompton bike) to the Hendon RAF Museum, then camped at Picketts Lock in north London and made daily forays into the city: St Margaret's Westminster and the Courtauld at Somerset House, then Hamleys/Liberty's and the Science Museum, and finally the Tate Modern and Shakespeare's Globe before driving home.",
+  "extraction_notes": "Fixed-base trip: Picketts Lock campsite (Edmonton) is the single overnight base, named only on the final page ('We shan't be coming to Picketts Lock again'); the central-London cultural visits are grouped as day-trip excursions from that base. DATE CORRECTION: the bundle's date_guess was 2000-10-20, but the diary's weekday/date pairs ('Sat October 20th', 'Sun Oct 21st') only match 2001 (20 Oct 2001 = Saturday; cf. page A_0286_L iso '2001-10-21'), so date_start/date_end are set to Oct 20-23 2001. The trip_id slug ('2000-...') is retained verbatim as instructed even though the true year is 2001. The '12 June 1997' date on page A_0289_R is a caption about a historic Globe performance the Queen attended, not a trip date. No sea crossings (UK-only trip), so crossings is empty. The return-home leg is inferred from the closing 'driving along' note (final page) rather than an explicit arrival; given confidence 0.7."
+}

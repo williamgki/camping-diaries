@@ -1,0 +1,73 @@
+{
+  "trip_id": "2003-cambridge-king-s-college-may-ball",
+  "title": "Cambridge: King's College May Ball (William & Bryony)",
+  "volume": "A",
+  "spread_range": ["A_0342", "A_0342"],
+  "diary_page_range": [342, 342],
+  "date_start": "2003-06-17",
+  "date_end": "2003-06-17",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Cambridge, UK",
+      "original_wording": "Cambridge",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0342_L",
+      "excerpt": "Samon + Eve set off at 4 for Cambridge + parked at William's house, 7 Maddingley Rd.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips end at home unless diary states otherwise; no return narrative recorded (mixed_end page)",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "King's College May Ball dinner",
+      "date_guess": "2003-06-17",
+      "stops": [
+        {
+          "normalized_name": "King's College, Cambridge",
+          "original_wording": "Kings College",
+          "confidence": 0.95,
+          "source_page_id": "A_0342_L",
+          "excerpt": "Friends fetched William + Bryony from Kings College, where they had been getting ready for the May Ball. William had managed to get us first-sitting dinner tickets in the long room at 8 pm.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: page A_0342_L is shared with the following trip; no return journey recorded"
+  ],
+  "summary": "Simon and Eve drove from Birmingham to Cambridge on 17 June 2003 for the King's College May Ball, joining William and his partner Bryony. They enjoyed first-sitting dinner in the famous candlelit Long Room at King's College, followed by fireworks.",
+  "extraction_notes": "Only one diary page survives for this trip (A_0342_L, mixed_end=true). The date 'Tuesday June 17th' resolves to 2003-06-17 consistent with the trip_id year. The iso field in the source JSON incorrectly shows 1997-06-17 — the correct year is 2003. Return to Birmingham is inferred per standard convention; no return narrative is present. William is listed as a traveller in the title context but was already at Cambridge (a student); the travelling party from Birmingham comprised Simon and Eve only. King's College is treated as an excursion from the Cambridge overnight base rather than a separate main-route stop."
+}

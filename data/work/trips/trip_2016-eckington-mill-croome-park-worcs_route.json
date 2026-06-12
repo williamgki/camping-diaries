@@ -1,0 +1,87 @@
+{
+  "trip_id": "2016-eckington-mill-croome-park-worcs",
+  "title": "Eckington Mill & Croome Park (Worcs)",
+  "volume": "B",
+  "spread_range": ["B_0275", "B_0275"],
+  "diary_page_range": [275, 275],
+  "date_start": "2016-09-02",
+  "date_end": "2016-09-04",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Eckington Mill Campsite, Worcestershire",
+      "original_wording": "Eckington Mill camp-site / Court End Farm Campsite",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0275_L",
+      "excerpt": "5.30. We reached Eckington Mill camp-site. There's a padlock to get in the gate, 1812. Court End Farm Campsite",
+      "geocode_hint": { "countrycodes": "gb", "hint": "Eckington, Worcestershire, near River Avon" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Croome Park, Worcestershire",
+      "original_wording": "Groome Park",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0275_R",
+      "excerpt": "We swept the floor + set off for Groome Park. Groome Park has the old building, Groome Court, which we did not see inside.",
+      "geocode_hint": { "countrycodes": "gb", "hint": "Croome Park, National Trust, near Severn Stoke, Worcestershire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Bham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0275_R",
+      "excerpt": "We got home at 4 pm.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk to Strensham Church",
+      "date_guess": "2016-09-03",
+      "stops": [
+        {
+          "normalized_name": "Strensham Church, Worcestershire",
+          "original_wording": "Strensham Church",
+          "confidence": 0.95,
+          "source_page_id": "B_0275_L",
+          "excerpt": "We walked off across the 2 rivers - Tindered. Be let off on the island. Looked at Strensham Church. A lot of family memorials, brasses covered because of bats, Norman tub font, saints' paintings (16).",
+          "geocode_hint": { "countrycodes": "gb", "hint": "St John the Baptist Church, Strensham, Worcestershire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Junet 2",
+      "issue": "Garbled transcription; likely refers to a junction or place name near a Sainsbury factory; not a visited stop but mentioned in conversation with a fellow camper.",
+      "source_page_id": "B_0275_L",
+      "excerpt": "The man near us was a scientist next to Toys 9 us at Junet 2 - the longest [?for] Sainsbury factory making chemical stuff, 1860 phosphate + onwards. He lives in Worcs."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A short two-night weekend trip for Simon, Eve and the dog Tinder to Eckington Mill Campsite (Court End Farm) on the River Avon in Worcestershire, leaving Birmingham on Friday 2 September 2016. The Saturday was spent walking to the medieval Strensham Church and picking blackberries; on Sunday they visited Croome Park (National Trust) and its RAF museum before returning home.",
+  "extraction_notes": "'Groome Park' and 'Groome Court' are transcription spellings of Croome Park and Croome Court (National Trust, Worcestershire). The RAF hospital/airfield reference is to Defford Airfield, historically associated with the Croome Park estate. 'Junet 2' is an unresolved garbled phrase in a conversation anecdote; it is not a visited place. Only Simon, Eve and Tinder are named as travellers — no children on this trip. Dates inferred: Friday = 2016-09-02, Saturday = 2016-09-03, Sunday = 2016-09-04."
+}

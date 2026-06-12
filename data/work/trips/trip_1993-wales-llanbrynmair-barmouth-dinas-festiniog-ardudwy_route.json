@@ -1,0 +1,173 @@
+{
+  "trip_id": "1993-wales-llanbrynmair-barmouth-dinas-festiniog-ardudwy",
+  "title": "Wales: Llanbrynmair, Barmouth, Dinas, Festiniog & Ardudwy",
+  "volume": "A",
+  "spread_range": ["A_0092", "A_0093"],
+  "diary_page_range": [92, 93],
+  "date_start": "1993-05-28",
+  "date_end": "1993-06-01",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Llanbrynmair, Powys, Wales",
+      "original_wording": "[?Llanbrynmair]",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0092_L",
+      "excerpt": "Arrived at 8.0. at [?Cringed] [annotation: [?Llanbrynmair]] lovely wild flowers in a field of long grass, mown in patches of flat levels. Clean loos, strong river, hills all around at a distance + friendly owners.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Barmouth, Gwynedd, Wales",
+      "original_wording": "Barmouth",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0092_R",
+      "excerpt": "10.00 we left for Barmouth. We bought lamb-chops, anticipating a barbeque + Thomas a pair of sandals.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Dinas, Gwynedd, Wales",
+      "original_wording": "Dinas",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0092_R",
+      "excerpt": "Lunch time we arrived at Dinas. Just as Thomas + Eve finished getting lunch ready, it started to rain, + has not really stopped for over 24 hours.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Powys Castle, Welshpool, Wales",
+      "original_wording": "Powys Castle",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0093_R",
+      "excerpt": "We drove home via Powys Castle, which turned out to be closed",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Montgomery, Powys, Wales",
+      "original_wording": "Montgomery",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0093_R",
+      "excerpt": "We drove home via Powys Castle, which turned out to be closed, + Montgomery,",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0093_R",
+      "excerpt": "We drove home via Powys Castle, which turned out to be closed, + Montgomery,",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Sunday: church, Llanfair slate mine, Festiniog",
+      "date_guess": "1993-05-30",
+      "stops": [
+        {
+          "normalized_name": "Llanfair Slate Caverns, Harlech, Wales",
+          "original_wording": "Llanfair slate mine",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0092_R",
+          "excerpt": "We had lunch near a waterfall + then visited Llanfair slate mine. We saw a beautiful apprentice fan @ 67 pieces of slate after he'd started down the mines at 12 years, 6 years before.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Blaenau Ffestiniog, Gwynedd, Wales",
+          "original_wording": "Festiniog",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0092_R",
+          "excerpt": "On we went to Festiniog + wandered around the shops + had supper in a delicious, v. friendly restaurant, Bar Harbour Restaurant",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Monday: Cwm Nantcol gorge and Door of Ardudwy",
+      "date_guess": "1993-05-31",
+      "stops": [
+        {
+          "normalized_name": "Cwm Nantcol, Gwynedd, Wales",
+          "original_wording": "Cwm Nantcol",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0093_L",
+          "excerpt": "We set off in the van + walked in Cwm Nantcol, a superb gorge with waterfall. Simon held Charles' hand.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Bwlch y Rhiw (Door of Ardudwy), Gwynedd, Wales",
+          "original_wording": "Door of Ardudwy",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0093_L",
+          "excerpt": "In the afternoon we drove high up through solitary farm buildings + finally walked to + from the Door of Ardudwy, 3 miles altogether, now a boggy track, but once an important road from the coast into central Wales.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Ystrad Aelwyd]",
+      "issue": "Annotation on A_0092_L alongside windmills and a phone number; possibly Ystrad Aelwyd near Llanbrynmair, but legibility is uncertain and role in route unclear (may be a campsite enquiry note, not a visited stop)",
+      "source_page_id": "A_0092_L",
+      "excerpt": "[annotation: Windmills / [?Ystrad Aelwyd] * * [?Ystrad Aelwyd] 0650- 521-237 / [?Llanbrynmair]]"
+    },
+    {
+      "original_wording": "[?Cringed]",
+      "issue": "Apparent campsite name near Llanbrynmair; transcription uncertain — may be a proper farm or site name",
+      "source_page_id": "A_0092_L",
+      "excerpt": "Arrived at 8.0. at [?Cringed] [annotation: [?Llanbrynmair]]"
+    },
+    {
+      "original_wording": "[?Duffrin] [?Llanddwyn]",
+      "issue": "Church visited on Sunday morning; transcription uncertain. Could be Llanddwyn chapel near Dinas area, but location not confirmed",
+      "source_page_id": "A_0092_R",
+      "excerpt": "Church at 11.30 at [?Duffrin] [?Llanddwyn][again]"
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0093_R",
+      "issue": "mixed_end: page A_0093_R contains the menu slip for 'Sinas' (= Dinas campsite) and the closing narrative of this trip on the left half, but the boundary_mixed flag indicates the right portion may contain the opening of the next trip. The return-home sentence is present ('We drove home via Powys Castle...') but the page may continue into a subsequent entry.",
+      "excerpt": "Tuesday  Again it poured rain all day. We drove home via Powys Castle, which turned out to be closed, + Montgomery,"
+    }
+  ],
+  "summary": "A Whitsun camping trip (28 May – 1 June 1993) from Birmingham to Wales, spending the first night at Llanbrynmair before moving to the Dinas campsite near Harlech for the remainder of the week. Despite persistent rain the family made a Sunday excursion to Llanfair slate mine and Blaenau Ffestiniog, and on Monday explored Cwm Nantcol gorge and walked to the Door of Ardudwy; they returned home on Tuesday via Powys Castle (closed) and Montgomery.",
+  "extraction_notes": "No route-sketch pages exist; sketch_images is empty. The campsite name '[?Llanbrynmair]' appears as an annotation alongside windmills and a phone number on A_0092_L — this is treated as the campsite location, not a separate stop. The menu slip headed 'Menu at Sinas' on A_0093_R uses 'Sinas' as the campsite name, which matches 'Dinas' phonetically and is the same base. Barmouth is a main_stop on the outward leg (shopping en route from Llanbrynmair to Dinas), not a Dinas-base excursion. The Sunday church at '[?Duffrin/Llanddwyn]' is unresolved but not added as a main-route or excursion stop due to uncertain transcription and likely being very local to the Dinas campsite. 'Festiniog' is normalized to Blaenau Ffestiniog as the town with shops and restaurants. The 'Door of Ardudwy' is a mountain pass (Bwlch y Rhiw) in the Rhinog range above Cwm Nantcol. The whole trip is domestic (Wales/England, Great Britain); no sea crossings."
+}

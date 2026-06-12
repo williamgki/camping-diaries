@@ -1,0 +1,199 @@
+{
+  "trip_id": "2022-fleet-london-then-continent-france-switzerland",
+  "title": "Fleet, London, then Continent: France & Switzerland",
+  "volume": "B",
+  "spread_range": ["B_0365", "B_0365"],
+  "diary_page_range": [365, 365],
+  "date_start": "2022-06-15",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR", "CH"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Little Bramshott Farm Campsite, Fleet, Hampshire",
+      "original_wording": "Little Bramshott Farm campsite",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0365_L",
+      "excerpt": "We arrived at Little Bramshott Farm campsite at 6.20. Near Fleet, Fussy owner, lovely oak Trees.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Dover",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no port named; diary ends mid-sentence heading to continent",
+      "source_page_id": "B_0365_L",
+      "excerpt": "We trained back to Hounslow West + [?] set off thru",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Calais",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no port named",
+      "source_page_id": "B_0365_L",
+      "excerpt": "We trained back to Hounslow West + [?] set off thru",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "France (route unrecorded)",
+      "original_wording": "France",
+      "role": "inferred_anchor",
+      "confidence": 0.5,
+      "approximate": true,
+      "inferred": true,
+      "inference_reason": "Title-guess names France as a destination country; no diary pages covering continental leg are transcribed",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Switzerland (route unrecorded)",
+      "original_wording": "Switzerland",
+      "role": "inferred_anchor",
+      "confidence": 0.5,
+      "approximate": true,
+      "inferred": true,
+      "inference_reason": "Title-guess names Switzerland as a destination country; no diary pages covering continental leg are transcribed",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All family trips end at home unless diary states otherwise",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no port named; diary text cuts off heading to continent",
+      "source_page_id": "B_0365_L",
+      "excerpt": "We trained back to Hounslow West + [?] set off thru"
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Day trip to London (Harrods, Berkeley Hotel, Harvey Nichols)",
+      "date_guess": "2022-06-16",
+      "stops": [
+        {
+          "normalized_name": "Eversley Church, Hampshire",
+          "original_wording": "Eversley Church",
+          "confidence": 0.9,
+          "source_page_id": "B_0365_L",
+          "excerpt": "We stopped off to see Eversley Church where we were married nearly 48 years ago.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Hounslow West Underground Station, London",
+          "original_wording": "Hounslow West, underground station",
+          "confidence": 0.9,
+          "source_page_id": "B_0365_L",
+          "excerpt": "Then on to Hounslow West, underground station, to park van.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Harrods, Knightsbridge, London",
+          "original_wording": "Harrods",
+          "confidence": 0.9,
+          "source_page_id": "B_0365_L",
+          "excerpt": "We trained into London on the Piccadilly line + bought chocolates at Harrods.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "The Berkeley Hotel, Knightsbridge, London",
+          "original_wording": "Berkeley Hotel",
+          "confidence": 0.9,
+          "source_page_id": "B_0365_L",
+          "excerpt": "On to the Berkeley Hotel + met Bobby + Steve in the lobby.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Harvey Nichols, Knightsbridge, London",
+          "original_wording": "Harvey Nichols",
+          "confidence": 0.9,
+          "source_page_id": "B_0365_L",
+          "excerpt": "Then back to Harvey Nichols where we had a good lunch with Peter + Nana outside.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "France (continental leg)",
+      "issue": "Title-guess names France as a destination but no diary pages covering the French leg are transcribed in this bundle (mixed_end: true on B_0365_R; diary cuts off mid-sentence). Continental stops, overnight bases, and specific route through France are entirely unknown from available evidence.",
+      "source_page_id": "B_0365_L",
+      "excerpt": "We trained back to Hounslow West + [?] set off thru"
+    },
+    {
+      "original_wording": "Switzerland (continental leg)",
+      "issue": "Title-guess names Switzerland as a destination but no diary pages covering the Swiss leg are transcribed. No campsite, town or route detail is available.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Italy - Pavia, Pian del Voglio",
+      "issue": "Title-guess mentions Italy (Pavia, Pian del Voglio) but this does not appear in the transcribed diary text and the trip_id slug does not include Italy. May belong to a neighbouring trip or reflect a later page not captured in this bundle.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "[?Lash]",
+      "issue": "Illegible word in 'set off thru Eversley to Farley to deliver [?Lash]' - name of person or package unclear; Farley may refer to Farley Hill, Berkshire or similar village near Eversley.",
+      "source_page_id": "B_0365_L",
+      "excerpt": "We set off [for] thru Eversley to Farley to deliver [?Lash]."
+    },
+    {
+      "original_wording": "date_end unknown",
+      "issue": "Only one spread (B_0365) was transcribed. The trip end date is not known from available evidence. The date_start 2022-06-15 is confirmed (Wednesday June 15th in 2022). Date_end cannot be determined without further pages.",
+      "source_page_id": null,
+      "excerpt": null
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: B_0365_R is shared with next trip boundary; continental diary pages not captured in this bundle"
+  ],
+  "summary": "Simon and Eve left Birmingham on 15 June 2022, kennelling the dog (Tinder) and stopping overnight at Little Bramshott Farm campsite near Fleet, Hampshire. The following day they made a day trip into London (Harrods, Berkeley Hotel, Harvey Nichols) before heading to the Continent via an unrecorded Channel crossing; the French, Swiss and possibly Italian legs of the trip are not covered by the transcribed pages in this bundle.",
+  "extraction_notes": "Only one spread (B_0365, left page only has text) was available. The diary text cuts off mid-sentence ('set off thru') at the point of departure for the Continent. The title_guess references France, Switzerland and Italy (Pavia, Pian del Voglio) but none of those legs appear in the transcribed evidence. The continental route has been represented with low-confidence inferred_anchor stubs for France and Switzerland only; Italy has been flagged as unresolved because it does not appear in the trip_id slug and may belong to an adjacent trip. The crossing is inferred as dover-calais (default England-France) since no port is named; Portsmouth would also have been geographically plausible from Fleet. The date year is confirmed as 2022 (June 15 fell on a Wednesday in 2022, matching the diary). Travellers listed as Simon and Eve only based on diary voice ('we'), but other family members may have joined on the continental leg."
+}

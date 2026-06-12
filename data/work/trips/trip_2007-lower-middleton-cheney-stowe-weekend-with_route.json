@@ -1,0 +1,93 @@
+{
+  "trip_id": "2007-lower-middleton-cheney-stowe-weekend-with",
+  "title": "Lower Middleton Cheney & Stowe weekend (with Thomas & Naomi)",
+  "volume": "B",
+  "spread_range": ["B_0115", "B_0116"],
+  "diary_page_range": [54, 55],
+  "date_start": "2007-06-14",
+  "date_end": "2007-06-16",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "Naomi", "Tonic"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Westfield Rd",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0115_R",
+      "excerpt": "We drove in convoy from Westfield Rd -> Lower Middleton Cheney.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Lower Middleton Cheney, Northamptonshire, UK",
+      "original_wording": "Lower Middleton Cheney",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0115_R",
+      "excerpt": "We drove in convoy from Westfield Rd -> Lower Middleton Cheney. The rain tipped down + the M40 + services flooded.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Banbury" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0116_R",
+      "excerpt": "As we drove from the carpark (Naomi to visit Keisha in Suffolk, Simon & Eve home)",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Friday walk around Lower Middleton Cheney area (Lord Heseltine's estate)",
+      "date_guess": "2007-06-15",
+      "stops": [
+        {
+          "normalized_name": "Thenford House (Lord Heseltine's estate), Northamptonshire, UK",
+          "original_wording": "Lord Heseltine's house",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0115_R",
+          "excerpt": "we were not on a public footpath when we neared Lord Heseltine's house, (1769) there was a lime, oak, chestnut avenue. Naomi washed her feet in Lord Heseltine's lake.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Lower Middleton Cheney" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Day trip to Stowe (Saturday)",
+      "date_guess": "2007-06-16",
+      "stops": [
+        {
+          "normalized_name": "Stowe Landscape Garden, Buckinghamshire, UK",
+          "original_wording": "Stowe",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0116_L",
+          "excerpt": "we had coffee before setting off for Stowe. We walked near the Elysian field which was very beautiful. Lots of temples & pillars, & views. It was built by Lord Cobham, 1760?",
+          "geocode_hint": { "countrycodes": "gb", "near": "Buckingham" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Burgess Farm",
+      "issue": "Appears to be the campsite or accommodation base at Lower Middleton Cheney; exact location within or near the village unclear from diary. Text is partly illegible after the name.",
+      "source_page_id": "B_0115_R",
+      "excerpt": "Burgess Farm [illegible][illegible][illegible][illegible]"
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A long weekend trip from Birmingham to Lower Middleton Cheney (Northamptonshire), travelling in convoy via the M40 on Thursday 14 June 2007 with Thomas and his partner Naomi. The group stayed at Burgess Farm, walking the local countryside on Friday including near Lord Heseltine's estate, and visiting Stowe Landscape Garden in Buckinghamshire on Saturday before returning home.",
+  "extraction_notes": "The dog is referred to as 'Tonic' in this diary entry (not 'Tinder' as in context notes — possibly a different dog or an alternate name). Thomas left from Banbury Station on Saturday morning to play a concert at St. Augustines, while Naomi rejoined the group for the Stowe visit before heading to Suffolk. The stay lasted Thu/Fri nights at the same base; Saturday was a day trip to Stowe with Simon and Eve driving home from the Stowe car park. Date precision is 'day' — June 14 2007 was confirmed as a Thursday. No ferries or crossings. Stowe (National Trust property, sold by school in 1989 per diary) is approximately 20 miles south of Lower Middleton Cheney."
+}

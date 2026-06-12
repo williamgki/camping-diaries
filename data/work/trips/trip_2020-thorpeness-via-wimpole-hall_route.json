@@ -1,0 +1,92 @@
+{
+  "trip_id": "2020-thorpeness-via-wimpole-hall",
+  "title": "Thorpeness via Wimpole Hall",
+  "volume": "B",
+  "spread_range": ["B_0338", "B_0338"],
+  "diary_page_range": [338, 338],
+  "date_start": "2020-07-20",
+  "date_end": "2020-07-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wimpole Hall, Cambridgeshire",
+      "original_wording": "Wimpole Hall",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0338_L",
+      "excerpt": "we met up with John + Kay + Eben at Wimpole Hall. lovely gardens. Socially distanced.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Thorpeness, Suffolk",
+      "original_wording": "Thorpe",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0338_L",
+      "excerpt": "Off to Thorpeness with champagne + everyone except Charles + Austin. [...] I did a salad lunch then on to Thorpe.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0338_L",
+      "excerpt": "Peter, Nana, Conrad, Nini + Gigi set off. ???",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Day trip to Oxford",
+      "date_guess": "2020-07-25",
+      "stops": [
+        {
+          "normalized_name": "Oxford, UK",
+          "original_wording": "Oxford",
+          "confidence": 0.95,
+          "source_page_id": "B_0338_L",
+          "excerpt": "Simon + Eve went on a day out in Oxford.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Pennels]",
+      "issue": "Unclear place name — possibly a beach, pond or nature area near Thorpeness where Tinder the dog went in (water); transcription uncertain",
+      "source_page_id": "B_0338_L",
+      "excerpt": "Tinder went into [?Pennels]"
+    }
+  ],
+  "boundary_flags": [
+    {
+      "flag": "mixed_start",
+      "note": "Page B_0338_L begins mid-page with a previous trip ending (visit to Eben, home after lunch on Sunday). This trip starts at 'Monday July 20th' heading."
+    }
+  ],
+  "summary": "A summer week at Thorpeness in Suffolk in July 2020, with most of the family (Charles absent) travelling via Wimpole Hall where they met up with John, Kay and Eben for a socially-distanced lunch in the gardens. Simon and Eve made a day trip to Oxford on the Saturday.",
+  "extraction_notes": "The page opens mid-page with the tail end of a previous trip (visiting Eben, a walk, home after lunch on Sunday) before the Monday July 20th heading marks this trip. 'Thorpe' in the text is a local shortening of Thorpeness. The Sunday entry ('Peter, Nana, Conrad, Nini + Gigi set off. ???') marks the departure of guests from Thorpeness; return to Birmingham is implied. '[?Pennels]' is an uncertain transcription of a place where Tinder went in — possibly a pond or the sea. Charles and Austin are explicitly noted as not on this trip. 'Socially distanced' reflects Covid-19 pandemic context (July 2020)."
+}

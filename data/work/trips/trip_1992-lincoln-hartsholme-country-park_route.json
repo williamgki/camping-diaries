@@ -1,0 +1,113 @@
+{
+  "trip_id": "1992-lincoln-hartsholme-country-park",
+  "title": "Lincoln & Hartsholme Country Park",
+  "volume": "A",
+  "spread_range": ["A_0060", "A_0062"],
+  "diary_page_range": [117, 120],
+  "date_start": "1992-06-12",
+  "date_end": "1992-06-14",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hartsholme Country Park, Lincoln, UK",
+      "original_wording": "Hartsholme Country Park",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0060_R",
+      "excerpt": "We left at 4.50., + got to Hartsholme Country Park ****, 2 miles outside Lincoln at 7.15. Simon put the tent up",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0062_L",
+      "excerpt": "We set off for home past the old Roman canal, linking Lincoln with the R. Trent.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday: bus into Lincoln (Stonebow, Jews House, Cathedral)",
+      "date_guess": "1992-06-13",
+      "stops": [
+        {
+          "normalized_name": "Stonebow, Lincoln, UK",
+          "original_wording": "Stonebow",
+          "confidence": 0.85,
+          "source_page_id": "A_0061_L",
+          "excerpt": "We walked through the south gate, Stonebow, early C16, originally the Roman gate.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Jew's House, Lincoln, UK",
+          "original_wording": "Jews House",
+          "confidence": 0.85,
+          "source_page_id": "A_0061_L",
+          "excerpt": "Further up the [?Steep] hill is the Jews House, very pretty.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Lincoln Cathedral, Lincoln, UK",
+          "original_wording": "Cathedral",
+          "confidence": 0.9,
+          "source_page_id": "A_0061_L",
+          "excerpt": "The Cathedral is being cleaned. It's very beautiful. 1072-[?12], homogenous architecture, the third largest in England.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Pimento Tearooms, Lincoln, UK",
+          "original_wording": "Pimento",
+          "confidence": 0.8,
+          "source_page_id": "A_0061_R",
+          "excerpt": "We had lunch at Pimento – good stuffed peppers, & caught the bus back to the van.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sunday morning: Lincoln Cathedral for the main Sunday service",
+      "date_guess": "1992-06-14",
+      "stops": [
+        {
+          "normalized_name": "Lincoln Cathedral, Lincoln, UK",
+          "original_wording": "Cathedral",
+          "confidence": 0.9,
+          "source_page_id": "A_0061_R",
+          "excerpt": "At 9.30. on the Sunday we reached the Cathedral for the main Sunday service. Unfortunately, the choir was away.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "issue": "Page A_0062_L is flagged boundary_mixed (mixed_end: true). The narrative on this page clearly states 'We set off for home', so the trip end at Birmingham is well supported; the following content belongs to the next trip.",
+      "source_page_id": "A_0062_L"
+    }
+  ],
+  "summary": "A long weekend (Friday 12 to Sunday 14 June 1992) camping at Hartsholme Country Park, 2 miles outside Lincoln, with the seven family members (Laura stayed home). They pitched the tent on the Friday evening, then bussed into Lincoln on Saturday to see the Stonebow gate, the Jew's House and the Cathedral, lunching at Pimento, and returned on Sunday morning for the main Cathedral service before driving home past the Fossedyke Roman canal.",
+  "extraction_notes": "Fixed-base weekend trip: the only overnight base was Hartsholme Country Park, so the main route is home -> Hartsholme -> home and the Lincoln sights are excursions (bus in and back to the same base). The route-sketch page (A_0062_L) is NOT an ordered travel route but a hand-drawn geographical/geological diagram of the Lincoln area (Lincoln Gap, the Fossedyke Roman Canal linking Lincoln to the R. Trent, the Fosse Way Roman road 'Bath to Humber', the escarpment from the Cotswolds, and the rivers Witham and Trent). Its labels (R. Trent, Fossedyke Roman Canal, Braypool, Lincoln, Lincoln Gap, R. Witham, R. Wibblen, Fosse Way, Cotswolds escarpment, [?Todston]/?Torksey) are landscape features used to explain the geography, not stops the family visited, so they are not added to the route. No sea/tunnel crossings (domestic UK trip). 'R. Wibblen' and the far-right '[?Todston]' label on the sketch are illegible/uncertain place names but, being sketch landscape labels rather than visited stops, are not carried as unresolved route stops."
+}

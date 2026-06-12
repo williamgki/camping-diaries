@@ -1,0 +1,77 @@
+{
+  "trip_id": "1993-beauchamp-music-course-forest-of-dean",
+  "title": "Beauchamp music course & Forest of Dean",
+  "volume": "A",
+  "spread_range": ["A_0112", "A_0112"],
+  "diary_page_range": [null, null],
+  "date_start": "1993-08-20",
+  "date_end": "1993-08-21",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beauchamp Music Course venue, Forest of Dean area, UK",
+      "original_wording": "Beauchamps",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0112_L",
+      "excerpt": "We left at 5.45., Jr C again in their pyjamas. After supper in the field, William babysat John & Charles while Simon & Thomas & I went in to hear Peter's quartets at Beauchamps.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Forest of Dean, Gloucestershire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0112_L",
+      "excerpt": "Home at about 6. pm.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Day trip to Forest of Dean Heritage Centre",
+      "date_guess": "1993-08-21",
+      "stops": [
+        {
+          "normalized_name": "Forest of Dean Heritage Centre, Gloucestershire, UK",
+          "original_wording": "Forest of Dean Heritage centre",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0112_L",
+          "excerpt": "We got up in a leisurely way, & then went to explore the Forest of Dean Heritage centre. Wonderful observation bee hive, where we failed to find the queen, an antery, established since 1968, good adventure playground, & museum of mining & tree management in the forest.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Forest of Dean, Gloucestershire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Beauchamps",
+      "issue": "Exact venue of the 'Beauchamp music course' is uncertain. The name 'Beauchamps' likely refers to a music summer school venue near or in the Forest of Dean area. Could be Beauchamp House, a school, or a named estate in Gloucestershire/Herefordshire. Peter performed in quartets and there was an orchestra; the family slept in a field (camping).",
+      "source_page_id": "A_0112_L",
+      "excerpt": "went in to hear Peter's quartets at Beauchamps"
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A short two-day trip from Birmingham to a music summer course called 'Beauchamp' in or near the Forest of Dean, where Peter performed in string quartets and the family camped overnight. On the Saturday morning they visited the Forest of Dean Heritage Centre before returning home by 6 pm.",
+  "extraction_notes": "Single diary page (A_0112_L) covering Friday 20 August and Saturday 21 August 1993 (August 20 was indeed a Friday in 1993). The venue 'Beauchamps' is treated as approximate and unresolved — it hosts a music course with quartets and an orchestra, and the family slept in a field nearby, suggesting a school or country estate. The Fishpols are mentioned as family friends also attending. The Forest of Dean Heritage Centre (with beehive, ant colony, adventure playground and mining museum) is the only named excursion destination. No crossings, entirely UK. Page number within volume not given (diary field 'no' is null)."
+}

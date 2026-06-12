@@ -1,0 +1,139 @@
+{
+  "trip_id": "1992-york-jorvik-minster-conisborough-castle",
+  "title": "York: Jorvik, Minster & Conisborough Castle",
+  "volume": "A",
+  "spread_range": ["A_0078", "A_0083"],
+  "diary_page_range": [138, 140],
+  "date_start": "1992-10-23",
+  "date_end": "1992-10-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Birmingham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0078_L",
+      "excerpt": "Simon, Eve, William, John & Charles set out for York.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "York, UK",
+      "original_wording": "York",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0078_L",
+      "excerpt": "Finally we reach York almost via Wetherby. We end up on the Rowntree Park Caravan Site, near the river just south of the city.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Pontefract, UK",
+      "original_wording": "Pontefract",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0080_L",
+      "excerpt": "We set off south + had mountains of Yorkshire pudding + very dead roast beef at \"The Fox\" near Pontefract.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Conisbrough Castle, UK",
+      "original_wording": "Conisborough Castle",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0080_L",
+      "excerpt": "In the afternoon we stopped to look at Conisborough Castle. Even in the rain + north wind it is very impressive, a white circular keep.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0080_L",
+      "excerpt": "We set off south + had mountains of Yorkshire pudding + very dead roast beef at \"The Fox\" near Pontefract.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday on foot in York: Jorvik, Minster, Treasurer's House, National Railway Museum & city walls",
+      "date_guess": "1992-10-24",
+      "stops": [
+        {
+          "normalized_name": "Jorvik Viking Centre, York, UK",
+          "original_wording": "Jorvic Centre",
+          "confidence": 0.95,
+          "source_page_id": "A_0078_R",
+          "excerpt": "We reach the Jorvic Centre at 9.25., just before the crowd starts. It's a fabulous museum, & fully lived up to my expectations.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "York Minster, UK",
+          "original_wording": "Minster",
+          "confidence": 0.95,
+          "source_page_id": "A_0078_R",
+          "excerpt": "We had coffee, hot chocolate & croissants & then went on to the Minster. Soaring, simple, disciplined architecture.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Treasurer's House, York, UK",
+          "original_wording": "Treasurer's House",
+          "confidence": 0.9,
+          "source_page_id": "A_0079_L",
+          "excerpt": "After the Minster we saw the Treasurer's House, restored after 1900 by Frank Green.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "National Railway Museum, York, UK",
+          "original_wording": "National Railway Museum",
+          "confidence": 0.9,
+          "source_page_id": "A_0079_R",
+          "excerpt": "We had a pizza lunch + set off for the National Railway Museum. We looked at the Mail coaches with nets, the Royal Coaches.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sunday morning service at York Minster",
+      "date_guess": "1992-10-25",
+      "stops": [
+        {
+          "normalized_name": "York Minster, UK",
+          "original_wording": "the Minster",
+          "confidence": 0.9,
+          "source_page_id": "A_0080_L",
+          "excerpt": "We went to a service at the Minster. The volume of singing from the choir seemed rather thin. Donald English preached.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "issue": "mixed_start: page A_0078_L opens mid-narrative with a different trip ('On the Sunday Simon, Thomas, Eve & John attempted a walk... all went home. Sir left 5 days later.') before the York trip heading 'Friday October 23rd. 1992'. Only the York-trip content from that heading onward is used here.",
+      "source_page_id": "A_0078_L"
+    },
+    {
+      "issue": "Trailing pages A_0082_R (campsite star-rating key) and A_0083_L (caption 'Autun') appear to be non-route material; Autun is a French town and belongs to a different trip, so it is excluded.",
+      "source_page_id": "A_0083_L"
+    }
+  ],
+  "summary": "A wet long-weekend break (23-25 October 1992) to York by camper van while Thomas and Peter were away singing in Paris and Chartres. Simon, Eve, William, John and Charles based at the Rowntree Park Caravan Site and explored York on foot - the Jorvik Centre, the Minster, the Treasurer's House, the National Railway Museum and the city walls. Heading home south on the Sunday they lunched near Pontefract and stopped to admire the circular white keep of Conisborough Castle.",
+  "extraction_notes": "Domestic UK trip; no sea/tunnel crossings. Travellers limited to Simon, Eve, William, John & Charles - Thomas & Peter were singing with Birmingham Cathedral choir in Paris & Chartres, so they are excluded from the party (the Paris/Chartres place mentions on A_0078_L are about the absent brothers, not destinations of this trip). York's Saturday and Sunday sights are walked from the Rowntree Park base and return to it, so they are recorded as excursions under base_seq 2 rather than flattened into the main route; the city walls and a comparison to 'Richlieu' (Richelieu, France) are narrative mentions, not separate route stops. Pontefract ('The Fox') and Conisborough Castle lie on the southbound homeward leg and are kept on the main route. Conisborough Castle normalized to the modern English Heritage spelling 'Conisbrough Castle'. Return to Birmingham is implied ('set off south'), not explicitly narrated, hence reduced confidence on the closing home stop. A_0080_L date heading 'Sunday October 25th' is consistent with the clocks changing (BST ended 25 Oct 1992)."
+}

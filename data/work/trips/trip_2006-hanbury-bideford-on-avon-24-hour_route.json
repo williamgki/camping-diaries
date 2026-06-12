@@ -1,0 +1,93 @@
+{
+  "trip_id": "2006-hanbury-bideford-on-avon-24-hour",
+  "title": "Hanbury & Bidford-on-Avon (24-hour weekend trip)",
+  "volume": "B",
+  "spread_range": ["B_0113", "B_0114"],
+  "diary_page_range": [52, 52],
+  "date_start": "2006-10-07",
+  "date_end": "2006-10-08",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0113_R",
+      "excerpt": "Simon, Eve + Tonic left home at [?11] for a 24 hour trip.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hanbury, Worcestershire, UK",
+      "original_wording": "Hanbury",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0113_R",
+      "excerpt": "We drove to Hanbury church – lovely red stone + arch over doors, only one high box pew remaining. A monastery was on the site in 800.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Pershore, Worcestershire, UK",
+      "original_wording": "Pershore",
+      "role": "transit_stop",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": "B_0113_R",
+      "excerpt": "we drove on, [?Rom Salt Road from] [?Pershore] to the Cottage of Content pub",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Cottage of Content, Barton, Bidford-on-Avon, Warwickshire, UK",
+      "original_wording": "Cottage of Content",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0113_R",
+      "excerpt": "we drove on, [?Rom Salt Road from] [?Pershore] to the Cottage of Content pub ** (loos but no shower) ... We drank at our campsite pub.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Bidford-on-Avon, Warwickshire, UK",
+      "original_wording": "Bideford on Avon",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0113_R",
+      "excerpt": "We walked along raised levees to Bideford on Avon. ... Bideford has an old Mediaeval Bridge, + cars parked to watch children playing foot ball.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0114_L",
+      "excerpt": "At 9am we set off home for Harvest festival.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[?Rom Salt Road from]",
+      "issue": "Uncertain transcription of a road name on the driving leg from Hanbury toward the Cottage of Content; possibly a saltway / Roman salt road. Not a discrete stop.",
+      "source_page_id": "B_0113_R",
+      "excerpt": "we drove on, [?Rom Salt Road from] [?Pershore] to the Cottage of Content pub"
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A short 24-hour autumn weekend trip in October 2006: Simon, Eve and the dog Tinder drove from Birmingham to Hanbury church in Worcestershire, then on (via Pershore) to camp overnight at the Cottage of Content pub near Bidford-on-Avon in Warwickshire, walking the River Avon levees to Bidford's medieval bridge. They set off home the next morning for Harvest festival.",
+  "extraction_notes": "Domestic UK trip; no sea/tunnel crossings. The page is flagged as having a sketch, but inspection of B_0113_R.jpg shows only a small decorative squiggly/zigzag line after 'Free range cats' with no labelled places or route order, so it does not constrain ordering; route follows the dated narrative. 'Tonic' in the transcript is the dog (the family dog is Tinder; 'Tonie/Tonic' is a pet-name variant) and is listed as traveller Tinder. Places 'China', 'Warwick' and 'Malvern' appear only as context for where the sons went (Peter to China, John to Warwick, Charles back to Malvern) and are NOT trip stops. 'Bredon', 'Cotswolds' and 'Malvern' are named only as the panoramic view from the Hanbury hill and are not stops. 'Bideford on Avon' / 'Bideford' is normalized to modern Bidford-on-Avon, Warwickshire (confirmed by the medieval bridge and River Avon levees). Pershore is recorded as a low-confidence transit_stop because it is named as part of the driving leg ('[?Rom Salt Road from] [?Pershore]') though the transcription is uncertain. The Cottage of Content is a real pub at Barton near Bidford-on-Avon and is the overnight campsite base."
+}

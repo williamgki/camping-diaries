@@ -1,0 +1,522 @@
+{
+  "trip_id": "1998-norway-sweden-1998-bergen-fjords-oslo",
+  "title": "Norway & Sweden 1998: Bergen, the Fjords & Oslo",
+  "volume": "A",
+  "spread_range": ["A_0232", "A_0250"],
+  "diary_page_range": [62, 78],
+  "date_start": "1998-07-27",
+  "date_end": "1998-08-16",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB", "NO", "SE"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0232_R",
+      "excerpt": "We left home after Tom's visit at 9.40. & headed north.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "North Shields, Newcastle, UK",
+      "original_wording": "North Shields, New Castle",
+      "role": "crossing_terminal",
+      "confidence": 1.0,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0232_R",
+      "excerpt": "we reached North Shields, New Castle, at 4.0., just in time for the queue to get on the Ferry to Bergen.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Breistein, Bergen, Norway",
+      "original_wording": "Breistein",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0233_L",
+      "excerpt": "We arrived at the campsite 10 miles out of Bergen, Breistein, * * * ½ at 6.15.",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Voss, Norway",
+      "original_wording": "Voss",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0234_R",
+      "excerpt": "Voss, through road tunnels, some of them badly ventilated.",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Lærdaløyri, Norway",
+      "original_wording": "Laerdal",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0235_L",
+      "excerpt": "At about 5 we arrived at Laerdal. There is a helicopter pad. We have camped right next to a marina.",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Solvorn, Norway",
+      "original_wording": "Solvorngolden",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0237_L",
+      "excerpt": "We went on a small ferry across the laerdal arm of Sognafjord. Through a tunnel to Solvorngolden ... The boys are thrilled with the campsite. It's an evangelical hotel",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Førde, Norway",
+      "original_wording": "Forde",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0238_R",
+      "excerpt": "she sent him off to hospital, with Eve in an ambulance, to Forde, 90 kilometres away. Simon & the boys broke camp in record time & followed",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Urnes, Luster, Norway",
+      "original_wording": "Ornes",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0239_L",
+      "excerpt": "We caught the 4.0 ferry to Ornes + reached a marvellous stave church",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Skjolden, Luster, Norway",
+      "original_wording": "Skjolden",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0239_R",
+      "excerpt": "We found a beautiful valley to camp in, with a lake ... Skjolden, above the head of Luster fjord",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Koppang, Norway",
+      "original_wording": "Near Tryvang ... Near Koppang",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "A_0240_L",
+      "excerpt": "We have come to wild camp, much to William's disgust. Near Tryvang ... Near Koppang. We found the mosquito nets.",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Höljes, Sweden",
+      "original_wording": "Holjes",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0241_L",
+      "excerpt": "We followed the river down into Sweden. ... At the Swedish campsite Holjes ***",
+      "geocode_hint": { "countrycodes": "se" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Torsby, Sweden",
+      "original_wording": "Torsby",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0241_R",
+      "excerpt": "We drove through Sysslebäck to Torsby, where we had to buy a new tyre for £110.",
+      "geocode_hint": { "countrycodes": "se" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Humletorp, Sunne, Sweden",
+      "original_wording": "Humbletorp",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0241_R",
+      "excerpt": "At Sunne the campsite was too crowded, so we went on to Humbletorp. We have camped near a lake.",
+      "geocode_hint": { "countrycodes": "se" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Oslo, Norway",
+      "original_wording": "Oslo",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0242_R",
+      "excerpt": "4 30. arrived in Oslo campsite. V. pretty. John picked raspberries.",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Fiskum, Kongsberg, Norway",
+      "original_wording": "Fiskum near Kongsberg",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0244_R",
+      "excerpt": "We drove on for 1 ¼ hours to [?Fiskum]** near Kongsberg. The campsite is a pretty old farm",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Kongsberg, Norway",
+      "original_wording": "Kongsberg",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0244_R",
+      "excerpt": "We came into Kongsberg. There is an interesting museum – silver mining/mint/skiing/minerals?",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Vemork, Rjukan, Norway",
+      "original_wording": "Rjukan-Vemork",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0247_R",
+      "excerpt": "We came to Rjukan-Vemork which is where the Norwegians had one of their first hydro electric power stations ... In 1940 the Germans took over the factory to increase the supply of \"heavy water\"",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Åmot, Vinje, Norway",
+      "original_wording": "Amot",
+      "role": "overnight_base",
+      "confidence": 0.65,
+      "approximate": true,
+      "source_page_id": "A_0248_L",
+      "excerpt": "On to Amot *** ; we had trouble finding a campsite ... We had a good all-you-can-eat buffet supper at a ski hotel.",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Rygnestadtunet, Valle, Setesdal, Norway",
+      "original_wording": "Setesdal Valley museum, Rygnesta",
+      "role": "main_stop",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0248_L",
+      "excerpt": "We went back 3 km to a farm, part of Setesdal Valley museum, Rygnesta. Excellent guide [on] called Ann.",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Sirdal, Norway",
+      "original_wording": "Haugen ... Sirdal valley",
+      "role": "overnight_base",
+      "confidence": 0.65,
+      "approximate": true,
+      "source_page_id": "A_0249_R",
+      "excerpt": "Down to Haugen to camp. Sirdal valley. excellent facilities - loos + showers v. well laid out + good quality. We had supper in the cafe.",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Stavanger, Norway",
+      "original_wording": "Stavanger",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0250_R",
+      "excerpt": "We drove into Stavanger + saw the cathedral. ... A long wait on the harbour side for the ferry.",
+      "geocode_hint": { "countrycodes": "no" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "North Shields, Newcastle, UK",
+      "original_wording": "North Shields",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0250_R",
+      "excerpt": "As we left the harbour at North Shields we saw the tubes around a building of swimming slides. So we went for a super swim with lots of slides",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Lincolnshire, UK",
+      "original_wording": "Lincolnshire to James Smith's house",
+      "role": "main_stop",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0250_R",
+      "excerpt": "We are going south to Lincolnshire to James Smith's house to pick up Thomas who has come back in the train from visiting the Wegners.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0250_R",
+      "excerpt": "We are going south to Lincolnshire to James Smith's house to pick up Thomas",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "north_shields-bergen",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0232_R",
+      "excerpt": "just in time for the queue to get on the Ferry to Bergen. ... The ferry was extraordinarily calm."
+    },
+    {
+      "after_seq": 5,
+      "route_key": null,
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0237_L",
+      "excerpt": "We went on a small ferry across the laerdal arm of Sognafjord. Through a tunnel to Solvorngolden",
+      "note": "Local fjord ferry across the Lærdal arm of Sognefjord, not in ferries.json; followed by a road tunnel into Solvorn."
+    },
+    {
+      "after_seq": 7,
+      "route_key": null,
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0239_L",
+      "excerpt": "We caught the 4.0 ferry to Ornes + reached a marvellous stave church",
+      "note": "Local fjord ferry across Lustrafjord to Ornes/Urnes; not in ferries.json."
+    },
+    {
+      "after_seq": 21,
+      "route_key": "north_shields-stavanger",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0250_R",
+      "excerpt": "A long wait on the harbour side for the ferry. ... As we left the harbour at North Shields"
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Day in central Bergen (Bryggen wharves, museums, funicular)",
+      "date_guess": "1998-07-29",
+      "stops": [
+        {
+          "normalized_name": "Bryggen, Bergen, Norway",
+          "original_wording": "Bryggen",
+          "confidence": 0.9,
+          "source_page_id": "A_0233_L",
+          "excerpt": "We looked around Bryggen - the old Hanseatic league wharves.",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "Bryggens Museum, Bergen, Norway",
+          "original_wording": "Bryggen Museum",
+          "confidence": 0.9,
+          "source_page_id": "A_0233_R",
+          "excerpt": "Then on to the Bryggen Museum which shows Medieval archeological finds in the wharves. ... It is a fabulous museum.",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "St Mary's Church (Mariakirken), Bergen, Norway",
+          "original_wording": "St. Mary's church",
+          "confidence": 0.85,
+          "source_page_id": "A_0233_R",
+          "excerpt": "We saw St. Mary's church & then met up with Simon at the Hanseatic Museum.",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "Fløibanen Funicular, Bergen, Norway",
+          "original_wording": "the funicular",
+          "confidence": 0.8,
+          "source_page_id": "A_0234_L",
+          "excerpt": "the funicular for a marvellous view of Bergen + the surrounding water. We had icecreams, then went down to the van + back to the campsite.",
+          "geocode_hint": { "countrycodes": "no" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "Up the valley to Borgund stave church & Lærdal salmon museum",
+      "date_guess": "1998-07-31",
+      "stops": [
+        {
+          "normalized_name": "Borgund Stave Church, Lærdal, Norway",
+          "original_wording": "Borgund stave church",
+          "confidence": 0.9,
+          "source_page_id": "A_0236_L",
+          "excerpt": "The valley opened out for a fascinating old church - Borgund stave church. It smells woody + of pitch.",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "Norwegian Wild Salmon Centre, Lærdal, Norway",
+          "original_wording": "the salmon museum",
+          "confidence": 0.8,
+          "source_page_id": "A_0236_L",
+          "excerpt": "We came back down the valley + went to shops at Laerdal + the salmon museum.",
+          "geocode_hint": { "countrycodes": "no" }
+        }
+      ]
+    },
+    {
+      "base_seq": 6,
+      "label": "Glacier museum & Nigardsbreen glacier walk",
+      "date_guess": "1998-08-02",
+      "stops": [
+        {
+          "normalized_name": "Norwegian Glacier Museum, Fjaerland, Norway",
+          "original_wording": "the glacier museum",
+          "confidence": 0.8,
+          "source_page_id": "A_0238_L",
+          "excerpt": "We drove to the glacier museum, whi[ch] was very interesting.",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "Nigardsbreen Glacier, Jostedalen, Norway",
+          "original_wording": "Nigardsbreen",
+          "confidence": 0.85,
+          "source_page_id": "A_0238_R",
+          "excerpt": "Nigardsbreen Glacier. ... It was ENORMOUS & one of the most spectacular things I've ever seen.",
+          "geocode_hint": { "countrycodes": "no" }
+        }
+      ]
+    },
+    {
+      "base_seq": 13,
+      "label": "Day trip to Mårbacka (Selma Lagerlöf's house) & Sunne",
+      "date_guess": "1998-08-07",
+      "stops": [
+        {
+          "normalized_name": "Mårbacka, Sunne, Sweden",
+          "original_wording": "Marbacka",
+          "confidence": 0.8,
+          "source_page_id": "A_0242_L",
+          "excerpt": "Selma Lagerlof's house at Marbacka ... After lunch we came to the house. Mr [Lagerloff?] wrote Nils & the goose",
+          "geocode_hint": { "countrycodes": "se" }
+        },
+        {
+          "normalized_name": "Sunne, Sweden",
+          "original_wording": "Sunne",
+          "confidence": 0.75,
+          "source_page_id": "A_0242_L",
+          "excerpt": "Then we drove on to Sunne. At Sunne we went to the supermarket & Eve found [bluegas?].",
+          "geocode_hint": { "countrycodes": "se" }
+        }
+      ]
+    },
+    {
+      "base_seq": 14,
+      "label": "Oslo museums & sights (Bygdøy, Vigeland, Akershus, Svein's island)",
+      "date_guess": "1998-08-10",
+      "stops": [
+        {
+          "normalized_name": "Bygdøy, Oslo, Norway",
+          "original_wording": "Bygdoy",
+          "confidence": 0.85,
+          "source_page_id": "A_0242_R",
+          "excerpt": "We caught a bus & tram to the peninsular where 5 museums are, Bygdoy. We all visited the Viking Museum",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "Viking Ship Museum, Bygdøy, Oslo, Norway",
+          "original_wording": "Viking Museum",
+          "confidence": 0.85,
+          "source_page_id": "A_0242_R",
+          "excerpt": "We all visited the Viking Museum, then Simon & Eve went to the Folk Museum",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "Fram Museum, Bygdøy, Oslo, Norway",
+          "original_wording": "Fram Museum",
+          "confidence": 0.85,
+          "source_page_id": "A_0243_L",
+          "excerpt": "Then we all went to the Fram Museum & the Kon Tiki museum. They are marvellously laid out.",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "Kon-Tiki Museum, Bygdøy, Oslo, Norway",
+          "original_wording": "Kon Tiki museum",
+          "confidence": 0.85,
+          "source_page_id": "A_0243_L",
+          "excerpt": "Then we all went to the Fram Museum & the Kon Tiki museum.",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "Vigeland Sculpture Park, Oslo, Norway",
+          "original_wording": "Vigeland's wonderful statues",
+          "confidence": 0.8,
+          "source_page_id": "A_0243_L",
+          "excerpt": "We looked at [Vigeland's] wonderful statues, an obelisk of bodies",
+          "geocode_hint": { "countrycodes": "no" }
+        },
+        {
+          "normalized_name": "Akershus Fortress, Oslo, Norway",
+          "original_wording": "Akershus Festning",
+          "confidence": 0.85,
+          "source_page_id": "A_0244_L",
+          "excerpt": "we packed up & drove to the centre to see the Akershus Festning – built by Hikon [?Magnusson] c/1300 & Christian IV early 17th, lovely tapestries",
+          "geocode_hint": { "countrycodes": "no" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Oslo (Thursday morning knitwear stop)",
+      "issue": "Diary states 'On Thursday morning we stopped at Oslo to buy knitwear' during the Bergen->Voss->Lærdal westbound fjord leg, which is geographically impossible (Oslo is ~300km east). Likely a mis-naming of a shop/town on the road to Lærdal, or a memory slip; the family genuinely reach Oslo later (Aug 9-12). Excluded from the main route to avoid distorting the map.",
+      "source_page_id": "A_0235_L",
+      "excerpt": "On Thursday morning we stopped at Oslo to buy knitwear. Peter bought a hat, Eve bought a cardigan \"Christiania\" is the old name for Oslo."
+    },
+    {
+      "original_wording": "Honnevige",
+      "issue": "Named as a lunch/picnic point on Thu 14th Aug between Åmot and the Setesdal museum, but the place could not be reliably located; spelling uncertain.",
+      "source_page_id": "A_0248_L",
+      "excerpt": "On past lake after lake to Honnevige . Lunch at a lovely picnic spot, lots of flat boulders."
+    },
+    {
+      "original_wording": "Korpang / Korpang",
+      "issue": "Shopping stop on Wed 5th Aug ('We stopped in Korpang to shop') before crossing into Sweden; spelling uncertain (Koppang in Norway already used as the wild-camp anchor seq 10). Possibly the same Koppang misspelled, or a different small town; not separately placed.",
+      "source_page_id": "A_0241_L",
+      "excerpt": "We stopped in Korpang to shop, & then stopped in a lay-by for coffee, where we discovered we had a puncture."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0232_R",
+      "issue": "mixed_start: page opens with the tail of a prior outing (veggie lunch, home via Woodpecker Hall/Monmouth, the Goodiers) before the 'July 27th Monday' heading begins this Norway trip with 'We left home ... headed north'."
+    },
+    {
+      "page_id": "A_0250_R",
+      "issue": "mixed_end: trip ends here as the return ferry lands at North Shields and the family heads south to Lincolnshire to collect Thomas; the homeward drive to Birmingham is implied but not explicitly narrated past Lincolnshire."
+    },
+    {
+      "page_id": "A_0235_R",
+      "issue": "Newspaper clipping page (printed advertisements only, places 'East Manchester'/'London' are ad copy) - no diary content, not a stop."
+    }
+  ],
+  "summary": "In summer 1998 the family drove from Birmingham to North Shields and took the overnight ferry to Bergen, then toured Norway's western fjord country (Bergen/Bryggen, Voss, Lærdal and Borgund stave church, Solvorn, the Nigardsbreen glacier, Urnes and Skjolden) before crossing east into Sweden (Höljes, Humletorp near Sunne, Mårbacka). They returned into Norway for Oslo's Bygdøy museums, then worked south via Kongsberg, Rjukan-Vemork and the Setesdal valley to Stavanger, sailing home from Stavanger to North Shields and on through Lincolnshire to collect Thomas. The trip was eventful - a roadside van breakdown in Bergen and a late-night hospital dash to Førde after John banged his head.",
+  "extraction_notes": "Trip runs A_0232_R (mixed start) to A_0250_R (mixed end); 1998 dates confirmed (27 July 1998 was a Monday; 2 Aug 1998 a Sunday) despite several stray ISO guesses of 1992/1997 in the source page metadata - treat those as OCR/heuristic noise. Main route is the overnight progression: home -> North Shields (ferry) -> Bergen/Breistein -> [Voss] -> Lærdal -> Solvorn -> Førde (unplanned hospital overnight) -> Urnes -> Skjolden -> wild camp near Koppang -> Höljes (SE) -> [Torsby] -> Humletorp -> Oslo -> Fiskum/Kongsberg -> [Kongsberg] -> Rjukan-Vemork -> Åmot -> Setesdal museum -> Haugen/Sirdal -> Stavanger (ferry) -> North Shields -> Lincolnshire -> home. Outbound crossing north_shields-bergen and return crossing north_shields-stavanger are both explicitly named (Norway via Newcastle, never the Low Countries). Two local Norwegian fjord ferries (across the Lærdal arm of Sognefjord to Solvorn, and across Lustrafjord to Ornes/Urnes) are recorded as crossings with route_key null since their ports are not in ferries.json. Approximate anchors flagged for the wild camp near Koppang (seq 10), Åmot (seq 18, which of several Norwegian Åmots is ambiguous - placed in Vinje/Telemark on the Rjukan->Setesdal line), Rygnestadtunet/Setesdal museum (seq 19) and Haugen/Sirdal (seq 20). The early 'Oslo' knitwear stop, 'Honnevige', and 'Korpang' are queued as unresolved. Stave churches visited form a theme: Borgund (excursion), Urnes (main route), Ringebu (seen in passing near the seq 10 wild camp, not separately listed as a stop) and Gol (seen inside the Folk Museum at Bygdøy)."
+}

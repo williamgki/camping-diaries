@@ -1,0 +1,429 @@
+{
+  "trip_id": "2017-grand-tour-france-italy-reims-cinque",
+  "title": "Grand Tour: France & Italy (Reims, Cinque Terre, Tuscany & Umbria)",
+  "volume": "B",
+  "spread_range": ["B_0276", "B_0290"],
+  "diary_page_range": [96, 118],
+  "date_start": "2017-04-22",
+  "date_end": "2017-05-13",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR", "CH", "IT"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0276_R",
+      "excerpt": "We left home at 11, reached the Green Man & had to circle back to get the bread out of the bread crock.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Oxford, UK",
+      "original_wording": "Oxford",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0277_L",
+      "excerpt": "We reached Oxford for lunch + Jenny gave us lovely pasta.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Stalisfield Green, Kent, UK",
+      "original_wording": "Plough Stalisfield / Stalisfield Green",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0277_L",
+      "excerpt": "We spent the night at the Plough Stalisfield. The supper at 8 (booked head) was delicious.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Folkestone (Eurotunnel)",
+      "original_wording": "Channel Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": false,
+      "inference_reason": "Channel Tunnel explicitly named; family slept in Kent near the tunnel then appear in France",
+      "source_page_id": "B_0277_L",
+      "excerpt": "We left [?Tinder] a went south to near the Channel Tunnel.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Reims, France",
+      "original_wording": "Reims",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0277_L",
+      "excerpt": "Le Cleree was closed at Reims. We parked in a square + walked to the cathedral. Lovely Chagalle window.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Revigny-sur-Ornain, France",
+      "original_wording": "just beyond Brabant Revigny ... sur Ornain",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0277_L",
+      "excerpt": "Drove to just beyond Brabant Revigny, a [beautiful] sur Ornain, a beautiful village campsite with running stream. Everything shut up, a free night.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Lucerne, Switzerland",
+      "original_wording": "Lucerne",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0278_R",
+      "excerpt": "South east on motorways into Switzerland, towards Lucerne. We got off at Sursee & went down east side of Sempachersee Lake.",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Eich, Lucerne, Switzerland",
+      "original_wording": "Sonne Seehotel ... on the lake at Eich",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0278_R",
+      "excerpt": "we stayed in Sonne Seehotel (sun + sea hotel) on the lake at Eich. ... we faced lake (240€) which had a glorious view all evening + all night.",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Pavia, Italy",
+      "original_wording": "Pavra Ticino campsite / Pavia",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0279_L",
+      "excerpt": "We reach Pavra Ticino campsite, same names as river. We cycle into Pavia, about 30 min away along a cycle track by the river.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Sestri Levante, Italy",
+      "original_wording": "Cinque Terre ... Villa Balbi ... [?Sestri Levante]",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0279_L",
+      "excerpt": "when we reached the Cinque Terre we spent 3 nights in the Villa Balbi. V. comfortable. A room on the 3rd floor [?Sestri Levante] over looking the sea.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Montalcino, Italy",
+      "original_wording": "near Montalcino ... campsite Podere [?La] Cozo",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0280_R",
+      "excerpt": "We drove thru lovely countryside to near Montalcino. The campsite Podere [?La] Cozo has the best views ever.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Pienza, Italy",
+      "original_wording": "Pienza",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0282_L",
+      "excerpt": "On to Pienza suggest by Anna. ... Pienza is v. pretty ... It was built by Pope Pius II, a humanist pope, in 1400s.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Assisi, Italy",
+      "original_wording": "Assisi ... Fontemaggio",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0282_R",
+      "excerpt": "Then we drove on to Assisi & camped here, level with the church half way up the hill. ... FONTEMAGGIO ... [handwritten] Assisi",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Perugia, Italy",
+      "original_wording": "[?Rimini] / [?Rigia]",
+      "role": "main_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0284_R",
+      "excerpt": "We walked around the town + saw l'Universita dei Stranieri, where Simon had studied ... the Etruscan well, built 300 BC ... 90 ft. deep + fed by 4 springs.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "San Feliciano, Lake Trasimeno, Italy",
+      "original_wording": "San Feliciano on Lake Trasimeno",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0285_L",
+      "excerpt": "On to San Feliciano on Lake Trasimeno. Lovely sunshine, but wind too cold to sit outside. Another stunning view. We are parked next to Belgians who have been coming to this lake for 40 years.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Cortona, Italy",
+      "original_wording": "Cortona",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0287_L",
+      "excerpt": "Angela + Munrose had suggested visiting Cortona, so we did, a very steep hill top town with walls, lovely, + we saw the gorgeous Fra Angelico Annunciation. Then tea + on to Siena.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Siena, Italy",
+      "original_wording": "Siena",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0287_L",
+      "excerpt": "Then tea + on to Siena. We found the campsite, from which you can see Siena on the next hill. ... Supper + bed.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Piacenza, Italy",
+      "original_wording": "Piacenza",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0288_L",
+      "excerpt": "Simon drove north & west for most of the day ... We ate lunch near Modena! At Piacenza we stopped to visit a church in the style of Bramante but it was closed.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Camping U. Cagni, Italy",
+      "original_wording": "Camping \"U. Cagni\"",
+      "role": "overnight_base",
+      "confidence": 0.65,
+      "approximate": true,
+      "source_page_id": "B_0288_R",
+      "excerpt": "are at a very pretty campsite in the middle of fields/meadows. Caravans with sheds built over. Carefully planted trees. Camping \"U. Cagni.\"",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Murs-et-Gélignieux, France",
+      "original_wording": "Le Port ... at Murs en Belignon",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0288_R",
+      "excerpt": "On thru the Frejus pass. ... Past Chambery. ... We've found a gorgeous campsite, Le Port, [illegible] at Murs en Belignon. We are on a lake where the R. Rhone has swelled out.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Abbaye Notre-Dame des Dombes, Le Plantay, France",
+      "original_wording": "Dombes Abbey",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0289_L",
+      "excerpt": "On to have lunch near alot of lakes at Dombes Abbey. The monks were invited in 1860, to drain the lakes ... Cistercians.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Saint-Jean-de-Vaux, France",
+      "original_wording": "St. Jean de Vaux",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0289_R",
+      "excerpt": "We shopped - for England, pisacio, pate + garlic, + reached St. Jean de Vaux.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Arras, France",
+      "original_wording": "Arras",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0290_R",
+      "excerpt": "We left promptly to go north to near Arras. ... we spent the night on the 3 hopeurs / hypers on the Grand Place in Arras.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Vimy, France",
+      "original_wording": "Vimy / Vimy ridge",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0290_R",
+      "excerpt": "We drove to Vimy to buy bread. ... Vimy ridge steep. Lots of Canadian [?&] memorials. On to the Tunnel.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Coquelles (Eurotunnel)",
+      "original_wording": "the Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": false,
+      "inference_reason": "return Channel Tunnel crossing explicitly named after Vimy",
+      "source_page_id": "B_0290_R",
+      "excerpt": "Vimy ridge steep. Lots of Canadian [?&] memorials. On to the Tunnel.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0290_R",
+      "excerpt": "On to the Tunnel.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 4,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0277_L",
+      "excerpt": "We left [?Tinder] a went south to near the Channel Tunnel."
+    },
+    {
+      "after_seq": 25,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0290_R",
+      "excerpt": "On to the Tunnel."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 10,
+      "label": "Cinque Terre cliff walk: train to Manarola, walk up to Corniglia",
+      "date_guess": "2017-04-28",
+      "stops": [
+        {
+          "normalized_name": "Manarola, Italy",
+          "original_wording": "Manarola",
+          "confidence": 0.85,
+          "source_page_id": "B_0279_R",
+          "excerpt": "We left at 8.50. to get poles out of van & catch 9.40. train. ... Out at Manarola (to Corniglia) & had trouble finding",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "Corniglia, Italy",
+          "original_wording": "Corniglia",
+          "confidence": 0.85,
+          "source_page_id": "B_0280_L",
+          "excerpt": "the path to Corniglia because several of the lower Cin 5 Terre paths have been blocked off. We had to climb way way up the hill & walk along at a high level.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 11,
+      "label": "Day trip to Abbey of Sant'Antimo and Montalcino town",
+      "date_guess": "2017-04-30",
+      "stops": [
+        {
+          "normalized_name": "Abbazia di Sant'Antimo, Montalcino, Italy",
+          "original_wording": "Abbey Sant'Antimo",
+          "confidence": 0.9,
+          "source_page_id": "B_0280_R",
+          "excerpt": "We set off at 8.30, hoping for monks' singing at Abbey Sant'Antimo. There wasn't. ... there was Mass in a beautiful French Romanesque church.",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "Montalcino, Italy",
+          "original_wording": "Montalcino",
+          "confidence": 0.85,
+          "source_page_id": "B_0281_R",
+          "excerpt": "In the afternoon we drove to Montalcino, a nice town with walls. lots of sight-seers & wineshops.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Day trip to Castiglione del Lago",
+      "date_guess": "2017-05-05",
+      "stops": [
+        {
+          "normalized_name": "Castiglione del Lago, Italy",
+          "original_wording": "[?Castiglione del Lago]",
+          "confidence": 0.8,
+          "source_page_id": "B_0285_L",
+          "excerpt": "At 3.30. we left for [?Castelggioni del Mare] [?Castiglione del Lago]. ... We reached the town + walked along the mainstreet - very pretty ... The castle was interesting - frescoes + a Picasso exhibition.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Visit to Angela Amesbury & Munro Jack's house in the hills near Trasimeno",
+      "date_guess": "2017-05-06",
+      "stops": [
+        {
+          "normalized_name": "Lake Trasimeno hills, Umbria, Italy",
+          "original_wording": "Angela Amesbury & Munro Jack ... lovely house nearby in the hills",
+          "confidence": 0.55,
+          "source_page_id": "B_0286_L",
+          "excerpt": "We visited Angela Amesbury & Munro Jack in their lovely house nearby in the hills. Their nearest shop is in",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Rimini] C[—]",
+      "issue": "Reads as 'Rimini' but Rimini is on the Adriatic coast, inconsistent with the route. The town actually described (l'Universita per Stranieri where Simon studied, Oratory of San Bernardino, Piero della Francesca, the Etruscan well/Pozzo Etrusco) is Perugia, which is recorded as main_stop seq 14. This token may be a destination intention that was not reached, or a misreading.",
+      "source_page_id": "B_0284_L",
+      "excerpt": "We left Fontemaggio, one of the best campsites we've been in. Off to [?Rimini] C[—]"
+    },
+    {
+      "original_wording": "Monneret (La Fosse ... in St. Marc de Vaux, just beyond the St. Jean de Vaux graveyard)",
+      "issue": "Wine producer visited as a short errand from the St-Jean-de-Vaux base; 'St. Marc de Vaux' is not a clearly geocodable commune (likely a hamlet adjacent to St-Jean-de-Vaux). Not treated as a separate stop.",
+      "source_page_id": "B_0290_L",
+      "excerpt": "He sends us to Monneret (La Fosse ... in St. Marc de Vaux, just beyond the St. Jean de Vaux graveyard). Simon made an appt. at 5pm. So we drove there & bought 60 bottles of Cremant de Bourgogne",
+      "issue_note": "kept as wine-buying excursion, not an overnight leg"
+    }
+  ],
+  "boundary_flags": [
+    {
+      "issue": "Bundle flagged mixed_end=true; page B_0290_R has boundary_mixed=true. The Saturday May 13 entry ends 'On to the Tunnel' which is the return crossing of THIS trip; subsequent diary content (page no. jumps 109 -> 118) likely begins the next trip.",
+      "source_page_id": "B_0290_R"
+    },
+    {
+      "issue": "Several page 'iso' dates auto-parsed to 2006 (e.g. B_0283_L/R, B_0284_L) are erroneous; the trip is firmly 2017 (April 22nd Saturday 2017; Macron/Le Pen second round; Thursday May 11 / Friday / Saturday line up with 2017).",
+      "source_page_id": "B_0276_R"
+    }
+  ],
+  "summary": "A three-week motorhome grand tour in spring 2017 from Birmingham via the Channel Tunnel through Reims and eastern France into Switzerland (Lake Sempach at Eich), then over the St Gothard into Italy. After Pavia the couple toured the Ligurian coast (Sestri Levante / Cinque Terre), then Tuscany and Umbria (Montalcino, Pienza, Assisi, Perugia, Lake Trasimeno, Cortona, Siena) before returning north and west across the Frejus pass into France (the Rhone lakes and Burgundy wine country at St-Jean-de-Vaux), finishing via Arras and Vimy Ridge to the Channel Tunnel.",
+  "extraction_notes": "Travellers: only Simon and Eve are evidenced on this trip (van/motorhome touring); the adult sons and their families are described doing their own things from home and are not on the journey, so the traveller list is limited to Simon and Eve. The page flagged in sketch_images (B_0282_L) is NOT a route sketch — the image shows a humorous drawing of Anna's dog being loaded onto a motorbike (annotations 'box for dog', 'dog's head sticks out of hole', 'back wheel'), so evidence hierarchy rule 1 (route sketches outrank narrative) does not apply; route order was reconstructed from the dated narrative and overnight bases. Two Alpine road tunnels/passes are part of the drive but are not sea crossings (not in ferries.json): the St Gothard tunnel (Switzerland->Italy, after Eich) and the Frejus pass (Italy->France, after Camping U. Cagni). Both Channel crossings use the Eurotunnel (folkestone-coquelles): the diary names 'the Channel Tunnel' outbound and 'the Tunnel' on return. Pienza (seq 12) and Cortona (seq 16) are visited en route between bases rather than as same-base excursions. Perugia (seq 14) is recorded from its unmistakable landmarks despite the uncertain '[?Rimini]/[?Rigia]' wording. Camping U. Cagni (seq 19) and Murs-et-Gelignieux/Le Port (seq 20) have approximate locations: U. Cagni is an unlocated NW-Italy campsite before the Frejus pass, and 'Murs en Belignon' is read as Murs-et-Gelignieux (Ain) on a Rhone lake with a Camping Le Port. Dates: day precision; trip ran 22 Apr 2017 (left home) to 13 Apr/May 2017 (reached the Tunnel on Saturday 13 May)."
+}

@@ -1,0 +1,83 @@
+{
+  "trip_id": "2022-hay-on-wye-festival-kilpeck",
+  "title": "Hay-on-Wye Festival & Kilpeck",
+  "volume": "B",
+  "spread_range": ["B_0362", "B_0364"],
+  "diary_page_range": [63, 65],
+  "date_start": "2022-05-29",
+  "date_end": "2022-06-01",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hay-on-Wye, Wales",
+      "original_wording": "Hay on Wye",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0362_R",
+      "excerpt": "Simon, Eve Tinder set off at 9.15, for Hay on Wye.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Kilpeck, Herefordshire",
+      "original_wording": "Kilpeck church",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0364_R",
+      "excerpt": "Simon + I drove to see Kilpeck church + had lunch there on the way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0364_R",
+      "excerpt": "Simon + I drove to see Kilpeck church + had lunch there on the way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Hay Castle — Julius Caesar performance",
+      "date_guess": "2022-05-31",
+      "stops": [
+        {
+          "normalized_name": "Hay Castle, Hay-on-Wye",
+          "original_wording": "Hay Castle",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0363_L",
+          "excerpt": "In the afternoon Simon + I took Nini + Flora to Hay Castle for Julius Caesar.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page B_0362_R begins with end of previous trip before the May 29th entry"
+  ],
+  "summary": "Simon and Eve (with Tinder) drove to the Hay-on-Wye Literary Festival on 29 May 2022, where they were joined by all five sons and their families for a multi-night camping stay that included festival talks, a performance of Julius Caesar at Hay Castle, and a birthday celebration for Peter. On the return home (Wednesday 1 June), Simon and Eve stopped to visit the Norman church at Kilpeck.",
+  "extraction_notes": "Page B_0362_R contains two diary entries: the tail end of an earlier trip (ending 'A really super holiday') followed by a separate March 31st outing (to Brook House Farm, Redditch), and then the start of this festival trip from 'Sunday 29th May'. The campsite name is not given. All sons and their families attended the festival but William and John's families left before the end (school/work). Kilpeck church is explicitly identified in the caption on B_0363_R ('12 chevrd f St. Mary + St. David Kilpeck') and confirmed in the narrative on B_0364_R."
+}

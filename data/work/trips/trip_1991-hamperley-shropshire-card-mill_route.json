@@ -1,0 +1,84 @@
+{
+  "trip_id": "1991-hamperley-shropshire-card-mill",
+  "title": "Hamperley, Shropshire & Carding Mill Valley",
+  "volume": "A",
+  "spread_range": ["A_0040", "A_0041"],
+  "diary_page_range": [75, 76],
+  "date_start": "1991-05-04",
+  "date_end": "1991-05-05",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wolverhampton, UK",
+      "original_wording": "Wolverhampton",
+      "role": "transit_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0040_R",
+      "excerpt": "called at the Wolverhampton camping shop to buy a cushion & deck chairs",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Hamperley, Shropshire, UK",
+      "original_wording": "Hamperley",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0040_R",
+      "excerpt": "We arrived at __Hamperley__, only to get thoroughly bogged down in the field.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Shropshire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0041_L",
+      "excerpt": "After tea we went home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Sunday lunch at Carding Mill Valley",
+      "date_guess": "1991-05-05",
+      "stops": [
+        {
+          "normalized_name": "Carding Mill Valley, Church Stretton, Shropshire, UK",
+          "original_wording": "Card Mill",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0041_L",
+          "excerpt": "We ate lunch in a lovely valley with lots of other trippers. It was Card Mill. There were streams coming down the hillside & several dams, which had been made smaller recently.",
+          "geocode_hint": { "countrycodes": "gb", "region": "Shropshire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page A_0040_R begins mid-volume; diary content before this entry is from a different trip",
+    "mixed_end: page A_0041_L ends with return home; content before this entry continues from A_0040_R"
+  ],
+  "summary": "A short May 1991 bank holiday weekend at the family's regular Hamperley campsite in south Shropshire. The van became badly bogged in the field on both Saturday and Sunday, requiring considerable effort and help from other campers to free it. On Sunday the family drove to Carding Mill Valley (\"Card Mill\") near Church Stretton for lunch before returning home.",
+  "extraction_notes": "Pages are mixed_start and mixed_end. The trip covers Saturday 4 May and Sunday 5 May 1991 only. Wolverhampton was a transit stop (camping shop) on the outbound leg. 'Card Mill' in the diary almost certainly refers to Carding Mill Valley, the well-known National Trust valley near Church Stretton, Shropshire — the description of streams and dams matches that location; confidence 0.85 (diary spells it 'Card Mill' rather than 'Carding Mill'). Sunday church attendance is mentioned but the church is not named and appears to be in or near the Hamperley/Ratlinghope area — not enough detail to add as a stop. Eve is not named in these pages but is assumed present per standard family trips. Tinder the dog is not mentioned. No ferry or crossing involved — entirely within England."
+}

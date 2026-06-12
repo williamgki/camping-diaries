@@ -1,0 +1,469 @@
+{
+  "trip_id": "1990-ardeche-france-the-wegners-in-w",
+  "title": "Ardèche (France) & the Wegners in W. Germany",
+  "volume": "A",
+  "spread_range": ["A_0022", "A_0031"],
+  "diary_page_range": [38, 57],
+  "date_start": "1990-07-25",
+  "date_end": "1990-08-10",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter"],
+  "countries": ["GB", "FR", "DE"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0022_L",
+      "excerpt": "Simon, Eve, Thomas, William, Peter off to the Ardèche, France, & to visit the Wegners in W. Germany.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Rugby, UK",
+      "original_wording": "Rugby",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0022_L",
+      "excerpt": "We set off via Rugby, to take phtos to Decorum. ... We had lunch near Rugby & Crick, on farmland.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Dartford Crossing, UK",
+      "original_wording": "Dartford Tunnel",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0022_L",
+      "excerpt": "At 4.30. we went through the Dartford Tunnel with no delays.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Canterbury, UK",
+      "original_wording": "the Edwards' house / Canterbury",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "A_0022_R",
+      "excerpt": "Wednesday night we spent camped on the road outside the Edwards' house. ... __Canterbury__, the day the new archbishop cho[se]",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Dover",
+      "original_wording": "Pride of Calais",
+      "role": "crossing_terminal",
+      "confidence": 0.75,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "UK departure port for the Pride of Calais ferry to Calais; Dover is that ferry's port (Dover not named explicitly)",
+      "source_page_id": "A_0022_R",
+      "excerpt": "__Thursday__ We set off at 8.50. & came across on the Pride of Calais, big & clean.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Calais",
+      "original_wording": "Calais (Pride of Calais)",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0022_R",
+      "excerpt": "came across on the Pride of Calais, big & clean. We had lunch outside a farm barn near St. Omer",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Saint-Omer, France",
+      "original_wording": "St. Omer",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0022_R",
+      "excerpt": "We had lunch outside a farm barn near St. Omer, then went on a motorway A26.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Arras, France",
+      "original_wording": "Arras",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0022_R",
+      "excerpt": "Arras coffee & orangina in the square",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Gernicourt, France",
+      "original_wording": "Gernicourt Campsite",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0023_L",
+      "excerpt": "We spent the night at __Gernicourt Campsite__ **** + called in to see the de [?Huellos] the next morning.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Reims, France",
+      "original_wording": "Reims Cathedral",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0023_L",
+      "excerpt": "We saw Reims Cathedral, arches, Chagall stained glass '74. William got a splinter.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Clairvaux Abbey, France",
+      "original_wording": "Clairvaux Abbey",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0023_L",
+      "excerpt": "On to the south, past Clairvaux Abbey to a municipal campsite at __Arc en Barois__",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Arc-en-Barrois, France",
+      "original_wording": "Arc en Barois",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0023_L",
+      "excerpt": "to a municipal campsite at __Arc en Barois__ ****. It's on an island ... We had a delicious meal at Hotel Place de Parc.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Dijon, France",
+      "original_wording": "Dijon",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0023_R",
+      "excerpt": "We were shopping for food + petrol on the outskirts of Dijon. We went into an apalling, huge supermarket",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Lyon, France",
+      "original_wording": "lyons",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0023_R",
+      "excerpt": "Motoring south afterwards, through lyons + on to Tourion, it was 39°.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Tournon-sur-Rhône, France",
+      "original_wording": "Tourion",
+      "role": "transit_stop",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "A_0023_R",
+      "excerpt": "Motoring south afterwards, through lyons + on to Tourion, it was 39°. We came to a campsite on __Doue River__, near __Colombiers te Vieux__",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Colombier-le-Vieux, France",
+      "original_wording": "Colombiers te Vieux / Doue River",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0023_R",
+      "excerpt": "We came to a campsite on __Doue River__, near __Colombiers te Vieux__ ****. We swam in the camp swimming pool.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Gerbier de Jonc, France",
+      "original_wording": "Gerbier de Jonc",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0024_R",
+      "excerpt": "We have bought lavender honey at __Gerbier de Jonc__.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Lac d'Issarlès, France",
+      "original_wording": "Lac de Issarlès / Le lac d'Issarlès",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0024_R",
+      "excerpt": "We are camping by a volcanic lake at __Lac de Issarlès__. Pine trees, a beautiful view & swimming in the lake.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Aubenas, France",
+      "original_wording": "Aubenas",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0024_R",
+      "excerpt": "__Tuesday__ We stopped at __Aubenas__ to see the château. It was lived in continuously by the same family ... from about 1200 to 1792.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Casteljau, France",
+      "original_wording": "Les Blaches / Casteljou",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0024_R",
+      "excerpt": "We came on to __Les Blaches__ Casteljou. It would be even more beautiful if it weren't so crowded.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Chambonas, France",
+      "original_wording": "Chambonais / Chaubon[as]",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0026_L",
+      "excerpt": "Friday we packed up & left. & went to see Madame de Nayelle's mother's château ... __Chambonais__. A fairy tale castle, with shining turrets",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Joyeuse, France",
+      "original_wording": "Joyeuse",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0026_L",
+      "excerpt": "Thomas bought a boat at __Joyeuse__ & we started driving down the River Ardèche (which joins the Rhone) to camp",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Saint-Martin-d'Ardèche, France",
+      "original_wording": "Révire (campsite); Aiguèze opposite; St. Martial d'Ardèche",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0027_L",
+      "excerpt": "We camped at Révire ***** + went to visit caves on __Saturday__ at St. Marcel Grottos. ... Beautiful view across the river Ardèche to Aiguèze",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Thionville, France",
+      "original_wording": "Thionville",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0029_L",
+      "excerpt": "We left early + drove over 400 miles north to near Germany, beyond Metz. We looked at __Thionville__ campsite which was so overcrowded ... Simon immediately found an isolated field which made an idyllic overnight stop ****.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Trier, Germany",
+      "original_wording": "[?Trion]",
+      "role": "main_stop",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "A_0029_R",
+      "excerpt": "We got ready to leave in 2 hours + stopped in [?Trion] ... After cappucini in the square, we looked at the Cathedral + joined in some ecumenical prayers. The arches in the side aisles are glorious pink + grey stone",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Bad Honnef, Germany",
+      "original_wording": "Bad Honnef (the Wagners / Wegners)",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0029_R",
+      "excerpt": "On to the Wagners. for 2 nights, at __Bad Honnef__",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 27,
+      "normalized_name": "Calais",
+      "original_wording": "Calais",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0030_R",
+      "excerpt": "At __Calais__ we ended up in a dreadful campsite — almost like a gypsy encampment. ... we drove off to a carpark to have breakfast. We went to a supermarket + boarded the ferry.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 28,
+      "normalized_name": "Dover",
+      "original_wording": "Dover",
+      "role": "crossing_terminal",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "return ferry from Calais; arrival port not named but Folkestone (just west of Dover) was visited immediately after landing, consistent with the Dover-Calais route",
+      "source_page_id": "A_0030_R",
+      "excerpt": "Once we were back in England we went to west of Folkestone to see the Channel Tunnel Exhibition Centre",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 29,
+      "normalized_name": "Folkestone, UK",
+      "original_wording": "Folkestone",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0030_R",
+      "excerpt": "we went to west of Folkestone to see the Channel Tunnel Exhibition Centre; ... We had free tickets, sent us by the company.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 30,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0031_L",
+      "excerpt": "We drove home, where Margaret had supper ready for us. Charles was sleepy & John was glad to see us.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 5,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0022_R",
+      "excerpt": "We set off at 8.50. & came across on the Pride of Calais, big & clean."
+    },
+    {
+      "after_seq": 27,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "A_0030_R",
+      "excerpt": "We went to a supermarket + boarded the ferry. Once we were back in England we went to west of Folkestone"
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 20,
+      "label": "Canoeing the Chassezac from the Casteljau base",
+      "date_guess": "1990-08-01",
+      "stops": [
+        {
+          "normalized_name": "Chassezac, France",
+          "original_wording": "Chassezac (5 hour canoes)",
+          "confidence": 0.7,
+          "source_page_id": "A_0028_L",
+          "excerpt": "Chaubon[?as]  Chassezac de Narelle's 5 hour canoes old château",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 23,
+      "label": "Ardèche gorge excursions from the St-Martin-d'Ardèche / Aiguèze base",
+      "date_guess": "1990-08-04",
+      "stops": [
+        {
+          "normalized_name": "Grotte de Saint-Marcel-d'Ardèche, France",
+          "original_wording": "St. Marcel Grottos",
+          "confidence": 0.85,
+          "source_page_id": "A_0027_L",
+          "excerpt": "went to visit caves on __Saturday__ at St. Marcel Grottos. Very well lit + blissfully cool.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Aiguèze, France",
+          "original_wording": "Aiguèze / Aigueze",
+          "confidence": 0.85,
+          "source_page_id": "A_0027_R",
+          "excerpt": "Then we set off for supper at Aiguèze. This involved swimming — or wading — across the river ... We looked around the lovely town",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Chames (Vallon-Pont-d'Arc), France",
+          "original_wording": "Chames",
+          "confidence": 0.75,
+          "source_page_id": "A_0027_R",
+          "excerpt": "We set off at 9, had the canoes in the water at Chames by 11 + finally got home at 8.30",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Pont d'Arc, France",
+          "original_wording": "[?Pont] l'Arc",
+          "confidence": 0.6,
+          "source_page_id": "A_0028_L",
+          "excerpt": "[?Pont] l'Arc  Chames 4 hour canoes",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 26,
+      "label": "Day trips from the Wegners' at Bad Honnef",
+      "date_guess": "1990-08-08",
+      "stops": [
+        {
+          "normalized_name": "Drachenfels (Siebengebirge), Germany",
+          "original_wording": "Dragonsfeld / \"7n Hills\"",
+          "confidence": 0.8,
+          "source_page_id": "A_0030_L",
+          "excerpt": "Annie took us up the cog railway in the afternoon to the of the \"[?7n] Hills\", the Dragonsfeld. ... Lovely views of the Rhine up to Bonn, + beyond to Cologne on a clear day.",
+          "geocode_hint": { "countrycodes": "de" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Tourion",
+      "issue": "place name uncertain; placed as Tournon-sur-Rhône (Rhône valley between Lyon and Colombier-le-Vieux, consistent with the 39°C heat and the Doux-river campsite) but spelling is not a clear match",
+      "source_page_id": "A_0023_R",
+      "excerpt": "Motoring south afterwards, through lyons + on to Tourion, it was 39°."
+    },
+    {
+      "original_wording": "[?Trion]",
+      "issue": "town name uncertain; placed as Trier, Germany (a cathedral city ~NE of Thionville, matching '5 miles n.e.' and the pink/grey-stone cathedral arches), but the transcription is unclear",
+      "source_page_id": "A_0029_L",
+      "excerpt": "We got ready to leave in 2 hours + stopped in [?Trion]"
+    },
+    {
+      "original_wording": "Révire",
+      "issue": "campsite name uncertain; the base is anchored to St-Martin-d'Ardèche / Aiguèze (the sketch's lower gorge near Gr St. Martial & the caves) but 'Révire' itself is not identifiable as a settlement",
+      "source_page_id": "A_0027_L",
+      "excerpt": "We camped at Révire ***** + went to visit caves on __Saturday__ at St. Marcel Grottos."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0031_L",
+      "issue": "mixed_end flagged in bundle (boundary_mixed=true); this page closes the trip ('We drove home') and may share a spread with the start of the next trip"
+    }
+  ],
+  "summary": "In late July 1990 Simon and Eve took Thomas, William and Peter (John and Charles stayed home) by camper van from Birmingham across the Dover–Calais ferry (Pride of Calais), down through Reims, Arc-en-Barrois, Dijon and Lyon to a long fixed-base holiday in the Ardèche, swimming and canoeing the Ardèche and Chassezac gorges around Casteljau and St-Martin-d'Ardèche/Aiguèze. They then drove north via Thionville and Trier to stay two nights with the Wegners at Bad Honnef on the Rhine, before returning through Calais and the Channel Tunnel Exhibition near Folkestone to Birmingham on 10 August.",
+  "extraction_notes": "Sketch A_0028_L is the route map and confirms the Ardèche ordering (Lac d'Issarlès / Gerbier de Jonc / Col-Colombier in the north, down the R. Ardèche via Aubenas, Joyeuse, Chambonas/Chassezac, Pont d'Arc/Chames, caves, to St-Martial/St-Martin-d'Ardèche) — this matches the narrative progression, so sketch and narrative agree. Sketch A_0026_R is a scenic drawing of Aiguèze village, not a route map. Two Ardèche overnight bases are distinguished: the upper Chassezac base (Les Blaches/Casteljau) and the lower gorge base (Révire campsite by St-Martin-d'Ardèche, opposite Aiguèze). 'Tourion'→Tournon-sur-Rhône, '[?Trion]'→Trier and the campsite 'Révire' are uncertain (see unresolved). Dartford Tunnel is an in-England M25 Thames crossing, recorded as a transit stop, not a Channel crossing. The outbound ferry is the named Pride of Calais (Dover–Calais); the return ferry's UK arrival port is not named but inferred as Dover given the immediate visit just west of Folkestone. The family/diary spells the German hosts as both 'Wagners' and 'Wegners'; trip_id uses 'Wegners'. Bad Honnef dates are anchored by 'Friday 10th August' on the return, working back through the two-night stay."
+}

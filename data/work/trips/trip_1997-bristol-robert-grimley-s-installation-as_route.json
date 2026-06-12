@@ -1,0 +1,147 @@
+{
+  "trip_id": "1997-bristol-robert-grimley-s-installation-as",
+  "title": "Bristol: Robert Grimley's Installation as Dean",
+  "volume": "A",
+  "spread_range": ["A_0197", "A_0198"],
+  "diary_page_range": [null, null],
+  "date_start": "1997-04-18",
+  "date_end": "1997-04-20",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Failand, North Somerset, UK",
+      "original_wording": "[?Failand]",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0197_L",
+      "excerpt": "We camped at [?Failand] ** a field with cows & a smell of silage.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Clifton Suspension Bridge, Bristol, UK",
+      "original_wording": "Clifton Suspension Bridge",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0197_R",
+      "excerpt": "We drove over the Clifton Suspension Bridge & zigzagged down to the [?docks].",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "SS Great Britain, Bristol, UK",
+      "original_wording": "SS Great Britain",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0197_R",
+      "excerpt": "We walked along to the SS Great Britain. We saw the Balmoral on the way.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Bristol Cathedral, Bristol, UK",
+      "original_wording": "the cathedral",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0197_R",
+      "excerpt": "It took ages in 2 buses & slow traffic to get to Nicola's & Mark's for lunch. Delicious kiche & banoffie. Nicola drove us to the cathedral &",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Dockside Campsite, Bristol, UK",
+      "original_wording": "Dockside",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0198_L",
+      "excerpt": "a long, cold interesting walk back along the docks to our campsite at the __Dockside__ ** A pleasant campsite - helpful, information leaflets. Trees in the middle, a fence around with a boatyard on the other side",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "The Deanery, Bristol, UK",
+      "original_wording": "the Deanery to camp at 20 Charlotte St.",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0198_L",
+      "excerpt": "We had a very cold night & then drove to the Deanery to camp at 20 Charlotte St. on the Grimley's drive.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0198_L",
+      "excerpt": "After lunch we set off home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 7,
+      "label": "Morning service and sightseeing from Deanery",
+      "date_guess": "1997-04-20",
+      "stops": [
+        {
+          "normalized_name": "Bristol Cathedral, Bristol, UK",
+          "original_wording": "the Cathedral",
+          "confidence": 0.95,
+          "source_page_id": "A_0198_L",
+          "excerpt": "The morning service in the Cathedral was beautiful. Robert preached.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Cabot Tower, Bristol, UK",
+          "original_wording": "Cabot's Tower",
+          "confidence": 0.9,
+          "source_page_id": "A_0198_L",
+          "excerpt": "We also climbed Cabot's Tower, with its steep winding staircase.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Failand]",
+      "issue": "Place name uncertain from transcription; Failand is a village near Bristol in North Somerset but the [?] marker indicates low transcription confidence.",
+      "source_page_id": "A_0197_L",
+      "excerpt": "We camped at [?Failand] ** a field with cows & a smell of silage."
+    },
+    {
+      "original_wording": "Sunday April 19th",
+      "issue": "Date discrepancy: diary labels this page 'Sunday April 19th' but 19 April 1997 was a Saturday (already used as 'Sat 19th' on previous page). The Sunday events almost certainly occurred on 20 April 1997.",
+      "source_page_id": "A_0198_L",
+      "excerpt": "Sunday April 19th"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: A_0198_R is shared with the next trip boundary"
+  ],
+  "summary": "A short Easter weekend trip to Bristol for Robert Grimley's installation as Dean of Bristol Cathedral, attended by Simon, Eve, John, and Charles. The family camped in a field near Failand on Friday night, explored the docks and SS Great Britain on Saturday before attending the installation service, then moved to the Dockside campsite and finally to the Deanery on Sunday for the morning cathedral service before driving home.",
+  "extraction_notes": "Only Simon, Eve, John and Charles attended - explicitly stated on A_0197_L. The date 'Sunday April 19th' on A_0198_L is an error; April 19th 1997 was Saturday (already used), so Sunday was April 20th - date_end set to 1997-04-20. Bristol Cathedral appears twice: once on Saturday (seq 5, installation service) and once on Sunday (excursion from Deanery for morning service) - these are distinct visits. The A_0198_R page (postcard images) is marked boundary_mixed=true, indicating the next trip starts there. No page numbers recorded for most pages except A_0197_R (no. 25)."
+}

@@ -1,0 +1,95 @@
+{
+  "trip_id": "1990-cherry-tree-farm-woodford-halse-canons",
+  "title": "Cherry Tree Farm, Woodford Halse & Canons Ashby",
+  "volume": "A",
+  "spread_range": ["A_0019", "A_0021"],
+  "diary_page_range": [33, 37],
+  "date_start": "1990-06-23",
+  "date_end": "1990-06-24",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Long Buckby, UK",
+      "original_wording": "Long Buckby",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0019_R",
+      "excerpt": "drove over to Long Buckby to pick up John, Charles & Eve from the station",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Cherry Tree Farm, Woodford Halse, UK",
+      "original_wording": "Cherry Tree Farm",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0019_R",
+      "excerpt": "we arrived at __Cherry Tree Farm__ **** campsite, Woodford Halse, which is within view of the Daventry post office tower",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Morning walk to Woodford Halse village (~4 miles) for tea bags & church",
+      "date_guess": "1990-06-24",
+      "stops": [
+        {
+          "normalized_name": "Woodford Halse, UK",
+          "original_wording": "Woodford Halse",
+          "confidence": 0.9,
+          "source_page_id": "A_0020_L",
+          "excerpt": "We walked about 4 miles in the morning to Woodford Halse to buy tea bags. The church dates from before 1201, + has a squint.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Afternoon visit to Canons Ashby House (National Trust)",
+      "date_guess": "1990-06-24",
+      "stops": [
+        {
+          "normalized_name": "Canons Ashby House, UK",
+          "original_wording": "Canons Ashby",
+          "confidence": 0.9,
+          "source_page_id": "A_0021_R",
+          "excerpt": "In the afternoon we saw the big House at Canons Ashby & joined the N.T..",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A short June 1990 family camping weekend at Cherry Tree Farm campsite near Woodford Halse, Northamptonshire, within view of the Daventry post office tower. The family camped in windy, showery weather (the boys' tent flooded overnight), walked into Woodford Halse for the church and supplies, and visited the National Trust house at Canons Ashby.",
+  "extraction_notes": "Fixed-base camping trip in Northamptonshire with no sea/tunnel crossings. The 'sketch' page A_0021_L is narrative text with only a small hand-drawn tent doodle at the bottom-left, NOT a route sketch or numbered route list, so narrative order governs the route. Long Buckby was a transit stop on the outbound drive to collect John, Charles & Eve from the station; it is on the driving leg, not an overnight base. Woodford Halse (morning walk for tea bags / church with christenings) and Canons Ashby (afternoon NT house) were day excursions from the Cherry Tree Farm base. 'Rosemary Young' (visited the afternoon before departure) is a person, not a geocodable stop, so omitted. Return home to Birmingham is inferred per default (no explicit return narrated; diary ends after the Canons Ashby visit). Dates: June 23rd 1990 (Sat) arrival; the church visit with christenings and the day excursions point to Sunday June 24th, so date_end is given as 1990-06-24."
+}

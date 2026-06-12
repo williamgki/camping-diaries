@@ -1,0 +1,152 @@
+{
+  "trip_id": "2001-cambridge-the-fens-punting-burwell-wicken",
+  "title": "Cambridge & the Fens: punting, Burwell, Wicken Fen",
+  "volume": "A",
+  "spread_range": ["A_0293", "A_0295"],
+  "diary_page_range": [null, null],
+  "date_start": "2001-05-27",
+  "date_end": "2001-05-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "William"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Cambridge, UK",
+      "original_wording": "Cambridge",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0293_R",
+      "excerpt": "We reached Cambridge at [?&] 10.15, & met Richard Holroyd at William's room. We walked through the rain to Woolworth's & had elevenses & bought a picnic lunch at Sainsbury's. Then we got on a punt at St. John's & set off towards Grantchester.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Burwell, Cambridgeshire, UK",
+      "original_wording": "a village between Cambridge & Newmarket",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0293_R",
+      "excerpt": "We returned to the College, said goodbye & reached [S****ll], (a village between Cambridge & Newmarket) a village where fen meets upland, at 5.0.",
+      "notes": "The campsite village is named [S****ll] on first arrival; subsequent diary entries consistently reference Burwell Church, the river near the campsite, and walks back to Burwell, identifying Burwell as the overnight base.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0295_L",
+      "excerpt": "We got back to the van very tired & were lethargic the rest of the day.",
+      "notes": "Return home implied after Tuesday 29th May; the page ends mid-trip but return to Birmingham is the default end for all trips.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Punting on the Granta towards Grantchester (Sunday)",
+      "date_guess": "2001-05-27",
+      "stops": [
+        {
+          "normalized_name": "River Cam (Granta), Cambridge, UK",
+          "original_wording": "Granta",
+          "confidence": 0.9,
+          "source_page_id": "A_0293_R",
+          "excerpt": "Then we got on a punt at St. John's & set off towards Grantchester. We ate, next to the swimming pool on the Granta. John, Charles & William each had a turn at learning to punt.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Wicken Fen and Burwell Church (Monday 28th May)",
+      "date_guess": "2001-05-28",
+      "stops": [
+        {
+          "normalized_name": "Wicken Fen, Cambridgeshire, UK",
+          "original_wording": "Wicken Fen",
+          "confidence": 0.95,
+          "source_page_id": "A_0294_L",
+          "excerpt": "He went to Wicken Fen & walked around it. Saw hides, dragonflies, lovely yellow flowers.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Burwell Church, Burwell, Cambridgeshire, UK",
+          "original_wording": "Burwell Church",
+          "confidence": 0.95,
+          "source_page_id": "A_0294_L",
+          "excerpt": "Burwell Church is magnificent, like [?for] Kings College Chapel, beautiful architecture, thin pillars; old wooden carvings of elephants with castles.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Walk to Reach and Devil's Ditch, lunch at The Five Bells (Tuesday 29th May)",
+      "date_guess": "2001-05-29",
+      "stops": [
+        {
+          "normalized_name": "Reach, Cambridgeshire, UK",
+          "original_wording": "Reach",
+          "confidence": 0.9,
+          "source_page_id": "A_0295_L",
+          "excerpt": "At 10 we set off on a walk to Reach, & walked along the old canal possibly built by the Romans before 300.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Devil's Dyke, Cambridgeshire, UK",
+          "original_wording": "Devil's Ditch",
+          "confidence": 0.85,
+          "source_page_id": "A_0295_L",
+          "excerpt": "We tried to walk along the Devil's Ditch, built about 370. No one had been using some of the footpaths because of foot and mouth disease, so some were impassable with nettles.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "The Five Bells, Burwell, Cambridgeshire, UK",
+          "original_wording": "The Five Bells",
+          "confidence": 0.9,
+          "source_page_id": "A_0295_L",
+          "excerpt": "We had lunch in the very pleasant garden at The Five Bells.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[S****ll]",
+      "issue": "Partially illegible village name; described as 'between Cambridge & Newmarket, where fen meets upland'. Likely Swaffham Bulbeck, Swaffham Prior, or Soham — or possibly Burwell itself. Subsequent entries anchor the campsite firmly at or near Burwell.",
+      "source_page_id": "A_0293_R",
+      "excerpt": "We returned to the College, said goodbye & reached [S****ll], (a village between Cambridge & Newmarket) a village where fen meets upland, at 5.0."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0293_L",
+      "note": "Page A_0293_L (boundary_mixed=true) contains content from a prior trip (Peter's college end-of-year event and airport drop-off). The Cambridge/Fens trip begins partway through A_0293_R after the airport detour."
+    },
+    {
+      "page_id": "A_0295_L",
+      "note": "Page A_0295_L (boundary_mixed=true) ends mid-narrative on Tuesday 29th May. The return to Birmingham is inferred as the default trip end."
+    }
+  ],
+  "summary": "A Whitsun bank-holiday break in late May 2001 centred on a campsite near Burwell, Cambridgeshire, with a punting excursion on the Granta at Cambridge (visiting William at St. John's College) on the outward day. Monday brought a walk around Wicken Fen and a visit to the magnificent Burwell Church; Tuesday's outing followed the old Roman canal to Reach and attempted the Devil's Ditch earthwork before lunch in the garden of The Five Bells pub in Burwell.",
+  "extraction_notes": "1. The trip is entirely domestic (England only); no crossings. 2. The opening page (A_0293_L) is a boundary-mixed page from a different event (Peter's college prize-giving); the Fens trip starts after the airport run described on A_0293_R. 3. The campsite village is partially illegible ([S****ll]) but context consistently points to Burwell as the base. 4. The dog is referred to as 'Tonic' (possibly 'Tinder' misread/renamed) in A_0293_R and 'Tobi' in A_0295_L — likely the same dog with diary nickname variation. 5. Date precision is 'day': Tuesday 29th May 2001 is explicit on A_0295_L; Sunday arrival (A_0293_R) = 27 May 2001. 6. A_0294_L records 'Monday 28th May' with an erroneous ISO year of 1990 — the correct year is 2001 per surrounding context."
+}

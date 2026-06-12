@@ -1,0 +1,121 @@
+{
+  "trip_id": "2022-peak-district-tissington-trail-parwich-ebikes",
+  "title": "Peak District: Tissington Trail & Parwich (ebikes)",
+  "volume": "B",
+  "spread_range": ["B_0361", "B_0362"],
+  "diary_page_range": [62, 62],
+  "date_start": "2022-03-25",
+  "date_end": "2022-03-27",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Alsop en le Dale, Derbyshire, UK",
+      "original_wording": "Alsop on the Tissington Trail",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0361_R",
+      "excerpt": "parked [Seplurt?] at Alsop on the Tissington Trail",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Fourginside Farm, Parwich, Derbyshire, UK",
+      "original_wording": "Fourginside Farm near Parwich",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0361_R",
+      "excerpt": "Now we are camped at Fourginside Farm near Parwich. Glorious sunshine.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0362_L",
+      "excerpt": "We can't go to a pub because I might still have Covid.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "inference_reason": "diary ends Sunday with no onward travel; return home assumed"
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Bike ride north to Hartington station (Tissington Trail)",
+      "date_guess": "2022-03-25",
+      "stops": [
+        {
+          "normalized_name": "Hartington Station, Derbyshire, UK",
+          "original_wording": "Hartington station",
+          "confidence": 0.95,
+          "source_page_id": "B_0361_R",
+          "excerpt": "A marvellous bike ride with our now ebikes N to Hartington station. [10 miles]",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Bike ride SE via Minninglow to Middleton Top",
+      "date_guess": "2022-03-25",
+      "stops": [
+        {
+          "normalized_name": "Minninglow, Derbyshire, UK",
+          "original_wording": "Minninglow",
+          "confidence": 0.9,
+          "source_page_id": "B_0362_L",
+          "excerpt": "We drove to Minninglow. I gave Tinder a short walk & then we left him in the van while we cycled SE to Middleton Top.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Middleton Top, Derbyshire, UK",
+          "original_wording": "Middleton Top",
+          "confidence": 0.95,
+          "source_page_id": "B_0362_L",
+          "excerpt": "we left him in the van while we cycled SE to Middleton Top. 16 miles.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Afternoon bike ride into Parwich village",
+      "date_guess": "2022-03-25",
+      "stops": [
+        {
+          "normalized_name": "Parwich, Derbyshire, UK",
+          "original_wording": "Parwich",
+          "confidence": 0.95,
+          "source_page_id": "B_0362_L",
+          "excerpt": "After lunch back at the campsite we napped & then cycled into Parwich - a v. pretty village. Nice church, stream runs through village.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page B_0361_R contains the end of a previous trip (Kirk Loch, Bolton) before the Friday March 25th entry for this trip"
+  ],
+  "summary": "Simon and Eve drove to the Peak District on 25 March 2022, parking at Alsop on the Tissington Trail and camping at Fourginside Farm near Parwich. Over two days they made three ebike excursions: north to Hartington station (10 miles), southeast via Minninglow to Middleton Top (16 miles), and into Parwich village, returning home on the Sunday.",
+  "extraction_notes": "The page B_0361_R contains a mixed start: the top portion records the end of a preceding trip (Kirk Loch overnight, Bolton lampshade pickup, Simon testing positive for Covid). The Friday March 25th section clearly begins this trip. The dog 'Tinder' travels with Simon and Eve; the adult children are not mentioned as present (Charles recently had a baby, referenced in passing). The word '[Seplurt?]' is an uncertain transcription of the parking area name at Alsop. 'Fourginside Farm' may be a transcription variant of the actual farm name near Parwich — recorded verbatim. The end date of Sunday is inferred as March 27th 2022 (two nights after Friday March 25th); no explicit return date is given."
+}

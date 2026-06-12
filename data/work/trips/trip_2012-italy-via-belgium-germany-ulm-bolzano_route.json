@@ -1,0 +1,457 @@
+{
+  "trip_id": "2012-italy-via-belgium-germany-ulm-bolzano",
+  "title": "Italy: via Belgium & Germany (Ulm), Verona Opera, Lake Orta & the Western Alps",
+  "volume": "B",
+  "spread_range": ["B_0190", "B_0208"],
+  "diary_page_range": [10, 25],
+  "date_start": "2012-07-21",
+  "date_end": "2012-08-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR", "BE", "DE", "AT", "IT"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0190_L",
+      "excerpt": "Simon + Eve set off at 4 pm for Italy. We called in at Chad for Simon to set up the ansaphone",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Stalisfield, Kent, UK",
+      "original_wording": "Stallisfield",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0190_L",
+      "excerpt": "We arrived in __Stallisfield__ again, the same as last year. The pub runs a casino in huts across the road. A nice little campsite.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Folkestone (Eurotunnel)",
+      "original_wording": "Channel tunnel terminus",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0190_R",
+      "excerpt": "Queues at Channel tunnel terminus. Irate English woman from Dutch car at foreign bus. The wait was long + stressful",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Lille, France",
+      "original_wording": "Aire near lille",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0190_R",
+      "excerpt": "We have stopped for tea at an Aire near lille. A man is cooking on a blue gas bottle outside behind the cab",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Saint-Sauveur, Belgium",
+      "original_wording": "St. Seveur",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0190_R",
+      "excerpt": "It took ages to find the Belgican campsite - lots of windy roads up a hill to St. Seveur. Finally we got there, only to find that it had been closed",
+      "geocode_hint": { "countrycodes": "be" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Ulm, Germany",
+      "original_wording": "ULM an der Donau",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0193_L",
+      "excerpt": "We enjoyed looking at Ulm. Jewish window, Goose poking gargoyle, choir carvings, central altar.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Aitrang, Allgäu, Germany",
+      "original_wording": "Ellessee (Aitrang / Allgau)",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0193_L",
+      "excerpt": "We drove on through lovely grassy fields of Bavaria to __Ellessee__ an old campsite on a lake. Aitrang / Allgau",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Bolzano, Italy",
+      "original_wording": "Bolsano",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0193_L",
+      "excerpt": "Late morning we pass thro Austria. Past Innsbruck. on to Bolsano. A long day's driving. We keep pink Dolomite Mountains on our left.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Lake Garda, Italy",
+      "original_wording": "Bolsari Transit (areatransit.it)",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0193_R",
+      "excerpt": "Lake Garda comes in sight & we join the queue of traffic down the hill. We try 4 different campsites, all full. In the end we go to [?Bolsari] Transit ... it turns out to be a Check-in/post site just for camping vans.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Verona, Italy",
+      "original_wording": "Verona (Camping Castel San Pietro)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0194_L",
+      "excerpt": "back road to N. __Verona__. Difficult to find way. ... __Camping Castel San Pietro__ * * * * Incredibly hot. ... It's part of a [?B] castle with lots of terraces, higgledy piggledy.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Orta San Giulio, Lake Orta, Italy",
+      "original_wording": "Lake Orta / Orto San Giulio (Camp Cusio / Camp Casio)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0196_R",
+      "excerpt": "Lake Orta is the smallest & least known ... There's a peninsula with a village called Orto San Giulio ... We are lucky to get a [?site] in Camp Cusio",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Fénis, Aosta Valley, Italy",
+      "original_wording": "Fénis Castle in Fénis (Val d'Aosta)",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0203_L",
+      "excerpt": "We said goodbye to the campsite + set off for the Val d'Aosta. We stopped at Fénis Castle in Fénis. ... Fénis Castle had a St George Fresco + lovely stonework",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Courmayeur, Aosta Valley, Italy",
+      "original_wording": "Camp L'Aiguille Noire",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0204_L",
+      "excerpt": "we turned back + have ended up at Camp L'Aiguille Noire (Black Peak campsite) ***. ... we set off on the walk to Lake Miage ... Miage glacier (near Mont Blanc)",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Mont Blanc Tunnel",
+      "original_wording": "Mont Blanc tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0204_L",
+      "excerpt": "We drove throu Mont Blanc tunnel, still",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Les Gets, France",
+      "original_wording": "Les Gets (Les Frênes campsite)",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0204_R",
+      "excerpt": "We wandered round & round Morzine ... The information said there was only a campsite at __Les Gets__. So we returned there. Still rain. __Les Frênes__ ** (Ashes).",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Baume, Saint-Jean-d'Aulps, France",
+      "original_wording": "Baume municipal park",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0205_L",
+      "excerpt": "We are camping just down the road from her at __Baume__ municipal park (€10, instead of the €28 we've been paying recently.)",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Cluny, France",
+      "original_wording": "Cluny (Camping St. Vital)",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0205_R",
+      "excerpt": "We reach Cluny + stay at the Municipal Campsite **** __St. Vital__ ... it's good + easy to get into town & go on bike rides.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Montbard, France",
+      "original_wording": "Montbard",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0207_L",
+      "excerpt": "We drove NW to __Montbard__ * * ** * a municipal one with a fantastic swimming pool.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Montréal, France",
+      "original_wording": "Le Pigeon Blanc (village next to Montreid)",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "B_0207_R",
+      "excerpt": "We reached the village next to Montreid & camped at __Le Pigeon Blanc__ * * in the village below-",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Côte d'Opale, France",
+      "original_wording": "Côte d'Opale",
+      "role": "transit_stop",
+      "confidence": 0.65,
+      "approximate": true,
+      "source_page_id": "B_0208_L",
+      "excerpt": "Saturday August 11th We passed by St. Gabriel & Cécile & walked along a huge sandy beach - Côte d'Opale,",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Calais, France",
+      "original_wording": "Calais",
+      "role": "crossing_terminal",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "return England-France crossing; diary ends on the Côte d'Opale near Calais but no return port is explicitly narrated within these pages (mixed_end)",
+      "source_page_id": "B_0208_L",
+      "excerpt": "Why do northen French families damage campsites near Calais?",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Dover",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing on return; no return port named in these pages",
+      "source_page_id": "B_0208_L",
+      "excerpt": "I did a bit of hand washing to get us back to England.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0190_R",
+      "excerpt": "Queues at Channel tunnel terminus. ... The wait was long + stressful + during the trip the van (a small VW) shunted into the back of us."
+    },
+    {
+      "after_seq": 14,
+      "route_key": null,
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0204_L",
+      "excerpt": "We drove throu Mont Blanc tunnel, still",
+      "note": "Mont Blanc road tunnel, Italy (Courmayeur) to France (Chamonix); not a sea crossing and not in ferries.json."
+    },
+    {
+      "after_seq": 21,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "B_0208_L",
+      "excerpt": "I did a bit of hand washing to get us back to England.",
+      "note": "Return England-France crossing inferred (default dover-calais); not explicitly narrated within these pages due to mixed_end."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 6,
+      "label": "Bike ride and river ferry near Ulm (Christina's family)",
+      "date_guess": "2012-07-24",
+      "stops": [
+        {
+          "normalized_name": "Ulm, Germany",
+          "original_wording": "Ferry - taking bikes + 5 cars",
+          "confidence": 0.6,
+          "source_page_id": "B_0192_R",
+          "excerpt": "we went on a bike ride. Ferry - taking bikes + 5 cars. Park. The children played clock golf. ... the rest of us missed the ferry & cycled over the bridge.",
+          "geocode_hint": { "countrycodes": "de" }
+        }
+      ]
+    },
+    {
+      "base_seq": 10,
+      "label": "Verona: cathedral, opera (Carmen) at the Arena & Castelvecchio",
+      "date_guess": "2012-07-29",
+      "stops": [
+        {
+          "normalized_name": "Verona Arena, Italy",
+          "original_wording": "Verona Opera",
+          "confidence": 0.95,
+          "source_page_id": "B_0195_L",
+          "excerpt": "The opera was incredible. 9.15 – 1.05. 4 Acts + 20 minute intervals. There were 6 horses + 3 donkeys. A very good Carmen.",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "Museo di Castelvecchio, Verona, Italy",
+          "original_wording": "MUSEO DI CASTELVECCHIO / Robert Capa exhibition",
+          "confidence": 0.85,
+          "source_page_id": "B_0196_L",
+          "excerpt": "We also go to see a wonderful Robert Capa exhibition & the city museum with beautiful paintings.",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "Basilica di San Zeno, Verona, Italy",
+          "original_wording": "St. Zeno",
+          "confidence": 0.85,
+          "source_page_id": "B_0196_R",
+          "excerpt": "We take down tent & drive to St. Zeno. Lovely pink stones & red & white stripes. Carvings!",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 11,
+      "label": "Lake Orta: Isola San Giulio, Sacro Monte chapels & swimming",
+      "date_guess": "2012-07-31",
+      "stops": [
+        {
+          "normalized_name": "Isola San Giulio, Lake Orta, Italy",
+          "original_wording": "Isola San Julio",
+          "confidence": 0.85,
+          "source_page_id": "B_0197_R",
+          "excerpt": "we climb the hill on the penninsula + admired the view out [to] the island + of surrounding hills.",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "Sacro Monte di Orta, Italy",
+          "original_wording": "the 20 chapels dedicated to the story of St. Francis",
+          "confidence": 0.8,
+          "source_page_id": "B_0197_R",
+          "excerpt": "We also wandered around the 20 chapels dedicated to the story of St. Francis. The chapels were built from about 1590- to 1790.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 11,
+      "label": "Simon's solo train trip to Domodossola",
+      "date_guess": "2012-08-01",
+      "stops": [
+        {
+          "normalized_name": "Domodossola, Italy",
+          "original_wording": "Domodossola",
+          "confidence": 0.85,
+          "source_page_id": "B_0198_R",
+          "excerpt": "in the afternoon Simon goes off on a train trip on his own. I travelled 47 km north from St. [?Gialgio] to Domodossola which had an old centre dating from the Middle Ages.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 11,
+      "label": "Cycle to Vacciago (Calderara art museum)",
+      "date_guess": "2012-08-02",
+      "stops": [
+        {
+          "normalized_name": "Vacciago, Ameno, Italy",
+          "original_wording": "Vacciago / Calderara museum",
+          "confidence": 0.8,
+          "source_page_id": "B_0201_R",
+          "excerpt": "We drive along old roads to Vacciago (which was open this time) & saw the Calderara museum, a bit like Kettles Yard.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 11,
+      "label": "Day trip to Monte Rosa glacier (Macugnaga) and Bognanco/Bogognia castle",
+      "date_guess": "2012-08-03",
+      "stops": [
+        {
+          "normalized_name": "Macugnaga, Italy",
+          "original_wording": "Macugnaga / Belvedere / chalet Zamboni / Monte Rosa",
+          "confidence": 0.85,
+          "source_page_id": "B_0199_R",
+          "excerpt": "up a side valley to the foot of Monte Rosa. ... took a skilift in two stages from Macugnaga to Belvedere from which we walked over a ridge to see the Monte Rose glacier.",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "Bognanco, Italy",
+          "original_wording": "Bogognia",
+          "confidence": 0.55,
+          "source_page_id": "B_0200_R",
+          "excerpt": "We stopped at Bogognia where there was an old castle built to keep the Swiss away from Lake Maggiore.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Bolsari] Transit",
+      "issue": "Exact location of the camping-van transit site on Lake Garda is uncertain; the sticker reads areatransit.it. Modelled at Lake Garda (approx). May be near Peschiera/the southern shore.",
+      "source_page_id": "B_0193_R",
+      "excerpt": "In the end we go to [?Bolsari] Transit ... it turns out to be a Check-in/post site just for camping vans."
+    },
+    {
+      "original_wording": "St. Gabriel & Cécile",
+      "issue": "Named on the final boundary page (mixed_end) along the Côte d'Opale; unclear whether a place or people, and whether this belongs to the tail of this trip or the start of the next entry. Not modelled as a stop.",
+      "source_page_id": "B_0208_L",
+      "excerpt": "We passed by St. Gabriel & Cécile & walked along a huge sandy beach - Côte d'Opale,"
+    },
+    {
+      "original_wording": "Val Veny / high-up lake near Mont Blanc tunnel",
+      "issue": "They headed for a high lake at Val Veny but turned back at a road barrier (low on petrol) before reaching it, ending instead at Camp L'Aiguille Noire; Val Veny was not actually reached so not modelled as a stop.",
+      "source_page_id": "B_0203_L",
+      "excerpt": "On towards a high-up lake, Val Veny, near Mont Blanc tunnel. ... the road had a barrier, so we turned back"
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "B_0208_L",
+      "issue": "mixed_end: this final spread blends the tail of the Italy trip (driving north through France to the Côte d'Opale near Calais) with forward-looking musing and the apparent start of a later entry. The return Channel crossing and arrival home in Birmingham are not narrated within these pages.",
+      "excerpt": "Next time we cross to France we think we might camp in Kent & drive on to camp near Montreuil ... Saturday August 11th We passed by St. Gabriel & Cécile"
+    }
+  ],
+  "summary": "In July-August 2012 Simon and Eve drove their VW camper van from Birmingham to northern Italy and back. Outbound they camped in Kent, took the Channel Tunnel, paused near Lille and at a closed Belgian site, then stayed with family at Ulm before crossing Bavaria and Austria (past Innsbruck) over Bolzano to Lake Garda and Verona, where they saw Carmen at the Arena. A long, hot stay at Lake Orta (Camp Cusio) gave excursions to Isola San Giulio, the Sacro Monte chapels, Domodossola, Vacciago and the Monte Rosa glacier. They then crossed the Western Alps via the Aosta Valley (Fénis), Mont Blanc tunnel, Les Gets, Cluny, Montbard and the Burgundy/Champagne back roads, heading north to the Côte d'Opale to cross home.",
+  "extraction_notes": "Travellers were only Simon and Eve (the grown children are described pursuing separate lives at the trip's outset). The single sketch page (B_0200_L) is NOT a route sketch - it is a topographic landscape diagram of the Monte Rosa glacier scene (Sun, Monte Rosa, footpath, glacier, chalet Zamboni, open river) drawn during the Macugnaga day trip, so it does not override narrative order; main-route ordering follows the dated narrative (evidence rule 2). Christina's family base is at Ulm: the diary mentions lunch 'near Cologne' only as an en-route stop, and the Ulm Münster sightseeing, children's school and river-ferry bike ride all sit at this base before departure on Wed/Thu 25 July. Two named tunnels were used: the Channel/Eurotunnel (Folkestone-Coquelles) outbound and the Mont Blanc road tunnel (Italy to France); the Mont Blanc tunnel is recorded as a crossing with route_key null (not in ferries.json). The return England-France crossing is inferred (default dover-calais) because the pages end mid-sentence on the Côte d'Opale (mixed_end) without naming a return port or narrating the arrival home. Le Pigeon Blanc is placed near Montréal (Yonne/Aube) per the Troyes/Tonnerre/Chaource driving leg, though Eve's marginal 'near Calais' musing introduces some doubt (confidence lowered)."
+}

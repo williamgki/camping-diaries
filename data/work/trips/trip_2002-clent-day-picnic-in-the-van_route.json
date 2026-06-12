@@ -1,0 +1,56 @@
+{
+  "trip_id": "2002-clent-day-picnic-in-the-van",
+  "title": "Clent (day picnic in the van)",
+  "volume": "A",
+  "spread_range": ["A_0316", "A_0316"],
+  "diary_page_range": [316, 316],
+  "date_start": "2002-07-07",
+  "date_end": "2002-07-07",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Clent Hills, Worcestershire, UK",
+      "original_wording": "Clent",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0316_L",
+      "excerpt": "We parked at Clent & walked around the hills. Kalgin went for a run. We had a nice picnic lunch - home-made elderflower cordial",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0316_L",
+      "excerpt": "set off home to watch Wimbledon",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page A_0316_L begins mid-entry for a preceding trip (text before 'Sunday July 7th.' belongs to a different trip)",
+    "mixed_end: page A_0316_L ends mid-entry for the following trip (text from 'Monday July 29th.' onwards belongs to a subsequent France trip)"
+  ],
+  "summary": "A single-day picnic outing on Sunday 7 July 2002. Simon, Eve, John, Charles and Kalgin (the dog) drove out from Birmingham to the Clent Hills, where they walked, had a home-made elderflower-cordial picnic, and returned home in time to watch Wimbledon. Annie Crews, her grandson Tom, and a French friend Thomas were picked up along the way.",
+  "extraction_notes": "This is a one-day trip entirely within the UK; no overnight stay, no ferry crossing. The diary page (A_0316_L) is mixed: the opening lines ('& the sun came out... arrived home at 1 pm.') belong to the preceding trip, and the section from 'Monday July 29th.' onwards begins the next France trip. Only the 'Sunday July 7th.' paragraph is attributed to this trip. 'Kalgin' appears to be the dog accompanying the family; the context note names the dog as 'Tinder' but the diary here uses 'Kalgin' — retained verbatim. Thomas and William are not mentioned as present; Peter is referenced in the Monday July 29th entry as flying to Lyons, suggesting he was not on this outing."
+}

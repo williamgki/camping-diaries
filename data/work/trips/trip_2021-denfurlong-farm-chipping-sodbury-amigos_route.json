@@ -1,0 +1,82 @@
+{
+  "trip_id": "2021-denfurlong-farm-chipping-sodbury-amigos",
+  "title": "Denfurlong Farm & Chipping Sodbury (Amigos)",
+  "volume": "B",
+  "spread_range": ["B_0346", "B_0346"],
+  "diary_page_range": null,
+  "date_start": "2021-05-26",
+  "date_end": "2021-05-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Denfurlong Farm Campsite, Chedworth, Gloucestershire, UK",
+      "original_wording": "Denfurlong Farm Campsite",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0346_L",
+      "excerpt": "We're in Denfurlong Farm Campsite. The sun is shining & it's a bit warmer. lovely empty site. Silence! Rabbits. Birds.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0346_L",
+      "excerpt": "Then we head for home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Day trip to Chipping Sodbury and lunch at Amigos",
+      "date_guess": "2021-05-26",
+      "stops": [
+        {
+          "normalized_name": "Chipping Sodbury, South Gloucestershire, UK",
+          "original_wording": "Chipping Sodbury",
+          "confidence": 0.95,
+          "source_page_id": "B_0346_L",
+          "excerpt": "We are about to leave for Chipping Sodbury. We wander in the town & do a bit of shopping.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Amigos Restaurant, Chipping Sodbury, UK",
+          "original_wording": "Amigos, Shamsi & Dave's restaurant",
+          "confidence": 0.95,
+          "source_page_id": "B_0346_L",
+          "excerpt": "we have a delicious lunch at Amigos, Shamsi & Dave's restaurant, which they don't let us pay for. Jill visits too.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "issue": "June 3rd entry on same page (B_0346_L) appears to be a separate trip: 'Simon, Eve & Tinder left at 10.45 & picked up Flora. We stopped for lunch at Kimbolton, a church in the middle of nowhere.' This entry is not part of the May 26th Denfurlong/Chipping Sodbury trip and likely belongs to the next trip in volume B.",
+      "source_page_id": "B_0346_L"
+    }
+  ],
+  "summary": "Simon and Eve spent a night at Denfurlong Farm Campsite in Gloucestershire on 26 May 2021, enjoying the quiet site before driving to Chipping Sodbury for a town wander and a free lunch at Amigos, the restaurant run by their friends Shamsi and Dave. They returned home to Birmingham the same day.",
+  "extraction_notes": "Only Simon and Eve are mentioned in the May 26th entry (the new van is referenced, consistent with 2020-21 entries). The diary page also contains a June 3rd entry (Simon, Eve & Tinder picking up Flora and stopping at Kimbolton church) which is a separate trip/event and has been flagged in boundary_flags rather than included here. Denfurlong Farm Campsite is near Chedworth, Gloucestershire (between Cheltenham and Cirencester); Chipping Sodbury is in South Gloucestershire east of Bristol. No crossings; entirely within England."
+}

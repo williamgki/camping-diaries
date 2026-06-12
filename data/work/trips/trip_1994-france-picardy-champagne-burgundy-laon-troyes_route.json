@@ -1,0 +1,306 @@
+{
+  "trip_id": "1994-france-picardy-champagne-burgundy-laon-troyes",
+  "title": "France: Picardy, Champagne & Burgundy (Laon, Troyes, Vézelay, Autun, St Jean de Vaux)",
+  "volume": "A",
+  "spread_range": ["A_0130", "A_0138"],
+  "diary_page_range": [45, 88],
+  "date_start": "1994-07-30",
+  "date_end": "1994-08-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Snape, Suffolk, UK",
+      "original_wording": "Snape",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0130_R",
+      "excerpt": "6 of us set off at 8.40. to listen to Peter play in an IAPS concert at Snape.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Dover, UK",
+      "original_wording": "Dover (The Nook campsite, twenty minutes from Dover)",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0130_R",
+      "excerpt": "We motored down to The Nook *** ... A neat campsite, full of old people where we left Peter's case + viola. Twenty minutes from Dover. We left at 8.40. + caught the ferry before ours.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Calais, France",
+      "original_wording": "(ferry to France); Calais",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "inference_reason": "Calais is the named French entry port on the trip's hand-drawn route map (A_0136_R); the diary narrative describes catching the ferry from near Dover.",
+      "source_page_id": "A_0136_R",
+      "excerpt": "[hand-drawn map of France showing route, labelled: Calais, St. Omer, Laon, Paris., Troyes, Bar sur Aube, Clairvaux, Vezelay, Morvan, Autun, Chalon-s-Saone]",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Saint-Omer, France",
+      "original_wording": "St. Omer",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0136_R",
+      "excerpt": "[hand-drawn map of France showing route, labelled: Calais, St. Omer, Laon ...]",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Pontavert, France",
+      "original_wording": "Camp Hambouque, 11 km away from Guincourt; Pontavert",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "A_0131_R",
+      "excerpt": "We have come to a camp site with badminton, swings + table tennis. Camp Hambouque 11 km away from Guincourt. It's clean + has a washing machine. ... Pontavert",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Laon, France",
+      "original_wording": "Laon",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0131_L",
+      "excerpt": "We set off in the rain to go to Laon. We took a funicular up to the town ... The cathedral is stately, tall columns, lovely windows.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Saint-Lyé / Saint-Remy area near Troyes, France",
+      "original_wording": "St. Remy/Noue (on the old road from Arcis - Troyes)",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0132_L",
+      "excerpt": "We had hoped to canoe in a campsite at Arcis sur Aube, but it was shut + overcrowded, so we lunched there + drove south to St. Remy on the old road from Arcis - Troyes. It's a green, quiet campsite",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Troyes, France",
+      "original_wording": "Troyes",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0132_R",
+      "excerpt": "We walked around Troyes. The cathedral is lovely, calm, uncluttered. Stained glass windows. Troyes grew rich from being on the Italy/Belgium trade route.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Arcy-sur-Cure, France",
+      "original_wording": "[?Arcy]-sur-[?Cure]",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0132_R",
+      "excerpt": "On to [?Arcy]-sur-[?Cure]**** There is a fast flowing river, where we had a good time swimmin[g]",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Autun, France",
+      "original_wording": "Autun (driving south through Morvan)",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0134_L",
+      "excerpt": "We are driving south through Morvin + had lunch outside Autun. We parked + walked to Autun Cathedral, to see more glorious carving",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Saint-Jean-de-Vaux, France",
+      "original_wording": "St. Jean de Vaux (Rue des Sources)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0135_R",
+      "excerpt": "We drove on to St. Jean de Vaux, & camped in the middle of the Burgundy Vineyards. We got there just before the pool shut",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Bar-sur-Aube, France",
+      "original_wording": "Bar (old town, municipal campsite); Bar sur Aube",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0137_R",
+      "excerpt": "We came into an old town, Bar-[illegible] to camp in the municipal campsite. We had stopped at Clairvaux on the way ... We walked out into Bar for supper. It was delicious, in the Cellier des Moines.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Sainte-Marie-du-Lac-Nuisement, France",
+      "original_wording": "Ste. Marie-du-lac",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0138_L",
+      "excerpt": "We drove north + looked at a wood + plaster church at Ste. Marie-du-lac, a nice church with a minstrel's gallery.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.55,
+      "approximate": false,
+      "source_page_id": "A_0138_L",
+      "excerpt": "We reached humbres at 7.15. The gate was shut from 7-9 ... (final legible page; return to Birmingham implied as trip end).",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0130_R",
+      "excerpt": "Twenty minutes from Dover. We left at 8.40. + caught the ferry before ours. ... [route map A_0136_R names Calais as the French port]"
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 6,
+      "label": "Chemin des Dames day visits (Grotte de Sagon & Vauclair Abbey)",
+      "date_guess": "1994-08-01",
+      "stops": [
+        {
+          "normalized_name": "Grotte du Dragon (Caverne du Dragon), Chemin des Dames, France",
+          "original_wording": "Grotte de Sagon on the Chemin des Dames",
+          "confidence": 0.85,
+          "source_page_id": "A_0131_L",
+          "excerpt": "We drove to Grotte de Sagon on the Chemin des Dames where 6,000 German soldiers held out in 1914-7 war. ... We saw a museum + film",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Vauclair Abbey, France",
+          "original_wording": "Vauclair Abbey",
+          "confidence": 0.9,
+          "source_page_id": "A_0131_L",
+          "excerpt": "On to Vauclair Abbey. In parts you can imagine the rooms. ... Accanthus capitol, similar to Laon, at Cistercian monastery, Vauclair on Chemin des Dames",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 10,
+      "label": "Day trip to Vézelay",
+      "date_guess": "1994-08-05",
+      "stops": [
+        {
+          "normalized_name": "Vézelay, France",
+          "original_wording": "Vézelay",
+          "confidence": 0.9,
+          "source_page_id": "A_0133_L",
+          "excerpt": "We reached Vézelay. It's on a hill. Glorious. 5 different carvers. ... It was the start of pilgrimages to Compostella.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 12,
+      "label": "Day trips to Chalon-sur-Saône & Givry (wine country)",
+      "date_guess": "1994-08-09",
+      "stops": [
+        {
+          "normalized_name": "Chalon-sur-Saône, France",
+          "original_wording": "Chalon sur Saone",
+          "confidence": 0.85,
+          "source_page_id": "A_0136_L",
+          "excerpt": "we'd go to Chalon sur Saone if the storm hadn't stopped. ... We window-shopped around the town & had lunch in a very, very friendly restaurant",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Givry, Saône-et-Loire, France",
+          "original_wording": "Givry (Restaurant de Raison, Hotel de Garage)",
+          "confidence": 0.85,
+          "source_page_id": "A_0135_R",
+          "excerpt": "We went out in the van in the evening to Restaurant de Raison, Hotel de Garage, Givry, where we went last year & again had a good meal.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 13,
+      "label": "Stop at Clairvaux en route to Bar-sur-Aube",
+      "date_guess": "1994-08-10",
+      "stops": [
+        {
+          "normalized_name": "Clairvaux Abbey, France",
+          "original_wording": "Clairvaux",
+          "confidence": 0.8,
+          "source_page_id": "A_0137_R",
+          "excerpt": "We had stopped at Clairvaux on the way, which was disappointing because tours were only allowed on Saturdays",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Suny]",
+      "issue": "Place name uncertain and unlocatable; described as 'a family outing place' visited after the ferry on the first day. Could be a campsite/leisure park name rather than a town. Cannot place on the map.",
+      "source_page_id": "A_0130_R",
+      "excerpt": "Then we drove on to [?Suny] ***, a family outing place. Men were playing boules all the time. There was mini golf + table football."
+    },
+    {
+      "original_wording": "[?hormes]",
+      "issue": "Place name uncertain; likely the village by the lake near Arcy-sur-Cure where the Vézelay-area campsite was. Possibly Vermenton or similar; spelling illegible. Treated as the seq 10 base region (Arcy-sur-Cure) but the exact village name is unresolved.",
+      "source_page_id": "A_0133_R",
+      "excerpt": "we came back along the winding road to [?hormes]. * * * * The campsite is at the end of a long, ugly road away from the village"
+    },
+    {
+      "original_wording": "humbres",
+      "issue": "Final overnight stop name uncertain/illegible ('We reached humbres at 7.15'). Likely a French campsite on the homeward leg rather than Birmingham; the diary record ends mid-page (boundary_mixed) before the actual return home is narrated. Recorded as trip-end but the true name and whether it is the last French night or a UK stop is unresolved.",
+      "source_page_id": "A_0138_L",
+      "excerpt": "We reached humbres at 7.15. The gate was shut from 7-9 for the accent to go and eat supper. It's open 7am - 7pm + 9-10pm."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0130_R",
+      "issue": "boundary_mixed: page opens with the tail of a previous outing (Thorpeness holiday with Annie & Klaus) before this trip's 'Sat July 30th' start."
+    },
+    {
+      "page_id": "A_0138_L",
+      "issue": "boundary_mixed: final page of the trip; narrative ends mid-entry at 'humbres' without an explicit arrival home, so date_end and the return leg are approximate."
+    },
+    {
+      "page_id": "A_0132_L",
+      "issue": "Date transcription anomaly: heading 'Wed Aug 2nd' carries iso 1995-08-02 in the bundle, but context (1994 trip, sequence after Tues Aug 2nd) indicates 1994-08-03. Treated as 1994."
+    }
+  ],
+  "summary": "A summer 1994 family camping tour of northern and eastern France, drawn on a hand-sketched route map running Calais - St. Omer - Laon - Troyes - Vézelay - Morvan - Autun - Chalon-sur-Saône, with a return branch via Bar-sur-Aube and Clairvaux. After a concert at Snape and a night near Dover, the family crossed Dover-Calais and worked south through Picardy (Laon, the Chemin des Dames battlefields and Vauclair Abbey), Champagne (Troyes), and Burgundy, basing at campsites near Pontavert, Troyes, Arcy-sur-Cure (for Vézelay), and St-Jean-de-Vaux in the vineyards (revisiting Givry from the previous year). They returned north via Bar-sur-Aube, Clairvaux and Ste-Marie-du-Lac before the homeward leg.",
+  "extraction_notes": "Route ORDER follows the hand-drawn France map on A_0136_R (Calais, St. Omer, Laon, Paris, Troyes, Bar sur Aube, Clairvaux, Vezelay, Morvan, Autun, Chalon-s-Saone), reconciled with the dated narrative for overnight progression. Paris appears only as a labelled dot west of the dotted route line on the sketch and is NOT narrated as visited, so it is intentionally omitted as a stop. The sketch groups Bar-sur-Aube/Clairvaux geographically near Troyes, but the dated narrative places them on the NORTHWARD return leg (Aug 10) after Burgundy; main_route order follows the chronological overnight chain. Morvan is a region (the Morvan massif) the family drove through, not a discrete stop, so it is folded into the Autun leg rather than listed separately. The Dover-Calais crossing is treated as named (Calais on the sketch map; Dover in the narrative) hence inferred=false. The first-day '[?Suny]' family outing place, the '[?hormes]' village by Arcy-sur-Cure, and the final 'humbres' overnight are all illegible/uncertain and listed under unresolved. The two bee-museum visits (southbound near Arcis and northbound near Chalons-sur-Marne) and the Restaurant des Grottes are activity stops, not route nodes. The trip likely continued home after A_0138_L; pages end mid-trip so the explicit return to Birmingham is inferred (low confidence)."
+}

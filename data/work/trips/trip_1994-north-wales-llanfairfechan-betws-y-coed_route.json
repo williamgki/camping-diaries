@@ -1,0 +1,151 @@
+{
+  "trip_id": "1994-north-wales-llanfairfechan-betws-y-coed",
+  "title": "North Wales: Llanfairfechan, Betws-y-Coed & Dolwyddelan (pony camp)",
+  "volume": "A",
+  "spread_range": ["A_0117", "A_0119"],
+  "diary_page_range": [null, 38],
+  "date_start": "1994-04-16",
+  "date_end": "1994-04-22",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Llanfairfechan, Wales",
+      "original_wording": "Llanfairfechan",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0117_R",
+      "excerpt": "Llanfairfechan",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Betws-y-Coed, Wales",
+      "original_wording": "Betws-y-Coed",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0118_R",
+      "excerpt": "We drove back through Betws-y-Coed. Touristy shop + a lovely miniature railway which William, John + Charles went on.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "River Alwen valley, Wales",
+      "original_wording": "R. Alwen",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "A_0119_L",
+      "excerpt": "R. Alwen *** When I went to pay her £3 in the morning, she said to give a £ each to the 3 boys.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Gwyddelwern, Wales",
+      "original_wording": "Gwydelldeon",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0119_L",
+      "excerpt": "We drove to Gwydelldeon for church + arrived just in time for the grace. The kind vicar gave us a blessing after the service.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Valle Crucis Abbey, Llantysilio, Wales",
+      "original_wording": "Valle Crucis Cistercian Monastery",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0119_L",
+      "excerpt": "We had elevenses + walked around the ruins of Valle Crucis Cistercian Monastery. Lovely stones. Dormitory clearly laid out.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Llangollen, Wales",
+      "original_wording": "Llangollen",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0119_L",
+      "excerpt": "On through Llangollen, lunch by canal viaduct. We walked along + stepped out on the viaduct.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0119_L",
+      "excerpt": "On to tea at Grandma's to pick up Thomas after his French trip.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Drop off Peter and Claire at riding school (pony camp), Dolwyddelan area",
+      "date_guess": "1994-04-16",
+      "stops": [
+        {
+          "normalized_name": "Dolwyddelan, Wales",
+          "original_wording": "Dderyddellan",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "A_0119_R",
+          "excerpt": "We left at 7:30, and reached Dderyddellan in time for lunch at 12.30, driving past Betwy-y-Coed again. A 6+6 campsite by the castle.",
+          "geocode_hint": { "countrycodes": "gb" },
+          "note": "Dolwyddelan is named in A_0119_R (April 22 return trip) and in the title_guess. The riding school where Peter and Claire were dropped on April 16 is likely in this area. The April 22 entry is boundary_mixed (start of next trip)."
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Grandma's",
+      "issue": "Location of Grandma's house not stated; Thomas was collected from Chorley (Lancashire) by Jim, Margaret and Helen, suggesting Grandma may live in or near the Chorley/Lancashire area, but the diary does not confirm this.",
+      "source_page_id": "A_0119_L",
+      "excerpt": "On to tea at Grandma's to pick up Thomas after his French trip. (Jim + Margaret + Helen picked him up for us at Chorley this morning.)"
+    },
+    {
+      "original_wording": "Dolgungles",
+      "issue": "Appears to be a farm or hamlet name near the R. Alwen valley; could not be confidently geocoded. Possibly a transcription error.",
+      "source_page_id": "A_0118_R",
+      "excerpt": "Stone farmhouse bottom of valley. R. Alwen s.e of Betws-y-Coed. Brick porch with wooden 'railway front.' Dolgungles"
+    },
+    {
+      "original_wording": "[?Sassete]",
+      "issue": "Uncertain place name; this is where Thomas went on his French school trip. Likely a French location but not identifiable from text alone.",
+      "source_page_id": "A_0117_L",
+      "excerpt": "Thomas away on French trip at [?Sassete]"
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0119_R",
+      "flag": "boundary_mixed",
+      "note": "Friday 22nd April entry describes a second return to Dolwyddelan; this appears to be the start of a separate trip or continuation. The spread_range ends at A_0119 and boundary_mixed is true on this page."
+    }
+  ],
+  "summary": "An Easter half-term trip to North Wales in April 1994, with the family (minus Thomas, who was on a school French trip) driving from Birmingham to drop Peter and a friend Claire at a pony camp riding school near Dolwyddelan. On the way they stopped for lunch on the sea front at Llanfairfechan, visited the miniature railway museum at Betws-y-Coed, and camped overnight by the River Alwen. On the return leg (April 17) they attended church at Gwyddelwern, toured the ruins of Valle Crucis Abbey, and had lunch by the canal viaduct at Llangollen before collecting Thomas from Grandma's. A second diary entry for Friday 22 April records a return to Dolwyddelan to camp by the castle, suggesting a follow-up trip to collect Peter and Claire from pony camp.",
+  "extraction_notes": "Thomas is absent from the April 16-17 leg (on a French school trip). Claire [?Portal] accompanies the family — she appears to be Peter's friend being dropped at pony camp. The April 22 entry on A_0119_R is flagged boundary_mixed=true; it may belong to a separate trip record or be a continuation. 'Gwydelldeon' is most likely Gwyddelwern (Denbighshire), a village with a historic church. 'Dderyddellan' is Dolwyddelan, confirmed by the castle reference and proximity to Betws-y-Coed. Grandma's location is unresolved — Jim, Margaret and Helen collected Thomas at Chorley, but whether Grandma lives at Chorley is unclear. No crossings: the entire trip is within Wales/England."
+}

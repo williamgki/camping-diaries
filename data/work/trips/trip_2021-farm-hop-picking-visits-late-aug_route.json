@@ -1,0 +1,123 @@
+{
+  "trip_id": "2021-farm-hop-picking-visits-late-aug",
+  "title": "Farm Hop-Picking Visits (Late Aug–Sept) & Kent Apple Counting",
+  "volume": "B",
+  "spread_range": ["B_0356", "B_0356"],
+  "diary_page_range": [null, 57],
+  "date_start": "2021-08-25",
+  "date_end": "2021-10-07",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Newnham, Kent, UK",
+      "original_wording": "Newnham hops",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0356_L",
+      "excerpt": "Simon, Eve + Tinder have left to go hop picking. It went well. Simon fixed machines. Eve made rag dolls with Nina, Backgammon with Seb, sewed a draw string bag with Joseph. Country life filmed the family at Newnham hops.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "The farm is consistently referred to without a precise name; 'Newnham hops' indicates the Newnham area of Kent. Multiple visits: Aug 25-26, ~Aug 29 to ~Sept 3, Sept 9-14."
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0356_L",
+      "excerpt": "Tuesday 14th September Home",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Kent, UK",
+      "original_wording": "Kent",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0356_L",
+      "excerpt": "Thursday 23rd Sept Simon picked Eve up from dentist & we're off at [?B] 11.15. to see Charles apple counting in Kent. Manually by Richard & Mary in daylights",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Apple-counting farm in Kent; precise location not given. Simon and Eve stayed overnight ('supper with Charles in van', 'Friday Charles arrived for breakfast')."
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Dartford Tunnel, UK",
+      "original_wording": "Dartford Tunnel",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0356_R",
+      "excerpt": "Google advised us to go up towards Cambridge after the Dartford Tunnel (M11) + we need to get to the solicitor.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0356_R",
+      "excerpt": "At 10 we left for home. Simon needs to get home to exchange contracts on the factory building.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Hop-picking visit 1: William's farm (Aug 25–26)",
+      "date_guess": "2021-08-25",
+      "stops": [
+        {
+          "normalized_name": "Newnham, Kent, UK",
+          "original_wording": "farm",
+          "confidence": 0.85,
+          "source_page_id": "B_0356_L",
+          "excerpt": "5.45. left home for farm. Supper with William. Saw children before bed.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?B] 11.15",
+      "issue": "Illegible character before 11.15 departure time on 23rd Sept; likely a place abbreviation or word — does not affect route.",
+      "source_page_id": "B_0356_L",
+      "excerpt": "we're off at [?B] 11.15. to see Charles apple counting in Kent"
+    },
+    {
+      "original_wording": "the farm",
+      "issue": "The hop-picking farm is referred to only as 'the farm' or 'William's farm'; 'Newnham hops' is the strongest locating clue but the precise farm name and address are not given in the diary.",
+      "source_page_id": "B_0356_L",
+      "excerpt": "Country life filmed the family at Newnham hops"
+    },
+    {
+      "original_wording": "apple counting farm in Kent",
+      "issue": "The farm where Charles was apple counting in Kent (with Richard & Mary, Oct 6–7 van trip also noted) is not named; it may be the same farm or a different one.",
+      "source_page_id": "B_0356_R",
+      "excerpt": "We arrived at 3. Tea with Richard + Mary, George + Charles + Tom."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "Multiple visits by Simon and Eve (with dog Tinder) to a hop-picking farm near Newnham in Kent during late August and September 2021, assisting with hop harvest and machine maintenance; Country Life magazine filmed the family at Newnham hops. A separate overnight trip on 23–24 September took Simon and Eve to Kent to watch son Charles count apples by machine at night, returning home via the Dartford Tunnel.",
+  "extraction_notes": "This diary entry (a single spread B_0356) covers a sequence of out-and-back visits rather than a continuous touring trip: (1) Aug 25–26 to William's farm; (2) ~Aug 29 – ~Sept 3 hop-picking stay; (3) Sept 9–14 return to farm; (4) Sept 23–24 Kent apple-counting overnight with Charles. The Oct 6–7 van trip (Simon collecting lights and workbench from Chad) is administrative and not included as a route stop. Page B_0356_L has no printed page number; B_0356_R is page 57. Dates are inferred as 2021 based on trip_id and context; no year appears on the diary pages."
+}

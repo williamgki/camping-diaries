@@ -39,12 +39,20 @@ function want(name, hint, wording, tripId) {
   if (wording) w.wordings.add(wording)
   w.trips.add(tripId)
 }
+let skipped = 0
 for (const f of tripFiles) {
-  const trip = JSON.parse(readFileSync(join(tripsDir, f), 'utf8'))
+  let trip
+  try {
+    trip = JSON.parse(readFileSync(join(tripsDir, f), 'utf8'))
+  } catch {
+    skipped++ // mid-write or malformed; the next pass picks it up
+    continue
+  }
   for (const s of trip.main_route ?? []) want(s.normalized_name, s.geocode_hint, s.original_wording, trip.trip_id)
   for (const ex of trip.excursions ?? [])
     for (const s of ex.stops ?? []) want(s.normalized_name, s.geocode_hint, s.original_wording, trip.trip_id)
 }
+if (skipped) console.log(`skipped ${skipped} unreadable trip files`)
 console.log(`${tripFiles.length} trips reference ${wanted.size} distinct places`)
 
 // ---- Resolution
@@ -74,6 +82,22 @@ for (const [key, p] of Object.entries(ferries.ports)) {
   portByName[slug(key)] = { key, ...p }
 }
 
+// Build progressively simpler query variants: Nominatim free-text search
+// chokes on "near X" clauses, parentheticals and over-qualified compounds.
+function queryVariants(name) {
+  const v = []
+  const push = (q) => {
+    q = q.replace(/\s+/g, ' ').replace(/\s*,\s*/g, ', ').trim().replace(/^,|,$/g, '')
+    if (q && !v.some((x) => x.toLowerCase() === q.toLowerCase())) v.push(q)
+  }
+  push(name)
+  push(name.replace(/\(.*?\)/g, '').replace(/\b(near|nr\.?|just outside|west of|east of|north of|south of)\s+[^,]+/gi, ''))
+  const segs = name.split(',').map((s) => s.trim()).filter(Boolean)
+  if (segs.length >= 3) push(`${segs[0]}, ${segs[segs.length - 2]}`)
+  if (segs.length >= 2) push(segs[0])
+  return v
+}
+
 const out = {}
 let nQueries = 0
 for (const [key, w] of wanted) {
@@ -101,8 +125,10 @@ for (const [key, w] of wanted) {
     continue
   }
 
-  // 2. region anchors
-  const region = regionAnchors[w.name.toLowerCase()] ?? regionAnchors[nameSlug.replace(/-/g, ' ')]
+  // 2. region anchors (also try the bare first segment: "Cotswolds, UK" -> "cotswolds")
+  const firstSeg = w.name.split(',')[0].trim().toLowerCase()
+  const region =
+    regionAnchors[w.name.toLowerCase()] ?? regionAnchors[nameSlug.replace(/-/g, ' ')] ?? regionAnchors[firstSeg]
   if (region) {
     out[key] = {
       place_id: placeId,
@@ -122,15 +148,22 @@ for (const [key, w] of wanted) {
     continue
   }
 
-  // 3. Nominatim
-  let results
-  try {
-    results = await nominatim(w.name, w.countrycodes)
-    nQueries++
-  } catch (e) {
-    if (OFFLINE) throw e
-    console.error(`  geocode error for "${w.name}": ${e.message}`)
-    results = []
+  // 3. Nominatim, walking the variant chain until something resolves
+  let results = []
+  let usedQuery = w.name
+  for (const q of queryVariants(w.name)) {
+    try {
+      results = await nominatim(q, w.countrycodes)
+      nQueries++
+    } catch (e) {
+      if (OFFLINE) throw e
+      console.error(`  geocode error for "${q}": ${e.message}`)
+      results = []
+    }
+    if (results.length) {
+      usedQuery = q
+      break
+    }
   }
   if (!results.length) {
     out[key] = {
@@ -169,6 +202,7 @@ for (const [key, w] of wanted) {
     precision: granular.includes(top.type) ? 'exact' : 'locality',
     curated: false,
     source: 'nominatim',
+    query: usedQuery,
     osm_type: top.osm_type,
     osm_id: top.osm_id,
     nominatim_type: `${top.class}/${top.type}`,

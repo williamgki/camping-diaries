@@ -1,0 +1,172 @@
+{
+  "trip_id": "1990-di-ian-windmill-hill-avebury-devizes",
+  "title": "Di & Ian, Windmill Hill, Avebury, Devizes, Lacock, Bradford & Bath",
+  "volume": "A",
+  "spread_range": ["A_0012", "A_0013"],
+  "diary_page_range": [18, 21],
+  "date_start": "1990-04-20",
+  "date_end": "1990-04-21",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Norton, Wiltshire, UK",
+      "original_wording": "[?Nortom] [?Combe], [Waterbourne]",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "A_0012_L",
+      "excerpt": "Then on to Di + Ian at, [?Nortom] [?Combe], [Waterbourne written above in different ink/annotation]. We stayed the night in their garden, using the bathroom in the bungalow.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Windmill Hill, Avebury, Wiltshire, UK",
+      "original_wording": "Windmill Hill",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0012_L",
+      "excerpt": "We went for a walk up Windmill Hill.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Avebury, Wiltshire, UK",
+      "original_wording": "Avebury",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0012_L",
+      "excerpt": "The next morning we saw the Great Barn museum at Avebury, + walked around the Standing Stones.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "West Kennet Long Barrow, Wiltshire, UK",
+      "original_wording": "West Kennet Long Barrow",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0012_L",
+      "excerpt": "In the afternoon we walked up to West Kennet Long Barrow, into the Neolithic Burial Chamber.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Devizes, Wiltshire, UK",
+      "original_wording": "Devizes",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0012_L",
+      "excerpt": "We drove on and looked around Devizes. Antique Book Shop, drinks.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Rowde, Wiltshire, UK",
+      "original_wording": "Lakeside, Rowde",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0012_L",
+      "excerpt": "We camped at the Lakeside, Rowde ***. Lots of water, glad to have left John + Charles behind.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Bowden Hill, Wiltshire, UK",
+      "original_wording": "Bowden Hill, St. Anne",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0012_R",
+      "excerpt": "We went to Bowden Hill, St. Anne, [?lay reader] for Church BCP communion.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Lacock, Wiltshire, UK",
+      "original_wording": "Lacock",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0012_R",
+      "excerpt": "Then on to Lacock, museum for Fox-Talbot, inventor of photography 1839.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Bradford-on-Avon, Wiltshire, UK",
+      "original_wording": "Bradford",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0013_L",
+      "excerpt": "Bradford also has beautiful stonehouses, 2 churches, one a lovely Saxon chapel. A delicious cream tea at the Bridge Tea Room.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Stowford Farm, near Trowbridge, Wiltshire, UK",
+      "original_wording": "Stowford Farm, west of Trowbridge",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0013_L",
+      "excerpt": "On towards Bath, we are spending the night at Stowford Farm, west of Trowbridge. Originally a mill, again lots of water, very, very pretty.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Bath, Somerset, UK",
+      "original_wording": "Bath",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0013_R",
+      "excerpt": "Bath Peter map read. We've brought Thomas a plaster angel with guitar. We visited the Roman Baths with",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[?Nortom] [?Combe], [Waterbourne]",
+      "issue": "Location of Di & Ian's home is unclear; diary text is partially illegible. 'Nortom Combe' may be Norton or Nortom; 'Waterbourne' written in different ink as annotation, possibly a village name or house name. Location in Wiltshire area likely but unconfirmed.",
+      "source_page_id": "A_0012_L",
+      "excerpt": "Then on to Di + Ian at, [?Nortom] [?Combe], [Waterbourne written above in different ink/annotation]."
+    }
+  ],
+  "boundary_flags": [
+    "A_0013_R is boundary_mixed=true; Bath diary entry ends mid-sentence and the next trip begins on this page."
+  ],
+  "summary": "A spring weekend camping trip from Birmingham to Wiltshire and Somerset, visiting friends Di and Ian, then touring Windmill Hill, Avebury standing stones, West Kennet Long Barrow, Devizes, Lacock (Fox-Talbot museum), and Bradford-on-Avon, with overnight camps at Rowde and Stowford Farm near Trowbridge, ending with a visit to Bath's Roman Baths. John and Charles were left with grandparents; travellers were Simon, Eve, Thomas, William, and Peter.",
+  "extraction_notes": "The diary pages carry ISO dates of 1989 but the trip_id is 1990 and date_guess is 1990-04-20; the year in the page dates is likely a transcription artefact and 1990 has been used throughout. The trip covers April 20th and 21st explicitly but the Bath visit is undated (A_0013_R). The page ends mid-sentence ('We visited the Roman Baths with') indicating the diary continues on a page not in this bundle; return to Birmingham is inferred. Di & Ian's exact location is the main unresolved item. Stowford Farm (seq 11) may be identifiable as a campsite near Wingfield or Farleigh Hungerford west of Trowbridge."
+}

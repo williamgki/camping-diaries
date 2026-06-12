@@ -1,0 +1,100 @@
+{
+  "trip_id": "2016-oxford-watlington-london-finsbury-pk-london",
+  "title": "Oxford, Watlington & London (Finsbury Park)",
+  "volume": "B",
+  "spread_range": ["B_0267", "B_0267"],
+  "diary_page_range": [267, 267],
+  "date_start": "2016-07-06",
+  "date_end": "2016-07-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Oxford, UK",
+      "original_wording": "Oxford, Frenchay Rd off Woodstock Rd",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0267_L",
+      "excerpt": "Simon, Finder & Eve drove to Charles' & Jenny's new house in Oxford, Frenchay Rd off Woodstock Rd.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Watlington, Oxfordshire, UK",
+      "original_wording": "Watlington",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0267_L",
+      "excerpt": "On to deliver lights Watlington & [?send] Hinley.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Finsbury Park, London, UK",
+      "original_wording": "Finsbury Pk",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0267_L",
+      "excerpt": "On to Peter & Nana's house at Finsbury Pk. Our last visit before they move after July 19th. We slept in van & had breakfast with Nana & Thomas.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Merchant Taylors visit and BBQ",
+      "date_guess": "2016-07-06",
+      "stops": [
+        {
+          "normalized_name": "Merchant Taylors' Hall, London, UK",
+          "original_wording": "the Merchant Taylors",
+          "confidence": 0.85,
+          "source_page_id": "B_0267_L",
+          "excerpt": "we went to the Merchant Taylors, gorgeous, & had a BBQ in courtyard put on by [illegible].",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?send] Hinley",
+      "issue": "Place name 'Hinley' not clearly identifiable; possibly Henley-on-Thames (Oxfordshire, near Watlington) or another village; transcription uncertain with '[?send]' prefix",
+      "source_page_id": "B_0267_L",
+      "excerpt": "On to deliver lights Watlington & [?send] Hinley."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: true — spread B_0267 continues into next trip; Sussex content (Steyning, Littlehampton, Arundel, Chichester) referenced in title_guess but not present in transcribed pages of this bundle"
+  ],
+  "summary": "A day trip on Wednesday 6 July 2016 in which Simon, Eve and Tinder drove from Birmingham to visit Charles and Jenny's new house in Oxford (Frenchay Road), then on to deliver lights at Watlington, before arriving at Peter and Nana's house in Finsbury Park, London — their last visit before the family moved on 19 July. The evening included a visit to Merchant Taylors' Hall for a BBQ.",
+  "extraction_notes": "Only one diary page (B_0267_L) is transcribed for this trip. The spread is marked mixed_end=true, suggesting the trip may continue onto the next spread (the title_guess references Sussex destinations — Steyning, Littlehampton, Arundel, Chichester — not present in this bundle). The date 2016-07-06 is from the heading 'Wednesday July 6th' which matches July 6th being a Wednesday in 2016. The pre-heading text about Gloucester-Hereford canal and Ashperton tunnel preceded the Wednesday heading on the same page and may be a separate preceding day's entry or tail of a prior trip — treated as out-of-scope for this trip's route. 'Hinley' is flagged as unresolved. Thomas is mentioned as being at Nana's; Peter was away in Wales and SW. Travellers confirmed as Simon, Eve, and Tinder (dog). Return to Birmingham is inferred as the trip ultimately ends at home."
+}

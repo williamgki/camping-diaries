@@ -1,0 +1,62 @@
+{
+  "trip_id": "2018-farnham-hattie-ramsey-s-wedding",
+  "title": "Farnham (Hattie & Ramsey's Wedding)",
+  "volume": "B",
+  "spread_range": ["B_0314", "B_0314"],
+  "diary_page_range": [314, 314],
+  "date_start": "2018-08-04",
+  "date_end": "2018-08-05",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Farnham, Surrey, UK",
+      "original_wording": "Farnham",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0314_R",
+      "excerpt": "At 9 Simon, Eve & Tinder left for Hattie's & Ramsey's wedding at Farnham. A lovely family occasion.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0314_R",
+      "excerpt": "We took the scenic routes. Heavy traffic for part of the way back.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Richard's & Mary's",
+      "issue": "Coffee visit the morning after the wedding — persons Richard and Mary not further identified; likely in the Farnham area but exact location unknown. Not recorded as a separate stop.",
+      "source_page_id": "B_0314_R",
+      "excerpt": "The morning after we went for coffee & cake at Richard's & Mary's."
+    }
+  ],
+  "boundary_flags": [
+    "Page B_0314_R is boundary_mixed=true: the August 4th entry is this trip; the Wed Aug 16th entry (Rhayader/Wyside Club Site, Wales) belongs to a separate trip and has been excluded."
+  ],
+  "summary": "A short trip from Birmingham to Farnham, Surrey for Hattie and Ramsey's wedding on Saturday 4 August 2018, attended by Simon, Eve, and Tinder the dog. They stayed overnight and returned home the following morning after coffee with friends, taking scenic routes despite heavy traffic.",
+  "extraction_notes": "Only Simon, Eve, and Tinder are mentioned as travellers; none of the sons are named for this trip. No campsite is named — overnight accommodation in Farnham is implied by 'the morning after' but not specified. Farnham Castle Park is mentioned as where Tinder was left during the wedding service, not as a separate overnight stop. The page is boundary-mixed: the Aug 16th section (Rhayader/Wales) is a different trip and has been excluded from this route. Date end estimated as 2018-08-05 (day after wedding)."
+}

@@ -188,9 +188,10 @@ for (const vol of ['A', 'B']) {
 }
 
 // ---------- source_pages.json
+const gOrd = (sid) => (sid[0] === 'A' ? 0 : 351) + spreadNum(sid) // global order across volumes
 const tripSpreadRanges = trips
   .filter((t) => t.spread_range?.length === 2)
-  .map((t) => ({ id: t.trip_id, vol: t.volume, from: spreadNum(t.spread_range[0]), to: spreadNum(t.spread_range[1]) }))
+  .map((t) => ({ id: t.trip_id, from: gOrd(t.spread_range[0]), to: gOrd(t.spread_range[1]) }))
 const sourcePages = []
 for (const m of splitManifest) {
   const t = transcripts[m.spread_id]
@@ -205,7 +206,7 @@ for (const m of splitManifest) {
       side,
       handwritten_page_no: tp?.handwritten_page_no ?? null,
       image: { webp: `scans/${pageId}.webp`, thumb: `scans/${pageId}_t.webp` },
-      trip_ids: tripSpreadRanges.filter((r) => r.vol === m.volume && n >= r.from && n <= r.to).map((r) => r.id),
+      trip_ids: tripSpreadRanges.filter((r) => gOrd(m.spread_id) >= r.from && gOrd(m.spread_id) <= r.to).map((r) => r.id),
       is_index: tp?.is_index_page ?? false,
       legibility: tp?.legibility ?? null,
       has_route_sketch: tp?.route_sketch ?? false,

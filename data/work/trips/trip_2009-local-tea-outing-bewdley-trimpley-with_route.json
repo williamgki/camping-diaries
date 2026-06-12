@@ -1,0 +1,66 @@
+{
+  "trip_id": "2009-local-tea-outing-bewdley-trimpley-with",
+  "title": "Local tea outing: Bewdley / Trimpley with Margaret & Helen",
+  "volume": "B",
+  "spread_range": ["B_0162", "B_0162"],
+  "diary_page_range": [162, 162],
+  "date_start": "2009-05-17",
+  "date_end": "2009-05-17",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Margaret", "Helen"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bewdley, Worcestershire, UK",
+      "original_wording": "Bewdley",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0162_L",
+      "excerpt": "We turned off the main road at Bewdley + drove along a very narrow lane to sit in a field with nice wooden shacks round the edge of it. The train went by a few times.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Trimpley, Worcestershire, UK",
+      "original_wording": "Trimpley",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0162_L",
+      "excerpt": "Then we took Margaret + Helen back to Trimpley + went home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0162_L",
+      "excerpt": "Then we took Margaret + Helen back to Trimpley + went home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page B_0162_L contains an earlier diary entry (Oswestry visit) before the May 17th tea outing entry; only the tea outing from 'May 17th Sunday' onward belongs to this trip"
+  ],
+  "summary": "A short local Sunday afternoon outing from Birmingham, taking family friends Margaret and Helen out for tea. The party drove to a field near Bewdley (alongside the Severn Valley Railway), then dropped Margaret and Helen at Trimpley before returning home.",
+  "extraction_notes": "The page date metadata records '1998-05-17' but May 17th was a Sunday in 2009, not 1998, confirming the trip_id year. The page has mixed_start=true: the upper portion describes a separate Oswestry trip; the tea outing begins at the 'May 17th Sunday' heading. The field visited near Bewdley with wooden shacks and a passing train is consistent with a location alongside the Severn Valley Railway between Bewdley and Trimpley Reservoir. No ferries, crossings, or overnight stays; entirely within GB."
+}

@@ -1,0 +1,127 @@
+{
+  "trip_id": "2021-gower-cardiff-dyffryn-llanrhidian-whiteford-bay",
+  "title": "Gower: Cardiff (Dyffryn), Llanrhidian, Whiteford Bay lighthouse",
+  "volume": "B",
+  "spread_range": ["B_0343", "B_0344"],
+  "diary_page_range": [44, 45],
+  "date_start": "2021-04-23",
+  "date_end": "2021-04-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dyffryn Gardens, Vale of Glamorgan, Wales",
+      "original_wording": "Dyffryn Gardens",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0343_R",
+      "excerpt": "tea with John & Kay & Eben near Cardiff. Lovely sunny day. They took us to Dyffryn Gardens where Simon & Eben played in the log garden.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Llanrhidian, Gower, Wales",
+      "original_wording": "N. Gower coast. Salt Flats.",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0343_R",
+      "excerpt": "On to a campsite for 3 nights on N. Gower coast. Salt Flats. Lovely views of the salt marsh estuary where they fatten sheep.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Gower Peninsula, Swansea" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "notes": "Return to home inferred; mixed_end=true, diary page cuts off mid-entry on B_0344_R",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Saturday: Weobley Castle and coastal walk to Llanrhidian",
+      "date_guess": "2021-04-24",
+      "stops": [
+        {
+          "normalized_name": "Weobley Castle, Gower, Wales",
+          "original_wording": "the castle which has an interesting exhibition of castles on the Gower",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0343_R",
+          "excerpt": "We went into the castle which has an interesting exhibition of castles on the Gower, mostly started by Norman colonisation.",
+          "notes": "Castle near the campsite on N. Gower coast with a Gower castles exhibition; most likely Weobley Castle near Llanrhidian. Name not given explicitly.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Llanrhidian, Gower, Wales",
+          "original_wording": "Llanrhidian",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0343_R",
+          "excerpt": "Then we walked 4 miles & back along the coastal path, first where the sheep graze on the salt marshes to Llanrhidian.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Sunday: Walk to Whiteford Bay lighthouse via Llanmadoc",
+      "date_guess": "2021-04-25",
+      "stops": [
+        {
+          "normalized_name": "Llanmadoc, Gower, Wales",
+          "original_wording": "[?Llan-]mador",
+          "confidence": 0.7,
+          "approximate": true,
+          "source_page_id": "B_0344_L",
+          "excerpt": "We drove to [?Llan-]mador + walked from there. Dunes, lovely pine woods idyllic walking.",
+          "notes": "Transcribed as [?Llan-]mador; almost certainly Llanmadoc, the village at the north-west tip of Gower used as the start point for the Whiteford Bay walk.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Whiteford Point Lighthouse, Gower, Wales",
+          "original_wording": "the metal light house (1865, the last metal light house in Europe.) Whiteford Bay",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0344_L",
+          "excerpt": "We set off on an even longer walk of 6 miles to see the metal light house (1865, the last metal light house in Europe.) ... We reached the light house, Whiteford Bay, at 11.35.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Llan-]mador",
+      "issue": "Partially legible place name; transcriber flagged uncertainty. Very likely Llanmadoc (Gower) given context of walk to Whiteford Bay lighthouse, but not 100% certain from text alone.",
+      "source_page_id": "B_0344_L",
+      "excerpt": "We drove to [?Llan-]mador + walked from there."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: page B_0344_R cuts off mid-sentence; return date not recorded in this spread"
+  ],
+  "summary": "A short 3-night campervan trip to the Gower Peninsula, Wales, in April 2021 — Simon and Eve's first trip out of lockdown with Tinder the dog. They stopped for tea and a visit to Dyffryn Gardens near Cardiff, then camped for three nights on the north Gower coast near the Llanrhidian salt marshes. Day excursions included a coastal walk to Llanrhidian village, and a 6-mile walk from Llanmadoc through dunes and pinewoods to the 1865 cast-iron Whiteford Bay lighthouse.",
+  "extraction_notes": "Travellers are Simon, Eve, and Tinder (dog) only — no children mentioned. Trip took place during COVID-19 lockdown easing (pub still closed Sat; library had just reopened). The campsite is not named but is clearly on the north Gower coast near Llanrhidian salt marshes; the castle visited Saturday is unnamed but the description (Gower castles exhibition, Norman origins, proximity to the salt marsh campsite) points to Weobley Castle. The Sunday drive start point is partially legible as [?Llan-]mador; contextually Llanmadoc is the established walk start for Whiteford Bay. Date_end is Saturday–Sunday (25 April) based on diary entries; the actual return day is unrecorded due to mixed_end page boundary. No crossings (entirely within Great Britain)."
+}

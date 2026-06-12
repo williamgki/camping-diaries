@@ -1,0 +1,130 @@
+{
+  "trip_id": "1999-sussex-hove-gravestocks-washington-campsite-bramber",
+  "title": "Sussex: Hove, Washington Campsite, Bramber Castle & Brighton",
+  "volume": "A",
+  "spread_range": ["A_0263", "A_0264"],
+  "diary_page_range": [null, null],
+  "date_start": "1999-04-10",
+  "date_end": "1999-04-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hove, East Sussex, UK",
+      "original_wording": "Hove",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0263_L",
+      "excerpt": "on Saturday at 9 am we set off for Sussex. We left Tonic [?at] kennels to be plucked, & continued on to the Gravestocks in Hove. Jonathan, Charlotte, Abigail & Tom gave us a delicious lunch.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Hove" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Steyning, West Sussex, UK",
+      "original_wording": "Steyning",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0263_L",
+      "excerpt": "Passing Lancing College, we came to Steyning — v. pretty, but only one small hut with one loo & cold water basin, so we drove on to Washington",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Washington, West Sussex, UK",
+      "original_wording": "Washington",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0263_L",
+      "excerpt": "so we drove on to Washington lovely clean modern loo block, continental, infra-red light comes on as you walk in. Expensive. Foot paths.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Washington, West Sussex" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips start and end at home unless otherwise stated; no further diary pages for this trip",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Day trip from Washington campsite: Bramber Castle and Brighton",
+      "date_guess": "1999-04-11",
+      "stops": [
+        {
+          "normalized_name": "Bramber Castle, West Sussex, UK",
+          "original_wording": "Bramber Castle",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0264_L",
+          "excerpt": "We sat around the campsite until 11.30, then stopped at Bramber Castle, an old Norman castle, steep hill sides, outer wall & keep hill, not much left standing, except a few flint walls. Pretty.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Brighton Seafront, Brighton, UK",
+          "original_wording": "the sea front",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0264_L",
+          "excerpt": "On to the sea front where we had lunch. A white car got bogged down in the shingle.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Brighton" }
+        },
+        {
+          "normalized_name": "Royal Pavilion, Brighton, UK",
+          "original_wording": "The Pavillion",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0264_L",
+          "excerpt": "The Pavillion was absolutely marvellous. Weird & fantastical, dragons, gold, Indian on the outside & Chinese on the inside. 1810. Oh George IV, while Prince Regent.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Brighton" }
+        },
+        {
+          "normalized_name": "Brighton Palace Pier, Brighton, UK",
+          "original_wording": "Brighton Pier",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0264_L",
+          "excerpt": "After this we went out on Brighton Pier, where all 5 boys went on Dodgems. John went on a ghastly high spinning machine too. The sea was a beautiful aquamarine colour. Windy.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Brighton" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Tonic [?at] kennels",
+      "issue": "Name of the kennels where Tinder the dog was left is unclear; 'Tonic' may be a mishearing or misread of the kennel name",
+      "source_page_id": "A_0263_L",
+      "excerpt": "We left Tonic [?at] kennels to be plucked"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: true — the trip end is not clearly marked; diary continues onto A_0264_R which shows a postcard of the Royal Pavilion; return home is inferred"
+  ],
+  "summary": "An Easter weekend trip (April 10-11, 1999) to Sussex, visiting friends the Gravestocks in Hove for lunch before camping at Washington campsite in West Sussex. On the second day the family made a day trip to Bramber Castle and Brighton, visiting the Royal Pavilion and Brighton Pier before returning to camp for a pub supper.",
+  "extraction_notes": "Trip is entirely domestic (UK only), no ferry crossings. The dog Tinder was left at kennels. The diary entry is incomplete at the end (mixed_end), with A_0264_R showing only a pasted postcard/print of the Royal Pavilion kitchen; the return to Birmingham is inferred. Steyning was considered as a campsite stop but rejected in favour of Washington. 'Salton' in the sketch caption on A_0263_R appears to refer to the Salton/Saltoun dragon motif on the Brighton Pavilion palm pillar — it is not a separate place visited. Page numbers visible are 7 (A_0263_R) and 8 (A_0264_R), suggesting this is near the end of a diary volume section. The date_end may extend beyond April 11 if the family stayed a third night (the diary says 'back to the campsite for a pub supper' but no further narrative follows), but no evidence confirms a third night."
+}

@@ -1,0 +1,53 @@
+{
+  "trip_id": "1997-clent-parish-hall-weekend-zoe-s",
+  "title": "Clent Parish Hall Weekend (Zoe's Birthday)",
+  "volume": "A",
+  "spread_range": ["A_0201", "A_0201"],
+  "diary_page_range": [32, 32],
+  "date_start": "1997-06-14",
+  "date_end": "1997-06-15",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Clent, Worcestershire, UK",
+      "original_wording": "Cleat parish hall",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0201_R",
+      "excerpt": "We scrabbled off at 11.40. for Cleat parish hall. 6 of us are here.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "B'ham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0201_R",
+      "excerpt": "In the morning we abandoned camp because of the rain & went back to B'ham for church.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A single overnight weekend trip from Birmingham to Clent Parish Hall in Worcestershire for Zoe's birthday party, in June 1997. The family camped in a field behind the parish hall but abandoned camp the next morning due to heavy rain and returned home for church.",
+  "extraction_notes": "The diary spells the location 'Cleat parish hall' but this is clearly Clent Parish Hall — Clent is a village in the Clent Hills, Worcestershire, approximately 10 miles southwest of Birmingham. The date 'Saturday June 14th' is consistent with 1997. Thomas initially stayed in Birmingham to study, then followed later. The family camped overnight in a Renault Espace and in a field; they returned to Birmingham ('B'ham') the next morning (Sunday). No ferries or border crossings. Traveller count: diary says '6 of us' initially (not counting Thomas who came later); the full family plus dog Tinder are listed as travellers."
+}

@@ -1,0 +1,53 @@
+{
+  "trip_id": "2004-day-trip-to-hanbury-hall-near",
+  "title": "Day trip to Hanbury Hall, Worcestershire",
+  "volume": "B",
+  "spread_range": ["B_0051", "B_0052"],
+  "diary_page_range": [48, 50],
+  "date_start": "2004",
+  "date_end": "2004",
+  "date_precision": "year",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hanbury Hall, Droitwich, Worcestershire, UK",
+      "original_wording": "Hanbury Hall ... near Droitwich",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0051_R",
+      "excerpt": "went on a day trip to Hanbury Hall 1801 near Droitwich. It's very attractiv[e] with wrought iron gates + lovely views over Worcestershire, near the Malverns. We saw inside an ice house,",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A single-day outing from home in Birmingham to Hanbury Hall, an early 18th-century National Trust house near Droitwich in Worcestershire (the diary notes it was built 1801). The family admired the wrought iron gates and views towards the Malverns, and went inside the estate's brick icehouse, also noting a mushroom house, orchard and orangery. They returned home the same day.",
+  "extraction_notes": "Domestic UK day trip, so no sea/tunnel crossings and no excursions (a day trip is not a fixed-base holiday). The only place actually visited is Hanbury Hall; Droitwich and Worcestershire are geographic context for the hall, and 'the Malverns' is a view reference ('lovely views over Worcestershire, near the Malverns'), not a separate visited stop. The 'sketch' on B_0052_L (sketch_images) is NOT a route sketch but a hand-drawn cross-section diagram of the estate icehouse (labels: 'hatch to shovel ice + Snow', 'passage to take out ice', 'drain to ice pond'); it carries no route-order information, so evidence-hierarchy rule 1 (sketch outranks narrative) does not change the ordering here. Trip date taken as 2004 per trip_id/index slug; '1801' is the building's construction date and '2002' on B_0052_R is part of a photo caption ('Hanbury Hall parterre. 2002, NT & Nick Moss'), not the trip date, so date_precision is 'year'."
+}

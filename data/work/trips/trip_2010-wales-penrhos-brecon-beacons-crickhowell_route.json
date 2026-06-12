@@ -1,0 +1,139 @@
+{
+  "trip_id": "2010-wales-penrhos-brecon-beacons-crickhowell",
+  "title": "Wales: Penrhos, Brecon Beacons & Crickhowell",
+  "volume": "B",
+  "spread_range": ["B_0169", "B_0170"],
+  "diary_page_range": [169, 170],
+  "date_start": "2010-04-09",
+  "date_end": "2010-04-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Penrhos, Wales",
+      "original_wording": "the Walks Penrhos, Wales",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0169_R",
+      "excerpt": "We drove thru [?Sunshine] to the Walks Penrhos, Wales, on the way to the Brecons 8.05. good journey. Lovely plain with",
+      "geocode_hint": { "countrycodes": "gb", "region": "Wales" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Torpantau, Brecon Beacons, Wales",
+      "original_wording": "Torpantau",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0170_L",
+      "excerpt": "On the road by 9.15. We parked + had coffee + set off with lunch on a beautiful walk at about 10.45 from Torpantau where the Brecon to Merthyr railway emerged from a tunnel.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Wales" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Lower Neuadd Reservoir, Brecon Beacons, Wales",
+      "original_wording": "Lower Neuadd Reservoir",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0170_L",
+      "excerpt": "We followed a forestry road down to the river where we crossed to the west bank and walked north parallel to the river until the Lower Neuadd Reservoir. We crossed the dam after having lunch in a sunny spot and turned north again up the old \"Roman Road\" to the pass overlooking Brecon.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Wales" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Crickhowell, Wales",
+      "original_wording": "Crickhowell",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0170_R",
+      "excerpt": "As we neared Crickhowell I telephoned Joan Clarke, now 92, + we went round to see her taking supper. (campsite £15, expensive + extra charge for showers)",
+      "geocode_hint": { "countrycodes": "gb", "region": "Wales" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Abbey Dore, Herefordshire, UK",
+      "original_wording": "Abbey Dore",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0170_R",
+      "excerpt": "We visited Abbey Dore. Four young men in one family died in WW2 in the RAF + their 16 year old [?sister] died in 1936, according to one of the [illegible] graves outside. We had a lunch in the pub carvery where they are polite but the food was pretty dire.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Trimpley, Worcestershire, UK",
+      "original_wording": "Trampley",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0170_R",
+      "excerpt": "We called in at Trampley on the way home + had tea in the summer house.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0170_R",
+      "excerpt": "We called in at Trampley on the way home + had tea in the summer house.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Visit to St Edmund's church and dog walk by the river",
+      "date_guess": "2010-04-11",
+      "stops": [
+        {
+          "normalized_name": "St Edmund's Church, Crickhowell, Wales",
+          "original_wording": "St. Edmund's church",
+          "confidence": 0.9,
+          "source_page_id": "B_0170_R",
+          "excerpt": "Another sunny morning. We ate up half breakfast, walked up to St. Edmund's church where we heard about the re-setting-up of a credit union + then walked down for the other half of breakfast.",
+          "geocode_hint": { "countrycodes": "gb", "region": "Wales" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Sunshine]",
+      "issue": "Place name uncertain; the diary reads '[?Sunshine]' on the route from Birmingham to Penrhos — possibly a village name, misread or obscured.",
+      "source_page_id": "B_0169_R",
+      "excerpt": "We drove thru [?Sunshine] to the Walks Penrhos, Wales, on the way to the Brecons"
+    },
+    {
+      "original_wording": "Trampley",
+      "issue": "Likely Trimpley, near Bewdley, Worcestershire — a location this family visited on other occasions. The spelling 'Trampley' in the diary may be a mis-spelling of Trimpley. Recorded in main_route as seq 7 with normalized name Trimpley but flagged here for reviewer confirmation.",
+      "source_page_id": "B_0170_R",
+      "excerpt": "We called in at Trampley on the way home + had tea in the summer house."
+    }
+  ],
+  "boundary_flags": [
+    "B_0169_R contains a mixed entry: 'Saturday October 24th' is from a different trip (unrelated to the April 2010 Wales trip); only the 'Friday April 9th 2010' section is relevant to this trip."
+  ],
+  "summary": "A three-day Easter weekend trip for Simon, Eve and their dog Tinder to Wales and the Welsh Marches. They stayed at two campsites — 'the Walks' at Penrhos on the first night and Crickhowell on the second — with a scenic walk through the Brecon Beacons from Torpantau to Lower Neuadd Reservoir in between. The return journey on 11 April included a stop at Abbey Dore and tea at Trampley.",
+  "extraction_notes": "Page B_0169_R is a mixed boundary page: it contains an unrelated entry for 'Saturday October 24th' (part of a different trip, possibly 1992 or similar) before the 'Friday April 9th 2010' heading. Only the April 2010 section is included here. The dog 'Tonic' mentioned in B_0170_L and B_0170_R is the family's dog Tinder (diary nickname). 'Trampley' on the return journey is almost certainly Trimpley near Bewdley, Worcestershire, a location the family visited regularly. Dates on pages B_0170_L and B_0170_R show iso years as 2004 in the source data, but context clearly places them in 2010 (April 9th 2010 is explicitly stated on B_0169_R and the sequence is April 9-11). The walk notes mention 'Mummy's + Daddy's 81st wedding anniversary' on April 10th — this refers to Eve's or Simon's parents. No ferry crossing: this trip is entirely within Great Britain."
+}

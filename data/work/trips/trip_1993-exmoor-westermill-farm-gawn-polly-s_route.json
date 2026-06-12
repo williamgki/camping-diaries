@@ -1,0 +1,156 @@
+{
+  "trip_id": "1993-exmoor-westermill-farm-gawn-polly-s",
+  "title": "Exmoor: Westermill Farm (Gawn & Polly's wedding)",
+  "volume": "A",
+  "spread_range": ["A_0113", "A_0115"],
+  "diary_page_range": [28, 29],
+  "date_start": "1993-09-02",
+  "date_end": "1993-09-05",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Silly Bridge, Exmoor, Somerset, UK",
+      "original_wording": "Silly Bridge",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0113_L",
+      "excerpt": "Eve map read a short cut west of Exford, over Silly Bridge. The road sign said ◄ 6ft 6ins ►. The van is 2 metres wide.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Westermill Farm, Exford, Exmoor, Somerset, UK",
+      "original_wording": "Westermill Farm",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0113_L",
+      "excerpt": "We are staying at Westermill Farm Expensive £11 per night, but very good ... 3 fields, sheltered valley ... The river runs along the edge of the site + is damned into a pool which John + Charles love.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Red walk on Exmoor above Westermill Farm",
+      "date_guess": "1993-09-03",
+      "stops": [
+        {
+          "normalized_name": "Exmoor (moorland above Westermill Farm)",
+          "original_wording": "the \"red\" walk, up + round the hill, past a menhir + a 4 stone setting",
+          "confidence": 0.7,
+          "approximate": true,
+          "source_page_id": "A_0113_R",
+          "excerpt": "After tea we went on the \"red\" walk, up + round the hill, past a menhir + a 4 stone setting – common to Exmoor.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Morning at Dunster",
+      "date_guess": "1993-09-04",
+      "stops": [
+        {
+          "normalized_name": "Dunster, Somerset, UK",
+          "original_wording": "Dunster",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0114_L",
+          "excerpt": "In the morning it was sunny again & we explored Dunster, but didn't have time to see the Castle. John got his feet wet in the mill race, & we saw a beautiful pack-horse bridge, meadows, hills, paths & a thatched cottage.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Gawn & Polly's wedding (Dulverton & Withypool)",
+      "date_guess": "1993-09-04",
+      "stops": [
+        {
+          "normalized_name": "Taunton railway station, Somerset, UK",
+          "original_wording": "Taunton station",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0115_L",
+          "excerpt": "we were almost late meeting Kate Warburton's train ... We stood in Taunton station carpark to eat lunch.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Dulverton, Somerset, UK",
+          "original_wording": "Dulverton Church",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0115_L",
+          "excerpt": "The wedding was in Dulverton Church, + the reception at Withypool.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Withypool, Somerset, UK",
+          "original_wording": "Withypool",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0115_L",
+          "excerpt": "The wedding was in Dulverton Church, + the reception at Withypool.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Sunday: Taunton Station then Maunsell Lock canal walk",
+      "date_guess": "1993-09-05",
+      "stops": [
+        {
+          "normalized_name": "Taunton railway station, Somerset, UK",
+          "original_wording": "Taunton Station",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0115_L",
+          "excerpt": "Kate + Jamie picked up Jessica the Sunday morning + we set off to Taunton Station to leave Kate.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Maunsell Lock, Bridgwater & Taunton Canal, Somerset, UK",
+          "original_wording": "Maunsell Lock, Hedging",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0115_L",
+          "excerpt": "For lunch we went a little north to Maunsell Lock, Hedging. Gorgeous blackberrying in the sunshine + a stroll along the canal.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "In September 1993 the family drove from Birmingham to Exmoor for Gawn & Polly Martin's wedding, basing themselves at Westermill Farm near Exford (after a tight squeeze over the narrow Silly Bridge). From the campsite they swam in the river, walked the moor, explored Dunster, and the parents attended the wedding at Dulverton Church with a reception at Withypool. On the Sunday they returned a guest to Taunton station and went blackberrying along the canal at Maunsell Lock before heading home.",
+  "extraction_notes": "Fixed-base trip at Westermill Farm; modelled as Birmingham -> Silly Bridge (transit) -> Westermill Farm (base) -> Birmingham, with day excursions grouped under the base. The flagged sketch_image A_0114_L.jpg was inspected: it is an illustrative scene sketch of a stone wall / farm structure (the 'walls with beech trees growing out of the top'), NOT a route map (no arrows or place labels), so narrative order governs (the A_0113_R sketch is likewise a scene of John & Charles at the pond). Exford appears only as a map-reading reference ('a short cut west of Exford') and Dinas only as a campsite price comparison ('Dinas £4 + grotty loo block'), so neither is recorded as a visited stop. No date is given for the return home; the diary's last narrated day is Sunday 5th Sept, so date_end is set to 1993-09-05 (day precision) and the return-home seq carries reduced confidence. The 'red walk' destination is vague (menhir / 4-stone setting on the moor above the farm) and is kept as an approximate excursion stop. Tinder the dog is assumed present per the family default but is not named on these pages."
+}

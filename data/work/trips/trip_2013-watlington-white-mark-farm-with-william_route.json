@@ -1,0 +1,152 @@
+{
+  "trip_id": "2013-watlington-white-mark-farm-with-william",
+  "title": "Watlington: White Mark Farm with William & Joseph",
+  "volume": "B",
+  "spread_range": ["B_0224", "B_0225"],
+  "diary_page_range": [null, 45],
+  "date_start": "2013-09-27",
+  "date_end": "2013-09-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "Joseph", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Haddenham & Thame Parkway railway station, Buckinghamshire, UK",
+      "original_wording": "Haddenham + Thame platform",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0224_L",
+      "excerpt": "We sat on Haddenham + Thame platform + William + Joseph got off the train directly opposite us",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "White Mark Farm campsite, Watlington, Oxfordshire, UK",
+      "original_wording": "White Mark Farm",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0224_L",
+      "excerpt": "We camped at White Mark Farm, [illegible] near the Carriers Arms Pub, Watlington.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Chinnor, Oxfordshire, UK",
+      "original_wording": "Chinnor",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0225_L",
+      "excerpt": "We saw a new housing estate & a steam train at Chinnor station.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Whiteleaf Cross, Princes Risborough, Buckinghamshire, UK",
+      "original_wording": "WHITELEAF CROSS",
+      "role": "transit_stop",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "B_0225_L",
+      "excerpt": "[postcard: CHINNOR and WHITELEAF CROSS]",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0225_L",
+      "excerpt": "We packed up camp.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Saturday morning walk (Willow Pond & the Ridgeway) and Watlington",
+      "date_guess": "2013-09-28",
+      "stops": [
+        {
+          "normalized_name": "Willow Pond, near Watlington, Oxfordshire, UK",
+          "original_wording": "Willow Pond",
+          "confidence": 0.7,
+          "approximate": true,
+          "source_page_id": "B_0224_R",
+          "excerpt": "We passed a pond, Willow Pond, which had melted away.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "The Ridgeway National Trail, near Watlington, Oxfordshire, UK",
+          "original_wording": "Ridgeway",
+          "confidence": 0.7,
+          "approximate": true,
+          "source_page_id": "B_0224_R",
+          "excerpt": "We were partly on the Ridgeway.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Memorial Hall, Watlington, Oxfordshire, UK",
+          "original_wording": "Memorial Hall",
+          "confidence": 0.8,
+          "approximate": false,
+          "source_page_id": "B_0224_R",
+          "excerpt": "Back at Watlington we went to a craft sale in the Memorial Hall",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Carriers Arms, Watlington, Oxfordshire, UK",
+          "original_wording": "Carriers Arms",
+          "confidence": 0.8,
+          "approximate": false,
+          "source_page_id": "B_0224_R",
+          "excerpt": "then had lunch at the Carriers Arms.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Evening walk up the hill to the White Mark",
+      "date_guess": "2013-09-28",
+      "stops": [
+        {
+          "normalized_name": "White Mark chalk spire (Watlington Hill), Watlington, Oxfordshire, UK",
+          "original_wording": "White Mark",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0224_R",
+          "excerpt": "After tea Simon + William walked up the hill to the White Mark.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "B_0225_R",
+      "issue": "Page B_0225_R (diary p.45) is a mixed boundary page belonging to the next trip; its only text 'Joseph + Baba' is a caption/heading for the following entry and is not part of this Watlington trip.",
+      "excerpt": "Joseph +\nBaba"
+    }
+  ],
+  "summary": "A short September 2013 family camping weekend (27-29 Sep) at White Mark Farm campsite in Watlington, Oxfordshire, with grandson Joseph and his father William. Simon, Eve and Tinder met William and Joseph (arriving by train) at Haddenham & Thame Parkway, then camped near the Carriers Arms; Charles joined for the Saturday. They walked on the Ridgeway past Willow Pond, visited a craft sale at Watlington Memorial Hall, and walked up the hill to the White Mark chalk spire, heading home on the Sunday via Chinnor and the Whiteleaf Cross.",
+  "extraction_notes": "UK-only trip, no sea/tunnel crossings. The page-marked 'sketch' on B_0224_L is an illustrative drawing of the White Mark chalk spire (tall pointed spire above a rectangular base), NOT a route sketch, so narrative order governs. Home start/end inferred per the default rule (Birmingham); the diary opens with Simon, Eve + Tinder 'set off' and ends 'We packed up camp', neither stating Birmingham explicitly. Haddenham & Thame Parkway is the meeting point on the outbound leg, modelled as a main_stop. Chinnor and Whiteleaf Cross appear on the Sunday packing-up/return-home page and are modelled as transit stops on the homeward leg (Whiteleaf Cross is only evidenced by the postcard caption, hence lower confidence and approximate). The Saturday morning walk (Willow Pond, Ridgeway, Watlington Memorial Hall craft sale, Carriers Arms lunch) leaves and returns to the same base, so it is an excursion; the evening walk up to the White Mark is a separate same-day excursion. B_0225_R ('Joseph + Baba', diary p.45) is a mixed boundary page for the following trip and is excluded."
+}

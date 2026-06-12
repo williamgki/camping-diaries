@@ -1,0 +1,170 @@
+{
+  "trip_id": "2005-newcastle-trafalgar-day-galloway-museum-arbeia",
+  "title": "Newcastle: Trafalgar Day, Galloway Museum, Arbeia, High Force & Bowes",
+  "volume": "B",
+  "spread_range": ["B_0087", "B_0091"],
+  "diary_page_range": [25, 28],
+  "date_start": "2005-10-21",
+  "date_end": "2005-10-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Newcastle upon Tyne, UK",
+      "original_wording": "Newcastle",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0087_R",
+      "excerpt": "Simon & Charles & Tonie & Eve set off for Newcastle at 5.30. & arrived at 11 pm. Traffic was heavy & it rained. We arrived at Peter's flat 115A Mowbray, next to Hotspur Primary School.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "High Force, County Durham, UK",
+      "original_wording": "High Force",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0090_R",
+      "excerpt": "We made a detour to High Force, a well-known waterfall. The normal path to view it had been washed away, so we had to walk down some steps, across a field, over a bridge",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Bowes, County Durham, UK",
+      "original_wording": "Bowes",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0091_L",
+      "excerpt": "We lunched in the van & drove on to Bowes. Peter was already there. We had tea & then he drove off to get Elizabeth. They gave us a delicious supper.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0091_L",
+      "excerpt": "We drove to Bowes Museum for lunch & then back to the house. We",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Trafalgar Day service at Newcastle Cathedral",
+      "date_guess": "2005-10-22",
+      "stops": [
+        {
+          "normalized_name": "Cathedral Church of St Nicholas, Newcastle upon Tyne",
+          "original_wording": "the Cathedral",
+          "confidence": 1.0,
+          "source_page_id": "B_0088_L",
+          "excerpt": "We set off at 9.30 because Peter had to be at the Cathedral for a rehearsal at 10. He had bought us tickets the day before.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Walk down the Side and visit to Discovery Centre",
+      "date_guess": "2005-10-22",
+      "stops": [
+        {
+          "normalized_name": "The Side, Newcastle upon Tyne",
+          "original_wording": "Side",
+          "confidence": 0.9,
+          "source_page_id": "B_0088_L",
+          "excerpt": "Afterwards we walked down the Side, looked at bridges. We could see 7 from one spot",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Discovery Museum, Newcastle upon Tyne",
+          "original_wording": "Discovery Centre",
+          "confidence": 0.95,
+          "source_page_id": "B_0088_L",
+          "excerpt": "We walked from the Side up to the Discovery Centre.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Day trip to South Shields: Galloway Museum and Arbeia",
+      "date_guess": "2005-10-23",
+      "stops": [
+        {
+          "normalized_name": "South Shields, UK",
+          "original_wording": "South Shields",
+          "confidence": 0.95,
+          "source_page_id": "B_0089_L",
+          "excerpt": "I walked the dog slowly & sat in the back of the van (cold) to South Shields.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Bede's World Museum (Galloway), South Shields",
+          "original_wording": "the Museum in Galloway",
+          "confidence": 0.85,
+          "source_page_id": "B_0090_L",
+          "excerpt": "Galloway, another marvellous museum. It showed the history of Catherie Cookson, peoples' voluntary jobs, life boats",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Arbeia Roman Fort, South Shields",
+          "original_wording": "Arbeia",
+          "confidence": 1.0,
+          "source_page_id": "B_0090_L",
+          "excerpt": "On to Arbeia, meaning \"Place of the Arabs\", where a Roman fort is being excavated. Some of the soldiers were from Arabia. There were reconstructed barrack's rooms, 8 men to 2 rooms, + a house of a commanding officer.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Visit to Bowes Museum",
+      "date_guess": "2005-10-25",
+      "stops": [
+        {
+          "normalized_name": "Bowes Museum, Barnard Castle, County Durham",
+          "original_wording": "Bowes Museum",
+          "confidence": 1.0,
+          "source_page_id": "B_0091_L",
+          "excerpt": "We drove to Bowes Museum for lunch & then back to the house.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Museum in Galloway",
+      "issue": "Galloway is a region in SW Scotland, but context (South Shields visit, Catherine Cookson connection, lifeboats) strongly suggests this is a South Shields museum; possibly the Bede's World / South Shields Museum or a locally-known 'Galloway' building. The name 'Galloway' may refer to a building name now changed. Requires local knowledge to confirm exact museum.",
+      "source_page_id": "B_0090_L",
+      "excerpt": "Galloway, another marvellous museum. It showed the history of Catherie Cookson, peoples' voluntary jobs, life boats"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0087 covers content before this trip (Halesworth/Till Hill Farm) and this trip starts mid-page",
+    "mixed_end: page B_0091 ends mid-narrative; return home is implied but not explicitly stated on the available pages"
+  ],
+  "summary": "In October 2005, Simon, Eve, Charles, and Tinder drove to Newcastle to visit son Peter, attending the Trafalgar Day bicentenary service at Newcastle Cathedral where Peter sang in the choir, and taking a day trip to South Shields to visit a local museum and Arbeia Roman Fort. On the return journey they stopped at High Force waterfall and spent a night at Bowes before heading home.",
+  "extraction_notes": "The trip starts mid-page on B_0087; the first part of that page records a different trip (Till Hill Farm near Halesworth, Suffolk). The trip's start date is confirmed as Friday 21st October 2005 (B_0087_R). The Sunday excursion date (Oct 23) is inferred from the sequence: Saturday=Oct 22 (confirmed by ticket), Sunday=Oct 23, Monday=Oct 24 (explicitly stated as 'Monday 24th Oct'). The 'Museum in Galloway' likely refers to the South Tyneside museums complex or a now-renamed building in South Shields; it is near Arbeia and the Catherine Cookson connection points firmly to South Tyneside. The return home is implied (last diary entry tails off mid-sentence on B_0091_L) but not explicitly narrated in available pages. Tonder/Tonic is the family dog (Tinder). Peter's flatmate Jim is from Howarth near Bradford — not a trip destination."
+}

@@ -1,0 +1,66 @@
+{
+  "trip_id": "2008-trimpley-hampton-load-day-out-margaret",
+  "title": "Trimpley & Hampton Loade day out with Margaret & Helen",
+  "volume": "B",
+  "spread_range": ["B_0138", "B_0138"],
+  "diary_page_range": [138, 138],
+  "date_start": "2008-07-26",
+  "date_end": "2008-07-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Margaret", "Helen"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Day outing to Trimpley & Hampton Loade (Saturday 26 July 2008)",
+      "date_guess": "2008-07-26",
+      "stops": [
+        {
+          "normalized_name": "Trimpley Reservoir, Worcestershire, UK",
+          "original_wording": "Trimpley",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0138_L",
+          "excerpt": "Simon, Charles & Eve are taking lunch to Trimpley.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Hampton Loade, Shropshire, UK",
+          "original_wording": "Hampton Load",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0138_L",
+          "excerpt": "We went to Hampton Load with Margaret & Helen. We saw the steam train twice, but the ferry wasn't there.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "the camping shop",
+      "issue": "Named as a stop on the way home ('We reached home via the camping shop by 4th about 3.30') but no shop name or location is given; cannot identify which camping shop.",
+      "source_page_id": "B_0138_L",
+      "excerpt": "We reached home via the camping shop by 4th about 3.30."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0138_L opens with a 'Sunday June 8th' entry from a different trip before the 'Saturday July 26th' heading for this trip."
+  ],
+  "summary": "A single-day outing on Saturday 26 July 2008 from Birmingham. Simon, Eve and Charles drove to Trimpley (Worcestershire) for lunch, then visited Hampton Loade on the River Severn with guests Margaret and Helen, where they watched the Severn Valley Railway steam train pass twice; the Hampton Loade river ferry was not running. The party returned home via a camping shop, arriving around 3:30 pm.",
+  "extraction_notes": "Page B_0138_L is flagged mixed_start: the 'Sunday June 8th' text at the top belongs to a separate trip (the river walk and coracle mention). This trip covers only the 'Saturday July 26th' entry. The 'ferry' mentioned is the Hampton Loade passenger ferry across the River Severn — not a sea crossing; no ferry/crossing entry is warranted. 'Hampton Load' in the diary is the variant spelling of Hampton Loade. Tonic (the dog) was already in kennels for this outing. Thomas is mentioned only as the person who dropped Tonic and Lulu at the kennels/cattery before the outing and is not listed as a traveller on the day out. The camping shop stop on the return is noted as unresolved. Date confirmed: 26 July 2008 was a Saturday, consistent with the diary heading."
+}

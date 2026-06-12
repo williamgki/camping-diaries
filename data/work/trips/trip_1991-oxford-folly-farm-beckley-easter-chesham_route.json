@@ -1,0 +1,151 @@
+{
+  "trip_id": "1991-oxford-folly-farm-beckley-easter-chesham",
+  "title": "Oxford / Folly Farm, Beckley (Easter); Chesham & Flamstead",
+  "volume": "A",
+  "spread_range": ["A_0037", "A_0040"],
+  "diary_page_range": [69, 74],
+  "date_start": "1991-04-12",
+  "date_end": "1991-04-16",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Folly Farm Campsite, Beckley, Oxfordshire",
+      "original_wording": "Folly Farm Beckley",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0037_L",
+      "excerpt": "We are camping at Folly Farm Beckley, a large windy field on top of a hill with a view across a misty plain.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Beckley, Oxfordshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Pednore Bottom, near Chesham, Buckinghamshire",
+      "original_wording": "Pedmore in Pednore Bottom",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0039_L",
+      "excerpt": "We ended up outside Chesham at Pedmore in Pednore Bottom, a lovely, small, valley campsite, a cow farm.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Chesham, Buckinghamshire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0040_L",
+      "excerpt": "We had tea in the van at the stables & set off for home to open Charles' presents.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk through Beckley and to Otmoor (Saturday)",
+      "date_guess": "1991-04-13",
+      "stops": [
+        {
+          "normalized_name": "Beckley, Oxfordshire",
+          "original_wording": "Beckley",
+          "confidence": 0.95,
+          "source_page_id": "A_0037_L",
+          "excerpt": "We walk through Beckley, a lovely pasture woody walk, where there are tripod pheasant feeders.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Otmoor, Oxfordshire",
+          "original_wording": "Otmoor",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "A_0037_L",
+          "excerpt": "We [?cycled] to Otmoor. [Cycling?]",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Drive to Oddington and Beckley Church (Sunday)",
+      "date_guess": "1991-04-14",
+      "stops": [
+        {
+          "normalized_name": "Beckley Church, Oxfordshire",
+          "original_wording": "Beckley Church",
+          "confidence": 0.95,
+          "source_page_id": "A_0037_R",
+          "excerpt": "On Sunday we started early to get to Beckley Church for \"9.15. Eucharist with Music\"",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Oddington, Oxfordshire",
+          "original_wording": "Oddington",
+          "confidence": 0.9,
+          "source_page_id": "A_0037_R",
+          "excerpt": "In the afternoon we drove to Oddington, walked to see the [?Skew Ray] river & looked at the church.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Day visit to Oxford including Dragon School concert and punting (Monday)",
+      "date_guess": "1991-04-15",
+      "stops": [
+        {
+          "normalized_name": "Oxford, UK",
+          "original_wording": "Oxford",
+          "confidence": 0.95,
+          "source_page_id": "A_0038_L",
+          "excerpt": "After that we set off to the Dragon School where we are to pick up Thomas who has been on a week's IAPS course - music. We walked down to look at the Cherwell + punts.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Visit to Flamstead riding stables near Berkhamstead (Tuesday)",
+      "date_guess": "1991-04-16",
+      "stops": [
+        {
+          "normalized_name": "Flamstead, Hertfordshire",
+          "original_wording": "Flamstead near Berkhamstead, Ashley Hill",
+          "confidence": 0.85,
+          "source_page_id": "A_0039_R",
+          "excerpt": "we found a very good stables Flamstead near Berkhamstead, Ashley Hill. Very kind people.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Flamstead, Hertfordshire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Pedmore / Pednore Bottom",
+      "issue": "The diary gives the campsite location as 'outside Chesham at Pedmore in Pednore Bottom'. Pedmore is a district of Stourbridge (West Midlands), which seems far from Chesham. This may be a diary misspelling or an alternate local name for a valley near Chesham, Buckinghamshire. Coordinates cannot be confirmed.",
+      "source_page_id": "A_0039_L",
+      "excerpt": "We ended up outside Chesham at Pedmore in Pednore Bottom, a lovely, small, valley campsite, a cow farm."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: page A_0040_L is flagged boundary_mixed=true — the last diary entry shares a page with the start of the next trip."
+  ],
+  "summary": "An Easter 1991 camping trip with six of the children (Thomas joining mid-trip after a music course at the Dragon School, Oxford). The family based themselves at Folly Farm, Beckley (Oxfordshire) for three nights, exploring Otmoor, Oddington and Oxford before moving to a valley campsite near Chesham for a final night. On the way home Tuesday they visited riding stables at Flamstead near Berkhamstead, where Charles rode a Shetland pony on his second birthday.",
+  "extraction_notes": "Trip is entirely within England; no ferry crossings. Thomas joined the family on Sunday/Monday at Oxford (Dragon School IAPS music course) rather than departing with them on Friday. The date_end of 1991-04-16 (Tuesday) is inferred: Easter 1991 fell on 31 March, so Good Friday was 29 March; April 12 is the following Friday — the family appear to be taking a later Easter break. The page A_0040_L is flagged mixed_end (boundary_mixed=true), meaning the final lines may overlap with the next trip. The campsite spelling 'Pedmore / Pednore Bottom' near Chesham is puzzling — Pedmore is normally in Stourbridge; flagged as unresolved."
+}

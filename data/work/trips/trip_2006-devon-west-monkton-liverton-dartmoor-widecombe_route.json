@@ -1,0 +1,122 @@
+{
+  "trip_id": "2006-devon-west-monkton-liverton-dartmoor-widecombe",
+  "title": "Devon: West Monkton, Liverton & Dartmoor (Widecombe, Bellever, Dartmeet)",
+  "volume": "B",
+  "spread_range": ["B_0094", "B_0096"],
+  "diary_page_range": [32, 33],
+  "date_start": "2006-06-10",
+  "date_end": "2006-06-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Margaret", "Helen"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Proctor's Farm, West Monkton, Somerset, UK",
+      "original_wording": "Proctor's Farm, near West Monkston",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0094_R",
+      "excerpt": "We reached Proctor's Farm, near West Monkston, where Margaret + Helen slept in a b & b.",
+      "geocode_hint": { "countrycodes": "gb", "city": "West Monkton", "region": "Somerset" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Pool Farm, Liverton, Devon, UK",
+      "original_wording": "Pool Farm, Ikington. (Liverton)",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0095_L",
+      "excerpt": "We bought meat at Sainsburys & drove on to Margaret's froin, Evelyn, at Pool Farm, Ikington. (Liverton)",
+      "geocode_hint": { "countrycodes": "gb", "city": "Liverton", "region": "Devon" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Widecombe-in-the-Moor, Devon, UK",
+      "original_wording": "Widecombe",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0095_L",
+      "excerpt": "drove on across part of Dartmoor to Widecombe & saw the church there - roof bosses.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Widecombe-in-the-Moor", "region": "Devon" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Cockingford Farm Campsite, near Widecombe-in-the-Moor, Devon, UK",
+      "original_wording": "Cockingford",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0095_L",
+      "excerpt": "The campsite is on the side of a hill at a mile south of Widecombe at Cockingford**. A strong slope, Simon has mounted the van on double stones.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Widecombe-in-the-Moor", "region": "Devon" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips start and end at home; no explicit return diary entry within this spread",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Day trip to Bellever and Dartmeet",
+      "date_guess": "2006-06-11",
+      "stops": [
+        {
+          "normalized_name": "Bellever, Dartmoor, Devon, UK",
+          "original_wording": "Bellever",
+          "confidence": 0.95,
+          "source_page_id": "B_0095_R",
+          "excerpt": "We drove to Bellever. We walked up the stream/river & took photos/film with new camera. The carpark is in a nice wood. Remains of a clapper bridge.",
+          "geocode_hint": { "countrycodes": "gb", "region": "Devon" }
+        },
+        {
+          "normalized_name": "Dartmeet, Dartmoor, Devon, UK",
+          "original_wording": "Dartmeet",
+          "confidence": 0.95,
+          "source_page_id": "B_0096_L",
+          "excerpt": "Dartmeet, East Dart River, modern bridge + ancient clapper bridge (600 years old ?) Dartmoor",
+          "geocode_hint": { "countrycodes": "gb", "region": "Devon" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Ikington / Ilivington",
+      "issue": "Transcribed as 'Ikington' and 'Ilivington' in the diary; parenthetical '(Liverton)' suggests the intended place is Ilsington, a village near Liverton on Dartmoor. Pool Farm has been placed at Liverton accordingly.",
+      "source_page_id": "B_0095_L",
+      "excerpt": "Pool Farm, Ikington. (Liverton) ... We went to look at Ilivington [illegible] very light"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0094_R contains a prior entry dated Sat May 27th before the trip entry beginning Friday June 10th",
+    "mixed_end: page B_0096_L has boundary_mixed=true; return home not recorded in this spread"
+  ],
+  "summary": "A long-weekend trip to Devon in June 2006, travelling from Birmingham via West Monkton (Somerset) and visiting friends at Pool Farm near Liverton on Dartmoor. The family camped at Cockingford Farm campsite near Widecombe-in-the-Moor, making a day trip on Sunday to Bellever and Dartmeet to walk by the East Dart River and see the ancient clapper bridges.",
+  "extraction_notes": "The diary page B_0094_R is a mixed-boundary page: it contains a prior entry for 'Sat May 27th' (a different event) followed by the Devon trip starting 'Friday June 10th'. The travellers appear to be Simon, Eve, and friends Margaret and Helen (4 people total, plus the dog Tonic). No children are mentioned. The year 2006 is inferred from the trip_id. 'Ikington' in the diary is likely a mishearing of 'Ilsington', a village adjacent to Liverton; the parenthetical '(Liverton)' in the diary text supports this. The campsite at Cockingford is approximately 1 mile south of Widecombe-in-the-Moor as stated. Date_end is set to 2006-06-11 (last dated diary entry); the actual return to Birmingham is inferred."
+}

@@ -1,0 +1,452 @@
+{
+  "trip_id": "1991-france-loire-auvergne-chartres-chenonceaux-conques",
+  "title": "France: Loire & Auvergne (Chartres, Chenonceaux, Conques, R. Lot)",
+  "volume": "A",
+  "spread_range": ["A_0042", "A_0052"],
+  "diary_page_range": [80, 101],
+  "date_start": "1991-07-12",
+  "date_end": "1991-07-30",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dover",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no port named on the outbound leg (the diary's transcribed pages open mid-journey already in France near St. Illiers)",
+      "source_page_id": "A_0042_L",
+      "excerpt": "That night we camped in a very good site in St. Illiers [?en] Ville Domaine de Inchelin",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Saint-Illiers-la-Ville, France",
+      "original_wording": "St. Illiers [?en] Ville",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0042_L",
+      "excerpt": "That night we camped in a very good site in St. Illiers [?en] Ville Domaine de Inchelin (1) 34-76-10-11",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Chartres, France",
+      "original_wording": "Chartres",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0042_L",
+      "excerpt": "We finally made it to Chartres & shopped in the market ... In the cathedral the redoubtable Mr. Miller is still lecturing.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Beauce windmill, France",
+      "original_wording": "Le Moulin de Beauce",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0042_R",
+      "excerpt": "off towards Tours. On the way we've seen a windmill, & stopped to look at it. The sails make a whirring noise.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Mesland, France",
+      "original_wording": "Val de Loire ... Mesland",
+      "role": "overnight_base",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "A_0043_R",
+      "excerpt": "We camped at Val de Loire ... Mesland. There was a midnight swim to celebrate 14th July.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Chaumont-sur-Loire, France",
+      "original_wording": "Chaumont",
+      "role": "main_stop",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "A_0043_R",
+      "excerpt": "July 14th. We set off + arrived at Chaumont just in time for church. ... we set off to walk up to the Chateaux.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Château de Chenonceau, France",
+      "original_wording": "Chenonceaux",
+      "role": "main_stop",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "A_0044_L",
+      "excerpt": "Chenonceaux. A chateau built across a river. Lovely state rooms & pleasant shaped windows.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Montrésor, France",
+      "original_wording": "Chenillé Montrésor",
+      "role": "overnight_base",
+      "confidence": 0.78,
+      "approximate": false,
+      "source_page_id": "A_0044_L",
+      "excerpt": "We have come on to Chenillé Montrésor, on the edge of a lake - fenced off, so safe for children.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Lac de Vassivière, Beaumont-du-Lac, France",
+      "original_wording": "Lake Vassivière, Campsite Pierrefitte, Beaumont du Lac",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0044_R",
+      "excerpt": "We finally reached the River Venne ... Lake Vassivière, Campsite Pierrefitte ★★ Beaumont du Lac",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Eymoutiers, France",
+      "original_wording": "Eymoutier / [?Eymourtiers]",
+      "role": "main_stop",
+      "confidence": 0.72,
+      "approximate": false,
+      "source_page_id": "A_0045_L",
+      "excerpt": "we again played at the lake ... walked around Eymoutier for an hour. There are lots of old houses with stone heads on the walls",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Tulle, France",
+      "original_wording": "Tulle",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0045_R",
+      "excerpt": "We picked up food at Tulle, including delicious chocolates — truffles.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Lacapelle-Viescamp, France",
+      "original_wording": "Lacopelle ... Vieschamp",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0046_L",
+      "excerpt": "We have ended up at this campsite. The pits. We are far from the lake ... [right margin, blue ink:] Lacopelle [illegible] - Vieschamp",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Aurillac, France",
+      "original_wording": "Aurillac",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0046_R",
+      "excerpt": "We stopped at Aurillac & bought Patisseries & changed money.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Cassaniouze, France",
+      "original_wording": "Cassaniouge / Cassanouze",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0047_L",
+      "excerpt": "In the afternoon we came to Cassaniouge * * * * *. We have a lovely view looking over the lake, with an artificial swimming pool built on at the far side.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Pas de Peyrol, France",
+      "original_wording": "Pas de Peyrol",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0050_R",
+      "excerpt": "We went through the mountains, over the pass, Pas de Peyrol [?Pas], 5000 feet, where Thomas bought an enormous cow's horn",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Vic-le-Comte, France",
+      "original_wording": "Viele Compte",
+      "role": "overnight_base",
+      "confidence": 0.72,
+      "approximate": false,
+      "source_page_id": "A_0050_R",
+      "excerpt": "We camped in Viele Compte, a municipal campsite with an indoor municipal swimming pool",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Roanne, France",
+      "original_wording": "Roanne",
+      "role": "main_stop",
+      "confidence": 0.78,
+      "approximate": false,
+      "source_page_id": "A_0050_R",
+      "excerpt": "We set off northeastwards, towards Roanne, to interview an au pair,",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Laconduière, France",
+      "original_wording": "Laconduière",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "A_0051_L",
+      "excerpt": "We went on to Laconduière to camp; it has a pretty out[door] swimming pool + good swings for the children.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Torcy, France",
+      "original_wording": "Torcy",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0052_L",
+      "excerpt": "The campsite was Torcy. E. of Paris. very pretty.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Beauvais, France",
+      "original_wording": "Beauvais",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0052_L",
+      "excerpt": "After more trials on the Paris motorway system, we reached Beauvais. The church choir was closed for lunch ... The church is amazingly high",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Crécy-en-Ponthieu, France",
+      "original_wording": "Crécy",
+      "role": "main_stop",
+      "confidence": 0.82,
+      "approximate": false,
+      "source_page_id": "A_0052_L",
+      "excerpt": "In the afternoon we stopped at Crécy & stood on the site of King Edward's windmill & looked down the hill where English longbowmen had wiped out the flower of French [?Chivalry/Cavalry].",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Beauvainville, France",
+      "original_wording": "Beauvainville",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "A_0052_L",
+      "excerpt": "That evening we camped at Beauvainville. We found it pretty, near a stream, flat, crowded, trees.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Calais",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; return ferry mentioned but no port named",
+      "source_page_id": "A_0052_R",
+      "excerpt": "We stopped at a supermarket & caught the ferry. The children watched cartoons.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0052_R",
+      "excerpt": "We drove home in the rain. A very good holiday.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "A_0042_L",
+      "excerpt": "That night we camped in a very good site in St. Illiers [?en] Ville Domaine de Inchelin"
+    },
+    {
+      "after_seq": 24,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "A_0052_R",
+      "excerpt": "We stopped at a supermarket & caught the ferry. The children watched cartoons. We drove home in the rain."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 15,
+      "label": "Anniversary day - attempted Conques (blocked by motor rally), merry-go-round village, Entraigues",
+      "date_guess": "1991-07-20",
+      "stops": [
+        {
+          "normalized_name": "Conques, France",
+          "original_wording": "Conques",
+          "confidence": 0.7,
+          "source_page_id": "A_0048_L",
+          "excerpt": "We set off to see Conques ... Cars were parked so densely near Conques that we had to give up going there",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Entraygues-sur-Truyère, France",
+          "original_wording": "Entraigues",
+          "confidence": 0.6,
+          "source_page_id": "A_0048_L",
+          "excerpt": "We decided to go home via Entraigues, only to find our way blocked by the rally.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Sunday - church at Cassaniouze, coffee at Château la Rothe, lunch at Calvinet",
+      "date_guess": "1991-07-21",
+      "stops": [
+        {
+          "normalized_name": "Château la Rothe, near Cassaniouze, France",
+          "original_wording": "Chateau la Rothe",
+          "confidence": 0.6,
+          "source_page_id": "A_0048_R",
+          "excerpt": "We parked outside Chateau la Rothe for coffee - very symmetrical house with beautiful farm buildings, clock tower & chapel & barns.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Calvinet, France",
+          "original_wording": "Calvinet, Hotel de Beauségou / Beauzejous",
+          "confidence": 0.7,
+          "source_page_id": "A_0047_L",
+          "excerpt": "We went out to supper in Calvinet, at Hotel de Beauségou. One of the most delicious meals",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Day trip to Conques (successful) and dinner at Hôtel du Nord, Mur-de-Barrez",
+      "date_guess": "1991-07-22",
+      "stops": [
+        {
+          "normalized_name": "Conques, France",
+          "original_wording": "Conques",
+          "confidence": 0.85,
+          "source_page_id": "A_0049_L",
+          "excerpt": "Today we actually made it to Conques looked round the shops + church + had lunch in a friendly restaurant ... The tympanum is awe-inspiring",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Day trip to Estaing and Espalion",
+      "date_guess": "1991-07-24",
+      "stops": [
+        {
+          "normalized_name": "Estaing, France",
+          "original_wording": "Estaing",
+          "confidence": 0.82,
+          "source_page_id": "A_0049_R",
+          "excerpt": "We set off early on a day trip to see Estaing and Espalion. Lovely old houses, chateaux + churches.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Espalion, France",
+          "original_wording": "Espalion",
+          "confidence": 0.82,
+          "source_page_id": "A_0049_R",
+          "excerpt": "We set off early on a day trip to see Estaing and Espalion. Lovely old houses, chateaux + churches.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Kayak day on the River Lot from Entraygues",
+      "date_guess": "1991-07-25",
+      "stops": [
+        {
+          "normalized_name": "Entraygues-sur-Truyère, France",
+          "original_wording": "Entraygues",
+          "confidence": 0.78,
+          "source_page_id": "A_0050_L",
+          "excerpt": "Simon, Thomas, William + Peter set off at 9.10. in 2 double Kayaks ... taking them all 5 miles up-river to Entraygues to shoot the rapids down to here.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Laconduière",
+      "issue": "campsite place name not confidently geocodable; lies on the route between Roanne and Paris/Torcy (July 27th area) but exact location unverified",
+      "source_page_id": "A_0051_L",
+      "excerpt": "We went on to Laconduière to camp; it has a pretty out[door] swimming pool + good swings for the children."
+    },
+    {
+      "original_wording": "Beauvainville",
+      "issue": "campsite place name not confidently geocodable; on the July 29th leg between Beauvais/Crécy and the Channel; possibly a small village/municipal site in Picardy",
+      "source_page_id": "A_0052_L",
+      "excerpt": "That evening we camped at Beauvainville. We found it pretty, near a stream, flat, crowded, trees."
+    },
+    {
+      "original_wording": "Montealey (Hotel du Nord)",
+      "issue": "evening restaurant on July 23rd from Cassaniouze base; place name uncertain (possibly Mur-de-Barrez or similar in Aveyron), not confidently located so not added as an excursion stop",
+      "source_page_id": "A_0049_R",
+      "excerpt": "In the evening we went to Hotel du Nord at Montealey. It was described in the book as \"cosy\"."
+    },
+    {
+      "original_wording": "Viellievie (Hotel de la Vallée)",
+      "issue": "restaurant/locality near the River Lot used on the anniversary/canoe days; likely Vieillevie (Cantal) on the Lot but spelling uncertain; recorded here rather than guessed into the route",
+      "source_page_id": "A_0048_R",
+      "excerpt": "Hotel de la Vallée, Viellievie."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "issue": "Trip year ambiguous. trip_id and bundle date_guess say 1991, but per-page ISO date guesses in the source are inconsistent (1989, 1992, 1993). Diary day/month dates (July 13th-30th) are internally consistent; year taken as 1991 per the given trip_id.",
+      "source_page_id": "A_0042_L"
+    },
+    {
+      "issue": "mixed_end flagged in bundle: A_0052_R is a boundary page ending this trip (return ferry + drive home). The outbound start is also mid-journey - the transcribed pages open already in France near St. Illiers, so the home departure and outbound crossing are inferred.",
+      "source_page_id": "A_0052_R"
+    }
+  ],
+  "summary": "A July 1991 family camping holiday from Birmingham across the Channel to France, touring the Loire (Chartres, a Beauce windmill, Chaumont-sur-Loire, Chenonceau) before settling into lake bases at Vassivière and then a five-star site at Cassaniouze in the Auvergne. From Cassaniouze they made day trips to Conques, Estaing, Espalion and a kayak run on the River Lot from Entraygues. They returned north over the Pas de Peyrol via Vic-le-Comte, Roanne, Paris (Torcy), Beauvais and the Crécy battlefield before catching the ferry home on 30 July.",
+  "extraction_notes": "No genuine route sketch exists: the two sketch pages (A_0042_R, A_0046_R) are an architectural drawing of Chartres Cathedral and a scenic panorama of the Auvergne volcanoes respectively, with no arrows or route lines - confirmed by reading both images. Route therefore reconstructed from dated narrative (evidence level 2). Cassaniouze (seq 15) is a fixed base occupied roughly 19-26 July; the anniversary day, the July 21st church/chateau day, the July 22nd Conques visit, the July 24th Estaing/Espalion trip and the July 25th Lot kayak day all return to it and are recorded as excursions, not flattened into the main route. Both Channel crossings are inferred dover-calais (no port named either direction); confidence 0.5 each. The July 25th heading on A_0051_L is out of sequence (it follows July 27th content) and is treated as a transcription/labelling slip. Several minor localities (Laconduière, Beauvainville, Montealey, Viellievie) could not be confidently geocoded and are listed under unresolved rather than guessed."
+}

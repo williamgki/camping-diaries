@@ -1,0 +1,92 @@
+{
+  "trip_id": "2015-naseby-rushton-triangular-lodge-little-staughton",
+  "title": "Naseby, Rushton Triangular Lodge & Little Staughton (with Charles)",
+  "volume": "B",
+  "spread_range": ["B_0251", "B_0251"],
+  "diary_page_range": [251, 251],
+  "date_start": "2015-06-20",
+  "date_end": "2015-06-20",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Naseby, Northamptonshire, UK",
+      "original_wording": "Naseby",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0251_R",
+      "excerpt": "At. 10.30. Simon, Eve Charles & Tinder left for Naseby. It's a good viewpoint.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Rushton Triangular Lodge, Northamptonshire, UK",
+      "original_wording": "Triangular Lodge",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0251_R",
+      "excerpt": "Then on to the Triangular Lodge. A most odd, small building built by RC.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Little Staughton, Bedfordshire, UK",
+      "original_wording": "Little Staughton",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0251_R",
+      "excerpt": "When we got to Top End*** campsite at Little Staughton, I stayed inside while Simon + Charles sat outside + walked.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips end at home unless diary says otherwise; mixed_end flag means return is not narrated on surviving pages",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Swansea to Cardiff.",
+      "issue": "Appears at the top of B_0251_R before the trip narrative begins; likely a sports result or unrelated family note, not a place visited on this trip. No route context connects it to the Naseby/Little Staughton itinerary.",
+      "source_page_id": "B_0251_R",
+      "excerpt": "Swansea to Cardiff."
+    },
+    {
+      "original_wording": "[?Tresham] RC.",
+      "issue": "Caption on aerial photo of Triangular Lodge reads 'Built by [?Tresham] RC. after being freed from prison.' Transcription uncertain for the builder's surname — likely Sir Thomas Tresham.",
+      "source_page_id": "B_0251_L",
+      "excerpt": "Rushton Triangle Lodge 1593. Built by [?Tresham] RC. after being freed from prison."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: trip end boundary not clearly marked; return to Birmingham is inferred"
+  ],
+  "summary": "On Saturday 20 June 2015, Simon, Eve, Charles, and the dog Tinder left Birmingham at 10:30 for a day-and-overnight trip to Northamptonshire and Bedfordshire, visiting the Battle of Naseby viewpoint and the eccentric Rushton Triangular Lodge (built 1593 by the Tresham family) before stopping for the night at Top End campsite near Little Staughton, where a Ford Corsair rally was taking place. Eve had developed a cold by the time they arrived and rested inside while Simon and Charles explored.",
+  "extraction_notes": "Only one diary spread (B_0251 L+R) covers this trip; mixed_end=true means the return journey is not narrated. The phrase 'Swansea to Cardiff.' at the top of B_0251_R is unexplained — most likely a sports result (rugby or football) noted in passing, not a place on the route; logged as unresolved. The 'Top End***' campsite asterisks suggest a footnote that does not appear on the surviving page. Date is certain: Saturday June 20th 2015. Travellers confirmed as Simon, Eve, Charles, and Tinder; other sons are explicitly noted to be elsewhere."
+}

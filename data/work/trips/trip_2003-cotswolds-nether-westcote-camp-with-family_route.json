@@ -1,0 +1,118 @@
+{
+  "trip_id": "2003-cotswolds-nether-westcote-camp-with-family",
+  "title": "Cotswolds: Nether Westcote camp with family",
+  "volume": "B",
+  "spread_range": ["B_0009", "B_0010"],
+  "diary_page_range": [9, 10],
+  "date_start": "2003-08-23",
+  "date_end": "2003-08-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Helen", "William", "Bryony"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Becketts Farm, Worcestershire",
+      "original_wording": "Beckett's Farm",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0009_R",
+      "excerpt": "We stopped at Beckett's Farm for food.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Wythall" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Nether Westcote, Oxfordshire",
+      "original_wording": "Nether Westcote",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0009_R",
+      "excerpt": "We reached Nether Westcote at 12.45. It's a village, one of several, on the row of springs half way up the line of hills.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Birmingham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0010_L",
+      "excerpt": "Monday — We chatted & had coffee & left at 11.30., bringing Aylan back to Birmingham",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Sunday walk: Sledington (Bledington), River Evenlode, Idbury; supper at New Inn",
+      "date_guess": "2003-08-24",
+      "stops": [
+        {
+          "normalized_name": "Bledington, Oxfordshire",
+          "original_wording": "Sledington",
+          "confidence": 0.75,
+          "approximate": false,
+          "source_page_id": "B_0010_L",
+          "excerpt": "We went through Sledington & Simon found a marvellous place for a picnic under a huge shady tree, by the R. Evenlode.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "River Evenlode, Oxfordshire",
+          "original_wording": "R. Evenlode",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0010_L",
+          "excerpt": "Simon found a marvellous place for a picnic under a huge shady tree, by the R. Evenlode.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Idbury, Oxfordshire",
+          "original_wording": "Idbury",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0010_L",
+          "excerpt": "We walked back out of the valley by road passing through Idbury.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "New Inn, Nether Westcote",
+          "original_wording": "New Inn",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0010_L",
+          "excerpt": "In the evening we had supper at the New Inn, our campsite pub.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Dylan] / [?Aylan]",
+      "issue": "Person's name uncertain in transcription — appears as '[?Dylan]' on B_0009_R and 'Aylan' on B_0010_L; likely the same individual but identity unconfirmed.",
+      "source_page_id": "B_0009_R",
+      "excerpt": "Simon, John, Charles, Eve + Helen set off to go to the Cotswolds to camp with David, Jean + [?Dylan]"
+    }
+  ],
+  "boundary_flags": [
+    "B_0009_R begins mid-page with end of a previous trip (Ashford/train/M25 text); this trip starts at the 'Saturday August 23rd' heading.",
+    "B_0010_L ends mid-page; Monday return to Birmingham is the last entry for this trip."
+  ],
+  "summary": "A short August bank-holiday weekend camping trip to Nether Westcote in the Oxfordshire Cotswolds, with a family gathering including friends David, Jean, Tim, Margaret and others. The group enjoyed a Sunday walk down into the Evenlode valley via Bledington, returning through Idbury, and ate at the New Inn campsite pub.",
+  "extraction_notes": "The date Saturday 23 August 2003 is confirmed (23 Aug 2003 was a Saturday). 'Beckett's Farm' is almost certainly Becketts Farm at Wythall, a well-known farm shop on the A435 south of Birmingham on the route to the Cotswolds. 'Sledington' is very likely Bledington — a village on the River Evenlode close to Nether Westcote — the spelling may reflect the diarist's phonetic rendering or mishearing of the name. The person named '[?Dylan]' on B_0009_R appears as 'Aylan' on B_0010_L; treated as unresolved since the name is uncertain. Helen is listed as a traveller departing from Birmingham (named alongside Simon, John, Charles, Eve on B_0009_R) but is not otherwise identified in the family list. No ferry crossings — entirely domestic trip."
+}

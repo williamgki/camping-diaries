@@ -1,0 +1,96 @@
+{
+  "trip_id": "2022-redditch-brook-house-farm-errand-hay",
+  "title": "Redditch/Brook House Farm errand & Hay Festival (Hay on Wye)",
+  "volume": "B",
+  "spread_range": ["B_0362", "B_0362"],
+  "diary_page_range": [63, 63],
+  "date_start": "2022-03-31",
+  "date_end": "2022-05-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0362_R",
+      "excerpt": "Home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Thursday March 31st errand: Redditch and Brook House Farm",
+      "date_guess": "2022-03-31",
+      "stops": [
+        {
+          "normalized_name": "Redditch, UK",
+          "original_wording": "Redditch",
+          "role": "transit_stop",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0362_R",
+          "excerpt": "Simon & Tinder & I set off for Redditch & Simon got more material & more wood for things in the van.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Brook House Farm, Worcestershire, UK",
+          "original_wording": "Brook House Farm",
+          "role": "main_stop",
+          "confidence": 0.9,
+          "approximate": true,
+          "source_page_id": "B_0362_R",
+          "excerpt": "On to Brook House Farm, where Simon met Robert in the hop barn. Johnnie & Penny were there.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "Sunday 29th May: Hay Festival, Hay on Wye",
+      "date_guess": "2022-05-29",
+      "stops": [
+        {
+          "normalized_name": "Hay-on-Wye, UK",
+          "original_wording": "Hay on Wye",
+          "role": "main_stop",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0362_R",
+          "excerpt": "Simon, Eve Tinder set off at 9.15, for Hay on Wye. William & family saw a Lenny Henry talk.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Elms",
+      "issue": "Mentioned as the origin of a pony ('the Elms pony that Nina borrows in the holidays') — likely a local farm or riding establishment near Brook House Farm, not a distinct travel stop. Not geocoded as a route stop.",
+      "source_page_id": "B_0362_R",
+      "excerpt": "After lunch we saw Eller, the Elms pony that Nina borrows in the holidays."
+    }
+  ],
+  "boundary_flags": [
+    "Page B_0362_R has mixed_start=false, mixed_end=true: the page begins with the end of a previous trip ('We reached home before lunch...') and ends mid-sentence ('We return to van'), suggesting the Hay Festival entry continues onto a subsequent page not included in this bundle."
+  ],
+  "summary": "Two separate day trips recorded on a single diary page: on 31 March 2022, Simon, Eve and Tinder made an errand run to Redditch for materials and then visited Brook House Farm (hop barn, meeting Robert, Johnnie and Penny); on 29 May 2022, the family (Simon, Eve, Tinder, plus William, John, Peter and Thomas with their families) attended the Hay Festival at Hay on Wye, watching a Lenny Henry talk. Both trips were day outings from Birmingham with no overnight stays.",
+  "extraction_notes": "This page bundle covers two distinct and temporally separate day trips (31 March and 29 May 2022) that happen to share a page. Neither involved an overnight stop away from home, so the main route is simply home-to-home and both outings are modelled as excursions. 'Elms' is flagged unresolved — it appears to be the name of a farm or yard from which a pony is borrowed, not a visited location. The Hay Festival entry ends with 'We return to van' and mixed_end=true, suggesting the diary continues on the next page; the full extent of the May trip may not be captured here. Brook House Farm has been tentatively placed in Worcestershire given the hop-barn context and known family connections in that area, but the county is approximate. Travellers listed are only those explicitly named on this page; other family members may have been present for the March errand."
+}

@@ -1,0 +1,73 @@
+{
+  "trip_id": "2017-bromyard-belmont-abbey-charles-jenny-s",
+  "title": "Bromyard / Belmont Abbey (Charles & Jenny's Wedding)",
+  "volume": "B",
+  "spread_range": ["B_0292", "B_0293"],
+  "diary_page_range": [112, 112],
+  "date_start": "2017-07-28",
+  "date_end": "2017-07-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bromyard, Herefordshire, UK",
+      "original_wording": "Bromyard",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0292_R",
+      "excerpt": "Eve drove red jazz to farm. Simon drove camping van + parked in farm yard.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Charles & Jenny's wedding at Belmont Abbey",
+      "date_guess": "2017-07-29",
+      "stops": [
+        {
+          "normalized_name": "Belmont Abbey, Hereford, UK",
+          "original_wording": "Belmont Abbey",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "B_0292_R",
+          "excerpt": "Saturday Hooray! Charles' + Jenny's wedding at Belmont Abbey. Reception at the top of the hill at the farm.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "B_0292_R is boundary_mixed: the first section (Sunday June 4th) belongs to a different trip; only the Friday July 28th / Bromyard section is part of this trip.",
+    "B_0293_L is boundary_mixed: the Sunday Bryony lunch entry and the Friday August 4th Norwich/Seamark entry belong to different trips and are not part of this trip."
+  ],
+  "summary": "Simon and Eve drove to a farm near Bromyard, Herefordshire (Simon in the camping van, Eve in the Jazz) for son Charles's wedding to Jenny at Belmont Abbey on Saturday 29 July 2017. Despite torrential rain and a series of mishaps — a puncture, a broken trailer axle, flat tyre, and cars skidding into trees — the party was an unqualified success.",
+  "extraction_notes": "The date parser assigned ISO year 2006 to both dates on B_0292_R, but the trip_id is 2017 and internal evidence (Charles and Jenny's wedding) confirms 2017. Friday July 28th = 2017-07-28. The farm is not named but given the recurring 'Bromyard' heading and the heading on the page it is near Bromyard; it is likely Kate & Jamie's farm (referenced in the 1995 Bromyard trip). Belmont Abbey is located about 3 miles SW of Hereford city centre. The return to Birmingham is not explicitly stated but is the standard trip pattern. B_0293_L content (Bryony lunch / Norwich / Seamark / Dolphin) is an entirely separate trip and has been excluded."
+}

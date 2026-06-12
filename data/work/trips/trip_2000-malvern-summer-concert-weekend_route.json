@@ -1,0 +1,65 @@
+{
+  "trip_id": "2000-malvern-summer-concert-weekend",
+  "title": "Malvern Summer Concert Weekend",
+  "volume": "A",
+  "spread_range": ["A_0281", "A_0281"],
+  "diary_page_range": [281, 281],
+  "date_start": "2000-05-26",
+  "date_end": "2000-05-27",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malvern, Worcestershire",
+      "original_wording": "Malvern",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0281_R",
+      "excerpt": "Simon & Eve, John & Charles drove down to the Malvern summer concert. Peter played the viola. We slept outside No 7. It was very cold in the night.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Malvern, Worcestershire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.75,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Trips start and end at home unless the diary says otherwise; the entry cuts off mid-sentence but a return to Birmingham after a weekend concert is the expected conclusion.",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "No 7",
+      "issue": "Slept 'outside No 7' — likely a college house or address at Malvern College (where Peter was a pupil playing viola), but the exact building or address cannot be confirmed from the diary text.",
+      "source_page_id": "A_0281_R",
+      "excerpt": "We slept outside No 7. It was very cold in the night."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: A_0281_R has boundary_mixed=true; the opening paragraph (American Museum, carpark tea, dropping John at Malvern) belongs to the preceding Bath trip (2000-bath-roman-baths-american-museum-limpley). The Malvern concert entry begins at 'Friday May 26th'.",
+    "mixed_end: The entry cuts off mid-sentence ('After the service & speeches in'); no further pages are in the bundle. Return to Birmingham is inferred."
+  ],
+  "summary": "A weekend trip from Birmingham to Malvern on Friday 26 May 2000, with Simon, Eve, John and Charles attending the Malvern summer concert where Peter performed on viola. They slept overnight in the open (outside 'No 7', very cold) and attended a service and speeches before returning home.",
+  "extraction_notes": "Only one diary page (A_0281_R) is in the bundle, and it has mixed_start=true — the opening lines about the American Museum and dropping John at Malvern belong to the previous Bath trip. The Malvern concert entry is brief and cuts off mid-sentence at the page boundary; no other pages are available. Peter is mentioned as playing the viola at the concert but is not listed as a traveller since he was presumably already at Malvern (the diary says they 'drove down', implying Peter was already there). 'No 7' is unresolved — most likely a house or building at Malvern College. The date 2000-05-26 is taken directly from the diary heading 'Friday May 26th'; year 2000 is confirmed by the trip_id and the date falling on a Friday."
+}

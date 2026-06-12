@@ -1,0 +1,82 @@
+{
+  "trip_id": "1996-doncaster-puppy-appleby-magna-day-trip",
+  "title": "Doncaster (puppy) / Appleby Magna day trip",
+  "volume": "A",
+  "spread_range": ["A_0179", "A_0179"],
+  "diary_page_range": [179, 179],
+  "date_start": "1996-06-16",
+  "date_end": "1996-06-16",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "East Midlands Airport, UK",
+      "original_wording": "East Midlands airport",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0179_L",
+      "excerpt": "lunched near East Midlands airport",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Doncaster, UK",
+      "original_wording": "near Doncaster",
+      "role": "main_stop",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0179_L",
+      "excerpt": "We are on our way to see the puppy … They were lovely, nearly a month old. We chose a dark blue one, who was the most friendly. (near Doncaster)",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Appleby Magna, Leicestershire, UK",
+      "original_wording": "Appleby Magna or [?Barva]",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0179_L",
+      "excerpt": "Tea at Appleby Magna or [?Barva] on the way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[?Barva]",
+      "issue": "Uncertain place name alongside Appleby Magna; possibly a nearby village such as Barwell or Barton in the Beans (Leicestershire), but cannot be confirmed from the text.",
+      "source_page_id": "A_0179_L",
+      "excerpt": "Tea at Appleby Magna or [?Barva] on the way home."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A Sunday day trip on 16 June 1996, collecting Peter from church and driving north to see a litter of puppies near Doncaster, where the family chose their new dog. Tea was taken at Appleby Magna on the return journey to Birmingham.",
+  "extraction_notes": "The diary page A_0179_L contains two distinct diary entries: the 1996 day trip (June 16th) and a separate 1997 Thorpeness holiday entry (13th July). Only the June 16th entry belongs to this trip bundle. The puppy location is described only as 'near Doncaster' so the stop is marked approximate. The place '[?Barva]' alongside Appleby Magna is uncertain and logged as unresolved; Appleby Magna is the named location and is used for the stop. 'Peter' here is the family's son Peter, collected from church (Sung Eucharist). The mention of East Midlands Airport is as a lunch landmark, not a flight stop."
+}

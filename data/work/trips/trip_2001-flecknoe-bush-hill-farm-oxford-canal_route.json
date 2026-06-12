@@ -1,0 +1,124 @@
+{
+  "trip_id": "2001-flecknoe-bush-hill-farm-oxford-canal",
+  "title": "Flecknoe (Bush Hill Farm), Oxford Canal villages",
+  "volume": "A",
+  "spread_range": ["A_0295", "A_0296"],
+  "diary_page_range": [null, null],
+  "date_start": "2001-06-22",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Flecknoe, Warwickshire, UK",
+      "original_wording": "Flecknoe",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0295_R",
+      "excerpt": "We set off just after 6 for Flecknoe. It's a village east of Leamington Spa. It's on an amazing flat hill: fantastic views from our field on 3 sides of the camping van, including the radio masts at Daventry & a farm at the end of the field.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Campsite: Bush Hill Farm. Stayed at least Friday 22 June to Sunday 24 June 2001."
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Return home inferred; diary ends mid-trip on Sunday morning. mixed_end: true."
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday bike ride along Oxford Canal towpath and roads",
+      "date_guess": "2001-06-23",
+      "stops": [
+        {
+          "normalized_name": "Lower Shuckburgh, Warwickshire, UK",
+          "original_wording": "Lower Shuckborough",
+          "confidence": 0.95,
+          "source_page_id": "A_0295_R",
+          "excerpt": "We set off on a bike ride along the canal tow path which was not in good repair. So after that we went along roads. We went through Lower Shuckborough, [?Around] Grandborough, Sawbridge, Wolfhamcote, & back to Flecknoe. Lower Shuckborough has",
+          "geocode_hint": { "countrycodes": "gb" },
+          "notes": "Has a fine church with double dog-tooth arches and wooden roof; they were let in by a woman doing flowers."
+        },
+        {
+          "normalized_name": "Grandborough, Warwickshire, UK",
+          "original_wording": "Grandborough",
+          "confidence": 0.95,
+          "source_page_id": "A_0296_L",
+          "excerpt": "At Grandborough we had a good lunch at \"the Shoulder of Mutton\". Simon had home-baked ham, Eve had scampi Charles had Riche. There was a pond.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Sawbridge, Warwickshire, UK",
+          "original_wording": "Sawbridge",
+          "confidence": 0.85,
+          "source_page_id": "A_0295_R",
+          "excerpt": "We went through Lower Shuckborough, [?Around] Grandborough, Sawbridge, Wolfhamcote, & back to Flecknoe.",
+          "geocode_hint": { "countrycodes": "gb" },
+          "notes": "Named in route list but no detail given; passed through on bike ride."
+        },
+        {
+          "normalized_name": "Wolfhamcote, Warwickshire, UK",
+          "original_wording": "Wolfhamcote",
+          "confidence": 0.95,
+          "source_page_id": "A_0296_L",
+          "excerpt": "Wolfhamcote is deserted. The canal had an extra spur there. The fine stone church is closed up.",
+          "geocode_hint": { "countrycodes": "gb" },
+          "notes": "Deserted medieval village; fine stone church closed up; canal had an extra spur there."
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sunday morning bike ride to Wolfhamcote church along Oxford Canal",
+      "date_guess": "2001-06-24",
+      "stops": [
+        {
+          "normalized_name": "Wolfhamcote, Warwickshire, UK",
+          "original_wording": "Wolfhamcote",
+          "confidence": 0.95,
+          "source_page_id": "A_0296_R",
+          "excerpt": "By 9.30. we were at Wolfhamcote church, where we left the van + cycled off. The church Key is kept in a box at the manor house, so we were able to see inside. It's very beautiful.",
+          "geocode_hint": { "countrycodes": "gb" },
+          "notes": "Church key kept at manor house; they were able to see inside on Sunday morning. Diary cuts off here."
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Around] Grandborough",
+      "issue": "Transcription uncertainty: the word before 'Grandborough' is unclear — possibly 'Around' or a place name. Likely just the word 'around' as a preposition rather than a place.",
+      "source_page_id": "A_0295_R",
+      "excerpt": "We went through Lower Shuckborough, [?Around] Grandborough, Sawbridge, Wolfhamcote, & back to Flecknoe."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0295_R begins with end of previous trip (May 30th return home entry) before this trip starts on Friday June 22nd.",
+    "mixed_end: diary cuts off mid-Sunday morning narrative; return date unknown."
+  ],
+  "summary": "A short summer weekend camping trip (Friday 22 – Sunday 24 June 2001) to Bush Hill Farm at Flecknoe, a village on a hilltop east of Leamington Spa in Warwickshire, with fantastic views towards Daventry. Simon, Eve and Charles (William being in Guatemala) spent Saturday on a 10-mile bike ride along the Oxford Canal towpath and local roads through Lower Shuckburgh, Grandborough, Sawbridge and Wolfhamcote, and Sunday morning visited the beautiful medieval church at deserted Wolfhamcote.",
+  "extraction_notes": "William explicitly absent (in Guatemala). Thomas, Peter, John not mentioned — uncertain whether they attended; only Simon, Eve and Charles are named in the narrative. Tinder the dog (here called 'Tonic' in one spelling — likely same dog) rode in a bike bag and ran on the lead for about 8 miles on Saturday. The page A_0295_R begins mid-sentence with the end of a previous trip; this trip starts at 'Friday June 22nd.' The diary cuts off mid-Sunday morning. The glued-in Oxford Canal pictorial map postcard on A_0296_R is a souvenir, not a hand-drawn route sketch. No crossings — entirely domestic UK trip."
+}

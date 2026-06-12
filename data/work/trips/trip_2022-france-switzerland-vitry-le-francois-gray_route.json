@@ -1,0 +1,260 @@
+{
+  "trip_id": "2022-france-switzerland-vitry-le-francois-gray",
+  "title": "France, Switzerland & Italy: Vitry-le-François, Gadmen & Pavia",
+  "volume": "B",
+  "spread_range": ["B_0366", "B_0373"],
+  "diary_page_range": [68, 72],
+  "date_start": "2022-06-17",
+  "date_end": "2022-06-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR", "CH", "IT"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Kent, UK",
+      "original_wording": "our usual Kent campsite",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0366_L",
+      "excerpt": "We had a good supper at the Plough in our usual Kent campsite",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Dover",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.6,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no port named, only 'we left for France'",
+      "source_page_id": "B_0366_L",
+      "excerpt": "Friday 17th June at 7.30. we left for France. Lots of lorries in layby, Bad queueing system.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Vitry-le-François, France",
+      "original_wording": "Vitry la France",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0366_L",
+      "excerpt": "We motored south east + spent the night at Camping à la Nature [dt?] A Ventra walk before bed. near Vitry la France, Luce Mont + Villotte.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Gray, France",
+      "original_wording": "Gray",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0366_L",
+      "excerpt": "We drove 4 hours to Gray + had lunch at the Brasserie overlooking the weir. A boat went down the lock.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Les Hôpitaux-Neufs, France",
+      "original_wording": "Miroir at Los Hopitsaux Neufs",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0366_L",
+      "excerpt": "then on to St. Point Lake. First campsite is full... We found a campsite higher in the hills. Miroir at Los Hopitsaux Neufs. 5 villages make up a ski resort lovely small valley.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Gadmen, Switzerland",
+      "original_wording": "Gadmen",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0366_R",
+      "excerpt": "We left at 8.50. Into Switzerland... Past Bern... Past Interlaken. We reached Gadmen village + the campsite + had lunch.",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Susten Pass, Switzerland",
+      "original_wording": "Susten Pass",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0367_L",
+      "excerpt": "We set off in the direction we had been cycling. Glaciers. Through the Susten pass. V [?beautiful] but dangerous bends, some straight after tunnels.",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Gotthard Road Tunnel, Switzerland",
+      "original_wording": "St. Gotthard Tunnel",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0367_L",
+      "excerpt": "we zigzagged down, going through Dorfi ([?Ibdis] village?) + south through the St. Gotthard Tunnel. 17R long.",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Como, Italy",
+      "original_wording": "near Como",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0367_L",
+      "excerpt": "On along complicated fast roads, past Lake Lugano + near Como. We went to the Fiamma huge shop that made the awning that broke.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Pavia, Italy",
+      "original_wording": "Pavia",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0367_R",
+      "excerpt": "On the to Pavia. Yoga, shower, supper, walk. We passed poplar plantations and [green] rice paddy fields.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Certosa di Pavia, Italy",
+      "original_wording": "Certosa",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0370_L",
+      "excerpt": "We drove to Certosa + the fridge is working again. Certosa is a monastery set up in [?C4] by Visconti family.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Pian del Voglio, Italy",
+      "original_wording": "Pian' del Voglio",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0371_R",
+      "excerpt": "We camped after a long, horrible, 4 hour journey (flat crowded motorways) at 'Pian' del Voglio, a lovely rural campsite downhill from the village... At Relax campsite (vg)",
+      "geocode_hint": { "countrycodes": "it" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "B_0366_L",
+      "excerpt": "Friday 17th June at 7.30. we left for France. Lots of lorries in layby, Bad queueing system."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 11,
+      "label": "Cycle into Pavia (churches & cathedral)",
+      "date_guess": "2022-06-22",
+      "stops": [
+        {
+          "normalized_name": "Basilica of San Michele Maggiore, Pavia, Italy",
+          "original_wording": "St. Michael Major church",
+          "confidence": 0.85,
+          "source_page_id": "B_0367_R",
+          "excerpt": "We cycled into Pavia + went to St. Michael Major church then the cathedral",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "Pavia Cathedral, Italy",
+          "original_wording": "the cathedral",
+          "confidence": 0.8,
+          "source_page_id": "B_0367_R",
+          "excerpt": "then the cathedral - dome work[ed] in by [Leonardo + Bramante?] - impressive marble. We went on to the big square.",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "San Teodoro, Pavia, Italy",
+          "original_wording": "St. Tadeo / St. Tades",
+          "confidence": 0.75,
+          "source_page_id": "B_0367_R",
+          "excerpt": "We saw huge square tower (why built?) in the university quarter + finished our visit at St. Tadeo.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    },
+    {
+      "base_seq": 11,
+      "label": "Cycle back to Pavia (St Tades, San Pietro, the Castle)",
+      "date_guess": "2022-06-23",
+      "stops": [
+        {
+          "normalized_name": "San Teodoro, Pavia, Italy",
+          "original_wording": "St. Tades",
+          "confidence": 0.8,
+          "source_page_id": "B_0368_R",
+          "excerpt": "We go back to St. Tades to look at more of the paintings. It's a friendly church.",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "San Pietro in Ciel d'Oro, Pavia, Italy",
+          "original_wording": "Chiesa di San Pietro in Ciel d'Oro",
+          "confidence": 0.85,
+          "source_page_id": "B_0368_R",
+          "excerpt": "On we went to Chiesa di San Pietro in Ciel d'Oro where Tomb of St Augustine is. V. ornate.",
+          "geocode_hint": { "countrycodes": "it" }
+        },
+        {
+          "normalized_name": "Castello Visconteo, Pavia, Italy",
+          "original_wording": "the Castle built by the Visconti Family",
+          "confidence": 0.8,
+          "source_page_id": "B_0368_R",
+          "excerpt": "Then we cycled on to the Castle built by the Visconti Family. There is a large archeological museum + art gallery.",
+          "geocode_hint": { "countrycodes": "it" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Luce Mont + Villotte",
+      "issue": "minor places listed alongside Vitry-le-François as locating the first French campsite (Camping à la Nature); likely Luzy-Saint-Martin / Villotte area but not precisely placeable. Treated as context for the Vitry base rather than separate stops.",
+      "source_page_id": "B_0366_L",
+      "excerpt": "near Vitry la France, Luce Mont + Villotte."
+    },
+    {
+      "original_wording": "Groenwald",
+      "issue": "place seen 'off to right' while driving past Bern toward Interlaken; not stopped at and not confidently identifiable (possibly Grünenwald/Grindelwald direction). Mention only, not a stop.",
+      "source_page_id": "B_0366_R",
+      "excerpt": "Past Bern. Groenwald off to right. Past Interlaken"
+    },
+    {
+      "original_wording": "Dorfi ([?Ibdis] village?)",
+      "issue": "village named while zigzagging down after the Susten Pass; uncertain transcription and location, passed through only.",
+      "source_page_id": "B_0367_L",
+      "excerpt": "we zigzagged down, going through Dorfi ([?Ibdis] village?)"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0366_L opens with a supper at the family's usual Kent campsite before the Friday 17 June departure for France; the Kent stay is included as the first overnight base of this trip.",
+    "Several page dates in the source bundle were mis-parsed to 2016 (Tuesday, Wednesday June 22nd, Thursday) but the narrative is continuous from Friday 17 June 2022; ISO dates corrected to 2022 by day-of-week sequence."
+  ],
+  "summary": "A June 2022 motorhome/cycling tour from Birmingham via a Kent campsite and the Channel into France, with overnight stops near Vitry-le-François and Les Hôpitaux-Neufs (St Point Lake), then over into Switzerland to camp at Gadmen. The family crossed the Susten Pass and St Gotthard Tunnel into Italy, settling for several days at Pavia (cathedral, San Michele, San Pietro in Ciel d'Oro, the Visconti castle and Certosa monastery) before moving to the rural Camping Relax at Pian del Voglio in the Apennines.",
+  "extraction_notes": "Route reconstructed from continuous dated narrative; no sketch or index entry available. Travellers appear to be just Simon and Eve (the parents) — the children (incl. Charles, who phones) are referenced as elsewhere, and one passage notes all five grandchildren starting school, so only the two adults are listed. Mountain passes/tunnels (Susten, St Gotthard) are modelled as transit_stops within the road journey, not as sea/port crossings. Como/Lugano recorded as a transit_stop where they detoured to the Fiamma awning shop. The diary ends mid-trip at Pian del Voglio (Saturday 25 June) with no return-home narrative (mixed_end=false), so no return leg or homeward crossing is asserted."
+}

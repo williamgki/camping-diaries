@@ -1,0 +1,63 @@
+{
+  "trip_id": "2020-ross-on-wye-new-house-farm",
+  "title": "Ross on Wye: New House Farm",
+  "volume": "B",
+  "spread_range": ["B_0337", "B_0337"],
+  "diary_page_range": [38, 38],
+  "date_start": "2020-07-10",
+  "date_end": "2020-07-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "New House Farm, Ross-on-Wye, UK",
+      "original_wording": "New House Farm, near Ross on Wye",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0337_R",
+      "excerpt": "Simon & Eve & Tinder set off at 3.30, to near Ross on Wye. The site is on a farm, New House Farm, a nice, small, sunken field.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Ross-on-Wye, Herefordshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0337_R",
+      "excerpt": "set off for John & Kay & Eben",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "John & Kay & Eben",
+      "issue": "Saturday departure destination — these are personal names (John, Kay and Eben), not a place name; location unknown. Could be a family visit stop between Ross-on-Wye and home, or elsewhere. Trip may not have ended directly at Birmingham.",
+      "source_page_id": "B_0337_R",
+      "excerpt": "We walked up & down an old track & set off for John & Kay & Eben."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0337 contains content from a preceding entry (Peter's dads-and-lads camping near High Wycombe) before this trip's narrative begins",
+    "mixed_end: page B_0337 ends mid-narrative; the trip may continue onto a subsequent page not captured in this bundle"
+  ],
+  "summary": "A short overnight trip by Simon and Eve (with dog Tinder) to New House Farm campsite near Ross on Wye in Herefordshire, departing from Birmingham on the afternoon of Friday 10 July 2020 and setting off the following morning. The Saturday destination — 'John & Kay & Eben' — is a personal names reference and could not be resolved to a place.",
+  "extraction_notes": "Single-page extract (B_0337_R); boundary_mixed is true on both sides. The first part of the page describes a separate camping trip by Peter and others near High Wycombe — that is NOT part of this trip. Only Simon, Eve and Tinder are named as participants here. The Saturday departure 'for John & Kay & Eben' is unresolved (people not place). Return to Birmingham is inferred as the implied trip end. No crossings, no day excursions mentioned."
+}

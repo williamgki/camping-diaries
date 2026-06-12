@@ -1,0 +1,265 @@
+{
+  "trip_id": "1994-cornwall-upton-festival-st-ives-lizard",
+  "title": "Cornwall: Upton Festival, St Ives & the Lizard (Simon & Eve)",
+  "volume": "A",
+  "spread_range": ["A_0120", "A_0125"],
+  "diary_page_range": [35, 40],
+  "date_start": "1994-04-30",
+  "date_end": "1994-05-07",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Upton-upon-Severn, UK",
+      "original_wording": "Upton",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0120_L",
+      "excerpt": "We dropped William & Justin at Blue Goat & set off to hear Thomas in concert at __Upton__ music & arts festival.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Welland, Worcestershire, UK",
+      "original_wording": "The Anchor Pub, near Welland",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0120_L",
+      "excerpt": "We spent the night at __The Anchor Pub__, near Welland, + had a drink at the pub.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Altarnun, Cornwall, UK",
+      "original_wording": "Altarnun [near Launceston]",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0120_R",
+      "excerpt": "We went on down to motorway & camped near Launceston at __Altarnun__ [?] ugly.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Delabole, Cornwall, UK",
+      "original_wording": "Delabole",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0120_R",
+      "excerpt": "We stopped at __Delabole__ wind farm. Each blade 16 m. long.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Polzeath, Cornwall, UK",
+      "original_wording": "Polzeath [promontory NE of Hayle Bay]",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0120_R",
+      "excerpt": "We took a picnic lunch on a 3 mile walk around the promontory NE of Hayle Bay. It was a glorious afternoon. Polzeath.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "St Columb Major, Cornwall, UK",
+      "original_wording": "Trekenning Manor, St. Columb",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0120_R",
+      "excerpt": "On to camp at Trekenning Manor, St. Columb.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Truro, Cornwall, UK",
+      "original_wording": "Truro",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0121_L",
+      "excerpt": "At __Truro__ the rain stopped leaving a blustery day. We visited the cathedral, mock Gothic, Bath stone & granite, 1910.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "St Ives, Cornwall, UK",
+      "original_wording": "St. Ives, camped at Ayr",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0121_L",
+      "excerpt": "We drove on to __St. Ives__ & camped at Ayr * * * high on the hill, looking down onto the enormous cemeteries, the new art Gallery St. Ives Tate.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "St Just, Cornwall, UK",
+      "original_wording": "St. Just",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0122_R",
+      "excerpt": "St. Just has an old, grass-covered circle/ amphitheatre where Mystery Plays were performed.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Bosavern, St Just, Cornwall, UK",
+      "original_wording": "Bosavern",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0122_R",
+      "excerpt": "Our evening campsite is called Bosavern. We are camped in a beautiful lawned garden.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Penzance, Cornwall, UK",
+      "original_wording": "Penzance [via Newlyn]",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0123_L",
+      "excerpt": "We dropped out of the cloud down to Newlyn where the art gallery is being refurbished for another week, & on into __Penzance__.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Geevor Tin Mine, Pendeen, Cornwall, UK",
+      "original_wording": "Geevor tin mine ... underground at Zennot [Zennor]",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0123_R",
+      "excerpt": "We arrived at the Geevor tin mine & went underground at Zennot. We were taken round by 2 retired tin miners. 3 hours.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Land's End, Cornwall, UK",
+      "original_wording": "lands End",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0124_L",
+      "excerpt": "Afterwards we went to lands End a disastrous excursion where we were charged £6 for looking at the sea.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Mullion Cove, Cornwall, UK",
+      "original_wording": "Mullions Cove, Griga Mill",
+      "role": "overnight_base",
+      "confidence": 0.82,
+      "approximate": false,
+      "source_page_id": "A_0124_L",
+      "excerpt": "We carried on to Mullions Cove, Griga Mill. One of the prettiest places we've seen, with nice looking chalets. The mill race runs beside the campsite.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Lizard Point, Cornwall, UK",
+      "original_wording": "Lizard",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0124_L",
+      "excerpt": "We left to go down the __Lizard__ further. We parked & had a 3½ hour walk around the Point. ... We passed the lighthouse, where there has been a light since 1752.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Trebah Garden, Cornwall, UK",
+      "original_wording": "Trebarh Gardens",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0124_R",
+      "excerpt": "We had tea in a layby & went to __Trebarh Gardens__. It was spectacular - designed in 1826 by Charles Fox. ... Fine sailing in Helston estuary.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Liskeard, Cornwall, UK",
+      "original_wording": "Trethen Meanor, Liskeard",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0125_L",
+      "excerpt": "We drove east + ended up having a good supper at the Stag at Liskeard before camping at Trethen Meanor, Liskeard.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Saltash, Cornwall, UK",
+      "original_wording": "Saltash, R. Tamar (Tamar Bridge / Brunel's bridge)",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0125_L",
+      "excerpt": "[sketch] TAMAR BRIDGE 1961 / I.K. BRUNEL ENG. 1859 / R. Tamar ... Saltash. Exciting to see the Tamar. Brunel's bridge, lots not written.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0125_L",
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Return to Upton for church",
+      "date_guess": "1994-05-01",
+      "stops": [
+        {
+          "normalized_name": "Upton-upon-Severn, UK",
+          "original_wording": "Upton",
+          "confidence": 0.9,
+          "source_page_id": "A_0120_L",
+          "excerpt": "May 1st We returned to Upton to go to church. I really like Upton.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "issue": "mixed_start: page A_0120_L opens with a leftover paragraph dated 'Saturday 23rd April' describing a PRIOR trip (mountain scenery, 'Rhinrian', picking up Clare Portal, others returning from Holland / a Stratford wedding). This is NOT part of the Cornwall trip, which begins 'Saturday 30th April __Just Simon + Eve!__'.",
+      "source_page_id": "A_0120_L"
+    },
+    {
+      "issue": "mixed_end: spread A_0125 (Saltash/Tamar bridge sketch and Trebah photo captions) marks the homeward county boundary crossing back into Devon; the next trip's content may follow.",
+      "source_page_id": "A_0125_R"
+    }
+  ],
+  "summary": "A spring 1994 Cornwall touring holiday for just Simon and Eve. They set off from Birmingham via the Upton-upon-Severn music & arts festival (to hear Thomas in concert), overnighting near Welland, then drove down into Cornwall for a week of moving campsites: Altarnun, St Columb (Trekenning), St Ives (Ayr), St Just (Bosavern), Mullion Cove and Liskeard. Highlights included Delabole wind farm, Truro cathedral, the St Ives Tate and Hepworth galleries, the Geevor tin mine, Land's End, a walk around Lizard Point, and Trebah Garden, before crossing the Tamar at Saltash to head home.",
+  "extraction_notes": "Touring trip with a different campsite most nights, so most places are modelled as main_route main_stops/overnight_bases rather than excursions. Overnight-base chronology: Apr 30 = Anchor Pub near Welland; May 1 = Altarnun (near Launceston); May 2 = Trekenning Manor, St Columb; May 3-? = Ayr, St Ives; May 4 = Bosavern, St Just; May 5 = Mullion Cove (Griga Mill); May 6 = Trethen Manor, Liskeard. The trip bundle JSON transcribed the St Columb campsite as 'Trelowarren Manor', but the sketch-page image (A_0120_R) clearly reads 'Trekenning Manor, St. Columb' (Trelowarren is a different estate near Helston, far south); per the evidence hierarchy I used the image reading. 'Griga Mill' at Mullion Cove is an uncertain campsite name (likely Trenance/Trenance Mill area) but Mullion Cove itself is firm. The Tamar crossing at Saltash is a road bridge / county boundary (Cornwall->Devon), NOT a sea crossing, so no ferry is recorded; the A_0125_L sketch is a landmark drawing of Brunel's Royal Albert Bridge, used as evidence for the homeward leg. The A_0120_R sketch is a landscape view of the Malvern Hills (coffee before church on May 1/2), confirming the Malvern area, not a route-order map. No explicit return-home date is given; date_end 1994-05-07 is inferred as the day after camping at Liskeard on May 6 (Friday) and crossing the Tamar homeward. Index entry was null. 'Rhinrian', 'Holland' and 'Stratford' belong to the leftover prior-trip paragraph and are excluded as stops."
+}

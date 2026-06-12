@@ -1,0 +1,149 @@
+{
+  "trip_id": "2021-harlech-llandanwg-shell-island-lake-vyrnwy",
+  "title": "Harlech / Llandanwg, Shell Island, Lake Vyrnwy, St. Melangell's",
+  "volume": "B",
+  "spread_range": ["B_0353", "B_0355"],
+  "diary_page_range": [54, 55],
+  "date_start": "2021-08",
+  "date_end": "2021-08",
+  "date_precision": "month",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Blaenau Ffestiniog, Wales",
+      "original_wording": "Llan Bleanow Ffestiniog",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0353_R",
+      "excerpt": "We stopped for tea near a pass before a big slate mine. Llan Bleanow Ffestiniog.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Llandanwg, Wales",
+      "original_wording": "campsite south of Harlech, Llandanwg village. Glan y Gors campsite.",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0353_R",
+      "excerpt": "Then onto the campsite south of Harlech, Llandanwg village. Glan y Gors campsite.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Hellfire Pass, Wales",
+      "original_wording": "wild camping place for the night, on Wales second highest pass, Hellfire Pass, between Lake Bala + Lake Vyrnwy",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0354_L",
+      "excerpt": "drove back via Barmouth then up a v. windy, hairy high valley road to a wild camping place for the night, on Wales second highest pass, Hellfire Pass, between Lake Bala + Lake Vyrnwy.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Lake Vyrnwy, Wales",
+      "original_wording": "Lake Vyrnwy",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0354_L",
+      "excerpt": "We drove along a v. windy road to Lake Vyrnwy After the dam we stopped for bread, loo paper, the Times + Tea.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Pennant Melangell, Wales",
+      "original_wording": "a village near St. Melangell's church",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0354_R",
+      "excerpt": "roads to a village near St. Melangell's church. We had lunch outdoors at the pub – scampi + Lasagna.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Llanfechain, Wales",
+      "original_wording": "Llan fechain, quite near Welshpool",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0355_L",
+      "excerpt": "We camped at Llan fechain, quite near Welshpool",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Cycle trip to Shell Island",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Shell Island, Wales",
+          "original_wording": "Shell Island",
+          "confidence": 0.95,
+          "source_page_id": "B_0354_L",
+          "excerpt": "We cycled against a strong head wind to Shell Island. The previous day the wind had blown me over while I was doing yoga. We cycled around Shell Island – a few shops + lots of campers + sand dunes.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Barmouth, Wales",
+          "original_wording": "Barmouth",
+          "confidence": 0.85,
+          "source_page_id": "B_0354_L",
+          "excerpt": "drove back via Barmouth then up a v. windy, hairy high valley road",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 6,
+      "label": "Walk to St. Melangell's Church",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "St. Melangell's Church, Pennant Melangell, Wales",
+          "original_wording": "St. Melangell's church",
+          "confidence": 0.9,
+          "source_page_id": "B_0355_L",
+          "excerpt": "After lunch we went on a walk 2½m to St. Melangell's church, an old pilgrimage site. Her shrine was dismantled in the Reformation.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: B_0355_L is marked boundary_mixed=true; the next trip begins on this page or immediately after"
+  ],
+  "summary": "Simon and Eve drove from Birmingham to north Wales in August 2021, staying at Glan y Gors campsite in Llandanwg (south of Harlech) for several nights, cycling to Shell Island and exploring the dunes. They then drove via Barmouth, wild-camped at Hellfire Pass between Lake Bala and Lake Vyrnwy, and on Saturday visited Lake Vyrnwy and St. Melangell's Church before a final overnight at Llanfechain near Welshpool.",
+  "extraction_notes": "No specific calendar dates given; only day names (Thursday, Friday, Saturday) used. Date precision is month only (2021-08 from date_guess). The diarist appears to be Eve. The Shell Island trip (Friday) involved cycling there and back to the van at Llandanwg, but they then drove on to wild-camp at Hellfire Pass the same day after returning to the van, so Barmouth appears as a transit on the drive rather than a separate overnight. St. Melangell's church was visited as a post-lunch walk from the pub in the village (seq 6 main_stop), so it is listed as an excursion from that main_stop rather than a separate main route entry. B_0355_L is marked boundary_mixed=true, indicating the next trip begins on that page."
+}

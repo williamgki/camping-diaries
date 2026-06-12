@@ -1,0 +1,94 @@
+{
+  "trip_id": "2015-coughton-court-dovecote-throckmorton",
+  "title": "Coughton Court & Dovecote (Throckmorton)",
+  "volume": "B",
+  "spread_range": ["B_0250", "B_0250"],
+  "diary_page_range": [70, 70],
+  "date_start": "2015-05-29",
+  "date_end": "2015-05-31",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Coughton Court, Warwickshire, UK",
+      "original_wording": "Coughton Court",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0250_R",
+      "excerpt": "Simon, Eve, Tinder left at 6 for Coughton Court. We are in a farmer's field.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Alcester, Warwickshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0250_R",
+      "excerpt": "got home for lunch",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Visit to Coughton Court house and garden",
+      "date_guess": "2015-05-30",
+      "stops": [
+        {
+          "normalized_name": "Coughton Court, Warwickshire, UK",
+          "original_wording": "Coughton Court",
+          "confidence": 0.95,
+          "source_page_id": "B_0250_R",
+          "excerpt": "Lunch in the courtyard block, then explored the house & garden [?for] of the Throckmorton family. lived here for 600 years.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Visit to nearby NT dovecote near Throckmorton",
+      "date_guess": "2015-05-31",
+      "stops": [
+        {
+          "normalized_name": "Throckmorton Dovecote, Worcestershire, UK",
+          "original_wording": "a nearby NT [illegible] dovecote",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0250_R",
+          "excerpt": "We went to see a nearby NT [illegible] dovecote. [?If] with ladder intact, it was amazing. The bird perches were staggered in the way they pointed.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Throckmorton, Worcestershire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "NT [illegible] dovecote",
+      "issue": "The National Trust dovecote is described as 'nearby' Coughton Court with an illegible word; likely the dovecote at Throckmorton (Worcestershire) or possibly Kinwarton Dovecote — exact site uncertain",
+      "source_page_id": "B_0250_R",
+      "excerpt": "We went to see a nearby NT [illegible] dovecote. [?If] with ladder intact, it was amazing."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0250_R is flagged as boundary_mixed=true; content appears self-contained (Friday–Sunday narrative complete on this page)"
+  ],
+  "summary": "A short Friday-to-Sunday trip for Simon, Eve and the dog Tinder to Coughton Court in Warwickshire, staying in a farmer's field nearby. On Saturday they visited the Throckmorton family's historic house and garden; on Sunday they saw a nearby National Trust dovecote before driving home for lunch.",
+  "extraction_notes": "Only Simon, Eve and Tinder are named as travellers — no children mentioned. The page's dates array records iso '2009-05-29' but the trip_id year is 2015 and 29 May 2015 was indeed a Friday, so 2015 is used throughout. 'Westbury Court Garden' appears in the parsed places list but is absent from the transcribed text and has been excluded as a stop. The dovecote is described as 'NT' (National Trust) with an illegible qualifier; the title slug references Throckmorton and a separate 2005 trip to 'Aston Cantlow Kinwarton Dovecot' exists, making this likely a different site — flagged as unresolved."
+}

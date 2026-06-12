@@ -1,0 +1,64 @@
+{
+  "trip_id": "2004-borough-london-william-bryony-southwark-cathedral",
+  "title": "Borough, London: William & Bryony, Southwark Cathedral",
+  "volume": "B",
+  "spread_range": ["B_0017", "B_0017"],
+  "diary_page_range": [15, 15],
+  "date_start": "2004-05-22",
+  "date_end": "2004-05-23",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Borough, London, UK",
+      "original_wording": "Borough in London, William's & Bryony's house",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0017_R",
+      "excerpt": "Simon & Eve set off for Borough in London, William's & Bryony's house. We camped in the courtyard.",
+      "geocode_hint": { "countrycodes": "gb", "city": "London", "district": "Borough" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Southwark Cathedral, London, UK",
+      "original_wording": "Southwark Cathedral",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0017_R",
+      "excerpt": "Simon & Eve went to Southwark Cathedral, where Canon Jeffrey John celebrated Communion for the last time before moving to be Dean of St. Albans.",
+      "geocode_hint": { "countrycodes": "gb", "city": "London" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "went home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0017_R",
+      "excerpt": "We bought lunch at M & S for everyone & then went home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "Simon and Eve drove from Birmingham to stay overnight at son William and his partner Bryony's house in Borough, London, camping in their courtyard. The next morning they attended a special Communion at Southwark Cathedral celebrated by Canon Jeffrey John on his last occasion before becoming Dean of St Albans, then bought lunch at M&S and returned home.",
+  "extraction_notes": "Single-page entry covering a two-day trip (Sat 22 May into Sunday 23 May 2004). Only Simon and Eve are named as travellers; William, Bryony, and Bryony's mother Tess are mentioned as hosts/guests but did not travel from Birmingham. The date 'Sat 22nd May' confirms 2004 (22 May 2004 was a Saturday). St Albans is mentioned only as Jeffrey John's destination, not a stop visited. The M&S lunch stop and the ballet/restaurant ('Esh') on the Saturday evening are mentioned but are not meaningful named route stops. No ferry or international crossing — entirely within Great Britain."
+}

@@ -1,0 +1,158 @@
+{
+  "trip_id": "1992-dinas-wales-whitsun-with-harlech",
+  "title": "Dinas (Wales) — Whitsun, with Harlech",
+  "volume": "A",
+  "spread_range": ["A_0057", "A_0059"],
+  "diary_page_range": [110, 115],
+  "date_start": "1992-05-23",
+  "date_end": "1992-05-27",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dinas, Gwynedd, Wales",
+      "original_wording": "Dinas",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0057_L",
+      "excerpt": "A long drive to Dinas - 12.15-5.20 V. slow on the motorways in the Midlands. In the end, we went right through the middle of Wolverhampton, & by-roads around Shrewsbury.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Gwynedd, Wales" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Harlech, Gwynedd, Wales",
+      "original_wording": "Harlech",
+      "role": "transit_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0059_R",
+      "excerpt": "We set off for Harlech + spent the morning there going up + down the tower before setting off for home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Trawsfynydd, Gwynedd, Wales",
+      "original_wording": "Trawsfynydd",
+      "role": "transit_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0059_R",
+      "excerpt": "We had lunch at Trawsfynydd, a damned lake.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Llanfair, Gwynedd, Wales",
+      "original_wording": "Llanfair",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0059_R",
+      "excerpt": "Then we stopped at Llanfair for Simon + [?+Laura] the boys to go on the train. It left at 4.15.",
+      "geocode_hint": { "countrycodes": "gb", "region": "near Harlech, Gwynedd" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0059_R",
+      "excerpt": "setting off for home",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Church at Talybont and beach near Llanbedr",
+      "date_guess": "1992-05-24",
+      "stops": [
+        {
+          "normalized_name": "Talybont, Gwynedd, Wales",
+          "original_wording": "Talybont",
+          "confidence": 0.95,
+          "source_page_id": "A_0057_R",
+          "excerpt": "Church at 11.30. at Talybont.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Llanbedr, Gwynedd, Wales",
+          "original_wording": "Llanbedr",
+          "confidence": 0.85,
+          "source_page_id": "A_0057_R",
+          "excerpt": "From the beach near Llanbedr.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Beach at Llandanwg (ancient church)",
+      "date_guess": "1992-05-24",
+      "stops": [
+        {
+          "normalized_name": "Llandanwg, Gwynedd, Wales",
+          "original_wording": "Lland[?]g",
+          "confidence": 0.6,
+          "approximate": true,
+          "source_page_id": "A_0058_L",
+          "excerpt": "We went to the beach at Lland[?]g. The [Cttis?] Church is the earliest in Britain, c.650. Built for St. Patrick's mission at Wales.",
+          "geocode_hint": { "countrycodes": "gb", "region": "near Harlech, Gwynedd" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Walk towards Rhinog hills",
+      "date_guess": "1992-05-26",
+      "stops": [
+        {
+          "normalized_name": "Rhinog, Gwynedd, Wales",
+          "original_wording": "Rhinog",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "A_0059_L",
+          "excerpt": "we abandon the plan to reach the tops of Rhinog + just walk through the saddle between the hills.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Lland[?]g",
+      "issue": "Place name partially illegible. The description of an ancient church c.650 built for St Patrick's mission on or near a beach fits Llandanwg (near Llanbedr, Gwynedd); possibly Llangadwaladr or Llandegai. Provisionally identified as Llandanwg.",
+      "source_page_id": "A_0058_L",
+      "excerpt": "We went to the beach at Lland[?]g. The [Cttis?] Church is the earliest in Britain, c.650. Built for St. Patrick's mission at Wales."
+    },
+    {
+      "original_wording": "[?+Laura]",
+      "issue": "A person named Laura is mentioned several times (looks after John & Charles, has a dome spider tent); likely a friend or au pair travelling with the family but not listed in the known family members.",
+      "source_page_id": "A_0059_R",
+      "excerpt": "Then we stopped at Llanfair for Simon + [?+Laura] the boys to go on the train."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0057_L starts mid-diary; content before May 23rd belongs to a previous trip (October 23rd entry and Gloucester Docks visit).",
+    "mixed_end: page A_0059_R ends mid-diary; content after the Llanfair entry belongs to a subsequent trip."
+  ],
+  "summary": "Whitsun 1992 camping trip from Birmingham to Dinas in Gwynedd, Wales, arriving 23 May after a slow drive through Wolverhampton and around Shrewsbury. The family spent four nights at a campsite near Dinas, making day excursions to Talybont church, the beach near Llanbedr, and an ancient coastal church, with a long walk towards the Rhinog hills on Tuesday. On the return on Wednesday 27 May they visited Harlech Castle, lunched at Trawsfynydd, and stopped at Llanfair to ride the narrow-gauge railway before heading home.",
+  "extraction_notes": "Pages A_0057 to A_0059 span three physical spreads. The start of A_0057_L is mixed — it concludes an October entry from a previous trip before the May 23rd entry begins. A_0059_R is similarly mixed at the end, with text continuing beyond this trip. 'Laura' appears multiple times as an additional companion (has her own dome tent, looks after younger children) but is not in the known family list — likely a friend, au pair or older companion. The Llanfair train stop is almost certainly the Fairbourne & Barmouth Steam Railway or Ffestiniog Railway station at Llanfair (Maentwrog Road / Talsarnau area); context (between Trawsfynydd and homeward route) suggests it may be Llanfair station on the Cambrian line or a nearby narrow-gauge stop. Date precision is 'day' because May 23 Sat and May 27 Wed are both confirmed by diary entries and the iso date 1992-05-27 on A_0059_R."
+}

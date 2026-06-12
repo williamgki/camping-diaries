@@ -1,0 +1,165 @@
+{
+  "trip_id": "2017-farm-hop-barn-greenacres-axbridge-john",
+  "title": "Farm hop barn & Greenacres, Axbridge — John's 30th birthday",
+  "volume": "B",
+  "spread_range": ["B_0293", "B_0295"],
+  "diary_page_range": [113, 115],
+  "date_start": "2017-08-16",
+  "date_end": "2017-08-20",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hop farm, Herefordshire",
+      "original_wording": "farm",
+      "role": "overnight_base",
+      "confidence": 0.65,
+      "approximate": true,
+      "source_page_id": "B_0293_R",
+      "excerpt": "Simon, Eve, Tinder left 86 at 10. Off to farm & then camping with John & Kay to celebrate John's 30th birthday on Saturday. It's Simon's second to last visit to look at the new hop barn before the hop harvest begins on Aug 31st.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Herefordshire" },
+      "notes": "Unnamed hop farm; William previously worked here on the hop barn with Chris and Polish workmen. 'Bryony' (likely farmer's family) and 'Humbolt, No 2 cabin' mentioned. Herefordshire inferred from hop farming context and route via Tintern/Chepstow. Approximate location."
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Tintern Abbey, Monmouthshire",
+      "original_wording": "Tintern Abbey",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0295_L",
+      "excerpt": "[?Elevenses] at Tintern Abbey.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Almondsbury, South Gloucestershire",
+      "original_wording": "Almondsbury",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0295_L",
+      "excerpt": "We spent the night in Almondsbury - a campsite within sound of M4.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Clevedon, Somerset",
+      "original_wording": "Clevedon",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0295_L",
+      "excerpt": "Elevenses just north of Clevedon. We saw Clevedon Pier.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Axbridge, Somerset",
+      "original_wording": "Axbridge",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0295_L",
+      "excerpt": "Lunch in the lamb? at Axbridge. We looked at the lovely church & got back to the van just before another terrific rain shower.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Greenacres Camping, Compton Martin, Somerset",
+      "original_wording": "Greenacres campsite near Compton Martin",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0295_L",
+      "excerpt": "On to Greenacres campsite near Compton Martin. Charles & Jenny arrived at tea time, from Germany at the end of their honey moon. John & Kaz arrived in time for supper.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Return to Birmingham inferred; diary cuts off mid-sentence before the return journey is described."
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 7,
+      "label": "Walk and Pony & Trap dinner — John's 30th birthday",
+      "date_guess": "2017-08-19",
+      "stops": [
+        {
+          "normalized_name": "The Pony & Trap, Chew Magna, Somerset",
+          "original_wording": "the Pony & Trap",
+          "confidence": 0.9,
+          "source_page_id": "B_0295_R",
+          "excerpt": "At 7 we set out on the 6 mile walk to the Pony & Trap, table booked for 9. John & Kay just made it.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 7,
+      "label": "Sunday walk — St Andrews Blagdon and Chew Magna",
+      "date_guess": "2017-08-20",
+      "stops": [
+        {
+          "normalized_name": "St Andrew's Church, Blagdon, Somerset",
+          "original_wording": "St. Andrews Blagdon",
+          "confidence": 0.9,
+          "source_page_id": "B_0295_R",
+          "excerpt": "Simon & Eve walked to St. Andrews Blagdon - lovely stained glass.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Chew Magna, Somerset",
+          "original_wording": "Chew Magna",
+          "confidence": 0.9,
+          "source_page_id": "B_0295_R",
+          "excerpt": "Then we met up & Jenny bought us lunch at the Chew Magna pub.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?stopped at Ledges]",
+      "issue": "Uncertain stop between farm and Chepstow/Tintern; 'Ledges' not identified as a specific place name.",
+      "source_page_id": "B_0295_L",
+      "excerpt": "At 11 we left, [?stopped at Ledges] & went past Chepstow Racetad."
+    },
+    {
+      "original_wording": "Chepstow Racetad",
+      "issue": "Transcription likely 'Chepstow Racecourse'; mentioned as passed, not visited — recorded for completeness.",
+      "source_page_id": "B_0295_L",
+      "excerpt": "went past Chepstow Racetad."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0293_R begins with a prior trip entry; this trip starts at the 'Wed 16th Aug' heading",
+    "mixed_end: page B_0295_R is marked boundary_mixed; diary cuts off mid-sentence"
+  ],
+  "summary": "Simon, Eve and Tinder departed Birmingham on Wednesday 16 August 2017, stopping first at an unnamed hop farm in Herefordshire (where William had worked on the new hop barn) before travelling via Tintern Abbey and an overnight at Almondsbury. They then drove on through Clevedon and Axbridge to Greenacres campsite near Compton Martin in Somerset, where they were joined by John and Kay (and later Charles and Jenny) to celebrate John's 30th birthday on Saturday 19 August with walks and dinner at the Pony & Trap.",
+  "extraction_notes": "Year confirmed as 2017 by context (John's 30th birthday, trip_id); transcribed dates showing '2006' are OCR/parsing errors. The hop farm is unnamed and its location is inferred as Herefordshire based on hop-farming context and the route south via Tintern — marked approximate. The 'Thursday' narrative in B_0294_L/R appears to show activity at the farm (breakfast in van with Joseph, Seb, Nina), with departure on the same Thursday (at 11am) to Tintern and Almondsbury, then Friday's drive to Greenacres. Ladye Bay (treacherous tides coastal path near Clevedon) was briefly visited on Friday but not included as a main_route stop as it is covered within the Clevedon transit stop. The Pony & Trap near Chew Magna is a well-known pub/restaurant; location geocodable."
+}

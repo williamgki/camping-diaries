@@ -1,0 +1,190 @@
+{
+  "trip_id": "2021-hay-on-wye-racketty-lodge-rutland",
+  "title": "Hay on Wye (Racketty Lodge) & Rutland Water",
+  "volume": "B",
+  "spread_range": ["B_0346", "B_0347"],
+  "diary_page_range": [null, null],
+  "date_start": "2021-06-05",
+  "date_end": "2021-06-30",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Monnington-on-Wye, Herefordshire",
+      "original_wording": "the church",
+      "role": "transit_stop",
+      "confidence": 0.5,
+      "approximate": true,
+      "source_page_id": "B_0346_R",
+      "excerpt": "the church more. It is all being beautifully done. Owain Glendower is buried in the church yard, the last Prince of Wales before the Tudors.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Text begins mid-sentence; the church with Owain Glyndwr's traditional burial site near Hay on Wye is Monnington-on-Wye, but the specific church is not named. Previous diary page not in this bundle."
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Gaskells' house, near Hay on Wye",
+      "original_wording": "the Gaskells",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0346_R",
+      "excerpt": "We reached the Gaskells & chatted to John",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Brief stop to chat with John Gaskell; location near Hay on Wye implied but not specified."
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Racketty Lodge, Hay on Wye",
+      "original_wording": "Racketty Lodge, outside Hay on Wye",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0346_R",
+      "excerpt": "arrived [?at 3] at Racketty Lodge, outside Hay on Wye. It's a superhouse in a campsite.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Rutland Water, Rutland",
+      "original_wording": "Rutland water",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0347_L",
+      "excerpt": "2 pm Monday June 28th Simon, Eve, Tinder drive to Rutland water. Damp, gloomy mist & rain. Tinder & Simon walk. Eve stays in the van. Linton top.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Stamford, Lincolnshire",
+      "original_wording": "Stamford",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0347_R",
+      "excerpt": "We drove on to Stamford. The town is lovely we walked around. Lots of bridges.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Frances Plummer's farm, near Spalding",
+      "original_wording": "Frances Plummer. We drove into Palace farm",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0347_R",
+      "excerpt": "On to Frances Plummer. We drove into Palace farm, only to be told that she had moved across the road.... 15 years previously. We gave her tea from the van in her beautiful garden.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Village name not given. Peter arrived from Spalding suggesting this area of Lincolnshire/Rutland border. Camped on Frances' drive overnight ('We camped on Frances\\'s drive')."
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Grantham, Lincolnshire",
+      "original_wording": "Grantham",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0347_R",
+      "excerpt": "We set off for Grantham where the light",
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Text cuts off; Grantham is named as the next destination after leaving Frances Plummer's farm, likely a stop en route home to Birmingham."
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" },
+      "notes": "Return to home inferred; diary text cuts off before explicit return mention."
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Walk into Hay on Wye, shopping and river",
+      "date_guess": "2021-06-05",
+      "stops": [
+        {
+          "normalized_name": "Hay-on-Wye, Powys",
+          "original_wording": "Hay",
+          "confidence": 0.95,
+          "source_page_id": "B_0346_R",
+          "excerpt": "June 5th We walked into Hay & shopped & had icecream. I bought a dress & a red knapsack. After lunch & a nap we walked along the river & found a beach & some of us swam.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Eve's birthday - visit to William and Bryony's farm near Hay Bluff",
+      "date_guess": "2021-06-06",
+      "stops": [
+        {
+          "normalized_name": "Hay Bluff, Powys",
+          "original_wording": "Hay Bluff",
+          "confidence": 0.75,
+          "source_page_id": "B_0347_L",
+          "excerpt": "June 6th My birth day. We were supposed to meet up with William & family at Hay Bluff, but instead Bryony & William had us at the farm as the weather was cooler.",
+          "geocode_hint": { "countrycodes": "gb" },
+          "notes": "Original plan was Hay Bluff; they actually went to William and Bryony's farm nearby. Farm location not named precisely."
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "Cycling around Rutland Water and Edith Weston church",
+      "date_guess": "2021-06-29",
+      "stops": [
+        {
+          "normalized_name": "Edith Weston, Rutland",
+          "original_wording": "Edith Weston",
+          "confidence": 0.95,
+          "source_page_id": "B_0347_L",
+          "excerpt": "Tuesday We cycled along Rutland Water path. Tinder was in the bike bag most of the way. We visited a very pretty church at Edith Weston & then a partly sunken church.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "the church [with Owain Glendower's burial]",
+      "issue": "Text begins mid-sentence on B_0346_R; the church is not named. Owain Glyndwr's traditional burial site is Monnington-on-Wye, Herefordshire, but this is uncertain and no previous page is in the bundle to confirm the location or whether this was a stop or a passing mention.",
+      "source_page_id": "B_0346_R",
+      "excerpt": "the church more. It is all being beautifully done. Owain Glendower is buried in the church yard, the last Prince of Wales before the Tudors."
+    },
+    {
+      "original_wording": "Linton top",
+      "issue": "Mentioned in context of Rutland Water arrival ('Linton top') - possibly Lyndon Top or a local viewpoint/car park at Rutland Water. Not clearly a separate named stop.",
+      "source_page_id": "B_0347_L",
+      "excerpt": "Tinder & Simon walk. Eve stays in the van. Linton top."
+    },
+    {
+      "original_wording": "Palace farm / Frances Plummer's village",
+      "issue": "The village where Frances Plummer lives is not named. 'Palace farm' appears to be the original farm name she moved away from. Peter arrived from Spalding suggesting Lincolnshire area, but precise location is unconfirmed.",
+      "source_page_id": "B_0347_R",
+      "excerpt": "On to Frances Plummer. We drove into Palace farm, only to be told that she had moved across the road.... 15 years previously."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A two-part UK trip in June 2021: a family gathering at Racketty Lodge campsite outside Hay on Wye (with social visits, a walk into town, and a birthday outing to William and Bryony's farm near Hay Bluff), followed by a later stay for Simon, Eve and Tinder at Rutland Water where they cycled the water path and visited Edith Weston church, before driving via Stamford and overnight at friend Frances Plummer's farm, with Grantham as the final named stop before returning to Birmingham.",
+  "extraction_notes": "The diary bundle covers parts of two clearly separate trip segments: early June (family gathering at Hay on Wye, Racketty Lodge) and late June (Simon/Eve/Tinder at Rutland Water). The Hay on Wye segment also mentions wider family: Zoe, Graham, Clara, Seren, Peter, Nana, Conrad, Nini, Giaconda, John, Kay, Eben, William, Conta Criswell. Page B_0346_R begins mid-sentence ('the church more') suggesting a prior page exists but is not in this bundle. Date for Hay on Wye start is given as June 5th; the Rutland Water leg is explicitly dated 'Monday June 28th', confirmed as 2021-06-28. The trip end date of 2021-06-30 (Wednesday) is inferred from the day-of-week sequence. Page numbers for the spread are given as B_0346/B_0347 but internal page numbers are 47 (B_0346_R) with B_0347 pages unnumbered."
+}

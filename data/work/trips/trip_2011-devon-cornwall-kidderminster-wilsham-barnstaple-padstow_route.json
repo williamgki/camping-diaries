@@ -1,0 +1,194 @@
+{
+  "trip_id": "2011-devon-cornwall-kidderminster-wilsham-barnstaple-padstow",
+  "title": "Devon & Cornwall: Brookhouse Farm, Exmoor, Barnstaple, Padstow & the Eden Project",
+  "volume": "B",
+  "spread_range": ["B_0181", "B_0186"],
+  "diary_page_range": [181, 186],
+  "date_start": "2011-10-14",
+  "date_end": "2011-10-19",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Edgbaston",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Kidderminster, UK",
+      "original_wording": "Kidderminster",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0181_R",
+      "excerpt": "We set off, Simon, Eve + Tonic (13) to visit Grandma in the Shruberg at Kidderminster.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Brookhouse Farm, Avenbury, Bromyard, Herefordshire, UK",
+      "original_wording": "Brookhouse Farm",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0181_R",
+      "excerpt": "We arrived at the farm + Kate gave us a delicious supper - 4 little beef wellingtons, roast potatoes, beetroot, carrots + parsnips + blackberry + apple crumble. It was very cold in the night.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Wilsham House, Oare, Lynton, Devon, UK",
+      "original_wording": "Wilsham House B + B",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0183_L",
+      "excerpt": "After a cup of coffee we drove south to Wilsham House B + B, where I am hoping to celebrate my 60th birthday in July 2013.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Oare, Exmoor, Somerset, UK",
+      "original_wording": "Oare",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0183_L",
+      "excerpt": "Then we drove on past Lorna Doone's Farm to a nearby camp site, near Oare ★ ★ ★",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Barnstaple, Devon, UK",
+      "original_wording": "Barnstaple",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0183_R",
+      "excerpt": "Sunday On to Barnstaple where we managed to buy Micron + cycled along the Tarka Trail (Barnstaple → Instow Rd?)",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Padstow, Cornwall, UK",
+      "original_wording": "Padstow",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0184_L",
+      "excerpt": "Back to the van & we drove west to near Padstow where the food is supposed to be good.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Doubletrees Campsite, St Austell, Cornwall, UK",
+      "original_wording": "Doubletrees Campsite St. Austell",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0185_L",
+      "excerpt": "On to Doubletrees Campsite St. Austell. V. windy. Lovely view.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0185_R",
+      "excerpt": "We left the lovely campsite at 9.30 for home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 6,
+      "label": "Cycle the Tarka Trail from Barnstaple to Instow",
+      "date_guess": "2011-10-16",
+      "stops": [
+        {
+          "normalized_name": "Instow, Devon, UK",
+          "original_wording": "Instow",
+          "confidence": 0.85,
+          "source_page_id": "B_0183_R",
+          "excerpt": "cycled along the Tarka Trail (Barnstaple → Instow Rd?)",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 7,
+      "label": "Padstow town & the Camel estuary ferry",
+      "date_guess": "2011-10-17",
+      "stops": [
+        {
+          "normalized_name": "Padstow, Cornwall, UK",
+          "original_wording": "Padstow",
+          "confidence": 0.85,
+          "source_page_id": "B_0184_R",
+          "excerpt": "We drove to Padstow & caught the ferry across & ambled round the pretty town.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Lost Gardens of Heligan",
+      "date_guess": "2011-10-17",
+      "stops": [
+        {
+          "normalized_name": "Lost Gardens of Heligan, Pentewan, Cornwall, UK",
+          "original_wording": "lost Gardens of Heligan",
+          "confidence": 0.85,
+          "source_page_id": "B_0185_L",
+          "excerpt": "We timed the ferry just right + drove on the the lost Gardens of Heligan. Very pretty £10 entry. Lovely jungly valley.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Eden Project",
+      "date_guess": "2011-10-18",
+      "stops": [
+        {
+          "normalized_name": "Eden Project, Bodelva, St Austell, Cornwall, UK",
+          "original_wording": "Eden Project",
+          "confidence": 0.9,
+          "source_page_id": "B_0185_L",
+          "excerpt": "Tuesday We reached the Eden Project by 10. We enjoyed it - names of bee plants, renewable fuel... We returned to the campsite + had a late walk down to the local church.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "transit_notes": [
+    {
+      "on_leg": "seq 8 to seq 9 (homeward)",
+      "stop": "Roadford Lake, Devon",
+      "source_page_id": "B_0185_R",
+      "excerpt": "Elevenses was at Roadford Lake, a modern reservoir, to feed all the west country."
+    },
+    {
+      "on_leg": "seq 8 to seq 9 (homeward)",
+      "stop": "Puriton, Somerset",
+      "source_page_id": "B_0185_R",
+      "excerpt": "We had a good cheese + apple lunch on a field at Puriton."
+    }
+  ],
+  "summary": "An October 2011 autumn camping trip by Simon and Eve (with Tonic the dog) from Birmingham. They visited Grandma at Kidderminster, stayed overnight at Brookhouse Farm (a vineyard near Avenbury, Herefordshire), then drove south to view Wilsham House B&B on Exmoor and camped near Oare. The route continued to Barnstaple (Tarka Trail cycling to Instow), then west to camp near Padstow and finally Doubletrees Campsite at St Austell, with day visits to Padstow, the Lost Gardens of Heligan and the Eden Project, before returning home via Roadford Lake and Puriton.",
+  "extraction_notes": "Dates reconstructed from the explicit anchors Fri 14 Oct 2011 (B_0181_R), Sat 15 Oct (B_0183_L) and Wed October 19th (B_0185_R); Sun 16, Mon 17 and Tue 18 follow by sequence. Travellers were only Simon and Eve (plus Tonic the dog, aged 13); the five sons are mentioned only as news updates (Thomas teacher training, William, Peter, John in the Gambia at Swansea, Charles at Imperial) and did not travel. Brookhouse Farm is a working vineyard/orchard - the surrounding map annotations (Avenbury, The Old Vicarage, Avenbury Court, Brookhouse Wood, The Hyde, Upper Venn Farm) place it near Avenbury/Bromyard in Herefordshire; geocode marked approximate. The Padstow 'ferry across' is the local Camel-estuary foot ferry (Padstow to Rock); the van stayed on the Padstow side and they returned the same day, so it is treated as part of the Padstow excursion rather than a route crossing - it is NOT in pipeline/ferries.json and was not used to advance the overnight chain, hence the crossings array is empty. No sea or Channel crossings occurred on this trip (GB only). Roadford Lake and Puriton were brief homeward elevenses/lunch stops on the final driving leg, recorded under transit_notes rather than as numbered main-route stops. B_0186_L and B_0186_R are a printed Eden Project leaflet (no handwriting) and yield no additional route stops. 'Wilsham House' was a B&B they visited/viewed (for a future 60th birthday) rather than slept at; the overnight that night was the campsite near Oare. The pages B_0182_L/R are notes/sketches about Brookhouse Farm's vineyard."
+}

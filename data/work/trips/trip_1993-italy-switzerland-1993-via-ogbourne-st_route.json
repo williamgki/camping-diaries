@@ -1,0 +1,264 @@
+{
+  "trip_id": "1993-italy-switzerland-1993-via-ogbourne-st",
+  "title": "Italy/Switzerland 1993: via Ogbourne St George, Portsmouth, St Gotthard, Lugano, Cremona, Parma",
+  "volume": "A",
+  "spread_range": ["A_0086", "A_0090"],
+  "diary_page_range": [86, 90],
+  "date_start": "1993-04-16",
+  "date_end": "1993-04-20",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB", "FR", "CH", "IT"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Ogbourne St George, Wiltshire, UK",
+      "original_wording": "Ogbourne St. George",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0086_R",
+      "excerpt": "We set off from home at 2.40. ... The Ogbourne St. George **** was very pretty, big open chalk fields, hills, at a distance, all roun[d]",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Hungerford, Berkshire, UK",
+      "original_wording": "Hungerford",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0087_R",
+      "excerpt": "Hungerford. We wandered around antique shops, Simon looking for dining room chairs (unsuccessful) + Eve looking for hair pins (successful)",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Newbury, Berkshire, UK",
+      "original_wording": "Newbury",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0087_R",
+      "excerpt": "and on for lunch + the night to David + Maxines + Imogen 3½ + Iona 2 at Newbury",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Chandlers Ford, Hampshire, UK",
+      "original_wording": "Chandlers Ford",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0087_R",
+      "excerpt": "left for Hattie + James at Chandlers Ford. We had a delicious roast lunch, + chatted.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Portsmouth, UK",
+      "original_wording": "Portsmouth",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0088_L",
+      "excerpt": "We drove to Portsmouth + ate in the carpark, surrounded by hoardes of French students.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Cherbourg, France",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Portsmouth ferry to France implied; Cherbourg is the most direct Portsmouth crossing for onward travel to Switzerland/Italy via St Gotthard; no French port named in diary",
+      "source_page_id": "A_0088_L",
+      "excerpt": "We drove to Portsmouth + ate in the carpark, surrounded by hoardes of French students.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "St Gotthard Pass, Switzerland",
+      "original_wording": "St Gotthard",
+      "role": "main_stop",
+      "confidence": 0.55,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "note": "Named in trip title_guess only; not covered in surviving diary pages",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Lugano, Switzerland",
+      "original_wording": "Lugano",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "note": "Named in trip title_guess only; not covered in surviving diary pages",
+      "geocode_hint": { "countrycodes": "ch" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Cremona, Italy",
+      "original_wording": "Cremona",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "note": "Named in trip title_guess only; not covered in surviving diary pages",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Parma, Italy",
+      "original_wording": "Parma",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "note": "Named in trip title_guess only; not covered in surviving diary pages",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Horsley, Surrey, UK",
+      "original_wording": "Horsley",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0090_L",
+      "excerpt": "We drove on into Surrey & camped near Leatherhead. Horsley *** the site was very wet, boggy grass & a lake, but had a shop & was friendly.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "London, UK",
+      "original_wording": "London",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0090_L",
+      "excerpt": "We drove on to London & Thomas found money for the metre for the van parked in Finsbury Circus",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0090_L",
+      "excerpt": "We had a tiring, [?ighty] drive home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 6,
+      "route_key": "portsmouth-cherbourg",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "inference_reason": "Portsmouth named as departure point; Cherbourg inferred as most likely French port for route to Switzerland/Italy via St Gotthard; no destination port named in diary",
+      "source_page_id": "A_0088_L",
+      "excerpt": "We drove to Portsmouth + ate in the carpark, surrounded by hoardes of French students."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Visit to Winchester Cathedral",
+      "date_guess": "1993-04-18",
+      "stops": [
+        {
+          "normalized_name": "Winchester Cathedral, Winchester, UK",
+          "original_wording": "Winchester Cathedral",
+          "confidence": 0.9,
+          "source_page_id": "A_0088_L",
+          "excerpt": "Simon drove all of us + Hattie + Katrina, Laura + Edward to see Winchester Cathedral. It was lovely to see all the Dugoids.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 6,
+      "label": "Visit to Portsmouth Historic Dockyard (HMS Victory and Mary Rose)",
+      "date_guess": "1993-04-19",
+      "stops": [
+        {
+          "normalized_name": "HMS Victory, Portsmouth Historic Dockyard, UK",
+          "original_wording": "HMS Victory",
+          "confidence": 0.95,
+          "source_page_id": "A_0088_L",
+          "excerpt": "The HMS Victory, Nelson's flagship was fascinating.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Mary Rose Museum, Portsmouth Historic Dockyard, UK",
+          "original_wording": "Mary Rose",
+          "confidence": 0.95,
+          "source_page_id": "A_0089_L",
+          "excerpt": "Then we looked at the Mary Rose being sprayed, a wax which will impregnate the wood.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 6,
+      "label": "Visit to Romsey Rapids",
+      "date_guess": "1993-04-19",
+      "stops": [
+        {
+          "normalized_name": "Romsey Rapids, Romsey, UK",
+          "original_wording": "Romsey Rapids",
+          "confidence": 0.9,
+          "source_page_id": "A_0088_L",
+          "excerpt": "Then we set off for Romsey Rapids. The Rapids £11-20 for 1 adult, 5 children, were great fun.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Di + Ian",
+      "issue": "Visited on April 17th on the way from Ogbourne St George to Newbury; no location given for Di and Ian's house",
+      "source_page_id": "A_0087_L",
+      "excerpt": "We visited Di + Ian. She opened the door with \"Hello! Would you like a drink + a pee?\""
+    },
+    {
+      "original_wording": "[?Bley Lodge]",
+      "issue": "Uncertain place name associated with David + Maxine's House, Newbury; could be a house/estate name",
+      "source_page_id": "A_0087_L",
+      "excerpt": "David + Maxine's House, Newbury. [?Bley Lodge]"
+    },
+    {
+      "original_wording": "Italy/Switzerland destinations",
+      "issue": "The diary pages for this spread (A_0086-A_0090) cover only the outward UK leg and the return; the Italy and Switzerland portions of the trip (St Gotthard, Lugano, Cremona, Parma) are named in the title_guess only and are not documented in the surviving transcribed pages",
+      "source_page_id": null,
+      "excerpt": null
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "Easter 1993 camping trip to Italy and Switzerland, travelling south from Birmingham via Ogbourne St George, Newbury and Chandlers Ford before taking the Portsmouth ferry to France and crossing the Alps via the St Gotthard Pass to Lugano, Cremona and Parma. The diary pages cover only the outward UK leg (including visits to Winchester Cathedral and Portsmouth Historic Dockyard) and the return journey through Surrey and London; the Swiss and Italian portions are recorded in the trip title but fall in a gap in the surviving transcribed pages.",
+  "extraction_notes": "The spread A_0086-A_0090 documents only the UK portions of this trip: the outward journey (16-19 April) and the return (20 April). The Italy/Switzerland stops (St Gotthard, Lugano, Cremona, Parma) appear only in the title_guess and have been included at low confidence (0.55) with null source_page_id to flag the gap. The Portsmouth ferry departure port is explicitly named; the French arrival port is inferred as Cherbourg (most direct Portsmouth crossing for a Switzerland/Italy routing). Hungerford is a transit stop on the way to Newbury. The Horsley/Leatherhead campsite on April 20 is the return overnight stop. Di and Ian's location on April 17 is unresolved. The date_end of 1993-04-20 reflects the last diary entry; the actual end date of the full Italy/Switzerland portion is unknown from these pages."
+}

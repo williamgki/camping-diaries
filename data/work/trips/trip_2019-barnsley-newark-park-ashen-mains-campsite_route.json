@@ -1,0 +1,70 @@
+{
+  "trip_id": "2019-barnsley-newark-park-ashen-mains-campsite",
+  "title": "Barnsley & Newark Park: Ashen Mains Campsite",
+  "volume": "B",
+  "spread_range": ["B_0316", "B_0316"],
+  "diary_page_range": [316, 316],
+  "date_start": "2019-04-05",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Barnsley, Gloucestershire, UK",
+      "original_wording": "near Barnsley",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0316_L",
+      "excerpt": "Simon, Eve + Tinder come to near Barnsley. Arrived 5:30. Stoking[?field] new Cotswold stone shower block powered by wood stove.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips start and end at home unless the diary indicates otherwise; return home not confirmed due to cut-off entry",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Stoking[?field]",
+      "issue": "Partially illegible word; may be a place name or simply a descriptive term for the wood-stove-heated shower block at the campsite; cannot be resolved from available text",
+      "source_page_id": "B_0316_L",
+      "excerpt": "Stoking[?field] new Cotswold stone shower block powered by wood stove."
+    },
+    {
+      "original_wording": "15 [illegible]",
+      "issue": "Entry cuts off mid-page (mixed_end); remaining content on a subsequent page is not included in this bundle. The figure '15' and following illegible text may record distance, number of pitches, cost, or other trip detail. Newark Park (named in title_guess) is not evidenced in the surviving text.",
+      "source_page_id": "B_0316_L",
+      "excerpt": "15 [illegible]"
+    }
+  ],
+  "boundary_flags": [
+    "B_0316_L is marked mixed_start=true and mixed_end=true. The 'Friday 28th Sept / Sat 29th' entry on the same page belongs to trip 2018-dornston-campsite-st-nicholas-church and has been excluded here. The April 5th 2019 entry is cut off at the bottom of the page; further diary content likely continues on a subsequent page not included in this bundle."
+  ],
+  "summary": "A short camping trip on 5 April 2019, with Simon, Eve and Tinder (and likely Charles) driving from Birmingham to the Ashen Mains campsite near Barnsley village in the Cotswolds, Gloucestershire. The entry notes arrival at 5:30 and describes a new Cotswold stone shower block heated by a wood stove, but the account is cut off; the full itinerary including any visit to Newark Park is not recoverable from the surviving text.",
+  "extraction_notes": "Only a single brief entry (2–3 lines) survives on page B_0316_L before the page ends; the trip is therefore minimally documented. The campsite name 'Ashen Mains' and location 'near Barnsley' come from the title_guess rather than the diary text itself. Barnsley here is confidently the Cotswolds village in Gloucestershire (supported by the explicit 'Cotswold stone' reference). Charles is listed as a traveller on the basis of the title_guess ('with Charles') but does not appear in the surviving text. Newark Park (a National Trust property in Gloucestershire, approx. 10 miles SW of Barnsley village) is named in the title_guess but does not appear in the surviving diary text and has therefore been omitted from the route as unconfirmed. The dog Tinder is not counted as a named traveller in the structured output but is mentioned in the diary. Date_end is unknown because the entry is cut off."
+}

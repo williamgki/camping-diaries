@@ -1,0 +1,536 @@
+{
+  "trip_id": "1996-ireland-glendalough-kilkenny-cashel-dingle-blaskets",
+  "title": "Ireland: Glendalough, Kilkenny, Cashel, Dingle & the Blaskets",
+  "volume": "A",
+  "spread_range": ["A_0179", "A_0190"],
+  "diary_page_range": [78, 190],
+  "date_start": "1996-08-03",
+  "date_end": "1996-08-19",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB", "IE"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0179_R",
+      "excerpt": "At 10.10. we set off, all 7 of us, for Ireland.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Nescliffe, Shropshire, UK",
+      "original_wording": "Nescliffe in Shropshire",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0179_R",
+      "excerpt": "We had sandwiches for lunch near Nescliffe in Shropshire.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Menai Bridge, Anglesey, UK",
+      "original_wording": "Anglesey ... Telford's Bridge",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0179_R",
+      "excerpt": "On to Anglesey, where we had tea next to Telford's Bridge.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Anglesey, UK",
+      "original_wording": "an Anglesey campsite, looking across to Holy Island",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0179_R",
+      "excerpt": "On to an Anglesey campsite, looking across to Holy Island.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Holyhead",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.75,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Anglesey campsite the night before the 9am ferry to Dún Laoghaire; Holyhead is the Anglesey ferry port for Dún Laoghaire",
+      "source_page_id": "A_0180_L",
+      "excerpt": "The ferry to Dun Laoghaire left at 9. We rushed through breakfast & packing up & got there in good time.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Dún Laoghaire, Ireland",
+      "original_wording": "Dun Laoghaire",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0180_L",
+      "excerpt": "The ferry to Dun Laoghaire left at 9.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Roundwood, County Wicklow, Ireland",
+      "original_wording": "Roundwood",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0180_L",
+      "excerpt": "We have driven to Roundwood the highest village in Ireland",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Kildare, Ireland",
+      "original_wording": "Kildare",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0181_L",
+      "excerpt": "we drove in a soggy state + saw the Japanese Garden + Irish National Stud at Kildare.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Bennettsbridge, County Kilkenny, Ireland",
+      "original_wording": "Nore Valley Bonnet Bridge, Nr Kilkenny",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0181_L",
+      "excerpt": "until we reached Nore Valley Bonnet Bridge, Nr Kilkenny at 7pm.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Kilkenny, Ireland",
+      "original_wording": "Kilkenny",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0181_R",
+      "excerpt": "We left for Kilkenny, a mediaeval town. The Castle had a design centre",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Rock of Cashel, Cashel, Ireland",
+      "original_wording": "Rock of Cashel",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0181_R",
+      "excerpt": "On to Rock of Cashel. The Kings of Munster lived on the Rock of Cashel for 600 years",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Vale of Aherlow, County Tipperary, Ireland",
+      "original_wording": "Vale of Aherlow",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0182_R",
+      "excerpt": "7.15. pm we arrived at Vale of Aherlow. The campsite house + restaurant is in the stables",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Mitchelstown, County Cork, Ireland",
+      "original_wording": "Mitchel town",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0182_R",
+      "excerpt": "We shopped in Mitchel town.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Dingle Peninsula, County Kerry, Ireland",
+      "original_wording": "another site nearer Dingle",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0183_L",
+      "excerpt": "We drove on to the Gallarus campsite, but it was very full ... we found another site nearer Dingle. It has it's own bay for swimming.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Dingle, Ireland",
+      "original_wording": "Dingle",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0183_R",
+      "excerpt": "It was windy but not raining as we left for Dingle & saw the marvellous aquarium.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Dún Chaoin (Dunquin), County Kerry, Ireland",
+      "original_wording": "Dunquin [Dun Chaoin] Blasket Island Centre",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0184_L",
+      "excerpt": "We went to the Dunquin [Dun Chaoin] Blasket Island Centre.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Camp, County Kerry, Ireland",
+      "original_wording": "Camp",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0185_L",
+      "excerpt": "We drove across the peninsula through the hills to Camp. Many static vans.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Tralee, Ireland",
+      "original_wording": "Tralee",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0185_R",
+      "excerpt": "We spent a good 2 hours at the Tralee Aquadome ... then on to \"Geraldine's Tralee\", a train car ride through a reconstructed street",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Killimer (Shannon car ferry), Ireland",
+      "original_wording": "Shannon ferry",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0185_R",
+      "excerpt": "Off across the Shannon ferry. Elegant Victorian pier passed.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Lahinch, County Clare, Ireland",
+      "original_wording": "Lahinch",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0185_R",
+      "excerpt": "Straight roads to Lahinch campsite in Clare.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Clonmacnoise, County Offaly, Ireland",
+      "original_wording": "Clonmacnoise",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0187_R",
+      "excerpt": "On to Clonmacnoise. (Gathering of the Sons of Noye.) ... Frequently sacked by the Vikings",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Lough Ree, near Athlone, Ireland",
+      "original_wording": "Lough Ree campsite near Athlone",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0187_R",
+      "excerpt": "We have come on to First Lough Ree campsite near Athlone, on a very large lake formed by the Shannon.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Granard, County Longford, Ireland",
+      "original_wording": "Grandard",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0189_L",
+      "excerpt": "We left at 10.00. & stopped at Grandard for elevenses ... climbed up Grandard Motte",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Killyleagh, County Down, Northern Ireland",
+      "original_wording": "Killyleagh",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0189_R",
+      "excerpt": "We arrived at Killyleagh at 5.15., had a cup of tea & a swim.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Knowth, County Meath, Ireland",
+      "original_wording": "Knowth",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0190_L",
+      "excerpt": "En route we had a tour of Knowth where the Solstice was celebrated before even the pyramids.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Dún Laoghaire, Ireland",
+      "original_wording": "Dun Laoghaire",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0190_L",
+      "excerpt": "It was a race down to Dun Laoghaire. Appalling signs through Dublin.",
+      "geocode_hint": { "countrycodes": "ie" }
+    },
+    {
+      "seq": 27,
+      "normalized_name": "Holyhead",
+      "original_wording": "Anglesey",
+      "role": "crossing_terminal",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "return ferry from Dún Laoghaire lands at Holyhead; diary notes driving through Anglesey on the way home",
+      "source_page_id": "A_0190_L",
+      "excerpt": "We drove through Anglesey",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 28,
+      "normalized_name": "Meole Brace, Shrewsbury, UK",
+      "original_wording": "Meole Brace, south of Shrewsbury",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0190_L",
+      "excerpt": "As Simon was driving on the motorway near Meole Brace, south of Shrewsbury, the engine died after a strong smell of petrol.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 29,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0190_L",
+      "excerpt": "We got home at 11, the van on a truck & the rest of us in the cab.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 5,
+      "route_key": "holyhead-dun_laoghaire",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0180_L",
+      "excerpt": "The ferry to Dun Laoghaire left at 9.",
+      "note": "Dún Laoghaire named explicitly; Holyhead departure inferred from the Anglesey campsite the night before."
+    },
+    {
+      "after_seq": 18,
+      "route_key": null,
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0185_R",
+      "excerpt": "Off across the Shannon ferry. Elegant Victorian pier passed.",
+      "note": "Internal Irish car ferry across the Shannon estuary (Killimer–Tarbert), between Tralee/Kerry and Clare. Not in ferries.json; recorded verbatim."
+    },
+    {
+      "after_seq": 26,
+      "route_key": "holyhead-dun_laoghaire",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0190_L",
+      "excerpt": "It was a race down to Dun Laoghaire. Appalling signs through Dublin.",
+      "note": "Return Irish Sea crossing; Dún Laoghaire named, lands at Holyhead (diary mentions driving through Anglesey afterwards)."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 7,
+      "label": "Day trip to Glendalough monastery",
+      "date_guess": "1996-08-05",
+      "stops": [
+        {
+          "normalized_name": "Glendalough, County Wicklow, Ireland",
+          "original_wording": "Glendalough monastery (Glen of the 2 lakes); Gleann Da Loch, Co Chill Mhantáin",
+          "confidence": 0.9,
+          "source_page_id": "A_0180_R",
+          "excerpt": "hope to go to Glendalough monastery tomorrow. (Glen of the 2 lakes)",
+          "geocode_hint": { "countrycodes": "ie" }
+        }
+      ]
+    },
+    {
+      "base_seq": 14,
+      "label": "Ventry Bay, Dún Chaoin Blasket Centre & boat to the Great Blasket",
+      "date_guess": "1996-08-10",
+      "stops": [
+        {
+          "normalized_name": "Ventry, County Kerry, Ireland",
+          "original_wording": "Ventry Bay",
+          "confidence": 0.85,
+          "source_page_id": "A_0184_L",
+          "excerpt": "We overshot the camp site on the way home & the boys played in Ventry Bay.",
+          "geocode_hint": { "countrycodes": "ie" }
+        },
+        {
+          "normalized_name": "Dunquin Pier (Dún Chaoin), County Kerry, Ireland",
+          "original_wording": "Dunquin Quay",
+          "confidence": 0.85,
+          "source_page_id": "A_0185_L",
+          "excerpt": "We had lunch in the carpark & drove to Dunquin Quay. We walked down the steep ramp",
+          "geocode_hint": { "countrycodes": "ie" }
+        },
+        {
+          "normalized_name": "Great Blasket Island, County Kerry, Ireland",
+          "original_wording": "Blasket",
+          "confidence": 0.9,
+          "source_page_id": "A_0185_L",
+          "excerpt": "A small boat took us into the little Blasket harbour ... 12 people live on the island in the summer.",
+          "geocode_hint": { "countrycodes": "ie" }
+        }
+      ]
+    },
+    {
+      "base_seq": 17,
+      "label": "Tralee day en route (Aquadome, Geraldine's Tralee) before crossing to Clare",
+      "date_guess": "1996-08-11",
+      "stops": [
+        {
+          "normalized_name": "Kilgobbin, County Kerry, Ireland",
+          "original_wording": "Kilgobbin church",
+          "confidence": 0.7,
+          "source_page_id": "A_0185_R",
+          "excerpt": "10 matins at Kilgobbin church.",
+          "geocode_hint": { "countrycodes": "ie" }
+        }
+      ]
+    },
+    {
+      "base_seq": 20,
+      "label": "Cliffs of Moher, Doolin & the Burren / Aillwee Cave day",
+      "date_guess": "1996-08-12",
+      "stops": [
+        {
+          "normalized_name": "Cliffs of Moher, County Clare, Ireland",
+          "original_wording": "Moher the Cliffs of Moher",
+          "confidence": 0.9,
+          "source_page_id": "A_0186_L",
+          "excerpt": "set off for Moher the Cliffs of Moher. Lovely countryside ... Sheer cliffs to the sea + tower",
+          "geocode_hint": { "countrycodes": "ie" }
+        },
+        {
+          "normalized_name": "Doolin, County Clare, Ireland",
+          "original_wording": "Dolin",
+          "confidence": 0.85,
+          "source_page_id": "A_0186_L",
+          "excerpt": "We went to the music shop at Dolin where John bought a pipe.",
+          "geocode_hint": { "countrycodes": "ie" }
+        },
+        {
+          "normalized_name": "Aillwee Cave, County Clare, Ireland",
+          "original_wording": "Aillwee Mountain ... the Cave",
+          "confidence": 0.9,
+          "source_page_id": "A_0186_L",
+          "excerpt": "At Aillwee Mountain we went into the Cave. Remains of 2 bear pits",
+          "geocode_hint": { "countrycodes": "ie" }
+        },
+        {
+          "normalized_name": "The Burren, County Clare, Ireland",
+          "original_wording": "the Burren",
+          "confidence": 0.85,
+          "approximate": true,
+          "source_page_id": "A_0186_L",
+          "excerpt": "Tea on the Burren – amazing limestone plateaus with clefts",
+          "geocode_hint": { "countrycodes": "ie" }
+        },
+        {
+          "normalized_name": "Leamaneh Castle, County Clare, Ireland",
+          "original_wording": "Leamaneh Castle, Clare",
+          "confidence": 0.85,
+          "source_page_id": "A_0187_L",
+          "excerpt": "We stopped by the road next to Leamaneh Castle, + reached the pub, The Archway, at 8.45.",
+          "geocode_hint": { "countrycodes": "ie" }
+        },
+        {
+          "normalized_name": "Ennistymon, County Clare, Ireland",
+          "original_wording": "Ennistymon",
+          "confidence": 0.8,
+          "source_page_id": "A_0187_L",
+          "excerpt": "It was in Ennistymon, 3 miles from campsite.",
+          "geocode_hint": { "countrycodes": "ie" }
+        }
+      ]
+    },
+    {
+      "base_seq": 22,
+      "label": "Ennis Friary on the way to Clonmacnoise (Lough Ree base)",
+      "date_guess": "1996-08-13",
+      "stops": [
+        {
+          "normalized_name": "Ennis, County Clare, Ireland",
+          "original_wording": "Ennis ... Ennis Friary",
+          "confidence": 0.85,
+          "source_page_id": "A_0187_R",
+          "excerpt": "Simon went to shop in Ennis ... there was just time to see the friary, built by the O'Briens, for Franciscans.",
+          "geocode_hint": { "countrycodes": "ie" }
+        }
+      ]
+    },
+    {
+      "base_seq": 24,
+      "label": "Christening weekend around Killyleagh: Portaferry & Seaforde House",
+      "date_guess": "1996-08-16",
+      "stops": [
+        {
+          "normalized_name": "Portaferry, County Down, Northern Ireland",
+          "original_wording": "Portaferry",
+          "confidence": 0.8,
+          "source_page_id": "A_0189_R",
+          "excerpt": "We had a meal & saw rock pools at Portaferry.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Seaforde, County Down, Northern Ireland",
+          "original_wording": "Seaforde House",
+          "confidence": 0.8,
+          "source_page_id": "A_0189_R",
+          "excerpt": "On the Saturday we had a picnic, rocket launching & rounders & swimming at Seaforde House",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "issue": "Mixed-start spread: page A_0179_R opens with the tail of the previous trip (a German birthday party, leaving for home Thursday July 17th) before this Ireland trip begins under the heading 'Saturday August 3rd'. The Ireland trip starts at that heading.",
+      "source_page_id": "A_0179_R",
+      "excerpt": "At 4.45. after a German birthday party we left for home on Thursday July 17th ... Saturday August 3rd At 10.10. we set off, all 7 of us, for Ireland."
+    }
+  ],
+  "summary": "August 1996 family camping tour of Ireland: ferry from Holyhead to Dún Laoghaire, then a clockwise loop via Glendalough, Kildare, Kilkenny, the Rock of Cashel and the Vale of Aherlow to the Dingle Peninsula, with a boat trip to the Great Blasket. They crossed the Shannon car ferry to Clare for the Cliffs of Moher, the Burren and Aillwee Cave, then turned inland via Clonmacnoise and Lough Ree before finishing at a family christening in Killyleagh, Co Down, returning home via Knowth and the Dún Laoghaire–Holyhead ferry.",
+  "extraction_notes": "Stop order follows the hand-drawn numbered route map on A_0186_R (sketch outranks narrative). The diary dates are internally inconsistent (some entries carry stray ISO values like 1991 or 1997, and a 'Sat 16th August' heading appears mid-trip on A_0184_L before later correct dates), but A_0186_R titles the trip 'Ireland August 1996' and dated entries (Fri 9th Aug, Mon 12th, Tue 13th, Wed 14th, Thu 15th, Mon Aug 19) confirm 1996; date_start 1996-08-03 from 'Saturday August 3rd' and date_end 1996-08-19 from 'Monday August 19'. Overnight bases used for the main route: Anglesey campsite, Roundwood, Nore Valley/Bennettsbridge (nr Kilkenny), Vale of Aherlow, a Dingle-peninsula site near Dingle, Camp, Lahinch, Lough Ree (nr Athlone), and Killyleagh. Glendalough is treated as a day excursion from the Roundwood base (the diary plans it 'tomorrow' from Roundwood and the afternoon is spent 'back at the campsite'). 'Bonnet Bridge' is Bennettsbridge, Co Kilkenny (Nore Valley campsite). The Shannon ferry is an internal Irish crossing (Killimer–Tarbert) not present in ferries.json, recorded with route_key null. Killyleagh and the christening-weekend excursions (Portaferry, Seaforde) are in Northern Ireland (countrycodes gb). Sketches A_0180_L (Telford's Menai Bridge) and A_0182_R (Rock of Cashel) are architectural sketches that corroborate stops but do not establish route order; A_0186_R is the route map. Numbered map items 1-18 all appear as stops here either in the main route or as excursions."
+}

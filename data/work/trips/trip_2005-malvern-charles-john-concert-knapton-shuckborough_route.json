@@ -1,0 +1,136 @@
+{
+  "trip_id": "2005-malvern-charles-john-concert-knapton-shuckborough",
+  "title": "Malvern (Charles & John's concert), Napton & Shuckburgh",
+  "volume": "B",
+  "spread_range": ["B_0054", "B_0055"],
+  "diary_page_range": [52, 53],
+  "date_start": "2005-05-27",
+  "date_end": "2005-05-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Lordswood Road, Birmingham, UK",
+      "original_wording": "Lordswood Rd",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0054_R",
+      "excerpt": "Simon + Eve left at 12.40. + then had to go back, at Lordswood Rd, for the name of Grandma's + Helen's b. + b.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Trimpley, Worcestershire, UK",
+      "original_wording": "Trimplay",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0055_L",
+      "excerpt": "We finally get to Trimplay then on to lunch at Kate + Jamie's - lovely on the patio.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Malvern, Worcestershire, UK",
+      "original_wording": "Malvern",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0055_L",
+      "excerpt": "A quick cup of tea off to Malvern. Grandma + Helen stay in Wyche Keep Guest House. John or Charles play in every part of the concert. Charles does a euph solo. ... After dropping off Grandma + Helen we camp outside No 7.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Napton-on-the-Hill, Warwickshire, UK",
+      "original_wording": "Kay Knapton",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0055_L",
+      "excerpt": "We set off to William + Bryony at Kay Knapton ** **. As we drove in, William + Gregory were queuing up at an ice cream van.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Evening from Napton: supper at the Crown pub & detour to St Lawrence church",
+      "date_guess": "2005-05-28",
+      "stops": [
+        {
+          "normalized_name": "The Crown, Napton-on-the-Hill, Warwickshire, UK",
+          "original_wording": "Crown",
+          "confidence": 0.85,
+          "source_page_id": "B_0055_R",
+          "excerpt": "We had a filling supper at the Crown pub with good chips.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Church of St Lawrence, Napton-on-the-Hill, Warwickshire, UK",
+          "original_wording": "St Lawrence",
+          "confidence": 0.85,
+          "source_page_id": "B_0055_R",
+          "excerpt": "Simon + Eve did a detour to find the St Lawrence church. ... above the crest of the hill quite near the wind mill.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "7.5-mile walk from Napton past the windmill and Oxford Canal to Shuckburgh",
+      "date_guess": "2005-05-29",
+      "stops": [
+        {
+          "normalized_name": "Lower Shuckburgh (Shuckburgh Hall), Warwickshire, UK",
+          "original_wording": "Shuckborough",
+          "confidence": 0.8,
+          "source_page_id": "B_0055_R",
+          "excerpt": "we walked past a chapel belonging to a county house, Shuckborough. Ha ha. Lovely views, fields of cows + sheep ... we walked miles along a canal + reached a pub where we bought beer + ate our picnic lunch in the beer garden",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "B_0054_R",
+      "issue": "Page B_0054_R is boundary-mixed: it closes a PRIOR trip (a Kinwarton Dovecote outing ending 'We got home at 3.05. Sunday') before this trip begins at the heading 'Friday May 27th'. The dovecote sketch and 'Kinwarton Dovecot' / Sunday content were excluded from this trip's route.",
+      "resolution": "Trip start taken at the 'Friday May 27th' heading; pre-heading dovecote material assigned to the previous trip."
+    },
+    {
+      "page_id": "B_0055_R",
+      "issue": "Page B_0055_R is boundary-mixed and the captured narrative ends mid-sentence on 29 May during the canal walk ('where we weren't [illegible]'); no explicit return-home note is present in the bundled pages.",
+      "resolution": "Return to Birmingham (seq 6) inferred per the default 'trips end at home' rule; flagged at confidence 0.85."
+    }
+  ],
+  "summary": "A late-May 2005 weekend (Fri 27 - Sun 29 May). Simon and Eve set off, collected Grandma and Helen via Lordswood Road, called at Trimpley for lunch with Kate and Jamie, then went on to Malvern where John and Charles performed in a music festival (Charles a euphonium solo, John winning the music prize, with singing at Great Malvern Priory); the family camped outside No 7 while Grandma and Helen stayed at the Wyche Keep Guest House. They then drove to William and Bryony at Napton-on-the-Hill, camping there through a windy night, with a supper at the Crown pub, a hunt for St Lawrence's church by the windmill, and a 7.5-mile walk past the windmill and Oxford Canal to the chapel at Shuckburgh.",
+  "extraction_notes": "Evidence hierarchy: the only sketch page (B_0054_R) is a pencil illustration of the Kinwarton Dovecote and its 'potence' (pivoting ladder for 580 nesting boxes) - NOT a route sketch (no arrows, labels or numbered order), so narrative order governs. The dovecote material precedes the 'Friday May 27th' heading and belongs to the prior trip. Place identifications: 'Trimplay' = Trimpley (hamlet near Bewdley, Worcestershire). 'Kay Knapton' / 'Knapton' = Napton-on-the-Hill, Warwickshire - identified with high confidence from the diary's own landmarks: St Lawrence's church sits at the hill crest beside the windmill, the Oxford Canal contours around the hill, and the chapel of a country house at 'Shuckborough' is Shuckburgh Hall at neighbouring Lower Shuckburgh. The diarist's spelling 'Knapton' is a phonetic rendering of Napton. 'No 7' (Malvern) and 'Med Centre' / 'Priory' / 'Wyche Keep Guest House' are all within Malvern and treated as base detail, not separate stops. Lordswood Road is in Harborne/Edgbaston within Birmingham - kept as an explicit transit stop on the departure leg. Travellers: Simon, Eve, John, William and Charles are all named as present (concert performers and pushing the van); Grandma and Helen are companions for the Malvern leg only (guest house, taken back to Trimpley by Mr MacMaster) and are not listed as core family travellers; Thomas and Peter are not evidenced on these pages so are omitted. No sea/tunnel crossings - the trip is entirely within England (GB)."
+}

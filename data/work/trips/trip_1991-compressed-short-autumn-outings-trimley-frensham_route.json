@@ -1,0 +1,79 @@
+{
+  "trip_id": "1991-compressed-short-autumn-outings-trimley-frensham",
+  "title": "Short Autumn Outings: Trimley, Frensham & Kate and Jamie's Farm",
+  "volume": "A",
+  "spread_range": ["A_0054", "A_0054"],
+  "diary_page_range": [104, 104],
+  "date_start": "1991-08-31",
+  "date_end": "1991-09-22",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Trimley, Suffolk, UK",
+      "original_wording": "[?Trimley]",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0054_L",
+      "excerpt": "August 31st. We went to [?Trimley] for one night, William cooked a Pavlova.",
+      "geocode_hint": { "countrycodes": "gb", "hint": "Trimley St Mary or Trimley St Martin near Felixstowe, Suffolk" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Frensham, Surrey, UK",
+      "original_wording": "Frensham",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0054_L",
+      "excerpt": "Sept 7th We went to Jane + Harry's wedding anniv party, camped at Frensham + had lunch with [?Jeffreys]",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[?Trimley]",
+      "issue": "Place name uncertain; likely Trimley St Mary or Trimley St Martin near Felixstowe, Suffolk, given the Suffolk coastal context of the preceding diary entries (Aldeburgh, Thorpeness, Seamark), but transcription is marked uncertain.",
+      "source_page_id": "A_0054_L",
+      "excerpt": "We went to [?Trimley] for one night"
+    },
+    {
+      "original_wording": "Kate + Jamie's farm",
+      "issue": "Location of Kate and Jamie's farm not identified; no place name given. A trip named 1989-malvern-picnic-kate-jamie-s-farm exists suggesting a possible Malvern/West Midlands area, but this is speculative.",
+      "source_page_id": "A_0054_L",
+      "excerpt": "Sept 22nd We went to Kate + Jamie's farm for one night, picked plums + swam."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0054_L begins mid-page; preceding text belongs to the Thorpeness/Seamark holiday, not this trip."
+  ],
+  "summary": "Three brief domestic overnight outings in autumn 1991 compressed onto a single diary page: a one-night stay at [?Trimley] in Suffolk on 31 August, an overnight camp at Frensham in Surrey on 7 September for Jane and Harry's wedding anniversary party, and a one-night visit to Kate and Jamie's farm on 22 September. All trips started and ended at home in Birmingham; no crossings were involved.",
+  "extraction_notes": "This record covers three separate short trips compressed onto a single half-page (A_0054_L, diary p.104). The page has mixed_start=true, meaning the early part of the page belongs to the preceding Thorpeness holiday entry. Trimley is marked uncertain in the transcription; the Suffolk coastal context strongly suggests Trimley near Felixstowe but confidence is reduced. Kate and Jamie's farm has no location given — a 1989 trip record hints at a Malvern/West Midlands area but this is not confirmed. '[?Jeffreys]' on the Frensham entry appears to be a family name, not a place, and has not been recorded as a stop. Laura the au pair is mentioned for the Sept 22nd outing but is not a regular family member. The Sept 22nd outing to Kate and Jamie's farm is listed in the main_route only as an unresolved location; it is structurally another home–overnight–home loop but the destination cannot be geocoded. Dates are day-precise as given in the diary (1991-08-31, 1991-09-07, 1991-09-22); year confirmed as 1991 from the trip bundle."
+}

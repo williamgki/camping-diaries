@@ -1,0 +1,77 @@
+{
+  "trip_id": "1996-stratford-tyburn-rd-five-ways-day",
+  "title": "Stratford & Tyburn Rd / Five Ways (day trip)",
+  "volume": "A",
+  "spread_range": ["A_0177", "A_0178"],
+  "diary_page_range": [177, 178],
+  "date_start": "1996-05-28",
+  "date_end": "1996-05-28",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Stratford-upon-Avon, UK",
+      "original_wording": "Stratford",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0177_R",
+      "excerpt": "We went to Stratford, but there was no theatre matinée or cinema. Simon took us to a metal spinner & Powlett & Loach.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Tyburn Road, Birmingham, UK",
+      "original_wording": "Tyburn Rd",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0177_R",
+      "excerpt": "We drove on to Tyburn Rd to see \"Executive Decision\", which we enjoyed",
+      "geocode_hint": { "countrycodes": "gb", "city": "Birmingham" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Five Ways, Birmingham, UK",
+      "original_wording": "5-ways",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0177_R",
+      "excerpt": "afterwards we had a delicious supper at J Jays at 5-ways, although we were wearing old clothes",
+      "geocode_hint": { "countrycodes": "gb", "city": "Birmingham" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "Page A_0177_R has mixed_start=true: the opening text ('sketch because it is a view of the west wing...') belongs to the preceding trip (Farnborough Hall). The May 28th entry begins with '12 we set off to the south'."
+  ],
+  "summary": "A single-day outing on 28 May 1996 from Birmingham south to Stratford-upon-Avon, where the family visited a metal spinning workshop (Powlett & Loach), before driving to a cinema on Tyburn Road to see 'Executive Decision'. The day ended with supper at J Jays restaurant at Five Ways, Birmingham.",
+  "extraction_notes": "Page A_0177_R is a boundary page (mixed_start=true): the first paragraph describes Farnborough Hall (Long Walk, obelisk, temples) which belongs to the preceding trip. The May 28th Tuesday section starts cleanly mid-page. 'Stratford' is Stratford-upon-Avon (the obvious destination for a family day trip south of Birmingham). 'Tyburn Rd' is a road in north/east Birmingham (Erdington/Erdington area) where there was a cinema; the film 'Executive Decision' was released in 1996. Five Ways is the well-known junction in Edgbaston, Birmingham. Peter rested in the van at Farnborough Hall (preceding trip text) — not relevant to this trip. No crossings or excursions."
+}

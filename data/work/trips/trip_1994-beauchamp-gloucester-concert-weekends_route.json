@@ -1,0 +1,63 @@
+{
+  "trip_id": "1994-beauchamp-gloucester-concert-weekends",
+  "title": "Beauchamp (Gloucester) concert weekends",
+  "volume": "A",
+  "spread_range": ["A_0138", "A_0138"],
+  "diary_page_range": [138, 138],
+  "date_start": "1994-10-05",
+  "date_end": "1994-10-05",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beauchamp, Gloucester, UK",
+      "original_wording": "Beauchamp",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0138_R",
+      "excerpt": "5.10. We set off to Beauchamp to hear Thomas. Shostakovich Concerto 7 1st Movement, 2nd violin, Daniel Clarke 1st violin. Very good.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "note": "Named 'Beauchamp' in diary; title_guess places it in Gloucester area. Exact venue unknown — possibly a music school or concert venue in Gloucestershire. The Saturday reference ('On the Saturday William did a maths paper + then the rest of us walked up to look at the trains') suggests an overnight stay."
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Beauchamp",
+      "issue": "Venue identified only as 'Beauchamp' in the Gloucester area (from title_guess). Exact location unknown — could be a music school, concert hall, or similar venue in Gloucestershire. Geocoding as Gloucester area is approximate.",
+      "source_page_id": "A_0138_R",
+      "excerpt": "5.10. We set off to Beauchamp to hear Thomas. Shostakovich Concerto 7 1st Movement, 2nd violin, Daniel Clarke 1st violin. Very good."
+    }
+  ],
+  "boundary_flags": [
+    "Page A_0138_R is boundary_mixed: the 'Saturday 13th' section (1994-08-13) records the return home from a preceding trip including a ferry crossing via Canterbury/Watford Gap. That content belongs to a different trip and is excluded here. Only the '5.10' (1994-10-05) entry pertains to this trip."
+  ],
+  "summary": "A short domestic concert weekend in October 1994, with the family driving from Birmingham to 'Beauchamp' in the Gloucester area to hear Thomas perform the first movement of the Shostakovich Violin Concerto (playing 2nd violin alongside Daniel Clarke). The Saturday also included William doing a maths paper and a walk to see trains near a converted barn.",
+  "extraction_notes": "Single diary page A_0138_R with boundary_mixed:true. The page contains two distinct entries: 'Saturday 13th' (1994-08-13) is the end of an adjacent preceding trip (return home via ferry through Canterbury/Watford Gap) and is excluded from this route. The '5.10' entry (1994-10-05) is the sole evidence for this trip. 'Beauchamp' is placed in Gloucester per the title_guess but the exact venue is unresolved. The Saturday mention suggests at least one overnight stay, so the role is overnight_base rather than main_stop, but this is uncertain. No crossings. No travellers explicitly excluded — full family assumed. The ferry almost-missed and related content (Aylesford, Canterbury, Watford Gap, Womensworld) all belong to the preceding trip."
+}

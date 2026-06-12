@@ -1,0 +1,120 @@
+{
+  "trip_id": "1989-dinas-camp-near-harlech-half-term",
+  "title": "Dinas Camp near Harlech (half-term)",
+  "volume": "A",
+  "spread_range": ["A_0004", "A_0004"],
+  "diary_page_range": [2, 2],
+  "date_start": "1989-05",
+  "date_end": "1989-05",
+  "date_precision": "month",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dinas Camp, near Harlech, Wales",
+      "original_wording": "Dinas Camp near Harlech",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0004_L",
+      "excerpt": "Half-term at Dinas Camp near Harlech. May",
+      "geocode_hint": { "countrycodes": "gb", "near": "Harlech, Wales" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Harlech Castle",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Harlech Castle, Wales",
+          "original_wording": "Harlech castle",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "A_0004_L",
+          "excerpt": "Simon carried John in his push chair all the way up to the castle at Harlech from the carpark. We visited the river for swimming, Harlech castle, sandy beach",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sandy beach near Harlech",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Harlech Beach, Wales",
+          "original_wording": "sandy beach",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0004_L",
+          "excerpt": "sandy beach (including sandy icecream)",
+          "geocode_hint": { "countrycodes": "gb", "near": "Harlech, Wales" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Roman Steps picnic",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Roman Steps, Rhinog Mountains, Wales",
+          "original_wording": "the Roman steps",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0004_L",
+          "excerpt": "had a picnic at the Roman steps",
+          "geocode_hint": { "countrycodes": "gb", "near": "Rhinog Mountains, Gwynedd, Wales" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "River swimming",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "River near Harlech, Wales",
+          "original_wording": "the river",
+          "confidence": 0.7,
+          "approximate": true,
+          "source_page_id": "A_0004_L",
+          "excerpt": "We visited the river for swimming",
+          "geocode_hint": { "countrycodes": "gb", "near": "Harlech, Wales" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: true — page A_0004 may share content with the next trip; only one diary page covers this trip"
+  ],
+  "summary": "A half-term camping holiday in May 1989 at Dinas Camp near Harlech in north Wales, with all six children including baby Charles (6 weeks) and toddler John. Day trips from the fixed camp base included Harlech Castle, a sandy beach, a river swim, and a picnic at the Roman Steps in the Rhinog Mountains.",
+  "extraction_notes": "Entirely a UK domestic trip within Wales; no sea crossings. The trip is covered by a single diary page (A_0004_L). The boundary_evidence shows mixed_end=true, meaning the page may bleed into the next trip. Ages given in the diary (Simon 39, Eve 35, Thomas 9, William 7, Peter 6, John 21 months, Charles 6 weeks) are consistent with May 1989. Tinder (the dog) is not explicitly mentioned on this page but is included in travellers as the family pet. The 'river' is not specifically named; marked approximate. The Roman Steps are a well-known ancient packhorse trail in the Rhinog mountains east of Harlech — identifiable with high confidence. Date precision is month only; no specific day is given."
+}

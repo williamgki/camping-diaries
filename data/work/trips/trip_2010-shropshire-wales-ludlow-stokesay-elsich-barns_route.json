@@ -1,0 +1,113 @@
+{
+  "trip_id": "2010-shropshire-wales-ludlow-stokesay-elsich-barns",
+  "title": "Shropshire & Wales: Ludlow, Stokesay, Elsich Barns & the Elan Valley",
+  "volume": "B",
+  "spread_range": ["B_0173", "B_0175"],
+  "diary_page_range": [28, 29],
+  "date_start": "2010-06-11",
+  "date_end": "2010-06-13",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter", "Charles", "Magda Lipińska"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Ludlow, Shropshire, UK",
+      "original_wording": "Ludlow",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0173_R",
+      "excerpt": "We drove to Ludlow. There were pigeons nesting next to the loos in the Castle. They were setting up a stage for Othello.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Elsich, Corvedale, Shropshire, UK",
+      "original_wording": "Elstich Barns campsite",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0173_R",
+      "excerpt": "__Elstich Barns__ campsite - showers. ... The farmer came to visit, bringing an enormous old wasps' nest in a 'black sack' that he'd just removed from his roof. Lovely views.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Stokesay Castle, Shropshire, UK",
+      "original_wording": "Stokesay Castle",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0174_L",
+      "excerpt": "We went to Stokesay Castle + each listened to a tape recording of its history as we wandered around. A beautiful place. It surrendered to Cromwell's troops in the civil war.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Elan Valley Reservoirs, Powys, Wales, UK",
+      "original_wording": "Elan Valley Reservoirs",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0174_L",
+      "excerpt": "Enroute to the Elan Valley Reservoirs we had an outdoor lunch at a pub. There were 3 or more Reservoirs, built 1886-19[illegible].",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Cwmystwyth, Ceredigion, Wales, UK",
+      "original_wording": "Cwmiswyth",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0175_L",
+      "excerpt": "Cwmiswyth*** east of Devil's Bridge. We've come to a beautiful campsite in a narrow valley. Peter & Magda have gone off for a walk. We are next to running water & there are cows on the flat valley bottom.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Tregaron, Ceredigion, Wales, UK",
+      "original_wording": "Tregaron",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0175_L",
+      "excerpt": "We found a church service, Matins in Welsh, warm welcome, at Tregaron. Nice craft shop.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": "B_0175_L",
+      "excerpt": "We found a church service, Matins in Welsh, warm welcome, at Tregaron. Nice craft shop.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "B_0175_L",
+      "issue": "Page is boundary_mixed: the top continues the previous trip day (June 12 Elan Valley / Cwmystwyth narrative) and the bottom begins Sunday June 13th (Tregaron). The diary record ends at Tregaron with no explicit return-home note, so the trip end and the homeward leg (seq 8) are inferred."
+    }
+  ],
+  "summary": "A three-day family camping trip from Birmingham into Shropshire and mid-Wales over 11-13 June 2010 with Simon, Eve, Peter, Charles and guest Magda Lipińska (plus the dog). They visited Ludlow Castle and camped the first night at Elsich Barns in the Corvedale, Shropshire, then drove via Stokesay Castle and the Elan Valley reservoirs to a second campsite at Cwmystwyth, east of Devil's Bridge, before attending a Welsh-language Matins service at Tregaron on the Sunday.",
+  "extraction_notes": "Sketch page B_0174_L is a scenery/landscape sketch (view from the campsite at 'Eastward, Shropshire'), NOT a numbered route sketch, so route order follows the dated narrative (evidence rule 2). Dog is transcribed as 'Tonic' (the family dog Tinder/'Tonic') and omitted from travellers. B_0173_R carries an OCR date iso of 2004-06-11 but the heading 'Friday June 11th' matches 2010 (June 11 2010 was a Friday) and the other pages are dated 2010, so date_start is 2010-06-11. Campsite name transcribed 'Elstich Barns'; trip_id slug uses 'elsich-barns' and the place is normalized to Elsich in the Corvedale, Shropshire (approximate). 'Eastward, Shropshire' on the sketch caption is an ambiguous campsite-view label and is treated as part of the Elsich Barns base rather than a separate stop. 'Cwmiswyth' normalized to Cwmystwyth (Ceredigion), supported by 'east of Devil's Bridge'. Devil's Bridge is named only as a geographic reference, not visited, so it is not a stop. No sea crossings (all GB). Return home on/after 13 June is inferred (mixed_end), hence low confidence on the closing home stop."
+}

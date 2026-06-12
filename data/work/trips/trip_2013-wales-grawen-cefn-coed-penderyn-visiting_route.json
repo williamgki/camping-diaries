@@ -1,0 +1,118 @@
+{
+  "trip_id": "2013-wales-grawen-cefn-coed-penderyn-visiting",
+  "title": "Wales: Grawen, Cefn Coed, Penderyn (visiting John)",
+  "volume": "B",
+  "spread_range": ["B_0211", "B_0211"],
+  "diary_page_range": [211, 211],
+  "date_start": "2013-05-17",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Grawen, Brecon Beacons, Wales",
+      "original_wording": "Grawen",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0211_R",
+      "excerpt": "Simon, Eve + Tinder set off at 4.30 for Wales to see John. We are staying at Grawen",
+      "geocode_hint": { "countrycodes": "gb", "near": "Pontsticill, Wales" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Cycle along reservoir near Grawen",
+      "date_guess": "2013-05-17",
+      "stops": [
+        {
+          "normalized_name": "Pontsticill Reservoir, Wales",
+          "original_wording": "reservoir",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0211_R",
+          "excerpt": "A bike ride to beside a dam. cycled 8k with Tinder along reservoir.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Pontsticill, Merthyr Tydfil" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Lunch at The Station Hotel, Cefn Coed with John",
+      "date_guess": "2013-05-17",
+      "stops": [
+        {
+          "normalized_name": "Cefn-coed-y-cymmer, Wales",
+          "original_wording": "Cefn Coed",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0211_R",
+          "excerpt": "John arrived after 11 & we went to lunch at The Station Hotel, Cefn Coed.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Merthyr Tydfil" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Walk to waterfall with John",
+      "date_guess": "2013-05-17",
+      "stops": [
+        {
+          "normalized_name": "Waterfall, Brecon Beacons, Wales",
+          "original_wording": "water fall",
+          "confidence": 0.6,
+          "approximate": true,
+          "source_page_id": "B_0211_R",
+          "excerpt": "Then we walked. We saw a water fall. Lots of up hill & down hill & I fell off at tree into a bog.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Brecon Beacons" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Visit to Penderyn Distillery",
+      "date_guess": "2013-05-17",
+      "stops": [
+        {
+          "normalized_name": "Penderyn Distillery, Penderyn, Wales",
+          "original_wording": "The distillery, Penderyn",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0211_R",
+          "excerpt": "The distillery, Penderyn, was over booked.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Hirwaun, Rhondda Cynon Taf" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "Simon and Eve drove with the dog Tinder to Grawen (near Pontsticill Reservoir in the Brecon Beacons) on Friday 17 May 2013 to visit their son John. Activities included cycling along the reservoir, lunch at The Station Hotel in Cefn Coed, a muddy waterfall walk, and an attempt to visit the Penderyn whisky distillery (which was overbooked).",
+  "extraction_notes": "Single diary page (B_0211_R). The page begins mid-sentence from a previous trip entry; the Wales trip entry starts clearly at 'Friday May 17th.' No return date is recorded. John (one of the sons) joined them from the area rather than travelling with them from Birmingham. The date 2013-05-17 is consistent with a Friday in May 2013. The Grawen campsite is likely Grawen Farm near Pontsticill Reservoir in the Brecon Beacons. The waterfall visited is unnamed in the diary but is likely in the Waterfall Country area near Ystradfellte, which is close to both Pontsticill and Penderyn. Tinder is the family dog, not a traveller."
+}

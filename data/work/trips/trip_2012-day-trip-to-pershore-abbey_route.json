@@ -1,0 +1,53 @@
+{
+  "trip_id": "2012-day-trip-to-pershore-abbey",
+  "title": "Day trip to Pershore (Abbey)",
+  "volume": "B",
+  "spread_range": ["B_0189", "B_0189"],
+  "diary_page_range": [189, 189],
+  "date_start": "2012-06-16",
+  "date_end": "2012-06-16",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Pershore, Worcestershire, UK",
+      "original_wording": "Pershore",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0189_R",
+      "excerpt": "Simon, Eve & Tinder went on a day trip to Pershore. Simon bought a battery for the van. We wandered around Pershore & bought a mirror for dressing up in the play room. The Abbey is beautiful. They allowed us to take Tinder in.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0189_R",
+      "excerpt": "It was a wet day but we enjoyed it.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "Simon, Eve, and the dog Tinder made a day trip from Birmingham to Pershore, Worcestershire, visiting the Abbey (which allowed dogs inside), wandering the town, and buying a van battery and a mirror. It was a wet day but enjoyable.",
+  "extraction_notes": "Single-page entry on B_0189_R. The same diary page contains an earlier, separate entry about a weekend at a hotel with an Euston Agricultural Show visit — that entry is a distinct trip segment, not part of this Pershore day trip. The page's parsed iso date shows '2003' but the trip bundle's date_guess and trip_id both indicate 2012-06-16, which is used here. No overnight stays, no crossings. The diary explicitly names Pershore as the destination."
+}

@@ -1,0 +1,423 @@
+{
+  "trip_id": "1999-scotland-glasgow-mull-iona-trossachs-st",
+  "title": "Scotland: Glasgow, Mull, Iona, the Trossachs & St Andrews",
+  "volume": "A",
+  "spread_range": ["A_0270", "A_0278"],
+  "diary_page_range": [null, null],
+  "date_start": "1999-07-31",
+  "date_end": "1999-08-14",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "Peter", "John", "Charles", "Thomas"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0270_L",
+      "excerpt": "We set off at 4 pm, S, E, W, P, J, C, (Thomas is at Jesta in Belgium + will join us later)",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Orton, Cumbria",
+      "original_wording": "Orton",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0270_L",
+      "excerpt": "We motored up to Orton near the Lake District (J. [?M] 38 on M6) A beautiful campsite",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Glasgow",
+      "original_wording": "Art Lover's Ho, Glasgow",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0270_L",
+      "excerpt": "We drove off at 9.45 + had lunch at the Art Lover's Ho, Glasgow. Designed 1901 by Mackintosh + MacDonald.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Balloch, Loch Lomond",
+      "original_wording": "Balloch *** on lochlomond",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0270_R",
+      "excerpt": "we drove up to Balloch *** on lochlomond. Very organised campsite, keys to showers.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Inveraray",
+      "original_wording": "Inveraray",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0271_L",
+      "excerpt": "We left at 10.30, going N.W. We stopped at [?dodgems] Inveraray. (We went up the west side of Loch Lomond).",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "St Conan's Kirk, Loch Awe",
+      "original_wording": "St. Conan's Kirk",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0271_L",
+      "excerpt": "Then north to Loch Awe. We stopped to see St. Conan's Kirk, light. Carvings. Zigzagging to Oban.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Oban",
+      "original_wording": "Oban",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0271_L",
+      "excerpt": "We reach Oban, 1¾ hour wait for the ferry. Oban is like Barmouth, but bigger.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Craignure, Isle of Mull",
+      "original_wording": "Craignure",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0271_L",
+      "excerpt": "Very near the ferry terminus, on the 'Island of Mull, is our campsite, Craignure ***",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Tobermory, Isle of Mull",
+      "original_wording": "Tobermory",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0273_R",
+      "excerpt": "Tobermory is v. pretty. We had elevenses & shopped.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Resipole, Loch Sunart",
+      "original_wording": "Resipole on Loch Sunart",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0273_R",
+      "excerpt": "On to Resipole on Loch Sunart. Glorious sunshine. Even Simon & Eve swam in the loch when we arrived.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Glencoe",
+      "original_wording": "Glencoe",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0274_R",
+      "excerpt": "We had lunch looking across at loch at Glencoe.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Trossachs Holiday Park, Aberfoyle",
+      "original_wording": "Trossachs Holiday Park",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0274_R",
+      "excerpt": "The country side has become more wooded. We have reached the Trossachs.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Stirling",
+      "original_wording": "Stirling",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0275_L",
+      "excerpt": "We had a leisurely breakfast & set off for Stirling. The castle is comprised of [?late] Renaissance buildings on top of a levelled-off volcano.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Dunblane",
+      "original_wording": "Dunblane",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0275_R",
+      "excerpt": "We saw Dunblane Cathedral, [?B], severe, old crosses, a knight in armour & his wife. Well worth seeing.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "West Pitcorthie, Anstruther",
+      "original_wording": "West Pitcorthie ([?Anstruther])",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0275_R",
+      "excerpt": "On to St Andrews. We found two hideously crowded campsites, & then reached West Pitcorthie ([?Anstruther]) ✦✦✦✦✦. It is a large field with a beautiful view of the Firth of the Fourth.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "St Andrews",
+      "original_wording": "St. Andrews",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0276_L",
+      "excerpt": "After lunch in a lane we arrived at St. Andrews. ETWP went on a guided tour of the university + town.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Edinburgh",
+      "original_wording": "Edinburgh",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0276_R",
+      "excerpt": "We had dough nuts for tea + drove on to a campsite at [?Druikcyit / Brushcyit]. After putting up the tents we drove into Edinburgh + walked around + had a delicious fish supper at Kreelers.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "North Berwick",
+      "original_wording": "North Berwick",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0277_R",
+      "excerpt": "We reached North Berwick, & the Torrance's house \"Sea Spray\" on a cliff with a lovely sandy beach",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Soutra Aisle, Midlothian",
+      "original_wording": "Soutra",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0278_L",
+      "excerpt": "We had clevenses at the old chapel + hospice of Soutra, an Augustrian monastery, closed for bad behavious in 1460.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Selkirk",
+      "original_wording": "Selkirk",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0278_L",
+      "excerpt": "We bought oatcakes at Selkirk",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Hawick",
+      "original_wording": "Hawick",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0278_L",
+      "excerpt": "At Hawick, the wool mill town, we stopped & bought a brown cashmere sweater.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0278_L",
+      "excerpt": "We drove on through sun & heavy rain bands & got home about 8.45. Then we all went out for a balti.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 7,
+      "route_key": null,
+      "from_name": "Oban",
+      "to_name": "Craignure (Isle of Mull)",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0271_L",
+      "excerpt": "We reach Oban, 1¾ hour wait for the ferry. ... Very near the ferry terminus, on the 'Island of Mull, is our campsite, Craignure",
+      "note": "Oban-Craignure (CalMac) crossing to the Isle of Mull; not in pipeline/ferries.json (Scottish island route), so route_key is null."
+    },
+    {
+      "after_seq": 9,
+      "route_key": null,
+      "from_name": "Isle of Mull (Craignure)",
+      "to_name": "mainland (Lochaline / Ardnamurchan)",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "A_0273_L",
+      "excerpt": "We turned around & went down to a ferry boat. There we found a Forestry Commission track ... but we arrived at the far side",
+      "note": "On leaving Mull (Fri 6 Aug) they reached Tobermory then Resipole on Loch Sunart, which is on the Ardnamurchan/Morvern mainland; the Sound of Mull was crossed by ferry (the diary mentions 'went down to a ferry boat'). Specific port not stated; not in pipeline/ferries.json."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Day trips into Glasgow from Balloch (Loch Lomond)",
+      "date_guess": "1999-08-02",
+      "stops": [
+        {
+          "normalized_name": "Glasgow School of Art",
+          "original_wording": "School of Art",
+          "confidence": 0.9,
+          "source_page_id": "A_0270_R",
+          "excerpt": "We went back into Glasgow + parked by the river + walked across an old pedestrian bridge, up the hill to the School of Art tour at 11.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Burrell Collection, Glasgow",
+          "original_wording": "Burrell Collection",
+          "confidence": 0.9,
+          "source_page_id": "A_0271_L",
+          "excerpt": "We drove on to the Burrell Collection. Wonderful mediaeval carvings - alabaster from Nottingham.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Day trips from Craignure (Isle of Mull)",
+      "date_guess": "1999-08-04",
+      "stops": [
+        {
+          "normalized_name": "Torosay Castle, Isle of Mull",
+          "original_wording": "Torosay Castle",
+          "confidence": 0.9,
+          "source_page_id": "A_0271_R",
+          "excerpt": "Early lunch & caught 1.10 train from Craignure to Torosay Castle. We walked",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Duart Castle, Isle of Mull",
+          "original_wording": "Duart Castle",
+          "confidence": 0.9,
+          "source_page_id": "A_0272_L",
+          "excerpt": "2½ miles - a lovely walk, around the bay, to Duart Castle. 7-8 foot-thick walls. Home of MacCleans.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Iona",
+          "original_wording": "Iona",
+          "confidence": 0.9,
+          "source_page_id": "A_0272_R",
+          "excerpt": "We set off for Iona, which was rather a disappointment. Lots of people milling around like cattle.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "North-west Isle of Mull beaches",
+          "original_wording": "the N.W. of the Isle of Mull",
+          "confidence": 0.8,
+          "source_page_id": "A_0273_L",
+          "excerpt": "after crossing back on the ferry, we went to the N.W. of the Isle of Mull & played on the sand, with worm casts, & Charles & John swam.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 10,
+      "label": "Drive to Lochailort to collect Thomas (from Resipole)",
+      "date_guess": "1999-08-07",
+      "stops": [
+        {
+          "normalized_name": "Lochailort",
+          "original_wording": "Lochailort",
+          "confidence": 0.85,
+          "source_page_id": "A_0274_L",
+          "excerpt": "So I drove on to Lochailort to pick up Thomas from the station. We all returned at the same time.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 12,
+      "label": "Day trips from the Trossachs (Shaw-Stewart farm & Dunblane)",
+      "date_guess": "1999-08-09",
+      "stops": [
+        {
+          "normalized_name": "Dunblane",
+          "original_wording": "Dunblane",
+          "confidence": 0.8,
+          "source_page_id": "A_0275_L",
+          "excerpt": "In the late afternoon we shopped at Dunblane & had fish & chips.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Day trip to the Secret Bunker & St Andrews (from West Pitcorthie)",
+      "date_guess": "1999-08-11",
+      "stops": [
+        {
+          "normalized_name": "Scotland's Secret Bunker, Crown Buildings, near St Andrews",
+          "original_wording": "Secret Bunker",
+          "confidence": 0.85,
+          "source_page_id": "A_0276_L",
+          "excerpt": "We then went on to the Secret Bunker. ... We enjoyed the bunker, but the best bit was a harrowing film",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 17,
+      "label": "Days in Edinburgh (from the Edinburgh campsite)",
+      "date_guess": "1999-08-12",
+      "stops": [
+        {
+          "normalized_name": "Edinburgh",
+          "original_wording": "Edinburgh",
+          "confidence": 0.85,
+          "source_page_id": "A_0277_L",
+          "excerpt": "Simon dropped us off in the middle of Edinburgh before he parked at Louise's. We looked around the middle of town",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Druikcyit / Brushcyit]",
+      "issue": "Name of the campsite near Edinburgh is illegible; modelled as an Edinburgh-area overnight base (seq 17) on the strength of 'drove on to a campsite ... drove into Edinburgh', but the exact site/location is uncertain.",
+      "source_page_id": "A_0276_R",
+      "excerpt": "We had dough nuts for tea + drove on to a campsite at [?Druikcyit / Brushcyit]."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0278_R",
+      "issue": "End-of-trip page (boundary_mixed=true) is a printed road atlas of Scotland with the hand-drawn trip route traced over it, accompanied by a long gazetteer-style list of Scottish place names. The vast majority of those place names (Lewis, Stornoway, Skye, John o'Groats, Aberdeen, etc.) are map labels, NOT places visited; they were excluded as stops. The hand-drawn route line corroborates the narrative order (south from England, up the west coast via Inveraray/Oban to Mull, loop back through the central Highlands to Trossachs/Stirling, east to Fife, Edinburgh, then south through the Borders home)."
+    }
+  ],
+  "summary": "A 1999 family camping holiday touring central and western Scotland (Sat 31 July to Sat 14 Aug). From Birmingham the family camped at Orton near the Lake District, then Balloch on Loch Lomond (with day trips into Glasgow for the Art Lover's House, School of Art and Burrell Collection), crossed by ferry from Oban to the Isle of Mull (Craignure base, with excursions to Torosay and Duart Castles, Iona and the NW Mull beaches), then Resipole on Loch Sunart. They drove on via Glencoe to the Trossachs and Stirling, to West Pitcorthie near St Andrews (viewing the 11 August eclipse and the Secret Bunker), then to Edinburgh and North Berwick, before returning home through the Borders via Soutra, Selkirk and Hawick.",
+  "extraction_notes": "Route order is anchored by the hand-drawn route traced on the printed road atlas (A_0278_R, evidence rank 1), which matches the dated narrative exactly: home -> Orton -> Glasgow/Balloch -> Inveraray/Loch Awe/Oban -> ferry to Mull (Craignure) -> Tobermory -> ferry off Mull -> Resipole -> Glencoe -> Trossachs/Stirling -> St Andrews/West Pitcorthie -> Edinburgh -> North Berwick -> Borders -> home. The other three sketch images (A_0270_L music room of the Art Lover's House; A_0272_R Duart Bay; A_0274_R Glencoe loch) are scenic/illustrative, not route diagrams, so they only confirm individual stops. Glasgow is modelled as a main_stop (lunch en route, seq 3) with the deeper Glasgow sightseeing (School of Art, Burrell) as excursions from the Balloch base. Two sea crossings are recorded: Oban->Craignure (named ferry) and the unnamed crossing off Mull on departure (Sound of Mull) to reach the Loch Sunart mainland; neither Scottish island port appears in pipeline/ferries.json so route_key is null. Thomas joined the family partway through (collected from Lochailort station on 7 Aug); travellers list reflects the full party. Several OCR dates were partly illegible/garbled (e.g. A_0278_L tagged 1993 in source for Sat 14 Aug 1999, and A_0270_R Mon Aug 2nd); dates were normalised to the 1999 calendar, which is consistent (Aug 11 1999 eclipse matches the 'Wed Aug 11th' eclipse-viewing page). Volume index entry was null; diary_page_range left null as page numbers were sparse/missing."
+}

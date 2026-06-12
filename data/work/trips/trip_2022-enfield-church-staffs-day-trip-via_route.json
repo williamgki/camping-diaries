@@ -1,0 +1,73 @@
+{
+  "trip_id": "2022-enfield-church-staffs-day-trip-via",
+  "title": "Enfield Church (Staffs) day trip via Black Country",
+  "volume": "B",
+  "spread_range": ["B_0360", "B_0360"],
+  "diary_page_range": [61, 61],
+  "date_start": "2022-02-26",
+  "date_end": "2022-02-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "George Rd",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0360_R",
+      "excerpt": "We left George Rd to spend a day in the country. NW.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Enville, Staffordshire, UK",
+      "original_wording": "Enfield Church, Staffordshire",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0360_R",
+      "excerpt": "We parked at Enfield Church, Staffordshire for lunch. Then we walked down the hill + across fields near the hall, past playing fields to a lake.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Stourbridge, UK" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Spring Hill, Birmingham, UK",
+      "original_wording": "Spring Hill",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0360_R",
+      "excerpt": "we headed for home through the Black Country. At Spring Hill we filled up with LPG gas.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Birmingham, UK" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0360_R",
+      "excerpt": "we headed for home through the Black Country",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Enfield Church, Staffordshire",
+      "issue": "Diary spells it 'Enfield Church' but no parish or village named Enfield is known in Staffordshire; most likely Enville Church (St Mary the Virgin) near Stourbridge, South Staffordshire, which is NW of Birmingham. Transcribed exactly as written; geocoded under Enville pending confirmation.",
+      "source_page_id": "B_0360_R",
+      "excerpt": "We parked at Enfield Church, Staffordshire for lunch."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0360 also contains the start of the following Wales/Scotland trip (Wednesday March 9th entry); only the February 26th section belongs to this trip."
+  ],
+  "summary": "A single-day campervan outing on 26 February 2022, heading NW from Birmingham to Enfield Church (likely Enville Church), Staffordshire, for lunch and a walk across fields to a lake. The family returned home through the Black Country, stopping at Spring Hill to fill up with LPG gas; a planned tea stop at Astley Abbotts was cancelled.",
+  "extraction_notes": "1. 'Enfield Church, Staffordshire' is almost certainly Enville Church (St Mary the Virgin) near Stourbridge — the transcription note in B_0360.json supports this and the NW direction from Birmingham is consistent. The unresolved entry flags this for reviewer confirmation. 2. Astley Abbotts (near Bridgnorth, Shropshire) was explicitly NOT visited ('no tea at Astley Abbotts') so it is not included as a stop. 3. The page is marked mixed_start=true; the Wednesday March 9th and Thursday entries on the same page belong to a different trip (Wales/Scotland). 4. Travellers named are only Simon (explicitly) and implicitly Eve ('we'); '[?Lizzie]' is an uncertain name and may be a guest, not a family member. No children are mentioned for this outing."
+}

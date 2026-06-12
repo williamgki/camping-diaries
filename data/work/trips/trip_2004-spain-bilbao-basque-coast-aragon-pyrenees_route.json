@@ -1,0 +1,616 @@
+{
+  "trip_id": "2004-spain-bilbao-basque-coast-aragon-pyrenees",
+  "title": "Spain & France: Bilbao, the Basque Coast, Aragon Pyrenees & the road home",
+  "volume": "B",
+  "spread_range": ["B_0021", "B_0047"],
+  "diary_page_range": [19, 94],
+  "date_start": "2004-07-31",
+  "date_end": "2004-08-20",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB", "ES", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0021_L",
+      "excerpt": "We left at 10 but before reaching Sainsburys we returned home for Simon's sandals.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Portsmouth, UK",
+      "original_wording": "the ferry",
+      "role": "crossing_terminal",
+      "confidence": 0.6,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "No UK port named, but the long Bay of Biscay crossing that disembarks at Bilbao matches the Portsmouth-Bilbao ferry; departure port inferred",
+      "source_page_id": "B_0021_L",
+      "excerpt": "We left at 6 for the ferry.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bilbao, Spain",
+      "original_wording": "Bilbao",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0022_L",
+      "excerpt": "We disembarked + went to see the Guggenheim Museum (Bilbao). It's amazing looking - titanium + limestone.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Guernica (Gernika-Lumo), Spain",
+      "original_wording": "Guernica",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0022_R",
+      "excerpt": "We drove on to Guernica + ate a very good lunch in a room behind a bar.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Mutriku, Spain",
+      "original_wording": "Mutriku",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0022_R",
+      "excerpt": "We drove on + found a campsite on the east side of Mutriku, above the harbour.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "San Sebastian (Donostia), Spain",
+      "original_wording": "Donostia-San Sebastian",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0023_L",
+      "excerpt": "Donostia-San Sebastian, then south Towards Pamplona.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Puente la Reina, Navarre, Spain",
+      "original_wording": "Puente de la Reina",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0023_R",
+      "excerpt": "We had lunch at Puente de la Reina, which has a lovely old bridge.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Santa Maria de Eunate, Navarre, Spain",
+      "original_wording": "Santa Maria Eunate",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0023_R",
+      "excerpt": "We drove on to see a [?funeral] church, Santa Maria Eunate, where pilgrims would be buried. It was in a field of sunflowers.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Lumbier, Navarre, Spain",
+      "original_wording": "Lumber[illegible] / Aitxeta Campsite",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0023_R",
+      "excerpt": "We found a campsite at Lumber[illegible]",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Foz de Lumbier, Navarre, Spain",
+      "original_wording": "Hoz de Lumbier",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0024_L",
+      "excerpt": "We set of to Hoz de Lumbier, it's a gorge, limestone.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Monasterio de San Salvador de Leyre, Navarre, Spain",
+      "original_wording": "Leyre",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0024_L",
+      "excerpt": "Then we drove a short distance to the monastery of Leyre.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Sangueesa, Navarre, Spain",
+      "original_wording": "Sanguesa",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0024_R",
+      "excerpt": "We shopped at Sanguesa",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Ruesta, Aragon, Spain",
+      "original_wording": "Ruesta / R[?obesta]",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0025_L",
+      "excerpt": "We are staying on at Ruesta.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Jaca, Aragon, Spain",
+      "original_wording": "Jaca",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0026_L",
+      "excerpt": "We drove on to Jaca & saw lovely capitals - David & Musicians & Salen's Ass at the Cathederal.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Ainsa, Aragon, Spain",
+      "original_wording": "Ainsa / Alto Aragon",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0026_R",
+      "excerpt": "We travelled over a high pass & came down through Aragon... We finally reached Ainsa... & shopped.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Tunnel of Bielsa (Bielsa-Aragnouet Tunnel), Spain-France border",
+      "original_wording": "Tunnel of Bielsa",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0031_L",
+      "excerpt": "It was a long drive on over the border into France, through a tunnel going upwards, Tunnel of Bielsa.",
+      "geocode_hint": { "countrycodes": "es,fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Massat, Ariege, France",
+      "original_wording": "Massat",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0031_R",
+      "excerpt": "We reached a French Village, Massat. a municipal campsite. Clean warm showers but no pool.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Bedeilhac Cave (Grotte de Bedeilhac), Ariege, France",
+      "original_wording": "Bedeilhac",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0031_R",
+      "excerpt": "We left for the enormous cave of Bedeilhac. It is so big that an aeroplane flew out of it.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Tarascon-sur-Ariege, France",
+      "original_wording": "Park of Prehistory / Taraskon sur Ariege",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0031_R",
+      "excerpt": "we drove on to a Park of Prehistory, which we very much enjoyed.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Ax-les-Thermes, Ariege, France",
+      "original_wording": "le Malageou Camping near Ax-les-Thermes",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0032_R",
+      "excerpt": "drove on to le Malageou Camping *** near Ax-les-Thermes.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Montaillou, Ariege, France",
+      "original_wording": "Montaillou",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0033_L",
+      "excerpt": "We drove on to Montaillou. It's a small, attractive village, parts decayed, parts repaired.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Col de Jau, Pyrenees-Orientales, France",
+      "original_wording": "Col de Jau",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0034_L",
+      "excerpt": "We came out into Col de Jau - views unfortunately clouded, but 5 very naughty horses terrorising car drivers for bread!!",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Prades, Pyrenees-Orientales, France",
+      "original_wording": "Prades",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0034_L",
+      "excerpt": "Then we reached Prades. The Municipal Camping was complet.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Abbaye Saint-Michel de Cuxa, Codalet, France",
+      "original_wording": "Abbaye St. Michel de Cuxa",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0034_L",
+      "excerpt": "We have driven on to the Abbaye St. Michel de Cuxa (also on the Pilgrim's Santiagoway.)",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Vernet-les-Bains, Pyrenees-Orientales, France",
+      "original_wording": "Les Santerelles (campsite) / Vernet les Bains",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0034_L",
+      "excerpt": "Reached Les Santerelles ** [Filbls?], high up with views, (sadly overgrown orchard) swimming pool, good showers",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Eus, Pyrenees-Orientales, France",
+      "original_wording": "Eux",
+      "role": "main_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0037_R",
+      "excerpt": "We said goodbye + drove about 25 mins to Eux, a village on a steep hillside.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 27,
+      "normalized_name": "Ille-sur-Tet, Pyrenees-Orientales, France",
+      "original_wording": "Ille-sur-Tet",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0038_L",
+      "excerpt": "We ended up watching our pizzas being made at Ille-sur-Tet.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 28,
+      "normalized_name": "Trebes, Aude, France",
+      "original_wording": "Trebe",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0038_R",
+      "excerpt": "The washing dried incredibly quickly at Trebe*. Apart from that the campsite is pretty dire.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 29,
+      "normalized_name": "Carcassonne, Aude, France",
+      "original_wording": "Carcasson",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0039_L",
+      "excerpt": "We drove into Carcasson, a fortified town, which was once taken by Simon de Montfort.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 30,
+      "normalized_name": "Realmont, Tarn, France",
+      "original_wording": "Realmont",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0040_L",
+      "excerpt": "it turned out that although Realmont ** had a river, it was green.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 31,
+      "normalized_name": "Albi, Tarn, France",
+      "original_wording": "Albi",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0040_R",
+      "excerpt": "On to Albi.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 32,
+      "normalized_name": "Eymoutiers, Haute-Vienne, France",
+      "original_wording": "Eygmoutiers / campsite Pierrette",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0042_L",
+      "excerpt": "we set off to Eygmoutiers - a long drive, very hot & sweaty.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 33,
+      "normalized_name": "Futuroscope, Poitiers (Chasseneuil-du-Poitou), France",
+      "original_wording": "Futuroscope / 'Clarion' Hotel",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0042_R",
+      "excerpt": "we turned into Futuroscope, the French scientific theme park. We stayed in 'Clarion' Hotel",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 34,
+      "normalized_name": "Le Mans, France",
+      "original_wording": "Le Mans",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0043_R",
+      "excerpt": "We drove north, stopping for food... We drove past Le Mans.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 35,
+      "normalized_name": "Rouvrou, Suisse Normande, Orne, France",
+      "original_wording": "Rouvrou in the Le Suisse Normand",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0043_R",
+      "excerpt": "At 5.45 we arrived at Rouvrou in the Le Suisse Normand. Simon remember where it was.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 36,
+      "normalized_name": "Pegasus Bridge (Benouville), Normandy, France",
+      "original_wording": "Pegasus Bridge",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0044_R",
+      "excerpt": "The museum at Pegasus Bridge [?now] has an outside section with a Bailey Bridge + gliders.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 37,
+      "normalized_name": "Arromanches-les-Bains, Normandy, France",
+      "original_wording": "Arromanches",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0044_R",
+      "excerpt": "We drove on to Arromanches + looked at the circular movie of the invasion + remains.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 38,
+      "normalized_name": "Bayeux, Normandy, France",
+      "original_wording": "Bayeux",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0044_R",
+      "excerpt": "We arrived in Bayeux + the campsite was 'complet' but Simon managed to talk his way in",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 39,
+      "normalized_name": "Port-en-Bessin-Huppain, Normandy, France",
+      "original_wording": "Port en Bessin",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0045_L",
+      "excerpt": "We stopped at Port en Bessin to buy John's birthday cake.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 40,
+      "normalized_name": "Longues-sur-Mer, Normandy, France",
+      "original_wording": "Longues",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0045_R",
+      "excerpt": "On to Longues. We had lunch at the carpark & looked at the German gun emplacements & a look-out post.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 41,
+      "normalized_name": "Pointe du Hoc, Normandy, France",
+      "original_wording": "Pointe du Hoc",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0045_R",
+      "excerpt": "Pointe du Hoc was the last war place we visited. The Rangers took it with tremendous losses.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 42,
+      "normalized_name": "Barfleur, Normandy, France",
+      "original_wording": "Barfleur",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0046_L",
+      "excerpt": "We reached Barfleur (tide out) 4 boats on their side) at 8.30. The campsite looked pretty full. We filled up with water + parked for the night in the harbourside.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 43,
+      "normalized_name": "Cherbourg, France",
+      "original_wording": "Cherbourg",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0046_R",
+      "excerpt": "We left at 10.45. The Cherbourg Ferry is 12.30.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 44,
+      "normalized_name": "Portsmouth, UK",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.6,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Return ferry from Cherbourg; UK arrival port not named but Portsmouth-Cherbourg is the standard route",
+      "source_page_id": "B_0046_R",
+      "excerpt": "The ferry crossing was quite rough.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 45,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0046_R",
+      "excerpt": "We finally reached home at 7. Thomas + Peter were there.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "portsmouth-bilbao",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "B_0021_R",
+      "excerpt": "There is a greater variety of whales found in the Bay of Biscay than anywhere else in the world.",
+      "note": "Outbound ferry across the Bay of Biscay disembarking at Bilbao; UK departure port not named, Portsmouth-Bilbao inferred from the Biscay crossing and Bilbao disembarkation."
+    },
+    {
+      "after_seq": 15,
+      "route_key": null,
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0031_L",
+      "excerpt": "It was a long drive on over the border into France, through a tunnel going upwards, Tunnel of Bielsa.",
+      "note": "Road tunnel under the Pyrenees (Bielsa-Aragnouet) crossing the Spain-France border; not a sea crossing and not in ferries.json (key: null), name recorded verbatim. Crossing falls after the Ainsa base (seq 15) and before Massat (seq 17), i.e. corresponds to the seq 16 Tunnel of Bielsa terminal."
+    },
+    {
+      "after_seq": 43,
+      "route_key": "portsmouth-cherbourg",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0046_R",
+      "excerpt": "We left at 10.45. The Cherbourg Ferry is 12.30.",
+      "note": "Return ferry from Cherbourg; UK arrival port not named, Portsmouth assumed (Portsmouth-Cherbourg)."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 15,
+      "label": "Day trip up the Gistain valley to Plan church",
+      "date_guess": "2004-08-08",
+      "stops": [
+        {
+          "normalized_name": "Gistain, Aragon, Spain",
+          "original_wording": "Gistain",
+          "confidence": 0.85,
+          "source_page_id": "B_0030_L",
+          "excerpt": "We set off eastward & went up into a dead-end valley, Gistain, to find a church.",
+          "geocode_hint": { "countrycodes": "es" }
+        },
+        {
+          "normalized_name": "Plan, Aragon, Spain",
+          "original_wording": "Plan",
+          "confidence": 0.85,
+          "source_page_id": "B_0030_L",
+          "excerpt": "The service in Plan village fortunately started 35 minutes after we got there.",
+          "geocode_hint": { "countrycodes": "es" }
+        }
+      ]
+    },
+    {
+      "base_seq": 25,
+      "label": "Walk up to the Abbey of Saint-Martin-du-Canigou",
+      "date_guess": "2004-08-12",
+      "stops": [
+        {
+          "normalized_name": "Abbaye Saint-Martin-du-Canigou, Casteil, France",
+          "original_wording": "St. Martin's Abbey / Saint-Martin du Canigou",
+          "confidence": 0.85,
+          "source_page_id": "B_0035_R",
+          "excerpt": "We got up earlier than usual & just managed to walk up the steep slopes to [?St. Martin's] Abbey in the shade.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 25,
+      "label": "Evening concert at Cuxa Abbey",
+      "date_guess": "2004-08-12",
+      "stops": [
+        {
+          "normalized_name": "Abbaye Saint-Michel de Cuxa, Codalet, France",
+          "original_wording": "Cuxa Abbey",
+          "confidence": 0.8,
+          "source_page_id": "B_0037_R",
+          "excerpt": "At 7 we set off to Cuxa Abbey for the concert that we had booked.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Seguey, on the Pilgrims Road",
+      "issue": "Place name uncertain and possibly a misreading; mentioned between Sanguesa and the Ruesta campsite but cannot be confidently located. May relate to a hamlet on the Camino near Ruesta/Yesa. Folded into the Sanguesa-Ruesta leg rather than added as a stop.",
+      "source_page_id": "B_0024_R",
+      "excerpt": "We shopped at Sanguesa\nSeguey, on the Pilgrims Road. Then found a campsite, R[?obesta]"
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "B_0021_L",
+      "issue": "Mixed-start page (mixed_start=true): top of page contains an earlier unrelated entry (Sunday 4th July, Peter Fisher's 60th birthday at Sutton Coldfield / Clermont Hall). The trip proper begins with the 'Saturday July 31st' heading: leaving home and departing for the ferry at 6pm. Earlier July 4th content excluded from this trip's route."
+    }
+  ],
+  "summary": "A 2004 summer camping trip (31 July to 20 August) by Simon, Eve and sons John and Charles, sailing across the Bay of Biscay to disembark at Bilbao. From the Guggenheim and Guernica they followed the Basque coast and the Camino through Navarre and the Aragonese Pyrenees (Lumbier, Ruesta, Jaca, Ainsa, Plan), then crossed the Tunnel of Bielsa into France. They worked east and north through the French Pyrenees and the Cathar and prehistoric-cave country (Ax-les-Thermes, Canigou, Carcassonne, Albi), visiting Futuroscope and finally the Normandy D-Day beaches and Bayeux, before catching the Cherbourg ferry home to Birmingham.",
+  "extraction_notes": "All three pages flagged sketch=true were inspected as images (B_0025_R, B_0029_L, B_0037_L) and NONE is a route sketch, numbered route list or map: B_0025_R is a lake/terrain outline, B_0029_L is a blacksmith's-bellows mechanism diagram, B_0037_L is a sketch of a domed stone 'truffle hut' from above. Evidence hierarchy rule 1 therefore yields no hand-drawn route order; the route was reconstructed from the dated narrative and overnight bases. Dates: outbound ferry departs Birmingham/home on Sat 31 July (heading on the mixed-start page); August dates progress 3-20 Aug, with one mislabel - B_0030_L's 'Sunday August 8th' is the same calendar Sunday as B_0027_R's 'Friday August 8th' (Aug 8 2004 was a Sunday), so the Plan/Gistain excursion sits on Sun 8 Aug. B_0027_R also carries a stray iso '2003-08-08' in the bundle which is a typo for 2004. The Tunnel of Bielsa is a road tunnel crossing the ES-FR border (not in ferries.json, key=null). The Spain-to-France border crossing occurs after the Ainsa base; the Ainsa->Plan->Ainsa day is an excursion (they 'went back down the valley'), so Plan/Gistain are not on the main chain. Return UK port not named at either end; Portsmouth assumed for both the outbound Bilbao ferry and the return Cherbourg ferry. Eux/Ille-sur-Tet are the daytime stops after the Friday concert before reaching the Trebe campsite. Other people named but NOT visited as stops (excluded): Le Mans (driven past), and assorted museum/abbey subjects."
+}

@@ -1,0 +1,77 @@
+{
+  "trip_id": "2019-northampton-78-derngate-mackintosh-house-via",
+  "title": "Northampton: 78 Derngate (Mackintosh house), via Bierton & Bicester",
+  "volume": "B",
+  "spread_range": ["B_0318", "B_0318"],
+  "diary_page_range": [318, 318],
+  "date_start": "2019-04-28",
+  "date_end": "2019-04-28",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "78 Derngate, Northampton, UK",
+      "original_wording": "Derngate, Mackintosh's house in Northampton",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0318_L",
+      "excerpt": "We are booked into a 10.30. tour of Dern Gate, Mackintosh's house in Northampton. We reached Derngate at 10 & went on a guided tour.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bierton, Buckinghamshire, UK",
+      "original_wording": "Bierton",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0318_R",
+      "excerpt": "On the way home we stopped with Judith Kirby for lunch at Bierton",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Bicester, Oxfordshire, UK",
+      "original_wording": "near Bicester",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0318_R",
+      "excerpt": "then had tea on the roadside next to a field of sheep near Bicester",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: B_0318_L begins with a different trip entry (Frampton on Severn walk); the Sunday April 28th Northampton trip starts partway through that page"
+  ],
+  "summary": "A day trip on Sunday 28 April 2019 from Birmingham to Northampton to visit 78 Derngate, Charles Rennie Mackintosh's redesigned house for Bassett-Lowke, on a booked 10:30 guided tour. On the return journey the family stopped for lunch with Judith Kirby at Bierton and for roadside tea near Bicester.",
+  "extraction_notes": "B_0318_L is a mixed page: the top portion records a previous outing (Frampton on Severn walk, dog Tinder mentioned) and the Northampton day trip begins with 'Sunday April 28th'. The date 2019-04-28 is from the date_guess in the source bundle; no year is written on the page itself but it is consistent with volume B context. No children are mentioned for this outing — only Simon, Eve, and Tinder (the dog) are named on the Frampton portion; the Northampton entry uses 'we' without naming individuals, but Simon is mentioned directly ('Simon had to recharge it'). Traveller list conservatively records Simon, Eve, Tinder as confirmed; other family members may have been present but are not named in the Northampton entry. Bicester stop is approximate as the diary says 'near Bicester'."
+}

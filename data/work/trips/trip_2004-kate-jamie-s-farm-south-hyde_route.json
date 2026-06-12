@@ -1,0 +1,115 @@
+{
+  "trip_id": "2004-kate-jamie-s-farm-south-hyde",
+  "title": "Kate & Jamie's Farm / South Hyde, West Malvern (weekend)",
+  "volume": "B",
+  "spread_range": ["B_0017", "B_0017"],
+  "diary_page_range": [17, 17],
+  "date_start": "2004-05-15",
+  "date_end": "2004-05-16",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Kate and Jamie's Farm, Worcestershire/Herefordshire, UK",
+      "original_wording": "Kate & Jamie's farm",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0017_L",
+      "excerpt": "We left soon after lunch (S o E) & got to Kate & Jamie's farm at 3. We went on a long walk around the farm looking at apple blossom & organic wheat fields.",
+      "geocode_hint": { "countrycodes": "gb", "near": "West Malvern, Worcestershire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "South Hyde Campsite, West Malvern, UK",
+      "original_wording": "South Hyde campsite, W. Malvern",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0017_L",
+      "excerpt": "On [the] To South Hyde campsite, W. Malvern, a lovely field & [tent/tipi?] near the oak tree.",
+      "geocode_hint": { "countrycodes": "gb", "near": "West Malvern, Worcestershire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0017_L",
+      "excerpt": "Then home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Saturday evening: choir concert at St. James, drinks at Gregory Swinford's house",
+      "date_guess": "2004-05-15",
+      "stops": [
+        {
+          "normalized_name": "St James Church, West Malvern, UK",
+          "original_wording": "St. James",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "B_0017_L",
+          "excerpt": "John sang with the choir at St. James, a good concert.",
+          "geocode_hint": { "countrycodes": "gb", "near": "West Malvern, Worcestershire" }
+        },
+        {
+          "normalized_name": "Gregory Swinford's house, West Malvern area, UK",
+          "original_wording": "Gregory Swinford's house",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0017_L",
+          "excerpt": "We then had drinks & nibbles at Gregory Swinford's house.",
+          "geocode_hint": { "countrycodes": "gb", "near": "West Malvern, Worcestershire" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Sunday: John's parents' day and lunch on the Common",
+      "date_guess": "2004-05-16",
+      "stops": [
+        {
+          "normalized_name": "Malvern Common, Malvern, UK",
+          "original_wording": "the Common",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "B_0017_L",
+          "excerpt": "After chapel we had John's parents' day, drinks at the Russells & lunch with John & Charles on the Common.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Malvern, Worcestershire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "the Russells",
+      "issue": "Family name only; location not given; likely local to Malvern but cannot pinpoint",
+      "source_page_id": "B_0017_L",
+      "excerpt": "drinks at the Russells"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0017_L begins mid-page with a prior trip ending ('Then home.') before Saturday May 15th entry"
+  ],
+  "summary": "A short weekend camping trip in May 2004, leaving Birmingham after lunch on Saturday to visit Kate and Jamie's farm (walk, tea) before camping at South Hyde campsite near West Malvern. The evening included John singing in a choir concert at St. James church and drinks at Gregory Swinford's house; Sunday was John's school parents' day with lunch on the Common before returning home.",
+  "extraction_notes": "Single diary page B_0017_L covers this trip. The page has mixed_start: it opens with the tail of a previous trip ('Then home.') before the Saturday May 15th heading. May 15 was a Saturday in 2004, confirming the year. Travellers named in the text are Simon and/or Eve ('S o E'), John, and Charles; other family members not mentioned. Kate and Jamie's farm is not explicitly located but is consistent with the Worcestershire/Herefordshire border region (also appears in 1989 and 1995 trips). 'South Hyde campsite' near West Malvern is confirmed by the diary. 'The Russells' is unresolved (name only, no location). 'After chapel' on Sunday likely refers to Malvern College chapel given the parents' day context."
+}

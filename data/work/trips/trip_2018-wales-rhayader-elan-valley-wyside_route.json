@@ -1,0 +1,164 @@
+{
+  "trip_id": "2018-wales-rhayader-elan-valley-wyside",
+  "title": "Wales: Rhayader & the Elan Valley (Wyside Club Site)",
+  "volume": "B",
+  "spread_range": ["B_0314", "B_0315"],
+  "diary_page_range": [314, 315],
+  "date_start": "2018-08-16",
+  "date_end": "2018-08-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0314_R",
+      "excerpt": "We left at 12.45. & went to Brook House Farm",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Brook House Farm (hop farm, mid-Wales / Welsh Marches; location unresolved)",
+      "original_wording": "Brook House Farm",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0314_R",
+      "excerpt": "went to Brook House Farm for Simon to check on hop-picking machines.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Legges (location unresolved)",
+      "original_wording": "Legges",
+      "role": "transit_stop",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "B_0314_R",
+      "excerpt": "Then we went to Legges [as] we'd failed to take stuff out of fridge at home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Rhayader, Powys, Wales",
+      "original_wording": "Wyside Club Site",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0314_R",
+      "excerpt": "On to Rhayader in the middle of Wales. We are camped at Wyside Club Site, [?1/4] mile from town, right next to river.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Brook House Farm (hop farm; location unresolved)",
+      "original_wording": "the farm",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "B_0315_R",
+      "excerpt": "In the van on the way to the farm now to pick up the smalls & keep them at 86 until Tuesday. ... Simon & Eve at farm for hop-picking. Parked in courtyard.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0315_R",
+      "excerpt": "Simon & Eve at farm for hop-picking. Parked in courtyard. Came home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Walk into Rhayader town",
+      "date_guess": "2018-08-17",
+      "stops": [
+        {
+          "normalized_name": "Rhayader, Powys, Wales",
+          "original_wording": "the town",
+          "confidence": 0.8,
+          "source_page_id": "B_0315_L",
+          "excerpt": "We walked to the town. ... A most interesting building - Lost Ark - being refurbished as a live arts venue by a school teaching family from Telford. An interesting clock in the middle of town. ... St. Clements church 1700s. We had supper at the Eagle - good steak & kidney pudding.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Drive & cycle in the Elan Valley (3rd lake to 2nd dam, visitors' centre)",
+      "date_guess": "2018-08-18",
+      "stops": [
+        {
+          "normalized_name": "Craig Goch / Pen y Garreg, Elan Valley, Powys, Wales",
+          "original_wording": "the 3rd lake in the Elan Valley ... the 2nd dam",
+          "confidence": 0.85,
+          "approximate": true,
+          "source_page_id": "B_0315_L",
+          "excerpt": "We drove up to the 3rd lake in the Elan Valley, cycled down to the 2nd dam (which we reached 2 years ago). It was a nice ride - back to the visitors' centre & had lunch & looked at the exhibitions.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Cycle ride to the dam (~4 miles)",
+      "date_guess": "2018-08-19",
+      "stops": [
+        {
+          "normalized_name": "Elan Valley dam, near Rhayader, Powys, Wales",
+          "original_wording": "the dam (about 4 miles)",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0315_R",
+          "excerpt": "We set off on our bikes to the dam (about 4 miles) Twider yanked the lead out of Simon's hand & chased sheep, got caught in bracken & re-captured. ... We picked blackberries.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Legges",
+      "issue": "An outbound stop on Wed Aug 16th, visited because the family had forgotten to empty the home fridge; could be a person's house, farm or shop. Sounds local (near Birmingham / the start of the journey) but cannot be geolocated from the text. Kept in main_route as an approximate transit_stop.",
+      "source_page_id": "B_0314_R",
+      "excerpt": "Then we went to Legges [as] we'd failed to take stuff out of fridge at home."
+    },
+    {
+      "original_wording": "Brook House Farm / the farm",
+      "issue": "The recurring hop farm where Simon checks hop-picking machines (outbound) and where Simon & Eve do hop-picking on the way home (Aug 26). Named 'Brook House Farm' on the outbound leg; the return calls it only 'the farm'. Treated as the same farm. Exact location not given - this is the family's hop farm in the Welsh Marches region (cf. the unnamed hop farm in the 2016 Elan Valley trip). Kept in main_route as an approximate transit_stop (outbound) and overnight_base (return).",
+      "source_page_id": "B_0314_R",
+      "excerpt": "went to Brook House Farm for Simon to check on hop-picking machines."
+    },
+    {
+      "original_wording": "the 3rd lake / the 2nd dam",
+      "issue": "On the Friday Elan Valley excursion they drove to the '3rd lake' and cycled down to the '2nd dam' (the one reached 2 years earlier, i.e. the 2016 trip's Pen y Garreg Dam). The Elan Valley reservoir chain (Caban-coch, Garreg-ddu, Pen y Garreg, Craig Goch) is not named individually here, so the exact reservoir/dam is inferred. Anchored to the Craig Goch / Pen y Garreg area as an approximate point.",
+      "source_page_id": "B_0315_L",
+      "excerpt": "We drove up to the 3rd lake in the Elan Valley, cycled down to the 2nd dam (which we reached 2 years ago)."
+    },
+    {
+      "original_wording": "86",
+      "issue": "'keep them at 86 until Tuesday' - '86' is almost certainly the family home address (the smalls were to be kept at home). Not a separate stop; folded into Birmingham (home).",
+      "source_page_id": "B_0315_R",
+      "excerpt": "to pick up the smalls & keep them at 86 until Tuesday."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "B_0314_R",
+      "issue": "mixed_start: the 'August 4th, Saturday' entry at the top of B_0314_R is a DIFFERENT trip (Simon, Eve & Tinder to Hattie & Ramsey's wedding at Farnham, Surrey - captured separately as trip 2018-farnham-hattie-ramsey-s-wedding). This Wales trip begins at the 'Wed Aug 16th' heading. Farnham, Farnham Castle Park, Richard's & Mary's and the wedding are NOT stops on this trip."
+    }
+  ],
+  "summary": "A late-August 2018 camping trip from Birmingham into mid-Wales with Simon, Eve and Tinder the dog. After calling at Brook House Farm (to check hop-picking machines) and at Legges en route, they based at the Wyside Club Site by the river at Rhayader. From there they walked into Rhayader town and made cycling/driving excursions into the Elan Valley reservoirs and dams. They headed home via the hop farm around 26 August, where Simon and Eve did hop-picking before returning to Birmingham.",
+  "extraction_notes": "The glued-in 'How to Find Us' map on B_0315_L is the Wyside Club Site's printed locator map (Rhayader marked prominently in mid-Wales); it is a campsite-finding map, not a hand-drawn numbered route, so narrative order governs the main route. Date-of-week discrepancy: the diary heads the start 'Wed Aug 16th' but 16 Aug 2018 was a Thursday; the return 'Aug 26th Sunday' matches exactly (Sunday), so dates are recorded as 16-26 Aug 2018 with the minor weekday slip noted. Travellers are Simon, Eve and Tinder ('Twider') the dog; no sons are named for this trip and the 'smalls' picked up at the farm are kept at home ('86'), not human travellers. No sea crossings (Wales overland), so crossings is empty. Rhayader's walking-around-town points (Lost Ark arts venue, town clock, St Clements church, the Eagle pub) are grouped as one town-walk excursion at the base rather than as separate main-route stops."
+}

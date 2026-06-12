@@ -1,0 +1,154 @@
+{
+  "trip_id": "1997-wales-arias-above-harlech-rhinog-porthmadoc",
+  "title": "Wales: Arias above Harlech, Rhinog & Porthmadog",
+  "volume": "A",
+  "spread_range": ["A_0199", "A_0201"],
+  "diary_page_range": [null, null],
+  "date_start": "1997-05-24",
+  "date_end": "1997-05-28",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wolverhampton, UK",
+      "original_wording": "Wolverhampton",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0199_R",
+      "excerpt": "We stopped at the camping shop beyond Wolverhampton for a bigger dog harness & a second green chair.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Llanfair Caereinion, Wales",
+      "original_wording": "Llanfaircaerynnan",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0199_R",
+      "excerpt": "Lunch was a good site — Llanfaircaerynnan — a train station.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Llanbedr, Gwynedd, Wales",
+      "original_wording": "[?Arias], above Harlech [?Llanbedr]",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0199_R",
+      "excerpt": "3.50. we arrived at [?Arias], above Harlech [?Llanbedr]. The 6 boys went up for a long walk in the hills.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0201_L",
+      "excerpt": "We arrived home via Smethwick at 4.0.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Sunday church at Dyffryn Ardudwy area",
+      "date_guess": "1997-05-25",
+      "stops": [
+        {
+          "normalized_name": "Dyffryn Ardudwy, Wales",
+          "original_wording": "[?Dyffrynesthaddu]",
+          "confidence": 0.5,
+          "approximate": true,
+          "source_page_id": "A_0199_R",
+          "excerpt": "Church at [?Dyffrynesthaddu] at 11.30. Trinity Sunday. Half the prayer book is in Welsh.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Walk in the Rhinog hills",
+      "date_guess": "1997-05-26",
+      "stops": [
+        {
+          "normalized_name": "Rhinog Fawr, Gwynedd, Wales",
+          "original_wording": "Rhinog",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0200_R",
+          "excerpt": "We left at 10 to Rhinog. Old drovers' roads, ladder stiles. Bog, old paths, lovely views of the sea.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Harlech castle and Porthmadog",
+      "date_guess": "1997-05-27",
+      "stops": [
+        {
+          "normalized_name": "Harlech Castle, Wales",
+          "original_wording": "Harlech",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0200_R",
+          "excerpt": "We set off for Harlech & looked at the castle.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Porthmadog, Wales",
+          "original_wording": "Porthmadoc",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0200_R",
+          "excerpt": "We drove on to Porthmadoc to see Erik Scott's slate factory - purple, grey, green slate. We had fish & chips & wandered around the town.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Arias]",
+      "issue": "Campsite name uncertain; the diary transcription reads '[?Arias] above Harlech [?Llanbedr]'. Could be a farm or campsite name near Llanbedr, Gwynedd. Location anchored approximately at Llanbedr.",
+      "source_page_id": "A_0199_R",
+      "excerpt": "3.50. we arrived at [?Arias], above Harlech [?Llanbedr]."
+    },
+    {
+      "original_wording": "[?Dyffrynesthaddu]",
+      "issue": "Church location uncertain; could be Dyffryn Ardudwy (village near Harlech with a church) or another 'Dyffryn' settlement in the Harlech area. Transcription unclear.",
+      "source_page_id": "A_0199_R",
+      "excerpt": "Church at [?Dyffrynesthaddu] at 11.30. Trinity Sunday. Half the prayer book is in Welsh."
+    },
+    {
+      "original_wording": "Llanfaircaerynnan",
+      "issue": "Probable Llanfair Caereinion (terminus of the Welshpool & Llanfair Light Railway, matching 'a train station'), but spelling is uncertain. Could also be a different Llanfair- settlement.",
+      "source_page_id": "A_0199_R",
+      "excerpt": "Lunch was a good site — Llanfaircaerynnan — a train station."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: preceding content on A_0199_R (Calke Abbey visit) belongs to the prior trip (1997-derbyshire-calke-abbey-day-trip); main trip narrative begins at 'Saturday 24th May' heading."
+  ],
+  "summary": "A Whitsun bank-holiday camping trip to a hillside campsite above Harlech in North Wales, with the family (plus French guest Geoffrey de Pamafieu and dog Tinder) based for five nights near Llanbedr. Day excursions included a seven-mile walk in the Rhinog hills, a visit to Harlech Castle, and a trip to Porthmadog to see a slate factory.",
+  "extraction_notes": "The campsite name '[?Arias]' is uncertain and may be a farm or site name. '[?Dyffrynesthaddu]' (Sunday church) is probably Dyffryn Ardudwy. 'Llanfaircaerynnan' (outbound lunch stop) is probably Llanfair Caereinion. The Calke Abbey content at the top of A_0199_R is from the preceding day-trip entry (mixed_start=true) and is excluded from this trip's route. Dates confirmed: 27 May 1997 was indeed a Tuesday. No ferry crossings — entirely within Great Britain."
+}

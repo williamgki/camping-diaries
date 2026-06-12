@@ -1,0 +1,148 @@
+{
+  "trip_id": "2009-east-anglia-peckover-house-fotheringay-foulsham",
+  "title": "East Anglia: Peckover House, Fotheringay, Foulsham & Norfolk Broads",
+  "volume": "B",
+  "spread_range": ["B_0159", "B_0161"],
+  "diary_page_range": [159, 161],
+  "date_start": "2009-04-18",
+  "date_end": "2009-04-19",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Fotheringhay, Northamptonshire, UK",
+      "original_wording": "Fotheringay",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0160_L",
+      "excerpt": "Earlier in the day we had passed through Fotheringay, the village where Mary Queen of Scots was held captive. The Castle is no longer there, but the church is very impressive.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Peckover House, Wisbech, Cambridgeshire, UK",
+      "original_wording": "Peckover House",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0159_R",
+      "excerpt": "We had lunch in the carpark near Peckover House, a very nice Georgian NT house. Built 1722 & lived in from 1796 by the Peckham family, Quaker bankers. We joined a tour of the garden.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Foulsham, Norfolk, UK",
+      "original_wording": "Foulsham",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0160_R",
+      "excerpt": "The Queen's Head, Foulsham, where we are staying, has 5 pigs in a paddock at the end of the pub garden/ campsite.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Blakeney, Norfolk, UK",
+      "original_wording": "Blakeney",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0160_R",
+      "excerpt": "On to lunch in the carpark at Blakeney, which was by the sea according to the map, but infact we could scarcely see it because of mud flats. We walked but it was windy. Lots of birdspotters.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Sea Palling, Norfolk, UK",
+      "original_wording": "Seapalling",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0161_L",
+      "excerpt": "In the end we drove inland – less traffic & more sun. Small zigzag roads to Seapalling.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Potter Heigham, Norfolk, UK",
+      "original_wording": "Potter Heigham",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0161_L",
+      "excerpt": "We found a pleasant small campsite on The old bridge road in Potter Heigham. After opening the campingvan curtains in the afternoon we saw a group of Dutch campers who had come on a course about making rammed earth houses.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "River Yare, Norfolk Broads, UK",
+      "original_wording": "river Yare",
+      "role": "main_stop",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0161_L",
+      "excerpt": "In the evening we visited a boat yard on the river Yare. A company Sheerline who make river boats took a chad catalogue.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Spexhall, Suffolk, UK",
+      "original_wording": "Spexhall",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0161_L",
+      "excerpt": "we stopped just north at Spexhall and walked through the churchyard, across a field and stream up to a farm and back.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Halesworth, Suffolk, UK",
+      "original_wording": "Halesworth",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0161_L",
+      "excerpt": "After lunch we picked up lampshades from WK Howarth and set off for Annette, briefly stopping to drop another catalogue on the way.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0161_L",
+      "excerpt": "We returned to 86 at about 7.45.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Annette",
+      "issue": "Named person visited for tea on the return journey; location unknown. Likely a family friend in Suffolk/Norfolk area. Previous diaries reference 'Annette' possibly near Thornham Magna, Suffolk.",
+      "source_page_id": "B_0161_L",
+      "excerpt": "set off for Annette, briefly stopping to drop another catalogue on the way. Annette gave us tea in the garden in pleasant sunshine."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A weekend camping trip in April 2009 with just Simon, Eve and the dog Tinder, driving east from Birmingham through Fotheringhay and on to Peckover House (Wisbech), before overnighting at The Queen's Head pub campsite in Foulsham, Norfolk. On Sunday they visited Blakeney on the coast, then continued to a campsite at Potter Heigham on the Norfolk Broads, before collecting lampshades from Halesworth and calling in on a friend (Annette) for tea on the way home.",
+  "extraction_notes": "Only Simon, Eve and the dog (called 'Tonic' in the diary, likely Tinder) travelled on this trip - no children mentioned. The page B_0159_R opens mid-sentence with content from a previous trip ('R. Severn... Margaret was strong enough to walk...'); the East Anglia trip text begins at 'Saturday April 18th.' The note about Fotheringay on B_0160_L is a retrospective insertion ('Earlier in the day we had passed through Fotheringay') written after arrival at Foulsham. The boatyard on the river Yare is marked approximate=true as the specific location along the Yare is not stated. 'Annette' is an unresolved friend/relative; see also trip_1992-thorpeness-via-annette-s-thornham-magna which may identify her location. The return note 'We returned to 86 at about 7.45' confirms they reached home (Birmingham) Sunday evening."
+}

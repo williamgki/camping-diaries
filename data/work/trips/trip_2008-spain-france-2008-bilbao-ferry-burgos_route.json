@@ -1,0 +1,395 @@
+{
+  "trip_id": "2008-spain-france-2008-bilbao-ferry-burgos",
+  "title": "Spain & France 2008: Bilbao Ferry, Burgos, Zamora, Salamanca, Madrid & the Pyrenees",
+  "volume": "B",
+  "spread_range": ["B_0138", "B_0158"],
+  "diary_page_range": [76, 12],
+  "date_start": "2008-07-27",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles"],
+  "countries": ["GB", "ES", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0138_R",
+      "excerpt": "Simon, Charles & Eve set off for Spain & France. We went down the M5 & changed to the M4 near Swindon.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Savernake Forest, Wiltshire, UK",
+      "original_wording": "Savernake Forest",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0138_R",
+      "excerpt": "In Savernake Forest we had lunch in the shade. Then we went on to Venetia's for 3.30.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Portsmouth",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.6,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "UK ferry port not named in the diary. They left Venetia's (reached via the M4 near Swindon, Wiltshire) at 6pm for the ferry and spent a long time on the quay before a multi-night Bay of Biscay crossing to Bilbao (dolphins/whale, two days at sea). The 2008 Bilbao car-ferry from southern England was P&O's Portsmouth-Bilbao service, so portsmouth-bilbao is used; the only Bilbao route in ferries.json is portsmouth-bilbao.",
+      "source_page_id": "B_0138_R",
+      "excerpt": "At 6 we left for the ferry. We seemed to spend hours on the quai. We ate supper as we waited for the ship to leave port, on deck",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Bilbao, Spain",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.75,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Spanish port not named explicitly, but the ferry landed at the start of Tuesday and they immediately stopped at Amurrio (Amurria) before lunch in Burgos — Amurrio lies on the road from Bilbao towards Burgos. The trip is the Bilbao ferry crossing; Santander would not pass through Amurrio.",
+      "source_page_id": "B_0139_L",
+      "excerpt": "At a truly horrendous early hour (6) we had breakfast & left the ferry at 7. We meandered along looking at the plains at Amurria we stopped & walked around.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Amurrio, Spain",
+      "original_wording": "Amurria",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0139_L",
+      "excerpt": "We meandered along looking at the plains at Amurria we stopped & walked around. We shopped at a supermarket & had lunch in Burgos",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Burgos, Spain",
+      "original_wording": "Burgos",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0139_L",
+      "excerpt": "On to a campsite across the river from Burgos.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Zamora, Spain",
+      "original_wording": "Zamora",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0146_R",
+      "excerpt": "We slept in Zamora campsite + drove into Zamora the next day, parking across the river. The Cathedral has an amazing, fragile-looking dome.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Salamanca, Spain",
+      "original_wording": "Salamanca / Camping Torres",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0148_R",
+      "excerpt": "We have arrived at an extraordinary campsite Camping Torres by a lake near Salamanca. Everything that can be wrong is wrong + unwelcoming. It reminds Simon of Fawlty Towers.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Arapiles, Salamanca, Spain",
+      "original_wording": "Arapile",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0149_L",
+      "excerpt": "We drove to Arapile & Simon & Eve walked up a ridge to where Wellington stood... he sprang an attack & decimated 40,000 French soldiers in 40 minutes.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Ávila, Spain",
+      "original_wording": "Avila",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0151_L",
+      "excerpt": "On we went to Avila. The heat caught up with us, so we didn't climb the walls. We saw the cathedral.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Ávila province, Spain",
+      "original_wording": "a campsite which is as well run as the last one was badly run",
+      "role": "inferred_anchor",
+      "confidence": 0.6,
+      "approximate": true,
+      "inferred": true,
+      "inference_reason": "A lakeside campsite reached after Ávila, popular with people from Madrid, where the family stayed Saturday-Monday (two nights, swimming in the lake daily). The campsite is unnamed and its exact location is not given; anchored to the Ávila area / Sierra de Gredos region from which they next drove to Toledo.",
+      "source_page_id": "B_0151_R",
+      "excerpt": "We drove on to a campsite which is as well run as the last one was badly run... we went for a swim in the lovely [?lake]... The camp is packed cheek-by-jowl. People from Madrid with their microwaves + fridges in rented caravans.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Toledo, Spain",
+      "original_wording": "Toledo / Cardinal Hostal",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0152_R",
+      "excerpt": "We reached Toledo & stayed at the Cardinal Hostal, a really lovely hotel, an old house belonging to a cardinal, wood, metal, tiles. Marvellous air con. Outside it was 40°.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Madrid, Spain",
+      "original_wording": "Madrid",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0153_R",
+      "excerpt": "We drove on to Madrid. Susana + Eugenio were most welcoming + we stayed in their beautiful flat... We walked to the Prado where they showed us their favourite pictures.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Embalse de la Cuerda del Pozo, Soria, Spain",
+      "original_wording": "El Frontal, near the Embalse de la Cuerta del Pozo, in the hills of Orbion",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0155_R",
+      "excerpt": "We are near the source of the R. Aouro, El Frontal **** near the Embalse de la Cuerta del Pozo. in the hills of Orbion... I swam (Simon + Charles paddled) in the enormous lake.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Laguna Negra, Soria, Spain",
+      "original_wording": "Laguna Negra",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0156_L",
+      "excerpt": "We visited the Laguna Negra. Someone has written a poem about it. Really lovely. In over the pass of Puerta de Santa Inés, which is closed in winter.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Santa María de Eunate, Navarre, Spain",
+      "original_wording": "St. Maria Eurate",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0156_L",
+      "excerpt": "We stopped at St. Maria Eurate (again) on the pilgrimage route. There's a stone colonnade around it.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Pamplona, Spain",
+      "original_wording": "Camping Ezcaba, north of Pamplona, near Suaren",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0156_L",
+      "excerpt": "We reached Camping Ezcaba [illegible] north of [?A]Pamplona. It's near Suaren, where Wellington fought. It's about the best campsite we've been in.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Sorauren, Navarre, Spain",
+      "original_wording": "Sorauren",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0156_R",
+      "excerpt": "We drove to look at the Bridge at Sorauren where Wellington wrote to ask for reinforcements - Paet's group. Very very hilly.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Roncesvalles, Navarre, Spain",
+      "original_wording": "Roncesvalles / Roncevalles",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0157_L",
+      "excerpt": "We drove through Roncevalles, + the the town, because there were no parking places, but we stopped at the pass which had beautiful views. The police were checking for terrorist bombs (ETA etc).",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Sauveterre-de-Béarn, France",
+      "original_wording": "Cave de Sauveterre de Bearn",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0157_L",
+      "excerpt": "We arrived at a marvellous campsite, Cave de Sauveterre de Bearn ***** friendly + a lovely river to wade through + swim in.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Bergerac, France",
+      "original_wording": "Queyssac campsite, 7k north of Bergerac",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0157_R",
+      "excerpt": "reached Queyssac campsite, ***** 7k north of Bergerac, by evening, Charles' favourite campsite. It was open, good views, a lake with ducks.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Chamberet, France",
+      "original_wording": "Chamberet",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0157_R",
+      "excerpt": "We drove off north towards David's house. We lunched by a river in the rain + then went to the Tree Museum at Chamberet.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Treignac, France",
+      "original_wording": "[?Sard's] house, [?Sas Noux]",
+      "role": "overnight_base",
+      "confidence": 0.65,
+      "approximate": true,
+      "inferred": true,
+      "inference_reason": "David's house, the fixed base where they reunited with Thomas, Naomi & Austin. Place name uncertain ([?Sas Noux] / 'Sas Noux' / 'Bas Noux' / 'Noux' in the index list). It lies north of Bergerac and is reached after the Tree Museum at Chamberet (Corrèze); the route index also lists 'Tregniac' (Treignac) near 'Noux, David's house', so anchored to the Treignac/Chamberet area of the Corrèze.",
+      "source_page_id": "B_0157_R",
+      "excerpt": "We arrived at [?Sard's] house, [?Sas Noux], at 4, just after Thomas + [illegible] Naomi + Austin.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Meymac, France",
+      "original_wording": "Maymac",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0158_L",
+      "excerpt": "Simon + Eve + Charles left. We stopped in Maymac at + shopped at a good green grocer.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Saint-Jean-de-Vaux, France",
+      "original_wording": "St. Jean de Vaux",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0158_R",
+      "excerpt": "We reached St. Jean de Vaux where it continued to feel very cold, so we didn't swim... For the first time the restaurant in the village was open, so we had a meal Café du Centre... We also tasted wine for William's + Bryony's wedding.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Ribemont, France",
+      "original_wording": "Ribemont",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0158_R",
+      "excerpt": "We picked up the 60 bottles of wine, at 9.30, + some others + set off northwards. We shopped + drove on until 6, arriving at an almost deserted campsite with one other van. It's a bit warmer. Ribemont **",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 27,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.6,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All family trips start and end at home. The surviving pages end mid-trip at Ribemont (Aisne, northern France) with the family heading north laden with wine for William & Bryony's wedding; the Channel crossing and return home are not recorded in the transcribed pages.",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "portsmouth-bilbao",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "inference_reason": "Outbound crossing. Neither port is named, but it is a multi-night Bay of Biscay ferry (supper on deck waiting to leave port; dolphins and a whale at sea over two days) landing near Bilbao — the first Spanish stop is Amurrio, on the Bilbao-Burgos road. The 2008 southern-England-to-Bilbao car ferry was P&O's Portsmouth-Bilbao service, the only Bilbao route in ferries.json.",
+      "source_page_id": "B_0139_L",
+      "excerpt": "we had breakfast & left the ferry at 7. We meandered along looking at the plains at Amurria we stopped & walked around."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 7,
+      "label": "Day trip from Zamora to San Pedro de la Nave",
+      "date_guess": "2008-07-31",
+      "stops": [
+        {
+          "normalized_name": "San Pedro de la Nave, Zamora, Spain",
+          "original_wording": "S. Pedro / San Pedro de la Nave",
+          "confidence": 0.85,
+          "source_page_id": "B_0147_L",
+          "excerpt": "We had lunch in town, pork chops, & then drove about 17 miles to S. Pedro, a C- & church... It had been moved up, stone by stone, to a higher village in 1930's when they flooded the valleys.",
+          "geocode_hint": { "countrycodes": "es" }
+        }
+      ]
+    },
+    {
+      "base_seq": 23,
+      "label": "Day walk from David's house to St. Hilaire",
+      "date_guess": "2008-08-13",
+      "stops": [
+        {
+          "normalized_name": "Saint-Hilaire, Corrèze, France",
+          "original_wording": "St. Hilaire",
+          "confidence": 0.6,
+          "source_page_id": "B_0158_L",
+          "excerpt": "Charles put in 2 chickens while the rest of us were on a super 12 mile walk, with a beer at St. Hilaire.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Venetia's (house, reached via the M4 near Swindon)",
+      "issue": "An evening tea stop on the departure day before the ferry — family/friends' house, location not specified beyond being reached off the M4 in the Swindon/Wiltshire area. Not geocodable to a stop; recorded only as context for inferring the Portsmouth ferry port.",
+      "source_page_id": "B_0138_R",
+      "excerpt": "Then we went on to Venetia's for 3.30... At 6 we left for the ferry."
+    },
+    {
+      "original_wording": "Hunton Parva",
+      "issue": "Departure-day side stop to see 'Conta's' new house ('Simon said Conta lives over there'). A small hamlet (likely Hinton Parva near Swindon, Wiltshire); a brief visit, not an overnight stop. Left out of the main route as a minor pre-ferry diversion.",
+      "source_page_id": "B_0138_R",
+      "excerpt": "when we passed \"Hunton Parva\" I said \"Let's go & see her new house. After much searching, we found it.\"",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "original_wording": "[?Anero]",
+      "issue": "River/place name near Zamora associated with the Wellington 1812 narrative ('crossed the river, deep ravines, to get onto the north bank of the [?Anero]'). Spelling uncertain; likely a tributary of the Douro/Esla rather than a stop the family visited.",
+      "source_page_id": "B_0140_R",
+      "excerpt": "crossed the river, deep ravines, to get onto the north bank of the [?Anero]. The French didn't think it could be done"
+    }
+  ],
+  "boundary_flags": [
+    "Several pages bound within this spread range belong to OTHER trips and were excluded: B_0142_R (no.80, dated '10/06.07.88', Beaune / Auvergne / [?Fridefont] — a 1988 entry); B_0143_L (no date, 'Friday 15', submerged-village dam and Gorges de Ses) and B_0143_R (no.40, Mallet beach / August bread festival) — a separate trip; B_0150_L (a printed museum brochure on French dolls and glass).",
+    "B_0145_L, B_0145_R and B_0146_L are a long numbered index/route list spanning MANY trips (items 1-13 match this 2008 Spain trip — Zamora, St Pedro, Salamanca, Avila, Toledo, Madrid, Embalse, Pamplona/Suaren, Roncesvalles, Bergerac, David's house, St Jean de Vaux — but items 14 onward cover unrelated UK, Belgium, Germany and Lot trips). Treated as supporting evidence for ordering, NOT as a single-trip sketch.",
+    "B_0144_L is an address/contacts page (the Edgbaston home address; the Triana family's Prado note) — contextual, not a stop.",
+    "Page numbering restarts mid-trip: pages run no.76-80 (B_0138_R..B_0141_R) then a fresh sequence no.1-12 (B_0146_R..B_0157_R), reflecting a new notebook/volume started during the trip.",
+    "Trip is incomplete: the transcribed pages end at Ribemont with the family driving north in France; the return Channel crossing and arrival home are not recorded."
+  ],
+  "summary": "A long summer 2008 tour of Spain and France by Simon, Eve and their son Charles (19), departing Birmingham on Sunday 27 July. They drove south via Savernake Forest to a friend's house in Wiltshire, then took an overnight Bay of Biscay ferry (P&O Portsmouth-Bilbao) while Thomas, Naomi and Austin drove their own van over the Pyrenees. Landing near Bilbao, the family toured Castile and León — Burgos, Zamora (with San Pedro de la Nave), Salamanca, the Wellington battlefield at Arapiles, Ávila, Toledo and Madrid (staying with the Triana family) — following Wellington's Peninsular War campaign and visiting lakeside campsites in the Sierra de Urbión. They returned north via Pamplona (Sorauren), Roncesvalles and into France, camping at Sauveterre-de-Béarn and near Bergerac before reuniting with Thomas's family at David's house in the Corrèze, then heading on through Burgundy (St-Jean-de-Vaux) to collect wine for William and Bryony's wedding; the surviving pages end at Ribemont in northern France.",
+  "extraction_notes": "Travellers confirmed repeatedly as Simon, Eve and Charles (19) — 'Simon, Eve & Charles (19) are in Spain' (B_0146_R); they travelled separately from Thomas, Naomi (variously 'Nadin'/'Naomi') and baby Austin, who crossed the Pyrenees by road and met them at David's house. Neither ferry port is named; portsmouth-bilbao is inferred from the multi-night Biscay crossing, the trip_id ('bilbao-ferry'), and the first Spanish stop being Amurrio on the Bilbao-Burgos road. Date inconsistencies in the diary: the entry headed 'Monday 5th August' (B_0152_R) follows a Saturday/Sunday at the Ávila-area campsite — in 2008 Monday was 4 August — so weekday and date drift apart; date_precision kept at 'day' for the confidently dated outbound days (27-31 July, 1 August) but most later dates are weekday-only and approximate. The lakeside campsite near Ávila (seq 11) and David's house (seq 23) are unnamed/uncertain and marked approximate. diary_page_range is [76, 12] reflecting the mid-trip restart of page numbering (no.76 at the start, ending at no.12). Excluded out-of-trip pages and the multi-trip index list are detailed in boundary_flags."
+}

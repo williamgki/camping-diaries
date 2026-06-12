@@ -1,0 +1,97 @@
+{
+  "trip_id": "2008-defford-malvern-overnight-croome-park-great",
+  "title": "Defford (Malvern) overnight & Croome Park; Great Witley day",
+  "volume": "B",
+  "spread_range": ["B_0136", "B_0136"],
+  "diary_page_range": null,
+  "date_start": "2008-05-16",
+  "date_end": "2008-06-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Defford, Worcestershire, UK",
+      "original_wording": "Defford Arms",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0136_L",
+      "excerpt": "We camped at the Defford Arms next to a huge field of horseradish. Quiet: birds, church bells.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Defford, Worcestershire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Croome Park, Worcestershire, UK",
+      "original_wording": "[?Cor] Croome Park",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0136_L",
+      "excerpt": "After lunch we drove to [?Cor] Croome Park, beautiful Capability Brown garden being restored by NT. Culverts to long lake. Metal Bridges Simon admired. Goslings",
+      "geocode_hint": { "countrycodes": "gb", "near": "Croome Park, Worcestershire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "came home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0136_L",
+      "excerpt": "After tea in the van we came home 5.25",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Morning walk to Swan's Neck (Severn loop) and Bredon Hill area",
+      "date_guess": "2008-05-17",
+      "stops": [
+        {
+          "normalized_name": "Swan's Neck, River Severn, Worcestershire, UK",
+          "original_wording": "Swans Neck",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0136_L",
+          "excerpt": "We walked across fields to the Swans Neck where the river loops round near Bredon Hill.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Defford, Worcestershire" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "Day trip to Great Witley Church (Friday June 6th)",
+      "date_guess": "2008-06-06",
+      "stops": [
+        {
+          "normalized_name": "Great Witley, Worcestershire, UK",
+          "original_wording": "Great Witley Church",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0136_R",
+          "excerpt": "We ate lunch in the carpark of Great Witley Church",
+          "geocode_hint": { "countrycodes": "gb", "near": "Great Witley, Worcestershire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A two-night outing in May 2008 combining a one-night camp at the Defford Arms (Worcestershire) with a Saturday walk to the Severn's Swan's Neck meander near Bredon Hill and an afternoon visit to Croome Park (Capability Brown, National Trust). A separate day trip on June 6th took Simon, Eve, and Charles to Great Witley Church for lunch in the carpark.",
+  "extraction_notes": "The spread covers two distinct outings on the same double page: an overnight trip 16-17 May 2008 to Defford/Croome Park, and a day outing on Friday 6 June 2008 to Great Witley. In 2008, May 16 and June 6 are both Fridays, confirming the dates. The dog is referred to as 'Tonic' in the diary (the context note says 'Tinder'). No indication of which children accompanied the May overnight (likely just Simon and Eve, as 'we' is used throughout without naming children). The June 6th entry names Simon, Charles, and Tonic explicitly. The '[?Cor]' before 'Croome Park' is an uncertain word in the transcription, but Croome Park identity is unambiguous from context. Photo captions on B_0136_R ('Witley Parish Church, Worcs. View of interior looking east') confirm the Great Witley visit. Journey departure time noted as 50 min from 8:40am for the May trip."
+}

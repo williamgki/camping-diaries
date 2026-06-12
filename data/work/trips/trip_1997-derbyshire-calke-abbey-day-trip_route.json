@@ -1,0 +1,62 @@
+{
+  "trip_id": "1997-derbyshire-calke-abbey-day-trip",
+  "title": "Derbyshire & Calke Abbey (day trip)",
+  "volume": "A",
+  "spread_range": ["A_0199", "A_0199"],
+  "diary_page_range": [199, 199],
+  "date_start": "1997-05-17",
+  "date_end": "1997-05-17",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Helen"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Calke Abbey, Ticknall, Derbyshire",
+      "original_wording": "Calke Abbey",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0199_L",
+      "excerpt": "cupola at Calke Abbey.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[?Caraluce]",
+      "issue": "Place name uncertain; described as near Alfreton, Derbyshire. They called in to order van cushions. Cannot confidently identify or geocode from this spelling.",
+      "source_page_id": "A_0199_L",
+      "excerpt": "We called in at [?Caraluce], nr Alfreton & ordered van cushions."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0199_L also contains a May 10th entry (Wolverhampton/Coven canal walk) belonging to a different trip"
+  ],
+  "summary": "A day trip on 17 May 1997 with Simon, Eve, John, Charles and Helen, driving from Birmingham into Derbyshire. They stopped near Alfreton at an unidentified upholstery or furnishings business to order van cushions, then visited Calke Abbey, noting its cupola.",
+  "extraction_notes": "Page A_0199_L is mixed: it contains two separate Saturday diary entries. The May 10th entry (Wolverhampton camping shop and Coven canal walk with Tonic the dog) belongs to a different trip. Only the May 17th entry is attributed to this trip_id. Helen is mentioned as a traveller but is not one of the named family members (Simon, Eve, Thomas, William, Peter, John, Charles, Tinder) — she may be a friend or relative accompanying them. The place '[?Caraluce]' near Alfreton is transcriber-uncertain; no confident match found. The diary also notes they dropped off a computer to be mended on the way but gives no location name for this stop, so it is not recorded as a stop."
+}

@@ -1,0 +1,276 @@
+{
+  "trip_id": "2009-northumberland-yorkshire-humber-bridge-bridlington-alnwick",
+  "title": "Northumberland & Yorkshire: Humber Bridge, Bridlington, Alnwick & Holy Island",
+  "volume": "B",
+  "spread_range": ["B_0163", "B_0167"],
+  "diary_page_range": [18, 22],
+  "date_start": "2009-08-07",
+  "date_end": "2009-08-13",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0163_L",
+      "excerpt": "Simon, Eve & Tonic set off to Northumberland.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Humber Bridge, UK",
+      "original_wording": "Humber Bridge",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0163_R",
+      "excerpt": "We stopped to admire the Humber Bridge + walked down to the water's edge through a nature park near an old black windmill.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bridlington, UK",
+      "original_wording": "Bridlington",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0163_R",
+      "excerpt": "On [the] to Bridlington. Pradhma, Godfrey, Emy & Evans welcomed us warmly + picked apples from the tree in their garden + gave us a good supper.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Muston Grange Caravan Park, Filey, UK",
+      "original_wording": "Muston Grange Caravan Park",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0163_R",
+      "excerpt": "We drove on + camped at Muston Grange Caravan Park, extraordinarily regimented & densely packed caravans. £12.50.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Campsite near Teesside, UK",
+      "original_wording": "the campsite",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "B_0164_R",
+      "excerpt": "We have stopped for lunch on the road towards Teesside. ... When we reached the campsite we went for a walk. Tonic had some eggs for supper & felt better.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Alnwick Garden, Alnwick, UK",
+      "original_wording": "Alnick Gardens",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0164_R",
+      "excerpt": "We arrived at the Alnick Gardens at 9.30. ... Until 1pm we visited the gardens, having a tour of the Poison Garden & looking at the Grand Cascade.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Bamburgh, UK",
+      "original_wording": "Bamburgh",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0165_R",
+      "excerpt": "We had lunch in the van & drove north to Bamburgh. We went to & said evensong at St. Aidan's.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Budle Farm Campsite, Bamburgh, UK",
+      "original_wording": "Budle Farm Campsite",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0165_R",
+      "excerpt": "We're camping at Budle Farm Campsite. The farmer's very nice ... We walked along the beach at high tide & I collected shells. It's very beautiful & looks across to Holy Island.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Snitter Farm Campsite, Rothbury, UK",
+      "original_wording": "Snitter Farm Campsite",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0166_R",
+      "excerpt": "Now we have come on to Snitter Farm Campsite, an open view of woods & fields.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Kielder Water, UK",
+      "original_wording": "Kielder Water",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0167_L",
+      "excerpt": "instead we went west to Kielder Water & walked by the reservoir.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Stanhope, County Durham, UK",
+      "original_wording": "Stanhope B6278",
+      "role": "transit_stop",
+      "confidence": 0.78,
+      "approximate": false,
+      "source_page_id": "B_0167_L",
+      "excerpt": "Going on southwards, we crossed between Weardale & Teesdale, through Stanhope B6278, glorious empty moorland.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Bowes, County Durham, UK",
+      "original_wording": "Bower",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "B_0167_L",
+      "excerpt": "We reached Bower & Peter & Elizabeth gave us a lovely supper. We slept in the nearby car park.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Bham",
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0167_R",
+      "excerpt": "We left for Bham at 4pm + had supper at Pinnocchio's When we got home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Day trip to Whitby and Scarborough",
+      "date_guess": "2009-08-08",
+      "stops": [
+        {
+          "normalized_name": "Scarborough, UK",
+          "original_wording": "Scarborough",
+          "confidence": 0.7,
+          "source_page_id": "B_0164_L",
+          "excerpt": "Then off under glorious sunshine to Whitby. Scarborough looks very fine (no evidence of Butlins) beautiful Edwardian houses.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Whitby, UK",
+          "original_wording": "Whitby",
+          "confidence": 0.85,
+          "source_page_id": "B_0164_L",
+          "excerpt": "Then off under glorious sunshine to Whitby. ... Whitby was peaceful green, green, yellow stone & a blue sea & sky.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Holy Island/Lindisfarne, Woolmer vet & Dunstanburgh (Monday)",
+      "date_guess": "2009-08-10",
+      "stops": [
+        {
+          "normalized_name": "Wooler, UK",
+          "original_wording": "Woolmer",
+          "confidence": 0.6,
+          "source_page_id": "B_0165_R",
+          "excerpt": "We went to Woolmer for the vet. Tonic's now doped up & recovering.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Lindisfarne (Holy Island), UK",
+          "original_wording": "Holy Island/Lindisfarne",
+          "confidence": 0.88,
+          "source_page_id": "B_0165_R",
+          "excerpt": "After the vet we crossed to Holy Island/Lindisfarne. The castle's shut on Mondays, so we looked at the old Priory.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Craster, UK",
+          "original_wording": "Craster",
+          "confidence": 0.82,
+          "source_page_id": "B_0166_L",
+          "excerpt": "We drove on to Craster + parked + walked to Dunstanborough + back - glorious sunshine.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Dunstanburgh Castle, UK",
+          "original_wording": "Dunstanborough",
+          "confidence": 0.82,
+          "source_page_id": "B_0166_L",
+          "excerpt": "walked to Dunstanborough + back - glorious sunshine. ... Dunstanburgh Castle. Early C4. Lancastrian Stronghold during Wars of the Roses.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Lindisfarne Castle & Cragside (Tuesday)",
+      "date_guess": "2009-08-11",
+      "stops": [
+        {
+          "normalized_name": "Lindisfarne (Holy Island), UK",
+          "original_wording": "Lindisfarne",
+          "confidence": 0.85,
+          "source_page_id": "B_0166_R",
+          "excerpt": "We returned to Lindisfarne to see the Castle ... So we packed a lunch + walked around the island, seeing Jekell's beautiful garden.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Cragside, Rothbury, UK",
+          "original_wording": "Cragside, near Rothbury",
+          "confidence": 0.85,
+          "source_page_id": "B_0166_R",
+          "excerpt": "When we reached Cragside, near Rothbury ... we saw the Iron Bridge & lakes & Pumphouse & Simon walked to the Powerhouse where Lord Armstrong made hydro electric power.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 12,
+      "label": "Walk at Arkengarthdale (Thursday)",
+      "date_guess": "2009-08-13",
+      "stops": [
+        {
+          "normalized_name": "Arkengarthdale, UK",
+          "original_wording": "Arkengarthdale",
+          "confidence": 0.78,
+          "source_page_id": "B_0167_L",
+          "excerpt": "At midday we left for a walk & lunch at Arkengarthdale. After lunch in the van, Peter led us on a super walk, up quite a steep hillside.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "26 [?Coalhouses]? [illegible]",
+      "issue": "Illegible note alongside the lunch stop on the road towards Teesside on Saturday; cannot resolve the place name or confirm it is a visited stop.",
+      "source_page_id": "B_0164_R",
+      "excerpt": "We have stopped for lunch on the road towards Teesside.      26 [?Coalhouses]? [illegible] no [illegible],"
+    }
+  ],
+  "boundary_flags": [
+    {
+      "issue": "Trip ends mid-spread (mixed_end=true). The final page B_0167_R closes this trip ('We left for Bham at 4pm ... When we got home.'); content after it belongs to the next trip.",
+      "source_page_id": "B_0167_R"
+    }
+  ],
+  "summary": "In August 2009 Simon and Eve (with their dog Tonic, who was ill the whole trip) toured Northumberland and the Yorkshire/Humber coast. From Birmingham they admired the Humber Bridge, saw friends at Bridlington and camped at Muston Grange, then worked north via Whitby, Alnwick Garden, Bamburgh, Holy Island/Lindisfarne, Craster/Dunstanburgh, Cragside and Kielder Water. Heading home they crossed the Durham dales, stayed with friends at Bowes, walked in Arkengarthdale and drove back to Birmingham.",
+  "extraction_notes": "Domestic UK trip with NO sea/tunnel crossings: the Humber Bridge is a road bridge they stopped to admire (main_stop), not a crossing terminal, so crossings is empty. Only Simon and Eve (plus dog Tonic) travelled; no children mentioned. Dates: only Thu 7 Aug is dated explicitly; subsequent days (Sat, Sun, Mon, Tue, Wed, Thu) are inferred from weekday headings, giving an end date of Thu 13 Aug 2009. The diary writes 'Tonic' (the dog) where the family roster lists 'Tinder' - kept the diary's spelling in travellers context but this is the family dog. seq 5 is an unnamed campsite near Teesside (Saturday night base before Sunday's Alnwick visit) - low confidence, approximate. 'Woolmer' for the vet most likely = Wooler, Northumberland (low confidence). 'Bower' where Peter & Elizabeth live = most likely Bowes in Teesdale/County Durham (approximate); they slept in a nearby car park there both Wed and Thu nights. Note Cragside appears in narrative both Tuesday (visited) and Wednesday (intended to return but went to Kielder instead) - only the Tuesday visit is counted as a stop. Whitby/Scarborough on Saturday are treated as an excursion from Muston Grange since they returned to a campsite that evening before moving on."
+}

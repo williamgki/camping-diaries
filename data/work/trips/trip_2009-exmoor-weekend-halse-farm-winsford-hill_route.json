@@ -1,0 +1,121 @@
+{
+  "trip_id": "2009-exmoor-weekend-halse-farm-winsford-hill",
+  "title": "Exmoor weekend: Halse Farm, Winsford Hill",
+  "volume": "B",
+  "spread_range": ["B_0168", "B_0169"],
+  "diary_page_range": [168, 169],
+  "date_start": "2009-10-16",
+  "date_end": "2009-10-18",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Halse Farm Campsite, Winsford, Exmoor, UK",
+      "original_wording": "Halse Farm campsite",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0168_L",
+      "excerpt": "We arrived at 5.40. at Halse Farm campsite * * * * (middle of Exmoor)",
+      "geocode_hint": { "countrycodes": "gb", "region": "Exmoor, Somerset" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Brendon Hills, Somerset, UK",
+      "original_wording": "Brandon Hills",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0169_L",
+      "excerpt": "On the journey we stopped at to look at an engine house in the Brandon Hills.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Somerset" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday walk: Winsford Hill and Winsford Village",
+      "date_guess": "2009-10-17",
+      "stops": [
+        {
+          "normalized_name": "Winsford Hill, Exmoor, UK",
+          "original_wording": "Winsford Hill",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "B_0168_L",
+          "excerpt": "We went on a 4 3/4 mile walk along Winsford Hill, down to Winsford village.",
+          "geocode_hint": { "countrycodes": "gb", "region": "Exmoor, Somerset" }
+        },
+        {
+          "normalized_name": "Winsford, Somerset, UK",
+          "original_wording": "Winsford village",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "B_0168_L",
+          "excerpt": "We went on a 4 3/4 mile walk along Winsford Hill, down to Winsford village. Friendly P.O. good lunch.",
+          "geocode_hint": { "countrycodes": "gb", "region": "Exmoor, Somerset" }
+        },
+        {
+          "normalized_name": "Royal Oak Inn, Winsford, Somerset, UK",
+          "original_wording": "The Royal Oak Inn, Winsford",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0168_R",
+          "excerpt": "The Royal Oak Inn, Winsford where we had lunch - the peanut butter ice cream",
+          "geocode_hint": { "countrycodes": "gb", "region": "Exmoor, Somerset" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Queens Camel",
+      "issue": "Named in title_guess but not mentioned in any transcribed diary page in this bundle. Pages B_0169_L ends mid-sentence (boundary_mixed: true), suggesting further content on the next page. May be a stop on the return journey not captured in this bundle.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Tonic",
+      "issue": "Dog named 'Tonic' in transcription ('Simon, Eve & Tonic left for a w/end holiday'). Context identifies family dog as 'Tinder' — likely a transcription error. Treated as Tinder in travellers list.",
+      "source_page_id": "B_0168_L",
+      "excerpt": "Simon, Eve & Tonic left for a w/end holiday."
+    },
+    {
+      "original_wording": "old [?Gindling]",
+      "issue": "Illegible or uncertain word in B_0169_L; text ends mid-sentence due to page boundary. Possibly a technical term for mine machinery.",
+      "source_page_id": "B_0169_L",
+      "excerpt": "The old [?Gindling] had metal bars sticking out of the floor for"
+    }
+  ],
+  "boundary_flags": [
+    "B_0168_L boundary_mixed: page begins mid-volume (September/October heading suggests preceding entries on same page spread)",
+    "B_0169_L boundary_mixed: text ends mid-sentence; trip likely continues on next page(s) not included in this bundle"
+  ],
+  "summary": "Simon and Eve took a weekend break to Halse Farm campsite on Exmoor (16-18 October 2009), driving down the M5 past Bristol. On Saturday they walked 4.75 miles along Winsford Hill and down to Winsford village for lunch at the Royal Oak Inn; on Sunday they stopped at an engine house in the Brendon Hills before returning home.",
+  "extraction_notes": "Only two diary pages (B_0168 and B_0169) were in the bundle; B_0169_L ends mid-sentence and is marked boundary_mixed, suggesting the trip may continue onto further pages. 'Queens Camel' appears in the title_guess but is absent from all transcribed pages — it is likely on a subsequent page. The dog is transcribed as 'Tonic' but context identifies the family dog as 'Tinder'. No sea crossings: entirely within England. Brandon Hills is the diary's spelling for Brendon Hills (Somerset mining area with historic engine houses)."
+}

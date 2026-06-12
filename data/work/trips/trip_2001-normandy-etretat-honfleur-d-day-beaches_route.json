@@ -1,0 +1,359 @@
+{
+  "trip_id": "2001-normandy-etretat-honfleur-d-day-beaches",
+  "title": "Normandy: Étretat, Honfleur & the D-Day Beaches",
+  "volume": "A",
+  "spread_range": ["A_0297", "A_0307"],
+  "diary_page_range": [21, 50],
+  "date_start": "2001-10-06",
+  "date_end": "2001-10-12",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Portsmouth",
+      "original_wording": "Portsmouth",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0297_R",
+      "excerpt": "On to Portsmouth, where the ferry people had given our tickets to other people called Kirby ... We had a lovely cabin.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Le Havre",
+      "original_wording": "Left the port",
+      "role": "crossing_terminal",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Portsmouth overnight ferry arriving on the Le Havre side; they 'Left the port' and immediately camped at D'Antifer/Henqueville just north of Le Havre. The hand-drawn map's Portsmouth arrow points to the Le Havre/Honfleur shore (not Cherbourg).",
+      "source_page_id": "A_0297_R",
+      "excerpt": "Left the port & camped at D'Antifer, Henqueville.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Hénouville (D'Antifer), Normandy, France",
+      "original_wording": "D'Antifer, Henqueville",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0297_R",
+      "excerpt": "Left the port & camped at D'Antifer, Henqueville. *** Windy, high cypress & privet hedges. Typical French summer camp chalets.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Étretat, France",
+      "original_wording": "Etretat",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0297_R",
+      "excerpt": "On towards Etretat. ... We reach Etretat & shop for pâté, sausage, cake & bread. Church is beautiful a small Norman church",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Fécamp, France",
+      "original_wording": "Fécamp",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0298_L",
+      "excerpt": "We drove to Fécamp, where there was a gambling casino but I couldn't find a postard.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Yvetot, France",
+      "original_wording": "Yvetot",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0298_L",
+      "excerpt": "Then we reached Yvetot, We ate the delicious pastries with Tea + walked to the 1956 church",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Yvetot (secluded valley), France",
+      "original_wording": "a secluded valley",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "A_0298_L",
+      "excerpt": "We drove a short distance to a secluded valley + reached We booked a meal + decided to spend the night because of the rain. The garden was very pretty with birdcages",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Honfleur, France",
+      "original_wording": "Honfleur",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0299_R",
+      "excerpt": "We went down the Risle estuary to Honfleur. Honfleur has a beautiful harbour + a very straight, uphill road leading out of it.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Hennequeville (Trouville-sur-Mer), France",
+      "original_wording": "Hennequeville",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0299_R",
+      "excerpt": "finally at Hennequeville we found \"Le Chant des Oiseaux\" * * * * with a marvellous view. We are on the edge of a steep slope down to the sea.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Bénouville (Pegasus Bridge), Normandy, France",
+      "original_wording": "Pegasus Bridge",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0300_R",
+      "excerpt": "Travelling west we reached Pegasus Bridge & looked at the museum there before and after lunch ... It was the start of the Allied offensive back into Europe on D Day.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Rouvrou (Ménil-Hubert-sur-Orne), Suisse Normande, France",
+      "original_wording": "Rouvrou",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0302_L",
+      "excerpt": "We found a beautiful, secluded valley in the middle of the Suisse Normandes, next to a large oxbow ... Rouvrou is the village.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Arromanches-les-Bains, France",
+      "original_wording": "Arromanches",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0302_L",
+      "excerpt": "We left & drove to Arromanches. We came to see the amaz[ing] harbour that was built by the British, starting on June 8th 1944.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Bayeux, France",
+      "original_wording": "Bayeux",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0304_L",
+      "excerpt": "we drove to Bayeux. We saw the Bayeux Tapestry ... The campsite was supposed to be open, but it wasn't. So we stayed in a hotel",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Cerisy-la-Forêt, France",
+      "original_wording": "Cerisy la Foret",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0305_L",
+      "excerpt": "We drove to Cerisy la Foret, a lovely old Abbey with a monks-fish pond. Wonderful round Norman arches & huge space inside the church.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Saint-Lô, France",
+      "original_wording": "St. Lo",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0305_L",
+      "excerpt": "We are shopping at St. Lo. We stopped for lunch in a lay by",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Coutances, France",
+      "original_wording": "Coutances",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0305_L",
+      "excerpt": "drove on to Coutances, which has a magnificent cathedral. Vertical columns go right down across the windows on the exterior.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Lessay, France",
+      "original_wording": "Lessay",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0306_L",
+      "excerpt": "We stopped at Lessay which also has a fabulous abbey, very severe.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Barneville-Carteret, France",
+      "original_wording": "Barneville-Carteret",
+      "role": "transit_stop",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": "A_0307_L",
+      "excerpt": "Hand-drawn route traced in black ink up the Cotentin west coast through Barneville-Carteret",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Cherbourg, France",
+      "original_wording": "Cherbourg",
+      "role": "main_stop",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": "A_0307_L",
+      "excerpt": "Hand-drawn route reaches the top of the Cotentin peninsula at Cherbourg before turning back",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "portsmouth-le_havre",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0297_R",
+      "excerpt": "On to Portsmouth, where the ferry people had given our tickets to other people called Kirby ... We had a lovely cabin. ... Left the port & camped at D'Antifer, Henqueville."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 8,
+      "label": "Seine ferry crossing & cycle to Jumièges Abbey",
+      "date_guess": "2001-10-08",
+      "stops": [
+        {
+          "normalized_name": "Yainville (Seine ferry), France",
+          "original_wording": "Yainville",
+          "confidence": 0.8,
+          "source_page_id": "A_0298_R",
+          "excerpt": "We set off near the Seine + caught a ferry with the bikes to cycle to Jumièges Abbey. ... The ferry there was from Yainville, Jumièges ferry back",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Jumièges Abbey, France",
+          "original_wording": "Jumièges Abbey",
+          "confidence": 0.9,
+          "source_page_id": "A_0298_R",
+          "excerpt": "to cycle to Jumièges Abbey ... The abbey was very beautiful, although the lantern had been dynamited in 1796",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Heurteauville, France",
+          "original_wording": "Heurteauville",
+          "confidence": 0.75,
+          "source_page_id": "A_0298_R",
+          "excerpt": "Jumièges ferry back, + we cycled through Heurteauville. One of the roads is called \"thatched house road\".",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 10,
+      "label": "Drive via Routot & Pont-Audemer down the Risle to Honfleur",
+      "date_guess": "2001-10-08",
+      "stops": [
+        {
+          "normalized_name": "Routot, France",
+          "original_wording": "Routot",
+          "confidence": 0.75,
+          "source_page_id": "A_0299_R",
+          "excerpt": "We drove Routot, where the linen museum was shut.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Pont-Audemer, France",
+          "original_wording": "Pont-Audomer",
+          "confidence": 0.8,
+          "source_page_id": "A_0299_R",
+          "excerpt": "Simon shopped at Pont-Audomer. We went down the Risle estuary to Honfleur.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 12,
+      "label": "Deauville, Villerville & Pegasus Bridge / Suisse Normande day",
+      "date_guess": "2001-10-09",
+      "stops": [
+        {
+          "normalized_name": "Deauville, France",
+          "original_wording": "Deauville",
+          "confidence": 0.85,
+          "source_page_id": "A_0300_R",
+          "excerpt": "We drove through Deauville - beautifu[l] large old houses.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Villerville, France",
+          "original_wording": "Villerville",
+          "confidence": 0.8,
+          "source_page_id": "A_0300_R",
+          "excerpt": "We stopped at Villervill[e] for coffee. I walked down to the sea across the sandy beach to collect shells.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Thury-Harcourt, France",
+          "original_wording": "Thury Harcourt",
+          "confidence": 0.8,
+          "source_page_id": "A_0302_L",
+          "excerpt": "We bought creme boule, cider, apple aperitif, cheese, bread, avocados, yogurt at Thury Harcourt, & changed travellers cheques.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "issue": "Mixed start: page A_0297_L opens mid-narrative with a Wolfhamscote/Braunston cycling outing (canal, Admiral Nelson pub) that belongs to the PREVIOUS entry. The Normandy trip proper begins at the 'October 6th Saturday' heading where 'Simon & Eve set off for Normandy alone'.",
+      "source_page_id": "A_0297_L"
+    },
+    {
+      "issue": "Mixed end: page A_0307_R is a route-sketch map page whose printed labels (Rouen, Giverny, Dieppe, Le Mans, Paris, Lille distances etc.) and the bottom-right France inset reach well beyond the narrated trip; treat only the hand-traced black-ink line and Camp/Hotel annotations as evidence.",
+      "source_page_id": "A_0307_R"
+    }
+  ],
+  "summary": "In October 2001 Simon and Eve toured Normandy alone (the five sons dispersed to school/college/jobs), taking the overnight Portsmouth ferry and landing on the Le Havre coast. They camped near Étretat, explored the Alabaster Coast (Étretat, Fécamp, Yvetot) and the Seine valley (Jumièges Abbey), then worked west along the Côte Fleurie via Honfleur and Hennequeville to the D-Day country: Pegasus Bridge, the Mulberry harbour at Arromanches and the Bayeux Tapestry. They finished with a loop through the Suisse Normande (camp at Rouvrou) and the Cotentin (Cerisy-la-Forêt, Saint-Lô, Coutances, Lessay) before heading home.",
+  "extraction_notes": "Hand-drawn route is split across two facing map halves (A_0307_L = western Normandy/Cotentin, A_0307_R = eastern Normandy/Seine-Maritime); they join spatially into one continuous black-ink line. Map Camp/Hotel labels corroborate the narrated overnight bases: Camp@Étretat (D'Antifer), Hotel@Yvetot (secluded valley), Camp@Honfleur (Hennequeville), Hotel@Bayeux, Wild Camp@Caen, Camp 'Routrou'@Falaise area (= the narrated Rouvrou in the Suisse Normande). A_0303_R 'sketch' is the Mulberry-harbour traffic diagram, NOT a route map. Ferry: diary names Portsmouth and a cabin (overnight ferry); they 'left the port' and immediately camped at D'Antifer just north of Le Havre, and the map's Portsmouth arrow points to the Le Havre/Honfleur shore, so the crossing is portsmouth-le_havre (named_in_diary for Portsmouth; Le Havre side inferred from arrival point). Two Portsmouth arrows appear on the west map (one toward Cherbourg) but the narrative rules out a Cherbourg landing. Dates: several '9th' entries are inconsistent in the diary (Tue Oct 9, Wed Oct 9, Thu Oct 10) — treated as Tue 9 / Wed 10 / Thu 11 progression, with the Bayeux hotel night on the 10th-11th and departure homeward after Fri Oct 12. The Cotentin tip (Barneville-Carteret seq 19, Cherbourg seq 20) is on the hand-traced route but past the end of the transcribed narrative (which stops at Lessay/Coutances), so confidence is lowered to 0.6. Travellers limited to Simon & Eve per A_0297_L ('Simon & Eve set off for Normandy alone'). Return-home leg (seq 21) is inferred (trips end at home) since the transcribed pages do not narrate the journey back."
+}

@@ -1,0 +1,104 @@
+{
+  "trip_id": "1997-forest-of-dean-cycling-beauchamp-john",
+  "title": "Forest of Dean cycling & Beauchamp (John's cello course)",
+  "volume": "A",
+  "spread_range": ["A_0195", "A_0196"],
+  "diary_page_range": [null, null],
+  "date_start": "1997-04-05",
+  "date_end": "1997-04-08",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "M5/M50 junction near Ross-on-Wye, UK",
+      "original_wording": "M50 turn-off to Ross, on the M5",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0195_L",
+      "excerpt": "We left at 8.30 + breakfasted at the M50 turn-off to Ross, on the M5.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Ross-on-Wye, Herefordshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Forest of Dean campsite, Gloucestershire, UK",
+      "original_wording": "a campsite next to the Forest of Dean",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0195_L",
+      "excerpt": "We reached a campsite next to the Forest of Dean but, disappointingly, none of them provide cycling out into the forest.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Forest of Dean, Gloucestershire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Beauchamp music course venue, Forest of Dean area, UK",
+      "original_wording": "Beauchamp",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0196_L",
+      "excerpt": "We reached Beauchamp at 9.45. for John's 'cello course.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Forest of Dean, Gloucestershire" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Birmingham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0196_R",
+      "excerpt": "Simon & Thomas left at 7.10 for Birmingham, without breakfast.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Cycling at Pedalaway, Forest of Dean",
+      "date_guess": "1997-04-05",
+      "stops": [
+        {
+          "normalized_name": "Pedalaway Cycle Centre, Forest of Dean, UK",
+          "original_wording": "Pedalaway",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0195_R",
+          "excerpt": "So we have driven to the Park at Pedalaway. The boys cycled before lunch.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Forest of Dean, Gloucestershire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Beauchamp",
+      "issue": "The exact location of the 'Beauchamp' cello/strings course venue is uncertain. Based on previous family trips using the same name (1992, 1993, 1994, 1996), this is a recurring residential music course venue near or in the Forest of Dean/Gloucestershire area. Could be a school, country house or estate. Treated as approximate.",
+      "source_page_id": "A_0196_L",
+      "excerpt": "We reached Beauchamp at 9.45. for John's 'cello course."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "flag": "mixed_start",
+      "note": "Page A_0195_L begins with the end of a prior trip returning from Belgium/France via Channel Tunnel and Broadhembury (near Ashford). That return journey is NOT part of this trip. This trip begins with the Saturday 5 April 1997 narrative partway through the same page."
+    }
+  ],
+  "summary": "An Easter short break (5–8 April 1997) from Birmingham to the Forest of Dean for cycling at Pedalaway, followed by a two-night stay at the Beauchamp residential cello course venue for John. Simon drove home on Sunday evening for church duties and returned on Monday; he and Thomas made an early return to Birmingham on Tuesday morning while the rest of the family stayed for John's concert before driving home on Tuesday afternoon.",
+  "extraction_notes": "Page A_0195_L is boundary-mixed: it opens with the tail end of a prior France/Belgium/Channel Tunnel trip (return through Broadhembury near Ashford, then home on Sunday via M-roads). This trip's own narrative starts partway down the same page with 'Saturday 1997 April 5th.' No crossing is required — the trip is entirely within England. The dog Tinder is noted as being in kennels. Dates 6, 7 and 8 April are stated explicitly in the diary headings (Sunday 6th April, Monday 7th April, Tuesday 8th April), so date_precision is day. Simon's return to Birmingham on Sunday (seq 5) is explicitly stated; the family's final return on Tuesday 8 April is also explicit. Beauchamp is treated as approximate and unresolved per the same convention used in 1992–1996 Beauchamp trips already in the dataset."
+}

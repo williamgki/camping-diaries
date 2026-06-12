@@ -1,0 +1,53 @@
+{
+  "trip_id": "1996-farnborough-hall-day-trip",
+  "title": "Farnborough Hall (day trip)",
+  "volume": "A",
+  "spread_range": ["A_0177", "A_0177"],
+  "diary_page_range": [null, null],
+  "date_start": "1996-05-25",
+  "date_end": "1996-05-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Farnborough Hall, Warwickshire, UK",
+      "original_wording": "Farnborough Hall",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0177_L",
+      "excerpt": "we've come on a day trip to Farnborough Hall, 6 miles from Banbury",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0177_L",
+      "excerpt": "After tea in the carpark at 4.30, we set off for home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A one-day family outing on 25 May 1996, substituting for a planned trip to Sinai after Peter was ill for four weeks. The family drove from Birmingham to Farnborough Hall in Warwickshire (six miles from Banbury), visiting the painted rooms, library, and china collections, before returning home after tea at 4:30pm.",
+  "extraction_notes": "This is a pure day trip — no overnight. The diary records that the intended holiday was to Sinai but illness led to this local substitute. 'Ela' and 'Lawrence' are mentioned as fellow visitors but appear to be friends/relatives rather than core family members; they are not included in the travellers list as only the core family is tracked. Tinder (the dog) is included as usual. The page is mixed_start/mixed_end (A_0177 contains content from adjacent trips). diary_page_range set to null as no explicit page numbers appear in the source."
+}

@@ -1,0 +1,97 @@
+{
+  "trip_id": "2019-gloucestershire-near-barnsley-newark-park-ashen",
+  "title": "Gloucestershire: near Barnsley, Newark Park (Ashen Mains)",
+  "volume": "B",
+  "spread_range": ["B_0316", "B_0317"],
+  "diary_page_range": [316, 317],
+  "date_start": "2019-04-05",
+  "date_end": "2019-04-07",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Ashen Mains Campsite, near Barnsley, Gloucestershire",
+      "original_wording": "Ashen Mains campsite",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0316_R",
+      "excerpt": "Ashen Mains campsite.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Barnsley, Gloucestershire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0317_R",
+      "excerpt": "Charles left to measure hop [?with] for his computer on a farm near William.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Day trip to Newark Park",
+      "date_guess": "2019-04-06",
+      "stops": [
+        {
+          "normalized_name": "Newark Park, Ozleworth, Gloucestershire",
+          "original_wording": "Newark Park",
+          "confidence": 0.95,
+          "source_page_id": "B_0317_L",
+          "excerpt": "We drove to Newark Park. Still bloody freezing. [...] Amazing views from house. Tudor hunting lodge, extra building.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Ozleworth, Gloucestershire" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Walk to Breakheart Quarry and pub evening at The New Inn",
+      "date_guess": "2019-04-07",
+      "stops": [
+        {
+          "normalized_name": "Breakheart Quarry, near Wotton-under-Edge, Gloucestershire",
+          "original_wording": "Breakheart Quarry",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "B_0317_R",
+          "excerpt": "Simon + Eve walked round a steep hillside to an area – Breakheart Quarry – owned by the Nuclear Decommissioning Area – covered in silver birch trees + primroses.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Wotton-under-Edge, Gloucestershire" }
+        },
+        {
+          "normalized_name": "The New Inn, near Ashen Mains, Gloucestershire",
+          "original_wording": "The New Inn",
+          "confidence": 0.85,
+          "approximate": true,
+          "source_page_id": "B_0317_R",
+          "excerpt": "We are off to a pub 400m away this evening, but [strikethrough: no] way, way down in the valley. The New Inn.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Wotton-under-Edge, Gloucestershire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "Page B_0316_L is mixed: the top portion (Friday 28th Sept / Sat 29th) belongs to an earlier trip (Dornston campsite, likely 2018); the 2019 trip begins at the 'April 5th 2019' entry.",
+    "Page B_0317_R is mixed: the text after 'April 7th Sunday' contains closing remarks about the trip, but the page is flagged boundary_mixed in the source."
+  ],
+  "summary": "Simon, Eve (with dog Tinder) and son Charles spent three nights at Ashen Mains campsite near Barnsley in the Gloucestershire Cotswolds (5–7 April 2019). Day excursions included a visit to Newark Park, a National Trust Tudor hunting lodge, and a walk to Breakheart Quarry followed by a steep-path pub evening at The New Inn in the valley below.",
+  "extraction_notes": "Trip is entirely domestic (UK, Gloucestershire); no ferry crossings. Charles joined in the evening of 5 April and left on the morning of 7 April. The page B_0316_L contains content from a separate earlier trip (a 'Dornston' entry dated Friday 28th Sept / Sat 29th) above the April 5th 2019 entry; the 2019 trip content begins at 'April 5th 2019'. Return home on April 7th is inferred from the closing note that Charles left and the campsite field description at end of B_0317_R; no explicit 'drove home' statement but the trip clearly concludes on that day. 'Kill End Wood' mentioned in B_0317_R is the wood at the bottom of the steep track to The New Inn — noted as context, not a separate stop. The diary notes the campsite is 'less than 1hr 20 min' from Birmingham for most family members, consistent with the Gloucestershire Cotswolds location."
+}

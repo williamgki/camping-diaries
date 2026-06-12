@@ -1,0 +1,79 @@
+{
+  "trip_id": "1993-telford-wales-collect-boys-from-riding",
+  "title": "Telford / Wales: Collect Boys from Riding",
+  "volume": "A",
+  "spread_range": ["A_0111", "A_0111"],
+  "diary_page_range": [26, 26],
+  "date_start": "1993-08-13",
+  "date_end": "1993-08-14",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wales / Shropshire border area (campsite unnamed)",
+      "original_wording": null,
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "A_0111_R",
+      "excerpt": "Camped in a small, sheltered site, green, with a pond at one end. * * * John & Charles very good. Supper at 9.pm.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Telford, UK",
+      "original_wording": "Telford",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0111_R",
+      "excerpt": "Sat Picked up boys from riding, drove home listening to all their stories. Home by 2pm for lunch. On the day, we looked at \"Four Winds\", Grandma's & Grandpa's old house outside Telford — we had stopped for petrol just by their old road.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0111_R",
+      "excerpt": "drove home listening to all their stories. Home by 2pm for lunch.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "riding (location unnamed)",
+      "issue": "The diary says boys were collected from 'riding' near Telford but does not name the riding school or camp. Likely somewhere in Shropshire or the Welsh borders.",
+      "source_page_id": "A_0111_R",
+      "excerpt": "Picked up boys from riding"
+    },
+    {
+      "original_wording": "small, sheltered site, green, with a pond at one end",
+      "issue": "Campsite not named. Context (travelling from Birmingham toward Telford/Wales, arriving late) suggests somewhere in Shropshire or the Welsh border area, but cannot be pinpointed.",
+      "source_page_id": "A_0111_R",
+      "excerpt": "Camped in a small, sheltered site, green, with a pond at one end."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0111_R opens with the end of the previous trip before the Friday 13th Aug heading"
+  ],
+  "summary": "A short overnight trip on Friday 13–Saturday 14 August 1993, with Simon and Eve (and young sons John and Charles) driving from Birmingham to camp near the Shropshire/Wales border before collecting the older boys from a riding stay near Telford on Saturday and returning home by 2pm. En route home they paused to look at 'Four Winds', their grandparents' former house outside Telford.",
+  "extraction_notes": "Page A_0111_R is a mixed-boundary page: the first paragraph describes the return home from the preceding trip; the new trip begins with the 'Friday 13th Aug' heading. The campsite is described but not named; geocoded as an approximate inferred_anchor in Shropshire/Welsh borders. The boys collected from 'riding' are likely Thomas, William, and/or Peter (the older children); John and Charles are explicitly mentioned as travelling with the parents. 'Four Winds' is Grandma and Grandpa's old house outside Telford — a brief visit while stopped for petrol, not an overnight stop. No crossings, no excursions."
+}

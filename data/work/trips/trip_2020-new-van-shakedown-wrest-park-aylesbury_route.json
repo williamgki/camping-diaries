@@ -1,0 +1,130 @@
+{
+  "trip_id": "2020-new-van-shakedown-wrest-park-aylesbury",
+  "title": "New Van Shakedown: Wrest Park, Aylesbury, Chandlers Ford, Witney, Edge Hill",
+  "volume": "B",
+  "spread_range": ["B_0340", "B_0343"],
+  "diary_page_range": [41, 43],
+  "date_start": "2020-10-27",
+  "date_end": "2020-10-31",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wrest Park, Silsoe, Bedfordshire",
+      "original_wording": "Wrest Park",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0340_R",
+      "excerpt": "Set off quite soon after breakfast to rural Bedfordshire to pick up a wine rack that Simon had ordered. This happened to be near an English Heritage site, Wrest Park, that Peter had suggested for a meet up",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Berkhamsted, Hertfordshire",
+      "original_wording": "Berkhamstead",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0340_R",
+      "excerpt": "Intending to visit Judith the next day, we looked up and found a small campsite near Berkhamstead. We were the only campers but the owner strolled down to meet us in the dark.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Aylesbury, Buckinghamshire",
+      "original_wording": "Aylesbury",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0341_L",
+      "excerpt": "We then drove to Aylesbury and found Judith's house. She was in and we chatted for about half an hour on her font porch.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Chandler's Ford, Hampshire",
+      "original_wording": "Chandlers Ford",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0341_L",
+      "excerpt": "We joined the M3 and on past Winchester to a campsite west of Chandlers Ford.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Swindon, Wiltshire",
+      "original_wording": "SE of Swindon",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0341_L",
+      "excerpt": "We then thought it may be possible to call on Conta the next day so picked a campsite SE of Swindon at a small farm that kept a special herd of sheep.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Witney, Oxfordshire",
+      "original_wording": "Witney",
+      "role": "transit_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0341_R",
+      "excerpt": "Simon had already located a scrap car firm that happened to have an old Renault Master Mk 1 that may have had an instrument panel that could be used to replace the defective one in our old van. This yard was in Witney so we drove there",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Finstock, Oxfordshire",
+      "original_wording": "Finstock",
+      "role": "transit_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0341_R",
+      "excerpt": "It was then nearly lunchtime and we thought it would be nice to have a pub lunch and we found a good one at Finstock (the Plough).",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Edge Hill, Warwickshire",
+      "original_wording": "Edge Hill NW of Banbury",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0341_R",
+      "excerpt": "After lunch, we meandered north ending up at a campsite at Edge Hill NW of Banbury, owned by a seemingly eccentric woman who gave instructions over the phone.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0342_L",
+      "excerpt": "On Saturday, the weather looked pretty miserable so we decided to end the trip a little early.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "Simon and Eve's shakedown trip in their new Peugeot Boxer campervan in late October 2020, visiting Wrest Park (Bedfordshire), a campsite near Berkhamsted, Judith's house in Aylesbury, a campsite west of Chandlers Ford, a scrapyard in Witney (to source a Renault Master instrument panel for the old van), and a campsite at Edge Hill near Banbury before returning home early on Saturday due to poor weather.",
+  "extraction_notes": "Trip is UK-only; no ferry crossings. Travellers appear to be Simon and Eve only (no children mentioned as travelling — Peter appears at Wrest Park as a local meetup). The 'campsite SE of Swindon' is located approximately; the diary says it was at a farm with a special sheep herd. Visits to friends Venetia, David, and Belinda (mentioned on B_0341_L) occurred in the Witney/Oxfordshire area en route from Chandlers Ford to the Swindon campsite, but no addresses are given so they are not included as route stops. The trip ended Saturday 31 October 2020 (4 nights). The Duguid/Jones lunch was at a location near Chandlers Ford and is not a route stop."
+}

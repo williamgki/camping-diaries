@@ -1,0 +1,62 @@
+{
+  "trip_id": "2017-short-autumn-outing-via-alcester-supper",
+  "title": "Short autumn outing via Alcester (supper with Charles & Jenny)",
+  "volume": "B",
+  "spread_range": ["B_0296", "B_0296"],
+  "diary_page_range": [116, 116],
+  "date_start": "2017-10-16",
+  "date_end": "2017-10-16",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Charles and Jenny's house (location unresolved)",
+      "original_wording": "supper with Charles & Jenny",
+      "role": "unresolved",
+      "confidence": 0.4,
+      "approximate": true,
+      "source_page_id": "B_0296_L",
+      "excerpt": "we set off for supper with Charles & Jenny",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "supper with Charles & Jenny",
+      "issue": "No location given for Charles & Jenny's home in this diary entry. Charles is the family's son (married Jenny at Belmont Abbey, Hereford, July 2017), so their home may be in the Hereford/Worcestershire/Gloucestershire area, but this is speculation. Trip title says 'via Alcester' (see boundary note below) but no place name in the Monday Oct 16th narrative confirms any intermediate stop.",
+      "source_page_id": "B_0296_L",
+      "excerpt": "we set off for supper with Charles & Jenny. Stopped off at Aldi for dog's food."
+    }
+  ],
+  "boundary_flags": [
+    "B_0296_L is boundary_mixed: the opening text ('perfectly. We are stopping off with papers for the Chad accountant at Alcester on the way home.') is the tail of the PREVIOUS trip's return journey, not part of this Monday October 16th entry. The new trip begins at the 'Monday October 16th' heading. The title_guess 'via Alcester' was derived from the full page text including the preceding trip's tail; Alcester is not mentioned in the Monday Oct 16th narrative itself and has therefore NOT been included as a stop on this trip."
+  ],
+  "summary": "A short evening outing from Birmingham on Monday 16 October 2017, with Eve first going to 'Chad' by Uber before setting off with Simon for supper with son Charles and his wife Jenny. The location of Charles and Jenny's home is not stated in the diary. Tinder the dog accompanied them, with a stop at Aldi for dog food en route.",
+  "extraction_notes": "Single diary page (B_0296_L), boundary_mixed at the start. Page number 116 is recorded on B_0296_R (blank). 'Chad' appears to be a family property or local place in the Birmingham area rather than the country. The Alcester reference on this page belongs to the preceding trip's homeward leg and is excluded from this trip's route. No travellers beyond Simon and Eve are mentioned in the Monday Oct 16th entry text. No overnight stop — this is an evening supper outing returning home the same day. No crossings. Entirely domestic UK."
+}

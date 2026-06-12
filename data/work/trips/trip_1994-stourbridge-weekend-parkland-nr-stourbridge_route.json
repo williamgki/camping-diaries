@@ -1,0 +1,66 @@
+{
+  "trip_id": "1994-stourbridge-weekend-parkland-nr-stourbridge",
+  "title": "Stourbridge Weekend (Parkland nr Stourbridge)",
+  "volume": "A",
+  "spread_range": ["A_0129", "A_0129"],
+  "diary_page_range": [43, 43],
+  "date_start": "1994-06-25",
+  "date_end": "1994-06-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Birmingham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0129_R",
+      "excerpt": "We left Birmingham to come to the Wolverhampton camping shop",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wolverhampton, UK",
+      "original_wording": "Wolverhampton camping shop",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0129_R",
+      "excerpt": "We left Birmingham to come to the Wolverhampton camping shop where Simon decided not to buy the folding chair he had seen in a catalogue.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Parkland near Stourbridge, UK",
+      "original_wording": "lovely open park land 6 miles from Stourbridge",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0129_R",
+      "excerpt": "We had tea + drove onto a lovely open park land 6 miles from Stourbridge. The children are playing foot ball.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Stourbridge, West Midlands" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "Page A_0129_R is boundary_mixed=true: the Stourbridge weekend entry (25 Jun 1994) is followed on the same page by a separate Malvern trip entry beginning 1 Jul 1994. Only the Stourbridge content is included in this route."
+  ],
+  "summary": "A short June 1994 weekend trip from Birmingham, stopping briefly at a camping shop in Wolverhampton before settling overnight at an open parkland site approximately six miles from Stourbridge. The diary notes the children playing football and Charles crying, with no further day trips recorded.",
+  "extraction_notes": "The diary page (A_0129_R) is marked boundary_mixed=true and contains entries for two separate trips. The Stourbridge weekend entry covers 25 Jun 1994 (Saturday) only; the subsequent entry starting 1 Jul 1994 belongs to a Malvern trip and has been excluded. The exact parkland campsite is not named; 'approx: true' is set for seq 3. Return to Birmingham on the Sunday (26 Jun) is inferred as the trip is described as a weekend outing with no onward travel mentioned. No ferry crossings; entirely within England."
+}

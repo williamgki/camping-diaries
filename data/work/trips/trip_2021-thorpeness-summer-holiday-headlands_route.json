@@ -1,0 +1,55 @@
+{
+  "trip_id": "2021-thorpeness-summer-holiday-headlands",
+  "title": "Thorpeness Summer Holiday (Headlands)",
+  "volume": "B",
+  "spread_range": ["B_0351", "B_0351"],
+  "diary_page_range": null,
+  "date_start": "2021-07-25",
+  "date_end": "2021-08-01",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter", "John"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Thorpeness, Suffolk, UK",
+      "original_wording": "Thorpe",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0351_L",
+      "excerpt": "Peter is bringing the Master to Thorpe & John is bringing his van. We slept in the van, leaving the bed up all week & eating in The Green House. / the Headlands.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0351_L",
+      "excerpt": "But a super Thorpe – no rows.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "B_0351_L is boundary_mixed: the left page opens with the tail of the preceding trip (Middlewood/Postock walk, cricket pavilion, ‘set off for home’) before the heading ‘Sunday July 25th’ begins this trip."
+  ],
+  "summary": "A week-long summer holiday in Thorpeness, Suffolk in July 2021, staying at a house called Headlands and sleeping in the van. The trip was a family gathering for Jane’s 90th birthday, complicated slightly by Covid precautions on arrival.",
+  "extraction_notes": "Single spread (B_0351). The page is boundary_mixed; only the content from the ‘Sunday July 25th’ heading onwards belongs to this trip. ‘Thorpe’ clearly refers to Thorpeness, Suffolk (consistent with multiple other family Thorpeness trips). ‘Headlands’ is the name of the holiday house (appears in the trip title). ‘The Green House’ and ‘Headlands’ appear to be the same property or adjacent dining/living spaces. End date estimated as approximately 2021-08-01 (‘all week’ from Sunday July 25th). Tinder the dog was left at kennels (location not named, not a route stop). Peter and John travelled separately in their own vehicles. No explicit return-home narrative is on this page; home return is inferred as standard trip end."
+}

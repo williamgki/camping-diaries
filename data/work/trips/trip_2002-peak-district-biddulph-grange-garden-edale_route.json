@@ -1,0 +1,115 @@
+{
+  "trip_id": "2002-peak-district-biddulph-grange-garden-edale",
+  "title": "Peak District: Biddulph Grange Garden & Edale",
+  "volume": "A",
+  "spread_range": ["A_0332", "A_0334"],
+  "diary_page_range": [332, 334],
+  "date_start": "2002-10-05",
+  "date_end": "2002-10-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Biddulph Grange Garden, Staffordshire",
+      "original_wording": "Biddulph Grange Garden",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0332_L",
+      "excerpt": "motored north. We had sandwiches in the carpark of Biddulph Grange Garden.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Congleton, Cheshire",
+      "original_wording": "Congleton",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0333_R",
+      "excerpt": "We drove through Congleton & Buxton.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Buxton, Derbyshire",
+      "original_wording": "Buxton",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0333_R",
+      "excerpt": "We drove through Congleton & Buxton.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Edale, Derbyshire",
+      "original_wording": "Coopers' Campsite Edale",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0333_R",
+      "excerpt": "Coopers' Campsite __Edale__",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Domestic UK trip; diary ends mid-sentence on Sunday 6 Oct (mixed_end flag); return home is implied but not explicitly narrated.",
+      "source_page_id": "A_0334_L",
+      "excerpt": "We got back for a pub lunch at 1.55. before putting Thomas on the bus",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Walk over Edale Moor and Kinder Scout (Pennine Way)",
+      "date_guess": "2002-10-06",
+      "stops": [
+        {
+          "normalized_name": "Kinder Scout, Derbyshire",
+          "original_wording": "Edale Moor, edge of Kinder Scout",
+          "confidence": 1.0,
+          "source_page_id": "A_0334_L",
+          "excerpt": "We walked over Edale Moor, along the edge of Kinder Scout.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Mam Tor, Derbyshire",
+          "original_wording": "Mam's Tor",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "A_0334_L",
+          "excerpt": "We looked across to Mam's Tor where there was hanggliding.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: diary page A_0334_L ends mid-sentence on Sunday 6 Oct; return to Birmingham is inferred but not narrated."
+  ],
+  "summary": "A short weekend trip in October 2002 with Simon, Eve, Thomas (arriving separately by taxi after a train strike), and the dog. They visited the National Trust's Biddulph Grange Garden in Staffordshire on the Saturday, then drove on to Coopers' Campsite at Edale in the Peak District for an overnight stay. On Sunday they walked eight miles over Edale Moor along the edge of Kinder Scout at the start of the Pennine Way.",
+  "extraction_notes": "The diary transcription spells the dog's name as 'Tonic' on A_0332_L, but this is almost certainly a transcription variant of 'Tinder', the family dog named in context. Thomas joined the group at the campsite after a train strike forced him to bus to Buxton and take a taxi to Edale (cost: £30). The diary ends mid-sentence on page A_0334_L (mixed_end: true); the return to Birmingham is inferred. Mam Tor was seen from a distance during the walk and is marked approximate: true as the diarist looked across to it rather than visiting it. No ferry crossings involved; this is an entirely domestic UK trip."
+}

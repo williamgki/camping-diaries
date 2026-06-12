@@ -1,0 +1,110 @@
+{
+  "trip_id": "2003-malvern-school-concert-speech-day-llanafan",
+  "title": "Malvern School Concert & Speech Day, then Llanafan Fawr, Wales",
+  "volume": "A",
+  "spread_range": ["A_0338", "A_0340"],
+  "diary_page_range": [null, 84],
+  "date_start": "2003-05-23",
+  "date_end": "2003-05-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "John"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Worcester, UK",
+      "original_wording": "Worester",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0338_R",
+      "excerpt": "We reached Worester at 6.43... but just made it running into Big School as the orchestra arrived.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Malvern, UK",
+      "original_wording": "Malvern",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0338_R",
+      "excerpt": "We left at 5.35. (Simon, Eve & Tonic). The motorway traffic was stationary so we went on back roads to Malvern for the 7. concert. We slept outside No. 7.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Llanafan Fawr, Wales, UK",
+      "original_wording": "Llanafan Fawr",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0339_L",
+      "excerpt": "John went to stay with Jane to revise for GCSEs while the 3 of us have come to Llanafan Fawr. There is a church & pub here & lots of sheep.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips return home to Birmingham unless the diary says otherwise; no further diary pages after Monday May 26th entry.",
+      "source_page_id": "A_0340_L",
+      "excerpt": "Monday May 26th Charles + Eve had showers. At 10 we left on another walk...",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Speech Day at the Priory and Winter Garden",
+      "date_guess": "2003-05-24",
+      "stops": [
+        {
+          "normalized_name": "Malvern Priory, Malvern, UK",
+          "original_wording": "the Priory",
+          "confidence": 0.9,
+          "source_page_id": "A_0339_L",
+          "excerpt": "Charles sat with us at the Priory. John sang in the choir. There was no sermon, only glorious music.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Winter Garden, Malvern, UK",
+          "original_wording": "Winter Garden",
+          "confidence": 0.9,
+          "source_page_id": "A_0339_L",
+          "excerpt": "We met up with Jane & Harry & Rocky during coffee & the speeches in the Winter Garden.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "A_0338_R",
+      "note": "Page begins with end of previous trip (Knutsford, Casa Pilinca, Manchester); this trip starts mid-page at the 'Friday May 23rd' heading."
+    },
+    {
+      "page_id": "A_0340_L",
+      "note": "Page date ISO recorded as 1997-05-26 in source; should be 2003-05-26. Page is boundary_mixed; Monday May 26th 2003 entry covers final day at Llanafan Fawr campsite before implied return home."
+    }
+  ],
+  "summary": "Simon, Eve, Charles and John drove from Birmingham to Malvern on Friday 23 May 2003 for a school evening concert at Malvern College, sleeping overnight near the school. On Saturday, speech day ceremonies took place at the Priory church and the Winter Garden; John then went to stay with Jane to revise, while Simon, Eve and Charles drove on to camp at Llanafan Fawr in mid-Wales, spending the rest of the Bank Holiday weekend walking the remote hills and dining at the ancient Red Dragon pub.",
+  "extraction_notes": "Travellers on the Wales leg are only Simon, Eve and Charles (three people); John departed after speech day to revise for GCSEs. Tinder the dog accompanied them (referred to as 'Tonic' in the text - apparent diary abbreviation/nickname). The page A_0338_R begins mid-page with the close of an unrelated Knutsford trip; this trip opens at the 'Friday May 23rd' heading. The date ISO on A_0340_L is misrecorded as 1997-05-26 - context confirms 2003. 'Elan Valley' and 'Builth Wells' on A_0339_R are geographic orientation notes ('We are south of Elan Valley near Builth Wells'), not visited stops. 'Red Dragon' pub is in or very near Llanafan Fawr and is treated as part of the overnight base, not a separate stop."
+}

@@ -1,0 +1,98 @@
+{
+  "trip_id": "1992-ellesmere-tetchill-new-igloo-tent-shakedown",
+  "title": "Ellesmere / Tetchill (new Igloo tent shakedown)",
+  "volume": "A",
+  "spread_range": ["A_0055", "A_0056"],
+  "diary_page_range": [106, 108],
+  "date_start": "1992-04-03",
+  "date_end": "1992-04-05",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wolverhampton, UK",
+      "original_wording": "Wolverhampton",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0055_L",
+      "excerpt": "set off after lunch to the camping shop at Wolverhampton. We bought a new Igloo Tent",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Tetchill, Ellesmere, UK",
+      "original_wording": "Ellesmere Tetchill",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0055_L",
+      "excerpt": "We have ended up at Ellesmere Tetchill, where Eve has broken the corkscrew & the van heater doesn't work. Ice formed in the night",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" },
+      "note": "Return home inferred; mixed_end=true — diary pages continue beyond this spread"
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Visit to Ellesmere College and canal walk",
+      "date_guess": "1992-04-04",
+      "stops": [
+        {
+          "normalized_name": "Ellesmere College, Ellesmere, UK",
+          "original_wording": "Ellesmere College",
+          "confidence": 0.9,
+          "source_page_id": "A_0055_R",
+          "excerpt": "we set off in the van & had a look at Ellesmere College – a Woodard school, & pleasant",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Ellesmere, UK",
+          "original_wording": "Ellesmere town playground",
+          "confidence": 0.9,
+          "source_page_id": "A_0055_R",
+          "excerpt": "We walked back along the canal to the Ellesmere town playground which the children enjoyed",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Quinto campsite",
+      "issue": "Named campsite near the route from Birmingham towards Ellesmere; refused entry as family were not members. Not an actual stop. Location unknown — possibly near Wolverhampton or en route to Ellesmere.",
+      "source_page_id": "A_0055_L",
+      "excerpt": "the Quinto campsite wouldn't have us because we've not members"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: diary spread ends mid-trip at A_0056_L (boundary_mixed=true); return date and any further stops are unconfirmed"
+  ],
+  "summary": "A short Easter shakedown trip in April 1992 to test the family's new Igloo tent, ending up at a campsite in Tetchill near Ellesmere, Shropshire after being turned away from the Quinto campsite. The family stayed at least two nights, exploring Ellesmere town, visiting Ellesmere College, walking the canal, and attending church — despite a broken corkscrew, a faulty van heater, and overnight ice.",
+  "extraction_notes": "The spread has mixed_end=true and the final page (A_0056_L, no. 108) carries boundary_mixed=true with no closing date, so the return to Birmingham is inferred rather than evidenced. The Quinto campsite was attempted but the family were refused entry; it is listed as unresolved rather than a stop. No ferry crossings — entirely domestic England trip."
+}

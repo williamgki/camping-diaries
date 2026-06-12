@@ -1,0 +1,97 @@
+{
+  "trip_id": "1996-layer-marney-colchester-mersea-spooner-party",
+  "title": "Layer Marney / Colchester & Mersea (Spooner party)",
+  "volume": "A",
+  "spread_range": ["A_0178", "A_0178"],
+  "diary_page_range": [178, 178],
+  "date_start": "1996-06-01",
+  "date_end": "1996-06-02",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Layer Marney Tower, Essex",
+      "original_wording": "Layer Marney Tower near Colchester",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0178_R",
+      "excerpt": "1pm we - P,J,C, S,E, set off for Laurel Spooner's 40th birthday party & Laurel & Dick's 20th Wedding Anniversary; at Layer Marney Tower near Colchester, and old Tudor house.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Mersea Island, Essex",
+      "original_wording": "the island of Mersea, Ten Farm campsite",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0178_R",
+      "excerpt": "We are camping on the island of Mersea, Ten Farm campsite. Clean loos, very restful, glorious views of the sea with sail boats.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0178_R",
+      "excerpt": "We set off for home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Sunday morning walk along shingle sand banks",
+      "date_guess": "1996-06-02",
+      "stops": [
+        {
+          "normalized_name": "Mersea Island foreshore, Essex",
+          "original_wording": "shingle sand banks",
+          "confidence": 0.9,
+          "source_page_id": "A_0178_R",
+          "excerpt": "After breakfast we went for a walk along the shingle sand banks. Mud flats, tide coming in, hundreds of shells.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Lunch at the Blackwater restaurant, Mersea",
+      "date_guess": "1996-06-02",
+      "stops": [
+        {
+          "normalized_name": "Mersea Island, Essex",
+          "original_wording": "Mersea at a good French restaurant; the Blackwater",
+          "confidence": 0.9,
+          "source_page_id": "A_0178_R",
+          "excerpt": "We had lunch in Mersea at a good French restaurant; the Blackwater, with Matt & Jane. Very enjoyable.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: page A_0178 is shared with another trip; this trip ends mid-page"
+  ],
+  "summary": "A weekend trip from Birmingham to Essex for Laurel Spooner's 40th birthday party and 20th wedding anniversary at Layer Marney Tower, a Tudor house near Colchester. The family camped overnight at Ten Farm campsite on Mersea Island, enjoying coastal walks and a Sunday lunch at a French restaurant called the Blackwater before returning home.",
+  "extraction_notes": "Travellers explicitly listed as P,J,C,S,E (Peter, John, Charles, Simon, Eve); Thomas and William are not mentioned and appear to have not joined this trip. The date Saturday June 1st matches 1996-06-01 exactly, confirming the year. Trip covers only one diary page (A_0178_R). The page is boundary_mixed=true meaning it shares space with another trip. No ferry crossings — entirely within England. 'Ten Farm campsite' is the campsite name on Mersea Island. 'the Blackwater' is the name of the French restaurant in Mersea where Sunday lunch was taken with Matt & Jane. Thorpeness is mentioned only as a landscape comparison ('Sand & gorse like Thorpeness'), not as a visited stop."
+}

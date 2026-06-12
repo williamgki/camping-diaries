@@ -1,0 +1,62 @@
+{
+  "trip_id": "2020-the-farm-delivering-furniture-4th-october",
+  "title": "The Farm: Delivering Furniture (4th October)",
+  "volume": "B",
+  "spread_range": ["B_0339", "B_0340"],
+  "diary_page_range": null,
+  "date_start": "2020-10-04",
+  "date_end": "2020-10-04",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "The Farm (location unresolved)",
+      "original_wording": "the farm",
+      "role": "inferred_anchor",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0339_L",
+      "excerpt": "At 2.30. we drove off to the farm with the white sofa + chair from the living room, 4 kitchen chairs + 4 Gordon Russell chairs.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0339_R",
+      "excerpt": "Sunshine on the way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "the farm",
+      "issue": "Repeated family destination referred to simply as 'the farm'; no county, village or postcode given in this entry. Appears multiple times in adjacent diary pages (e.g. 8 Sept 2020 visit by Simon, Eve + Tinder) but precise location not established from the available text. Likely in Wales or the Welsh Marches given surrounding trip contexts, but cannot be confirmed.",
+      "source_page_id": "B_0339_L",
+      "excerpt": "At 2.30. we drove off to the farm with the white sofa + chair from the living room, 4 kitchen chairs + 4 Gordon Russell chairs."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0339 contains diary entries from multiple dates (8 Sept, 12 Sept, 27 Sept, and 4 Oct 2020); only the October 4th entry belongs to this trip"
+  ],
+  "summary": "A single-day furniture-delivery run on 4 October 2020 from Birmingham to the family farm, carrying a white sofa and chair, four kitchen chairs and four Gordon Russell chairs. Simon and Eve drove off at 2.30 pm and returned the same day; William and Bryony had separately been away to Broadstairs and the family could not go inside due to Covid restrictions.",
+  "extraction_notes": "This is a domestic UK day trip with no overnight stay and no crossings. The page B_0339_L contains several diary entries across different dates; only the Sunday October 4th entry belongs to this trip. The September 8th entry ('Simon, Eve + Tinder returned to the farm') confirms this is a recurring family destination but does not give its location. 'George Rd' (mentioned in the Sept 27 entry) is a separate property. William and Bryony are mentioned in passing (they had been to Broadstairs) but are not part of the October 4th farm trip. Tinder the dog may or may not have accompanied — not explicitly stated. 'The farm' location is unresolved and flagged accordingly."
+}

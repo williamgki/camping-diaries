@@ -1,0 +1,108 @@
+{
+  "trip_id": "1999-cambridge-david-debbie-ford-st-john",
+  "title": "Cambridge: David & Debbie Ford, St John's",
+  "volume": "A",
+  "spread_range": ["A_0268", "A_0269"],
+  "diary_page_range": [268, 269],
+  "date_start": "1999-06-26",
+  "date_end": "1999-06-27",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Cambridge, UK",
+      "original_wording": "Cambridge",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0268_R",
+      "excerpt": "Simon, Eve & Charles set off for __Cambridge__ at 10.30. We lunched in a field & arrived on David & Debbie Ford's drive at 10.30.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0269_R",
+      "excerpt": "before going home",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Day trips from Cambridge (27 June 1999)",
+      "date_guess": "1999-06-27",
+      "stops": [
+        {
+          "normalized_name": "Midsummer Common, Cambridge",
+          "original_wording": "Mid Summer Common fair",
+          "confidence": 0.9,
+          "source_page_id": "A_0269_L",
+          "excerpt": "David took Charles, Rachael & Daniel to Mid Summer Common fair",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "St John's College, Cambridge",
+          "original_wording": "St. John's",
+          "confidence": 0.95,
+          "source_page_id": "A_0269_L",
+          "excerpt": "Simon & Eve went to the Master's Tea in St. John's garden. It was very pretty.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "St John's College Chapel, Cambridge",
+          "original_wording": "St. John's College Chapel",
+          "confidence": 0.95,
+          "source_page_id": "A_0269_R",
+          "excerpt": "Charles & Eve set off for St. John's College Chapel at 9.40. Just before we left Simon arrived to walk in with us.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Grad Pad, Cambridge",
+          "original_wording": "Grad Pad",
+          "confidence": 0.85,
+          "source_page_id": "A_0269_R",
+          "excerpt": "had lunch at the Grad Pad",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Mrs. Bambrough",
+      "issue": "A person called on at Cambridge; location within Cambridge not specified and not independently verifiable",
+      "source_page_id": "A_0269_R",
+      "excerpt": "Afterwards we went to call on Mrs. Bambrough"
+    },
+    {
+      "original_wording": "Richard Holroyd",
+      "issue": "Person visited in Cambridge; address not given. Could be the same Richard mentioned as having a bike accident — context places him in Cambridge but exact location unknown",
+      "source_page_id": "A_0269_R",
+      "excerpt": "we called on Richard Holroyd, where we met James & Barbara Ko[?ndell]"
+    }
+  ],
+  "boundary_flags": [
+    "Page A_0268_R is a mixed-start page: the upper portion belongs to a preceding Wales trip (Portmeirion, Shrewsbury); the Cambridge trip begins at 'Saturday June 26th' on that same page."
+  ],
+  "summary": "Simon, Eve and Charles made a two-day visit to friends David and Debbie Ford in Cambridge on 26-27 June 1999. They spent the Saturday evening at the Fords, attended a barbeque, and on Sunday visited St John's College Chapel, Midsummer Common fair and lunched at the Grad Pad before driving home to Birmingham.",
+  "extraction_notes": "Only Simon, Eve and Charles travelled on this trip (the other sons are not mentioned). The diary note 'arrived on David & Debbie Ford's drive at 10.30' appears to repeat the departure time (also 10.30); this is likely a diary slip — the arrival was evidently in the evening given they 'lunched in a field' en route. Simon also spent the night of the 26th in St. John's College after the college dinner, while Eve and Charles slept on the Ford's drive. The page A_0269_R is also a mixed page: it begins with a Wales May 1999 photo caption before continuing the Cambridge narrative. No ferry or international crossing involved — entirely domestic UK trip."
+}

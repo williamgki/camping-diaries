@@ -1,0 +1,62 @@
+{
+  "trip_id": "2005-malvern-college-leavers-ball-thorpeness-john",
+  "title": "Malvern College Leavers' Ball & Thorpeness (John)",
+  "volume": "B",
+  "spread_range": ["B_0063", "B_0063"],
+  "diary_page_range": [63, 63],
+  "date_start": "2005-07-08",
+  "date_end": "2005-07-08",
+  "date_precision": "day",
+  "travellers": ["John"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malvern College, Malvern, UK",
+      "original_wording": "Malvern College",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0063_L",
+      "excerpt": "Malvern College Leavers Ball  Friday 8th July 2005  9pm – 1am",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Thorpeness",
+      "issue": "Thorpeness (Suffolk) appears in the title_guess but is absent from the single transcribed diary page (B_0063_L). It may refer to a subsequent destination after the Malvern ball, possibly on pages not included in this bundle (mixed_start:true suggests a boundary overlap). Cannot confirm as a stop without diary evidence.",
+      "source_page_id": null,
+      "excerpt": null
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: B_0063_L is a boundary page shared with the preceding trip; additional content relating to this trip (possibly including Thorpeness) may appear on adjacent pages not captured in this bundle."
+  ],
+  "summary": "John's Malvern College Leavers' Ball on the evening of 8 July 2005 (9pm–1am), marking the end of his time at the school. The surviving diary page is a single glued-in printed event card; a possible further leg to Thorpeness (Suffolk) is suggested by the trip title but is not attested in the transcribed pages.",
+  "extraction_notes": "Only one page transcribed (B_0063_L), which contains a glued-in printed card for the Malvern College Leavers Ball on Friday 8 July 2005. No narrative text describes travel to or from Malvern. Travellers not named on this page; John is identified from the trip title as the leaver; parents (Simon/Eve) likely attended but are not evidenced. Thorpeness is present in the title_guess only — not in any transcribed page — so it has been placed in unresolved rather than the main route. The mixed_start flag suggests the page boundary may overlap with an adjacent trip; if further pages covering this trip are located they may resolve Thorpeness. No crossings (entirely UK domestic). The date_end is set to 2005-07-08 (the ball date) as no other dates are available; the true trip end may be later if Thorpeness is confirmed."
+}

@@ -1,0 +1,113 @@
+{
+  "trip_id": "1998-malvern-dunar-wales-festiniog-machynlleth",
+  "title": "Malvern, Dunar & Wales (Festiniog, Machynlleth)",
+  "volume": "A",
+  "spread_range": ["A_0230", "A_0232"],
+  "diary_page_range": [null, null],
+  "date_start": "1998-05-22",
+  "date_end": "1998-05-27",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malvern, Worcestershire, UK",
+      "original_wording": "Malvern",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0230_R",
+      "excerpt": "We set off to Malvern to hear Thomas & Peter playing in the orchestra for the summer concert.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Dunar, Wales, UK",
+      "original_wording": "Dunar",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0231_L",
+      "excerpt": "We all left. It took 1½ hours to pack + load food at 8&, by 3.45. we reache Dunar. We had a campfire + there were midges.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Wales" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Machynlleth, Wales, UK",
+      "original_wording": "Machynlleth",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0232_L",
+      "excerpt": "We packed up & reached Machynlleth before lunch.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips start and end at home; diary ends at Machynlleth with no further entries in this spread.",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Festiniog Railway: Penrhyn to Dduallt and walk back",
+      "date_guess": "1998-05-26",
+      "stops": [
+        {
+          "normalized_name": "Penrhyndeudraeth station, Ffestiniog Railway, Wales, UK",
+          "original_wording": "Penrhyn",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "A_0232_L",
+          "excerpt": "We take a picnic & get on Festiniog Railway at Penrhyn.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Dduallt station, Ffestiniog Railway, Wales, UK",
+          "original_wording": "Dduallt",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0232_L",
+          "excerpt": "We get off at Dduallt. It's a very, very pretty walk 1½ hours, back to Penrhyn.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Ainas]",
+      "issue": "Uncertain place name; appears to be where the family drove back to for tea after the Festiniog Railway walk; possibly a local hamlet or farm name near Penrhyndeudraeth/Porthmadog area. Could be a misread of the handwriting.",
+      "source_page_id": "A_0232_L",
+      "excerpt": "We drove back to [?Ainas] for tea."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: A_0230_R contains earlier diary entries (bluebell walk at Midsummer Hill) before the May 22nd trip start",
+    "mixed_end: A_0232_L contains entries for a subsequent period; the last entry is Wednesday May 27th at Machynlleth"
+  ],
+  "summary": "A late-May 1998 Whitsun trip from Birmingham to Malvern for Thomas and Peter's school concert, then on to a campsite called Dunar in Wales for several nights. On Tuesday May 26th the family took a day excursion on the Festiniog Railway from Penrhyn to Dduallt and walked back, before breaking camp on Wednesday and driving to Machynlleth.",
+  "extraction_notes": "The campsite 'Dunar' is unidentified on modern maps; the diary spelling is clear but the location is approximate (mid/north Wales, consistent with the Ffestiniog Railway area). 'Penrhyn' on the Ffestiniog Railway is most likely Penrhyndeudraeth (the southernmost mainline station). '[?Ainas]' is a uncertain transcription and may be a local farm/hamlet name. The trip has mixed page boundaries at both start and end (A_0230_R, A_0232_L). William's injured foot (bruised, not broken) is a narrative thread. 'Tonie/Tonic' in the diary text is the dog Tinder (phonetic nickname)."
+}

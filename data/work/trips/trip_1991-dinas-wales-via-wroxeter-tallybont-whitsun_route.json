@@ -1,0 +1,89 @@
+{
+  "trip_id": "1991-dinas-wales-via-wroxeter-tallybont-whitsun",
+  "title": "Dinas (Wales) via Wroxeter & Tallybont (Whitsun)",
+  "volume": "A",
+  "spread_range": ["A_0041", "A_0041"],
+  "diary_page_range": [77, 77],
+  "date_start": "1991-05-25",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wroxeter, Shropshire, UK",
+      "original_wording": "Wroxeter",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0041_R",
+      "excerpt": "We set off just before lunch & ate at Wroxeter, the remains of a Roman town, then drove on to Dinas.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Dinas, near Llanbedr, Gwynedd, Wales, UK",
+      "original_wording": "Dinas",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0041_R",
+      "excerpt": "then drove on to Dinas. Handbedr 04341 23585\n\tWe had to wait for a \"mob camp\" to finish a game with a very hard ball, before finally parking the van.",
+      "geocode_hint": { "countrycodes": "gb", "hint": "near Llanbedr, Gwynedd; old phone prefix 04341 = Llanbedr exchange" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Sunday: church at Tal-y-bont, barbeque with Hudfords, beach with Thomas' boat",
+      "date_guess": "1991-05-26",
+      "stops": [
+        {
+          "normalized_name": "Tal-y-bont, Gwynedd, Wales, UK",
+          "original_wording": "Tallybont",
+          "confidence": 0.9,
+          "source_page_id": "A_0041_R",
+          "excerpt": "On the Sunday we went to church at 11.30. at Tallybont, where the service started off with a lay reader & the vicar arrived just in time for the sermon.",
+          "geocode_hint": { "countrycodes": "gb", "hint": "Tal-y-bont near Barmouth/Llanbedr, Gwynedd" }
+        },
+        {
+          "normalized_name": "beach near Llanbedr, Gwynedd, Wales, UK",
+          "original_wording": "the beach",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "A_0041_R",
+          "excerpt": "went to the beach for the boys to play on Thomas' boat. There were pools for it, with the tide coming in.",
+          "geocode_hint": { "countrycodes": "gb", "hint": "tidal beach near Llanbedr/Tal-y-bont, Gwynedd; possibly Shell Island area or Llanbedr beach" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A Whitsun family camping trip from Birmingham to a campsite at Dinas near Llanbedr in Gwynedd, Wales, stopping at the Roman ruins of Wroxeter on the way. On the Sunday the family attended church at Tal-y-bont, hosted the Hudfords for a barbeque, and went to the nearby tidal beach where the boys sailed Thomas' boat.",
+  "extraction_notes": "The diary covers a single page (A_0041_R). 'Dinas' is identified as near Llanbedr by the phone number annotation 'Handbedr 04341 23585' (Llanbedr old STD code 04341). The end date is not recorded in the surviving page; the trip likely lasted the Whitsun long weekend (25–27 May 1991). Tallybont is rendered as 'Tallybont' in the diary; normalised to 'Tal-y-bont'. 'The Hudfords' are family friends whose exact identity is unknown. No ferry or other sea crossing involved — entirely within Great Britain."
+}

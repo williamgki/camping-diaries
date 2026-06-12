@@ -1,0 +1,71 @@
+{
+  "trip_id": "1996-beauchamp-music-camp-drop-off-peter",
+  "title": "Beauchamp Music Camp Drop-off (Peter with Portals)",
+  "volume": "A",
+  "spread_range": ["A_0190", "A_0190"],
+  "diary_page_range": [21, 21],
+  "date_start": "1996-08-25",
+  "date_end": "1996-08-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beauchamp House, Gloucestershire, UK",
+      "original_wording": "Beauchamp",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0190_R",
+      "excerpt": "We left to take Peter to join the Portals at Beauchamp music camp. They are dropping off Claire to do the Grade II theory course. Peter goes with them to Wales & Somerset.",
+      "geocode_hint": { "countrycodes": "gb", "hint": "Beauchamp House music-camp venue in Gloucestershire; consistent with 1992 and 1993 Beauchamp music-course trips in this diary series" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0190_R",
+      "excerpt": "We had tea in the van. Rosie is just 3. Gorgeous. Chubby. Very keen on the washing up in the little sink.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "We left",
+      "issue": "The diary says 'We left to take Peter' without specifying which family members accompanied Simon and Eve. Other children (Thomas, William, John, Charles) may or may not have been present; only Peter is explicitly mentioned as the person being dropped off.",
+      "source_page_id": "A_0190_R",
+      "excerpt": "We left to take Peter to join the Portals at Beauchamp music camp."
+    },
+    {
+      "original_wording": "Rosie is just 3",
+      "issue": "Rosie is mentioned with the Portals ('Rosie is just 3. Gorgeous. Chubby. Very keen on the washing up in the little sink.') — she appears to be a young Portal child, not a Kirby family member, but her identity is not confirmed.",
+      "source_page_id": "A_0190_R",
+      "excerpt": "We had tea in the van. Rosie is just 3. Gorgeous. Chubby. Very keen on the washing up in the little sink."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: page A_0190_R contains a second diary entry beginning 'Friday Sept 13th' which records the start of a separate trip (mentioning WoodEnd, Margaret/Jim/Helen going to Cornwall, and Stamford Bridge campsite). That entry belongs to the next trip and is not included in this route.",
+    "The opening lines of A_0190_R ('The door catch which holds back the sliding door has broken too. Has the bumpiness of the Irish roads caused these problems?') appear to be the closing section of the previous trip (Irish roads context), not part of this trip.",
+    "Date discrepancy in transcription: the transcription records ISO date 1991-08-25 for 'Sunday 25th August', but the trip_id is 1996. In 1996, August 25 fell on a Sunday, confirming the year is 1996 and the transcribed ISO year is erroneous.",
+    "No explicit return-to-Birmingham note is recorded; the return home is inferred as the same day since no overnight at Beauchamp is mentioned and the trip is described as a drop-off."
+  ],
+  "summary": "On Sunday 25 August 1996 the family drove from Birmingham to Beauchamp House music camp in Gloucestershire to drop Peter off with the Portal family. The Portals were also delivering their daughter Claire for a Grade II theory course, after which they planned to take Peter onwards to Wales and Somerset. The family had tea in the van at Beauchamp before returning home — no overnight stay is recorded.",
+  "extraction_notes": "Single-page entry (A_0190_R, diary p.21). The page is boundary-mixed: the opening lines belong to the previous (Irish roads) trip, and the 'Friday Sept 13th' section belongs to the next trip. Only the 'Sunday 25th August' entry is attributed to this trip. Beauchamp is identified as Beauchamp House, Gloucestershire, based on the recurring music-camp venue in the 1992 and 1993 Beauchamp trips in this diary series. The year 1996 is taken from the trip_id as authoritative; August 25 was indeed a Sunday in 1996. The travellers list includes Peter and 'We' (at minimum Simon and Eve); other children cannot be confirmed from the text. No crossings; entirely domestic England trip. Rosie (just 3) is flagged as unresolved — appears to be a Portal child."
+}

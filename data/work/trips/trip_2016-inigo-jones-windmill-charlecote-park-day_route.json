@@ -1,0 +1,82 @@
+{
+  "trip_id": "2016-inigo-jones-windmill-charlecote-park-day",
+  "title": "Inigo Jones windmill & Charlecote Park (day out)",
+  "volume": "B",
+  "spread_range": ["B_0276", "B_0276"],
+  "diary_page_range": [276, 276],
+  "date_start": "2016-11-05",
+  "date_end": "2016-11-05",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "86",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0276_L",
+      "excerpt": "Simon, Eve & Tinder left 86 just after 9.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "on our way home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0276_L",
+      "excerpt": "Now on our way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Day out: Inigo Jones windmill, Forge House Gallery, Charlecote Park",
+      "date_guess": "2016-11-05",
+      "stops": [
+        {
+          "seq": 1,
+          "normalized_name": "Chesterton Windmill, Warwickshire",
+          "original_wording": "Inigo Jones' windmill",
+          "confidence": 0.8,
+          "approximate": false,
+          "source_page_id": "B_0276_L",
+          "excerpt": "We stopped at Inigo Jones' windmill for a walk.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "seq": 2,
+          "normalized_name": "Forge House Gallery, Warwickshire",
+          "original_wording": "Forge Ho[use] Gallery",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0276_L",
+          "excerpt": "Then on to Forge Ho[use] Gallery, opened by Sheena Rogerson today.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "seq": 3,
+          "normalized_name": "Charlecote Park, Warwickshire",
+          "original_wording": "Charlecote Park",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0276_L",
+          "excerpt": "We had lunch in the carpark at Charlecote Park. Lucy family from 1066. V. nice, welcoming, red brick! Beer brewing. monuments in church. Bedrooms, inlaid tables.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: page B_0276 contains content from another trip at its end boundary"
+  ],
+  "summary": "A single-day autumn outing on 5 November 2016 with Simon, Eve, and Tinder the dog, exploring Warwickshire. The route took them from Birmingham to Chesterton Windmill (attributed to Inigo Jones) for a walk, then to the opening of Forge House Gallery by Sheena Rogerson, and finally to Charlecote Park for a picnic lunch before returning home.",
+  "extraction_notes": "This is a pure day trip — no overnight stop. Travellers named are Simon, Eve, and Tinder (the dog); no sons mentioned. The 'Inigo Jones windmill' almost certainly refers to Chesterton Windmill near Harbury, Warwickshire, which is commonly attributed to Inigo Jones (c.1632). Forge House Gallery location is not precisely identified; it lies somewhere in the Warwickshire area given the itinerary order; marked approximate. Charlecote Park is an NT property near Wellesbourne, Warwickshire, well-attested by a sticker/logo caption. The diary notes the van had only done 1100 miles this year instead of the usual 3000, and they went to Japan instead of France. Page B_0276 has mixed_end=true indicating the page boundary is shared with another trip entry."
+}

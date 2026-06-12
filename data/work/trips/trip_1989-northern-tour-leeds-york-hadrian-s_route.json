@@ -1,0 +1,199 @@
+{
+  "trip_id": "1989-northern-tour-leeds-york-hadrian-s",
+  "title": "Northern tour: Leeds, York, Hadrian's Wall, Settle, Burnley, Warburton & Arley Hall",
+  "volume": "A",
+  "spread_range": ["A_0006", "A_0009"],
+  "diary_page_range": [6, 13],
+  "date_start": "1989-08-19",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Leeds, UK",
+      "original_wording": "Leeds",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0006_L",
+      "excerpt": "Off to the north. Leeds - camped on the Sykes front drive.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bishopthorpe, York, UK",
+      "original_wording": "Bishopsthorpe",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0006_L",
+      "excerpt": "We spent the night in a good campsite at Bishopsthorpe. There's a Marina. We took a Riverboat into and out of York.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "York, UK",
+      "original_wording": "York",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0006_L",
+      "excerpt": "After St. Aidan's church we drove to York. We arrived at the Minster just after the start of evensong.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Stonehaugh, Northumberland, UK",
+      "original_wording": "Stonehaugh",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0007_L",
+      "excerpt": "We're on our way to Hadrian's Wall. Campsite lovely open field, but very windy Stonehaugh * * * * *",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Wood End, Austwick, Settle, UK",
+      "original_wording": "Wood End campsite, near Austwick, near Settle, Yorkshire",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0007_R",
+      "excerpt": "We arrived at Wood End campsite, * * * * * near Austwick, near Settle, Yorkshire, quite sodden & all slept in the van.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Burnley, UK",
+      "original_wording": "Burnley",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0008_R",
+      "excerpt": "We are stopping in at Burnley to see Mr. Rourke's factory on the way home. Much rain. Burnley",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Warburton, Greater Manchester, UK",
+      "original_wording": "Warburton",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0009_L",
+      "excerpt": "After Burnley, we drove to Warburton in Cheshire. St. Werburgh's church is falling into disrepair; it is a Redundant Church",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Arley Hall, Cheshire, UK",
+      "original_wording": "Arley Hall",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0009_R",
+      "excerpt": "Afterwards we went to Arley Hall, which the Warburtons moved to in about 1400. It is now lived in by Lord & Lady Ashbrook.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0009_L",
+      "excerpt": "Mr. Rourke's factory on the way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Hadrian's Wall sites (Chesters, Vindolanda, Housesteads) & Hexham",
+      "date_guess": "1989-08-22",
+      "stops": [
+        {
+          "normalized_name": "Chesters Roman Fort, Hadrian's Wall, UK",
+          "original_wording": "Chesters",
+          "confidence": 0.7,
+          "source_page_id": "A_0007_L",
+          "excerpt": "We're on our way to Hadrian's Wall. ... Chesters",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Hexham, Northumberland, UK",
+          "original_wording": "Hexham",
+          "confidence": 0.85,
+          "source_page_id": "A_0007_L",
+          "excerpt": "Shopping in Hexham, Simon, Thomas & William went to Vindolanda",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Vindolanda Roman Fort, Northumberland, UK",
+          "original_wording": "Vindolanda",
+          "confidence": 0.85,
+          "source_page_id": "A_0007_L",
+          "excerpt": "Simon, Thomas & William went to Vindolanda; Peter, John, Charles & Eve rested.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Housesteads Roman Fort, Hadrian's Wall, UK",
+          "original_wording": "Housesteads",
+          "confidence": 0.85,
+          "source_page_id": "A_0007_L",
+          "excerpt": "Very wet walk to Housesteads in the afternoon.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 6,
+      "label": "Currick Valley walk near Ribblesdale & shopping in Settle",
+      "date_guess": "1989-08-25",
+      "stops": [
+        {
+          "normalized_name": "Ribblesdale, North Yorkshire, UK",
+          "original_wording": "Currick Valley, near Ribblesdale",
+          "confidence": 0.7,
+          "source_page_id": "A_0007_R",
+          "excerpt": "We went on a 3 mile walk up the Currick Valley, near Ribblesdale.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Settle, North Yorkshire, UK",
+          "original_wording": "Settle",
+          "confidence": 0.85,
+          "source_page_id": "A_0008_R",
+          "excerpt": "So we went shopping in Settle instead, looking for places to sell \"Decorum\"",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "A_0009_R",
+      "issue": "boundary_mixed flagged on final page; narrative ends mid-sentence at Arley Hall and does not explicitly record the return home. Home end (seq 10) inferred from 'on the way home' note on A_0009_L.",
+      "excerpt": "he had corresponded with Piers, via Sotherbys, to"
+    }
+  ],
+  "summary": "An eight-day family camping tour of northern England in August 1989, starting from Birmingham on John's birthday. They camped at the Sykes' in Leeds, then a Bishopthorpe campsite for visiting York (Minster, Shambles, Castle Museum), then Stonehaugh for Hadrian's Wall (Chesters, Hexham, Vindolanda, Housesteads), then Wood End campsite near Austwick/Settle for walks around Ribblesdale. On the way home they stopped at Mr. Rourke's wrought-iron factory in Burnley, St Werburgh's church at Warburton, and Arley Hall in Cheshire.",
+  "extraction_notes": "Domestic UK trip - no sea/tunnel crossings. The two 'sketch' pages (A_0006_R, A_0008_L) contain illustrative drawings (a fairground ride/tent, Clifford's Tower, and Northumberland vs North Yorkshire dry-stone wall styles), NOT a route map or numbered route list, so they do not override the dated narrative order. Route order follows the dated travel narrative (Sat Aug 19 onward). Only the start date is firmly dated (Sat Aug 19 1989, John's birthday); subsequent days are given as weekdays only (Sun, Mon, Tues, Wed, Thu, Fri, Sat), so date_end is left null but the final Saturday is approximately 1989-08-26. York is treated as a main_stop visited from the Bishopthorpe base (riverboat in and out of York); Bishopthorpe is the actual overnight base. Leeds was the first night (Sat) camped on the Sykes' front drive. Warburton is administratively in Greater Manchester today though the diary says Cheshire; normalized accordingly. Excursion date_guesses are approximate, derived from weekday sequence."
+}

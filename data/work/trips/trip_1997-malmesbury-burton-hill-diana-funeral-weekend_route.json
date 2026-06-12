@@ -1,0 +1,71 @@
+{
+  "trip_id": "1997-malmesbury-burton-hill-diana-funeral-weekend",
+  "title": "Malmesbury / Burton Hill (Diana Funeral Weekend)",
+  "volume": "A",
+  "spread_range": ["A_0219", "A_0219"],
+  "diary_page_range": [28, 28],
+  "date_start": "1997-09-06",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": [],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malmesbury, Wiltshire, UK",
+      "original_wording": "Malmesbury",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0219_R",
+      "excerpt": "We motored to Malmesbury listening to Princess Diana's funeral on the radio. We had",
+      "geocode_hint": { "countrycodes": "gb", "hint": "Malmesbury, Wiltshire; Burton Hill House is a residential school/venue on the northern edge of Malmesbury town; trip title names both Malmesbury and Burton Hill" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Burton Hill",
+      "issue": "The trip title references 'Burton Hill' alongside Malmesbury. Burton Hill House is a residential school on the northern edge of Malmesbury, Wiltshire, which has been used as a music/arts venue. It may be the specific venue visited rather than the town centre. The diary text is cut off ('We had') so the full account is not available on this page; cannot confirm whether Burton Hill was a distinct stop or simply the name of the accommodation/venue within Malmesbury.",
+      "source_page_id": "A_0219_R",
+      "excerpt": "We motored to Malmesbury listening to Princess Diana's funeral on the radio. We had"
+    },
+    {
+      "original_wording": "travellers unspecified",
+      "issue": "The September 6th diary entry is cut off mid-sentence and does not name which family members were on this trip. 'We motored' implies at least two people. Traveller list cannot be determined from surviving text.",
+      "source_page_id": "A_0219_R",
+      "excerpt": "We motored to Malmesbury listening to Princess Diana's funeral on the radio."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0219_R also contains the Aug 22-23 'Beauchamp / Gus King' trip (a separate outing already extracted as trip_id 1997-beauchamp-peter-s-quartet-gus-king). The September 6th section is the only content belonging to this trip.",
+    "mixed_end: the diary text for September 6th is cut off mid-sentence ('We had'), so the full account continues on the next page (not included in this bundle). The end date and return home cannot be confirmed from available text.",
+    "Diana's funeral: Princess Diana died 31 August 1997; her funeral was held on Saturday 6 September 1997. The diary entry is explicitly dated 'Saturday September 6th' and confirms listening to the funeral on the radio while driving — this anchors the date with certainty.",
+    "The role of Malmesbury stop is given as overnight_base (consistent with 'weekend' in trip title), but the cut-off text means overnight stay cannot be confirmed directly from available diary text."
+  ],
+  "summary": "On Saturday 6 September 1997 — the day of Princess Diana's funeral — the family drove from Birmingham to Malmesbury, Wiltshire (likely to Burton Hill House, a music/arts venue in the town), listening to the funeral coverage on the radio as they travelled. The diary entry is cut off and further detail is lost; the trip title suggests a weekend stay.",
+  "extraction_notes": "Single diary page A_0219_R (diary p.28). This page is shared with the preceding 'Beauchamp / Gus King' trip (Aug 22-23) and, at its start, the tail of an even earlier trip. Only the 'Saturday September 6th' section belongs to this trip. The diary text ends abruptly mid-sentence, meaning the full account is on a page not included in this bundle. Burton Hill is named in the trip title but not mentioned in the surviving diary text; Burton Hill House (a residential school/venue on the edge of Malmesbury) is the most plausible referent. No crossings or excursions determinable from available evidence. Travellers not named in the surviving text. Date is anchored with certainty by the historical record: Diana's funeral was 6 September 1997."
+}

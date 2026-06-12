@@ -1,0 +1,92 @@
+{
+  "trip_id": "1989-peak-district-weekend-chatsworth-alport-youlgreave",
+  "title": "Peak District weekend (Chatsworth, Alport, Youlgreave)",
+  "volume": "A",
+  "spread_range": ["A_0005", "A_0005"],
+  "diary_page_range": [4, 4],
+  "date_start": "1989-07-01",
+  "date_end": "1989-07-02",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hopping Farm, Alport, Derbyshire, UK",
+      "original_wording": "Hopping Farm",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0005_L",
+      "excerpt": "We all slept in the van at Hopping Farm.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Alport, Derbyshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk to Alport and Youlgreave",
+      "date_guess": "1989-07-01",
+      "stops": [
+        {
+          "normalized_name": "Alport, Derbyshire, UK",
+          "original_wording": "Alport",
+          "confidence": 0.95,
+          "source_page_id": "A_0005_L",
+          "excerpt": "Walk into Alport, (pretty, running water, trout, damp,) + Youlgreave.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Youlgreave, Derbyshire, UK",
+          "original_wording": "Youlgreave",
+          "confidence": 0.95,
+          "source_page_id": "A_0005_L",
+          "excerpt": "Walk into Alport, (pretty, running water, trout, damp,) + Youlgreave.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Visit to Chatsworth",
+      "date_guess": "1989-07-01",
+      "stops": [
+        {
+          "normalized_name": "Chatsworth House, Derbyshire, UK",
+          "original_wording": "Chatsworth",
+          "confidence": 0.95,
+          "source_page_id": "A_0005_L",
+          "excerpt": "Chatsworth. Glorious Capability Brown landscape. Paxton was head gardener. Cascades.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A weekend trip in July 1989 to the Peak District, Derbyshire. The family slept in the van at Hopping Farm near Alport, walked to the villages of Alport and Youlgreave, and visited Chatsworth House with its Capability Brown landscape. Haddon Hall was closed on the day.",
+  "extraction_notes": "Single diary page. Date of return not stated; inferred as a weekend (2-day trip). Tissington Trail is mentioned only as a note for a future cycling trip — not visited. Haddon Hall is mentioned as closed ('alas') so is not counted as a stop. Eastbourne appears only as the origin of pebbles used in Chatsworth's mosaic, not as a travel destination. No ferry/crossing involved — entirely domestic UK trip."
+}

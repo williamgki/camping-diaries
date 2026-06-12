@@ -1,0 +1,63 @@
+{
+  "trip_id": "2013-ansted-annette-s-executors-visit",
+  "title": "Ansted: Annette's Executors Visit",
+  "volume": "B",
+  "spread_range": ["B_0212", "B_0212"],
+  "diary_page_range": [null, null],
+  "date_start": "2013-05-25",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Ansted, UK",
+      "original_wording": "Ansted",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0212_L",
+      "excerpt": "Simon, Eve & Tinder left to go to Ansted so that Annette can chat with her executors, Kate (with baby Milo) & Eve.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Wingfield, Suffolk" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Ansted",
+      "issue": "Place name 'Ansted' not definitively located; likely a property name or small settlement in Suffolk given Annette's known association with Wingfield, Suffolk (cf. 2012-suffolk-annette-s-birthday-party-wingfield). Could also be a phonetic rendering of a local place name. The page cuts off mid-sentence so no further detail is available.",
+      "source_page_id": "B_0212_L",
+      "excerpt": "Simon, Eve & Tinder left to go to Ansted so that Annette can chat with her executors, Kate (with baby Milo) & Eve."
+    }
+  ],
+  "boundary_flags": [
+    "Page B_0212_L is boundary_mixed (mixed_end: true): the top portion of the page belongs to the preceding trip (overnight stay with topiaried hedges, DoE Bronze group, reservoir walk). The current trip entry begins at the 'Saturday May 25th' heading. The page cuts off mid-sentence ('Pernille joined') so the trip's end date and return home are not captured in this bundle.",
+    "Date end is unknown: the diary entry ends abruptly and no return date is evidenced. The home stop at seq 3 is included as structurally implied but confidence is reduced accordingly."
+  ],
+  "summary": "On Saturday 25 May 2013 (Peter's birthday), Simon and Eve drove with the dog Tinder to Ansted, a place associated with Annette, so that Annette could meet with her executors including Kate (and her baby Milo) and Eve. The diary entry cuts off before recording the return journey.",
+  "extraction_notes": "Single diary page (B_0212_L), boundary-mixed: the earlier text on the page (sheep, DoE group, reservoir bridge walk, 'Saturday Sunday' heading) belongs to the preceding trip. Only the 'Saturday May 25th' section onwards belongs to this trip. Travellers are explicitly named as Simon, Eve and Tinder; no children are mentioned. The place name 'Ansted' is not a well-known UK settlement and is likely a property name or phonetic rendering; Annette is known from other diary entries to live in or near Wingfield, Suffolk (see 2012-suffolk-annette-s-birthday-party-wingfield), so geocode hint is set to that area. Date end is null because the page cuts off mid-sentence and no further pages are bundled."
+}

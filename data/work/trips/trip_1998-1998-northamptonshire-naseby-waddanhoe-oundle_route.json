@@ -1,0 +1,85 @@
+{
+  "trip_id": "1998-1998-northamptonshire-naseby-waddanhoe-oundle",
+  "title": "1998: Northamptonshire — Naseby, Waddenhoe, Oundle",
+  "volume": "A",
+  "spread_range": ["A_0225", "A_0226"],
+  "diary_page_range": [225, 226],
+  "date_start": "1998-04-04",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Naseby, Northamptonshire, UK",
+      "original_wording": "Naseby",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0225_R",
+      "excerpt": "We turned off the A14 + had lunch at the village hall at Naseby - good, savings, gr[eat] for Tonic.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Waddenhoe, Northamptonshire, UK",
+      "original_wording": "Waddanhoe",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0226_L",
+      "excerpt": "When we arrived at Waddanhoe we had tea + set off on the Nene Valley Walk from the campsite",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Default: all trips return home unless diary says otherwise; end boundary is mixed so return is not explicitly stated",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Drive into Oundle",
+      "date_guess": "1998-04-05",
+      "stops": [
+        {
+          "normalized_name": "Oundle, Northamptonshire, UK",
+          "original_wording": "Oundle",
+          "confidence": 0.9,
+          "source_page_id": "A_0226_L",
+          "excerpt": "April 5th We drove into __Oundle__ + found a",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page A_0225_R also contains content from the preceding trip (London/Mousetrap)",
+    "mixed_end: page A_0226_L is cut off mid-sentence; return date and full Oundle visit not captured"
+  ],
+  "summary": "A short Easter camping trip to Northamptonshire (April 1998) by Simon, Eve, and three of the boys (Peter, John, Charles) with the dog, stopping for lunch at Naseby village hall and basing at Waddenhoe campsite on the Nene Valley. Thomas was already at Oundle for a music revision course and William was in Lyon with friends.",
+  "extraction_notes": "The dog is called 'Tonic' throughout the diary text; the canonical family name is 'Tinder' (used in travellers list). William is absent (in Lyon/France) and Thomas is absent (at Oundle separately). The diary page cuts off mid-sentence on A_0226_L — the full Oundle visit and trip return are not recorded on surviving pages. Oundle is treated as an excursion from Waddenhoe (approx. 5 miles away) rather than a separate overnight base, as no overnight stay at Oundle is mentioned. 'Waddanhoe' is the diary spelling; modern spelling is 'Waddenhoe'."
+}

@@ -1,0 +1,123 @@
+{
+  "trip_id": "1998-abbey-dore-golden-valley-hanley-swan",
+  "title": "Abbey Dore / Golden Valley & Hanley Swan (Malvern)",
+  "volume": "A",
+  "spread_range": ["A_0228", "A_0230"],
+  "diary_page_range": [228, 230],
+  "date_start": "1998-04-24",
+  "date_end": "1998-04-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Thomas", "Peter"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Abbey Dore, Herefordshire, UK",
+      "original_wording": "Abbey Dore, at the end of Golden Valley",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0228_R",
+      "excerpt": "We are staying at Abbey Dore, at the end of Golden Valley. The campsite is below the Neville Arms pub. We arrived at 7.30.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Hanley Swan, Worcestershire, UK",
+      "original_wording": "Blackmore campsite at Hanley Swan, near Malvern",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0230_L",
+      "excerpt": "We reached Blackmore campsite at Hanley Swan, near Malvern.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Domestic trip; return home implied but pages end on April 26 mid-narrative",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk to Abbey Dore and Abbey Dore Court Gardens",
+      "date_guess": "1998-04-25",
+      "stops": [
+        {
+          "normalized_name": "Abbey Dore Abbey, Herefordshire, UK",
+          "original_wording": "the Abbey 1147",
+          "confidence": 0.95,
+          "source_page_id": "A_0228_R",
+          "excerpt": "We walked to see the Abbey 1147",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Abbey Dore Court Garden, Herefordshire, UK",
+          "original_wording": "Abbey Dore Court Gardens",
+          "confidence": 0.95,
+          "source_page_id": "A_0228_R",
+          "excerpt": "then on across the Golden Valley to the Abbey Dore Court Gardens, which were very pretty.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Concert at St Edmunds Concert Hall",
+      "date_guess": "1998-04-25",
+      "stops": [
+        {
+          "normalized_name": "St Edmunds Concert Hall, Worcestershire, UK",
+          "original_wording": "St. Edmunds Concert Hall",
+          "confidence": 0.85,
+          "source_page_id": "A_0230_L",
+          "excerpt": "Peter & Thomas played well in the concert for the official opening of St. Edmunds Concert Hall, Thomas did a solo & sang.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Sunday service at St Gabriel's church",
+      "date_guess": "1998-04-26",
+      "stops": [
+        {
+          "normalized_name": "St Gabriel's Church, Hanley Swan, Worcestershire, UK",
+          "original_wording": "St. Gabriel's church of the good shepherd",
+          "confidence": 0.85,
+          "source_page_id": "A_0230_L",
+          "excerpt": "We woke & drove to St. Gabriel's church of the good shepherd to have breakfast.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "A_0228_R top section (return home in heavy rain) belongs to the previous trip; mixed_start boundary confirmed.",
+    "A_0230_L ends mid-sentence ('We drove down to the humsdens'); return home not explicitly narrated — mixed_end boundary confirmed."
+  ],
+  "summary": "A short Easter-weekend camping trip to Herefordshire and Worcestershire, with an overnight at Abbey Dore in the Golden Valley (April 24–25) followed by a second night at Blackmore campsite, Hanley Swan, near Malvern (April 25–26). Highlights included visiting the medieval Abbey Dore and its court gardens, and attending the official opening concert of St Edmunds Concert Hall where Thomas and Peter performed.",
+  "extraction_notes": "Travellers listed as S,E,J,C on departure (Simon, Eve, John, Charles); Thomas and Peter appear at Hanley Swan attending/performing in the concert — they may have joined separately or been there already. The top of A_0228_R (heavy rain return, 2 hours) is from the preceding trip boundary; the end of A_0230_L is cut off mid-sentence at 'We drove down to the humsdens' so the return home is inferred. No ferries or border crossings — entirely domestic UK trip. 'Humsdens' at the end of A_0230_L is unresolved but appears to be a destination on April 26 after the church visit; omitted as the page cuts off and the word may be a transcription uncertainty."
+}

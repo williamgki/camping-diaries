@@ -1,0 +1,129 @@
+{
+  "trip_id": "2009-local-tea-evening-outings-hampton-lode",
+  "title": "Local tea/evening outings: Hampton Lode/Arley, Trimpley, Kings Norton (May–July 2009)",
+  "volume": "B",
+  "spread_range": ["B_0162", "B_0162"],
+  "diary_page_range": [162, 162],
+  "date_start": "2009-05-31",
+  "date_end": "2009-07-24",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "May 31st Sunday – tea outing to Hampton Lode / Arley / Trimpley",
+      "date_guess": "2009-05-31",
+      "stops": [
+        {
+          "normalized_name": "Hampton Loade, Shropshire, UK",
+          "original_wording": "Hampton Lode",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0162_R",
+          "excerpt": "Hampton Lode was full of traffic + traffic jams, so Simon drove towards Arley",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Arley, Worcestershire, UK",
+          "original_wording": "Arley",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "B_0162_R",
+          "excerpt": "Simon drove towards Arley, found a field - the same view as from the Trimpley summerhouse",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Trimpley, Worcestershire, UK",
+          "original_wording": "Trimpley",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0162_R",
+          "excerpt": "found a field - the same view as from the Trimpley summerhouse",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "Saturday July 18th – lunch outing near Trimpley",
+      "date_guess": "2009-07-18",
+      "stops": [
+        {
+          "normalized_name": "Trimpley, Worcestershire, UK",
+          "original_wording": "Trimpley",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "B_0162_R",
+          "excerpt": "We took Grandma + Helen out to [?&] lunch again on tiny roads near Trimpley",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "Friday July 24th – evening supper outing to Kings Norton / Wythall / Icknield Street",
+      "date_guess": "2009-07-24",
+      "stops": [
+        {
+          "normalized_name": "Kings Norton, Birmingham, UK",
+          "original_wording": "Kings Norton",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0162_R",
+          "excerpt": "John, Simon, Eve + Tonic went along beyond Kings Norton, right before Wythall along Icknield St.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Wythall, Worcestershire, UK",
+          "original_wording": "Wythall",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0162_R",
+          "excerpt": "right before Wythall along Icknield St.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Icknield Street, Worcestershire, UK",
+          "original_wording": "Icknield St",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "B_0162_R",
+          "excerpt": "right before Wythall along Icknield St. On the way Simon showed John where he caught the bus + grew up at Kings Norton, Fairenoad Rise.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Tonic",
+      "issue": "Diary names 'Tonic' as a trip participant alongside the dog; family dog is known as Tinder — may be a different name/nickname or transcription variant. Could also be a different dog or person.",
+      "source_page_id": "B_0162_R",
+      "excerpt": "John, Simon, Eve + Tonic went along beyond Kings Norton"
+    },
+    {
+      "original_wording": "[?&]",
+      "issue": "Transcription uncertain — '[?&]' between 'out to' and 'lunch' on July 18th entry; possibly a name or word the transcriber could not read clearly.",
+      "source_page_id": "B_0162_R",
+      "excerpt": "We took Grandma + Helen out to [?&] lunch again on tiny roads near Trimpley"
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "Three local day outings from Birmingham in summer 2009: a May afternoon tea trip that detoured from the traffic-jammed Hampton Loade to a field near Arley with views toward Trimpley; a July lunch run on quiet roads near Trimpley with Grandma and Helen; and a July evening supper outing south through Kings Norton and Wythall along Icknield Street, where Simon reminisced about growing up. No overnight stays; all outings returned home the same day.",
+  "extraction_notes": "This entry covers three separate local outings recorded on a single diary page (B_0162_R). All are day trips with no overnight stays away from home, so the main route is simply Birmingham home → home and all destination stops are classified as excursions. The participant 'Tonic' on the July 24th outing is flagged as unresolved — the family dog is known as Tinder, so this may be a nickname or transcription variant. The July 18th entry contains '[?&]', an uncertain transcription, also flagged. Hampton Loade is the Shropshire village on the River Severn (sometimes spelled 'Hampton Lode' in the diary). Arley here is likely Upper Arley, Worcestershire, across the Severn from Hampton Loade. Fairenoad Rise (Kings Norton) is recorded as a local heritage note from Simon, not a separate stop."
+}

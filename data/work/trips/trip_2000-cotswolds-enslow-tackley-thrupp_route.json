@@ -1,0 +1,104 @@
+{
+  "trip_id": "2000-cotswolds-enslow-tackley-thrupp",
+  "title": "Cotswolds: Enslow, Tackley & Thrupp",
+  "volume": "A",
+  "spread_range": ["A_0282", "A_0282"],
+  "diary_page_range": [null, null],
+  "date_start": "2000-05-28",
+  "date_end": "2000-05-30",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Enslow, Oxfordshire, UK",
+      "original_wording": "Enslow",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0282_L",
+      "excerpt": "We have come to Enslow, 4 miles from Woodstock. It is next to the canal + a railway bridge. Very pretty.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0282_R",
+      "excerpt": "After returning to the van, David made tea for all of us + then we set off home",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk to Tackley and back",
+      "date_guess": "2000-05-29",
+      "stops": [
+        {
+          "normalized_name": "Tackley, Oxfordshire, UK",
+          "original_wording": "Tackley",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0282_L",
+          "excerpt": "After breakfast we walked to Tackley. We walked along the canal + saw a boat using the lock.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Tackley railway station, Oxfordshire, UK",
+          "original_wording": "Tackley station",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0282_L",
+          "excerpt": "We came over a hill to Tackley station. At the playground we tried to fly Charles kite, unsuccessfully. We had a good lunch in the pub, [?Gardners] then returned to the station to meet Thomas off the [B]irmingham train.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Canal walk to Thrupp",
+      "date_guess": "2000-05-30",
+      "stops": [
+        {
+          "normalized_name": "Thrupp, Oxfordshire, UK",
+          "original_wording": "Thrupp",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0282_R",
+          "excerpt": "In the morning we walked along the canal the other way... The walk was first along the canal, then the River Cherwell, then the canal. We had lunch at the Boatsmen Pub at Thrupp.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Gardners]",
+      "issue": "Pub name in Tackley uncertain; transcribed as [?Gardners] — cannot confirm name",
+      "source_page_id": "A_0282_L",
+      "excerpt": "We had a good lunch in the pub, [?Gardners]"
+    }
+  ],
+  "boundary_flags": [
+    "A_0282_L is boundary_mixed=true; the opening fragment ('Malvern Theatre, + lunch, we brought William + Peter home. Saturday we spent at home.') belongs to the preceding trip and has been excluded from this trip's route."
+  ],
+  "summary": "A short May bank holiday weekend camping trip to Enslow on the Oxford Canal, 4 miles from Woodstock. The family made day-trip walks to Tackley (where Thomas arrived by train from Birmingham on Monday evening) and along the canal to Thrupp for lunch at the Boatsmen Pub on Tuesday, before driving home.",
+  "extraction_notes": "Trip is entirely domestic (England only); no crossings. The page A_0282_L is boundary-mixed: the first two sentences belong to a prior trip. Departure was Sunday 28 May at 3.10pm; return Tuesday 30 May after lunch at Thrupp. Thomas joined the party on Monday evening arriving by train at Tackley station; David, Sally, Maia and [Dylan] also arrived Monday evening. William stayed at the van on Tuesday morning to revise for his physics A-level. 'Tonic' mentioned in Monday narrative appears to be an alternative name or nickname for Tinder the dog."
+}

@@ -1,0 +1,343 @@
+{
+  "trip_id": "2003-germany-2003-bad-honnef-rhine-alsfeld",
+  "title": "Germany 2003: Bad Honnef, the Rhine, Alsfeld, Eisenach & Weimar",
+  "volume": "A+B",
+  "spread_range": ["A_0342", "B_0009"],
+  "diary_page_range": [86, 88],
+  "date_start": "2003-08-01",
+  "date_end": "2003-08-16",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "John", "Charles"],
+  "countries": ["GB", "FR", "BE", "NL", "DE"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0342_R",
+      "excerpt": "Simon, Eve, Thomas, John Charles left at 6 for Germany.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Ashford, Kent, UK",
+      "original_wording": "Ashford in Kent, to Broad Hembury Campsite",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0342_R",
+      "excerpt": "On to Ashford in Kent, to Broad Hembury Campsite *** [?½] (OK for using en route to Tunnel). 10pm",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bad Honnef, Germany",
+      "original_wording": "Bad Honnef",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0343_L",
+      "excerpt": "It was lovely arriving at Bad Honnef + being welcomed by Annie, Klaus, Patrick + Julia... We slept in the house.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Heimertshausen, Germany",
+      "original_wording": "Heimartshausen near Alsfeld",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0343_R",
+      "excerpt": "In the afternoon we reached Heimartshausen near Alsfeld. There's a swimming pool next door. We had supper - good - at the camp restaurant.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Alsfeld, Germany",
+      "original_wording": "Alsfeld",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0344_L",
+      "excerpt": "We set off for Alsfeld where we saw quaint old buildings, market place, old church with wood & stone carvings & balcony.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Eisenach, Germany",
+      "original_wording": "a campsite by a lake 1km south of Eisenach",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0345_R",
+      "excerpt": "We drove on to a campsite by a lake 1km south of Eisenach *44. Charles + Eve swam across the lake.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Erfurt, Germany",
+      "original_wording": "Erfurt",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0347_L",
+      "excerpt": "We drove to Erfurt. It was originally founded, very early on, as a secular university.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Weimar, Germany",
+      "original_wording": "Weimar the Pemmeke family",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0348_L",
+      "excerpt": "We then went on to the home of Annie's friends, in Weimar the Pemmeke family, who are allowing us to stay in their house while they are on holiday.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Buchenwald, Germany",
+      "original_wording": "Weimar, Buchenwald",
+      "role": "main_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0002_L",
+      "excerpt": "2003\n1. Weimar, Buchenwald\n   Ludwigstadt, Bamburg",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Bamberg, Germany",
+      "original_wording": "Bamburg",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0004_R",
+      "excerpt": "This is the nicest campsite we've been in. We caught the bus into Bamburg & looked at the cathedral.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Rothenburg ob der Tauber, Germany",
+      "original_wording": "Rothenburg",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0005_R",
+      "excerpt": "We drove south to Rothenburg. It's an amazing town, built [?at] a very steep hill above a wriggly river.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Rot am See, Germany",
+      "original_wording": "Rot-am-see",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0006_R",
+      "excerpt": "We have driven on to Rot-am-see [****] [(Ettlingen?)] Although it mentions lake, we are not allowed to swim in it.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Heidelberg, Germany",
+      "original_wording": "Heidelberg ... Haide Campsite, 5k. along the north side of the River Neckar",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0007_R",
+      "excerpt": "We reached the Haide Campsite, 5k. along the north side of the River Neckar from Heidelberg.",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Hermeskeil, Germany",
+      "original_wording": "Hermeskeil (Flugausstellung aircraft museum)",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0008_R",
+      "excerpt": "[GLUED TICKET: FLUGAUSSTELLUNG / I. & P. Junior / Tel. 06503 - 7693 Fax 3410 / 54411 HERMESKEIL 2 ...]",
+      "geocode_hint": { "countrycodes": "de" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Neufchâteau, Belgium",
+      "original_wording": "Le Val d'Enverande campsite at Neufchateau",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0008_R",
+      "excerpt": "We arrived at [?Le Val d'Enverande] campsite at Neufchateau + drove into the village for supper.",
+      "geocode_hint": { "countrycodes": "be" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Ypres (Ieper), Belgium",
+      "original_wording": "Ypres",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0009_L",
+      "excerpt": "we reached Ypres + bought chocolate. Then we visited the WW1 Museum... walked down to hear the last post at the Menin Gate.",
+      "geocode_hint": { "countrycodes": "be" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Kemmel (Heuvelland), Belgium",
+      "original_wording": "Kenmels [?Kenmelst]",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0009_L",
+      "excerpt": "We drove on to a campsite Kenmels[?Kenmelst] where we stayed before when we came to Belgium with all the boys to see a show for Chad. It's on a ridge that was fought over near the end of WW I.",
+      "geocode_hint": { "countrycodes": "be" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0009_L",
+      "excerpt": "Saturday August 16th\n    The campsite had a beautiful view out over the ridge. We left at 9.10., 20 min early!",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0342_R",
+      "excerpt": "Broad Hembury Campsite *** [?½] (OK for using en route to Tunnel)."
+    },
+    {
+      "after_seq": 17,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": false,
+      "inferred": true,
+      "inference_reason": "Return Channel crossing not narrated (last page ends as they leave Kemmel for home on Sat 16 Aug); outbound used the Eurotunnel, so the same tunnel crossing is assumed for the return.",
+      "source_page_id": "B_0009_L",
+      "excerpt": "Saturday August 16th ... We left at 9.10., 20 min early!"
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Bike ride south down the Rhine (Linz, Unkel) using 2 ferries",
+      "date_guess": "2003-08-03",
+      "stops": [
+        {
+          "normalized_name": "Linz am Rhein, Germany",
+          "original_wording": "Linz",
+          "confidence": 0.85,
+          "source_page_id": "A_0343_R",
+          "excerpt": "At Linz we had lunch by the town gate, delicious salmon salad. There were very high flood water marks.",
+          "geocode_hint": { "countrycodes": "de" }
+        },
+        {
+          "normalized_name": "Unkel, Germany",
+          "original_wording": "Unkel (Willy Brandt's town)",
+          "confidence": 0.85,
+          "source_page_id": "A_0343_R",
+          "excerpt": "We stopped at Unkel (Willy Brandt's town) on the way for an ice cream.",
+          "geocode_hint": { "countrycodes": "de" }
+        }
+      ]
+    },
+    {
+      "base_seq": 6,
+      "label": "Wartburg Castle & Luther House, Eisenach",
+      "date_guess": "2003-08-06",
+      "stops": [
+        {
+          "normalized_name": "Wartburg Castle, Eisenach, Germany",
+          "original_wording": "Wartburg Castle",
+          "confidence": 0.9,
+          "source_page_id": "A_0345_R",
+          "excerpt": "We arrived at Wartburg Castle + waited ages for a guided tour... Luther translated the New Testament here in 10 weeks when banished from empire 1521.",
+          "geocode_hint": { "countrycodes": "de" }
+        },
+        {
+          "normalized_name": "Lutherhaus, Eisenach, Germany",
+          "original_wording": "Luther House",
+          "confidence": 0.85,
+          "source_page_id": "A_0346_L",
+          "excerpt": "Luther 1483-1546 was educated in Eisenach & lived at Luther House, lodging with a family while a student.",
+          "geocode_hint": { "countrycodes": "de" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Weimar town: Bauhaus Museum, Goethe's Summer House, St Peter & Paul, Schiller's house",
+      "date_guess": "2003-08-08",
+      "stops": [
+        {
+          "normalized_name": "Bauhaus Museum, Weimar, Germany",
+          "original_wording": "Bauhaus Museum",
+          "confidence": 0.85,
+          "source_page_id": "A_0348_R",
+          "excerpt": "Weimar\n        Bauhaus\n        Museum\n        Director's\n        Room\n        Gropius\n        1924",
+          "geocode_hint": { "countrycodes": "de" }
+        },
+        {
+          "normalized_name": "Goethe's Garden House, Weimar, Germany",
+          "original_wording": "Goethe's Summer House",
+          "confidence": 0.85,
+          "source_page_id": "A_0349_L",
+          "excerpt": "We walked into town, stopping at Goethe's Summer House. It was given to him by Duke Carl Augustus.",
+          "geocode_hint": { "countrycodes": "de" }
+        },
+        {
+          "normalized_name": "Church of St Peter and Paul (Herderkirche), Weimar, Germany",
+          "original_wording": "the church of St. Peter & Paul",
+          "confidence": 0.8,
+          "source_page_id": "A_0349_L",
+          "excerpt": "We visited the church of St. Peter & Paul where Lucas Cranach the elder completed a triptyd altarpiece 1553, before he died.",
+          "geocode_hint": { "countrycodes": "de" }
+        },
+        {
+          "normalized_name": "Schiller's House, Weimar, Germany",
+          "original_wording": "the outside of Schiller's house",
+          "confidence": 0.75,
+          "source_page_id": "A_0349_L",
+          "excerpt": "looked at the outside of Schiller's house & saw the Bauhaus museum.",
+          "geocode_hint": { "countrycodes": "de" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Steinbach/Heide",
+      "issue": "Village admired in passing while driving south out of Weimar through eastern Germany (probably Steinbach am Wald / Steinbach an der Haide, Thuringia/Bavaria border) - a roadside observation, not clearly a stop.",
+      "source_page_id": "B_0004_L",
+      "excerpt": "Steinbach/Heide we have just passed one of the prettiest villages I have ever seen. It's in a wooded valley."
+    },
+    {
+      "original_wording": "Ludwigstadt",
+      "issue": "Lunch and swimming stop in passing on the drive south to Bamberg (Ludwigsstadt, Bavaria); brief en-route halt rather than an overnight, kept here for review.",
+      "source_page_id": "B_0004_L",
+      "excerpt": "We saw a swimming pool from the road... Ludwigstadt. Beautifully clean & quiet. We swam, had lunch in the van in the carpark & swam again."
+    }
+  ],
+  "boundary_flags": [
+    "This trip straddles the end of Volume A and the start of Volume B; Volume B opens with front matter (B_0001_L 'August 8th 2003 - June 2005') and an index spread (B_0002_L / B_0003_L) before the narrative resumes.",
+    "OCR date fields are unreliable for several Volume A pages (iso values of '1997' on A_0342_R through A_0343_R). The diary itself fixes the year as 2003: A_0348_L '20 C+M+B 03', A_0348_R 'Friday August 8th', B_0001_L 'August 8th 2003', and every day-of-week matches the 2003 calendar (Fri 1 Aug ... Sat 16 Aug 2003).",
+    "Pages A_0350_L (Pegasus Bridge, 1944) and A_0350_R (Caen, Abbaye aux Dames/Hommes) belong to a different (Normandy/France) trip and were EXCLUDED from this route.",
+    "Page B_0003_R ('Saturday August 6 2005', leave Gemmeke's house in Weimar, Buchenwald, Neumannshof, Saalfeld) belongs to a SEPARATE 2005 trip and was EXCLUDED; its text was not used to date or place the 2003 Buchenwald stop. Buchenwald is included for 2003 solely on the strength of the Volume B index line '1. Weimar, Buchenwald'.",
+    "The Volume B index lines for 2004/2005 (London, Hadrian's Wall, Bilbao, Pyrenees, Normandy, Norfolk, etc.) on B_0002_L and B_0003_L are NOT part of this trip."
+  ],
+  "summary": "In August 2003 Simon, Eve and three of their sons (Thomas, John and Charles) drove from Birmingham via an overnight at Ashford in Kent and the Channel Tunnel, through France, Belgium and Holland into Germany. They stayed with friends at Bad Honnef on the Rhine, then worked east and south through Heimertshausen/Alsfeld, Eisenach (Wartburg Castle, Luther & Bach houses), Erfurt and Weimar (Bauhaus, Goethe, Schiller), before turning back via Buchenwald, Bamberg, Rothenburg ob der Tauber, Rot am See and Heidelberg. The return ran through Hermeskeil, Neufchateau in the Belgian Ardennes and Ypres/Kemmel, reaching home around Saturday 16 August.",
+  "extraction_notes": "Route built from the dated travel narrative (Vol A: A_0342_R-A_0349_R) and its continuation in Vol B (B_0004_L-B_0009_L), cross-checked against the Vol B index (B_0002_L). Day-of-week headings line up exactly with the 2003 calendar, so dates are confident to the day. Travellers exclude William (never mentioned) and Peter (B_0008_L: 'Sorry Peter's not here'); Thomas was away with Ingvo in Liechtenstein mid-trip and was picked up at Heidelberg (B_0007_L). Crossings: outbound Eurotunnel is supported by 'OK for using en route to Tunnel' (named tunnel, not inferred); the return Channel crossing is not narrated and is inferred as the same Eurotunnel. Linz/Unkel are excursion stops on the Rhine bike ride from Bad Honnef. Alsfeld and Erfurt are main_stops on driving legs (visited, then 'drove on'), not return-to-base excursions. Steinbach/Heide and Ludwigsstadt are kept as unresolved en-route observations. Buchenwald is included at confidence 0.7 from the index only, because the only dated Buchenwald narrative in the bundle (B_0003_R) is from the separate 2005 trip."
+}

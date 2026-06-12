@@ -1,0 +1,82 @@
+{
+  "trip_id": "1997-beauchamp-peter-s-quartet-gus-king",
+  "title": "Beauchamp: Peter's Quartet & Gus King",
+  "volume": "A",
+  "spread_range": ["A_0219", "A_0219"],
+  "diary_page_range": [28, 28],
+  "date_start": "1997-08-22",
+  "date_end": "1997-08-23",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "John", "Charles", "Peter"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beauchamp House, Gloucestershire, UK",
+      "original_wording": "Beauchamp",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0219_R",
+      "excerpt": "William, John, Charles, Simon + Eve left home. (Thomas at Greenbelt.) We didn't arrive at Beauchamp until 7.0. because of a jam on the M5.",
+      "geocode_hint": { "countrycodes": "gb", "hint": "Beauchamp House recurring music-course venue in Gloucestershire; M5 route from Birmingham consistent with Gloucestershire location; same venue as 1992, 1993, 1994, 1996 Beauchamp trips in this diary series" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0219_R",
+      "excerpt": "We went home after a cup of tea.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday visit to Gus King's house",
+      "date_guess": "1997-08-23",
+      "stops": [
+        {
+          "normalized_name": "Gus King's house, UK",
+          "original_wording": "Gus King",
+          "confidence": 0.85,
+          "approximate": true,
+          "source_page_id": "A_0219_R",
+          "excerpt": "We are visiting Gus King at 10.30. Wendy + the children are in Cornwall. Their house is lovely — half Tudor + half Victorian, moated, chickens. We picked blackberries.",
+          "geocode_hint": { "countrycodes": "gb", "hint": "Moated house, half Tudor half Victorian, accessible as a day trip from Beauchamp House (Gloucestershire); exact location unknown" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Gus King",
+      "issue": "Gus King is a named individual whose moated, half-Tudor/half-Victorian house was visited as a day trip from Beauchamp. His wife Wendy and children were in Cornwall at the time. The precise location of the house is not given; it is somewhere accessible as a day outing from Beauchamp (Gloucestershire). Cannot geocode with confidence.",
+      "source_page_id": "A_0219_R",
+      "excerpt": "We are visiting Gus King at 10.30. Wendy + the children are in Cornwall. Their house is lovely — half Tudor + half Victorian, moated, chickens."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0219_R opens with the tail end of the preceding trip ('check tyre pressure. We picked up Tonic + arrived home at 4.30.') before the 'August 22nd Friday' heading that begins this trip.",
+    "mixed_end: page A_0219_R also contains a 'Saturday September 6th' entry (1997-09-06) recording a day trip to Malmesbury while listening to Princess Diana's funeral on the radio. This is a separate outing and is not part of the Aug 22-23 Beauchamp trip. It has been excluded from this route.",
+    "Thomas is explicitly noted as being at Greenbelt (a Christian music festival) on August 22nd and is not a traveller on this trip.",
+    "Peter was already at Beauchamp (likely attending the music course before the family's Aug 22 arrival) — he is not listed among those who 'left home' at 5:25, but participates in the Gus King excursion on Aug 23 ('We are visiting Gus King') and performed in the concert ('Peter's concert went well')."
+  ],
+  "summary": "On Friday 22 August 1997, Simon, Eve, William, John and Charles drove from Birmingham to Beauchamp House (a recurring music-course venue in Gloucestershire), arriving late at 7pm due to an M5 jam; Peter was already there and played Haydn in a string quartet that evening. On Saturday 23rd the family made a day visit to the home of Gus King — a moated, half-Tudor, half-Victorian house with chickens — before returning to Birmingham after Peter's afternoon concert.",
+  "extraction_notes": "Single diary page A_0219_R (diary p.28). The page is boundary-mixed at both start and end: the opening lines belong to the preceding trip (arrival home with 'Tonic' the dog), and the 'Saturday September 6th' section belongs to a separate subsequent outing (Malmesbury, Princess Diana's funeral radio broadcast) which is not included here. Beauchamp is identified as the recurring Beauchamp House music-course venue in Gloucestershire, consistent with the 1992, 1993, 1994, and 1996 Beauchamp trips in this diary series; the M5 jam routing from Birmingham supports the Gloucestershire location. Peter is not listed among those departing home at 5:25 — he was evidently already at Beauchamp attending the music course. The Gus King house visit is an excursion from Beauchamp; the house (moated, half Tudor/half Victorian) cannot be geocoded without further research. Thomas attended Greenbelt independently and is excluded from the travellers list. No crossings of any kind; entirely domestic England trip."
+}

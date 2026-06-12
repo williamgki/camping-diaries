@@ -1,0 +1,81 @@
+{
+  "trip_id": "2007-short-local-van-outings-warwick-uni",
+  "title": "Short local van outings: Warwick Uni/Windmill (June 6th) and river supper (June 11th)",
+  "volume": "B",
+  "spread_range": ["B_0115", "B_0115"],
+  "diary_page_range": null,
+  "date_start": "2007-06-06",
+  "date_end": "2007-06-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "June 6th: Warwick Uni and Windmill off Fosse Way",
+      "date_guess": "2007-06-06",
+      "stops": [
+        {
+          "normalized_name": "University of Warwick, Coventry, UK",
+          "original_wording": "Warwick Uni",
+          "confidence": 0.95,
+          "source_page_id": "B_0115_L",
+          "excerpt": "Simon + Eve drove to Warwick Uni + picked up John + Katy",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Fosse Way, Warwickshire, UK",
+          "original_wording": "the Windmill ... off the Fosse Way",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "B_0115_L",
+          "excerpt": "drove to the Windmill. It was a lovely evening. We had a picnic in the van, off the Fosse Way. A [?herd] herd of cows (with sheep) with an enormous bull passed the van.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "June 11th: River supper with Margaret and Helen",
+      "date_guess": "2007-06-11",
+      "stops": [
+        {
+          "normalized_name": "River Severn near Bridgnorth, UK",
+          "original_wording": "a walk along the river ... a 13 mile detour via [?Bridgnorth]",
+          "confidence": 0.6,
+          "approximate": true,
+          "source_page_id": "B_0115_L",
+          "excerpt": "Simon + Eve took Margaret + Helen out to supper in the van + a walk along the river. We had a good meal in the sunshine. A local resident came + picked up [?litter] litter + joked that GPS systems didn't work because of the pedestrian river ferry. When they go wrong, they have to make a 13 mile detour via [?Bridgnorth]",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Bridgnorth]",
+      "issue": "Place name uncertain; diary transcription uses [?Bridgnorth]. Likely Hampton Loade area on the River Severn near Bridgnorth (known pedestrian ferry), consistent with a similar 2006 outing entry.",
+      "source_page_id": "B_0115_L",
+      "excerpt": "they have to make a 13 mile detour via [?Bridgnorth]"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: Sunday section on B_0115_L belongs to the preceding trip (departure from Tess's house, 26 Ross St., near the station); the June 6th and June 11th entries are the content of this trip."
+  ],
+  "summary": "Two short local day outings from Birmingham in June 2007. On June 6th Simon and Eve drove to Warwick University to collect John and Katy, then had an evening picnic in the van near a windmill off the Fosse Way. On June 11th they took friends Margaret and Helen for a riverside supper and walk, likely near the Hampton Loade area on the River Severn near Bridgnorth.",
+  "extraction_notes": "Page B_0115_L is a mixed-start page: the opening Sunday paragraph is the tail of a prior trip (departure from Tess's house at 26 Ross St). The two dated entries (Wed June 6th and Mon June 11th) are the content of this trip. No overnight stays — both outings are day trips from home. No ferry/tunnel crossings. The Windmill location is uncertain; it is described as being off the Fosse Way near Warwick, possibly the Windmill Inn at Gibbet Hill or another named landmark along that road. The river location on June 11th is inferred from the GPS/pedestrian ferry detail and 13-mile detour via Bridgnorth, consistent with Hampton Loade (River Severn), where a pedestrian ferry operates. Traveller 'Katy' (John's companion) and 'Margaret' and 'Helen' (friends taken to supper) are not family members listed in the known family roster."
+}

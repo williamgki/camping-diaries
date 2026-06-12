@@ -1,0 +1,421 @@
+{
+  "trip_id": "2006-france-montreuil-bauge-opera-auvergne-millau",
+  "title": "France: Montreuil, Baugé Opera, Auvergne & Millau",
+  "volume": "B",
+  "spread_range": ["B_0097", "B_0113"],
+  "diary_page_range": [35, 50],
+  "date_start": "2006-07-23",
+  "date_end": "2006-08-12",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dymchurch, Kent, UK",
+      "original_wording": "Martello Tower No 24 at near Hythe, Dymchurch",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0097_L",
+      "excerpt": "We wanted to see a restored Martello Tower No 24 at near Hythe, Dymchurch, but when we got there, it was closed",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Folkestone (Eurotunnel)",
+      "original_wording": "an earlier [?train]",
+      "role": "crossing_terminal",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Diary says they caught a 'train' and reached the French campsite in under 1.5 hours, immediately after the Hythe/Dymchurch stop; this indicates the Eurotunnel shuttle (Folkestone-Coquelles), not a sea ferry.",
+      "source_page_id": "B_0097_L",
+      "excerpt": "We caught an earlier [?train] + in under 1½ hours we reached the campsite",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "La Calotterie, France",
+      "original_wording": "La Calotterie near Montreuil",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0097_R",
+      "excerpt": "La Calotterie near Montreuil. Very green, a grassy valley, cold showers, fresh bread deliveries for breakfast.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Abbeville, France",
+      "original_wording": "Abbeville",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0097_R",
+      "excerpt": "So we drove to Abbeville. After a 2 hour wait, the garage reopened ... the Abbeville garage used one that someone else had already ordered & we were mended.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Sacé, France",
+      "original_wording": "Sacé",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0098_L",
+      "excerpt": "we back-tracked about 12 miles to Sacé, a drive-in campsite in a village, pretty beech hedges, choose your own plot",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Baugé-en-Anjou, France",
+      "original_wording": "Baugé",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0098_L",
+      "excerpt": "We drove on to Baugé, where Venetia Grommett's mother puts on operas ... At 4.40 we set off to walk to the Opera - Richard the Lionheart, Handel.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Ids-Saint-Roch, France",
+      "original_wording": "La Vielle Morte, Ids St. Rozh",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0099_L",
+      "excerpt": "he found a local campsite with a swimming pool. It's called \"La Vielle Morte\"(!) Ids St. Rozh ... a very eccentric campsite in scorched orchards.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Saint-Flour, France",
+      "original_wording": "St. Flour",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0100_R",
+      "excerpt": "We set off & shopped outside St. Flour.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Viaduc de Garabit, France",
+      "original_wording": "Viaduc de Garabit",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0100_R",
+      "excerpt": "We drove on to the Viaduc de Garabit, a railway bridge built by Eiffel to the design of Léon Boyer. 1882-4 ... It's very impressive.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Fridefont, France",
+      "original_wording": "Fridefont",
+      "role": "overnight_base",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "B_0100_R",
+      "excerpt": "We drove on to [?Camping at the Farm] ... Fridefont. It's a magnificent valley ... they have put up the tent ... We had a mega meal at the farmhouse",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Viaduc de Millau, Millau, France",
+      "original_wording": "Millan Bridge / Viaduc de Millau",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0102_L",
+      "excerpt": "We then drove on to see the Millan Bridge. It only opened in April ... We climbed up to the viewing platform. It's very beautiful, elegant.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Millau, France",
+      "original_wording": "Camp St. Martin",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0102_L",
+      "excerpt": "Camp St. Martin ... We could just see it from the camp site ... Swimming pool, v. clean., washing machine",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Entraygues-sur-Truyère, France",
+      "original_wording": "Entraygues, Val dos Saures",
+      "role": "overnight_base",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0103_L",
+      "excerpt": "We drove on to Entraygues after lunch ... The Entraygues campsite is called Val dos Saures (Valley of the lizards?) pitch 104 one of the best campsites we've ever been in",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Conques, France",
+      "original_wording": "Conques",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0106_R",
+      "excerpt": "We packed up + wandered along hair-pin bends at 20 mph to Conques. The Abbey is as lovely as ever. After pizza in the square, we looked at the Treasury",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Cassaniouze, France",
+      "original_wording": "Cassianousc / Cassianouse",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0106_R",
+      "excerpt": "We wandered further, with more hair-pin bends to Cassianousc ... The Hotel Beau Sejour is booked for both evenings that we're here, so we reserved for tomorrow's lunch.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Figeac, France",
+      "original_wording": "Figiac / Figéac",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0107_R",
+      "excerpt": "We set off for Figiac along beautiful small roads + reached it before lunch ... In Figiac we saw the church with a beautiful, painted crypt-chapel.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Lissac-et-Mouret, France",
+      "original_wording": "Lissac et Mouret",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0108_L",
+      "excerpt": "We drove on to Lissac et Mouret, M. GAY Gerard, a lovely campsite in an enormous field with walnut trees. The farmhouse has a pool & trampolines & a bar.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Le Saillant, Voutezac, France",
+      "original_wording": "Saillant, le Bontet",
+      "role": "overnight_base",
+      "confidence": 0.78,
+      "approximate": false,
+      "source_page_id": "B_0109_L",
+      "excerpt": "We drove off through lovely country side & reached Saillant, le Bontet the campsite is next to a river ... We walked down to look at the chapel, which has windows by Marc Chagall",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Uzerche, France",
+      "original_wording": "Uzerche",
+      "role": "main_stop",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "B_0109_R",
+      "excerpt": "We drove to Uzerche, a town that in about 850 endured a 7 year siege against the Saracens ... We had delicious chips for lunch.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Chamberet, France",
+      "original_wording": "Chamberet / David's house, Bas Noir",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0110_L",
+      "excerpt": "On to David's at his new house. All the family are there. We walked through beautiful woods & went to supper at Margaret's hotel. at Chamberet.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Mont Gargan, France",
+      "original_wording": "Mont Gargan",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0111_R",
+      "excerpt": "Simon, Eve, Charles, Margaret & Helen left after a leisurely breakfast. We look at the view from Mont Gargan. We drove north",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Cour-Cheverny, France",
+      "original_wording": "Courcheveigny municipal camping",
+      "role": "overnight_base",
+      "confidence": 0.72,
+      "approximate": false,
+      "source_page_id": "B_0111_R",
+      "excerpt": "we had already put up the tent at Courcheveigny municipal camping ... near Chambord ... We went back to Courcheveigny for supper.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Château de Chambord, France",
+      "original_wording": "Chateau de Chambord",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0112_L",
+      "excerpt": "We picked up M+H & drove past Chateau de Chambord.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Saint-Fuscien, France",
+      "original_wording": "St. Fuscien",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0112_L",
+      "excerpt": "Just south of Amiens, St. Fuscien, is Margaret's hotel. We dropped off her case ... we found a very good place to eat supper, overlooking the boat-gardens, Hortillages.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Amiens, France",
+      "original_wording": "Amiens Cathedral",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0112_R",
+      "excerpt": "We looked at Amiens Cathedral & set off for the Channel.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 27,
+      "normalized_name": "Coquelles (Eurotunnel)",
+      "original_wording": "the Channel ... get on the train",
+      "role": "crossing_terminal",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Return crossing: diary describes a gas check and barrier queue 'to get on the train' at the Channel, i.e. the Eurotunnel shuttle from the French side (Coquelles).",
+      "source_page_id": "B_0113_L",
+      "excerpt": "we could hurry through to get on the train (the numbering system for calling us was unclear) but then we just sat infront of the barrier + missed the train.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 28,
+      "normalized_name": "Oldham, UK",
+      "original_wording": "Oldham",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0113_L",
+      "excerpt": "We got to Di Simmonds in Oldham at 3.30. There we showed her grandson, little Harry, the camping van.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 29,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0113_L",
+      "excerpt": "Then we took Margaret + Helen back to Trumpley + then home to 86.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "B_0097_L",
+      "excerpt": "We caught an earlier [?train] + in under 1½ hours we reached the campsite"
+    },
+    {
+      "after_seq": 27,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "B_0113_L",
+      "excerpt": "we could hurry through to get on the train ... but then we just sat infront of the barrier + missed the train."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 16,
+      "label": "Walk to Calvinet",
+      "date_guess": "2006-08-02",
+      "stops": [
+        {
+          "normalized_name": "Calvinet, France",
+          "original_wording": "Calvinet",
+          "confidence": 0.75,
+          "source_page_id": "B_0106_R",
+          "excerpt": "Simon + Eve walked from Cassianousc to [?Catre] Calvinet in the afternoon, over the fields + a slight ridge. Lots of grasshoppers.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 21,
+      "label": "Day trips from Chamberet (Bas Noir)",
+      "date_guess": "2006-08-08",
+      "stops": [
+        {
+          "normalized_name": "Nedde, France",
+          "original_wording": "La[?tte] des Insects at Nede",
+          "confidence": 0.78,
+          "source_page_id": "B_0110_R",
+          "excerpt": "Mid morning we left for La[?tte] des Insects at Nede. It was fascinating, with a beautiful observation ants' nest, a tunnel with lit-up ant passage ways underneath.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Lac de Vassivière, France",
+          "original_wording": "Lake Vassivière",
+          "confidence": 0.8,
+          "source_page_id": "B_0111_L",
+          "excerpt": "We drove on to Lake Vassivière, where people swam. Sally & Maia joined us & we had tea before driving home to Bas Noir.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Treignac, France",
+          "original_wording": "Treignac",
+          "confidence": 0.7,
+          "source_page_id": "B_0111_L",
+          "excerpt": "Simon & Eve drove to Treignac & bought a b.b.q meat. We swam.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Trumpley",
+      "issue": "Place where Margaret & Helen were dropped on the way home (UK); spelling uncertain and cannot be confidently located. Likely a village/house name. Brief drop-off, not an overnight stop.",
+      "source_page_id": "B_0113_L",
+      "excerpt": "Then we took Margaret + Helen back to Trumpley + then home to 86."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "issue": "mixed_start",
+      "note": "B_0097_L opens mid-page with the tail of the previous (non-trip) entry (Margaret, the pond, Skye/Thorpeness pictures) before the July 23rd heading where this trip begins. Trip content starts at the 'July 23rd Sunday' heading."
+    }
+  ],
+  "summary": "In late July to mid-August 2006 Simon, Eve and son Charles took the camping van through the Channel Tunnel and down through France: a first night near Montreuil (with a van repair detour via Abbeville), then Sacé and Baugé for a Handel opera, on through the Auvergne (Ids-Saint-Roch, the Viaduc de Garabit and a farm campsite at Fridefont) to the new Viaduc de Millau. They worked west through Entraygues, Conques, Cassaniouze, Figeac and Lissac-et-Mouret (visiting friend John Hurman), then north via Le Saillant and Uzerche to stay with David's family at Chamberet, before heading home via Cour-Cheverny, Chambord and Amiens.",
+  "extraction_notes": "Sketch page B_0101_R is a campsite-layout/pitch drawing of the Fridefont farm site (note 'hoops adapter? to camp electric cables'), NOT a route map, so evidence-hierarchy rule 1 (route sketches) does not apply; route order is taken from the dated travel narrative and physical page order. Crossings: the diary repeatedly says 'train' for both Channel crossings, indicating Eurotunnel (Folkestone-Coquelles) rather than a ferry; marked inferred=true. The Hythe/Dymchurch Martello Tower stop and 'under 1.5 hours to the campsite' support a Kent/Eurotunnel routing. Date anomalies in source: B_0106_R is transcribed as 2012 and B_0109_L is headed 'Sunday August 4th' (Aug 4 2006 was a Friday); both are clearly part of this 2006 trip and are ordered by physical page sequence and narrative flow. 'Bas Noir' is David's house at/near Chamberet, treated as the same overnight base. Excursions: Calvinet walk from the Cassaniouze base; Nedde insect museum, Lac de Vassivière and Treignac as day trips returning to Chamberet (Bas Noir). 'Trumpley' (UK drop-off near home) could not be confidently located and is queued as unresolved. Diary page numbering inside the bundle ('no') runs ~35-50, used for diary_page_range."
+}

@@ -1,0 +1,101 @@
+{
+  "trip_id": "1995-belton-in-rutland-northamptonshire-naseby",
+  "title": "Belton-in-Rutland & Northamptonshire (Naseby)",
+  "volume": "A",
+  "spread_range": ["A_0152", "A_0153"],
+  "diary_page_range": [85, 85],
+  "date_start": "1995-06-24",
+  "date_end": "1995-06-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Karoleia", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Naseby, Northamptonshire, UK",
+      "original_wording": "Nasby",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0152_R",
+      "excerpt": "We had coffee on the way at Nasby. Fairfax & Ireton won the battle against Prince Rupert.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Belton-in-Rutland, Rutland, UK",
+      "original_wording": "Belton-in-Rutland",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0152_R",
+      "excerpt": "We arrived at Belton-in-Rutland *** at 11.45. There is a pretty farm house with horses & portabloos. About 15 caravans.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Uppingham, Rutland, UK",
+      "original_wording": "Uppingham",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0153_R",
+      "excerpt": "After failing to get lunch at a village pub, we ate at a coaching inn in Uppingham & returned home in the sun.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0153_R",
+      "excerpt": "returned home in the sun",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Walk around Belton-in-Rutland village and church",
+      "date_guess": "1995-06-24",
+      "stops": [
+        {
+          "normalized_name": "St Peter's Church, Belton-in-Rutland, UK",
+          "original_wording": "the church",
+          "confidence": 0.9,
+          "source_page_id": "A_0153_L",
+          "excerpt": "walked up to look at the church. The Gough family gave a window to St. George. There is a face with donkey ears, sticking its tongue out in the piscina.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Upper [?Cautres]",
+      "issue": "Place name uncertain; photo caption reads 'Sunny supper at Upper [?Cautres] after a very wet days' riding' — likely a village near Belton-in-Rutland visited on a cycling excursion, but exact location unclear. Could be Upper Caldecott or another local hamlet; '[?Cautres]' is a transcription guess.",
+      "source_page_id": "A_0153_R",
+      "excerpt": "Sunny supper at Upper [?Cautres] after a very wet days' riding"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0152_R also contains a Sunday June 18 entry (Middleton Hall concert) that belongs to earlier diary content, not this camping trip",
+    "mixed_end: page A_0153_R is marked boundary_mixed; the Upper [?Cautres] photo caption may belong to a different outing"
+  ],
+  "summary": "A short weekend camping trip on 24–25 June 1995, leaving Birmingham via Naseby (battlefield coffee stop) to a campsite at Belton-in-Rutland, Rutland. The family walked the village, visited the church, had a barbecue, and returned home on Sunday via a coaching-inn lunch in Uppingham.",
+  "extraction_notes": "Thomas is absent from the June 24 travellers list; Karoleia (a guest) is included instead. The Sunday June 18 Middleton Hall entry shares page A_0152_R but is not part of this camping trip — it is pre-trip mixed content. The photo caption 'Sunny supper at Upper [?Cautres] after a very wet days' riding' appears on the boundary page A_0153_R and may relate to a cycling excursion from the campsite; the place name is uncertain and marked unresolved."
+}

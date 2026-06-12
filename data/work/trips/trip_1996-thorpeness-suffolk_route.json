@@ -1,0 +1,93 @@
+{
+  "trip_id": "1996-thorpeness-suffolk",
+  "title": "Thorpeness, Suffolk",
+  "volume": "A",
+  "spread_range": ["A_0179", "A_0179"],
+  "diary_page_range": [179, 179],
+  "date_start": "1997-07-13",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Naomi Grimley"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bury St Edmunds, Suffolk, UK",
+      "original_wording": "east of Bury St. Edmonds",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0179_L",
+      "excerpt": "We had a quick supper east of Bury St. Edmonds + arrived at 9.20.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Thorpeness, Suffolk, UK",
+      "original_wording": "Thorpeness",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0179_L",
+      "excerpt": "set off to Thorpeness … arrived at 9.20. Annie + Klaus + their 4 were there",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "all trips return home unless diary states otherwise; no alternative end-point mentioned",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Fish and chips from Leiston",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Leiston, Suffolk, UK",
+          "original_wording": "Leiston",
+          "confidence": 0.85,
+          "source_page_id": "A_0179_L",
+          "excerpt": "S+E brought back 13 fish 70 chips, 13 nuggets + 2 sausages ordered from Leiston",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Fermi]",
+      "issue": "Partially legible name following 'Leiston' — possibly the name of a chip shop or takeaway in Leiston; could relate to Leiston's Sizewell nuclear connection (formerly CEGB/NuclearElectric). Cannot resolve to a place.",
+      "source_page_id": "A_0179_L",
+      "excerpt": "ordered from Leiston [?Fermi]"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0179_L opens with a separate entry dated Sunday June 16th (1996-06-16) about picking up Peter near East Midlands airport and choosing a puppy — this is NOT part of the Thorpeness trip and has been excluded.",
+    "mixed_end: the Thorpeness entry ends partway through the page; no diary entry describes the return journey or end date.",
+    "date_discrepancy: the diary reads 'Sunday 13th July' but in 1996 July 13 was a Saturday; July 13 1997 was a Sunday. The transcriber assigned iso 1997-07-13, which matches day-of-week. However the pipeline trip_id uses 1996. Date used: 1997-07-13 with caution."
+  ],
+  "summary": "A house-party holiday at Thorpeness, Suffolk, travelling from Birmingham via a supper stop east of Bury St Edmunds and arriving on Sunday 13 July (diary reads 'Sunday', matching 1997 rather than 1996). The family joined friends including Annie, Klaus and Sally and their children for activities at the Meare boating lake, tennis, scrabble and fish and chips from Leiston.",
+  "extraction_notes": "Single diary page; mixed page contains a prior unrelated entry (June 16th puppy visit). Thorpeness is a small planned village on the Suffolk coast — the Meare is its famous boating lake and is within the village, so treated as a base activity rather than a separate excursion. Leiston (~3 miles inland) is recorded as an excursion for the takeaway run. The word '[?Fermi]' after 'Leiston' is illegible and left unresolved. No ferry or international travel — purely domestic UK trip. Day-of-week/year discrepancy flagged in boundary_flags."
+}

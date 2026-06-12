@@ -1,0 +1,474 @@
+{
+  "trip_id": "2007-france-montreuil-reims-provence-malaucene-vaison",
+  "title": "France & Italy: Montreuil, Reims, Provence, the Riviera & the Alps",
+  "volume": "B",
+  "spread_range": ["B_0118", "B_0134"],
+  "diary_page_range": [56, 72],
+  "date_start": "2007-07-29",
+  "date_end": "2007-08-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Melody", "Charlotte"],
+  "countries": ["GB", "FR", "IT"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Folkestone (Eurotunnel)",
+      "original_wording": "the tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0118_L",
+      "excerpt": "We went through the tunnel & arrived at the White Swan campsite, Montreuil",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Montreuil-sur-Mer, France",
+      "original_wording": "White Swan campsite, Montreuil / Montreuil-sur-Mer",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0118_L",
+      "excerpt": "We went through the tunnel & arrived at the White Swan campsite, Montreuil *** at 6.05",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Reims, France",
+      "original_wording": "Le Rheims / Rheims",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0118_R",
+      "excerpt": "We drove on to Le Rheims & bought half a bottle of Champagne to celebrate William's & Bryony's engagement",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Connantre, France",
+      "original_wording": "Connantre",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0119_L",
+      "excerpt": "On & to Connantre for the night. Simon paddled in the lake, Eve swam & the girls watched.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Arcis-sur-Aube, France",
+      "original_wording": "Arcis-sur-Aube",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0119_L",
+      "excerpt": "We drove for 1 hour & shopped at Arcis-sur-Aube where Simon & Melody & Charlotte did a huge Supermarket Shop.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Le Beau Sejour campsite (Tuesday overnight, France)",
+      "original_wording": "Le Beau Sejour",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0119_L",
+      "excerpt": "A long, long day's drive from 9.30-6.15 They swam at the small pool when we got here to Le Beau Sejour * * *.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Notre-Dame des Vignes (via Valréas), France",
+      "original_wording": "N.D. des Vignes",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0119_R",
+      "excerpt": "We left the motorway & went through Valreas in Provence, & reached N.D. des Vignes, an old pilgrimage site in a pine plantation.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Malaucène, France",
+      "original_wording": "Malaucène (Les Bosquets ****)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0120_L",
+      "excerpt": "On to Malaucène beyons Vaison-la-Romaine. Les Bosquets ****, where we were with William + Bryony 2 years ago.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Grimaud, France",
+      "original_wording": "Madam Ferrero, Camping à la ferme, Grimaud",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0121_R",
+      "excerpt": "At 4 we arrived at Madam Ferrero, Camping à la ferme, Grimaud. We are in a grove of pines + cork oak.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Fréjus, France",
+      "original_wording": "Fréjus",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0123_L",
+      "excerpt": "We went to Fréjus. The Roman amphitheatre was closed but we saw the amazing old baptistery at the cathedral",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Saint-Laurent-du-Var, France",
+      "original_wording": "St. Laurent de Var (camp Magali)",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0123_R",
+      "excerpt": "The camp - Magali at St. Laurent de Var is best quickly forgotten.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Nice Côte d'Azur Airport, France",
+      "original_wording": "Nice airport",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0123_R",
+      "excerpt": "Tuesday We left at 8 & got the girls to Nice airport for 8.30.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Golfe-Juan, France",
+      "original_wording": "Golf Juan",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0124_L",
+      "excerpt": "We drove to Golf Juan. ... We went to the Boat-makers & saw Peggy, showing off the new Chad Catalogue.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Fondation Maeght, Saint-Paul-de-Vence, France",
+      "original_wording": "Maeght Foundation",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0124_L",
+      "excerpt": "Then we went to the Maeght Foundation",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Saint-Jeannet, France",
+      "original_wording": "St. Jeannet (Camping à la ferme, Chemin des Sausses)",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0124_R",
+      "excerpt": "We arrived at Camping a la ferme, Vignobles de des [?Sausses] Chemin des Sausses St. Jeannet *** * very quiet",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Sospel, France",
+      "original_wording": "Sospel (municipal park camping)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0126_L",
+      "excerpt": "up to Sospel. The town Sospel is lovely, old + new. ... We are in the municipal park camping place",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Cuneo, Italy",
+      "original_wording": "Cuneo",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0128_L",
+      "excerpt": "We left to drive to Cuneo. We tried to stop at Tende ... Cuneo is still nice - \"style\" Simon said, but dignified.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Fenestrelle, Italy",
+      "original_wording": "Fenostrelle / Fenestrelle (Val Chisone)",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0128_R",
+      "excerpt": "There was a campsite in Fenostrelle, which we headed for ... We had pulled into a lay-by which offered water & sewage disposal.",
+      "geocode_hint": { "countrycodes": "it" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Aussois, France",
+      "original_wording": "Aussois (Municipal Camp)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0129_R",
+      "excerpt": "We have passed Sestrière, Oulx, Fréjus + Modane & arrived at Aussois. Municipal Camp* It's a ski resort",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Saint-Rambert-en-Bugey, France",
+      "original_wording": "St Rampart (Camping Hermitage)",
+      "role": "overnight_base",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "B_0131_L",
+      "excerpt": "We drove north west, to the west of Aix les Bains, north of Chambery, until we reached St Rampart **. ... Camping Hermitage.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Méry-sur-Seine, France",
+      "original_wording": "Méry-sur-Seine (Camp Municipal, beyond Troyes)",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0131_R",
+      "excerpt": "We bought bread at the bakers & continued on to beyond Troys, Camp Municipal, Méry-sur-Seine **.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Longpré-les-Corps-Saints, France",
+      "original_wording": "Longuepré (Camping des Lignes, NW of Amiens)",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0132_L",
+      "excerpt": "Then we reached Camping des Lignes at Longuepré to the north west of Amiens. ****",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Coquelles (Eurotunnel)",
+      "original_wording": "the Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0132_R",
+      "excerpt": "It's about 1¾ hrs to Calais. We reached the other side of the Tunnel at 12.10., having eaten baguette sandwiches in the Tunnel.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0132_R",
+      "excerpt": "I telephoned ahead & we just reached the kennels by 3.55. to collect Tonic. A super holiday!",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0118_L",
+      "excerpt": "We went through the tunnel & arrived at the White Swan campsite, Montreuil"
+    },
+    {
+      "after_seq": 23,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0132_R",
+      "excerpt": "We reached the other side of the Tunnel at 12.10., having eaten baguette sandwiches in the Tunnel."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 9,
+      "label": "Day trip to Vaison-la-Romaine",
+      "date_guess": "2007-08-02",
+      "stops": [
+        {
+          "normalized_name": "Vaison-la-Romaine, France",
+          "original_wording": "Vaison",
+          "confidence": 0.95,
+          "source_page_id": "B_0120_L",
+          "excerpt": "At 9.30 we set off on a day trip to Vaison. We walked up the winding streets to the castle. ... We also saw the Roman ruins ... a rebuilt amphi-theatre.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 10,
+      "label": "Day trips around Grimaud: St Tropez, Gigaro/Cap Lardier beach & Grimaud town",
+      "date_guess": "2007-08-04",
+      "stops": [
+        {
+          "normalized_name": "Saint-Tropez, France",
+          "original_wording": "St Tropez (L'Annonciade Museum)",
+          "confidence": 0.9,
+          "source_page_id": "B_0122_L",
+          "excerpt": "We drove into St Tropez + parked the car quite far out + walked in. There were hoardes of people. We saw the museum.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Plage de Gigaro, La Croix-Valmer, France",
+          "original_wording": "Gigaro beach - Heracles beach",
+          "confidence": 0.8,
+          "source_page_id": "B_0122_R",
+          "excerpt": "We drove to Gigaro beach - Heracles beach. V. hot. We swam + had tea + then came back to the campsite.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Grimaud (old town), France",
+          "original_wording": "Grimaud",
+          "confidence": 0.85,
+          "source_page_id": "B_0122_R",
+          "excerpt": "We went into Grimaud + were early for church. We looked around the town - very hilly, old path[s] we walked up near the castle.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 16,
+      "label": "Day trip to Nice (Matisse Museum)",
+      "date_guess": "2007-08-08",
+      "stops": [
+        {
+          "normalized_name": "Musée Matisse, Nice, France",
+          "original_wording": "Matisse Museum, Nice",
+          "confidence": 0.9,
+          "source_page_id": "B_0124_R",
+          "excerpt": "Again we drove to Nice ... we managed to visit the Matisse Museum. It was interesting to look at the development of his drawings.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 17,
+      "label": "Train excursion: Menton, Monaco (overnight), Beaulieu & Villa Ephrussi de Rothschild",
+      "date_guess": "2007-08-09",
+      "stops": [
+        {
+          "normalized_name": "Menton, France",
+          "original_wording": "Menton",
+          "confidence": 0.85,
+          "source_page_id": "B_0126_R",
+          "excerpt": "We caught the train → Nice → Menton + wandered round, climbed the hill (exhausting) + had lunch.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Monaco",
+          "original_wording": "Monaco (the Colombus; Grimaldi forum, Princess Grace exhibition)",
+          "confidence": 0.9,
+          "source_page_id": "B_0126_R",
+          "excerpt": "We trained to Monaco where Tourist Information told us that all cheap rooms were already let ... We got a balcony + bath. ... the Colombus.",
+          "geocode_hint": { "countrycodes": "mc" }
+        },
+        {
+          "normalized_name": "Beaulieu-sur-Mer, France",
+          "original_wording": "Beaulieu sur Mer",
+          "confidence": 0.85,
+          "source_page_id": "B_0126_R",
+          "excerpt": "we took the train back to Beaulieu sur Mer. The T. Information said it was short walk - 800m",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Villa Ephrussi de Rothschild, Saint-Jean-Cap-Ferrat, France",
+          "original_wording": "Villa Ephrussi de Rothschild, Cape Ferrat",
+          "confidence": 0.9,
+          "source_page_id": "B_0126_R",
+          "excerpt": "Finally we reached Villa Ephrussi de Rothschild. It's spectacular, painted in pink, Beatrice's favourite colour.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 20,
+      "label": "Walks at Aussois: ski-lift, the two lakes & Marie Christine fort",
+      "date_guess": "2007-08-13",
+      "stops": [
+        {
+          "normalized_name": "Lac d'Aussois / Plan d'Amont & Plan d'Aval lakes, Aussois, France",
+          "original_wording": "the top lake / 2 lakes (sketch: Our walk)",
+          "confidence": 0.85,
+          "source_page_id": "B_0130_R",
+          "excerpt": "Our walk — [hand-drawn sketch: Aussois up to dam, then 2 lakes, with lift marked]",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Fort Marie-Christine, Aussois, France",
+          "original_wording": "Marie Christiane fort",
+          "confidence": 0.8,
+          "source_page_id": "B_0130_R",
+          "excerpt": "For lunch we walked across to Marie Christiane fort. ... Part of the building sleeps skiers & walkers.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 23,
+      "label": "Evening in Amiens (illuminated cathedral)",
+      "date_guess": "2007-08-24",
+      "stops": [
+        {
+          "normalized_name": "Amiens, France",
+          "original_wording": "Amiens",
+          "confidence": 0.85,
+          "source_page_id": "B_0132_L",
+          "excerpt": "We went into Amiens & had supper in a restaurant ... we carried stools into the square & watched the painted facade of Amiens cathedral.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Le Beau Sejour",
+      "issue": "Tuesday-night campsite named only by its site name 'Le Beau Sejour'; the town is not given. It lies on a long day's drive south after Arcis-sur-Aube and before Valréas/Provence, so it is somewhere in eastern/central France (likely Burgundy/Rhône corridor). Kept in main route as an approximate base; exact location unconfirmed.",
+      "source_page_id": "B_0119_L",
+      "excerpt": "They swam at the small pool when we got here to Le Beau Sejour * * *."
+    },
+    {
+      "original_wording": "St Rampart (Camping Hermitage)",
+      "issue": "Place name 'St Rampart' is not a standard spelling; described as NW of Chambery, W of Aix les Bains. Likely Saint-Rambert-en-Bugey (Ain) but could be another Saint-Rambert/Saint-Rampart village. Geocode is a best guess.",
+      "source_page_id": "B_0131_L",
+      "excerpt": "north of Chambery, until we reached St Rampart **. ... Camping Hermitage."
+    },
+    {
+      "original_wording": "[?Lenglary]",
+      "issue": "Lunch-stop village between Dijon and Troyes named '[?Lenglary]' is uncertain and not securely identifiable; treated as a passing lunch stop, not a route node.",
+      "source_page_id": "B_0131_R",
+      "excerpt": "At [?Lenglary], we found a restaurant with just \"Menu du jour €13\" outside the door."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A long July-August 2007 camping-van holiday by Simon and Eve with two young guests, Melody (17) and Charlotte (16), through the Eurotunnel into France. They worked south via Montreuil-sur-Mer, Reims, Connantre and a Provence base at Malaucène (with a day trip to Vaison-la-Romaine), then along the Riviera with bases at Grimaud (St Tropez, beaches), Saint-Laurent-du-Var, Saint-Jeannet (Nice/Matisse) and Sospel (a train excursion to Menton, Monaco and the Villa Ephrussi de Rothschild). After the girls flew home from Nice, Simon and Eve looped through Italy (Cuneo, Fenestrelle) and back over the Alps to Aussois, then north via Méry-sur-Seine and Longpré near Amiens before the Tunnel home and collecting the dog from kennels.",
+  "extraction_notes": "Both 'sketch' pages are local-detail drawings, not route-order maps: B_0130_R is the 'Our walk' map of the Aussois lakes day-walk (an excursion detail) and B_0131_R is a roadside cross-section of the mountain view approaching Chambéry. Neither overrides narrative order, so the main route follows the dated overnight progression (evidence hierarchy 2-3). Year fixed to 2007 by 'Wednesday August 15th' (Assumption) matching Sunday 29 July. Travellers are Simon, Eve and two guests (Melody & Charlotte) — none of the five sons are on this trip (they are reported scattered abroad on B_0118_L). The dog collected from kennels at the end is written 'Tonic' in the diary (the usual family dog is Tinder); recorded verbatim. Both Channel crossings are explicitly 'the Tunnel' = Eurotunnel (folkestone-coquelles), not a ferry. Le Beau Sejour (seq 7) and St Rampart (seq 21) are kept in the main route but flagged for location review. Reims, Fréjus, Golfe-Juan and the Maeght Foundation are main_stops on driving legs rather than overnight bases. Nice airport (seq 13) is where Melody & Charlotte flew home, after which the trip continues as just Simon & Eve."
+}

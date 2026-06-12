@@ -1,0 +1,99 @@
+{
+  "trip_id": "1993-manifold-valley-market-drayton-fair-oak",
+  "title": "Manifold Valley & Market Drayton (Fair Oak, Broughton Hall)",
+  "volume": "A",
+  "spread_range": ["A_0090", "A_0091"],
+  "diary_page_range": [90, 91],
+  "date_start": "1993-05-08",
+  "date_end": "1993-05-09",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Manifold Valley, Staffordshire, UK",
+      "original_wording": "Manifold Valley",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0090_R",
+      "excerpt": "We reached the Manifold Valley & rented bikes & had a 3 hour bike ride with a picnic lunch.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Fair Oak Farm Campsite, near Loggerheads, Shropshire, UK",
+      "original_wording": "Fair Oak *** campsite",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0090_R",
+      "excerpt": "We are camped in a lovely sheltered field near Broughton Hall, a Franciscan convent which is about to be sold. Fair Oak *** campsite",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Wolverhampton, UK",
+      "original_wording": "Wolverhampton",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0091_R",
+      "excerpt": "Stopping at the Wolverhampton camping shop on the way home, Peter bought a blow-up foot ball + Eve bought her long-awaited clothes-line pole.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0091_R",
+      "excerpt": "Stopping at the Wolverhampton camping shop on the way home",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Sunday church and country walk near Broughton Hall",
+      "date_guess": "1993-05-09",
+      "stops": [
+        {
+          "normalized_name": "Broughton Hall chapel, near Loggerheads, Shropshire, UK",
+          "original_wording": "old church which, they said, had been the chapel of Broughton Hall",
+          "confidence": 0.85,
+          "approximate": true,
+          "source_page_id": "A_0091_L",
+          "excerpt": "a prayer book Communion at 11 in the old church which, they said, had been the chapel of Broughton Hall. It was very, very friendly.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Charlotte",
+      "issue": "Person named Charlotte sits with Simon and Eve at church - not in the known family list; possibly a friend or relative joining the trip.",
+      "source_page_id": "A_0091_L",
+      "excerpt": "Simon + Charlotte + I sat behind."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A short May Bank Holiday weekend trip in 1993 from Birmingham into Staffordshire and Shropshire. The family visited the Manifold Valley for a 3-hour bike ride on Saturday before camping at the Fair Oak campsite near Broughton Hall (a Franciscan convent) near Loggerheads and Market Drayton. On Sunday they attended a prayer-book Communion service in the old Broughton Hall chapel and walked 4.5 miles through the countryside before stopping at Wolverhampton on the way home.",
+  "extraction_notes": "The diary describes the campsite on Saturday (A_0090_R) as 'near Broughton Hall' at 'Fair Oak campsite', and on Sunday (A_0091_L) as 'east of Market Drayton, near a village called Loggerheads'. These descriptions are consistent with the same location — Broughton Hall is near Loggerheads, a village on the A53 east of Market Drayton — so only one overnight_base is recorded. The Manifold Valley visit was a daytime stop en route on Saturday before arriving at camp. A 'Charlotte' appears once on A_0091_L seated with Simon and Eve at church; she is not in the known family list and has been flagged as unresolved. Year 1993 is inferred from date_guess in the bundle metadata; the diary pages give 'Saturday 8th May' (confirmed 8 May 1993 was a Saturday) and 'Sunday May 9th'."
+}

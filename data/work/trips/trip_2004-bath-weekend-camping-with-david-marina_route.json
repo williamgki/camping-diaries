@@ -1,0 +1,79 @@
+{
+  "trip_id": "2004-bath-weekend-camping-with-david-marina",
+  "title": "Bath Weekend Camping with David (Marina Campsite & Roman Baths)",
+  "volume": "B",
+  "spread_range": ["B_0047", "B_0048"],
+  "diary_page_range": [45, 45],
+  "date_start": "2004-08-29",
+  "date_end": "2004-08-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Melody", "Charlotte"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Marina Campsite, Bath, UK",
+      "original_wording": "Marina Campsite",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0047_R",
+      "excerpt": "we set off, Simon, Eve, John, Charles, Melody 14 & Charlotte 13, to Bath to Camp with David. We arrived & found their van at the Marina Campsite",
+      "geocode_hint": { "countrycodes": "gb", "near": "Bath, Somerset" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk into Bath city centre and Roman Baths",
+      "date_guess": "2004-08-29",
+      "stops": [
+        {
+          "normalized_name": "Bath city centre, UK",
+          "original_wording": "Bath",
+          "confidence": 0.9,
+          "source_page_id": "B_0047_R",
+          "excerpt": "at [?3].45. (!) we set off walking into Bath",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Roman Baths, Bath, UK",
+          "original_wording": "Roman Baths, Bath",
+          "confidence": 0.85,
+          "source_page_id": "B_0048_L",
+          "excerpt": "Gorgon's head. Romano Celtic Head from Pediment of the Temple of Sulis Minerva, Roman Baths, Bath.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: B_0048_L is shared with next trip; Roman Baths caption may belong to next day or another entry"
+  ],
+  "summary": "A late-August Sunday camping weekend at the Marina Campsite in Bath, attended by Simon, Eve, John, Charles, and family friends Melody and Charlotte, joining David Kirby who was already on site. The party lunched al fresco (with strong cider and a chicken despite heavy rain showers), then walked into Bath to see the Roman Baths.",
+  "extraction_notes": "Only one dated page (B_0047_R, Sunday 29 August 2004) is clearly part of this trip. B_0048_L is marked mixed_end and carries a Roman Baths caption plus a fragment mentioning David Kirby going to Sarah's 50th birthday party — the Roman Baths visit is attributed as an excursion from the campsite. No ferry or border crossings; entirely within England. Thomas, William, and Peter are not mentioned as travellers. 'Marina Campsite' near Bath likely refers to the Bath Marina & Caravan Park on the River Avon; geocoding should target that area. The return to Birmingham is inferred as per trip convention — no explicit return narrative survives within the available pages."
+}

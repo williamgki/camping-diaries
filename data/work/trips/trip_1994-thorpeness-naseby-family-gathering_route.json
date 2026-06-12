@@ -1,0 +1,88 @@
+{
+  "trip_id": "1994-thorpeness-naseby-family-gathering",
+  "title": "Thorpeness & Naseby family gathering",
+  "volume": "A",
+  "spread_range": ["A_0130", "A_0130"],
+  "diary_page_range": [130, 130],
+  "date_start": "1994-07-18",
+  "date_end": "1994-07-24",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0130_L",
+      "excerpt": "We picked up Samra Kolon in the City Centre above the Mosque at 7.25!. + drove on to Thorpenes.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Naseby, Northamptonshire, UK",
+      "original_wording": "Naseby",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "A_0130_L",
+      "excerpt": "We had breakfast 3½ miles from Naseby.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Thorpeness, Suffolk, UK",
+      "original_wording": "Thorpenes",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0130_L",
+      "excerpt": "+ drove on to Thorpenes. We used the new A14, the new M1 A1 interlink which opened 4 days ago by-passing Market Harborough + Kettering.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Huntingdon, Cambridgeshire, UK",
+      "original_wording": "Huntingdon",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "A_0130_L",
+      "excerpt": "24/7/94 Sunday we left about 10.15. Simon + Thomas had bought us ice creams for our picnic lunch. 8 m. west of Huntingdon",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0130_L",
+      "excerpt": "24/7/94 Sunday we left about 10.15. Simon + Thomas had bought us ice creams for our picnic lunch. 8 m. west of Huntingdon",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "edge": "start",
+      "issue": "Page opens with a 'Sunday' entry that belongs to a PREVIOUS trip (mixed_start): packing up, Malvern chapel, taking Reg to the common, then 'drove home' before Thomas's evening concert. This Malvern content is excluded from the Thorpeness/Naseby route.",
+      "source_page_id": "A_0130_L",
+      "excerpt": "We packed up + went to Malvern chapel. ... We took Reg to the common for lunch + then drove home (returning in the evening to hear Thomas play in a concert. Ben Madden Elgar)."
+    },
+    {
+      "edge": "end",
+      "issue": "The return leg (24/7/94 'we left about 10.15 ... 8 m. west of Huntingdon') trails off mid-journey; arrival home is implied (trips end at home) but not explicitly narrated on this page (mixed_end).",
+      "source_page_id": "A_0130_L",
+      "excerpt": "24/7/94 Sunday we left about 10.15. ... 8 m. west of Huntingdon"
+    }
+  ],
+  "summary": "A July 1994 family week away at Thorpeness on the Suffolk coast (staying at 'Pension Nancy'). The family left Birmingham on Monday 18 July, picking up Samra Kolon in the city centre and driving east on the just-opened A14 M1-A1 link road, by-passing Market Harborough and Kettering and breakfasting near Naseby. Simon drove home midweek and returned Friday; they set off home again on Sunday 24 July, picnicking west of Huntingdon.",
+  "extraction_notes": "Single-page trip (A_0130_L), boundary-mixed at both ends. The 'sketch' on this page is a scene illustration of buildings/cottages with no route arrows or place labels (sketch_images empty in the bundle), so narrative order governs; evidence-hierarchy rule 1 does not apply here. Market Harborough and Kettering are explicitly 'by-passing'-ed, so they are NOT stops. Naseby is recorded as an approximate transit/breakfast stop ('3½ miles from Naseby') and is the 'Naseby' of the trip title; the only overnight base evidenced is Thorpeness ('Pension Nancy'). Huntingdon is an approximate anchor for the return picnic spot ('8 m. west of Huntingdon'). The opening 'Sunday' Malvern paragraph is the tail of the preceding trip and is excluded. Domestic UK trip: no sea/tunnel crossings."
+}

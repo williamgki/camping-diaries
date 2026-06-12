@@ -1,0 +1,100 @@
+{
+  "trip_id": "1998-radnage-oxford-chiltern-weekend-with-david",
+  "title": "Radnage / Oxford (Chiltern) weekend with David & Sally",
+  "volume": "A",
+  "spread_range": ["A_0258", "A_0259"],
+  "diary_page_range": [258, 259],
+  "date_start": "1998-10-02",
+  "date_end": "1998-10-04",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Oxford Services, Oxfordshire, UK",
+      "original_wording": "Oxford Services off the Malvern coach",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0258_R",
+      "excerpt": "We left at 5.15. to meet William & Peter at the Oxford Services off the Malvern coach.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Radnage, Buckinghamshire, UK",
+      "original_wording": "Radnage",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0258_R",
+      "excerpt": "David & Sally, [?Maid] Dylan & Thomas joined us at Radnage [****] near Oxford at [*] 7.30. It's a very pretty view of Chiltern fields to the north.",
+      "geocode_hint": { "countrycodes": "gb", "near": "High Wycombe" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "6-mile walk along valley and through woods",
+      "date_guess": "1998-10-03",
+      "stops": [
+        {
+          "normalized_name": "Radnage valley and woods (unnamed walk)",
+          "original_wording": "a super 6 mile walk along the valley & through woods",
+          "confidence": 0.8,
+          "approximate": true,
+          "source_page_id": "A_0259_L",
+          "excerpt": "After separate breakfasts we went on a super 6 mile walk along the valley & through woods. We came to a deep cleft & swing.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Radnage, Buckinghamshire" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Walk to church",
+      "date_guess": "1998-10-04",
+      "stops": [
+        {
+          "normalized_name": "Church near Radnage, Buckinghamshire, UK",
+          "original_wording": "Church",
+          "confidence": 0.7,
+          "approximate": true,
+          "source_page_id": "A_0259_L",
+          "excerpt": "Eve grabbed a bowl of cereal & set off with Thomas & Tonic to Church. It was a 30 minute walk to church along foot paths & roads. A short, family service with a lay-reader.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Radnage, Buckinghamshire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page A_0258_R begins with content from a preceding trip (Lower Slaughter, Upper Slaughter, motor museum) before the heading 'Friday 2nd October' which starts this trip",
+    "mixed_end: page A_0259_L ends mid-narrative and may continue on a subsequent page not included in this bundle"
+  ],
+  "summary": "A short October half-term weekend camping trip to Radnage in the Chilterns (near Oxford), joining friends David and Sally and their family. The family drove from Birmingham on Friday 2nd October, picking up William and Peter at Oxford Services, then camped at Radnage for two nights with walks, football and a pub supper at the Crown.",
+  "extraction_notes": "Pages are marked mixed_start and mixed_end. The first portion of A_0258_R (Lower Slaughter, Upper Slaughter, a motor museum) belongs to a previous trip and was excluded. The diary does not explicitly record the return journey home; home is inferred as the endpoint per standard convention. 'Tonic' appears to be the dog (Tinder). The church visited on Sunday is unnamed but described as a 30-minute walk from the campsite along footpaths and roads. No ferry crossings; entirely domestic UK trip. David and Sally brought Dylan and Thomas (their children or guests); 'William & Peter' arrived by Malvern coach and were collected at Oxford Services."
+}

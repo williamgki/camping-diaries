@@ -1,0 +1,118 @@
+{
+  "trip_id": "2018-wales-ross-on-wye-caerleon-penn",
+  "title": "Wales: Ross-on-Wye, Caerleon & Penn Onn (John & Kay's New House)",
+  "volume": "B",
+  "spread_range": ["B_0303", "B_0304"],
+  "diary_page_range": [303, 304],
+  "date_start": "2018-04-13",
+  "date_end": "2018-04-14",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bournville, Birmingham, UK",
+      "original_wording": "Bourneville",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0303_R",
+      "excerpt": "We stopped in Bourneville to buy buttons.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Ross-on-Wye, UK",
+      "original_wording": "Ross on Wye",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0303_R",
+      "excerpt": "We parked by the river park, flat land, below Ross on Wye & walked up the hill for a good lunch at Man of Ross. We bought crafts & books.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Caerleon, Wales, UK",
+      "original_wording": "Caerleon",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0303_R",
+      "excerpt": "On to Caerleon (\"fort of the legion\"). The amphitheatre (could seat 6,000) was excavated 1927... An interesting museum.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "White House Farm Campsite, Caerleon, Wales, UK",
+      "original_wording": "White House Farm",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0303_R",
+      "excerpt": "We spent the night at a campsite – \"White House Farm\"* a miles' walk away. Heater in modern shower block. V. Clean.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Caerleon, Wales" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Penn Onn, Vale of Glamorgan, Wales, UK",
+      "original_wording": "Penn Onn",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0304_L",
+      "excerpt": "arrived at Penn Onn at 10.15... John & Kay will arrive from Bath soon.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips start and end at home; diary ends at Penn Onn with no explicit return noted (mixed_end boundary); return to Birmingham is implied.",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 6,
+      "label": "St Fagans National History Museum (St Teilo's Church)",
+      "date_guess": "2018-04-14",
+      "stops": [
+        {
+          "normalized_name": "St Fagans National Museum of History, Cardiff, Wales, UK",
+          "original_wording": "National History Museum St Fagans",
+          "confidence": 0.8,
+          "approximate": false,
+          "source_page_id": "B_0304_L",
+          "excerpt": "[margin, rotated: St. Teilo's Church, (3) National History Museum St Fagans.]",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: diary ends at Penn Onn on April 14th; return to Birmingham is inferred, no explicit date given"
+  ],
+  "summary": "A two-day Easter break (April 13–14, 2018) in which Simon, Eve, and Tinder drove from Birmingham to Wales, stopping at Ross-on-Wye for lunch at the Man of Ross and visiting the Roman remains at Caerleon before overnighting at White House Farm campsite. The following day they joined John, Kay, Charles, Peter, and others at John and Kay's new house at Penn Onn, Vale of Glamorgan, with a visit to St Fagans National Museum of History to see St Teilo's Church.",
+  "extraction_notes": "Bournville (spelled 'Bourneville' in diary) is a suburb of Birmingham south of the city centre, visited en route as a brief shopping stop. The campsite 'White House Farm' is described as being a mile's walk from Caerleon. Penn Onn is in the Vale of Glamorgan near Cowbridge; the diary records John & Kay's new house there. The St Fagans excursion is noted only in margin annotations on B_0304_L and B_0304_R but is clearly a day visit from Penn Onn — St Teilo's Church is one of the exhibits at St Fagans. 'Tinder is in Kennels' on the second day likely refers to Tinder being dropped at kennels before joining John & Kay's house (not a separate stop). The diary also mentions family members arriving from Bath (John & Kay), Bologna (Charles), Reading (Jenny), and India (Peter) — these are arrival origins, not trip stops. Return to Birmingham is inferred as the diary's boundary is marked mixed_end."
+}

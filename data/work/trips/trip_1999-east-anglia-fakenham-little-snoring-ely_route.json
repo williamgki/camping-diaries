@@ -1,0 +1,133 @@
+{
+  "trip_id": "1999-east-anglia-fakenham-little-snoring-ely",
+  "title": "East Anglia: Fakenham, Little Snoring & Ely",
+  "volume": "A",
+  "spread_range": ["A_0265", "A_0267"],
+  "diary_page_range": [null, null],
+  "date_start": "1999-04-30",
+  "date_end": "1999-05-02",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Birmingham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0265_L",
+      "excerpt": "After Charles' cricket practice we left for Fakenham at 6.10.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Little Snoring, Norfolk, UK",
+      "original_wording": "Little Snoring",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0265_L",
+      "excerpt": "Little Snoring was very good – cheap £6 per",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Letheringsett, Norfolk, UK",
+      "original_wording": "Letheringsett Hall",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0266_L",
+      "excerpt": "We reached John Crowder at Letheringsett Hall. He seems very well + well looked after. Church with a round tower. Very very pretty countryside.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Chippenham Park, Cambridgeshire, UK",
+      "original_wording": "Chippenham Park West Wing",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0266_L",
+      "excerpt": "Then on to near Mildenhall, Chippenham Park West Wing. We are sitting in almost sun on the balcony. Tonic likes the balcony lovely gardens.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Mildenhall" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Cave Farm, Littleport, Cambridgeshire, UK",
+      "original_wording": "Cave farm",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0266_R",
+      "excerpt": "We found a campsite at 3 miles N.W of Littleport, Hale Ten, Cave farm +, a field bordered by Willow + silver birch, + walks along straight raised paths. Two clean loos + a shower. Very quiet + pleasant.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Littleport" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0266_R",
+      "excerpt": "Then on home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Day trip to Ely: Cathedral, Cromwell's House, Stretham Old Engine",
+      "date_guess": "1999-05-02",
+      "stops": [
+        {
+          "normalized_name": "Ely Cathedral, Ely, Cambridgeshire, UK",
+          "original_wording": "Ely Cathedral",
+          "confidence": 0.95,
+          "source_page_id": "A_0266_R",
+          "excerpt": "We went to Ely Cathedral, all rather big + distant. 3 new choristers were admitted.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Cromwell's House, Ely, Cambridgeshire, UK",
+          "original_wording": "Cromwell's House",
+          "confidence": 0.9,
+          "source_page_id": "A_0266_R",
+          "excerpt": "Charles + Eve went to Cromwell's House. His body dug up + his head chopped off 3 years after his death.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Stretham Old Engine, Stretham, Cambridgeshire, UK",
+          "original_wording": "Stretham Old Engine",
+          "confidence": 0.9,
+          "source_page_id": "A_0266_R",
+          "excerpt": "then we drove to Stretham Old Engine 1831–25, steam pumps using Watts' parallel motion.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Hale Ten",
+      "issue": "Described as a campsite field name '3 miles N.W of Littleport'; could be a field or local area name not readily geocodable as a standalone place",
+      "source_page_id": "A_0266_R",
+      "excerpt": "We found a campsite at 3 miles N.W of Littleport, Hale Ten, Cave farm"
+    },
+    {
+      "original_wording": "Guy Rogerson's",
+      "issue": "A private residence visited on the way home from Ely to Birmingham; location unknown",
+      "source_page_id": "A_0266_R",
+      "excerpt": "We stopped off at Guy Rogerson's on the way home to leave him the telephone + see Oliver. Then on home."
+    }
+  ],
+  "boundary_flags": [
+    "Page A_0265_L has mixed_start=true: the entry for April 12th (visit to Hove/Leonardslee Gardens) belongs to a preceding trip; this trip begins at the 'April 30th' entry on the same page."
+  ],
+  "summary": "A short Bank Holiday weekend trip from Birmingham to Norfolk and Cambridgeshire, camping at Little Snoring (April 30–May 1) before moving south to Cave Farm near Littleport (May 1–2). En route they visited John Crowder at Letheringsett Hall and Chippenham Park; on May 2 they made a day trip to Ely Cathedral, Cromwell's House, and the Stretham Old Engine before driving home.",
+  "extraction_notes": "Page A_0265_L is a mixed page: the April 12th section belongs to a different prior trip (visiting the Ogdens in Hove and Leonardslee Gardens); this trip starts at the 'April 30th' entry. John is not on this trip (boarding at Blue Coat school for a choir service). The dog is referred to as 'Tonic' (transcription) but is almost certainly 'Tinder'. Chippenham Park West Wing is treated as a daytime stop on May 1 rather than an overnight base, since Cave Farm near Littleport is clearly described as the campsite where they spent May 1–2 nights. Guy Rogerson's is an unresolved private address on the homeward leg."
+}

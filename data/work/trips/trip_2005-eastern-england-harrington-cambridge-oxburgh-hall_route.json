@@ -1,0 +1,180 @@
+{
+  "trip_id": "2005-eastern-england-harrington-cambridge-oxburgh-hall",
+  "title": "Eastern England: Harrington, Cambridge, Oxburgh Hall & Norfolk",
+  "volume": "B",
+  "spread_range": ["B_0056", "B_0060"],
+  "diary_page_range": [54, 57],
+  "date_start": "2005-06-17",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "St George's",
+      "original_wording": "St. George's",
+      "role": "departure",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "B_0056_L",
+      "excerpt": "We left St. George's at 9.30. pm after a Malawi Concert & reached a campsite next to Harrington*** Secret Aviation Museum",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Harrington, Northamptonshire",
+      "original_wording": "Harrington",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0056_L",
+      "excerpt": "reached a campsite next to Harrington*** Secret Aviation Museum (Brit & US planes taking people in & out of France, carpet bagging) It was dark when we arrived",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Cambridge",
+      "original_wording": "Cambridge",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0056_R",
+      "excerpt": "We set off to see Rosie, Jane & Robert in Cambridge. They live in a nice modern house",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Oxburgh Hall, Norfolk",
+      "original_wording": "Oxburgh Hall",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0057_L",
+      "excerpt": "After lunch in a field we drove on to Oxburgh Hall which belongs to an old Catholic family, the Bedingfields. There was a priest's hole which we managed to climb into",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Mileham, Norfolk",
+      "original_wording": "Mileham",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0057_R",
+      "excerpt": "On to camp at Mileham north of Swaffham. ... Mileham was very pretty, enclosed in lots of trees. No loo or showers. Very green & quiet.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "East Dereham, Norfolk",
+      "original_wording": "East Dereham",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0057_R",
+      "excerpt": "Our route was very zig-zag past tiny villages not even on the map to East Dereham. The church was beautiful.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Reepham, Norfolk",
+      "original_wording": "Reepham",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0058_R",
+      "excerpt": "He said he was off to do jazz at the pub courtyard at Reepham. We ended up going in the same direction & stopped to listen.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Blickling Hall, Norfolk",
+      "original_wording": "Blickling Hall",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0058_R",
+      "excerpt": "finally reached Blickling Hall, where we had a good lunch (chicken & asparagus) in the canteen. The Hall is beautiful, partly Jacobean. Anne Boleyn was born there.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Halesworth, Suffolk",
+      "original_wording": "near Halesworth",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0059_R",
+      "excerpt": "We drove south to near Halesworth. The campsite owner is friendly & has sold me some eggs. Mindon House * * * * Blyford. loo in farm house laundry room, no shower, lovely big field",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Oundle, Northamptonshire",
+      "original_wording": "Oundle on the R. Nene to Fairline Marina",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0059_R",
+      "excerpt": "Then we set off for Oundle on the R. Nene to Fairline Marina where Chad is hoping to do lights.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Upper Benefield, Northamptonshire",
+      "original_wording": "Upper Benefield",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0059_R",
+      "excerpt": "We had a good pub lunch - Simon home-made beefburgers & Eve scampi & chips at Upper Benefield in a shady garden.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Corby, Northamptonshire",
+      "original_wording": "Corby",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0059_R",
+      "excerpt": "On to Corby where Chad hopes a factory will do extruded aluminium.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Naseby, Northamptonshire",
+      "original_wording": "near Naseby",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0059_R",
+      "excerpt": "At tea time we passed the Buddhist Centre at near Naseby.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0060_L",
+      "excerpt": "After this we drove on through the heat for home. At 5.30. we took the route along Bristol Rd. + rt. at Cannon Hill up Priory Rd.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "B_0056_L",
+      "issue": "boundary_mixed: opening paragraph belongs to the PREVIOUS trip (St. George's campsite, Malawi Concert, waving goodbye to William & Bryony in their van 'Helen'). This trip begins at 'We left St. George's at 9.30. pm'.",
+      "excerpt": "We waved goodbye to William & Bryony in their van, \"Helen\" & packed up in the drizzle & left. __June 17th Friday__ We left St. George's at 9.30. pm"
+    }
+  ],
+  "summary": "A short UK camping holiday through eastern England in June 2005. Departing from St George's, the family camped at Harrington (Northamptonshire), then toured Cambridge and a string of National Trust houses in Norfolk (Oxburgh Hall, Blickling Hall) with overnight stops at Mileham and near Halesworth, before driving home to Birmingham via Oundle, Corby and Naseby.",
+  "extraction_notes": "GB-only trip; no sea/tunnel crossings (the 'France' mention on B_0056_L refers to WWII carpet-bagging flights from the Harrington aviation museum, not travel). Trip starts at an explicit non-home departure 'St. George's' (mixed_start: true; opening paragraph of B_0056_L is the tail of the previous trip). 'St. George's' could not be reliably geolocated from the bundle (no county given) — recorded as departure with confidence 0.6 / approximate. date_end is null: no closing date is recorded; the final day is dated only by narrative progression from the June 17th start. Travellers limited to Simon and Eve as confidently named on this trip's pages (first-person diary, likely Eve); 'Chad' (business contact for marine/factory lighting work) and the dog 'Tonic/Tonie/Toni' appear but are not listed as travellers. Cambridge, Oxburgh Hall, Blickling Hall and East Dereham are visited in linear progression between overnight bases (not same-base day trips), so there are no excursions."
+}

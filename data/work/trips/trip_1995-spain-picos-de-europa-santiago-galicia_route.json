@@ -1,0 +1,487 @@
+{
+  "trip_id": "1995-spain-picos-de-europa-santiago-galicia",
+  "title": "Spain: Picos de Europa, Santiago, Galicia, Portugal & Salamanca",
+  "volume": "A",
+  "spread_range": ["A_0154", "A_0167"],
+  "diary_page_range": [68, 79],
+  "date_start": "1995-07-25",
+  "date_end": "1995-08-14",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "Peter", "John", "Charles"],
+  "countries": ["GB", "ES", "PT"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Southampton, UK",
+      "original_wording": "Southampton",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0154_L",
+      "excerpt": "Simon, Eve, Thomas, Peter, John & Charles set off for Spain via Venetia & Southampton. ... The ferry left at 8 pm & got in at 7am on Thu.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Castro-Urdiales, Spain",
+      "original_wording": "Castro Urdiales",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0154_L",
+      "excerpt": "We motored to Castro Urdiales. We walked up to the church which had an interesting frieze of sculptures around the top.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Mogro, Cantabria, Spain",
+      "original_wording": "Mogro",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0154_R",
+      "excerpt": "We had lunch & swam at Mogro. The tide was coming in & covering up John's & Charles' holes in the sand.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Santillana del Mar, Cantabria, Spain",
+      "original_wording": "Santillana de Mar",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0154_R",
+      "excerpt": "We drove on to a campsite Santillana de Mar. The view is of a grassy hillside. There is a pool & restaurant & playground & lots of Brits in Key Camps.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "San Vicente de la Barquera, Cantabria, Spain",
+      "original_wording": "San Vincente de Barche",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0155_R",
+      "excerpt": "We left early in the damp + drove westward, stopping to shop at San Vincente de Barche, where Peter bought a pen knife + we tasted cheeses + sausage at the market.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Covadonga, Asturias, Spain",
+      "original_wording": "Cova Donga",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0156_L",
+      "excerpt": "We ended up in a squalid campsite for the night Cova Donga *. Dirty. Loo paper around. ... We went up to Cova Donga. It was ghastly.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Riaño, León, Spain",
+      "original_wording": "Riano",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0157_L",
+      "excerpt": "We crossed over at Ponton Pass, 1280 m. low on petrol. ... We stopped to have tea at Riano which is on a mega lake, a small marina + modern houses.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Mansilla de las Mulas, León, Spain",
+      "original_wording": "Mansillas Los Mulas",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0157_R",
+      "excerpt": "On to Mansillas Los Mulas + camp at Esla, small, pretty clean. They are building tennis courts.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "León, Spain",
+      "original_wording": "Leon",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0157_R",
+      "excerpt": "We reached Leon, which we liked. ... The cathedral dominates cf Beauvais, but many flying buttresses, so it didn't fall down.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "San Martín de Castañeda, Zamora, Spain",
+      "original_wording": "S. Martin",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0158_R",
+      "excerpt": "We had great trouble finding the campsite, not at Val de Verda as marke[d] but at the village beyond. S. Martin ***** It is lovely: very pretty, with the opportunity to camp in the woods.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "O Cebreiro, Lugo, Spain",
+      "original_wording": "OCebreiro",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0159_L",
+      "excerpt": "We set off to Santiago, visiting 2 churches on the way. We saw OCebreiro and Portmarin. OCebreiro is high up, with lovely views of hills, on the Pilgrimage route.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Portomarín, Lugo, Spain",
+      "original_wording": "Portmarin",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0160_R",
+      "excerpt": "Later we visited Portomarin. The valley was flooded for controlling water for irrigation, + the church was brought up, stone by stone, to a higher village.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Santiago de Compostela, Spain",
+      "original_wording": "Compostella",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0160_R",
+      "excerpt": "We reached Compostella + camped as As cancelas ***, at 7.0.. The rain is falling, so we have not put up the tent. We set off on the bus for the city centre. The cathedral is wonderful.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Leis, Muxía, A Coruña, Spain",
+      "original_wording": "Leis",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0161_R",
+      "excerpt": "We packed up & left in cloud & drove w.S.w. through hills to the coast. ... We arrived at Leis on the bay above the Ria Caminares. The town is across the bay. At 5 we went down through the pine woods for a swim.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Vigo, Spain",
+      "original_wording": "Vigo",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0162_R",
+      "excerpt": "We crossed into Portugal, after Eve drove a lightening tour in Vigo.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Braga, Portugal",
+      "original_wording": "Braga",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0162_R",
+      "excerpt": "We crossed into Portugal ... We had to drive until 9.50. pm to find the only campsite around - in Braga *. From the sublime to the ridiculous. We are parked on a spare corner of ground next to a pile of road gravel.",
+      "geocode_hint": { "countrycodes": "pt" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Porto, Portugal",
+      "original_wording": "Oporto",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0163_L",
+      "excerpt": "We packed up & set of south for Oporto. ... We parked in the higgledy-piggledy old quarter at the top of the hill & walked down to the harbour. ... We visited St. Francis Church. Amazeing.",
+      "geocode_hint": { "countrycodes": "pt" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Cinfães, Portugal",
+      "original_wording": "Cinfaes",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0163_R",
+      "excerpt": "We went inland, up the R. Douro, to Cinfaes, which I would like to see more of, then south east, up a tributary to the right to Castro Daire.",
+      "geocode_hint": { "countrycodes": "pt" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Castro Daire, Portugal",
+      "original_wording": "Castro Daire",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0163_R",
+      "excerpt": "south east, up a tributary to the right to Castro Daire ****, a member of Orbiter camps. There was a pool outside the campsite. ... The campsite smells of beautiful pines.",
+      "geocode_hint": { "countrycodes": "pt" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Castelo Mendo, Portugal",
+      "original_wording": "Castelo Mendo",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0163_R",
+      "excerpt": "We set off south towards Guarda. ... Castelo Mendo, near the old road, we stopped at. Magnificent old walls. Houses clustered inside. ... Wellington lived in a house near, for 1 year.",
+      "geocode_hint": { "countrycodes": "pt" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Ciudad Rodrigo, Salamanca, Spain",
+      "original_wording": "Ciudad Rodrigo",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0163_R",
+      "excerpt": "We arrived at Ciudad Rodrigo, & saw the cathedral with good Romanesque carvings.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "La Alberca, Salamanca, Spain",
+      "original_wording": "la Aberca",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0164_L",
+      "excerpt": "At 7, we arrived at la Aberca campsite. It had a pale turquoise swimming pool + lovely views of hills. ... We swam. We picked blackberries.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Salamanca, Spain",
+      "original_wording": "Salamanca",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0165_R",
+      "excerpt": "We parked outside Salamanca + walked in across the Roman Bridge. ... We had the best meal of the trip at San Ricardo, inside pink granite portals.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 25,
+      "normalized_name": "Tordesillas, Valladolid, Spain",
+      "original_wording": "El Astral at Tordesillas",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0166_L",
+      "excerpt": "We stopped at El Astral at Tordesillas nr to Valladolid. The storm came close so the boys weren't allowed to swim at first. Then we all swam.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 26,
+      "normalized_name": "Lerma, Burgos, Spain",
+      "original_wording": "Lerma",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "A_0166_L",
+      "excerpt": "We next stopped in a field of poplars near Lerma. Fewer wasps.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 27,
+      "normalized_name": "Covarrubias, Burgos, Spain",
+      "original_wording": "Covar Rubias",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0166_L",
+      "excerpt": "The first, 3.15 Covar Rubias, was a church which was shut until 4.30. The village was pretty, a monastery is there, but we drove on.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 28,
+      "normalized_name": "Santo Domingo de Silos, Burgos, Spain",
+      "original_wording": "San Domingo de Silos",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0166_L",
+      "excerpt": "The second had a plain church which we saw, + a beautiful cloister, but the queue was too long. San Domingo de Silos, a monastery is still there.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 29,
+      "normalized_name": "Abejar, Soria, Spain",
+      "original_wording": "Abegar",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0166_R",
+      "excerpt": "We carried on to El Frontal at Abegar. Expensive, a lovely clover-shaped swimming pool + a canopy of pines. Mini football. There is a lake.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 30,
+      "normalized_name": "Vinuesa, Soria, Spain",
+      "original_wording": "Vinuesa",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "A_0166_R",
+      "excerpt": "On to Vinuesa, a nice church, candlelit. Balconies in the village. ... We went over a very high pass.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 31,
+      "normalized_name": "Nájera, La Rioja, Spain",
+      "original_wording": "Najera",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0167_L",
+      "excerpt": "We've stopped in our last campsite in Spain. It is very clean + has a municipal pool nearby. Najera **** ... The best campsite we've been in this holiday.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 32,
+      "normalized_name": "Bilbao, Spain",
+      "original_wording": "Bilbao",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0167_L",
+      "excerpt": "Through terraced Rioja country. ... We reached Bilbao in time. There were long queues on the quai.",
+      "geocode_hint": { "countrycodes": "es" }
+    },
+    {
+      "seq": 33,
+      "normalized_name": "Portsmouth, UK",
+      "original_wording": "Portsmouth",
+      "role": "crossing_terminal",
+      "confidence": 0.95,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0167_L",
+      "excerpt": "Tues 14th 1995. We set off from Portsmouth for Birmingham at 4.40. pm.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 34,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Birmingham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0167_L",
+      "excerpt": "We set off from Portsmouth for Birmingham at 4.40. pm.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": null,
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0154_L",
+      "excerpt": "set off for Spain via Venetia & Southampton. ... The ferry left at 8 pm & got in at 7am on Thu. It was rather sickening. We motored to Castro Urdiales.",
+      "note": "Outbound ferry departed Southampton (not a key in ferries.json; key left null, name recorded verbatim). Arrival port not explicitly named; they 'motored to Castro Urdiales' after disembarking on the Cantabrian coast (Castro Urdiales lies between Bilbao and Santander). Likely Santander or Bilbao but unconfirmed - see unresolved/extraction_notes."
+    },
+    {
+      "after_seq": 32,
+      "route_key": "portsmouth-bilbao",
+      "kind": "ferry",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "A_0167_L",
+      "excerpt": "We reached Bilbao in time. There were long queues on the quai. ... We set off from Portsmouth for Birmingham at 4.40. pm.",
+      "note": "Return ferry: boarded at Bilbao, disembarked at Portsmouth. Both ports named in diary; matches the portsmouth-bilbao route."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 23,
+      "label": "Circular tour from La Alberca (Las Hurdes / Sierra de Francia)",
+      "date_guess": "1995-08-08",
+      "stops": [
+        {
+          "normalized_name": "Tamames, Salamanca, Spain",
+          "original_wording": "Tamames",
+          "confidence": 0.75,
+          "source_page_id": "A_0164_R",
+          "excerpt": "We decided to go on a circular tour. We shopped at Tamames, where there is a storks' nest + stork on the church.",
+          "geocode_hint": { "countrycodes": "es" }
+        },
+        {
+          "normalized_name": "Miranda del Castañar, Salamanca, Spain",
+          "original_wording": "Miranda",
+          "confidence": 0.65,
+          "source_page_id": "A_0164_R",
+          "excerpt": "We drove on to Miranda + had a delicious lunch. ... Overhanging balconies where you could touch across the alleys, one supported on pillars.",
+          "geocode_hint": { "countrycodes": "es" }
+        },
+        {
+          "normalized_name": "El Gasco, Las Hurdes, Cáceres, Spain",
+          "original_wording": "El Gaseo in Casthuerdo",
+          "confidence": 0.6,
+          "source_page_id": "A_0164_R",
+          "excerpt": "We went on to El Gaseo in Casthuerdo, very cut-off village. Poor people, but generous, they gave us tomatoes + pears. ... The houses cling to the cliff, some are round with big, irregular slates on the roof.",
+          "geocode_hint": { "countrycodes": "es" }
+        },
+        {
+          "normalized_name": "El Portillo pass, Las Hurdes, Spain",
+          "original_wording": "El Portillo",
+          "confidence": 0.6,
+          "approximate": true,
+          "source_page_id": "A_0164_R",
+          "excerpt": "We came home up hairpin bends to a pass El Portillo, amazing views. Horrific drops.",
+          "geocode_hint": { "countrycodes": "es" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Venetia / Venetia's",
+      "issue": "A person's home (relatives Olivia, George, Tilla, Archie) visited for tea en route to Southampton, not a clearly geocodable place name. Somewhere in southern England between Birmingham and Southampton; cannot pin a location.",
+      "source_page_id": "A_0154_L",
+      "excerpt": "set off for Spain via Venetia & Southampton ... We had tea at Venetia's, seeing Olivia, George, Tilla & Archie."
+    },
+    {
+      "original_wording": "Molinos",
+      "issue": "Brief church stop on the morning of Sun 12 Aug between Abejar and Vinuesa; several places named Molinos in Spain, exact one (likely Molinos de Duero, Soria) not certain.",
+      "source_page_id": "A_0166_R",
+      "excerpt": "As we got to Molinos to go to church, everyone was filing out. It was an upstairs room. ... On to Vinuesa."
+    },
+    {
+      "original_wording": "outbound Spanish arrival port",
+      "issue": "Outbound ferry from Southampton; arrival port on the Cantabrian coast is not named. They 'motored to Castro Urdiales' on landing. Most likely Santander or Bilbao; left unresolved rather than guessed.",
+      "source_page_id": "A_0154_L",
+      "excerpt": "The ferry left at 8 pm & got in at 7am on Thu. ... We motored to Castro Urdiales."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "issue": "Page A_0154_L (boundary_mixed) opens with an unrelated home entry 'Sunday July 2nd' about a Malvern concert before the trip proper begins at '11am Tuesday July 25th'. The trip start is the July 25th departure for Spain.",
+      "source_page_id": "A_0154_L"
+    },
+    {
+      "issue": "Page A_0167_R is a glued-in photograph captioned Vezelay (a French basilica) with no narrative; appears to be unrelated trailing matter, not a stop on this Spain/Portugal trip. Excluded from the route.",
+      "source_page_id": "A_0167_R"
+    }
+  ],
+  "summary": "In late July 1995 Simon, Eve and four sons (William was away in the USA) drove from Birmingham to Southampton and took a night ferry to northern Spain. They toured the Cantabrian coast and Picos de Europa (Castro Urdiales, Santillana del Mar, Covadonga), crossed via the Ponton Pass to Leon and the Sanabria area, then followed the pilgrim route through O Cebreiro and Portomarin to Santiago de Compostela and the Galician coast at Leis. After a loop into northern Portugal (Braga, Porto, Castro Daire) they returned to Spain through Ciudad Rodrigo, La Alberca, Salamanca, Tordesillas and the Soria/Rioja highlands, finishing at Najera before sailing Bilbao to Portsmouth and driving home, arriving 14 Aug 1995.",
+  "extraction_notes": "Year confirmed 1995: the page A_0167_L heading 'Tues 14th 1995' and the trip_id agree, and the weekdays in the headings (Tue 25 Jul, Fri 28 Jul, Sat 5 Aug, Mon 14 Aug) all match 1995; the iso years emitted by OCR (1989/1990) are wrong. The sketch on A_0157_L is a landscape skyline ('looking East across the Picos after crossing the pass at Ponton'), NOT a numbered route map, so it gives no route ordering - main route follows the dated narrative. Two map references appear ('See map near index' on A_0154_L; 'See map near inside' on A_0164_L/the BODEGAS DUENAS region map) but those map pages are not in this bundle. Outbound crossing departed Southampton (no ferries.json key; recorded with key null) and the Spanish arrival port is not named - flagged unresolved. Return crossing Bilbao to Portsmouth is fully named and mapped to route_key portsmouth-bilbao. Wed 8 Aug was an out-and-back circular day tour from the La Alberca base, recorded as an excursion (base_seq 23). William did not travel (in Colorado/Alaska)."
+}

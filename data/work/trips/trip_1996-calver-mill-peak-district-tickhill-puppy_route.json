@@ -1,0 +1,82 @@
+{
+  "trip_id": "1996-calver-mill-peak-district-tickhill-puppy",
+  "title": "Calver Mill (Peak District), Tickhill Puppy & Chatsworth",
+  "volume": "A",
+  "spread_range": ["A_0174", "A_0176"],
+  "diary_page_range": [174, 176],
+  "date_start": "1996-04-20",
+  "date_end": "1996-04-21",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Tickhill, South Yorkshire, UK",
+      "original_wording": "Tickhill near Doncaster",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0174_R",
+      "excerpt": "We arrived at Tickhill near Doncaster at 11.30. to see border terriers, puppies.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Calver Mill Campsite, Derbyshire, UK",
+      "original_wording": "Calver Mill",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0174_R",
+      "excerpt": "On through Doncaster to __Calver Mill__. It is a pleasant campsite, sheltered by hills in a dell with a raised canal alongside running to an old textile mill.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Calver, Derbyshire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Day trip to Chatsworth",
+      "date_guess": "1996-04-21",
+      "stops": [
+        {
+          "normalized_name": "Chatsworth House, Derbyshire, UK",
+          "original_wording": "Chatsworth",
+          "confidence": 0.95,
+          "source_page_id": "A_0176_R",
+          "excerpt": "When we arrived at __Chatsworth__ we went to look at the Cascades.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: true — the diary entry cuts off mid-sentence on A_0176_R; the remainder of Sunday at Chatsworth and the return journey are not recorded."
+  ],
+  "summary": "A spring weekend trip from Birmingham to Calver Mill campsite in the Peak District, with a detour via Tickhill (near Doncaster) to look at border terrier puppies. The following day the family made a day trip to Chatsworth House before returning home.",
+  "extraction_notes": "Only Simon, Eve, Peter, John and Charles are named as travellers; Thomas and William are absent from the diary. Two non-family guests travelled: Daniela Fischer (au pair) and Lawrence Basset (Peter's French exchange student). The diary entry cuts off on A_0176_R mid-sentence (mixed_end: true), so Chatsworth details and the return home are incomplete. The '[?Caunor] campsite' text on A_0176_L is Charles' childish spelling of 'Calver' (the same campsite) and does not represent a separate stop. Date confirmed: 'Sat Apl 20' matches Saturday 20 April 1996."
+}

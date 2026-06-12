@@ -1,0 +1,171 @@
+{
+  "trip_id": "1994-brecon-beacons-family-weekend-blaensan-ystradfellte",
+  "title": "Brecon Beacons family weekend: Blaensan, Ystradfellte & Tretower",
+  "volume": "A",
+  "spread_range": ["A_0126", "A_0129"],
+  "diary_page_range": [42, 42],
+  "date_start": "1994-05-27",
+  "date_end": "1994-05-31",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Blaensan, Brecon Beacons, Wales",
+      "original_wording": "Blaensan",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": true,
+      "source_page_id": "A_0126_L",
+      "excerpt": "At 7.20. we try a new Welsh campsite __Blaensan__ [?annotated]. Well-sheltered by trees. A Victorian farmhouse with [?loo] for campers.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Cwm Llwch, Brecon Beacons, Wales",
+      "original_wording": "Cwm Llwch",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0129_L",
+      "excerpt": "We set off to see __Cwm Llwch__. lovely place to camp at car park. The house was locked.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Brecon, Wales",
+      "original_wording": "Brecon",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0129_L",
+      "excerpt": "Drove on through __Brecon__ to __Bwlch__.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Bwlch, Powys, Wales",
+      "original_wording": "Bwlch",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0129_L",
+      "excerpt": "Drove on through __Brecon__ to __Bwlch__. We took Joan Clarke out to lunch.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Tretower Court and Castle, Powys, Wales",
+      "original_wording": "Tretower",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "A_0129_L",
+      "excerpt": "We left her to go down into the valley to see __Tretower__ castle & fortified manor house. We had 45 min head sets. Lots of garderobes. lovely cosy rooms.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday walk to the Brecon Beacons Mountain Centre",
+      "date_guess": "1994-05-28",
+      "stops": [
+        {
+          "normalized_name": "Brecon Beacons National Park Mountain Centre, Libanus",
+          "original_wording": "Mountain Centre",
+          "confidence": 0.9,
+          "source_page_id": "A_0126_L",
+          "excerpt": "Sat Simon, Eve, Thomas, Peter, John, Charles, walk 1½ miles to the Mountain Centre. It's very cold & damp.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sunday drive over the pass to Porth-yr-Ogof caves and the Blue Pool",
+      "date_guess": "1994-05-29",
+      "stops": [
+        {
+          "normalized_name": "Porth-yr-Ogof, Ystradfellte",
+          "original_wording": "Porth-yr-Ogof",
+          "confidence": 0.9,
+          "source_page_id": "A_0126_R",
+          "excerpt": "we followed Simon's map along the road & footpath 1½ miles to caves. __Porth-yr-Ogof__. ... We saw the cave again & potholers jumping off rocks",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Blue Pool, Porth-yr-Ogof, Ystradfellte",
+          "original_wording": "Blue Pool",
+          "confidence": 0.8,
+          "source_page_id": "A_0126_R",
+          "excerpt": "We went on to see the Blue Pool, where the water comes up. It's surrounded by steep, smooth rocks",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Monday circular walk to the Mountain Centre",
+      "date_guess": "1994-05-30",
+      "stops": [
+        {
+          "normalized_name": "Brecon Beacons National Park Mountain Centre, Libanus",
+          "original_wording": "Mountain Centre",
+          "confidence": 0.85,
+          "source_page_id": "A_0128_R",
+          "excerpt": "Simon, Eve, Thomas, John & Charles set off on a circuitous route to the Mountain Centre. ... At the Mountain Centre we met up with Peter & had delicious icecreams.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Poltern",
+      "issue": "Place name uncertain and not geographically resolvable; the family set off from home at 3.45 'for Poltern to pick up Thomas' before reaching the Blaensan campsite at 7.20, so it is a transit/pickup stop somewhere between Birmingham and the Brecon Beacons, but the spelling cannot be matched to a confident location.",
+      "source_page_id": "A_0126_L",
+      "excerpt": "Simon, Eve, William, Peter, John, Charles, Justin, Buttor & Chris, au pair set off at 3.45. for Poltern to pick up Thomas.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "original_wording": "[?Storod][?Silte]",
+      "issue": "Uncertain transcription of the Sunday destination reached by driving 'over a steep pass'; almost certainly the Ystradfellte / Porth-yr-Ogof area (where the caves and Blue Pool visited that day are located), but the written form is illegible. Folded into the Sunday excursion via Porth-yr-Ogof; not listed as a separate stop.",
+      "source_page_id": "A_0126_R",
+      "excerpt": "We all piled into the van & drove over a steep pass to [?Storod][?Silte].",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "A_0126_L",
+      "issue": "mixed_start: page opens with a 'Saturday May 7' entry from the PREVIOUS trip (Saltash Bridge / a wooden mill & museum at [?Ofculme] / Dartington Cider Press, returning home 'up the I75' — a Devon/Cornwall trip). This trip proper begins at the 'Friday May 27th' heading. Saltash Bridge, Ofculme and Dartington Cider Press are excluded from this trip's route."
+    }
+  ],
+  "summary": "A late-May 1994 Whitsun bank-holiday weekend (Fri 27 to Tue 31 May) at a newly tried Welsh farm campsite, Blaensan, in the Brecon Beacons, with grandparents, an au pair and friends joining. From the fixed base the family walked to the Brecon Beacons Mountain Centre, drove over a pass to the Porth-yr-Ogof caves and Blue Pool at Ystradfellte, and on the departure day (Tuesday) saw Cwm Llwch and drove through Brecon and Bwlch (lunch with Joan Clarke) to Tretower Court and Castle before heading home to Birmingham.",
+  "extraction_notes": "Sketch page A_0129_L holds two illustrative drawings, not a numbered route diagram: a Pen-y-Fan / Brecon Beacons mountain silhouette captioned 'from near our campsite' (a view, so Pen-y-Fan is NOT recorded as a visited stop) and a window arch of Tretower Manor. The Tuesday departure order (Cwm Llwch -> Brecon -> Bwlch -> Tretower) is taken from the narrative on the same sketch page. Pages A_0127 and A_0128 are near-duplicate transcriptions of the same Sunday/Monday spread (food log + cricket/Mountain-Centre narrative); cited each only once. The campsite 'Blaensan' is marked approximate (a small Welsh farm near the Mountain Centre at Libanus, exact coordinates uncertain). 'Poltern' (Thomas pickup) and the Sunday pass name '[?Storod][?Silte]' are illegible/unresolvable and recorded under unresolved. No sea/tunnel crossings: this is an all-Wales/England (GB) road trip. The return-home leg is not explicitly narrated (the diary ends at Tretower) but is assumed per the standard start/end-at-home rule, hence the lower confidence on the closing home stop."
+}

@@ -1,0 +1,96 @@
+{
+  "trip_id": "1994-malvern-weekend-shuttlefast-farm",
+  "title": "Malvern Weekend – Shuttlefast Farm",
+  "volume": "A",
+  "spread_range": ["A_0129", "A_0129"],
+  "diary_page_range": [43, 43],
+  "date_start": "1994-07-01",
+  "date_end": "1994-07-02",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Birmingham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0129_R",
+      "excerpt": "Simon, Eve, William, Peter, John & Charles set off to Malvern for the weekend.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Redditch, UK",
+      "original_wording": "Redditch",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0129_R",
+      "excerpt": "We camped at Shuttlefast Farm after a detour via Redditch because of game on the motorway.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Shuttlefast Farm, near Malvern, UK",
+      "original_wording": "Shuttlefast Farm",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0129_R",
+      "excerpt": "We camped at Shuttlefast Farm after a detour via Redditch because of game on the motorway.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Malvern, Worcestershire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Day visit to Malvern – Wimbledon watching, cricket, Murtagh lunch",
+      "date_guess": "1994-07-02",
+      "stops": [
+        {
+          "normalized_name": "Great Malvern, UK",
+          "original_wording": "Malvern",
+          "confidence": 0.95,
+          "source_page_id": "A_0129_R",
+          "excerpt": "We set off back to Malvern + invited [?Reg Jarres] to have lunch with us the next day. Simon + William has had lunch with Murtagh. Eve has a drink + went out to the van to give Peter + John + Charles lunch. Simon toured around to watch cricket with the boys while Eve watched Martina beat Navratilova.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Blackinn]",
+      "issue": "Possible campsite or farm near Malvern considered as alternative next time; exact location unknown – possibly 'Black Inn' in Worcestershire/Herefordshire area.",
+      "source_page_id": "A_0129_R",
+      "excerpt": "We had looked at [?Blackinn] earlier in the day - may camp there next time."
+    },
+    {
+      "original_wording": "[?Reg Jarres]",
+      "issue": "Person invited to lunch; name uncertain from transcription – not a place, recorded for completeness.",
+      "source_page_id": "A_0129_R",
+      "excerpt": "invited [?Reg Jarres] to have lunch with us the next day"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0129 begins mid-page with a different trip entry (June 25th Stourbridge outing); Malvern weekend entries start at 'July 1st Friday'.",
+    "mixed_end: page A_0129 ends this trip; subsequent trip content may follow on next page."
+  ],
+  "summary": "A short family weekend in July 1994: Simon, Eve, William, Peter, John and Charles drove from Birmingham to camp at Shuttlefast Farm near Malvern, detouring via Redditch to avoid motorway traffic. On Saturday they visited Malvern town, watched cricket and Wimbledon, and Thomas joined the family in the evening before all returning to the campsite.",
+  "extraction_notes": "Page A_0129_R is boundary-mixed. The June 25th entry (Wolverhampton camping shop / Stourbridge park) belongs to a different trip and has been excluded. Thomas is not listed in the July 1st departure but arrives on the Saturday evening, so he is included in travellers. 'Murtagh' appears to be a person visited in Malvern (not a place). 'Reg Jarres' is a person, name uncertain. 'Blackinn' is an unresolved place name – possibly a local campsite scouted as an alternative. Shuttlefast Farm is not in standard gazetteers; geocoding may require approximate placement near Great Malvern, Worcestershire."
+}

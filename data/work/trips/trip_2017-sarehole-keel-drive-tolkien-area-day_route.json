@@ -1,0 +1,55 @@
+{
+  "trip_id": "2017-sarehole-keel-drive-tolkien-area-day",
+  "title": "Sarehole / Keel Drive (Tolkien area, day out)",
+  "volume": "B",
+  "spread_range": ["B_0276", "B_0276"],
+  "diary_page_range": [96, 96],
+  "date_start": "2017-04-09",
+  "date_end": "2017-04-09",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Betty", "Walter", "Olive", "Paola"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Sarehole Mill, Hall Green, Birmingham, UK",
+      "original_wording": "Rosie's Rd, Keel Drive, next to a field. Near Sarehole Mill.",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0276_R",
+      "excerpt": "We drove to Tolkein's area & parked outside Rosie's Rd, Keel Drive, next to a field. A lovely afternoon, the children climbing up sloping tree trunks. Near Sarehole Mill.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Birmingham" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "Page B_0276_R is marked mixed_start=true; the April 9th entry shares the page with a later April 22nd entry that belongs to a different outing. Only the April 9th content is included here."
+  ],
+  "summary": "A Palm Sunday day trip on 9 April 2017 to Tolkien's childhood area in south Birmingham — the family parked on Keel Drive near Sarehole Mill and spent a lovely afternoon with Betty, Walter, Olive and au pair Paola, the children climbing sloping tree trunks. Thomas and Naomi were separately climbing Ben Nevis that day.",
+  "extraction_notes": "This is a same-day outing entirely within Birmingham. The diary names 'Rosie's Rd' and 'Keel Drive' as the parking spot, with Sarehole Mill cited as nearby — all in the Hall Green district of Birmingham, Tolkien's childhood neighbourhood. Ben Nevis is mentioned only as where Thomas & Naomi went and is NOT a stop on this trip. The April 22nd content on the same page (Green Man, Bristol, Cardiff references) belongs to a separate outing and is excluded. Core family members not listed as travellers here since the diary describes this as an outing with friends/extended family (Betty, Walter, Olive, Paola); Simon and Eve are the diary writers and presumed present."
+}

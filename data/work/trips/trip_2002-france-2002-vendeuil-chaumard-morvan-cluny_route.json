@@ -1,0 +1,131 @@
+{
+  "trip_id": "2002-france-2002-vendeuil-chaumard-morvan-cluny",
+  "title": "France 2002: Vendeuil, Chaumard, Morvan & Cluny",
+  "volume": "A",
+  "spread_range": ["A_0316", "A_0316"],
+  "diary_page_range": [null, null],
+  "date_start": "2002-07-29",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Peter"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0316_L",
+      "excerpt": "Two days after arriving back from Thorperness we have left for France. Simon, Eve, John, Charles.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dover",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.55,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no port named in available diary text",
+      "source_page_id": "A_0316_L",
+      "excerpt": "Two days after arriving back from Thorperness we have left for France.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Calais, France",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.55,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no port named in available diary text",
+      "source_page_id": "A_0316_L",
+      "excerpt": "Two days after arriving back from Thorperness we have left for France.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Vendeuil-Caply, France",
+      "original_wording": "Vendeuil",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "fr" },
+      "note": "Named in trip title only; diary pages for this trip beyond the boundary page are not transcribed. Vendeuil-Caply (Oise) is a well-known stopover campsite on the Calais-Burgundy route."
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Chaumard, France",
+      "original_wording": "Chaumard",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "fr" },
+      "note": "Named in trip title only; Chaumard is a village in the Morvan (Nièvre), near Lac de Pannecière — consistent with the trip title pairing of Chaumard and Morvan."
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Cluny, France",
+      "original_wording": "Cluny",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "fr" },
+      "note": "Named in trip title only; Cluny (Saône-et-Loire) is the famous Burgundian abbey town, consistent with a Morvan-area trip."
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "A_0316_L",
+      "excerpt": "Two days after arriving back from Thorperness we have left for France."
+    }
+  ],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Lyons",
+      "issue": "Peter is said to fly to Lyons (Lyon) — it is unclear whether Lyon was a visit/stop for the main party or only Peter's arrival point. The main party presumably drove; no Lyon stop is confirmed in the available diary text.",
+      "source_page_id": "A_0316_L",
+      "excerpt": "Peter will fly to Lyons next"
+    },
+    {
+      "original_wording": "Morvan",
+      "issue": "Morvan appears in the trip title as a distinct entry alongside Chaumard. It may refer to the Morvan regional park generally (in which case Chaumard IS the Morvan stop) or to a separate location within the Morvan. Cannot distinguish without the missing diary pages.",
+      "source_page_id": null,
+      "excerpt": null
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: this trip's opening is on a boundary page shared with the preceding entry",
+    "mixed_end: end boundary not determined — diary pages beyond A_0316 are not included in the source bundle",
+    "Only the departure sentence is transcribed; all subsequent stops derive from the trip title_guess only"
+  ],
+  "summary": "In late July 2002 Simon, Eve, John, Charles (and Peter joining by air) drove to France for a Burgundy-area camping trip taking in Vendeuil-Caply (likely a transit overnight), the Morvan village of Chaumard, and the abbey town of Cluny. The diary pages covering the trip itself were not available in this bundle; stop details are inferred from the trip title only.",
+  "extraction_notes": "Only one boundary page (A_0316_L) was supplied, capturing only the departure sentence for this trip. The spread_range [A_0316, A_0316] and mixed_start/mixed_end flags confirm the diary pages proper are outside this bundle. All stops except home and the crossing are sourced from the title_guess alone (confidence capped at 0.6). Vendeuil: interpreted as Vendeuil-Caply (Oise), a well-known campsite stop on the Calais-south route — but could be another Vendeuil; flag for verification when full pages become available. Morvan may be a separate stop or simply the regional description of the Chaumard base. Peter flying to Lyon may indicate the family also visited Lyon, but this cannot be confirmed. Date_end is unknown; date_guess of 2002-07 from the bundle header suggests a July trip."
+}

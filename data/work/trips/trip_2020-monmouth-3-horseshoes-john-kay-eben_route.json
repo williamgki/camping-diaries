@@ -1,0 +1,67 @@
+{
+  "trip_id": "2020-monmouth-3-horseshoes-john-kay-eben",
+  "title": "Monmouth: 3 Horseshoes, John & Kay & Eben (Symonds Yat)",
+  "volume": "B",
+  "spread_range": ["B_0339", "B_0339"],
+  "diary_page_range": null,
+  "date_start": "2020-09-27",
+  "date_end": "2020-09-27",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Monmouth, Wales",
+      "original_wording": "Monmouth",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0339_L",
+      "excerpt": "We met John, Kay + Eben at the 3 Horseshoes. Lovely sunshine. Pub lunch. Simon road Eben a book on Quantum Mechanics. Back to their house for a cup of tea + chat.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Symonds Yat, Herefordshire",
+      "original_wording": "Symonds Yat",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0339_L",
+      "excerpt": "Then home, via a pretty field with a view of Symonds Yat.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0339_L",
+      "excerpt": "Then home, via a pretty field with a view of Symonds Yat.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page B_0339 contains entries from multiple trips; the September 27th entry is this trip",
+    "mixed_end: same page contains an unrelated October 4th entry"
+  ],
+  "summary": "A single-day outing on 27 September 2020 from Birmingham to Monmouth, where Simon and Eve (with Tinder) met John, Kay and Eben at the 3 Horseshoes pub for a pub lunch and then visited John and Kay's house for tea. The return journey home passed via a field with a view of Symonds Yat.",
+  "extraction_notes": "This is a domestic UK day trip with no overnight stay. The page (B_0339_L) contains several diary entries from different dates: 8 Sept (return to the farm), 12 Sept (return from farm), 27 Sept (this trip to Monmouth), and 4 Oct (moving furniture to the farm). Only the 27 Sept entry belongs to this trip. Peter is mentioned as taking furniture to London but this is a separate matter on the same page, not part of this trip. Tinder the dog is not explicitly mentioned in the 27 Sept entry but is a regular traveller; only Simon and Eve are named as going to John's on 27 Sept."
+}

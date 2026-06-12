@@ -1,0 +1,131 @@
+{
+  "trip_id": "2001-bath-bath-marina-bristol-cycle-path",
+  "title": "Bath: Bath Marina & Bristol Cycle Path",
+  "volume": "A",
+  "spread_range": ["A_0290", "A_0292"],
+  "diary_page_range": [null, null],
+  "date_start": "2001-05-04",
+  "date_end": "2001-05-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bath Marina, Bath, UK",
+      "original_wording": "Bath Marina",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0290_R",
+      "excerpt": "Simon, Charles, Eve + Tonic left with our 3 bikes (Simon's + Eve's new collapsible bikes) for Bath; we want to go on the Bath/Bristol cycle path.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Bath" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Cycle ride to Bitton railway station (Bath/Bristol cycle path)",
+      "date_guess": "2001-05-05",
+      "stops": [
+        {
+          "normalized_name": "Bitton Railway Station, Bitton, UK",
+          "original_wording": "Bitton railway station",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "A_0290_R",
+          "excerpt": "We cycled to Bitton railway station, where they have steam trains. It was 11 miles around trip.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Simon & Charles cycle into Bath to scout bike parking",
+      "date_guess": "2001-05-05",
+      "stops": [
+        {
+          "normalized_name": "Bath, UK",
+          "original_wording": "Bath",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0290_R",
+          "excerpt": "In the afternoon Simon + Charles + Tonic set off to Bath to see where to tie up bikes the next day.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Bus trip into Bath: museums, Abbey, Sally Lunn",
+      "date_guess": "2001-05-06",
+      "stops": [
+        {
+          "normalized_name": "William Herschel Museum, Bath, UK",
+          "original_wording": "William Herschel Museum",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0291_L",
+          "excerpt": "We saw the William Herschel Museum in a small Georgian town house. He lived with his sister, Caroline, who was also an astronomer.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Bath" }
+        },
+        {
+          "normalized_name": "Micromuseum, Bath, UK",
+          "original_wording": "Micromuseum",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0291_R",
+          "excerpt": "Then we saw the Micromuseum where there are tiny sculptures by Willard [illegible] Adams & Eve carved into a pencil point & the statue of Liberty in the eye of a needle, viewed through magnifying glasses.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Bath" }
+        },
+        {
+          "normalized_name": "Bath Abbey, Bath, UK",
+          "original_wording": "Bath Abbey",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0291_R",
+          "excerpt": "We had a cup of tea & looked at Bath Abbey. Nice embroidered Plaques show links to West Indies. Pale stone.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Bath" }
+        },
+        {
+          "normalized_name": "Sally Lunn's Historic Eating House, Bath, UK",
+          "original_wording": "Sally Lunn",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0292_L",
+          "excerpt": "trencher supper at Sally Lunn on a Sally Lunn bun. The basement shows floor levels from Roman times.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Bath" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_end: page A_0292_L is shared with the next trip; the diary text ends mid-sentence ('Simon') and the remaining content belongs to the following trip"
+  ],
+  "summary": "A May bank holiday weekend trip for Simon, Eve, Charles and dog Tonic to Bath Marina campsite, using the Bath/Bristol cycle path. They cycled 11 miles to Bitton railway station on Saturday, and on Sunday took the bus into Bath to visit the William Herschel Museum, a Micromuseum, Bath Abbey, and Sally Lunn's historic eating house.",
+  "extraction_notes": "Only three family members attended (Simon, Eve, Charles); no ferry or border crossings — entirely UK. The end boundary is mixed (A_0292_L), with the text cutting off mid-sentence; remainder of that page belongs to the next trip. The Bristol cycle path is the motivation/route cycled rather than a named stop. The 'Tonic' mentioned in the diary is the dog (also called 'Tinder' elsewhere in the family context; here named Tonic throughout). Date_end is inferred as 2001-05-06 from the 'May 6th' heading; return to Birmingham is not narrated but assumed per standard trip pattern."
+}

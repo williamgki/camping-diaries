@@ -1,0 +1,335 @@
+{
+  "trip_id": "2013-france-picardy-burgundy-st-quentin-montbard",
+  "title": "France: Picardy & Burgundy (St Quentin, Montbard, Provins)",
+  "volume": "B",
+  "spread_range": ["B_0217", "B_0223"],
+  "diary_page_range": [37, 43],
+  "date_start": "2013-08-06",
+  "date_end": "2013-08-17",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0217_L",
+      "excerpt": "10 we left home + dropped Tinder off at kennels.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Folkestone (Eurotunnel), UK",
+      "original_wording": "Channel Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0217_L",
+      "excerpt": "The trafic + cars in the waiting area at the Channel Tunnel were lighter than usual.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Humancourt, France",
+      "original_wording": "[?Humancourt]",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "B_0217_L",
+      "excerpt": "We camped next to a lake in a residential camp site, without paying at [?Humancourt] between [?Arras] + Cambrai.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Saint-Quentin, Aisne, France",
+      "original_wording": "St. Quentin",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0217_R",
+      "excerpt": "raining during our trip on to St. Quentin. We visited the wrong big church first + then found the Basilica.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "La Barbuise, near Troyes, France",
+      "original_wording": "la Barbuise Campsite",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0218_L",
+      "excerpt": "After leaving St. Quentin, Simon found a headlight was not working. We drove on to la Barbuise Campsite (where we had stayed many years before) & had a walk over chalk fields! Near Troyes.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Troyes, France",
+      "original_wording": "Troyes",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0218_L",
+      "excerpt": "At Troyes we went to an Auchan shops, OK but a bit down market. We bought a la Reine pizza for lunch which was good, then carried on to Les Treilles Campsite Montbard.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Montbard, Côte-d'Or, France",
+      "original_wording": "Les Treilles Campsite Montbard",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0218_L",
+      "excerpt": "carried on to Les Treilles Campsite Montbard. Charles & Jenny arrived at 4 pm, so we had more tea & put up the tent. It's a good campsite - town & shops, restaurant & bike trail (Canal de Bourgogne) & free swimming.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Abbaye de Fontenay, Marmagne, France",
+      "original_wording": "Abbey de Fontenay",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0219_R",
+      "excerpt": "We packed up & drove to Abbey de Fontenay. It's one of the best places I've seen. Now lived in by the Montgolfier (Balloon descendants) family.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Sainte-Marie-sur-Ouche, France",
+      "original_wording": "Ste Marie sur l'Ouche",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0220_L",
+      "excerpt": "We arrived at Ste Marie sur l'Ouche & hung the washing & it dried. The weather is now warmer & it's not threatening rain.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Gouaix, France",
+      "original_wording": "Hermes Loisirs / 'La Fontaine' at Gouaix",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0220_R",
+      "excerpt": "We reached an unusual campsite, a bit like Center Parks, around gravel pits, Hermes Loisirs also 'La Fontaine' at Gouaix. There's a bar & one of the pits is a swimming pool.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Provins, France",
+      "original_wording": "Provins",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0221_L",
+      "excerpt": "We drove on to Provins. It's only an hour's drive from Paris... an old Mediaeval town, very pretty... walked up the hill to Caesar's Tower.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Bourg-et-Comin, Aisne, France",
+      "original_wording": "Bourget Commin",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "B_0221_R",
+      "excerpt": "We continued north thru Reims to Bourget Commin. The campsite has a small indoor swimming pool + is friendly.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Reims, France",
+      "original_wording": "Reims",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0221_R",
+      "excerpt": "We continued north thru Reims to Bourget Commin.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Abbeville, France",
+      "original_wording": "Abbeville",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0222_L",
+      "excerpt": "At about 2 pm we stopped at Abbeville, outside the old address of au pair Florence. Her mother invited us in.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Noyelles-sur-Mer, France",
+      "original_wording": "Aire Haies de Novelles / Novelles",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0222_R",
+      "excerpt": "booked us into her cousin's campsite at Novelles. We reached the campsite & found a Chinese WW I Cemetry right next to it... Aire Haies de Novelles *** very clean loos but unisex.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Guines, Pas-de-Calais, France",
+      "original_wording": "La Petite Source (Guines)",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0223_L",
+      "excerpt": "We set off towards Calais. The first campsite we found at Bien Assisse in Guines was full. They sent us on to La Petite Source ***",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Coquelles (Eurotunnel), France",
+      "original_wording": "the booking-in place",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0223_R",
+      "excerpt": "It took only 12 mins to the booking-in place + we caught a train 2 before our booked one.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Folkestone (Eurotunnel), UK",
+      "original_wording": "caught a train",
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0223_R",
+      "excerpt": "we caught a train 2 before our booked one. We motored up to Bucks.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Watlington, Oxfordshire, UK",
+      "original_wording": "White Mark Farm, Watlington",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0223_R",
+      "excerpt": "We motored up to Bucks. We lunched + walked down a path onto a common. White Mark Farm (no. 82) Watlington (near care home) we looked at this good campsite for staying with William + Joseph in the autumn.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0223_R",
+      "excerpt": "We packed up + switched off the gas + left with no rush... We motored up to Bucks.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0217_L",
+      "excerpt": "The trafic + cars in the waiting area at the Channel Tunnel were lighter than usual."
+    },
+    {
+      "after_seq": 17,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": false,
+      "inferred": true,
+      "inference_reason": "Return crossing: diary describes 'the booking-in place' and catching 'a train', i.e. the Eurotunnel shuttle, matching the outbound Channel Tunnel crossing; no port re-named.",
+      "source_page_id": "B_0223_R",
+      "excerpt": "It took only 12 mins to the booking-in place + we caught a train 2 before our booked one."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 7,
+      "label": "Bike ride along the Canal de Bourgogne to the Forge de Buffon and Nuits-sous-Ravières",
+      "date_guess": "2013-08-09",
+      "stops": [
+        {
+          "normalized_name": "Grande Forge de Buffon, France",
+          "original_wording": "Buffon / La forge de Buffon",
+          "confidence": 0.9,
+          "source_page_id": "B_0218_R",
+          "excerpt": "along the Canal & went to Buffon to see the Forge, about 1760, started by Buffon when he was 60.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Nuits-sous-Ravières, France",
+          "original_wording": "Nuits sous Ravières",
+          "confidence": 0.85,
+          "source_page_id": "B_0219_L",
+          "excerpt": "We cycled on to Nuits sous Ravières, where we waited 30 min for a train back to Montbard. 17 miles",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 9,
+      "label": "Cycle along the Canal de Bourgogne to Écluse de Pont-de-Pany (lunch at Bryony's)",
+      "date_guess": "2013-08-11",
+      "stops": [
+        {
+          "normalized_name": "Pont-de-Pany, France",
+          "original_wording": "Eclus Pont de Pany",
+          "confidence": 0.8,
+          "source_page_id": "B_0220_L",
+          "excerpt": "We cycled 27 miles, along the Canal de Bourgogne away from Dijon to Eclus Pont de Pany. We had lunch at Bryony's.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Cycle to Le Crotoy (lunch at Modo Modo)",
+      "date_guess": "2013-08-16",
+      "stops": [
+        {
+          "normalized_name": "Le Crotoy, France",
+          "original_wording": "Le Crotoy",
+          "confidence": 0.85,
+          "source_page_id": "B_0222_R",
+          "excerpt": "We went to get a map at the station, cycled to Le Crotoy... We ate at Modo Modo. Very good food but slow service.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Humancourt]",
+      "issue": "First-night campsite name uncertain and not confidently geocodable; placed 'between Arras and Cambrai' (Nord/Pas-de-Calais). No matching commune named exactly 'Humancourt' is confirmed; representative point only.",
+      "source_page_id": "B_0217_L",
+      "excerpt": "We camped next to a lake in a residential camp site, without paying at [?Humancourt] between [?Arras] + Cambrai."
+    },
+    {
+      "original_wording": "Paia",
+      "issue": "Place name unresolved; mentioned only as a possible side-trip for Jenny & Charles, who travelled separately ('They maybe going to visit Paia'). Not visited by the diarist; could be a mis-transcription (possibly Paris area). Not a stop on this trip's route.",
+      "source_page_id": "B_0220_L",
+      "excerpt": "We set off before Jenny & Charles. They maybe going to visit Paia."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "B_0217_L",
+      "issue": "Page is boundary_mixed: it opens with the close of a PREVIOUS trip (Wales: Swan Hotel, Glad Mountain Gliding Club, Abergavenny, Raglan Castle, 'Then on to home'). This France trip begins only at the heading 'Tuesday [?7/6]th August' with '10 we left home + dropped Tinder off at kennels.' The Wales places are NOT part of this route."
+    }
+  ],
+  "summary": "In August 2013 Simon and Eve drove from Birmingham via the Channel Tunnel (Eurotunnel) into northern France, camping the first night near a lake between Arras and Cambrai before visiting St Quentin and heading south through Troyes to a fixed base at Montbard in Burgundy, where they met Charles and Jenny and cycled the Canal de Bourgogne to the Forge de Buffon and the Abbaye de Fontenay. They worked their way back north via Sainte-Marie-sur-Ouche, Gouaix, the medieval town of Provins, a campsite at Bourg-et-Comin near Reims, Noyelles-sur-Mer and Le Crotoy on the Somme bay, and a final night near Calais, before returning through the tunnel and home via Watlington.",
+  "extraction_notes": "Crossing is the Eurotunnel shuttle, explicitly named 'Channel Tunnel' outbound, so folkestone-coquelles (kind=tunnel), not a Dover-Calais ferry. Return crossing inferred as the same tunnel route from 'the booking-in place' and 'caught a train'. Travellers list restricted to Simon and Eve: the narrative is first-person by Eve travelling with Simon in the van; Charles and Jenny joined as a separate party at Montbard (their own tent/van) and split off again before Provins, so they are not the core trip travellers. No sons are named as present. Dates: outbound Tuesday 6 Aug (since 'Wednesday 7th August' follows), return Saturday 17 Aug 2013 (dated). Day-trips that returned to the same base are recorded as excursions (Buffon/Nuits-sous-Ravières and Pont-de-Pany from Montbard/Ste-Marie; Le Crotoy from Noyelles). Abbaye de Fontenay was visited en route while leaving Montbard, so it is a main_stop, not an excursion. Place-name resolutions: 'Bourget Commin' -> Bourg-et-Comin (Aisne, near Reims); 'Novelles' -> Noyelles-sur-Mer (Somme; site of the Chinese Labour Corps / Nolette WWI cemetery described); 'la Barbuise' -> campsite near Troyes; 'Eclus Pont de Pany' -> Pont-de-Pany on the Canal de Bourgogne. Watlington (White Mark Farm) is in Oxfordshire although the diary says 'motored up to Bucks'."
+}

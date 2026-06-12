@@ -1,0 +1,103 @@
+{
+  "trip_id": "1995-bromyard-kate-jamie-s-farm-farnham",
+  "title": "Bromyard / Kate & Jamie's Farm; Farnham & Hartley Wintney Christening",
+  "volume": "A",
+  "spread_range": ["A_0170", "A_0170"],
+  "diary_page_range": [170, 170],
+  "date_start": "1995-08-31",
+  "date_end": "1995-09-09",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bromyard, Herefordshire, UK",
+      "original_wording": "Bromyard, Kate & Jamie's farm",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0170_R",
+      "excerpt": "Simon & Eve, Thomas 15, William 13, John 8, Charles 6, left for Bromyard, Kate & Jamie's farm.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Beauchamp College, Oadby, Leicestershire, UK",
+      "original_wording": "Beauchamp",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "A_0170_R",
+      "excerpt": "We left for Beauchamp at 1.0.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "note": "Implied return home between the Bromyard farm visit (ending c. 2 Sep) and the 9 Sep christening departure; mixed_end flag on page suggests boundary here.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Hartley Wintney, Hampshire, UK",
+      "original_wording": "Farnham & Hartley Wintney christening",
+      "role": "overnight_base",
+      "confidence": 0.65,
+      "approximate": true,
+      "source_page_id": "A_0170_R",
+      "excerpt": "Simon, Eve, Peter, John & Charles left for Charity's (Hatty's) christening at about 5.15.",
+      "note": "Title names both Farnham and Hartley Wintney as the christening destination; Hartley Wintney (Hampshire) used as primary anchor; Farnham (Surrey) is nearby. Exact venue not stated in diary.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Beauchamp",
+      "issue": "Context strongly suggests Beauchamp College, Oadby (Peter's school), but this is inferred from the fact that Peter was already 'at Beauchamp' while the others went to Bromyard. Could theoretically be another Beauchamp location.",
+      "source_page_id": "A_0170_R",
+      "excerpt": "Peter at Beauchamp ... We left for Beauchamp at 1.0."
+    },
+    {
+      "original_wording": "Farnham & Hartley Wintney",
+      "issue": "Title names both Farnham (Surrey) and Hartley Wintney (Hampshire) together. The diary entry only says 'left for Charity's (Hatty's) christening' with no explicit place name. The exact church or venue is unknown; Hartley Wintney used as stop anchor.",
+      "source_page_id": "A_0170_R",
+      "excerpt": "Simon, Eve, Peter, John & Charles left for Charity's (Hatty's) christening at about 5.15."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: the page A_0170_R carries mixed_end=true; the Saturday 9 Sep christening entry may straddle the boundary with a subsequent trip."
+  ],
+  "summary": "A late-summer 1995 UK trip comprising two related legs: first, most of the family drove to Kate and Jamie's farm near Bromyard in Herefordshire (31 Aug) for several days of outdoor activities and tennis, then returned via Beauchamp College (where Peter was at school); a week later (9 Sep), Simon, Eve, Peter, John and Charles made a separate day or overnight trip to attend Charity (Hatty)'s christening in the Farnham / Hartley Wintney area of Hampshire and Surrey.",
+  "extraction_notes": "Single diary page covering two distinct outings separated by about a week. No index entry provided. Peter was not on the Bromyard leg (already at school at Beauchamp); Thomas and William are not mentioned in the 9 Sep christening departure. The mixed_end flag on A_0170_R means the page boundary may not be clean. No crossings — entire trip within England. Confidence on Beauchamp (seq 3) and Hartley Wintney (seq 5) is moderate because neither is named explicitly as the destination in the day-by-day narrative — both rely on the trip title and contextual inference."
+}

@@ -1,0 +1,138 @@
+{
+  "trip_id": "2020-cotswolds-burford-bourton-on-the-water",
+  "title": "Cotswolds: Burford & Bourton-on-the-Water (first trip after lockdown)",
+  "volume": "B",
+  "spread_range": ["B_0336", "B_0337"],
+  "diary_page_range": [null, null],
+  "date_start": "2020-07-04",
+  "date_end": "2020-07-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Arrington", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Oxford, UK",
+      "original_wording": "Oxford",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0336_R",
+      "excerpt": "We stopped in Oxford for Charles' [illegible].",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Burford, UK",
+      "original_wording": "Burford",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0336_R",
+      "excerpt": "Arri + I went around Burford shopping - a shawl, jug covers, shaving brush, book.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Field Barn Park, Bourton-on-the-Water, UK",
+      "original_wording": "Field Barn Park",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0336_R",
+      "excerpt": "We drove on to Bourton on the Water + camped in a nice site outside it.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Stow-on-the-Wold, UK",
+      "original_wording": "Stow",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0337_L",
+      "excerpt": "We stopped at Stow & shopped while Simon put the van up on a kerb & mended the water tank straps.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Rollright Stones, UK",
+      "original_wording": "Rollright Stones",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0337_L",
+      "excerpt": "Lunch is to be a picnic with Peter at the Rollright Stones.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0337_L",
+      "excerpt": "Then Charles & Arri left. We drove to a village green, had tea with John & Peter & Conrad.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Evening pub walk from campsite",
+      "date_guess": "2020-07-04",
+      "stops": [
+        {
+          "normalized_name": "Bourton-on-the-Water (pub walk), UK",
+          "original_wording": "a pub",
+          "confidence": 0.75,
+          "source_page_id": "B_0336_R",
+          "excerpt": "After supper we are to walk 2½ miles to a pub.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Walk around Bourton-on-the-Water for supper",
+      "date_guess": "2020-07-05",
+      "stops": [
+        {
+          "normalized_name": "Bourton-on-the-Water, UK",
+          "original_wording": "Bourton on the water",
+          "confidence": 0.85,
+          "source_page_id": "B_0337_L",
+          "excerpt": "After tea we went to walk around Bourton on the water & had a delicious supper.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "a village green",
+      "issue": "Unnamed village green visited on Monday after Rollright Stones picnic; possibly on the return route to Birmingham but no location given.",
+      "source_page_id": "B_0337_L",
+      "excerpt": "We drove to a village green, had tea with John & Peter & Conrad."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0336_R contains content from a prior trip before the July 4th 2020 entry",
+    "mixed_end: page B_0337_L ends mid-narrative; Monday events may continue on a subsequent page not included"
+  ],
+  "summary": "The first family camping trip after the Covid-19 lockdown, July 2020. Simon, Eve, Charles and his partner Arrington drove from Birmingham via Oxford and Burford to Field Barn Park campsite at Bourton-on-the-Water, staying Saturday and Sunday nights. On Monday they stopped at Stow for a VW van MOT, then had a picnic with Peter and John at the Rollright Stones before heading home.",
+  "extraction_notes": "Trip spans pages B_0336_R and B_0337_L; both are boundary_mixed pages so the start of B_0336_R belongs to a previous trip and the end of B_0337_L may continue onto an unincluded page. Arrington (Arri) is Charles's partner, not listed in the core family but present throughout. 'N.I. in February' refers to Northern Ireland, the previous trip. The travellers list excludes Thomas, William, Peter, and John from the outbound journey (only Peter and John appear at the Monday picnic). Tinder the dog is not explicitly mentioned on these pages but is named in other trip context. Date end of 2020-07-06 is inferred: Sunday = 5 July, Monday = 6 July 2020."
+}

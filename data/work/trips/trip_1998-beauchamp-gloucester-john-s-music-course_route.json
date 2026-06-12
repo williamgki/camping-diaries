@@ -1,0 +1,113 @@
+{
+  "trip_id": "1998-beauchamp-gloucester-john-s-music-course",
+  "title": "Beauchamp (Gloucester): John's Music Course",
+  "volume": "A",
+  "spread_range": ["A_0226", "A_0228"],
+  "diary_page_range": [226, 228],
+  "date_start": "1998-04-07",
+  "date_end": "1998-04-09",
+  "date_precision": "day",
+  "travellers": ["Eve", "Peter", "John", "Charles", "Simon"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beauchamp Farm, Over, Gloucestershire, UK",
+      "original_wording": "Beauchamp",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0226_R",
+      "excerpt": "Peter, John, Charles, Eve left for Beauchamp at 8.30. am. John is on a music course.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "note": "Recurring Gloucester-area music course venue identified in earlier trips (1992, 1993, 1994, 1996) as Beauchamp Farm near Over, Gloucestershire. The field was too boggy so the family camped on the carpark. Simon joined on the evening of April 8th."
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0228_L",
+      "excerpt": "after lunch back at the campsite, we have come in for John's end of course concert.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "note": "Return home inferred: the end-of-course concert on April 9th is the final event mentioned. Return to Birmingham implied by standard trip pattern."
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Visit to Wendy King and Robert Hammond at Taynton (April 7)",
+      "date_guess": "1998-04-07",
+      "stops": [
+        {
+          "normalized_name": "Taynton, Oxfordshire, UK",
+          "original_wording": "Taynton",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0226_R",
+          "excerpt": "Then Wendy led us to Robert Hammond's house at Taynton.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Shopping and lunch in Gloucester (April 8)",
+      "date_guess": "1998-04-08",
+      "stops": [
+        {
+          "normalized_name": "Gloucester, UK",
+          "original_wording": "Gloucester",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0227_L",
+          "excerpt": "Peter + Charles + Eve went to pick up Robert to shop in Gloucester. He found a good carpark for us. Then we went back for a long, comfortable lunch with Liz + Mark + Victoria + Louisa.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Waterways Museum, Gloucester (April 9)",
+      "date_guess": "1998-04-09",
+      "stops": [
+        {
+          "normalized_name": "National Waterways Museum, Gloucester, UK",
+          "original_wording": "the Waterways Museum at Gloucester",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0227_L",
+          "excerpt": "We went to the Waterways Museum at Gloucester. It is very cold +",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Wendy King's house",
+      "issue": "Visited on April 7th after dropping John at Beauchamp, before proceeding to Taynton. Location not stated. Gus King (possibly related) is mentioned as a local cricket rival, suggesting the Kings live near Beauchamp/Over area, but this is speculative.",
+      "source_page_id": "A_0226_R",
+      "excerpt": "After dropping John we went to call on Wendy King. They were house tidying."
+    }
+  ],
+  "boundary_flags": [
+    "Pages A_0226_R and A_0228_L are marked boundary_mixed:true. The April 5th content on A_0226_R (Oundle, Palm Sunday procession, Thomas and Matt Moon) belongs to the preceding trip and is excluded from this route. This trip begins with the April 7th entry."
+  ],
+  "summary": "A short April 1998 camping weekend based at Beauchamp Farm near Over, Gloucestershire, where John attended a music course finishing with a concert on April 9th. Eve, Peter, John and Charles drove out on April 7th, stopping en route to visit Wendy King and Robert Hammond at Taynton; Simon joined them at Beauchamp on the evening of April 8th after the family had spent the day shopping and lunching in Gloucester. The trip closed with John's end-of-course concert, supported by a postcard of Shrewley Tunnel on the Grand Union Canal glued into the diary.",
+  "extraction_notes": "Thomas and William are not mentioned in this trip; the April 5th Oundle content (picking up Thomas and Matt Moon from school after a Palm Sunday procession) belongs to the immediately preceding trip entry. Travellers confirmed for this trip: Eve, Peter, John, Charles, and Simon (who arrived separately on April 8th evening). The diary notes 'The field is so boggy that we are camping on the carpark.' A_0227_R contains a glued-in postcard/illustration of Shrewley Tunnel on the Grand Union Canal with a caption — this is a collected item, not a route stop. A_0228_L continues from A_0227_L with the concert, suggesting the trip ends on April 9th. No ferry or international crossings — entirely domestic UK trip. 'Beauchamp' is consistently identified across multiple diary years (1992–1997) as Beauchamp Farm near Over, Gloucestershire."
+}

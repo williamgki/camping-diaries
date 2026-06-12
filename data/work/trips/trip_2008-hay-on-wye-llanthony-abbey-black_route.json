@@ -1,0 +1,83 @@
+{
+  "trip_id": "2008-hay-on-wye-llanthony-abbey-black",
+  "title": "Hay-on-Wye & Llanthony Abbey (Black Mountains)",
+  "volume": "B",
+  "spread_range": ["B_0137", "B_0137"],
+  "diary_page_range": [75, 75],
+  "date_start": "2008-06-07",
+  "date_end": "2008-06-07",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hay-on-Wye, Wales, UK",
+      "original_wording": "Hay",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0137_L",
+      "excerpt": "On to Hay where we met up in the campsite with Thomas, Naomi + Austin.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Drive to Llanthony Abbey via Capel-y-Ffin through the Black Mountains",
+      "date_guess": "2008-06-07",
+      "stops": [
+        {
+          "normalized_name": "Capel-y-Ffin, Wales, UK",
+          "original_wording": "Capel-y-Ffin",
+          "confidence": 0.9,
+          "source_page_id": "B_0137_R",
+          "excerpt": "On the way we stopped at Capel-y-Ffin + Eve recognized the gill tombstones that Simon had seen on on earlier trip.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Llanthony Priory, Wales, UK",
+          "original_wording": "Llanthony Abbey",
+          "confidence": 0.85,
+          "source_page_id": "B_0137_L",
+          "excerpt": "then a long drive to Llanthony Abbey, through the Black Forest mountains, a very twisty road through narrow lanes",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "B_0137_R",
+      "issue": "boundary_mixed: end of spread blends into the next trip; only Saturday June 7th is dated on this spread, so the trip likely spans more days than captured here.",
+      "excerpt": "Eve closed wisely all the windows. So we were warm in the"
+    }
+  ],
+  "summary": "A short June 2008 camping trip to Hay-on-Wye, where the family met Thomas, Naomi and Austin at the campsite, browsed the bookshops and looked at maps. From the Hay base they made a day drive through the Black Mountains, stopping at Capel-y-Ffin (where Eve recognised the Eric Gill tombstones) and on to Llanthony Abbey, returning to camp to eat at the Three Tuns in Hay.",
+  "extraction_notes": "Single spread (B_0137); only Saturday June 7th is dated (confirmed a Saturday in 2008). The route-sketch image on B_0137_R is a drawing of the old iron bridge (zigzag with dates '1835-1956'), not a route-order sketch (sketch_desc confirms no labels/arrows), so narrative order was used. 'Black Forest mountains' in the diary is an error for the Black Mountains in Wales, confirmed by the page caption and places list; the whole trip is in Wales/GB with no sea crossing. The Llanthony drive (via Capel-y-Ffin) is recorded as an excursion because the family 'returned to the campsite' in Hay the same day. spread_range only spans B_0137; mixed_end flagged as the spread blends into the following trip."
+}

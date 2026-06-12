@@ -1,0 +1,107 @@
+{
+  "trip_id": "2019-thorpeness-monig-leo-s-wedding-reception",
+  "title": "Thorpeness: Monig & Leo's Wedding Reception (Suffolk)",
+  "volume": "B",
+  "spread_range": ["B_0319", "B_0320"],
+  "diary_page_range": [null, null],
+  "date_start": "2019-05-24",
+  "date_end": "2019-05-26",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder", "William", "Charles", "Thomas", "John", "Peter"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Cambridge, UK",
+      "original_wording": "Kettles Yard / Lucy Cavendish Coll.",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0319_R",
+      "excerpt": "Simon & Eve had coffee at Kettles Yard with Richard Holroyd, then lunch at [?Lucy] Cavendish Coll.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Thorpeness, Suffolk, UK",
+      "original_wording": "Thorpeness",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0319_R",
+      "excerpt": "Simon, Eve & Tinder left for Monig[?]'s & Leo's wedding reception at Thorpeness. A great w[eekend]. ... On the Thorpe [?we] we camped at the Headlands.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Whepstead, Suffolk, UK",
+      "original_wording": "Whepstead",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0320_L",
+      "excerpt": "Of to a kampsite __Arbon Barn__ in Whepstead. Beautiful, well cared for surroundings. Given cup of tea by Karen when we car arrived.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Walk to Aldeburgh (Saturday)",
+      "date_guess": "2019-05-25",
+      "stops": [
+        {
+          "normalized_name": "Aldeburgh, Suffolk, UK",
+          "original_wording": "Aldeburgh",
+          "confidence": 0.95,
+          "source_page_id": "B_0320_L",
+          "excerpt": "Walk into Aldeburgh. Lunch with Peter's cake at Dolphin.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "beeton",
+      "issue": "Diary says Thomas camped 'at beeton' near Thorpeness; unclear if a distinct hamlet/location or local area name near Thorpeness. Possibly Beeston or a local field name.",
+      "source_page_id": "B_0319_R",
+      "excerpt": "Thomas camped in a tent at beeton."
+    },
+    {
+      "original_wording": "Seamark",
+      "issue": "Diary mentions 'Pique at Seamark' on Sunday; likely a house or local venue in or near Thorpeness, but exact identity unconfirmed.",
+      "source_page_id": "B_0320_L",
+      "excerpt": "Pique at Seamark."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: B_0319_R begins with a previous trip (Stroud/Newark Park); this trip's content starts at the 'Friday 24th May' heading",
+    "mixed_end: B_0320_L ends mid-page; subsequent content belongs to a different trip or is cut off"
+  ],
+  "summary": "Simon, Eve and Tinder drove to Suffolk in May 2019 for Monig and Leo's wedding reception at Thorpeness, stopping en route for coffee at Kettles Yard and lunch at Lucy Cavendish College, Cambridge. The family camped at Headlands and spent the weekend attending the reception with dancing, walking into Aldeburgh, and celebrating Peter's birthday, before finishing the trip at Arbon Barn campsite in Whepstead.",
+  "extraction_notes": "Page B_0319_R is a mixed-boundary page: the upper portion belongs to a prior trip (Stroud/Newark Park entries dated Sunday), while this trip begins at the 'Friday 24th May' heading. The OCR-derived dates on B_0319_R show '2013' but the trip_id and day-of-week confirmation (Friday 24 May = 2019) establish the correct year as 2019. 'Monig' is almost certainly a name rendered imperfectly by the OCR (possibly 'Monica' or similar). Date_end is estimated as 2019-05-26 (Sunday) based on narrative; the Whepstead stop may have been Sunday evening heading home Monday."
+}

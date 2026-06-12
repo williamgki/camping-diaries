@@ -1,0 +1,78 @@
+{
+  "trip_id": "1992-peak-district-goyt-valley-buxton-king",
+  "title": "Peak District: Goyt Valley, Buxton & King Sterndale",
+  "volume": "A",
+  "spread_range": ["A_0077", "A_0077"],
+  "diary_page_range": [137, 137],
+  "date_start": "1992-09-05",
+  "date_end": "1992-09-06",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Goyt Valley, Peak District, UK",
+      "original_wording": "Goyt Valley",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0077_L",
+      "excerpt": "We arrived at the Peak District + walked for 3 hours in Goyt Valley. Good weather, despite the forecast. People paragliding near a disused railway.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Buxton, Derbyshire, UK",
+      "original_wording": "Buxton",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0077_L",
+      "excerpt": "At 3.30 we left for Buxton + walk[ed] into the town. We saw the museum + art gallery, with models of prehistoric scenes. The Crescent is boarded up.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "King Sterndale, Derbyshire, UK",
+      "original_wording": "King Sterndale, east of Buxton",
+      "role": "overnight_base",
+      "confidence": 0.97,
+      "approximate": false,
+      "source_page_id": "A_0077_R",
+      "excerpt": "We reached the campsite at 6.0. King Sterndale, east of Buxton.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page A_0077_L also contains end of prior trip (Saturday 30th August, Gloucester/Beauchamp concert); this trip begins at the 'Saturday 5th September' heading",
+    "mixed_end: page A_0077_R may share spread with adjacent trip content; the King Sterndale campsite night is the last explicit content for this trip"
+  ],
+  "summary": "A weekend trip from Birmingham to the Peak District in September 1992, walking for three hours in Goyt Valley before visiting Buxton's museum, art gallery and The Crescent. The family camped overnight at King Sterndale, a village east of Buxton, joined by Siri the new German au pair.",
+  "extraction_notes": "Only one spread (A_0077) covers this trip, with mixed boundaries on both sides. The date 'Saturday 5th September' in 1992 falls on a 5 September correctly. Return journey not described; assumed the family returned home to Birmingham the following day (Sunday 6th September). Traveller list defaults to the full family; the diary additionally names 'Siri, the new German au pair' who joined this trip. The diary page number 137 appears on A_0077_R only. Buxton is treated as a transit stop rather than overnight_base — the campsite is explicitly at King Sterndale. No crossings; the entire trip is within England."
+}

@@ -1,0 +1,450 @@
+{
+  "trip_id": "2015-france-laon-vezelay-burgundy-puy-en",
+  "title": "France: Laon, Vézelay, Burgundy, Le Puy-en-Velay, Conques & Treignac",
+  "volume": "B",
+  "spread_range": ["B_0252", "B_0263"],
+  "diary_page_range": [72, 82],
+  "date_start": "2015-07-25",
+  "date_end": "2015-08-15",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0252_L",
+      "excerpt": "Just after 10 Simon & Eve took Tinder to kennels (£310 for 3 weeks) & set off to [?x x x x] Kent.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Stalisfield, Kent, UK",
+      "original_wording": "Stalisfield",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0252_L",
+      "excerpt": "Got to Stalisfield again. Great improvement in pub food under new owners. Just got a table at 6.30 pm... As soon as we arrived I put the kettle on (5.10.) + then did yoga for 10 min.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Folkestone (Eurotunnel), UK",
+      "original_wording": "Channel Tunnel",
+      "role": "crossing_terminal",
+      "confidence": 0.9,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "B_0252_L",
+      "excerpt": "Sunday We set off at 8.45. & reached the Channel Tunnel car park at 9.10. An hour early, but yesterday queues had been 5 hrs.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Suzy, Aisne, France",
+      "original_wording": "Village [?Waten] at Suzy",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": true,
+      "source_page_id": "B_0252_R",
+      "excerpt": "On towards Laon. The rain got [?x x] heavier & heavier. We reached Village [?Waten] at Suzy, a campsite with an American Rodeo/Wildwest Theme. Camping in wagons & tipis. Nice.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Laon, France",
+      "original_wording": "Laon",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0252_R",
+      "excerpt": "On to Laon, with the cows looking out. We parked + walked up lots of steps... Laon Cathedral is beautiful, especially the Tower of the crossing from inside! Built in 55 years... Laon was the Carolingian capital, on a hill, easy to defend.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Trainel, Aube, France",
+      "original_wording": "Trainel Municipal Park",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0253_R",
+      "excerpt": "We drove thro the Laonnaise hills, skirting Champagne, then crossed a series of rivers such as Aisne, Marne + Seine on Droats... Reached Trainel Municipal Park -- rundown but clean.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Vézelay, France",
+      "original_wording": "Vezelay",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0254_L",
+      "excerpt": "Tuesday We had a lie in + set off to Vezelay by quite complicated main roads. At the carpark, halfway down the hill... We had lots of time to look at the west wall, 2 of them, inner + outer, + all the capitals.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Chaumot, Nièvre, France",
+      "original_wording": "Chaumot, near Corbigny",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0254_R",
+      "excerpt": "On to Chaumot, near Corbigny run by a very relaxed Dutchman... It's on Canal Nivernais, so we can bike ride tomorrow.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Paray-le-Monial, Saône-et-Loire, France",
+      "original_wording": "Paray-le-Monial",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0256_R",
+      "excerpt": "On to Paray-le-Monial. This has many women's religious orders represented... The main Abbeychurch has lovely [?Cotswold] stone. No nave, designed by Hugo from Cluny who was influenced by Mozarabic in Spain. A well-kept old town. We cycled back to the campsite.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Saint-Jean-Saint-Maurice-sur-Loire, France",
+      "original_wording": "St. Maurice / Saint Jean-Saint Maurice sur Loire",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0257_R",
+      "excerpt": "We reached St. Maurice + looked all around the village - a tower + a church w/ frescoes. V. steep streets. Views of the damned lake. Then we motored on ... + on ... + on.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Saint-Paul-de-Vézelin, Loire, France",
+      "original_wording": "Arpheuilles at St. Paul de Vézelin",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0257_R",
+      "excerpt": "We have now reached a v. entertaining one, bursting with noisy children. On a lake, fishing, swimming, badminton, bikes, skate boards... Arpheuilles at St. Paul de Vézelin. (v. good for families)",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Saint-Étienne, France",
+      "original_wording": "St Etienne",
+      "role": "transit_stop",
+      "confidence": 0.6,
+      "approximate": false,
+      "source_page_id": "B_0257_R",
+      "excerpt": "We drove off from the Gorges of the Loire south. Bigger hills, [Saw] past St Etienne.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Saint-Maurice-de-Lignon, Haute-Loire, France",
+      "original_wording": "St. Maurice de Lignon",
+      "role": "transit_stop",
+      "confidence": 0.65,
+      "approximate": false,
+      "source_page_id": "B_0257_R",
+      "excerpt": "Simon bought lunch in St. Maurice de Lignon + stopped soon after in a village ringed round a huge green.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "La Besse, Haute-Loire, France",
+      "original_wording": "La Besse",
+      "role": "transit_stop",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "B_0258_L",
+      "excerpt": "Men are dismantling a village marquee after yesterday's festival. La Besse On to Puy en Velay, campsite 3 k away at Brives Charensac.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Brives-Charensac, Haute-Loire, France",
+      "original_wording": "Brives Charensac (campsite, Le Puy-en-Velay)",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0258_L",
+      "excerpt": "On to Puy en Velay, campsite 3 k away at Brives Charensac. Yerghot. Monday At 10 we left on the bike ride. Brives → Solignac.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 16,
+      "normalized_name": "Entraygues-sur-Truyère, Aveyron, France",
+      "original_wording": "Entrayques",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0260_L",
+      "excerpt": "We reached Entrayques. The [?campsite] computer knew that we'd been here 2006 + 2010... the flat level bridge takes you right into town.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 17,
+      "normalized_name": "Conques, Aveyron, France",
+      "original_wording": "Conques",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0261_L",
+      "excerpt": "In Conques we ate at the Ch[ar?][magne?] rest[aurant?]... We walk[ed] a[round] the town... White monks organised a short service in the abbey with psalms at noon. The metal work grills around the sanctuary were made of prisoners' chains. St. foy was prayed to for prisoners.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 18,
+      "normalized_name": "Figeac, Lot, France",
+      "original_wording": "Figeac",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0262_L",
+      "excerpt": "We drove to Figeac, looked at the Rosetta Stone, had good coffee in the covered market & shopped. At 12 we arrived at John Hurman's & met his freind, Margaret Tucker. We had lunch on his Terrace.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 19,
+      "normalized_name": "Cajarc, Lot, France",
+      "original_wording": "Cajarc Campsite",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0262_L",
+      "excerpt": "In the evening we went along old roads around Cajarc Campsite **** There is a pool, a lovely walnut orchard, but the loo block is v old.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 20,
+      "normalized_name": "Treignac, Corrèze, France",
+      "original_wording": "David's (Treignac)",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0262_L",
+      "excerpt": "We went to a supermarket & on towards David's... We arrived & were made to feel very welcome. David & Sally like the Taj Mahal table. We parked the van overlooking the stupendous view from the bottom of the garden... We are on the Plateau des Mille Vaches.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 21,
+      "normalized_name": "Montreuil-sur-Mer, France",
+      "original_wording": "Hermitage Hotel, Montreuil",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0263_R",
+      "excerpt": "Apart from my driving for 1½ hrs, Simon drove the whole way until we reached the Hermitage Hotel, Montreuil, 8.45 pm.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 22,
+      "normalized_name": "Coquelles (Eurotunnel), France",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.55,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Return crossing: outbound was the Channel Tunnel (Eurotunnel); the homeward leg from Montreuil-sur-Mer back to Birmingham re-uses the Coquelles–Folkestone shuttle. Diary excerpt ends at Montreuil (mixed_end page) without re-naming the terminal.",
+      "source_page_id": "B_0263_R",
+      "excerpt": "9:15. after David had signed some papers we left... Simon drove the whole way until we reached the Hermitage Hotel, Montreuil, 8.45 pm.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 23,
+      "normalized_name": "Folkestone (Eurotunnel), UK",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.55,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Return Eurotunnel terminal on the UK side, implied homeward leg; not narrated (page is mixed_end).",
+      "source_page_id": "B_0263_R",
+      "excerpt": "Simon drove the whole way until we reached the Hermitage Hotel, Montreuil, 8.45 pm.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 24,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": "B_0263_R",
+      "excerpt": "9:15. after David had signed some papers we left... left, with Helen, for the motorway.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0252_L",
+      "excerpt": "Sunday We set off at 8.45. & reached the Channel Tunnel car park at 9.10. An hour early, but yesterday queues had been 5 hrs."
+    },
+    {
+      "after_seq": 22,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": false,
+      "inferred": true,
+      "inference_reason": "Return crossing mirrors the outbound Eurotunnel (Channel Tunnel) route; the homeward leg from Montreuil to Birmingham is not narrated beyond Montreuil (mixed_end page), so the terminal is inferred, not re-named.",
+      "source_page_id": "B_0263_R",
+      "excerpt": "Simon drove the whole way until we reached the Hermitage Hotel, Montreuil, 8.45 pm."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 8,
+      "label": "Bike ride along the Canal du Nivernais to the staircase of 16 locks (Sardy)",
+      "date_guess": "2015-07-30",
+      "stops": [
+        {
+          "normalized_name": "Écluses de Sardy (16 locks), Canal du Nivernais, France",
+          "original_wording": "light - staircase - of 16 locks",
+          "confidence": 0.7,
+          "source_page_id": "B_0255_R",
+          "excerpt": "12 miles, past potter we visited years before up light - staircase - of 16 locks. We reach the top + Simon goes 2k on the other side to see our old campsite... Boaters are not given their own paddles. Nivernais built float logs for Paris firewood, 1784 - 1835.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Monceaux-le-Comte, Nièvre, France",
+          "original_wording": "[?Monceau]",
+          "confidence": 0.55,
+          "source_page_id": "B_0255_L",
+          "excerpt": "After lunch we set off northwards past Dirol to [?Monceau]... At [?Monceau] we bought pate + a tart. A lovely ride about 12m.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Greenway (Voie Verte) cycle ride from Brives-Charensac to Solignac-sur-Loire",
+      "date_guess": "2015-08-03",
+      "stops": [
+        {
+          "normalized_name": "Solignac-sur-Loire, Haute-Loire, France",
+          "original_wording": "Solignac",
+          "confidence": 0.85,
+          "source_page_id": "B_0258_L",
+          "excerpt": "Monday At 10 we left on the bike ride. Brives → Solignac. Arrived at 1 + had picnic lunch. Every pedal + push, steady incline. Only 1½ hours to get back, free-wheeling nearly all the way... The tunnels are well lit... We saw no food at Solignac.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 15,
+      "label": "Cycle the Voie Verte into Le Puy-en-Velay and climb to the cathedral",
+      "date_guess": "2015-08-04",
+      "stops": [
+        {
+          "normalized_name": "Le Puy-en-Velay, France",
+          "original_wording": "Le Puy-en-Velay (cathedral)",
+          "confidence": 0.85,
+          "source_page_id": "B_0259_L",
+          "excerpt": "We cycled along the Voie Verte for 5 km to [?Auys] thro suburbs & past the view above. We climbed up to see the cathedral... I bought lace & we walked around the town steep cobbles & had a good lunch. The buildings are 5 stories high.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 20,
+      "label": "Walk to Treignac for crepes and a swim in the lake",
+      "date_guess": "2015-08-11",
+      "stops": [
+        {
+          "normalized_name": "Treignac (lake), Corrèze, France",
+          "original_wording": "Treignac",
+          "confidence": 0.85,
+          "source_page_id": "B_0262_R",
+          "excerpt": "Tuesday We set off about 10.20. for a walk to Treignac - Sally, Helen, Simon & I... At 12.45. we got there. David arrived with Maia & Orla & Jean & bikes. We had crepes & beer & swam in the lake.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 20,
+      "label": "Swim at Lake Viam and guitar concert at Rilhac-Treignac church",
+      "date_guess": "2015-08-13",
+      "stops": [
+        {
+          "normalized_name": "Lac de Viam, Corrèze, France",
+          "original_wording": "lake Viam",
+          "confidence": 0.75,
+          "source_page_id": "B_0263_L",
+          "excerpt": "After lunch everyone went off to swim to [?storm] lake Viam, with Jem cycling.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Rilhac-Treignac, Corrèze, France",
+          "original_wording": "Rilhac Treignac",
+          "confidence": 0.75,
+          "source_page_id": "B_0263_L",
+          "excerpt": "Simon, David, Helen, Eve went to a guitar concert in a church at 8.30. It was desperately hot... Lovely music by Alain Rizoul at Rilhac Treignac, but way too hot.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 20,
+      "label": "Supper out at Masseret",
+      "date_guess": "2015-08-13",
+      "stops": [
+        {
+          "normalized_name": "Masseret, Corrèze, France",
+          "original_wording": "Masseret",
+          "confidence": 0.7,
+          "source_page_id": "B_0263_R",
+          "excerpt": "We all went out to supper at Masseret. It was delicious food, even the cheese, + a good waiter.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Abbey of Dieu Donné / Abbaye [?Bènisitions] Dieu",
+      "issue": "Brief elevenses stop on the Saturday 1 Aug driving leg south of Paray-le-Monial. Benedictine abbey 'circa 1135' with a glazed-tile roof 'like Beaune'; the name is too uncertain to geocode confidently ('Dieu Donné' may be a Bénédictines/Bénédiction mis-hearing). 'roof of Beaune' likely describes the Burgundian polychrome roof style rather than the town of Beaune (which is in the opposite direction).",
+      "source_page_id": "B_0256_R",
+      "excerpt": "10.30. We set off + had elevenses at the Abbey of Dieu Donné Abbaye [?Bènisitions] Dieu, gorgeous steeple + roof of Beaune, coloured tiles. Benedictine. 1135"
+    },
+    {
+      "original_wording": "Grandvieu",
+      "issue": "Town passed through (sausages eaten) on the Wednesday 5 Aug drive south-west from Le Puy toward Entraygues; 'sad town' with closed shops and 'mannequin/puppets'. Likely Grandrieu (Lozère) but spelling uncertain; recorded here rather than as a main-route transit_stop because the location cannot be confirmed.",
+      "source_page_id": "B_0260_L",
+      "excerpt": "We had sausages in Grandvieu, a rather sad town where most of the shops were closed... Most odd mannkin/puppets all over."
+    },
+    {
+      "original_wording": "Valde[?] [?Saures]",
+      "issue": "'Spooky' place named immediately after Grandvieu on the 5 Aug drive; transcription too uncertain to identify or geocode.",
+      "source_page_id": "B_0260_L",
+      "excerpt": "Most odd mannkin/puppets all over. Valde[?] [?Saures]. Spooky. We reached Entrayques."
+    },
+    {
+      "original_wording": "[?Auys]",
+      "issue": "Destination 5 km along the Voie Verte before climbing to the Le Puy-en-Velay cathedral; place name uncertain and not separately geocodable. Folded into the Le Puy-en-Velay cathedral excursion rather than listed as its own stop.",
+      "source_page_id": "B_0259_L",
+      "excerpt": "We cycled along the Voie Verte for 5 km to [?Auys] thro suburbs & past the view above. We climbed up to see the cathedral."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "B_0252_L",
+      "issue": "Page is boundary_mixed (mixed_start): it opens with the CLOSE of a previous outing - a 'Sunday' in which Simon drives the van home while Charles takes Tinder + Eve on to Ansted (Kent) for Annette's cremation + funeral. That funeral trip is NOT part of this route. This France trip begins at the heading 'Saturday July 25th' when 'Simon & Eve took Tinder to kennels... & set off to Kent' (overnighting at Stalisfield)."
+    },
+    {
+      "page_id": "B_0263_R",
+      "issue": "Page is boundary_mixed (mixed_end): the trip narrative ends with the homeward leg on a 'Friday' - leaving David's, buying bread at Chamboret, driving to the Hermitage Hotel, Montreuil at 8.45 pm. The Channel crossing and final drive home to Birmingham are not narrated on the supplied pages and are inferred."
+    }
+  ],
+  "summary": "In late July to mid-August 2015 Simon and Eve drove the van from Birmingham, overnighting at Stalisfield in Kent before taking the Channel Tunnel (Eurotunnel) into France. They worked south through Picardy and Burgundy with overnight bases near Laon (a Wild-West-themed site at Suzy), Trainel, Chaumot on the Canal du Nivernais (cycling and an evening concert), and Paray-le-Monial, visiting Laon and Vezelay cathedrals along the way. Continuing through the Gorges de la Loire and past St-Etienne they reached Le Puy-en-Velay (camping at Brives-Charensac and cycling the disused-railway Voie Verte to Solignac-sur-Loire), then Entraygues, Conques and Figeac, before settling at David and Sally's home near Treignac on the Plateau de Millevaches and returning north to an overnight at Montreuil-sur-Mer on the way home.",
+  "extraction_notes": "Crossing is the Eurotunnel shuttle, explicitly the 'Channel Tunnel', so folkestone-coquelles (kind=tunnel), NOT a Dover-Calais ferry. The diary even notes Channel ferry strikes and Operation Stack as a separate problem affecting others ('French tyre-burning ferry strikes'), reinforcing that this family used the tunnel. Travellers restricted to Simon and Eve: the narrative is Eve's first person travelling with Simon in the van; the boys are not present, and David, Sally, Helen, Maia, Orla, Jean etc. are hosts/family met at the Treignac base, not trip travellers. Sketch images reviewed: B_0258_L/B_0258_R are a glued-in PRINTED tourist leaflet/map of the Le Puy-en-Velay–Solignac 'Greenway' (Voie Verte) cycleway - it is the excursion cycle route, not a hand-drawn map that reorders the trip, so it confirms the Solignac excursion only; B_0260_R is a hand-drawn architectural elevation of the Entraygues 'old bridge' (labelled 'upstream', annotation '13'), not a route-order sketch. Narrative order therefore governs the main overnight chain. Day-count: Sat 25 Jul start (dated), Mon 27 Jul Laon/Trainel (dated B_0252_R), Wed 29 Jul Chaumot (dated B_0254_R, whose ISO field '2009' is a transcription error - 29 Jul was a Wednesday in 2015), Sat 1 Aug (dated B_0256_R). Return reached Montreuil on a Friday (~14 Aug); date_end 2015-08-15 is the inferred home-return day (next day) and is approximate. Place resolutions: 'Suzy' = Suzy, Aisne near Laon (Wild-West/'Village Western' campsite, name partly illegible); 'Trainel' = Trainel, Aube (municipal site); 'Chaumot near Corbigny' = Chaumot, Nievre on the Canal du Nivernais (multi-night base, concert on the 3rd night = Thu 30 Jul); 'St. Maurice / Saint Jean-Saint Maurice sur Loire' = Saint-Jean-Saint-Maurice-sur-Loire (Loire); 'Arpheuilles at St. Paul de Vezelin' = campsite at Saint-Paul-de-Vezelin (Loire, in the Gorges de la Loire); 'Brives Charensac' = Brives-Charensac campsite 3-4 km from Le Puy-en-Velay; 'Entrayques' = Entraygues-sur-Truyere (Aveyron); 'Figeac... Rosetta Stone' = the Champollion museum (Champollion deciphered the Rosetta Stone) in Figeac (Lot); 'Cajarc Campsite' = Cajarc (Lot); 'David's' = David & Sally's home near Treignac/Rilhac-Treignac on the Plateau de Millevaches (Correze). Excursions (returned to same base): Canal du Nivernais bike rides from Chaumot (16-lock staircase at Sardy, and Monceaux); Voie Verte cycle to Solignac-sur-Loire and to Le Puy-en-Velay cathedral from Brives-Charensac; walk to Treignac lake, Lac de Viam swim + Rilhac-Treignac concert, and supper at Masseret from David's base. Conques and Figeac were visited en route between Entraygues and the Treignac base, so they are main_stops not excursions. Brief driving-leg waypoints (St-Etienne passed, St-Maurice-de-Lignon lunch, La Besse) are transit_stops. Uncertain/unplaceable names (Abbey of Dieu Donne, Grandvieu, Valde-Saures, [?Auys]) are flagged unresolved."
+}

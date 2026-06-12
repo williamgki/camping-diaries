@@ -1,0 +1,91 @@
+{
+  "trip_id": "1990-avening-park-tetbury-autumn-weekend-last",
+  "title": "Avening Park, near Tetbury (last weekend in the van)",
+  "volume": "A",
+  "spread_range": ["A_0032", "A_0034"],
+  "diary_page_range": [60, 63],
+  "date_start": "1990-09-28",
+  "date_end": "1990-09-30",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Chalford, Gloucestershire, UK",
+      "original_wording": "Chalford",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0032_R",
+      "excerpt": "we're taking Simon's 'cello down to Chalford to be adjusted",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Avening Park, Avening, Gloucestershire, UK",
+      "original_wording": "Avening Park, near Tetbury",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0032_R",
+      "excerpt": "Then on to Avening Park, near Tetbury",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Village walk: Avening, Gibbons restaurant, Cross pub, Gatcombe Park area",
+      "date_guess": "1990-09-29",
+      "stops": [
+        {
+          "normalized_name": "Avening, Gloucestershire, UK",
+          "original_wording": "the village",
+          "confidence": 0.95,
+          "source_page_id": "A_0033_L",
+          "excerpt": "On Saturday we walked into the village + saw a very posh restaurant Gibbons, well worth a visit, + then went on to the Cross pub, for lunch",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Gatcombe Park, Minchinhampton, Gloucestershire, UK",
+          "original_wording": "Princess Anne's house",
+          "confidence": 0.9,
+          "source_page_id": "A_0033_L",
+          "excerpt": "He told us that we had walked past Princess Anne's house",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: A_0032_R contains a separate September 2nd entry (Kew Gardens / christening) before the September 28th trip entry; that entry belongs to a different trip.",
+    "mixed_end: A_0034_L is cut off mid-narrative; the Sunday church / spaghetti / conker-gathering account continues but the return home is not explicitly narrated."
+  ],
+  "summary": "A short autumn weekend camping trip (28-30 September 1990) — described as 'our last weekend in the van this year' — to Avening Park near Tetbury, Gloucestershire, stopping at Chalford en route to drop off a cello for repair. The family camped on the estate of Colonel Carter, walked into Avening village (lunching at the Cross pub), and strolled past Gatcombe Park (Princess Anne's home), picking blackberries and collecting conkers.",
+  "extraction_notes": "Page A_0032_R is a mixed-boundary page: the first half (September 2nd) records a London day out (Kew Gardens, a christening at Parsons Green) that belongs to a different trip. The Avening Park trip begins at the 'September 28th' heading on the same page. The return to Birmingham is not explicitly narrated but is assumed as the standard home-end pattern. The year 1990 is derived from date_guess in the source bundle; the diary gives only 'September 28th' without a year. Gatcombe Park is identified as 'Princess Anne's house' by the farmer encountered on the walk; it is a confirmed real estate in the Avening/Minchinhampton area."
+}

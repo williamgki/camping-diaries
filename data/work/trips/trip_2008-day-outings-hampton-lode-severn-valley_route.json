@@ -1,0 +1,86 @@
+{
+  "trip_id": "2008-day-outings-hampton-lode-severn-valley",
+  "title": "Day Outings: Severn Valley Park (Alveley) & Churchill Forge",
+  "volume": "B",
+  "spread_range": ["B_0135", "B_0135"],
+  "diary_page_range": [135, 135],
+  "date_start": "2008-04-26",
+  "date_end": "2008-05-11",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Margaret", "Helen", "Tonic"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Day outing to Severn Valley Park, Alveley (26 April 2008)",
+      "date_guess": "2008-04-26",
+      "stops": [
+        {
+          "normalized_name": "Severn Valley Country Park, Alveley, UK",
+          "original_wording": "Severn Valley Park at Alveley",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0135_L",
+          "excerpt": "Today we took Margaret + Helen out to the Severn Valley Park at Alveley, where we ate lunch in the van + then walked down with Tonic to see the new bridge.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "John Russell's house (location unspecified), UK",
+          "original_wording": "John Russell's house",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0135_L",
+          "excerpt": "On the way home we stopped at John Russell's house for Simon to fix his computer + Eve went to feed huln, while Simon drove home to feed the dog.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "Day outing to Churchill Forge watermill (Sunday 11 May 2008)",
+      "date_guess": "2008-05-11",
+      "stops": [
+        {
+          "normalized_name": "Churchill Forge, Worcestershire, UK",
+          "original_wording": "Churchhill Forge",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0135_L",
+          "excerpt": "At 2.15. we picked up Margaret + Helen + drove to Churchhill Forge. It's one of the only watermills still going in the country. An overshot + an undershot mill, various hammers, belts, grease, friendly guides.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "feed huln",
+      "issue": "Transcription unclear; 'huln' may be a person's name, an animal, or a mishearing/misread. Cannot resolve identity or location.",
+      "source_page_id": "B_0135_L",
+      "excerpt": "Eve went to feed huln, while Simon drove home to feed the dog."
+    },
+    {
+      "original_wording": "Hampton Lode",
+      "issue": "Mentioned only retrospectively ('We went for lunch to Hampton Lode in the autumn') — not a current trip stop; included here for reference only.",
+      "source_page_id": "B_0135_L",
+      "excerpt": "We went for lunch to Hampton Lode in the autumn."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "Two separate day outings from Birmingham in spring 2008: on 26 April, Simon and Eve took guests Margaret and Helen to the Severn Valley Country Park at Alveley for a picnic lunch and walk to the new bridge, stopping at John Russell's house on the way home; on 11 May, the party visited Churchill Forge in Worcestershire, one of the few working watermills in England, viewing its overshot and undershot wheels. Both outings remained entirely within England with no overnight stays.",
+  "extraction_notes": "This is a single diary page (B_0135_L) covering two distinct day outings with no overnight stops. 'Tonic' appears to be the dog (elsewhere named Tinder; may be a different pet or nickname). The right-hand page (B_0135_R) is a printed/illustrated leaflet about Churchill Forge dated 1996 — it is not diary narrative. John Russell's house stop is included as an excursion stop but its location is unknown. 'Hampton Lode' in the title guess refers to a retrospective autumn visit mentioned in passing, not a stop on either of these two outings; the title has been adjusted accordingly. The travellers list reflects those named in the text; it is unclear whether other family members were present."
+}

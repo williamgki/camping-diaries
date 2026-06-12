@@ -1,0 +1,61 @@
+{
+  "trip_id": "1991-thorpeness-suffolk-week-late-summer-short",
+  "title": "Thorpeness, Suffolk (camping week)",
+  "volume": "A",
+  "spread_range": ["A_0053", "A_0053"],
+  "diary_page_range": [103, 103],
+  "date_start": "1991-08-18",
+  "date_end": "1991-08-18",
+  "date_precision": "day",
+  "travellers": ["Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Thorpeness, Suffolk, UK",
+      "original_wording": "Thorpeness",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0053_R",
+      "excerpt": "Eve drove 5 boys & [Tony] nanny to Thorpeness. We arrived & had a terrible time putting up the tent.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.5,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Trips end at home unless the diary says otherwise; this is a 'week' camping holiday but the return is not narrated on the available page (boundary page cuts off mid-stay).",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "A_0053_R",
+      "issue": "Mixed-boundary page. The Aug 11th portion (River Severn loop, dropping Thomas at Beauchamp, setting off for B'ham) is the END of the PREVIOUS trip and is NOT part of this Thorpeness trip. This trip begins at the 'August 18th' heading. Beauchamp and the River Severn therefore deliberately excluded from this route.",
+      "excerpt": "After lunch we dropped Thomas off at __Beauchamp__ & set of for B'ham. ... August 18th. Eve drove 5 boys & [Tony] nanny to Thorpeness."
+    }
+  ],
+  "summary": "On 18 August 1991 Eve drove the five boys and Tony the nanny from Birmingham to Thorpeness on the Suffolk coast for a camping week, arriving to a difficult tent pitch. The stay coincided with John's birthday, with boating on the Thorpeness Meare and time in the sea.",
+  "extraction_notes": "The page-level 'sketch' is a small illustrative drawing of the River Severn loop (labelled 'R. Severn') accompanying the prior-trip narrative, NOT a hand-drawn ROUTE sketch/numbered route list; evidence-hierarchy rule 1 (sketch order outranks narrative) does not apply, so the route follows the narrative. This is a boundary page: the Aug 11th section ends a previous trip (drop Thomas at Beauchamp, return to Birmingham) and is excluded here. This trip starts at the 'August 18th' heading. Driver/party was Eve plus the five boys plus Tony the nanny; Simon is not mentioned in the start narrative (nanny Tony added to context-known family). 'John zigzagged up the [theare/mere] in a row boat' refers to the Thorpeness Meare (boating lake) and the sea — these are activities at the Thorpeness base, not separate stops. Diary page text cuts off mid-stay, so the return home (seq 3) is inferred at low confidence. End date kept equal to start date at day precision because no later date or return is narrated on the available page (title implies a week-long stay)."
+}

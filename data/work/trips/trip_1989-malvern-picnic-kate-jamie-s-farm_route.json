@@ -1,0 +1,72 @@
+{
+  "trip_id": "1989-malvern-picnic-kate-jamie-s-farm",
+  "title": "Malvern picnic & Kate & Jamie's farm",
+  "volume": "A",
+  "spread_range": ["A_0003", "A_0003"],
+  "diary_page_range": [3, 3],
+  "date_start": "1989-05",
+  "date_end": "1989-05",
+  "date_precision": "month",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malvern, Worcestershire, UK",
+      "original_wording": "Malvern",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0003_R",
+      "excerpt": "First we spent a day having a picnic at Malvern, visiting a quilting exhibition.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Kate & Jamie's farm",
+      "original_wording": "Kate & Jamie's farm",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0003_R",
+      "excerpt": "Then we went to Kate & Jamie's farm for one night, very warm and humid.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "note": "Location unknown; farm name only — see unresolved entry"
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Kate & Jamie's farm",
+      "issue": "No location given for Kate & Jamie's farm; identity and whereabouts unknown — could be near Malvern or elsewhere in the Midlands/Welsh borders",
+      "source_page_id": "A_0003_R",
+      "excerpt": "Then we went to Kate & Jamie's farm for one night, very warm and humid."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A short domestic trip in May 1989 beginning with a day picnic at Malvern including a visit to a quilting exhibition, followed by one night at the farm of friends Kate and Jamie. The family's new van was used and the boys played on bikes and a water slide.",
+  "extraction_notes": "Single diary page (A_0003_R), dated only 'May' with no year given — year 1989 taken from trip_id. Malvern is explicit and unambiguous. 'Kate & Jamie's farm' provides no geographic detail; it is retained as an overnight_base with approximate:true and flagged as unresolved. No crossings or excursions. Peter was mentioned as being sprayed by the van tap when Simon first showed the van — this is an anecdote, not a stop."
+}

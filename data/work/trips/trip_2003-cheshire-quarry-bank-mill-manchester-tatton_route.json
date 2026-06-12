@@ -1,0 +1,82 @@
+{
+  "trip_id": "2003-cheshire-quarry-bank-mill-manchester-tatton",
+  "title": "Cheshire: Quarry Bank Mill, Manchester & Tatton Park",
+  "volume": "A",
+  "spread_range": ["A_0338", "A_0338"],
+  "diary_page_range": [338, 338],
+  "date_start": "2003-05-03",
+  "date_end": "2003-05-04",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Quarry Bank Mill, Styal, Cheshire, UK",
+      "original_wording": "Quarry Bank Mill & the Styal Estate",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0338_L",
+      "excerpt": "Quarry Bank Mill & the Styal Estate are just south of Manchester. In 1785 Samuel Greg founded a water-powered cotton mill & built the village of Styal for his workers. We arrived so late that only the woods (& shop - calico (Calcutt) shirt + apron bought) were open.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Manchester, UK",
+      "original_wording": "Manchester",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0338_L",
+      "excerpt": "On to Manchester, supper in a car park, to hear Thomas play in Strauss' 1868-1946 \"Metamorphoseus\". We camped outside Thomas' Victoria Halls of Residence.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Weekend trip (Sat-Sun); diary ends mid-sentence on Sunday; return home implied as standard trip end",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Day trip to Tatton Park",
+      "date_guess": "2003-05-04",
+      "stops": [
+        {
+          "normalized_name": "Tatton Park, Knutsford, Cheshire, UK",
+          "original_wording": "Tatton Park",
+          "confidence": 0.95,
+          "source_page_id": "A_0338_L",
+          "excerpt": "Thomas arrived at 9.30. we picked up Owen & set off for Tatton Park The gardens are beautiful, but Simon thought the outer park landscape even more magnificent. We saw a dove tree with white handkerchiefs.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A weekend trip north from Birmingham on 3-4 May 2003, visiting Quarry Bank Mill and the Styal Estate (arriving after closing time) before overnighting at Manchester near Thomas's university halls to attend his concert. On Sunday the group visited Tatton Park with its beautiful gardens and parkland landscape.",
+  "extraction_notes": "Traveller 'Tonic' in the transcription is almost certainly the dog Tinder (a common transcription error for a handwritten name). Thomas is a son at university in Manchester (Victoria Halls of Residence). Owen is picked up in Manchester on Sunday morning and joins the Tatton Park excursion. 'Stratford' is mentioned only as context for Racki, Lizzie and Katrin having visited Birmingham the previous weekend before a Quartet concert; it is not a stop on this trip. The diary page ends mid-sentence ('we could') so the Sunday account is incomplete; return to Birmingham is inferred as this is a standard weekend trip. No crossings — entirely within England."
+}

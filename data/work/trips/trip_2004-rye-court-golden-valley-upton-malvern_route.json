@@ -1,0 +1,144 @@
+{
+  "trip_id": "2004-rye-court-golden-valley-upton-malvern",
+  "title": "Rye Court & Golden Valley / Upton Folk Festival & Malvern (May Bank Holiday)",
+  "volume": "B",
+  "spread_range": ["B_0015", "B_0016"],
+  "diary_page_range": [null, null],
+  "date_start": "2004-05-01",
+  "date_end": "2004-05-03",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Rye Court Campsite, Callow End, Worcestershire",
+      "original_wording": "Rye Court Campsite",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0015_L",
+      "excerpt": "We stopped at Rye Court Campsite ... We walked to look over Golden Valley.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Callow End, Worcestershire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Upton upon Severn, Worcestershire",
+      "original_wording": "Upton",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0015_R",
+      "excerpt": "At 9.30. we left to find a church at Upton. The service was at 11. It was opened by the Foxs Morris dancers, dancing the Upton Snodsbury Fertility Dance.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Upton upon Severn, Worcestershire" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Malvern Common, Malvern, Worcestershire",
+      "original_wording": "Malvern Common",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0016_L",
+      "excerpt": "We have come to Malvern Common for lunch.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Great Malvern, Worcestershire" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Malvern Link, Malvern, Worcestershire",
+      "original_wording": "Malvern Link",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "B_0016_R",
+      "excerpt": "We spent the night outside No. 7. ... In the evening we had a very good curry in \"Paprika\" (newly named) at Malvern Link.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Malvern Link, Worcestershire" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk to Golden Valley and Duke of York pub",
+      "date_guess": "2004-05-01",
+      "stops": [
+        {
+          "normalized_name": "Golden Valley, near Callow End, Worcestershire",
+          "original_wording": "Golden Valley",
+          "confidence": 0.95,
+          "source_page_id": "B_0015_L",
+          "excerpt": "We walked to look over Golden Valley. 100s rabbits Tonic didn't catch one.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Callow End, Worcestershire" }
+        },
+        {
+          "normalized_name": "Duke of York pub, near Rye Court, Worcestershire",
+          "original_wording": "Duke of York",
+          "confidence": 0.9,
+          "source_page_id": "B_0015_L",
+          "excerpt": "We walked to Duke of York pub for supper.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Callow End, Worcestershire" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "Monday morning walk and lunch at Christine's in Woodrow",
+      "date_guess": "2004-05-03",
+      "stops": [
+        {
+          "normalized_name": "Woodrow, near Malvern, Worcestershire",
+          "original_wording": "Woodrow",
+          "confidence": 0.85,
+          "source_page_id": "B_0016_R",
+          "excerpt": "In Christine's & Martin's hamlet \"Woodrow\" we walk Tonic on a footpath through a field of very inquisitive horses.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Malvern, Worcestershire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Ben",
+      "issue": "'Leaving Ben at home' — Ben is not in the standard family list (Thomas, William, Peter, John, Charles); possibly a nickname for one of the sons or an unidentified family member/guest.",
+      "source_page_id": "B_0015_L",
+      "excerpt": "Simon, Eve & Tonic set off for Bank Holiday weekend, leaving Ben at home."
+    },
+    {
+      "original_wording": "No. 7",
+      "issue": "Address 'No. 7' near Malvern Link / Ochill Run — likely Christine and Martin's home but street name not confirmed; geocoded approximately to Malvern Link.",
+      "source_page_id": "B_0016_R",
+      "excerpt": "We spent the night outside No. 7. & woke to the sound of rain."
+    },
+    {
+      "original_wording": "[?fels]",
+      "issue": "Illegible surname of people met at Rye Court who make reproductions of classical sculpture; not a place.",
+      "source_page_id": "B_0015_L",
+      "excerpt": "We met people called [?fels] who make reprod. classical sculpture."
+    }
+  ],
+  "boundary_flags": ["mixed_end"],
+  "summary": "Simon and Eve (with the dog) spent the May Bank Holiday 2004 at Rye Court Campsite near Callow End, Worcestershire, walking to overlook the Golden Valley and dining at the Duke of York pub. On Sunday they attended the Upton Folk Festival service at Upton upon Severn with Morris dancers, then moved to the Malvern area for lunch on the Common, an evening curry in Malvern Link, and an overnight stay outside a friend's house (Christine and Martin's), ending Monday with a walk at Woodrow hamlet.",
+  "extraction_notes": "Very short 3-day UK domestic trip with no ferry crossings. The diary names the dog as 'Tonic' (usual family dog is Tinder — may be same animal, different nickname, or a different dog). 'Ben' left at home is unidentified. 'No. 7' is an address near Malvern Link (possibly Ochill Run), geocoded approximately. The Upton Folk Festival confirms Upton upon Severn as the church location (not Upton Snodsbury, which is only the name of the Morris dance). Spread range is B_0015–B_0016; the boundary is marked mixed_end. Page numbers: B_0015_L has no number, B_0015_R is page 13, B_0016_L has no number, B_0016_R is page 4 — numbering appears inconsistent, possibly from different diary sections."
+}

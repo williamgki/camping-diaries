@@ -1,0 +1,65 @@
+{
+  "trip_id": "1992-beauchamp-concert-weekend-gloucester",
+  "title": "Beauchamp Concert Weekend (Gloucester)",
+  "volume": "A",
+  "spread_range": ["A_0076", "A_0076"],
+  "diary_page_range": [136, 136],
+  "date_start": "1992-08-29",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beauchamp House, Gloucestershire, UK",
+      "original_wording": "Beauchamp",
+      "role": "main_stop",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "A_0076_R",
+      "excerpt": "Simon, Eve, [strikethrough: Laura], William, Peter, John, Charles went down for the Beauchamp",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[strikethrough: Laura]",
+      "issue": "A name 'Laura' is struck through in the diary — unclear if this person was originally planned to attend but did not, or a transcription artefact. Does not affect route.",
+      "source_page_id": "A_0076_R",
+      "excerpt": "Simon, Eve, [strikethrough: Laura], William, Peter, John, Charles went down for the Beauchamp"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0076_R contains multiple diary entries from different trips. The 'Sunday 16th August' entry about Eye, Thornham Magna, and Thorpeness (Suffolk) belongs to a separate trip. Only the 'Friday 29th August' entry is treated as this trip.",
+    "mixed_end: the Friday 29th August entry is cut off mid-sentence ('went down for the Beauchamp'); no return-home note or overnight detail is recorded on the available page. Whether the family stayed overnight or returned the same day is unknown.",
+    "The 'Sunday 24th August' entry records Simon separately driving Thomas to Beauchamp and returning to B'ham; this appears to be Thomas's individual transport to the music camp rather than the family trip itself, and is not treated as a distinct stop in this route.",
+    "Date discrepancy: the diary says 'Sunday 24th August' but in 1992 August 24 was a Monday. The year 1992 is taken from the trip_id as authoritative; the day-of-week label in the diary may be an error."
+  ],
+  "summary": "A short domestic trip from Birmingham on Friday 29 August 1992 to attend the Beauchamp House music-camp concert in Gloucestershire. Simon, Eve, William, Peter, John, and Charles travelled together; Thomas had been taken to Beauchamp earlier (Sunday 24 August) by Simon. The diary entry is cut off, so whether the family stayed overnight or returned the same day is not recorded.",
+  "extraction_notes": "Page A_0076_R is boundary-mixed: it contains at least three distinct diary entries from different trips (Suffolk trip in August 16 entry; Thomas transport entry August 24; and this Beauchamp family trip entry August 29). Beauchamp House is identified from the 1991 Arlingham trip route (trip_1991-arlingham-st-augustine-s-farm-via_route.json) as a music-camp venue near Gloucester in Gloucestershire — the title 'Gloucester' in the trip_id corroborates this. The entry is truncated so the end date cannot be determined. No crossings; entirely within England. Thomas's participation is implied (he was delivered to Beauchamp on August 24) but he is not listed in the Friday 29th August travellers group, so he is omitted from the travellers list for this trip record. Laura (struck through) is flagged as unresolved."
+}

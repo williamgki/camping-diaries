@@ -1,0 +1,81 @@
+{
+  "trip_id": "2009-local-picnic-trimpley-hampton-lode-with",
+  "title": "Local picnic: Trimpley / Hampton Loade with Helen & Margaret",
+  "volume": "B",
+  "spread_range": ["B_0159", "B_0159"],
+  "diary_page_range": [159, 159],
+  "date_start": "2009-04-04",
+  "date_end": "2009-04-04",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Day picnic: Trimpley and Hampton Loade",
+      "date_guess": "2009-04-04",
+      "stops": [
+        {
+          "normalized_name": "Trimpley Reservoir, Worcestershire, UK",
+          "original_wording": "[?Trumpby]",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "B_0159_L",
+          "excerpt": "Simon & Eve & Tonic drove over to [?Trumpby] & took Helen & Margaret out for a picnic lunch at Hampton ? Lode",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Hampton Loade, Shropshire, UK",
+          "original_wording": "Hampton ? Lode",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "B_0159_L",
+          "excerpt": "took Helen & Margaret out for a picnic lunch at Hampton ? Lode, by the",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Trumpby]",
+      "issue": "Transcription uncertain; diary title suggests 'Trimpley' (reservoir near Bewdley, Worcestershire), but the page reads '[?Trumpby]'. Identified as Trimpley Reservoir with approximate=true.",
+      "source_page_id": "B_0159_L",
+      "excerpt": "Simon & Eve & Tonic drove over to [?Trumpby]"
+    },
+    {
+      "original_wording": "Tonic",
+      "issue": "Text reads 'Tonic' but family dog is named Tinder — likely a transcription error or variant name. Treated as Tinder the dog for travellers list.",
+      "source_page_id": "B_0159_L",
+      "excerpt": "Simon & Eve & Tonic drove over to [?Trumpby]"
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A single-day local picnic on 4 April 2009: Simon, Eve, and the dog drove to the Trimpley area near Bewdley, picked up friends Helen and Margaret, and had a picnic lunch at Hampton Loade on the River Severn in Shropshire. No overnight stop; the whole outing was a day trip from Birmingham.",
+  "extraction_notes": "This is a one-page, single-day local outing. The page text is truncated ('at Hampton ? Lode, by the'). The place name '[?Trumpby]' is flagged uncertain in the transcription; the trip title spells it 'Trimpley', matching Trimpley Reservoir near Bewdley — recorded with approximate=true. 'Tonic' in the text is likely a transcription variant for the dog Tinder. The photo caption 'Peckover House, Cambridgeshire, The Drawing Room' appears on the same page but relates to a separate photograph, not this trip's route. No crossings. Helen and Margaret are guests, not family members, so not listed in travellers."
+}

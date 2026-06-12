@@ -1,0 +1,133 @@
+{
+  "trip_id": "2010-suffolk-graduation-party-then-belgium-thorpeness",
+  "title": "Suffolk Graduation Party then Belgium (Thorpeness & Groenpark)",
+  "volume": "B",
+  "spread_range": ["B_0175", "B_0177"],
+  "diary_page_range": [175, 177],
+  "date_start": "2010-07-17",
+  "date_end": "2010-07-19",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB", "FR", "BE"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Thorpeness, Suffolk, UK",
+      "original_wording": "[?Thornesweathers] / Thorpeness",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0175_R",
+      "excerpt": "Simon & Eve set off, dropping Tonic at [?Karsels]. We are driving to [?Thornesweathers] for Momiji's & Koroku's graduation party. On the A14 in the other direction was a huge jam. After Cambridge we went on a parallel road for lunch at Burwell (then Swaffham & [?leds]) before rejoining the A12.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Folkestone, UK",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "diary says 'managed to get 1.42 [?train] instead of 2.40, eating lunch during the crossing' — timed train crossing of the Channel indicates Eurotunnel; departed from Thorpeness/Suffolk area via Dartford Bridge heading south-east to Folkestone",
+      "source_page_id": "B_0176_L",
+      "excerpt": "We went over the Dartford Bridge &, having left [?Thorpeness] at 10, managed to get 1.42 [?train] instead of 2.40, eating lunch during the crossing.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Coquelles, France",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Eurotunnel arrival terminal; onward route past Dunkirk toward Ghent is consistent with exit at Coquelles/Calais then A16 east",
+      "source_page_id": "B_0176_L",
+      "excerpt": "On past Dunkirk to near Ghent, difficult road",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Camping Groenpark, near Dendermonde, Belgium",
+      "original_wording": "Camping Greenpark (Groenpark)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0176_R",
+      "excerpt": "Most annoying poor signposting of campsite - only one tiny sign to Camping Greenpark (Groenpark) at a tiny roundabout. we went back & forth near Dendermonde + passed it at least once.",
+      "geocode_hint": { "countrycodes": "be" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": true,
+      "inferred": false,
+      "source_page_id": "B_0176_L",
+      "excerpt": "managed to get 1.42 [?train] instead of 2.40, eating lunch during the crossing"
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Day trip to Temse and St. Amands",
+      "date_guess": "2010-07-19",
+      "stops": [
+        {
+          "normalized_name": "Temse, Belgium",
+          "original_wording": "Temse",
+          "confidence": 0.9,
+          "source_page_id": "B_0176_R",
+          "excerpt": "We drive to Temse. The parking machine swallows a euro so we get a free ticket & dash to look at the river - muddy. 1/4 mile metal bridge, longest in B.",
+          "geocode_hint": { "countrycodes": "be" }
+        },
+        {
+          "normalized_name": "Sint-Amands, Belgium",
+          "original_wording": "St. Amands",
+          "confidence": 0.9,
+          "source_page_id": "B_0176_R",
+          "excerpt": "On then West -> St. Amands. Poor signposting.",
+          "geocode_hint": { "countrycodes": "be" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Karsels]",
+      "issue": "Location where Tonic the dog was dropped off before the trip; possibly a kennel or friend's address near Birmingham — cannot identify from diary text",
+      "source_page_id": "B_0175_R",
+      "excerpt": "Simon & Eve set off, dropping Tonic at [?Karsels]."
+    }
+  ],
+  "boundary_flags": [
+    "B_0175_R contains a mixed page: earlier entry (Saturday July 4th — Arley Arboretum) is a distinct prior event, not part of this trip. This trip begins with Saturday July 17th entry on the same page."
+  ],
+  "summary": "Simon and Eve drove to Thorpeness, Suffolk on 17 July 2010 for Momiji and Koroku's graduation party, staying overnight at Annie's Cottage. The next day they crossed to France via the Eurotunnel and drove to Camping Groenpark near Dendermonde in Belgium, making day trips to Temse and St. Amands along the Scheldt before returning home.",
+  "extraction_notes": "1. The page B_0175_R is a 'mixed' boundary page: an earlier entry for 'Saturday July 4th' (Simon, Eve, Tonic at Arley Arboretum) precedes the July 17th departure — this earlier entry is NOT part of this trip. 2. 'Tonic' is the dog (spelled 'Tinder' in family context but referred to as 'Tonic' here — likely the same pet). 3. The 'train' crossing is confidently the Eurotunnel based on the timed slot (1:42 vs 2:40) and 'eating lunch during the crossing' — consistent with a ~35-min tunnel transit rather than a 90-min ferry. 4. Route past Dunkirk confirms exit at Coquelles, not at Dunkirk itself. 5. John is mentioned (staying at the party, going to Sweden next day) but was not travelling with Simon and Eve on this trip. 6. Date_end is estimated as approximately July 19-20 based on at least two nights implied (Saturday night Thorpeness, Sunday night Groenpark + Saturday excursion day); exact return date not stated. 7. 'Groenpark' campsite near Dendermonde is a real campsite in the Donk area (Berlare) on the River Scheldt — diary mention of 'Donk = sandy dunes in marshy land' confirms this location."
+}

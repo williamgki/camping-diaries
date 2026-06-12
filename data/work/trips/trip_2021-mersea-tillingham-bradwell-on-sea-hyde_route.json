@@ -1,0 +1,115 @@
+{
+  "trip_id": "2021-mersea-tillingham-bradwell-on-sea-hyde",
+  "title": "Mersea, Tillingham, Bradwell-on-Sea & Hyde Hall",
+  "volume": "B",
+  "spread_range": ["B_0358", "B_0360"],
+  "diary_page_range": null,
+  "date_start": null,
+  "date_end": null,
+  "date_precision": "month",
+  "date_notes": "Diary gives only weekday names (Tuesday–Sunday) with a month hint of October 2021 from context; no ISO dates can be assigned with confidence.",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "West Mersea, Essex, UK",
+      "original_wording": "West Mersea Quay",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0358_R",
+      "excerpt": "We found a space on West Mersea Quay, [?Rothari] Park 4 Night. It's a beautiful spot. High tide almost reaches us. Lovely sunset, misty sunrise.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Tillingham, Essex, UK",
+      "original_wording": "Markes Farm, Tillingham",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0358_R",
+      "excerpt": "We arrived at Markes Farm, Tillingham &",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "London, UK",
+      "original_wording": "London",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0360_L",
+      "excerpt": "At 10.30, we set off for lunch with David + the weekend with Peter in London. We stayed with Peter + Nana for Friday + Saturday nights.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0360_L",
+      "excerpt": "We left straight after lunch to get back for the St. G. church course. Home 5.15.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Bradwell-on-Sea: St Peter on the Wall",
+      "date_guess": null,
+      "date_day_name": "Wednesday",
+      "stops": [
+        {
+          "normalized_name": "St Peter-on-the-Wall, Bradwell-on-Sea, Essex, UK",
+          "original_wording": "St. Peter on the Wall at Bradwell on Sea",
+          "confidence": 0.95,
+          "source_page_id": "B_0359_L",
+          "excerpt": "We set off for St. Peter on the Wall at Bradwell on Sea, (the Fort of Othona.) It was built for St Cedd's mission from Northumberland to the Saxons in 654.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Hyde Hall RHS Garden",
+      "date_guess": null,
+      "date_day_name": "Wednesday",
+      "stops": [
+        {
+          "normalized_name": "RHS Garden Hyde Hall, Rettendon, Essex, UK",
+          "original_wording": "Hyde Hall",
+          "confidence": 0.9,
+          "source_page_id": "B_0359_R",
+          "excerpt": "We drove to Hyde Hall. This is quite a modern garden, very beautiful. We looked at the veg & \"dry garden\".",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "flag": "mixed_end",
+      "page_id": "B_0360_L",
+      "note": "Page B_0360_L is mixed_end=true; the trip ends mid-page with Sunday's return home. The remainder of the page records Simon's later use of the van (October to November 15th) which is not part of this trip."
+    }
+  ],
+  "summary": "A short autumn trip in Essex: Simon and Eve overnighted in their campervan at West Mersea Quay before moving to Markes Farm campsite at Tillingham, where friends Matt and Heather Portal were nearby. Day excursions from Tillingham included a visit to the Saxon chapel of St Peter-on-the-Wall at Bradwell-on-Sea and the RHS garden at Hyde Hall, before the trip concluded with a weekend in London staying with their son Peter.",
+  "extraction_notes": "No ferry crossings — entirely within England. Diary gives only weekday names with no year/month explicitly written on these pages; October 2021 is inferred from the trip_id date_guess and surrounding entries. The 'Duke's Restaurant' visit on Tuesday was at West Mersea and the '5 lakes golfing hotel' stop appears to be a brief work call by Simon on the same day (not an overnight stop). The Friday lunch with 'David' is likely a family member but his location is not given — not recorded as a separate stop. Peter's address is not given beyond 'London'; geocoded to central London as an anchor."
+}

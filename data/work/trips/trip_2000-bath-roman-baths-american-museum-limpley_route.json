@@ -1,0 +1,152 @@
+{
+  "trip_id": "2000-bath-roman-baths-american-museum-limpley",
+  "title": "Bath: Roman Baths, American Museum & Limpley Stoke",
+  "volume": "A",
+  "spread_range": ["A_0280", "A_0281"],
+  "diary_page_range": [280, 281],
+  "date_start": "2000-05-05",
+  "date_end": "2000-05-07",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Bath Marina and Caravan Park, Bath",
+      "original_wording": "Bath Marina Park",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0280_L",
+      "excerpt": "Simon, Eve, John 12, Charles 11 left 86 for Bath. Charles map read. We are staying at the Bath Marina Park, west of Bath.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Bath, Somerset" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.75,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Trips start and end at home unless the diary says otherwise; boundary_mixed on final page suggests trip continues but return home is standard",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Bath city sightseeing: Roman Baths, weir, photography museum, American Museum, Vine Tree, Royal Crescent",
+      "date_guess": "2000-05-06",
+      "stops": [
+        {
+          "normalized_name": "Roman Baths, Bath",
+          "original_wording": "Roman Baths",
+          "confidence": 0.97,
+          "source_page_id": "A_0280_L",
+          "excerpt": "At 10 we left & went to the Roman Baths. It is beautifully laid out & very interesting.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Pulteney Bridge, Bath",
+          "original_wording": "Pulteney Bridge",
+          "confidence": 0.9,
+          "source_page_id": "A_0280_L",
+          "excerpt": "We had a drink & looked at the [illegible] shape below Pulteney Bridge; the weir.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "National Centre of Photography, Bath",
+          "original_wording": "photography museum",
+          "confidence": 0.65,
+          "approximate": true,
+          "source_page_id": "A_0280_L",
+          "excerpt": "In the afternoon we visited the photography museum which had a marvellous exhibition of photos of faces of the C20.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Bath, Somerset" }
+        },
+        {
+          "normalized_name": "American Museum in Britain, Bath",
+          "original_wording": "American Museum",
+          "confidence": 0.95,
+          "source_page_id": "A_0280_R",
+          "excerpt": "Shaker Room, American Museum, Bath.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Vine Tree, Bath",
+          "original_wording": "the Vine Tree",
+          "confidence": 0.85,
+          "source_page_id": "A_0281_L",
+          "excerpt": "At 6.45 pm we left the campsite, bussed back into town & had supper at the Vine Tree. Delicious. Pork & faggots.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Bath, Somerset" }
+        },
+        {
+          "normalized_name": "Royal Crescent, Bath",
+          "original_wording": "Royal Crescent",
+          "confidence": 0.95,
+          "source_page_id": "A_0281_L",
+          "excerpt": "After supper we walked to look at the Royal Crescent.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sunday churches: Claverton, Limpley Stoke, Freshford",
+      "date_guess": "2000-05-07",
+      "stops": [
+        {
+          "normalized_name": "Claverton, Bath",
+          "original_wording": "Claverton village",
+          "confidence": 0.9,
+          "source_page_id": "A_0281_L",
+          "excerpt": "The people at Claverton village were snooty about helping us find a church when we arrived at the end of their service.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Bath, Somerset" }
+        },
+        {
+          "normalized_name": "Limpley Stoke, Wiltshire",
+          "original_wording": "Limpley Stoke",
+          "confidence": 0.95,
+          "source_page_id": "A_0281_L",
+          "excerpt": "At the next church, Limpley Stoke, Simon saw Jill Wright crossing the graveyard.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Freshford, Bath and North East Somerset",
+          "original_wording": "Freshford",
+          "confidence": 0.9,
+          "source_page_id": "A_0281_L",
+          "excerpt": "So we shared their church coffee (Saxon arch) & set off to Freshford. A very welcoming church & good sermon by a lay-reader.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "photography museum",
+      "issue": "A 'photography museum' in Bath with an exhibition of C20 portrait photographs — possibly the Royal Photographic Society's National Centre of Photography (at The Octagon, Bath) or another Bath gallery; cannot confirm with certainty",
+      "source_page_id": "A_0280_L",
+      "excerpt": "we visited the photography museum which had a marvellous exhibition of photos of faces of the C20"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: A_0281_L has boundary_mixed=true; the Sunday narrative may continue on the next spread. The trip likely ended with return to Birmingham after lunch with Hugh and Jill at Freshford, but this is not confirmed in these pages."
+  ],
+  "summary": "A long weekend trip to Bath in May 2000, with Simon, Eve, John and Charles staying at Bath Marina Park. They visited the Roman Baths, Pulteney Bridge weir, a photography museum, the American Museum in Britain (Claverton Manor), dined at the Vine Tree and walked to the Royal Crescent. On Sunday they visited churches at Claverton, Limpley Stoke (where they unexpectedly met family friends Hugh and Jill Wright), and Freshford.",
+  "extraction_notes": "Travellers are Simon, Eve, John (aged 12) and Charles (aged 11) only — Thomas, William and Peter are not mentioned. The final page (A_0281_L) has boundary_mixed=true, meaning the trip may have continued on the next spread; the return home is inferred. The 'photography museum' cannot be positively identified from the diary text alone. The American Museum in Britain is at Claverton Manor — the Sunday village visit to 'Claverton' is the same area and likely a separate church visit rather than a return to the museum."
+}

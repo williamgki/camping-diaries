@@ -1,0 +1,161 @@
+{
+  "trip_id": "1990-new-forest-beaulieu-chandlers-ford-last",
+  "title": "New Forest, Beaulieu & Chandlers Ford (last trip of the year, November 1990)",
+  "volume": "A",
+  "spread_range": ["A_0034", "A_0036"],
+  "diary_page_range": [65, 68],
+  "date_start": "1990-11-01",
+  "date_end": "1990-11-04",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "William", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Jean and Frank Hammond (location unknown)",
+      "original_wording": "Jean + Frank Hammond",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": true,
+      "source_page_id": "A_0034_R",
+      "excerpt": "We visited Jean + Frank Hammond + then dropped Thomas off at the [illegible] Hinses.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "note": "Location unknown; friends or relatives visited on the outward leg"
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Lyndhurst, Hampshire, UK",
+      "original_wording": "Lyndhurst",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0035_L",
+      "excerpt": "Lyndhurst has an information centre, so we went there to find a winter campsite, but it was dark + the centre was closed.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Roundhill Campsite, New Forest, UK",
+      "original_wording": "Roundhill",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0035_L",
+      "excerpt": "So we had to go on in the dark to Roundhill. It was 6.30. + we had been in the van for 9 hours.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Lady Cross, New Forest, UK",
+      "original_wording": "LadyCross",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0035_L",
+      "excerpt": "We parked at in the New Forest near LadyCross + walked through beautiful trees. We saw deer 3 times",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Beaulieu, Hampshire, UK",
+      "original_wording": "Beaulieu",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0035_R",
+      "excerpt": "In the afternoon we went to Beaulieu, Bella Loco. The museum feels very posh. We saw the cars + 2 old camping vans, William rode on a motor bike, + John on a car.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Setthornes Campsite, New Forest, UK",
+      "original_wording": "Setthornes",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0035_R",
+      "excerpt": "That night we camped in among trees at Setthornes.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Lymington, Hampshire, UK",
+      "original_wording": "Lymington",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0036_L",
+      "excerpt": "We set off to Lymington & wandered around the town looking at market stalls, seeing the quayside too.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Chandler's Ford, Hampshire, UK",
+      "original_wording": "Chandlers Ford",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0036_L",
+      "excerpt": "We had lunch with Hattie + Simon drove into Southampton with James, while Hattie + I walked the younger children to the park. Chandlers Ford",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Cotswolds, UK",
+      "original_wording": "the Cotswolds",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": true,
+      "source_page_id": "A_0036_R",
+      "excerpt": "We stopped in the Cotswolds to pick up Simon's 'cello.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0036_R",
+      "excerpt": "It has been a fabulous year's camping.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Hinses",
+      "issue": "Family surname ('the Hinses') used as a location; Thomas was dropped off here on the outward leg, then picked up on the return at Jane + Harry's. Exact location unknown.",
+      "source_page_id": "A_0034_R",
+      "excerpt": "dropped Thomas off at the [illegible] Hinses"
+    },
+    {
+      "original_wording": "Duguids",
+      "issue": "Family surname ('the Duguids') used as a location; Peter was dropped off here on the outward leg. Exact location unknown.",
+      "source_page_id": "A_0034_R",
+      "excerpt": "we took Peter on to the Duguids; + went on"
+    },
+    {
+      "original_wording": "Jane + Harry's",
+      "issue": "Friends or relatives where Thomas was collected on the Sunday; location unknown, but likely near Chandlers Ford or en route to Cotswolds/Birmingham.",
+      "source_page_id": "A_0036_R",
+      "excerpt": "We went on to pick up Thomas at lunch at Jane + Harry's."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A late-season November 1990 domestic trip to the New Forest, with the family camping first at Roundhill and then Setthornes, visiting Beaulieu Motor Museum and walking near Lady Cross. On the return leg they stopped at Lymington market, stayed with friends ('Hattie') in Chandlers Ford, and paused in the Cotswolds to collect Simon's cello before arriving home.",
+  "extraction_notes": "The date header on A_0034_R reads 'November 1st' with an erroneous iso year of 1993 in the transcription; the correct year is 1990 per trip_id and context. Thomas and Peter were dropped off at family friends' homes on the outward leg (Hinses and Duguids respectively) and are therefore not present for most of the trip; Thomas was picked up at Jane + Harry's on the Sunday return. Jean + Frank Hammond were visited briefly on the outward leg; their location is not stated. Setthornes campsite (also spelled Sethorns/Set Thorns on modern maps) is in the New Forest near Brockenhurst. The Beaulieu visit included the National Motor Museum, the Abbey, and the monorail. Southampton was visited briefly by Simon and James (a local?) on the Nov 3rd leg; this is not a separate overnight stop. No ferry or other crossings; entire trip within England."
+}

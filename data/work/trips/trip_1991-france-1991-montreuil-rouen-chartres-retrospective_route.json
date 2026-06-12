@@ -1,0 +1,129 @@
+{
+  "trip_id": "1991-france-1991-montreuil-rouen-chartres-retrospective",
+  "title": "France 1991: Montreuil, Rouen & Chartres",
+  "volume": "A",
+  "spread_range": ["A_0254", "A_0254"],
+  "diary_page_range": [79, 79],
+  "date_start": "1991-07-11",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dover",
+      "original_wording": "Dover",
+      "role": "crossing_terminal",
+      "confidence": 1.0,
+      "approximate": false,
+      "inferred": false,
+      "source_page_id": "A_0254_R",
+      "excerpt": "clear run through to Dover via Dartford Tunnel. We drove straight onto the ferry just after 4.30.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Calais, France",
+      "original_wording": null,
+      "role": "crossing_terminal",
+      "confidence": 0.6,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no French port named in diary. Boulogne is mentioned as a local reference point (Montreuil is 40 minutes from Boulogne), suggesting a Boulogne or Calais arrival; dover-calais used as default.",
+      "source_page_id": "A_0254_R",
+      "excerpt": "In France at 7.0.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Montreuil-sur-Mer, France",
+      "original_wording": "Montreuil",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0254_R",
+      "excerpt": "We camped in Fontaines des Cleres campsite **** at Montreuil, a pretty walled town 40 minutes from Boulogne.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Abbeville, France",
+      "original_wording": "Abbeville",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0254_R",
+      "excerpt": "We stopped at Abbeville, to buy William sandals.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Rouen, France",
+      "original_wording": "Rouen",
+      "role": "main_stop",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0254_R",
+      "excerpt": "In the afternoon we visited Rouen where we looked at the Church, lovely plain piers & varied clerestory. We rode in a \"train\" round the old wooden streets.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All family trips start and end at home; return route not documented in the single surviving page (entry cut off mid-sentence).",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 2,
+      "route_key": "dover-calais",
+      "kind": "ferry",
+      "named_in_diary": false,
+      "inferred": true,
+      "inference_reason": "default England-France crossing; no French port named. Diary mentions 'drove straight onto the ferry just after 4.30' at Dover, arriving 'In France at 7.0'. Boulogne cited as local reference point, so dover-boulogne is also plausible, but dover-calais applied per default rule.",
+      "source_page_id": "A_0254_R",
+      "excerpt": "We drove straight onto the ferry just after 4.30. In France at 7.0."
+    }
+  ],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Chartres",
+      "issue": "Title names Chartres as a destination, but the diary explicitly states 'We did not reach Chartres' on the day they departed Montreuil. The single surviving page ends mid-sentence; it is unknown whether Chartres was visited on a subsequent day not recorded in the surviving text.",
+      "source_page_id": "A_0254_R",
+      "excerpt": "We left at 9.15. to go & visit Chartres. We did not reach Chartres."
+    },
+    {
+      "original_wording": "Fontaines des Cleres",
+      "issue": "Campsite name at Montreuil. May refer to a locality or campsite named 'Fontaines des Cleres' (possibly 'Fontaine-les-Clercs' or a proprietary campsite name). Does not affect the Montreuil overnight stop but worth resolving for campsite metadata.",
+      "source_page_id": "A_0254_R",
+      "excerpt": "We camped in Fontaines des Cleres campsite **** at Montreuil"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: A_0254 is shared with another entry; only the right page (A_0254_R) belongs to this trip.",
+    "Single-page retrospective entry — narrative ends mid-sentence; remainder of trip not recorded in surviving source."
+  ],
+  "summary": "A July 1991 trip to northern France, departing Birmingham on 11 July and crossing the Channel by ferry from Dover. The family camped at Montreuil-sur-Mer and on the second day drove towards Chartres, stopping at Abbeville and visiting the cathedral city of Rouen, though they did not reach Chartres. The diary entry covers only the first two days; the rest of the trip is unrecorded in the surviving source.",
+  "extraction_notes": "Retrospective entry on a single page (A_0254_R). The French port is not named; dover-calais used by default, though the Boulogne reference (Montreuil is '40 minutes from Boulogne') makes dover-boulogne equally plausible. The traveller list is incomplete in the diary — only John and Charles are specifically named ('John & Charles have enjoyed everything'); Simon and Eve are implied as parents driving the trip. The full family composition is unclear from this page alone (William is mentioned obliquely — 'buy William sandals'). Date of departure is explicit (July 11th 1991). No return date is recorded. The entry ends mid-sentence ('collected a £[illegible] for') suggesting the page was cut off or more pages followed but are lost/unassigned."
+}

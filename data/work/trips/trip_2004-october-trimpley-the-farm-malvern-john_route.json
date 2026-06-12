@@ -1,0 +1,99 @@
+{
+  "trip_id": "2004-october-trimpley-the-farm-malvern-john",
+  "title": "October: Trimpley, the Farm & Malvern (John's Concerts, Little Malvern Court)",
+  "volume": "B",
+  "spread_range": ["B_0048", "B_0051"],
+  "diary_page_range": [46, 47],
+  "date_start": "2004-10-16",
+  "date_end": "2004-10-17",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "Melody", "Charlotte", "Tonie", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Trimpley, Worcestershire, UK",
+      "original_wording": "Trimpley",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0048_R",
+      "excerpt": "At about 11.45. we set off for Trimpley & then the farm. Simon, Eve, Thomas, Melody & Charlotte & Tonie visited Trimpley. Jim is very ill.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bromyard, Herefordshire, UK",
+      "original_wording": "the farm",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0049_L",
+      "excerpt": "On To the farm to see the apples. We walked through the orchards. ... We had been going to take Kate + Jannie out for a meal, but John was playing \"The Swan\" at Little Malvern Court.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Saturday evening: John's concert at Little Malvern Court",
+      "date_guess": "2004-10-16",
+      "stops": [
+        {
+          "normalized_name": "Little Malvern Court, Worcestershire, UK",
+          "original_wording": "Little Malvern Court",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0049_L",
+          "excerpt": "John was playing \"The Swan\" at Little Malvern Court. So we went to hear him. It was very posh - black tie.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Sunday evening: John's informal concert at Malvern",
+      "date_guess": "2004-10-17",
+      "stops": [
+        {
+          "normalized_name": "Malvern, Worcestershire, UK",
+          "original_wording": "Malvern",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "B_0049_R",
+          "excerpt": "We made sandwiches & left for John's concert at Malvern. Charles came & sat with us. It was a good concert.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page B_0048_R contains the end of a previous trip (August entries) before this trip begins on Saturday 16th October"
+  ],
+  "summary": "A weekend trip from Birmingham in October 2004, calling at Trimpley to visit the ailing Jim before settling at Kate and Jannie's farm near Bromyard. The visit centred on John's two concerts: a formal black-tie performance of 'The Swan' at Little Malvern Court on Saturday evening, and an informal concert at Malvern on Sunday; the family also walked the orchards, rowed, and explored a Roman pottery site on the hilltop.",
+  "extraction_notes": "Page B_0048_R has a mixed start: the left column continues an August trip before 'Saturday 16th October' opens this entry. 'The farm' is identified as Kate and Jannie's farm near Bromyard, Herefordshire, consistent with other diary trips (e.g. 1995-bromyard-kate-jamie-s-farm). The concert programme insert (B_0050_L/R) is dated Sunday 17th October 2004, St Edmund's Hall, confirming the Sunday concert. Thomas arrived from America (Ohio) earlier the same day. Monday October 22nd on B_0049_R appears to be the start of a subsequent entry; the end date for this trip is treated as Sunday 17th October pending further evidence."
+}

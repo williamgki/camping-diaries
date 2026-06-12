@@ -1,0 +1,79 @@
+{
+  "trip_id": "2021-chedworth-roman-villa-short-trip-peter",
+  "title": "Chedworth Roman Villa (short trip, Peter's birthday)",
+  "volume": "B",
+  "spread_range": ["B_0345", "B_0345"],
+  "diary_page_range": null,
+  "date_start": "2021-05-24",
+  "date_end": "2021-05-25",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Raglan Castle, Monmouthshire, Wales",
+      "original_wording": "Raglan Castle",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0345_L",
+      "excerpt": "We have driven quite a tortuous route over the Heads of the Valleys – new roads being built, & stopped for lunch at Raglan Castle.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Chedworth Roman Villa, Gloucestershire",
+      "original_wording": "Chadworth Roman Villa",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0345_L",
+      "excerpt": "Tuesday May 25th Peter's Birthday 11.10. We left for a short trip to see Chadworth Roman Villa",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Heads of the Valleys",
+      "issue": "Named as a road/area traversed on Monday, not a specific stop — included for context but no precise overnight base named for Monday night.",
+      "source_page_id": "B_0345_L",
+      "excerpt": "We have driven quite a tortuous route over the Heads of the Valleys – new roads being built"
+    },
+    {
+      "original_wording": "overnight base (Monday night)",
+      "issue": "The diary records a Monday travel day (Raglan Castle lunch stop) and a Tuesday visit to Chedworth, implying one overnight somewhere between South Wales/Monmouthshire and Gloucestershire, but no campsite or base is named.",
+      "source_page_id": "B_0345_L",
+      "excerpt": "We have driven quite a tortuous route over the Heads of the Valleys – new roads being built, & stopped for lunch at Raglan Castle."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0345_L begins with content from a preceding Wales trip (Llanmador/Gower/St Davids coastal narrative); this trip's content starts at the 'Monday' heading"
+  ],
+  "summary": "A short birthday trip for Peter (turning 11 on 25 May 2021), travelling from Birmingham via a tortuous route over the Heads of the Valleys with a lunch stop at Raglan Castle on Monday, then visiting Chedworth Roman Villa in Gloucestershire on Tuesday. The diary notes that during lunch at Chedworth they learned that Kaz and John were expecting their second baby.",
+  "extraction_notes": "Page B_0345_L has mixed_start=true: the top of the page continues a previous Wales trip (horses on Llanmador beach, Gower, St Davids police incident). This trip's content begins at the 'Monday' heading. The diary spells the villa 'Chadworth' throughout; the correct modern name is Chedworth. No overnight base is named for Monday night — marked as unresolved. Travellers not explicitly listed; Peter is named (birthday), and the text uses 'we' throughout suggesting at least Simon and/or Eve present. 'Tuesday May 25th' confirms 2021-05-25 (Peter's 11th birthday per '11.10' notation). Diary page numbers not given (no 'no' field on B_0345_L; B_0345_R is page 1 of a printed information card, not a diary page number)."
+}

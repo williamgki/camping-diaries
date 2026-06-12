@@ -1,0 +1,103 @@
+{
+  "trip_id": "2000-hay-on-wye-llanthony-priory-skenfrith",
+  "title": "Hay-on-Wye, Llanthony Priory & Skenfrith Castle",
+  "volume": "A",
+  "spread_range": ["A_0283", "A_0284"],
+  "diary_page_range": [27, 27],
+  "date_start": "2000-07-01",
+  "date_end": "2000-07-02",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0283_L",
+      "excerpt": "We left home, S, E, J, C, & breakfasted in a lay by.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Worcester, UK",
+      "original_wording": "10 miles w. of Worcester",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "A_0283_L",
+      "excerpt": "10 miles w. of Worcester. We left home, S, E, J, C, & breakfasted in a lay by.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Hay-on-Wye, UK",
+      "original_wording": "Hay-on-Wye",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0283_L",
+      "excerpt": "We reached __Hay-on-Wye__ at H.30., 11.45., where we looked at book shops.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Radnor's End, Hay-on-Wye, UK",
+      "original_wording": "Radnor's End",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0283_L",
+      "excerpt": "The campsite was across the bridge at __Radnor's End__ * * * *",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Llanthony Priory, UK",
+      "original_wording": "Llanthony Priory",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0283_L",
+      "excerpt": "Breakfast outdoors & we drove to __Llanthony Priory__ - Very beautiful.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Skenfrith Castle, UK",
+      "original_wording": "Skenfrith Castle",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0283_R",
+      "excerpt": "We are having tea [lunch crossed out] in a lay by. We are near a mill & bridge at __Skenfrith Castle__.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.7,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "A_0284_L",
+      "issue": "Page marked boundary_mixed / trip mixed_end: the Skenfrith Castle spread (A_0284) likely also carries the opening of the following trip. Skenfrith is the last stop of THIS trip; no return-home note is recorded before the boundary.",
+      "excerpt": "[Hand-drawn plan/sketch of Skenfrith Castle]"
+    }
+  ],
+  "summary": "A short two-day weekend trip (1-2 July 2000) by Simon, Eve and the two youngest boys, John and Charles. They drove from Birmingham via a lay-by west of Worcester to Hay-on-Wye for its bookshops, camping overnight at Radnor's End across the river. On the Sunday they visited Llanthony Priory and Skenfrith Castle in the Welsh Marches before heading home.",
+  "extraction_notes": "The only sketch on this trip (A_0284_L) is a plan-view architectural diagram of Skenfrith Castle (towers, watergate, chapel, kitchens, mill, river), NOT a route-order sketch, so narrative order governs the main route; the sketch corroborates Skenfrith Castle as a visited stop. Travellers narrowed to 'S, E, J, C' (Simon, Eve, John, Charles) per A_0283_L; Thomas, William and Peter are not mentioned. Worcester is recorded only as a distance anchor for the lay-by breakfast ('10 miles w. of Worcester'), treated as an approximate transit_stop. Tretower and Gwent appear only in the castle's historical description ('Rebuilt 1270 in stone (along with Tretower) subduing Gwent') and are NOT visited stops. Return home is inferred (confidence 0.7): no explicit homeward note appears before the trip boundary (mixed_end / A_0284 boundary_mixed). Diary page number 27 is taken from A_0283_R. No sea/tunnel crossings (domestic GB trip)."
+}

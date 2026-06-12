@@ -1,0 +1,106 @@
+{
+  "trip_id": "1999-stapeley-water-gardens-then-london-move",
+  "title": "Stapeley Water Gardens; then London (move Thomas to Mountview Rd)",
+  "volume": "A",
+  "spread_range": ["A_0279", "A_0279"],
+  "diary_page_range": [279, 279],
+  "date_start": "1999-08-22",
+  "date_end": "1999-09-03",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "London, UK",
+      "original_wording": "London",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0279_L",
+      "excerpt": "We spent the night on Mountview Rd.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Day trip to Stapeley Water Gardens",
+      "date_guess": "1999-08-22",
+      "stops": [
+        {
+          "normalized_name": "Stapeley Water Gardens, Nantwich",
+          "original_wording": "Stapeley Water Gardens",
+          "confidence": 0.95,
+          "source_page_id": "A_0279_L",
+          "excerpt": "After church we went to Stapeley Water Gardens with Jim, Margaret & Helen & Polly, the American cousin/nannie.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Errands in central London and Trinity College visit",
+      "date_guess": "1999-09-03",
+      "stops": [
+        {
+          "normalized_name": "Trinity College of Music, London",
+          "original_wording": "Trinity College",
+          "confidence": 0.65,
+          "approximate": true,
+          "source_page_id": "A_0279_L",
+          "excerpt": "Thomas went into the centre & Trinity College.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Mountview Road, London N4",
+          "original_wording": "32 Mountview Rd, N4",
+          "confidence": 0.95,
+          "source_page_id": "A_0279_L",
+          "excerpt": "We moved Thomas into 32 Mountview Rd, N4.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "David's",
+      "issue": "Diary mentions going to David's for a restaurant for Jim & Margaret's diamond wedding anniversary. Identity and location of David not established; likely in the London area given the context of the day's travel.",
+      "source_page_id": "A_0279_L",
+      "excerpt": "Then we drove to David's & went to a restaurant for Jim & Margaret's diamond wedding anniversary."
+    },
+    {
+      "original_wording": "Jonathan",
+      "issue": "A Jonathan is mentioned showing Eve curtain material in London; identity and address not given.",
+      "source_page_id": "A_0279_L",
+      "excerpt": "Jonathan showed Eve good curtain material for the bedroom."
+    }
+  ],
+  "boundary_flags": ["mixed_start", "mixed_end"],
+  "summary": "A two-part domestic diary entry from August–September 1999: on 22 August the family made a day trip to Stapeley Water Gardens in Cheshire (with relatives Jim, Margaret, Helen, and an American cousin Polly) for John's birthday tea. On 3 September, Simon, Thomas, and Eve drove to London to move Thomas into his new home at 32 Mountview Road, N4, spending the night there before returning to Birmingham.",
+  "extraction_notes": "This is a single diary page (A_0279_L) covering two distinct events separated by 12 days. The page is marked mixed_start and mixed_end. The Stapeley trip on 22 Aug is clearly a day trip from home (no overnight mentioned); all family members are assumed present though only 'we' is used. The London trip on 3 Sept explicitly names only Simon, Thomas, and Eve. Trinity College in London is identified tentatively as Trinity College of Music (now Trinity Laban Conservatoire) based on Thomas being a music student moving to London; marked approximate=true. 'David' and 'Jonathan' are mentioned by first name only and cannot be located. The dog Tinder is included in travellers by family default but likely did not attend all outings. Date year confirmed as 1999 by trip_id; 22 Aug 1999 was indeed a Sunday and 3 Sept 1999 was indeed a Friday."
+}

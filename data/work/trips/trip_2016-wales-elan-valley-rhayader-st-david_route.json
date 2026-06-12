@@ -1,0 +1,192 @@
+{
+  "trip_id": "2016-wales-elan-valley-rhayader-st-david",
+  "title": "Wales: Elan Valley, Rhayader & St David's",
+  "volume": "B",
+  "spread_range": ["B_0270", "B_0274"],
+  "diary_page_range": [91, 93],
+  "date_start": "2016-08-12",
+  "date_end": "2016-08-21",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0270_L",
+      "excerpt": "12.30 Simon & Eve, Tindse leave for farm.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "The farm (hop farm, location unresolved)",
+      "original_wording": "farm",
+      "role": "overnight_base",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "B_0270_L",
+      "excerpt": "Jam on motorway, lunch, arrive farm at 3. Simon & Eve help bind hop stems around sticks & pull up weeds.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Llanwrthwl, Powys, Wales",
+      "original_wording": "Polwigo Campsite Llanwrthwl near Rhayader",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0270_R",
+      "excerpt": "3.45. we reach Polwigo Campsite Llanwrthwl near Rhayader & Elan valley. We go on a lovely walk, small village.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Porth Clais, St David's, Pembrokeshire, Wales",
+      "original_wording": "Porth Clais",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0271_L",
+      "excerpt": "At 2.30? we set off for St. Davids. We've reached the campsite. Oh dear rain + more rain. Porth Clais",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Llanwrthwl, Powys, Wales",
+      "original_wording": "Clanwrthol campsite",
+      "role": "overnight_base",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0274_R",
+      "excerpt": "We had to come back to Clanwrthol campsite because Simon ha[d] left coffee pot.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "B'ham",
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0274_R",
+      "excerpt": "Returning at 2.30, we had tea + a slow drive back to B'ham.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Walk to the Elan Valley reservoirs",
+      "date_guess": "2016-08-14",
+      "stops": [
+        {
+          "normalized_name": "Elan Valley, Powys, Wales",
+          "original_wording": "Elan Valley",
+          "confidence": 0.9,
+          "source_page_id": "B_0271_L",
+          "excerpt": "We set off about 9 to walk over the hills to see the reservoirs in the Elan Valley. Built in 1890's used 50,000 men",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Coastal path walk to St David's town",
+      "date_guess": "2016-08-16",
+      "stops": [
+        {
+          "normalized_name": "St Davids, Pembrokeshire, Wales",
+          "original_wording": "St. David's",
+          "confidence": 0.9,
+          "source_page_id": "B_0271_R",
+          "excerpt": "We set off along the coastal path - cold damp dreary. ... On to St. David's. Bought bread + chocolate. Lots of people. We had lunch.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "St David's Cathedral & walk to St Non's Chapel",
+      "date_guess": "2016-08-17",
+      "stops": [
+        {
+          "normalized_name": "St Davids Cathedral, Pembrokeshire, Wales",
+          "original_wording": "St. Davids Cathedral",
+          "confidence": 0.9,
+          "source_page_id": "B_0272_R",
+          "excerpt": "We wandered round the town & admired the beautiful ceiling & walls of the cathedral. We had lunch there.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "St Non's Chapel, St Davids, Pembrokeshire, Wales",
+          "original_wording": "St. Non's Chapel",
+          "confidence": 0.85,
+          "source_page_id": "B_0272_R",
+          "excerpt": "We came back to the campsite & walked to see St. Non's Chapel ... along the coastal path which again had sheer drops in parts.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "Day trip to Dolaucothi Gold Mines",
+      "date_guess": "2016-08-20",
+      "stops": [
+        {
+          "normalized_name": "Dolaucothi Gold Mines, Pumsaint, Carmarthenshire, Wales",
+          "original_wording": "Dolaucothi / Pumpsaint",
+          "confidence": 0.85,
+          "source_page_id": "B_0273_R",
+          "excerpt": "We went on to a Gold Mine stopping at Morrisons on the way. We both enjoyed the gold mine.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "Bike ride to Pen y Garreg Dam, Elan Valley",
+      "date_guess": "2016-08-21",
+      "stops": [
+        {
+          "normalized_name": "Pen y Garreg Dam, Elan Valley, Powys, Wales",
+          "original_wording": "Pen y Garreg Dam",
+          "confidence": 0.9,
+          "source_page_id": "B_0274_R",
+          "excerpt": "We reached Pen y Garreg Dam which holds 1300 mill gall - enough to give B'ham water for 15 days.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "farm",
+      "issue": "Overnight stop on the first night (Mon Aug 12) at an unnamed hop farm where the family help with hop work; exact location not given. Reached ~3pm after a motorway jam from Birmingham, departed Tue Aug 13 for Llanwrthwl. Likely in the Welsh Marches / mid-Wales but unlocatable from the text. Kept in main_route as an approximate overnight_base.",
+      "source_page_id": "B_0270_L",
+      "excerpt": "12.30 Simon & Eve, Tindse leave for farm. Jam on motorway, lunch, arrive farm at 3."
+    },
+    {
+      "original_wording": "a bridge railway via duct",
+      "issue": "A railway viaduct visited on the Saturday drive (after the gold mine, before returning to the Llanwrthwl campsite). Found under scaffolding; not named, so cannot be geolocated. Possibly the Cynghordy Viaduct near Llandovery (on the route between Dolaucothi/Pumsaint and Rhayader), but unconfirmed.",
+      "source_page_id": "B_0274_L",
+      "excerpt": "We drove on to see a bridge railway via duct. It was under scaffolding."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "B_0270_L",
+      "issue": "mixed_start: the opening 'Sunday' entry is the tail of the PREVIOUS trip (driving home, visiting Venetia & David at 'The New House', van milometer passing 100,000, watching Murray in the Wimbledon Final). This trip proper begins at the 'Monday August 12th' heading when 'Simon & Eve, Tinder leave for farm'. Places from the Sunday tail (The New House, Wimbledon, Tufnell Green, Bristol, Witney, Oxford, France) are NOT stops on this trip."
+    },
+    {
+      "page_id": "B_0270_L",
+      "issue": "Year discrepancy: trip_id and title say 2016, but the diary heading 'Monday August 12th' and source iso dates indicate 2013 (12 Aug 2013 was a Monday; 12 Aug 2016 was a Friday, consistent with the struck-through 'Friday' in the heading). trip_id retained exactly as supplied; date_start/date_end use 2016 to match the trip_id year but the day-of-week evidence points to 2013."
+    }
+  ],
+  "summary": "A late-summer camping trip from Birmingham into mid- and west Wales with Simon, Eve and Tinder the dog. After a first night helping at a hop farm, they based at a campsite in Llanwrthwl near Rhayader to walk the Elan Valley reservoirs, then moved to Porth Clais near St David's for coast-path walks, the cathedral and St Non's Chapel. They returned to the Llanwrthwl campsite, with a day trip to the Dolaucothi Gold Mines and a bike ride to the Pen y Garreg Dam before driving home.",
+  "extraction_notes": "No sea crossings (Wales trip), so crossings is empty. The trip is effectively a two-base loop: Llanwrthwl (campsite spelled variously 'Polwigo' and 'Clanwrthol') and Porth Clais/St David's, with the unnamed hop farm as the first overnight. Mohne dam, Hamburg, Canada and the family-status mentions (France/Bristol/Tufnell Green/Witney/Oxford) are historical/contextual references, not stops. Salisbury Cathedral appears only as a Constable painting caption (B_0273_R), not a visited place. The railway viaduct (B_0274_L) and the hop farm (B_0270_L) are flagged as unresolved locations. Day-of-week evidence suggests the true year is 2013, not the 2016 in the trip_id (see boundary_flags); dates are recorded under 2016 to match the supplied trip_id with weekday-anchored offsets."
+}

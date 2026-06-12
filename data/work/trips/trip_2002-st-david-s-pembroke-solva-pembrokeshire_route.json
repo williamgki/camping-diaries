@@ -1,0 +1,182 @@
+{
+  "trip_id": "2002-st-david-s-pembroke-solva-pembrokeshire",
+  "title": "St. David's, Pembroke & Solva (Pembrokeshire)",
+  "volume": "A",
+  "spread_range": ["A_0310", "A_0313"],
+  "diary_page_range": [55, 58],
+  "date_start": "2002-05-24",
+  "date_end": "2002-05-28",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hundred House, Powys, Wales",
+      "original_wording": "Hundred House",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0310_R",
+      "excerpt": "We reached Hundred House**** west of Kington west of Leominster at 9.10. Cold wind.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Pembroke Castle, Pembroke, Wales",
+      "original_wording": "Pembroke Castle",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0311_R",
+      "excerpt": "We drove on to Pembroke Castle. It has the same layout as Sudley + Ludlow. The most amazing part of it is Wogan's Cavern, where supplies from boats were unloaded + carried up a spiral staircase into the castle.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Solva, Pembrokeshire, Wales",
+      "original_wording": "Solva",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0311_R",
+      "excerpt": "We drove on to Solva, but rainsqualls were so heavy that we didn't get out of the van.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Rhosson Garn Campsite, near St. David's, Pembrokeshire, Wales",
+      "original_wording": "Rhosson Gand",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0311_R",
+      "excerpt": "We reached the campsite. Rhosson Gand ***** as good a crew as the Normandy campsite, but no lighthouse. Absolutely fabulous seascape. Heavy rain crashing waves.",
+      "geocode_hint": { "countrycodes": "gb", "near": "St. David's, Pembrokeshire" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Cleobury Mortimer, Shropshire, England",
+      "original_wording": "Cleobury Mortimer",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0313_R",
+      "excerpt": "Arrived at Cleobury Mortimer + had fish + chips.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Trumpley, Worcestershire, England",
+      "original_wording": "Trumpley",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0313_R",
+      "excerpt": "Then we called in at Trumpley to see Jim + Margaret + Helen, on our way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0313_R",
+      "excerpt": "Then we called in at Trumpley to see Jim + Margaret + Helen, on our way home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Cycle to St. David's Cathedral (Sunday 26 May)",
+      "date_guess": "2002-05-26",
+      "stops": [
+        {
+          "normalized_name": "St. David's Cathedral, St. David's, Pembrokeshire, Wales",
+          "original_wording": "the cathedral",
+          "confidence": 0.95,
+          "source_page_id": "A_0311_R",
+          "excerpt": "We cycled off to the cathedral for an 11.15 Eucharist.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "Walk to Solva and coastal path (Monday 27 May)",
+      "date_guess": "2002-05-27",
+      "stops": [
+        {
+          "normalized_name": "Solva, Pembrokeshire, Wales",
+          "original_wording": "Solva",
+          "confidence": 0.95,
+          "source_page_id": "A_0312_R",
+          "excerpt": "We drove to Solva + parked on the quay. There were young people learning to canoe. The village is pretty but a bit too pretty.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 5,
+      "label": "St. David's Cathedral, craft fair, and Llandygwydd etching artist (Tuesday 28 May)",
+      "date_guess": "2002-05-28",
+      "stops": [
+        {
+          "normalized_name": "St. David's Cathedral, St. David's, Pembrokeshire, Wales",
+          "original_wording": "the Cathedral, Holy Trinity Chapel",
+          "confidence": 0.95,
+          "source_page_id": "A_0313_R",
+          "excerpt": "We drove into St. Davids + looked at the Cathedral, Holy Trinity Chapel + miserichords again. Then we saw a craft fair.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Llandygwydd, Ceredigion, Wales",
+          "original_wording": "Llandygwydd",
+          "confidence": 0.9,
+          "source_page_id": "A_0313_R",
+          "excerpt": "we set off for his workshop the other side of Fishguard to the north. He framed the etching in a lighter colour wood while we had lunch in the van in his village, Llandygwydd.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Joan [?Tillett]'s campsite",
+      "issue": "A campsite associated with a person named Joan, surname uncertain (transcribed as [?Tillett]); located near the coastal path past the golf course from Rhosson Garn. Not identifiable as a named place.",
+      "source_page_id": "A_0312_R",
+      "excerpt": "We walked past the golf course to see Joan [?Tillett]'s campsite."
+    }
+  ],
+  "boundary_flags": [
+    {
+      "flag": "mixed_start",
+      "note": "Page A_0310_R begins mid-page; the preceding text describes a different outing (pub lunch at Hadnall, Prees). The trip narrative begins partway through the page with 'Friday May 24th'."
+    },
+    {
+      "flag": "date_iso_error",
+      "note": "Page A_0313_R has an erroneous transcription date of 1996-05-28; context confirms this is 2002-05-28 (Tuesday May 28th fits 2002 calendar, and the diary year is 2002 throughout)."
+    },
+    {
+      "flag": "dog_name",
+      "note": "The diary refers to the dog as 'Tonic' ('Simon, Eve & Tonic left for St. David's'). Family context names the dog as 'Tinder'. This may be a transcription variant or a different dog name used informally."
+    }
+  ],
+  "summary": "Simon and Eve (with their dog) spent four nights at the five-star Rhosson Garn campsite near St. David's in Pembrokeshire, 24-28 May 2002. En route they stopped at Pembroke Castle (including Wogan's Cavern) and drove through Solva; from the base they made day trips to St. David's Cathedral, Solva harbour, and a local etching artist's studio in Llandygwydd near Fishguard, returning home via the Elan Valley, Cleobury Mortimer, and a visit to friends at Trumpley.",
+  "extraction_notes": "1. Travellers: only Simon and Eve are named; no children are mentioned (Peter is noted as being in Tibet for his birthday). The dog, called 'Tonic' in the diary, accompanies them. 2. Rhosson Gand (diary spelling) is Rhosson Garn, a headland/farm near St. David's — the campsite is in this area. 3. Pembroke Castle and the first Solva drive-through were on Saturday 25 May (en route to campsite), not excursions. 4. The return routing via Tregaron and Elan Valley is clearly narrated but these are mentioned as passing-through points only ('driving to Beulah (24 mi)', 'stopped for tea s. of Elan valley') — Tregaron and Elan Valley south are transit references without a stop explicit enough to add; Beulah is also transited. 5. Llandygwydd is north of Fishguard (Ceredigion), as the diary says 'the other side of Fishguard to the north'. 6. Fishguard is mentioned only as a geographic reference for Llandygwydd's location, not as a stop visited."
+}

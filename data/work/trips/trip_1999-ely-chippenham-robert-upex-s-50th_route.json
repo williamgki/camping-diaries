@@ -1,0 +1,75 @@
+{
+  "trip_id": "1999-ely-chippenham-robert-upex-s-50th",
+  "title": "Ely & Chippenham: Robert Upex's 50th Party",
+  "volume": "A",
+  "spread_range": ["A_0279", "A_0279"],
+  "diary_page_range": [279, 279],
+  "date_start": "1999-10-09",
+  "date_end": "1999-10-10",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Ely, Cambridgeshire, UK",
+      "original_wording": "Ely Station",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0279_R",
+      "excerpt": "Simon & Eve drove across to Ely Station to pick up Thomas for Robert Upex's 50 birthday party at Chippenham.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Chippenham, Wiltshire, UK",
+      "original_wording": "Chippenham",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0279_R",
+      "excerpt": "Robert Upex's 50 birthday party at Chippenham. A super party. We slept on the drive & had breakfast in the sunshine outside.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Ely Cathedral, Ely, UK",
+      "original_wording": "Ely Cathedral",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0279_R",
+      "excerpt": "Bantam Chickens, bees & piglets in the nave of Ely Cathedral for a lovely harvest service. A Congolese setting for the Mass which needed dancing, but everyone stood stock still. After a snack in a coffee house, we took Thomas to the station & went home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0279_R",
+      "excerpt": "we took Thomas to the station & went home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "Simon and Eve drove from Birmingham to Ely to collect Thomas, then on to Chippenham for Robert Upex's 50th birthday party, sleeping overnight on the host's drive. Returning via Ely on Sunday, they attended a colourful harvest service at Ely Cathedral before dropping Thomas at the station and driving home to Birmingham.",
+  "extraction_notes": "Single-page entry on A_0279_R, covering Saturday 9 October 1999. The phrase 'slept on the drive' refers to sleeping on the driveway/forecourt at the Chippenham party venue. The return Ely Cathedral visit appears to be on Sunday 10 October (implied next day), with Thomas dropped at Ely station before the family returned to Birmingham. No year is written on this diary page; 1999 is taken from the trip_id and the surrounding date context of the bundle. Chippenham here most likely refers to the Wiltshire town where Robert Upex lived, though it is not verified independently. Travellers listed are Simon, Eve and Thomas; it is unclear whether other family members attended."
+}

@@ -1,0 +1,71 @@
+{
+  "trip_id": "2012-suffolk-annette-s-birthday-party-wingfield",
+  "title": "Suffolk: Annette's Birthday Party (Wingfield)",
+  "volume": "B",
+  "spread_range": ["B_0189", "B_0189"],
+  "diary_page_range": [null, null],
+  "date_start": "2012-06-09",
+  "date_end": "2012-06-09",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Wingfield, Suffolk, UK",
+      "original_wording": "Wingfield",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0189_L",
+      "excerpt": "We slept on Annette's drive. Max in house, Kate",
+      "geocode_hint": { "countrycodes": "gb", "near": "Halesworth, Suffolk" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Evening concert at Wingfield church",
+      "date_guess": "2012-06-09",
+      "stops": [
+        {
+          "normalized_name": "Wingfield Church, Wingfield, Suffolk, UK",
+          "original_wording": "Wingfield church",
+          "confidence": 0.95,
+          "source_page_id": "B_0189_L",
+          "excerpt": "evening concert at Wingfield church, old re-constructed organ, near Halesworth, Amici sang",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "Page B_0189_L is boundary_mixed: the top portion of the page belongs to a prior trip (Wroxeter visit). The Suffolk/Wingfield entry begins at the 'June 9th' heading. Places listed in the 'places' array for this page (Wroxeter, London, Cirencester, St Albans) are from the prior trip's text; Australia, Singapore, Granada are contextual mentions (where guests live/have been), not stops on this trip."
+  ],
+  "summary": "A short overnight trip to Suffolk on 9 June 2012: Simon, Eve and the dog Tinder drove to Wingfield to celebrate Annette's birthday party, attended an evening concert by Amici at Wingfield church (featuring a reconstructed old organ), and slept on Annette's drive before returning home to Birmingham.",
+  "extraction_notes": "Single diary page (B_0189_L), boundary-mixed with preceding trip. Year 2012 taken from trip_id; the transcription metadata recorded 'iso: 2003' for the date, which appears to be an extraction artefact. Halesworth is mentioned only as a geographic reference ('near Halesworth') and is not a separate stop. The concert venue (Wingfield church) is treated as an excursion from the overnight base at Annette's home in Wingfield rather than a distinct main-route stop, since it is part of the same evening at the same location. Travellers are explicitly named as Simon, Eve and Tinder (the dog); no children are mentioned as attending this trip."
+}

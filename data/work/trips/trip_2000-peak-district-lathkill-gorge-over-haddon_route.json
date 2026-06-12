@@ -1,0 +1,87 @@
+{
+  "trip_id": "2000-peak-district-lathkill-gorge-over-haddon",
+  "title": "Peak District: Lathkill Gorge, Over Haddon, Ashbourne",
+  "volume": "A",
+  "spread_range": ["A_0284", "A_0285"],
+  "diary_page_range": [284, 285],
+  "date_start": "2000-09-22",
+  "date_end": "2000-09-23",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tonic"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Haddon Grove, Derbyshire, UK",
+      "original_wording": "Hadon Grove",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0285_L",
+      "excerpt": "We arrived at Hadon Grove *** in the dark & camped near a marquee full of noisy happy children.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Over Haddon, Derbyshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk through Lathkill Gorge to Over Haddon",
+      "date_guess": "2000-09-23",
+      "stops": [
+        {
+          "normalized_name": "Lathkill Dale, Derbyshire, UK",
+          "original_wording": "Lathkill Gorge",
+          "confidence": 0.95,
+          "source_page_id": "A_0285_L",
+          "excerpt": "we went through a stone stile near the van into a beautiful valley. Below was a Gorge (no Grand Canyon) the Lathkill Gorge.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Over Haddon, Derbyshire, UK",
+          "original_wording": "Over Haddon",
+          "confidence": 0.95,
+          "source_page_id": "A_0285_L",
+          "excerpt": "We walked 2½ miles to Over Haddon. Strong drink in the pub, because both Simon & Eve had bad backs, we had a glorious fry-up in \"Uncle Geoff's Diner\".",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Tonic",
+      "issue": "Dog named 'Tonic' in this entry; the family dog is usually named Tinder — may be a different dog, a nickname, or a transcription variant. Cannot confirm identity.",
+      "source_page_id": "A_0284_R",
+      "excerpt": "Charles, Simon & Eve, + Tonic are going"
+    }
+  ],
+  "boundary_flags": [
+    "A_0284_R is a mixed boundary page: the upper portion belongs to a prior trip (Malvern concert, Capel-y-ffin); this trip begins at the 'September 22nd.' heading mid-page.",
+    "A_0285_L is also marked boundary_mixed: content may continue into a following trip."
+  ],
+  "summary": "A short weekend trip to the Peak District by Simon, Eve, and Charles, departing Birmingham on 22 September 2000. They camped at Haddon Grove (arrived after dark) and on the 23rd walked 2½ miles through the Lathkill Gorge to Over Haddon, where they ate a fry-up at Uncle Geoff's Diner before walking back.",
+  "extraction_notes": "Pages are boundary-mixed: A_0284_R begins mid-page with this trip (after Capel-y-ffin content from a prior entry). The campsite is transcribed as 'Hadon Grove' — almost certainly Haddon Grove Farm campsite near Over Haddon, Derbyshire. Only three family members attended (Charles, Simon, Eve) plus the dog. The dog is named 'Tonic' here, not 'Tinder' — flagged as unresolved. No year is written in the diary for this entry; year 2000 is taken from the trip_id and consistent with the note about a California RV hire 'for a month' in July (the preceding September 22nd paragraph). No crossings; entirely domestic UK trip."
+}

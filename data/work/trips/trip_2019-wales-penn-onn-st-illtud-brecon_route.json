@@ -1,0 +1,91 @@
+{
+  "trip_id": "2019-wales-penn-onn-st-illtud-brecon",
+  "title": "Wales: Penn Onn, St Illtud & Brecon (Merthyr Cynog)",
+  "volume": "B",
+  "spread_range": ["B_0334", "B_0335"],
+  "diary_page_range": [334, 335],
+  "date_start": "2019-08-16",
+  "date_end": "2019-08-18",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Peter", "John", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Penn-onn, Vale of Glamorgan, Wales",
+      "original_wording": "Penn Onn",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0334_R",
+      "excerpt": "We drove his car to Penn Onn. Heavy traffic. Heavy rain. Kay cooked us a delicious supper.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Llantwit Major, Vale of Glamorgan" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Merthyr Cynog, Brecon Beacons, Wales",
+      "original_wording": "Nr. Merthyr Cynnnog",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0334_R",
+      "excerpt": "Simon + Eve left for beyond Brecon, Nr. Merthyr Cynnnog. 10 miles from Brecon. No mob reception, lovely grass, surrounded by hills. Tinder on sheep alert.",
+      "geocode_hint": { "countrycodes": "gb", "near": "Brecon, Powys" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "all trips end at home unless diary states otherwise; end of entries at B_0335_L with boundary_mixed:true implies return not recorded",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Day trip to St Illtud's Church, Llanilltud Fawr",
+      "date_guess": "2019-08-17",
+      "stops": [
+        {
+          "normalized_name": "St Illtud's Church, Llantwit Major (Llanilltud Fawr), Wales",
+          "original_wording": "St. Illtud",
+          "confidence": 0.9,
+          "source_page_id": "B_0334_R",
+          "excerpt": "We drove to St. Illtud. He started a school in 500 AD. Wonderful church with [?Ilmill] modern part for Celtic crosses.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Llantwit Major, Vale of Glamorgan" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Ilmill]",
+      "issue": "illegible word in diary; appears to describe a feature of St Illtud's Church (possibly 'the' or a descriptive adjective); does not affect routing",
+      "source_page_id": "B_0334_R",
+      "excerpt": "Wonderful church with [?Ilmill] modern part for Celtic crosses."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: B_0335_L marked boundary_mixed:true; Sunday entry ends mid-page; return home date unconfirmed"
+  ],
+  "summary": "Simon and Eve (with Tinder) joined Peter, John, Kay and family at Penn Onn near Llantwit Major, South Wales, for a Friday-night gathering including a birthday celebration for John. On Saturday they visited the ancient St Illtud's Church at Llanilltud Fawr, then Simon and Eve drove north to camp in a van near Merthyr Cynog, 10 miles beyond Brecon, spending Sunday walking in the hills despite cold and rain.",
+  "extraction_notes": "The diary covers Friday 16 August through Sunday 18 August 2019; the end of entries is mid-page (B_0335_L boundary_mixed:true) so return to Birmingham is inferred. Peter's car reference '86.35' likely refers to an earlier diary page number, not an address. 'Nr. Merthyr Cynnnog' is the diary's spelling of Merthyr Cynog (Powys). William is mentioned only via WhatsApp and was not physically present on the trip. The Saturday excursion to St Illtud is from the Penn Onn base (John also made a separate return trip there on Sunday morning, but this is not a new route stop). Brecon is mentioned as a named place passed through on the way to Merthyr Cynog (B_0335_L: 'We drove through Brecon to Merthyr Cynog') but is not a stop in itself."
+}

@@ -1,0 +1,88 @@
+{
+  "trip_id": "2006-trimpley-r-severn-day-outing-then",
+  "title": "Trimpley & R. Severn (day outing) then Melverley/Shrewsbury",
+  "volume": "B",
+  "spread_range": ["B_0092", "B_0092"],
+  "diary_page_range": [92, 92],
+  "date_start": "2006-04-08",
+  "date_end": "2006-04-21",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Church House Campsite, Melverley, Shropshire",
+      "original_wording": "Church House campsite, near the Tontine Inn, Melverley",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0092_L",
+      "excerpt": "Simon, Eve, Charles & Tonic set off for near Shrewsbury, Church House campsite, near the Tontine Inn, Melverley",
+      "geocode_hint": { "countrycodes": "gb", "near": "Melverley, Shropshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All family trips return home unless diary states otherwise; text cuts off mid-entry but no onward destination named",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Day outing to Trimpley and River Severn (Saturday 8 April 2006)",
+      "date_guess": "2006-04-08",
+      "stops": [
+        {
+          "normalized_name": "Trimpley, Worcestershire",
+          "original_wording": "Trimpley",
+          "confidence": 0.95,
+          "source_page_id": "B_0092_L",
+          "excerpt": "11am we left to go to Trimpley. Charles, Simon, Eve & Tonic picked up Margaret & Helen.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Bewdley, Worcestershire" }
+        },
+        {
+          "normalized_name": "River Severn, near Trimpley, Worcestershire",
+          "original_wording": "R. Severn",
+          "confidence": 0.9,
+          "source_page_id": "B_0092_L",
+          "excerpt": "We went down to the R. Severn & had a picnic lunch & walk.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Trimpley, Worcestershire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Savesley",
+      "issue": "Place name near Melverley/Shrewsbury not confidently identified; possibly a local hamlet, farm name, or mis-transcription. Could relate to Bausley, Crew Green or another hamlet near Melverley, Shropshire.",
+      "source_page_id": "B_0092_L",
+      "excerpt": "Simon, Eve, Charles & Tonic set off for near Shrewsbury, Church House campsite, near the Tontine Inn, Melverley, Savesley."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0092_L contains two separate diary entries (8 Apr and 21 Apr 2006) bundled into one trip record"
+  ],
+  "summary": "Two outings recorded on the same diary page: a day trip on 8 April 2006 from Birmingham to Trimpley and the River Severn (picnic, walk, and tea), and a separate camping trip on 21 April 2006 by Simon, Eve, Charles and Tinder to Church House campsite near Melverley and Shrewsbury, Shropshire. The campsite entry was noted for its quiet location beside a river with a picturesque black-and-white church.",
+  "extraction_notes": "Page B_0092_L contains two distinct diary entries separated by a heading change. The April 8th entry is a day outing (no overnight) with Margaret and Helen also attending; treated as excursion from home base. The April 21st entry begins a camping trip; the text is cut off mid-sentence ('The campsite') so the end date and return are unconfirmed — return to home is inferred per standard convention. 'Tonic' in the diary refers to Tinder the dog. 'Savesley' appears to be a nearby place or landmark but cannot be confidently identified and is flagged as unresolved."
+}

@@ -1,0 +1,76 @@
+{
+  "trip_id": "1997-malmesbury-burton-hill-family-weekend",
+  "title": "Malmesbury: Burton Hill Family Weekend",
+  "volume": "A",
+  "spread_range": ["A_0219", "A_0220"],
+  "diary_page_range": [28, 50],
+  "date_start": "1997-09-06",
+  "date_end": "1997-09-07",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Burton Hill, Malmesbury, Wiltshire, UK",
+      "original_wording": "Burton Hill",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0220_L",
+      "excerpt": "a big lunch in the Jim Kirbys & David Kirby - 14 of us & Tonic. Burton Hill.",
+      "geocode_hint": { "countrycodes": "gb", "hint": "Burton Hill is a hamlet immediately south of Malmesbury, Wiltshire; Jim Kirby and David Kirby hosted the family there; Malmesbury Abbey visited on foot the same afternoon" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "A_0220_L",
+      "excerpt": "Straight after breakfast, John, Maia, Charles & Dylan asked to walk to the play ground with Tonic",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Afternoon walk to Malmesbury Abbey",
+      "date_guess": "1997-09-06",
+      "stops": [
+        {
+          "normalized_name": "Malmesbury Abbey, Malmesbury, Wiltshire, UK",
+          "original_wording": "Malmesbury Abbey",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0220_L",
+          "excerpt": "In the afternoon we went on a beautiful long walk in & around Malmesbury. The Abbey is gorgeous – Romanesque arches & carvings. A superb entry porch, & the Tomb of the first king. The tombstone of a woman eaten by a tiger.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page A_0219_R contains the August 22-23 Beauchamp/Gus King entries which belong to a separate trip (1997-beauchamp-peter-s-quartet-gus-king) already extracted; this trip begins with the 'Saturday September 6th' heading.",
+    "mixed_end: page A_0220_R is boundary-mixed; it shows a postcard of Malmesbury Abbey South Porch carvings and belongs to this trip's context, but the diary text ends on A_0220_L.",
+    "The 'Saturday September 6th' entry records listening to Princess Diana's funeral on the radio while driving to Malmesbury, confirming the date as 6 September 1997 (Diana's funeral was held that day).",
+    "14 people at lunch including Jim Kirbys and David Kirby; exact family members present beyond John and Charles (named on Sunday) are not individually listed; Thomas, William, and Peter may have attended given the extended family gathering but cannot be confirmed from the text.",
+    "Return to Birmingham is not explicitly narrated; the diary ends on Sunday morning at Burton Hill. Return home is inferred as standard trip conclusion."
+  ],
+  "summary": "On Saturday 6 September 1997, the family drove from Birmingham to Burton Hill near Malmesbury, Wiltshire, listening to Princess Diana's funeral on the radio. They joined a large family gathering of 14 people at the Kirby family home, visited Malmesbury Abbey on a long afternoon walk, and stayed overnight. On Sunday morning the children walked to a local playground before the family returned home.",
+  "extraction_notes": "Pages A_0219_R and A_0220_L-R. The spread is boundary-mixed: A_0219_R contains three separate diary entries (pre-existing trip tail, Aug 22-23 Beauchamp trip, and this Sep 6 entry); the Aug entries are captured under trip_id 1997-beauchamp-peter-s-quartet-gus-king. This trip covers only the 'Saturday September 6th' and 'Sunday Sept 7th' entries. Burton Hill is identified as a hamlet adjacent to Malmesbury in Wiltshire; the Kirby family hosted the gathering there. The Malmesbury Abbey walk was an afternoon excursion from the Burton Hill base and not a separate overnight stop. A_0220_R is a postcard page with three photographs of Malmesbury Abbey South Porch stonework, confirming the visit. No crossings; entirely domestic England trip. Diana's funeral broadcast (6 September 1997) corroborates the diary date."
+}

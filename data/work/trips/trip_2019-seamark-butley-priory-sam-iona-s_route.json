@@ -1,0 +1,76 @@
+{
+  "trip_id": "2019-seamark-butley-priory-sam-iona-s",
+  "title": "Seamark & Butley Priory: Sam & Iona's Wedding (Suffolk)",
+  "volume": "B",
+  "spread_range": ["B_0335", "B_0335"],
+  "diary_page_range": [335, 335],
+  "date_start": "2019-09-27",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Seamark, Suffolk, UK",
+      "original_wording": "Seamark",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0335_R",
+      "excerpt": "On to Seamark where we camped in the garden.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Suffolk" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" },
+      "note": "Return home inferred; diary pages beyond the bundle are not available"
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "the kennels",
+      "issue": "Kennels where Tinder was dropped off; location on route Birmingham–Suffolk not specified",
+      "source_page_id": "B_0335_R",
+      "excerpt": "Heavy traffic to the kennels."
+    },
+    {
+      "original_wording": "John + Pamela",
+      "issue": "Intermediate lunch stop at John and Pamela's; no location given — somewhere on the Birmingham-to-Suffolk route",
+      "source_page_id": "B_0335_R",
+      "excerpt": "Then on to John + Pamela for a very sad lunch."
+    },
+    {
+      "original_wording": "Butley Priory",
+      "issue": "Named in the trip title and is in Suffolk (near Woodbridge), but does not appear in the surviving diary text for this bundle — likely on subsequent pages not included in the spread",
+      "source_page_id": null,
+      "excerpt": null
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page B_0335_R also contains content from a preceding trip (Berrington Hall / Monday entry)",
+    "mixed_end: diary text cuts off mid-sentence; subsequent pages not in this bundle"
+  ],
+  "summary": "A trip from Birmingham to Seamark in Suffolk (Friday 27 September 2019) for Sam and Iona's wedding, with an overnight stay camping in the garden. The diary records a difficult departure, a stop at kennels for Tinder, and a sad lunch with John and Pamela en route; Butley Priory features in the title but lies beyond the surviving page fragment.",
+  "extraction_notes": "Only one half-page of diary text survives for this trip (B_0335_R, mixed_start and mixed_end). The 'Monday' heading on the same page belongs to a different trip. The date 2019-09-27 is explicit ('Friday Sept 27th'). Travellers are Simon and Eve based on narrative voice; Tinder (dog) was kennelled. Butley Priory is in the title_guess but absent from the text — it cannot be placed as a confirmed stop. Return home is inferred convention only."
+}

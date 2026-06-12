@@ -1,0 +1,94 @@
+{
+  "trip_id": "1990-hook-norton-wiggington-sibford-late-august",
+  "title": "Hook Norton, Wiggington & Sibford (late August 1990)",
+  "volume": "A",
+  "spread_range": ["A_0031", "A_0032"],
+  "diary_page_range": [58, 59],
+  "date_start": "1990-08-29",
+  "date_end": "1990-09-03",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hook Norton, Oxfordshire, UK",
+      "original_wording": "Hook Norton",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0031_R",
+      "excerpt": "We went to a pub campsite - blah! very crowded & a pond, near Hook Norton David arrived after dark. A pretty £ pub.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Wigginton, Oxfordshire, UK",
+      "original_wording": "Wiggington",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0031_R",
+      "excerpt": "we set off early to find a new campsite. We were very lucky to find one not noted in the camping magazine, at a wildfowl trust. Wiggington",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Sibford Gower, Oxfordshire, UK",
+      "original_wording": "Sibford",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0032_L",
+      "excerpt": "Monday We moved to Sibford for lunch + in the afternoon we walked through villages, passing the school.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0032_L",
+      "excerpt": "On the way home we saw a nice farm campsite near Compton Wynyates.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Walk to Wigginton church (Sunday morning)",
+      "date_guess": "1990-09-02",
+      "stops": [
+        {
+          "normalized_name": "St Giles' Church, Wigginton, Oxfordshire, UK",
+          "original_wording": "Wiggington",
+          "confidence": 0.9,
+          "source_page_id": "A_0032_L",
+          "excerpt": "On the Sunday we walked to Wiggington, to go to church, but there was only an evensong. 2 stone recumbent effigies in the chancel, odd spiral steps up at the crossing, + lovely coloured stone.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page A_0031_R may share content with a preceding trip",
+    "mixed_end: page A_0032_L may share content with a following trip"
+  ],
+  "summary": "A late August 1990 camping trip to the north Oxfordshire/south Warwickshire countryside, starting at a crowded pub campsite near Hook Norton before moving to a much-enjoyed wildfowl trust campsite at Wigginton for the weekend. The family explored the local villages, attended an evensong, enjoyed a barbecue, and on the Monday drove through Sibford for lunch before heading home to Birmingham.",
+  "extraction_notes": "August 29 1990 was a Wednesday; the diary describes at least three nights (Wednesday at Hook Norton, Saturday and Sunday at Wigginton, with Monday as the return day via Sibford). Compton Wynyates is mentioned only as a farm campsite spotted 'on the way home' — not visited — so it is not included as a stop. 'David' arrived at Hook Norton after dark; identity unclear (possibly a friend/relative of the family). Sibford is most likely Sibford Gower or Sibford Ferris; geocoded as Sibford Gower, the larger of the two villages. Pages are marked mixed_start and mixed_end in the source, indicating content may bleed into adjacent trips."
+}

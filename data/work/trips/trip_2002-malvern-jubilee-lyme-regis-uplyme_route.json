@@ -1,0 +1,139 @@
+{
+  "trip_id": "2002-malvern-jubilee-lyme-regis-uplyme",
+  "title": "Malvern (Jubilee) & Lyme Regis / Uplyme",
+  "volume": "A",
+  "spread_range": ["A_0314", "A_0315"],
+  "diary_page_range": [314, 315],
+  "date_start": "2002-05-31",
+  "date_end": "2002-06-03",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Malvern, Worcestershire, UK",
+      "original_wording": "Malvern",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0314_L",
+      "excerpt": "4.10. we 6ft, Simon, Eve, Charles, Tonic. Heavy Traffic that kept moving to Malvern. It's the Queen's Jubilee weekend. John played in the orchestra & chamber orchestra.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bristol, UK",
+      "original_wording": "Bristol",
+      "role": "transit_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0314_L",
+      "excerpt": "We crawled off at Bristol & called in to see Robert & Joan & Naomi [?Grimley].",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Hook Farm Campsite, Uplyme, Devon, UK",
+      "original_wording": "Hook Farm at Uplyme",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0314_L",
+      "excerpt": "Then smaller roads to Hook Farm at Uplyme * * *. Crowded.",
+      "geocode_hint": { "countrycodes": "gb", "city": "Uplyme", "region": "Devon" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.85,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "All trips start and end at home; diary ends at this campsite but return to Birmingham is implied",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 4,
+      "label": "Sunday: Uplyme Church and Lyme Regis (beach, fossils, dinner)",
+      "date_guess": "2002-06-02",
+      "stops": [
+        {
+          "normalized_name": "St Mary the Virgin Church, Uplyme, Devon, UK",
+          "original_wording": "Uplyme Church, St. Mary's",
+          "confidence": 0.95,
+          "source_page_id": "A_0314_L",
+          "excerpt": "We set off with helmets to Lyme Regis. On the way, Eve went up to Uplyme Church, St. Mary's. Very Friendly.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Uplyme" }
+        },
+        {
+          "normalized_name": "Lyme Regis, Dorset, UK",
+          "original_wording": "Lyme Regis",
+          "confidence": 0.95,
+          "source_page_id": "A_0314_R",
+          "excerpt": "Simon & John & Charles & Tonic went on to the town... We sat on the wall above the beach because dogs are not allowed on the beach. John got us egg & mayonnaise bagels.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Queen Victoria pub, Lyme Regis, Dorset, UK",
+          "original_wording": "the Queen Victoria",
+          "confidence": 0.9,
+          "source_page_id": "A_0314_R",
+          "excerpt": "We have booked a table for supper at 8.15. We ate at the Queen Victoria. Good food. Fireworks at the campsite.",
+          "geocode_hint": { "countrycodes": "gb", "city": "Lyme Regis" }
+        }
+      ]
+    },
+    {
+      "base_seq": 4,
+      "label": "Monday: Lyme Regis town mill and fossil shops",
+      "date_guess": "2002-06-03",
+      "stops": [
+        {
+          "normalized_name": "Lyme Regis, Dorset, UK",
+          "original_wording": "Lyme Regis",
+          "confidence": 0.95,
+          "source_page_id": "A_0315_R",
+          "excerpt": "We set off for Lyme Regis. It rained + everyone put on rain coats. At 11 we reached the town mill. It was fascinating - a working flour mill with an overshot water mill.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Grimley]",
+      "issue": "Surname of Robert & Joan & Naomi visited in Bristol uncertain; transcription query mark. Possibly Grimley but not confirmed.",
+      "source_page_id": "A_0314_L",
+      "excerpt": "called in to see Robert & Joan & Naomi [?Grimley]"
+    },
+    {
+      "original_wording": "Tonic",
+      "issue": "The dog is referred to as 'Tonic' throughout this diary entry; the family dog is named Tinder. Likely a diary spelling variation or transcription error. Treated as Tinder for travellers list.",
+      "source_page_id": "A_0314_L",
+      "excerpt": "Simon, Eve, Charles, Tonic"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_end: page A_0315_R is marked boundary_mixed=true; diary entry ends mid-Monday (June 3rd) with no explicit return-home narrative recorded in these pages"
+  ],
+  "summary": "A Queen's Jubilee bank holiday weekend trip in late May–early June 2002. Simon, Eve and Charles drove from Birmingham to Malvern on Friday evening to attend Jubilee concert events where John was performing, staying overnight, before heading south Saturday afternoon via Bristol to Hook Farm campsite at Uplyme (near Lyme Regis), where they spent the rest of the weekend exploring Lyme Regis, collecting fossils on the Jurassic Coast, and visiting the town's working flour mill.",
+  "extraction_notes": "John appears to have been living in Malvern at the time ('He & Rocky have just moved to SH from 168') and joined the family group at Lyme Regis on Sunday. The traveller count at departure appears to be only Simon, Eve, Charles + dog (Tinder/Tonic). The diary spelling 'Tonic' for the dog is consistent throughout these pages but conflicts with the known family dog name 'Tinder'. Page A_0315_R is flagged boundary_mixed=true meaning this trip's diary ends mid-page and another trip begins on the same page; no return-to-Birmingham narrative is recorded. Date 'Friday Jan May 31st' in the diary is a known quirk (May 31 2002 was indeed a Friday). Hook Farm campsite is a real site at Uplyme, Devon, just north of Lyme Regis."
+}

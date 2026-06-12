@@ -1,0 +1,85 @@
+{
+  "trip_id": "1991-arlingham-st-augustine-s-farm-via",
+  "title": "Arlingham (St. Augustine's Farm) via Gloucester / Beauchamp House",
+  "volume": "A",
+  "spread_range": ["A_0053", "A_0053"],
+  "diary_page_range": [102, 102],
+  "date_start": "1991-08-10",
+  "date_end": "1991-08-10",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Kate Warburton"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Gloucester, UK",
+      "original_wording": "Glouces[ter]",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0053_L",
+      "excerpt": "We picked up Simon's 'cello, & drove on to __St. Augustine's__ working farm __Arlingham__.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Beauchamp House, Gloucestershire, UK",
+      "original_wording": "Beauchamp House",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0053_L",
+      "excerpt": "Simon, Eve & Thomas heard Peter sing & play his violin in the orchestra at Beauchamp House.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Arlingham, Gloucestershire, UK",
+      "original_wording": "St. Augustine's working farm, Arlingham",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0053_L",
+      "excerpt": "drove on to __St. Augustine's__ working farm __Arlingham__. Peter & John slept in the [?bukta] & Kate slept on the bottom bunk.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "[?bukta]",
+      "issue": "Unclear word — possibly 'bukta' (a type of tent or sleeping arrangement), transcription uncertain; does not affect route.",
+      "source_page_id": "A_0053_L",
+      "excerpt": "Peter & John slept in the [?bukta]"
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0053_L also contains an August 4th entry (dropping Peter at Gloucester music camp, leaving cello for repair) which may belong to a separate earlier day-trip; only the August 10th overnight to Arlingham is treated as this trip.",
+    "mixed_end: page text ends mid-sentence ('& a half-'); subsequent content on following page not available."
+  ],
+  "summary": "A short domestic trip on 10 August 1991 from Birmingham to Arlingham, Gloucestershire, stopping at Beauchamp House to watch Peter perform in the music-camp orchestra before arriving at St. Augustine's working farm to camp overnight. Family friend Kate Warburton joined the trip and babysat the younger children during the concert.",
+  "extraction_notes": "Page A_0053_L is boundary-mixed. The August 4th entry records a separate day visit to Gloucester (drop Peter at music camp, leave cello for repair) — this is not the camping trip itself. The camping trip proper is the August 10th entry. Beauchamp House location is approximate; it hosted the music camp orchestra performance and is presumed to be in Gloucestershire near Gloucester, but no precise address is given. The word transcribed as '[?bukta]' is uncertain — possibly a brand/type of tent. No crossings; entirely within England."
+}

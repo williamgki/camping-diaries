@@ -1,0 +1,119 @@
+{
+  "trip_id": "2002-brown-moss-prees-plant-buying-for",
+  "title": "Brown Moss / Prees (plant-buying for the pond)",
+  "volume": "A",
+  "spread_range": ["A_0309", "A_0310"],
+  "diary_page_range": [null, 54],
+  "date_start": "2002-04-05",
+  "date_end": "2002-04-07",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tonic"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Brown Moss, near Whitchurch, Shropshire, UK",
+      "original_wording": "Brown Moss",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0309_L",
+      "excerpt": "The campsite is a mile south of Whitchurch. __Brown Moss__ * * *",
+      "geocode_hint": { "countrycodes": "gb", "near": "Whitchurch, Shropshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "A_0310_L",
+      "excerpt": "We reached Tim's nursery garden at 10 and loaded up the van with the plants.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Saturday: walk at Brown Moss, Holly Farm nurseries (Prees), Stapeley Water Gardens",
+      "date_guess": "2002-04-06",
+      "stops": [
+        {
+          "normalized_name": "Brown Moss Nature Reserve, Whitchurch, UK",
+          "original_wording": "Brown Moss lake",
+          "confidence": 0.95,
+          "source_page_id": "A_0309_R",
+          "excerpt": "around Brown Moss lake. V. pretty. little ponds, flags bright green.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Whitchurch, Shropshire" }
+        },
+        {
+          "normalized_name": "Holly Farm Nurseries, Prees, Shropshire, UK",
+          "original_wording": "Holly Farm nurseries",
+          "confidence": 0.95,
+          "source_page_id": "A_0309_R",
+          "excerpt": "Off to Holly Farm nurseries. We bought Viburnum Burkwoodii... Tim spent ages with us. Then Helen gave us a lovely salad lunch.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Prees, Shropshire" }
+        },
+        {
+          "normalized_name": "Stapeley Water Gardens, Nantwich, Cheshire, UK",
+          "original_wording": "Stapeley Water Gardens",
+          "confidence": 0.95,
+          "source_page_id": "A_0309_R",
+          "excerpt": "We went on to Stapeley Water Gardens. They were rude at the entrance, watching people coming & going. We bought lilies & iris & oxygenators & 2 books on ponds.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Nantwich, Cheshire" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Sunday: Malpas church, Tim's nursery (Holly Farm Prees), Prees church",
+      "date_guess": "2002-04-07",
+      "stops": [
+        {
+          "normalized_name": "Malpas, Cheshire, UK",
+          "original_wording": "Malpas church",
+          "confidence": 0.9,
+          "source_page_id": "A_0310_L",
+          "excerpt": "We drove to Malpas church where there are apparently 2 fine statues, one pre-Ref, one post-Ref, but not only was the church locked but service times were posted just out of view.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Malpas, Cheshire" }
+        },
+        {
+          "normalized_name": "Holly Farm Nurseries, Prees, Shropshire, UK",
+          "original_wording": "Tim's nursery garden",
+          "confidence": 0.95,
+          "source_page_id": "A_0310_L",
+          "excerpt": "We reached Tim's nursery garden at 10 and loaded up the van with the plants.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Prees, Shropshire" }
+        },
+        {
+          "normalized_name": "Prees, Shropshire, UK",
+          "original_wording": "Prees church",
+          "confidence": 0.9,
+          "source_page_id": "A_0310_L",
+          "excerpt": "Then we went a short distance to Prees church. The kneelers are the most beautiful I've seen - each one a flower.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Prees, Shropshire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "A_0309_L is mixed_start: first portion of page is end of previous trip (Cambridge/Kettles Yard). This trip begins at 'April 5th 2002 Friday'.",
+    "A_0310_L is mixed_end: page ends mid-narrative on Sunday; diary does not explicitly state return home but context implies return on Sunday."
+  ],
+  "summary": "A short April 2002 weekend trip by Simon, Eve, and Charles (aged 12) with the dog Tonic, camping at Brown Moss near Whitchurch, Shropshire, primarily to buy plants from Tim Noble's Holly Farm nurseries in Prees for the new garden pond. They also visited Stapeley Water Gardens, walked around Brown Moss lake, and explored local churches at Malpas and Prees on the Sunday.",
+  "extraction_notes": "Trip starts mid-page A_0309_L (boundary_mixed). The dog is named 'Tonic' in this diary entry (not 'Tinder' as in other trips — may be same dog, different nickname, or transcription). Only Simon, Eve, and Charles are explicitly named as travellers; the dog is included. The return to Birmingham on Sunday is inferred from context (trip is domestic, diary ends after Sunday morning activities at Prees). Holly Farm nurseries appears in both Saturday and Sunday excursions as Tim Noble's nursery at Prees; listed separately as the Saturday visit is social (lunch with Helen) and Sunday is purely loading plants. Stapeley Water Gardens near Nantwich, Cheshire, is a well-known water plant nursery — confident identification. Malpas church (St Oswald's, Malpas) is the only church in Malpas and fits the description of fine pre- and post-Reformation statuary."
+}

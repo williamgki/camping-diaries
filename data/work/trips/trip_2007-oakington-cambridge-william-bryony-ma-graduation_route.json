@@ -1,0 +1,124 @@
+{
+  "trip_id": "2007-oakington-cambridge-william-bryony-ma-graduation",
+  "title": "Oakington / Cambridge: William & Bryony MA Graduation Weekend",
+  "volume": "B",
+  "spread_range": ["B_0114", "B_0114"],
+  "diary_page_range": [53, 53],
+  "date_start": "2007-05-11",
+  "date_end": "2007-05-12",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tonie"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Oakington, Cambridgeshire, UK",
+      "original_wording": "Oakington",
+      "role": "overnight_base",
+      "confidence": 0.97,
+      "approximate": false,
+      "source_page_id": "B_0114_R",
+      "excerpt": "We reached Oakington at 8.30. Just before the village was the refugee camp, surrounded by barbed wire. Just after the village was our camp site, small & sheltered.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Cambridge: William & Bryony MA graduation day",
+      "date_guess": "2007-05-12",
+      "stops": [
+        {
+          "normalized_name": "Cambridge, UK",
+          "original_wording": "Jane & Robert",
+          "role": "main_stop",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "B_0114_R",
+          "excerpt": "At 9.20. we called on Jane & Robert, Robert was in his dressing gown, Jane in bed asleep. We had coffee & chatted.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "St John's College, Cambridge, UK",
+          "original_wording": "the Fisher Building at St. John's",
+          "role": "main_stop",
+          "confidence": 0.97,
+          "approximate": false,
+          "source_page_id": "B_0114_R",
+          "excerpt": "We met William at the Fisher Building at St. John's. The degree ceremony was delayed so we had coffee at Heffer's Book Shop. We enjoyed the degree ceremony.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Heffers Bookshop, Cambridge, UK",
+          "original_wording": "Heffer's Book Shop",
+          "role": "main_stop",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0114_R",
+          "excerpt": "The degree ceremony was delayed so we had coffee at Heffer's Book Shop.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "The Grad Pad, Cambridge, UK",
+          "original_wording": "the Grad Pad",
+          "role": "main_stop",
+          "confidence": 0.90,
+          "approximate": false,
+          "source_page_id": "B_0114_R",
+          "excerpt": "Then William returned his fancy gown & we lunched at the Grad Pad.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "King's College Chapel, Cambridge, UK",
+          "original_wording": "Kings",
+          "role": "main_stop",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0114_R",
+          "excerpt": "the rest of us went to Evensong at Kings & heard one of Bryony's favourite anthems.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?Impley]",
+      "issue": "Brief note 'Early April 2007 Simon drove to [?Impley] & back' — place name uncertain and this is a separate, very brief event prior to the May trip, not part of the graduation weekend.",
+      "source_page_id": "B_0114_R",
+      "excerpt": "Early April 2007 Simon drove to [?Impley] & back."
+    },
+    {
+      "original_wording": "Tonie",
+      "issue": "Named as third traveller alongside Simon and Eve ('Simon, Eve & Tonie set off at 6.20'). Not a recognised family member by that name; possibly a nickname or family friend.",
+      "source_page_id": "B_0114_R",
+      "excerpt": "Simon, Eve & Tonie set off at 6.20. for William's & Bryony's MA Graduation weekend."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "Simon, Eve and Tonie drove from Birmingham to a small campsite at Oakington, near Cambridge, on 11 May 2007, arriving at 8.30 am. The next day they attended William and Bryony's MA graduation ceremony at St John's College, Cambridge, lunched at the Grad Pad, and ended the day at Evensong in King's College Chapel.",
+  "extraction_notes": "Single-page entry (B_0114_R). The page also contains a brief, unrelated note about Simon driving to '[?Impley]' in early April 2007 — this is not part of the graduation trip. The third traveller 'Tonie' is unidentified; may be a nickname. 'Jane & Robert' visited on Saturday morning are not identified. The diary does not record the return leg explicitly, but the trip is a weekend outing so a same-day or Sunday return to Birmingham is assumed. No ferries or crossings; entirely within England."
+}

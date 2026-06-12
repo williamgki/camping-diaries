@@ -1,0 +1,202 @@
+{
+  "trip_id": "1998-london-earl-s-court-fatana-lee",
+  "title": "London: Earl's Court, Lee Valley & Museums",
+  "volume": "A",
+  "spread_range": ["A_0259", "A_0262"],
+  "diary_page_range": [259, 262],
+  "date_start": "1998-10-24",
+  "date_end": "1998-10-27",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Earl's Court, London",
+      "original_wording": "Earl's Court",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0259_R",
+      "excerpt": "We set off for lunch with Fatana at Earl's Court via the dog kennel.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Lee Valley Campsite, London",
+      "original_wording": "Lee Valley campsite",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0259_R",
+      "excerpt": "arrived at the Lee Valley campsite",
+      "geocode_hint": { "countrycodes": "gb", "near": "Chingford, London" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "A_0262_L",
+      "excerpt": "Then we returned back to the campsite + home for the winter.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 3,
+      "label": "Saturday evening: 'human show'",
+      "date_guess": "1998-10-24",
+      "stops": [
+        {
+          "normalized_name": null,
+          "original_wording": "the 'human show'",
+          "confidence": 0.5,
+          "approximate": true,
+          "source_page_id": "A_0259_R",
+          "excerpt": "We all went to see the 'human show'. (It was so boring that I nearly walked out half-way through).",
+          "geocode_hint": { "countrycodes": "gb" },
+          "note": "Venue not identified; likely near Lee Valley campsite or in London"
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Sunday Oct 25: Church, Madame Tussaud's, Topkapi",
+      "date_guess": "1998-10-25",
+      "stops": [
+        {
+          "normalized_name": "Marylebone Parish Church, London",
+          "original_wording": "Marylebone Parish church",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0260_L",
+          "excerpt": "Instead of getting to St. Bartholomew, we went to Marylebone Parish church.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Topkapi Restaurant, London",
+          "original_wording": "Topkapi",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0260_L",
+          "excerpt": "We ended up at Topkapi, the same rest-aurant we went to with the Hugheys, last year.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Madame Tussauds, London",
+          "original_wording": "Madame Tussaud's",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0260_L",
+          "excerpt": "We went to Madame Tussaud's, we just walked in, because Thomas bought us tickets in advance.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Monday Oct 26: National Gallery, Hamleys, Bond Street",
+      "date_guess": "1998-10-26",
+      "stops": [
+        {
+          "normalized_name": "National Gallery, London",
+          "original_wording": "the National Gallery",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0260_R",
+          "excerpt": "We went to the National Gallery to see Jonathan Miller's \"Reflections\" which was very well done.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Haymarket, London",
+          "original_wording": "Haymarket",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0260_R",
+          "excerpt": "We had a good lunch at L'appuntamento' 25 Haymarket (Pic) SW1",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Hamleys, London",
+          "original_wording": "Hamleys",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0260_R",
+          "excerpt": "Then on to Hamleys. We left the children there while Simon & Eve went picture-hunting in Bond Street.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Bond Street, London",
+          "original_wording": "Bond Street",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "A_0260_R",
+          "excerpt": "Simon & Eve went picture-hunting in Bond Street. Thomas telephoned while we were in a gallery.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 3,
+      "label": "Tuesday Oct 27: St Bartholomew's, City of London Museum, Tate Gallery",
+      "date_guess": "1998-10-27",
+      "stops": [
+        {
+          "normalized_name": "St Bartholomew the Great, London",
+          "original_wording": "St. Barth[olomew]",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0261_R",
+          "excerpt": "In London we visited St. Barth[olomew] 1123, originally the choir of an Augustin[ian] monastery church.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Museum of London, Barbican",
+          "original_wording": "City of London Museum in the Barbican",
+          "confidence": 0.9,
+          "approximate": false,
+          "source_page_id": "A_0262_L",
+          "excerpt": "We walked on to the City of London Museum in the Barbican. There was a temporary exhibition of bones from London.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Tate Gallery, London",
+          "original_wording": "the Tate",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "A_0262_L",
+          "excerpt": "We had lunch + set of for the Tate. At the Tate was a Sargent exhibition.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "the 'human show'",
+      "issue": "Venue and nature of 'human show' unclear; possibly a touring exhibition or performance near Lee Valley or in London on the evening of 24 Oct.",
+      "source_page_id": "A_0259_R",
+      "excerpt": "We all went to see the 'human show'. (It was so boring that I nearly walked out half-way through)."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: page A_0259_R begins with the tail end of a prior trip entry before Saturday October 24th heading"
+  ],
+  "summary": "A four-day London half-term trip in October 1998, based at Lee Valley campsite, with a lunch stop at Fatana's flat in Earl's Court on the way down. Days out included Madame Tussaud's, the National Gallery (Jonathan Miller's Reflections), Hamleys, St Bartholomew the Great, the Museum of London, and the Tate's Sargent exhibition.",
+  "extraction_notes": "Date year confirmed from A_0260_R which gives 'Monday October 26th' with iso date 1998-10-26, anchoring the whole sequence. A_0261_R mis-transcribed the year as 1992-10-27 but Tuesday 27 October fits 1998 consistently. The 'dog kennel' mention on Saturday is where Tinder was boarded, not a tourist stop. Thomas joined the family at Earl's Court and again in London but stayed at a hotel separately. The 'human show' on Saturday evening remains unidentified. Page A_0261_L is a captioned artwork sketch (Arnolfini Portrait) with no additional route information."
+}

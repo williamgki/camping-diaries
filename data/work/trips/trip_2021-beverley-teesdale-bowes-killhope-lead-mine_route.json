@@ -1,0 +1,152 @@
+{
+  "trip_id": "2021-beverley-teesdale-bowes-killhope-lead-mine",
+  "title": "Beverley, Teesdale (Bowes), Killhope Lead Mine",
+  "volume": "B",
+  "spread_range": ["B_0348", "B_0350"],
+  "diary_page_range": [348, 350],
+  "date_start": "2021-06-01",
+  "date_end": "2021-06-30",
+  "date_precision": "month",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beverley, East Yorkshire, UK",
+      "original_wording": "Beverley",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0348_L",
+      "excerpt": "We've reached Beverley by 3, but parking is difficult so we're going straight to the campsite. Willow Lane Campsite, 3 minutes from town",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Bowes, County Durham, UK",
+      "original_wording": "Bowes",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0348_R",
+      "excerpt": "Eve walked Tinder & we set off for Bowes for lunch with the Fishers. We had a super day, chatting & admired their garden & an hour's walk.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Pecknell Farm Campsite, Upper Teesdale, UK",
+      "original_wording": "Pecknell Farm campsite",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0348_R",
+      "excerpt": "Now we are at Pecknell Farm campsite on the [dale] way to the upper Tees Valley.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Killhope Lead Mining Museum, Upper Weardale, UK",
+      "original_wording": "Killhope (!)",
+      "role": "main_stop",
+      "confidence": 0.92,
+      "approximate": false,
+      "source_page_id": "B_0348_R",
+      "excerpt": "We stopped for bread on the way & drove on to the Killhope (!) lead mine.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Alston, Cumbria, UK",
+      "original_wording": "Alston",
+      "role": "transit_stop",
+      "confidence": 0.88,
+      "approximate": false,
+      "source_page_id": "B_0349_R",
+      "excerpt": "We looked at the shops in Alston & then came on to a campsite near St. John's Chapel.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Pennine Lodge Campsite, St John's Chapel, County Durham, UK",
+      "original_wording": "Pennine Lodge next to St. John's Chapel",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0350_L",
+      "excerpt": "We spent the night at Pennine Lodge next to St. John's Chapel.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Vindolanda, Northumberland, UK",
+      "original_wording": "Vindolanda",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0350_L",
+      "excerpt": "We drove on to Vindolanda - much developed since our last visit. Most fascinating are the 350 letters left over from the leaving bonfire.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 7,
+      "label": "Sunday walk from Westgate",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Westgate, Weardale, County Durham, UK",
+          "original_wording": "Westgate",
+          "confidence": 0.88,
+          "approximate": false,
+          "source_page_id": "B_0350_L",
+          "excerpt": "We drove to Westgate + walked up a very steep hill. We went along tracks, some even, some [?eroded], + came to an absolutely beautiful woodland path which took us back down to the van.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 7,
+      "label": "Sunday return visit to Killhope machinery",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Killhope Lead Mining Museum, Upper Weardale, UK",
+          "original_wording": "Killhope",
+          "confidence": 0.88,
+          "approximate": false,
+          "source_page_id": "B_0350_L",
+          "excerpt": "We returned to Killhope to look at the machinery. Some of the machines work like hop-picking machines. We had lunch + came back to Pennine Lodge.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A June 2021 trip in Simon and Eve's campervan (with Tinder the dog), heading north via Beverley (Willow Lane Campsite) to County Durham, where they lunched with the Fishers at Bowes before settling at Pecknell Farm in upper Teesdale. They visited Killhope Lead Mining Museum and stayed at Pennine Lodge near St John's Chapel for several nights, making day excursions to Westgate for a walk and back to Killhope, before calling at Vindolanda on the way home.",
+  "extraction_notes": "No explicit year given in diary; date_guess 2021-06 from bundle metadata. Day names (Thursday, Friday, Sunday, Monday) given but no calendar dates. Dates span at minimum Thursday to Monday (5 days). The Lindisfarne mention on B_0348_L is in the caption for Beverley Minster (St John of Beverley came from Lindisfarne) — not a visit. 'Australia' on B_0349_R refers to miners being recruited there, not a destination. Pecknell Farm campsite is named but its exact location in upper Teesdale is approximate; it lies on or near the Pennine Way. St John's Chapel is a village in Weardale, County Durham; Pennine Lodge is the campsite there."
+}

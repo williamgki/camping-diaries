@@ -1,0 +1,144 @@
+{
+  "trip_id": "1996-beauchamp-gloucester-john-s-cello-course",
+  "title": "Beauchamp (Gloucester): John's Cello Course",
+  "volume": "A",
+  "spread_range": ["A_0172", "A_0174"],
+  "diary_page_range": [172, 174],
+  "date_start": "1996-04-09",
+  "date_end": "1996-04-15",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Beauchamp Farm, Over, Gloucestershire, UK",
+      "original_wording": "Beauchamps",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "A_0172_R",
+      "excerpt": "We set off for Beauchamps for John to go on his first 'cello course. We are camping in the field.",
+      "geocode_hint": { "countrycodes": "gb" },
+      "note": "Named 'Beauchamps' on arrival (A_0172_R) and 'Beauchamp' thereafter. The text 'We came home via the ^Beauchamp Over fam[illegible]' on A_0173_R, continued on A_0174_L as 'shop, buying fruit + veg + looking at the goats + donkeys + 2 ostrichos. At Beauchamp, John was already sitting in the tent.' strongly suggests the base is a farm called Beauchamp Farm near or at Over, Gloucestershire. Consistent with previous 'Beauchamp' Gloucester-area trips in 1992, 1993, 1994. Geocoded approximately to the Over/Gloucester area."
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0174_L",
+      "excerpt": "Home for supper.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Gloucester Cathedral and Docks (April 9)",
+      "date_guess": "1996-04-09",
+      "stops": [
+        {
+          "normalized_name": "Gloucester Cathedral, UK",
+          "original_wording": "Gloucester Cathedral",
+          "confidence": 0.95,
+          "source_page_id": "A_0172_R",
+          "excerpt": "After lunch we drove to Gloucester Cathedral. Gorgeous Norman [?arches] & fat pillars. Fan vaulting & old lead?.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Gloucester Docks, UK",
+          "original_wording": "the Docks",
+          "confidence": 0.9,
+          "source_page_id": "A_0172_R",
+          "excerpt": "On to the Docks.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Swimming, lunch, Deerhurst and Over farm (April 10)",
+      "date_guess": "1996-04-10",
+      "stops": [
+        {
+          "normalized_name": "Gloucester Swimming Pool, UK",
+          "original_wording": "Gloucester swimming pool",
+          "confidence": 0.9,
+          "source_page_id": "A_0173_R",
+          "excerpt": "we set off to swim April 10. Charles was very brave jumping off the high board 18 ft. at Gloucester swimming pool.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "The Red Lion, Gloucestershire, UK",
+          "original_wording": "The Red Lion",
+          "confidence": 0.8,
+          "source_page_id": "A_0173_R",
+          "excerpt": "We drove to a pub for lunch, where we'd been for a drink before - stone toad stools outside the door, where the river is liable to flood. The Red Lion. Lots of stuffed fish in glass cases.",
+          "geocode_hint": { "countrycodes": "gb" },
+          "note": "A riverside pub near Gloucester, previously visited by the family. Exact location unconfirmed; geocoded to Gloucestershire area. 'Stone toadstools' and flooding risk suggests a riverside location, possibly at Ashleworth or nearby on the Severn."
+        },
+        {
+          "normalized_name": "Odda's Chapel, Deerhurst, UK",
+          "original_wording": "Odda's Chapel",
+          "confidence": 0.95,
+          "source_page_id": "A_0173_R",
+          "excerpt": "On to Odda's Chapel, which Robert [?Grimley] had told Simon about, & St. Mary Deerhurst. Amazing old Saxon long & short quoins, splayed windows, carvings.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "St Mary's Church, Deerhurst, UK",
+          "original_wording": "St. Mary Deerhurst",
+          "confidence": 0.95,
+          "source_page_id": "A_0173_R",
+          "excerpt": "On to Odda's Chapel, which Robert [?Grimley] had told Simon about, & St. Mary Deerhurst. Amazing old Saxon long & short quoins, splayed windows, carvings. Old Roman bricks recycled.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Over, Gloucestershire, UK",
+          "original_wording": "Beauchamp Over fam[illegible]",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "A_0173_R",
+          "excerpt": "We came home via the ^Beauchamp Over fam[illegible — text cut off at page bottom]",
+          "geocode_hint": { "countrycodes": "gb" },
+          "note": "Text continues on A_0174_L: 'shop, buying fruit + veg + looking at the goats + donkeys + 2 ostrichos.' This was a farm shop stop on the return to Beauchamp base. 'Over' is a village just west of Gloucester. The farm shop may be part of or adjacent to the Beauchamp base itself."
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Beauchamp / Beauchamps",
+      "issue": "Recurring Gloucester-area music course venue. The text 'Beauchamp Over fam[illegible]' and the mention of 'Over' strongly suggest proximity to the village of Over, Gloucestershire (just west of Gloucester), but exact location of 'Beauchamp Farm' not confirmed. See also trips 1992-beauchamp-*, 1993-beauchamp-*, 1994-beauchamp-* for same venue.",
+      "source_page_id": "A_0172_R",
+      "excerpt": "We set off for Beauchamps for John to go on his first 'cello course. We are camping in the field."
+    },
+    {
+      "original_wording": "The Red Lion",
+      "issue": "A riverside pub 'where the river is liable to flood' with 'stone toad stools outside the door' and 'stuffed fish in glass cases', visited before. Likely on the River Severn near Gloucester, but exact location not confirmed. Several Red Lion pubs exist in the area.",
+      "source_page_id": "A_0173_R",
+      "excerpt": "We drove to a pub for lunch, where we'd been for a drink before - stone toad stools outside the door, where the river is liable to flood. The Red Lion."
+    }
+  ],
+  "boundary_flags": [
+    "Page A_0172_R is boundary_mixed:true — the text begins mid-trip on a page shared with earlier content (no. 3 is the page sequence within this spread). The 9th April 1996 entry is the first clear page of this trip.",
+    "The date on A_0173_R is transcribed as iso 1995-04-10, but given the narrative context (continuation of the April 9, 1996 entry), this is clearly April 10, 1996. The year 1995 in the iso field is a transcription error."
+  ],
+  "summary": "A short April 1996 camping weekend (9–15 April) based at Beauchamp Farm near Over, Gloucestershire, where eight-year-old John attended his first cello course. Simon, Eve, Thomas, William, John and Charles (Peter was separately in France) camped in the field and made day trips to Gloucester Cathedral, the Docks, a swimming pool and the remarkable Saxon sites of Odda's Chapel and St Mary's Deerhurst. The week ended with John's concert on April 15th, where he performed ‘Greensleeves’ and ‘The Great Western’ in the senior orchestra.",
+  "extraction_notes": "Peter is absent (stated as 'staying with Lawrence [?Barret] in France'), so he is excluded from travellers. The trip spans A_0172_R through A_0174_L. A_0173_L is a glued-in printed leaflet about Gloucester Cathedral's Lady Chapel with some partially visible handwritten notes — no new route information. The date range is 9 April to 15 April 1996, confirmed by 'Home for supper' on the final page. April 11–14 are undocumented in the diary (no pages survive or were blank). 'Beauchamp' is interpreted as Beauchamp Farm near Over, Gloucestershire, based on the truncated text 'Beauchamp Over fam...' and the farm-shop continuation on A_0174_L. No ferry crossings — entirely domestic UK trip. 'Granny' is mentioned as having worked to keep John in the senior group for orchestra; she is likely present at the course venue but is not a travelling family member."
+}

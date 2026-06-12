@@ -1,0 +1,105 @@
+{
+  "trip_id": "1990-hamperley-long-mynd-north-of-ludlow",
+  "title": "Hamperley & Long Mynd, north of Ludlow",
+  "volume": "A",
+  "spread_range": ["A_0014", "A_0015"],
+  "diary_page_range": [22, 25],
+  "date_start": "1990-03-04",
+  "date_end": null,
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Hamperley, Shropshire, UK",
+      "original_wording": "Hamperley, north of Ludlow",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "A_0014_L",
+      "excerpt": "We've come to __Hamperley__, north of Ludlow. Simon got feasts for everyone out of the freezer when we arrived.",
+      "geocode_hint": { "countrycodes": "gb", "region": "Shropshire" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk on the Long Mynd",
+      "date_guess": "1990-03-05",
+      "stops": [
+        {
+          "normalized_name": "Long Mynd, Shropshire, UK",
+          "original_wording": "Long Mynd",
+          "confidence": 1.0,
+          "approximate": false,
+          "source_page_id": "A_0014_R",
+          "excerpt": "After coffee we set of up the Long Mynd. Many trees have blown over. We walked 5 miles, + up and down 700 ft.",
+          "geocode_hint": { "countrycodes": "gb", "region": "Shropshire" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Walk to St Michael's church",
+      "date_guess": "1990-03-06",
+      "stops": [
+        {
+          "normalized_name": "St Michael's Church, Ratlinghope, Shropshire, UK",
+          "original_wording": "St. Michael's church",
+          "confidence": 0.75,
+          "approximate": true,
+          "source_page_id": "A_0015_L",
+          "excerpt": "On the Sunday we walked along to road to St. Michael's church. It had a cross stitch sampler on the wall in memory of a parishoner.",
+          "geocode_hint": { "countrycodes": "gb", "region": "Shropshire" }
+        }
+      ]
+    },
+    {
+      "base_seq": 2,
+      "label": "Drive to Boiling Well",
+      "date_guess": null,
+      "stops": [
+        {
+          "normalized_name": "Boiling Well, Long Mynd, Shropshire, UK",
+          "original_wording": "Boiling Well",
+          "confidence": 0.85,
+          "approximate": true,
+          "source_page_id": "A_0015_R",
+          "excerpt": "We drove of to the Boiling Well along a precarious singe track road up the side of a hill \"under 2 tons.\" Mist was sweeping across the moorland and it became very cold.",
+          "geocode_hint": { "countrycodes": "gb", "region": "Shropshire" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    "mixed_start: page A_0014_L begins mid-trip with Bath content before the March 4th Hamperley entry",
+    "mixed_end: page A_0015_R ends with lunch description; return journey home not explicitly stated"
+  ],
+  "summary": "A short March 1990 break at a campsite at Hamperley in south Shropshire, near the Long Mynd. The family walked 5 miles across the Long Mynd (700 ft ascent), visited St Michael's church on Sunday, and drove out to the Boiling Well spring on the moorland. Friends Jini, Margaret and Helen joined them, as did Grandma and Grandpa.",
+  "extraction_notes": "Pages are mixed_start and mixed_end. A_0014_L begins with the tail end of a Bath visit (Roman Baths, Pulteney Bridge) before the new trip entry dated March 4th. No return journey is narrated — the trip presumably ended with a return drive to Birmingham per standard family pattern. The campsite location is described as Hamperley 'north of Ludlow'; note that Hamperley is actually in the Onny valley near the Long Mynd (Church Stretton area, Shropshire), which is broadly north of Ludlow. St Michael's church is inferred to be the one at Ratlinghope, which is the nearest church to the Long Mynd campsite area; marked approximate. Boiling Well is a known spring on the Long Mynd. No year is explicit in the diary text; 1990-03 comes from the volume date_guess. Tinder the dog is not explicitly mentioned on these pages."
+}

@@ -1,0 +1,78 @@
+{
+  "trip_id": "2018-dornston-campsite-st-nicholas-church",
+  "title": "Dornston: Campsite & St. Nicholas Church",
+  "volume": "B",
+  "spread_range": ["B_0316", "B_0316"],
+  "diary_page_range": [316, 316],
+  "date_start": "2018-09-28",
+  "date_end": "2018-09-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Dornston, Herefordshire, UK",
+      "original_wording": "Dornston",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0316_L",
+      "excerpt": "Simon, Eve, Tinder → Dornston. Campsite with Fort Laramie + tilted horse!",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "home",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0316_L",
+      "excerpt": "lunch + home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk to St. Nicholas Church",
+      "date_guess": "2018-09-28",
+      "stops": [
+        {
+          "normalized_name": "St. Nicholas Church, Dornston, Herefordshire, UK",
+          "original_wording": "St. Nicholas church",
+          "confidence": 0.95,
+          "source_page_id": "B_0316_L",
+          "excerpt": "We saw St. Nicholas church. V. old buttresses.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "[?tedoro]",
+      "issue": "Illegible word in the context of a WW1 lecture mention; possibly a type of lecture, event or person's name; cannot be resolved from context",
+      "source_page_id": "B_0316_L",
+      "excerpt": "There will be a WW1 [?tedoro] lecture on the 6 mo. when Alexander Kirby was killed."
+    }
+  ],
+  "boundary_flags": [
+    "B_0316_L is marked mixed_end=true; the April 5th 2019 entry on the same page belongs to a different trip and has been excluded from this route."
+  ],
+  "summary": "A short two-day camping weekend in late September 2018, with Simon and Eve (and Tinder the dog) driving from Birmingham to the campsite at Dornston in Herefordshire. The visit included a peaceful walk to the very old St. Nicholas church, blackberrying, damsoning, and admiring the beautiful houses and wildlife before returning home after lunch on the Saturday.",
+  "extraction_notes": "Single diary page (B_0316_L); trip dates inferred as Friday 28 Sept – Saturday 29 Sept 2018 (year confirmed by trip_id and surrounding volume context). Sons are not mentioned as travelling on this trip — only Simon, Eve, and Tinder. The page is boundary_mixed at the end: the 'April 5th 2019' entry beginning 'Simon, Eve + Tinder come to near Barnsley' is a separate trip and excluded. The Alexander Kirby WW1 reference is noted but is contextual commentary, not a place stop. 'Fort Laramie' appears to be a field name or local landmark at the campsite, not a separate stop. Dornston is a small hamlet in Herefordshire; St. Nicholas church is the local parish church there."
+}

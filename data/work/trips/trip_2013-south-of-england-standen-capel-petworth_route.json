@@ -1,0 +1,182 @@
+{
+  "trip_id": "2013-south-of-england-standen-capel-petworth",
+  "title": "South of England: Standen, Capel, Petworth & Churt",
+  "volume": "B",
+  "spread_range": ["B_0212", "B_0216"],
+  "diary_page_range": [32, 35],
+  "date_start": "2013-06-15",
+  "date_end": "2013-06-18",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0212_R",
+      "excerpt": "9.40. we leave for the south of England.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Standen House, East Grinstead, UK",
+      "original_wording": "Standen",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0212_R",
+      "excerpt": "We visit Standen, the Beale family home, a lovely Arts & Crafts house 1880.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Capel, Surrey, UK",
+      "original_wording": "Capel",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0213_L",
+      "excerpt": "Sonja lives in a big house at Capel ... We had a good meal & slept in the van on the drive.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Horsham, UK",
+      "original_wording": "Horsham",
+      "role": "transit_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0213_L",
+      "excerpt": "we went to Mass with Sonja St. John's Horsham.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Partridge Green, West Sussex, UK",
+      "original_wording": "Partridge Green",
+      "role": "overnight_base",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0213_L",
+      "excerpt": "Off to Partridge Green where we are on a Farm *** with easy cycling onto the Downs Link cycle path.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Petworth House, West Sussex, UK",
+      "original_wording": "Petworth",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0214_L",
+      "excerpt": "We set off for Petworth. We shopped in the town for lunch tomorrow ... then looked at the house. Amazing paintings, wood carvings, kitchens.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Salmon's Bridge Farm, West Sussex, UK",
+      "original_wording": "Salmon's Bridge Farm",
+      "role": "transit_stop",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0215_R",
+      "excerpt": "We tried to see a bit of Salmon's Bridge Farm, the Campins home that Simon visited when he was 10, then continued on to Jane in Churt.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Churt, Surrey, UK",
+      "original_wording": "Churt",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0215_R",
+      "excerpt": "continued on to Jane in Churt. We had supper & slept at Longwood House.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0216_L",
+      "excerpt": "We had supper at the White Horse with Charles + Jenny + drove on home.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 5,
+      "label": "Downs Link cycle ride (Shoreham–Steyning), 10k each way",
+      "date_guess": "2013-06-16",
+      "stops": [
+        {
+          "normalized_name": "Steyning, West Sussex, UK",
+          "original_wording": "Steyning",
+          "confidence": 0.9,
+          "source_page_id": "B_0213_R",
+          "excerpt": "At Steyning we had a stupendous tea - rhubarb scones, rhubarb jam & then set off home, back to the van",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Shoreham-by-Sea, UK",
+          "original_wording": "Shoreham",
+          "confidence": 0.6,
+          "source_page_id": "B_0213_R",
+          "excerpt": "[glued-in map: Route of the Downs Link ... places labelled: Shoreham, South Downs, Clay Vale, Greenwood Rdge, Southwater ... Cowfold ... North Downs, Guildford. Handwritten annotation on map: \"we cycled 10k & 10k back\"]",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Tuesday: Ash Vale factory, the Lightbox (Gertrude Jekyll exhibition) & Kate Ruby's house",
+      "date_guess": "2013-06-18",
+      "stops": [
+        {
+          "normalized_name": "Ash Vale, Surrey, UK",
+          "original_wording": "Ash Vale",
+          "confidence": 0.85,
+          "source_page_id": "B_0215_R",
+          "excerpt": "Simon drove us to the factory, Ash Vale & Jane & Eve caught the train to go to the Light box exhibition on Gertrude Jekyll 1843-1932.",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "The Lightbox, Woking, UK",
+          "original_wording": "the Light box exhibition on Gertrude Jekyll",
+          "confidence": 0.7,
+          "source_page_id": "B_0215_R",
+          "excerpt": "Jane & Eve caught the train to go to the Light box exhibition on Gertrude Jekyll 1843-1932.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Surs [Jew]",
+      "issue": "Place name illegible/uncertain. Tuesday after dropping Jane back at Churt the diary reads 'went on to Surs [Jew]' then (next page) 'to admire the new flat that Charles' landlord is preparing for him'. Likely the town where Charles lives, but the name cannot be read; possibly a misread of a Surrey/Sussex town. Cannot locate.",
+      "source_page_id": "B_0215_R",
+      "excerpt": "After lunch we drove Jane back to Churt & went on to Surs [Jew]"
+    }
+  ],
+  "boundary_flags": [
+    {
+      "page_id": "B_0212_R",
+      "issue": "Top of page is the tail of the PREVIOUS trip (Sunday May 26: Annette's care, Simon's bike ride, failed visit to Richard Holroyd in Cambridge, then drove home). This trip starts at the heading 'Saturday June 15th' / '9.40. we leave for the south of England.'"
+    },
+    {
+      "page_id": "B_0216_L",
+      "issue": "Bottom of page closes this trip ('drove on home'); the page is flagged boundary_mixed and the next trip likely begins after the Gertrude Jekyll drawing."
+    }
+  ],
+  "summary": "A four-day June 2013 trip from Birmingham to the south of England (Surrey/Sussex), visiting the National Trust Arts & Crafts house at Standen, basing with Sonja at Capel and on a farm near Partridge Green (with a Downs Link cycle ride to Steyning), then touring Petworth House, looking at the Campin family's Salmon's Bridge Farm, and staying with Jane at Longwood House in Churt before a final Tuesday of family visits around Ash Vale and the Lightbox in Woking, then driving home.",
+  "extraction_notes": "The only sketch page (B_0213_R) is a glued-in PRINTED terrain cross-section titled 'Route of the Downs Link' (Shoreham→Guildford) annotated 'we cycled 10k & 10k back' — it documents the day cycle EXCURSION, not the trip's overnight order, so narrative order governs the main route here. Overnight sequencing is partly ambiguous: they slept in the van at Capel Saturday night; Sunday they were 'on a Farm ***' at Partridge Green (treated as overnight_base, but B_0214_L 'We reached Capel about 6 & spent the evening at Sonja's flat' suggests they may instead have returned to Capel for Sunday night). Petworth (Monday) is a day visit, not an overnight; the Monday overnight was Longwood House, Churt. Travellers listed conservatively as Simon and Eve (the diary's 'we'); Charles and Jenny appear only as people met locally. Salmon's Bridge Farm marked approximate (small named farm, briefly attempted, not toured). 'Surs [Jew]' is illegible and queued as unresolved. No sea/tunnel crossings — entirely within Great Britain."
+}

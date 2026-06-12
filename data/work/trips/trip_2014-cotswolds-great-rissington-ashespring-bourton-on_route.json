@@ -1,0 +1,69 @@
+{
+  "trip_id": "2014-cotswolds-great-rissington-ashespring-bourton-on",
+  "title": "Cotswolds: Great Rissington (Ashespring), Bourton-on-the-Water",
+  "volume": "B",
+  "spread_range": ["B_0233", "B_0234"],
+  "diary_page_range": [233, 234],
+  "date_start": "2014-06-27",
+  "date_end": "2014-06-29",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Charles", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Great Rissington, Gloucestershire, UK",
+      "original_wording": "Great Rissington, Ashespring",
+      "role": "overnight_base",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0233_L",
+      "excerpt": "Simon, Eve + Tinder left just after 6. We arrived about 7.45 at Great Rissington, Ashespring",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "Harborne",
+      "role": "home",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0234_L",
+      "excerpt": "Then tea, then we all left. The first time we had to stop on the return journey was at the Green Man red light in Harborne.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 2,
+      "label": "Walk to Bourton-on-the-Water",
+      "date_guess": "2014-06-28",
+      "stops": [
+        {
+          "normalized_name": "Bourton-on-the-Water, Gloucestershire, UK",
+          "original_wording": "Bourton-on-the-Water",
+          "confidence": 1.0,
+          "source_page_id": "B_0233_R",
+          "excerpt": "After lunch we walked into Bourton-on-the-Water. Very pretty. The aim of the trip was to have an icecream, which we did.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [],
+  "summary": "A short Cotswolds weekend in late June 2014, with Simon, Eve and Tinder based at the Ashespring campsite in Great Rissington; Charles and his partner Jenny also joined for part of the stay. Day trips included a walk into Bourton-on-the-Water, and the family returned to Birmingham via Harborne on Sunday evening.",
+  "extraction_notes": "The transcription metadata gives an ISO date of 2003-06-27, but June 27th fell on a Friday in 2014 (matching the diary wording 'Friday June 27th') not in 2003 - the trip_id year of 2014 is used. The diary covers Friday 27th (arrival), Saturday 28th (Bourton-on-the-Water excursion), and Sunday 29th (further walks, Morgan 3-wheeler, departure). Harborne is a suburb of Birmingham, confirming return home on Sunday evening. Charles is listed as a son in the family; Jenny is his partner and not part of the core family list. No ferry crossings - entirely within England."
+}

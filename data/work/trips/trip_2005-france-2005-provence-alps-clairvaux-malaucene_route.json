@@ -1,0 +1,277 @@
+{
+  "trip_id": "2005-france-2005-provence-alps-clairvaux-malaucene",
+  "title": "France 2005: Provence & the Alps (Clairvaux to Malaucène & the Verdon)",
+  "volume": "B",
+  "spread_range": ["B_0063", "B_0072"],
+  "diary_page_range": [84, 85],
+  "date_start": "2005-07-22",
+  "date_end": "2005-08-01",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB", "FR"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0063_R",
+      "excerpt": "John, Charles, Simon + Eve set off at 5pm for France, waved off by Thomas + Peter.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Broadhembury, Ashford, Kent, UK",
+      "original_wording": "Broadhembury near Ashford in Kent",
+      "role": "overnight_base",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0064_L",
+      "excerpt": "We reached __Broadhembury__ near Ashford in Kent at 10.45. ... We paid £25 to sleep on a path.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Folkestone (Eurotunnel)",
+      "original_wording": "the [?fer] train",
+      "role": "crossing_terminal",
+      "confidence": 0.75,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Diary describes a delayed crossing by 'train' (Eurotunnel Le Shuttle, a car-carrying train) after an overnight near Ashford/Folkestone in Kent; no terminal named explicitly, but the 'train' wording and Kent location point to the Channel Tunnel at Folkestone rather than a ferry.",
+      "source_page_id": "B_0064_L",
+      "excerpt": "We reached the [?fer] train early + the train was delayed an hour. It was a bit nerve-wracking with terrorism around.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Laudemanche, France",
+      "original_wording": "Laudemanche",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": true,
+      "source_page_id": "B_0064_R",
+      "excerpt": "The campsite in fields outside __Laudemanche__ is light with lovely views across fields. ... We had camped east of Troyes near artificial lakes between the Seine + Aube rivers.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Clairvaux, France",
+      "original_wording": "Clairvaux Abbey",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0064_R",
+      "excerpt": "We reached Clairvaux Abbey, hoping to go to church, but it was all closed up until 2 pm. So we drove on though the rain + bought bread.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Grémieux, France",
+      "original_wording": "Grémieux",
+      "role": "transit_stop",
+      "confidence": 0.6,
+      "approximate": true,
+      "source_page_id": "B_0064_R",
+      "excerpt": "We drove through Grémieux in the afternoon, in a gorge with castles + a big Mediaeval market hall, but we didn't stop.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Tubins, France",
+      "original_wording": "Tubins* campsite",
+      "role": "overnight_base",
+      "confidence": 0.7,
+      "approximate": true,
+      "source_page_id": "B_0065_L",
+      "excerpt": "We passed a river where people were swimming + arrived at Tubins* campsite at 7.15., just as the pool closed. ... Suffocatingly hot in the night.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Malaucène, France",
+      "original_wording": "Malaucene, place 23 ... Le Bosquets",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0065_L",
+      "excerpt": "Bryony + William have reserved a pitch for us at Malaucene, place 23. ... We met up with William + Bryony + Swann + then asked if we could move up to the swimming pool level. __Le Bosquets__ – Simfros",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Mont Ventoux, France",
+      "original_wording": "Mt. Ventoux",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0070_L",
+      "excerpt": "We drove around __Mt. Ventoux__ (if Mt. Ventnor on Isle of Wight, Celtic \"White Capes\") the top is not snow, it's white limestone. We stopped off for a short walk to see an old bridge that carried the old road up the valley.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "Colorado de Rustrel, France",
+      "original_wording": "Colorado de Rustel",
+      "role": "main_stop",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0070_R",
+      "excerpt": "ochre & sand from walk near old ochre open-cast mines ... among \"chemines des fees\" - fairy chimney, some over 20ft high",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Reillanne, France",
+      "original_wording": "Reillanne",
+      "role": "transit_stop",
+      "confidence": 0.8,
+      "approximate": false,
+      "source_page_id": "B_0071_R",
+      "excerpt": "We drove on to Reillanne (wheat fields + pine trees) + asked the way at a tourist info shop. The campsite (Vallee des Oiseau) that they sent us to, 4km away, was a nudist colony, so we turned the van around + set off again.",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 12,
+      "normalized_name": "Gréoux-les-Bains, France",
+      "original_wording": "Geouxlesbain ... Campsite Chateau Lavalle",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0071_R",
+      "excerpt": "Near __Geouxlesbain__, we finally found a site, very posh, (Thorneness!) £45 a night with tennis + swimming ... Campsite Chateau Lavalle ***",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 13,
+      "normalized_name": "Gréoux-les-Bains (Béoux), France",
+      "original_wording": "Beoux",
+      "role": "transit_stop",
+      "confidence": 0.55,
+      "approximate": true,
+      "source_page_id": "B_0071_R",
+      "excerpt": "We went back to the van, put down the tent, packed up + drove to Beoux. There, we went to buy croissants, pain-au-chocolate + bread",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 14,
+      "normalized_name": "Esparron-de-Verdon, France",
+      "original_wording": "Camping au Soleil, Espar[r]on",
+      "role": "overnight_base",
+      "confidence": 0.85,
+      "approximate": false,
+      "source_page_id": "B_0072_L",
+      "excerpt": "We drove on to Maia's campsite ***** \"Camping au Soleil\" Espar[r]on. Charles met up with Maia who has a tent on the beach with Minor + Natalie. We swam,",
+      "geocode_hint": { "countrycodes": "fr" }
+    },
+    {
+      "seq": 15,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 0.4,
+      "approximate": false,
+      "inferred": true,
+      "inference_reason": "Trips start and end at home unless the diary says otherwise; the transcribed pages end at Esparron on Mon 1 Aug and never narrate the return journey, so the return leg and home arrival are inferred and uncited.",
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [
+    {
+      "after_seq": 3,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": "B_0064_L",
+      "excerpt": "We reached the [?fer] train early + the train was delayed an hour.",
+      "inference_reason": "Outbound crossing described as a 'train' (car-carrying Eurotunnel Le Shuttle) after an overnight near Ashford/Folkestone in Kent; treated as the Channel Tunnel (Folkestone-Coquelles) rather than the default Dover-Calais ferry because the diary specifies a train, not a boat."
+    },
+    {
+      "after_seq": 14,
+      "route_key": "folkestone-coquelles",
+      "kind": "tunnel",
+      "named_in_diary": false,
+      "inferred": true,
+      "source_page_id": null,
+      "excerpt": null,
+      "inference_reason": "Return crossing not narrated in the transcribed pages; mirrored from the outbound Channel Tunnel crossing as the most likely return route. Low confidence."
+    }
+  ],
+  "excursions": [
+    {
+      "base_seq": 8,
+      "label": "Day trip to Vaison-la-Romaine",
+      "date_guess": "2005-07-26",
+      "stops": [
+        {
+          "normalized_name": "Vaison-la-Romaine, France",
+          "original_wording": "Vaison la Romaine",
+          "confidence": 0.9,
+          "source_page_id": "B_0065_R",
+          "excerpt": "We wandered round Vaison. Eve got lost. John + Simon walked up hill, very hot. ... Lovely town, musicians. ... We stopped at a veg/fruit shop on the way back to the camp for lunch.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Day trip to Avignon",
+      "date_guess": "2005-07-27",
+      "stops": [
+        {
+          "normalized_name": "Avignon, France",
+          "original_wording": "Avignon",
+          "confidence": 0.9,
+          "source_page_id": "B_0066_L",
+          "excerpt": "We managed to leave at 9.10. for __Avignon__. We saw the vast square & the Palais des Papes from the outside & the church ... It was very hot so then we went back to the camp.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    },
+    {
+      "base_seq": 8,
+      "label": "Day trip to Fontaine-de-Vaucluse & Sénanque Abbey",
+      "date_guess": "2005-07-29",
+      "stops": [
+        {
+          "normalized_name": "Fontaine-de-Vaucluse, France",
+          "original_wording": "Fontaine-de-Vaucluse",
+          "confidence": 0.9,
+          "source_page_id": "B_0067_R",
+          "excerpt": "We left early (9.15?) to go to Fontaine-de-Vaucluse, a famous place where a river comes out of a cave, low down. We looked down into the pool, about 20m below where we stood.",
+          "geocode_hint": { "countrycodes": "fr" }
+        },
+        {
+          "normalized_name": "Abbaye Notre-Dame de Sénanque, Gordes, France",
+          "original_wording": "Abbaye Notre Dame de Sénanque",
+          "confidence": 0.95,
+          "source_page_id": "B_0068_L",
+          "excerpt": "We drove on to the Abbaye Notre Dame de Sénanque, famous for its lavender. ... As we arrived a man was using an amazing tractor to harvest the lavender right next to the monastery.",
+          "geocode_hint": { "countrycodes": "fr" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Tubins* campsite",
+      "issue": "Campsite name 'Tubins' (transcribed with a trailing asterisk) cannot be matched to a known place; it lies somewhere between the Clairvaux/Grémieux area and Malaucène on a hot day with chestnut orchards, but the exact location is uncertain — marked approximate as an overnight base rather than dropped.",
+      "source_page_id": "B_0065_L",
+      "excerpt": "arrived at Tubins* campsite at 7.15., just as the pool closed. ... Plantations of chestnut orchards."
+    },
+    {
+      "original_wording": "Grémieux",
+      "issue": "Place name uncertain; a gorge town with castles and a medieval market hall passed in the afternoon between Clairvaux and Tubins. Could be Crémieu (Isère, which has a famous medieval market hall) rather than 'Grémieux'; drove through without stopping.",
+      "source_page_id": "B_0064_R",
+      "excerpt": "We drove through Grémieux in the afternoon, in a gorge with castles + a big Mediaeval market hall, but we didn't stop."
+    }
+  ],
+  "boundary_flags": [],
+  "summary": "A July-August 2005 family camping trip (Simon, Eve, John and Charles) from Birmingham via a Channel crossing by 'train' from Kent into France, then south through Clairvaux to a long fixed base at Malaucène in Provence, where they joined William and Bryony. From Malaucène they made day trips to Vaison-la-Romaine, Avignon, Fontaine-de-Vaucluse and the lavender abbey of Sénanque, and toured Mont Ventoux and the ochre 'Colorado' of Rustrel. They then moved east via Reillanne and Gréoux-les-Bains to a final lakeside base at Esparron-de-Verdon, where the diary ends with a pedalo day in the Verdon gorge on 1 August.",
+  "extraction_notes": "The page bundle lists a sketch image on B_0068_L, but inspecting the scan confirms it is a mechanical diagram of a paper-making water-wheel mechanism (hammers, granite tub, cogs), NOT a geographic route sketch — so evidence-hierarchy rule 1 (route sketches outrank narrative) does not apply, and ordering follows the dated narrative. Travellers are only Simon, Eve, John and Charles; Thomas and Peter stayed behind (B_0063_R). The earlier July 8th entry on B_0063_R is a separate Malvern/Thorpeness episode at the start of the page and is not part of this trip's route. Outbound crossing: diary says they reached 'the [?fer] train' which was delayed — a car-carrying train indicates the Eurotunnel Le Shuttle (Folkestone-Coquelles), supported by the overnight near Ashford in Kent; modelled as a tunnel crossing rather than the default Dover-Calais ferry. The return journey is not narrated (pages end at Esparron on Mon 1 Aug 2005); home arrival and the return crossing are inferred with low confidence. 'Laudemanche', 'Tubins' and 'Grémieux'/'Beoux' are transcribed as-spelt and may be approximate French place names (e.g. Grémieux may be Crémieu; Beoux is most likely a Gréoux-les-Bains spelling). Note B_0072_R's date field carries an erroneous iso '1998-08-01' but the heading reads 'Monday 1st August' which in 2005 is correct as 2005-08-01."
+}

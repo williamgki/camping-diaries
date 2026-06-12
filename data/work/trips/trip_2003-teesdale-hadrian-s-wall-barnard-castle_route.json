@@ -1,0 +1,186 @@
+{
+  "trip_id": "2003-teesdale-hadrian-s-wall-barnard-castle",
+  "title": "Teesdale & Hadrian's Wall: Barnard Castle, High Force, Vindolanda & Newcastle",
+  "volume": "B",
+  "spread_range": ["B_0010", "B_0014"],
+  "diary_page_range": [8, 12],
+  "date_start": "2003-10-24",
+  "date_end": "2003-10-28",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Cotherstone, County Durham, UK",
+      "original_wording": "Doe Park Cotherstone, NW Barnard Castle",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0010_R",
+      "excerpt": "It was a long, long drive north. We are camping at Doe Park Cotherstone, NW Barnard Castle.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "High Force, Teesdale, UK",
+      "original_wording": "High Force",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0011_L",
+      "excerpt": "We drove to High Force.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "Haltwhistle, Northumberland, UK",
+      "original_wording": "Haltwhistle",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0011_R",
+      "excerpt": "We drove on to Haltwhistle, had lunch & met Peter (from Newcastle Uni) off the train.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Vindolanda, UK",
+      "original_wording": "Vindolanda",
+      "role": "main_stop",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0011_R",
+      "excerpt": "Then we went on to Vindolanda.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Bardon Mill, Northumberland, UK",
+      "original_wording": "Bardon Mill",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0011_R",
+      "excerpt": "The campsite is at Bardon Mill. [?] it is a very pretty field next to the R. Tyne",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 7,
+      "normalized_name": "Housesteads Roman Fort, UK",
+      "original_wording": "Housesteads",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0012_R",
+      "excerpt": "We went to Housesteads, I remembered the loos.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 8,
+      "normalized_name": "Chesters Roman Fort, UK",
+      "original_wording": "Chesters",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0013_L",
+      "excerpt": "On to Chesters, where there is a Roman Bridge abuttment.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 9,
+      "normalized_name": "Newcastle upon Tyne, UK",
+      "original_wording": "Newcastle (6 St. John's Terrace, Heaton)",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0013_R",
+      "excerpt": "In the evening we reached Newcastle. Simon & Eve went to church at St. Gabriel's. Peter lives at 6 St. John's Terrace, Haxton, which is ENE of the city centre",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 10,
+      "normalized_name": "York, UK",
+      "original_wording": "York",
+      "role": "transit_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0014_R",
+      "excerpt": "We left at 2pm & stopped in York for a cracked light.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 11,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0014_R",
+      "excerpt": "There were 2 more jams on the motorway & we only got home at 10pm.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 9,
+      "label": "Newcastle: Baltic Flour Mill & Laing Gallery",
+      "date_guess": "2003-10-27",
+      "stops": [
+        {
+          "normalized_name": "BALTIC Centre for Contemporary Art, Gateshead, UK",
+          "original_wording": "Baltic Flour Mill",
+          "confidence": 0.85,
+          "source_page_id": "B_0014_L",
+          "excerpt": "We went to the Baltic Flour Mill & saw lots of exhibitions",
+          "geocode_hint": { "countrycodes": "gb" }
+        },
+        {
+          "normalized_name": "Laing Art Gallery, Newcastle upon Tyne, UK",
+          "original_wording": "Laing Gallery",
+          "confidence": 0.85,
+          "source_page_id": "B_0014_L",
+          "excerpt": "then we went shopping & to the Laing Gallery; this was mostly closed for refurbishing",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    },
+    {
+      "base_seq": 9,
+      "label": "Newcastle: Hatton Gallery",
+      "date_guess": "2003-10-28",
+      "stops": [
+        {
+          "normalized_name": "Hatton Gallery, Newcastle upon Tyne, UK",
+          "original_wording": "Hatton Gallery, the university museum",
+          "confidence": 0.85,
+          "source_page_id": "B_0014_R",
+          "excerpt": "We went to the Hatton Gallery, the university museum, & saw a marvellous exhibition of Kenneth Rowntree's paintings",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [],
+  "boundary_flags": [
+    {
+      "page_id": "B_0010_R",
+      "issue": "Page B_0010_R opens with a 'Sunday October 19th' entry about John playing his cello at a concert near home; this is a pre-trip event, NOT part of the journey. The trip proper begins at the 'Friday October 24th' heading on the same page when the family leaves home in the van. mixed_start=true is confirmed.",
+      "excerpt": "Sunday October 19th  S+E  We left at 5 to pick up Jim, Margaret & Helen to hear John play his 'cello"
+    }
+  ],
+  "summary": "An October 2003 half-term camping trip from Birmingham up to Teesdale and Hadrian's Wall. The family camped at Doe Park near Cotherstone (NW of Barnard Castle), visited High Force waterfall, Vindolanda and Haltwhistle, then moved to a campsite at Bardon Mill by the Tyne, touring the Roman forts at Housesteads and Chesters. They finished with several days in Newcastle staying near son Peter at Heaton (galleries, the Baltic and Hatton Gallery) before driving home via York.",
+  "extraction_notes": "The only sketch in the bundle (B_0013_R) is a hand-drawn FLOOR PLAN of Peter's house, not a route sketch, so it does not override narrative order; route reconstructed from the dated travel narrative (evidence hierarchy rule 2/3). Entirely within England (GB), no sea/tunnel crossings. High Force, Haltwhistle, Vindolanda, Housesteads and Chesters are en-route main_stops on the driving progression between the three overnight bases (Cotherstone -> Bardon Mill -> Newcastle), not same-base excursions. The Newcastle gallery visits (Baltic Flour Mill, Laing, Hatton) are day activities from the Newcastle base and are grouped as excursions. Travellers: only Simon, Eve, John and Charles are evidenced on this trip (Peter is resident in Newcastle and met there; Thomas, William and Peter are not shown travelling from home). Place spellings kept verbatim in original_wording: 'Haxton'/'Sykes' Wall' in transcript are the diarist's renderings of Heaton/Byker's Wall (Newcastle). Note 'Tonic'/'Toni'/'Tord' name variants appear for the dog and a housemate."
+}

@@ -1,0 +1,99 @@
+{
+  "trip_id": "2004-malvern-evening-little-gossingham-kate-ed",
+  "title": "Malvern Evening & Little Gossingham: Kate & Ed's Wedding Weekend",
+  "volume": "B",
+  "spread_range": ["B_0020", "B_0020"],
+  "diary_page_range": [18, 18],
+  "date_start": "2004-06-01",
+  "date_end": "2004-07-03",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Thomas", "William", "Peter", "John", "Charles"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": null,
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [
+    {
+      "base_seq": 1,
+      "label": "Day trip to Machynlleth Alternative Technology Centre",
+      "date_guess": "2004-06-01",
+      "stops": [
+        {
+          "normalized_name": "Centre for Alternative Technology, Machynlleth, Wales",
+          "original_wording": "Alternative Technology Centre at Machynlleth",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0020_L",
+          "excerpt": "We pack up + set off for the Alternative Technology Centre at Machynlleth? The veg, grown out of compost, are marvellous. We had a delicious lunch (veg) in the cafeteria. We reached home before 6.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Machynlleth, Wales" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "Malvern evening: John's Vivaldi cello concerto",
+      "date_guess": "2004-06-27",
+      "stops": [
+        {
+          "normalized_name": "Trimpley, Worcestershire, UK",
+          "original_wording": "Trimpley",
+          "confidence": 0.85,
+          "approximate": false,
+          "source_page_id": "B_0020_L",
+          "excerpt": "Simon + Eve set off at 4.40. to pick up Helen + Margaret from Trimpley to go to Malvern.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Trimpley, Worcestershire" }
+        },
+        {
+          "normalized_name": "Malvern, Worcestershire, UK",
+          "original_wording": "Malvern",
+          "confidence": 0.95,
+          "approximate": false,
+          "source_page_id": "B_0020_R",
+          "excerpt": "We are having supper in the van at 6.30. before John's Vivaldi 'cello concerto at 7.30. In the end Hector Loring + René joined us too. We had a very good evening + we were extremely proud of John.",
+          "geocode_hint": { "countrycodes": "gb", "near": "Malvern, Worcestershire" }
+        }
+      ]
+    },
+    {
+      "base_seq": 1,
+      "label": "Kate & Ed's wedding at Little Gossingham",
+      "date_guess": "2004-07-03",
+      "stops": [
+        {
+          "normalized_name": "Little Gossingham, UK",
+          "original_wording": "Little Gossingham",
+          "confidence": 0.6,
+          "approximate": true,
+          "source_page_id": "B_0020_R",
+          "excerpt": "Simon + Eve set off at 11.15 for Kate + Ed's wedding. At Little Gossingham. It was a beautiful wedding in a church where the tower had fallen down in 1700s.",
+          "geocode_hint": { "countrycodes": "gb" }
+        }
+      ]
+    }
+  ],
+  "unresolved": [
+    {
+      "original_wording": "Little Gossingham",
+      "issue": "Place name not positively identified; no standard settlement named 'Little Gossingham' found in England. Possibly a mishearing or variant spelling — could be Little Cowarne, Herefordshire or another village in the Herefordshire/Worcestershire area. Church tower reportedly fell in the 1700s. Marked approximate in excursion but needs verification.",
+      "source_page_id": "B_0020_R",
+      "excerpt": "Kate + Ed's wedding. At Little Gossingham. It was a beautiful wedding in a church where the tower had fallen down in 1700s."
+    }
+  ],
+  "boundary_flags": [
+    "B_0020_L: page begins mid-trip with a packing/meals list for a 7-person weekend outing; that content belongs to a prior trip boundary and is not part of this route reconstruction.",
+    "B_0020_L and B_0020_R both marked boundary_mixed: true in source data."
+  ],
+  "summary": "A cluster of three day outings from Birmingham in summer 2004: a Tuesday trip to the Centre for Alternative Technology at Machynlleth (June 1), a Sunday evening in Malvern for John's Vivaldi cello concerto with friends picked up from Trimpley (June 27), and a Saturday drive to Little Gossingham for Kate and Ed's wedding in a historic church (July 3). All trips were based from home in Birmingham with no overnight stays away.",
+  "extraction_notes": "All three events are day trips from Birmingham; no overnight bases away from home and no crossings. The packing list at the top of B_0020_L (meals for 7 over a weekend) is boundary_mixed content from a preceding trip and has not been incorporated into this route. 'Little Gossingham' as a place name is unverified — it appears in the diary as the wedding venue but does not match any known English settlement with certainty; flagged for review. Peter and Ben went gliding and Janet Ludford, Catherine, Colin, Koroku, Charles, Hector Loring and René are mentioned as guests at the Malvern concert evening but are not route stops."
+}

@@ -1,0 +1,101 @@
+{
+  "trip_id": "2014-norfolk-kenninghall-south-lopham-thetford-forest",
+  "title": "Norfolk: Kenninghall, South Lopham & Thetford Forest",
+  "volume": "B",
+  "spread_range": ["B_0245", "B_0246"],
+  "diary_page_range": [65, 66],
+  "date_start": "2014-10-11",
+  "date_end": "2014-10-12",
+  "date_precision": "day",
+  "travellers": ["Simon", "Eve", "Tinder"],
+  "countries": ["GB"],
+  "main_route": [
+    {
+      "seq": 1,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "B'ham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": null,
+      "excerpt": null,
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 2,
+      "normalized_name": "Trumpington, Cambridge, UK",
+      "original_wording": "Trumpington",
+      "role": "transit_stop",
+      "confidence": 0.75,
+      "approximate": false,
+      "source_page_id": "B_0245_L",
+      "excerpt": "Mandarin - stone, slate, granite for lights at Trumpington. Gorgeous stones for bathrooms & kitchens.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 3,
+      "normalized_name": "Kenninghall, Norfolk, UK",
+      "original_wording": "Kenninghall",
+      "role": "overnight_base",
+      "confidence": 0.95,
+      "approximate": false,
+      "source_page_id": "B_0245_R",
+      "excerpt": "On to __Kenninghall__ * * * * * South Lodge. Tiny. Shed for washroom. Good.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 4,
+      "normalized_name": "St Mary's Church, South Lopham, Norfolk, UK",
+      "original_wording": "St. Mary's South Lopham",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0246_L",
+      "excerpt": "Visited St. Mary's South Lopham. 5 tiered tower, Norman. 900 year old chest (dug out).",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 5,
+      "normalized_name": "Thetford Forest, Norfolk, UK",
+      "original_wording": "Thetford Forest",
+      "role": "main_stop",
+      "confidence": 0.9,
+      "approximate": false,
+      "source_page_id": "B_0246_R",
+      "excerpt": "We drove on to woods & walked next to the wood on a track with fields on one side, growing onions & turnips? ... It was a super walk with Tinder.",
+      "geocode_hint": { "countrycodes": "gb" }
+    },
+    {
+      "seq": 6,
+      "normalized_name": "Birmingham, UK",
+      "original_wording": "B'ham",
+      "role": "home",
+      "confidence": 1.0,
+      "approximate": false,
+      "source_page_id": "B_0246_R",
+      "excerpt": "Then back into the van & back to B'ham for tea.",
+      "geocode_hint": { "countrycodes": "gb" }
+    }
+  ],
+  "crossings": [],
+  "excursions": [],
+  "unresolved": [
+    {
+      "original_wording": "Annette",
+      "issue": "Lunch stop at Annette's (unnamed location) on the way to Kenninghall; no place name given, not geocodable.",
+      "source_page_id": "B_0245_R",
+      "excerpt": "Then on to Annette who took us out to lunch at Auberge."
+    },
+    {
+      "original_wording": "John & Pamela",
+      "issue": "Tea stop at John & Pamela's (unnamed location) on the way to Kenninghall; no place name given, not geocodable.",
+      "source_page_id": "B_0245_R",
+      "excerpt": "Then we went to tea with John & Pamela."
+    }
+  ],
+  "boundary_flags": [
+    "mixed_start: B_0245_L contains the end of a previous trip before the Norfolk trip begins mid-page"
+  ],
+  "summary": "A weekend trip to Norfolk in October 2014, with Simon and Eve (and dog Tinder) overnighting at South Lodge campsite in Kenninghall. On Sunday they visited the Norman church of St Mary's at South Lopham before a walk in Thetford Forest and the drive home to Birmingham.",
+  "extraction_notes": "mixed_start=true: B_0245_L is shared with the preceding trip. The Norfolk trip begins partway through B_0245_L with 'Oct 11th 2014 Saturday, 8.20. Simon, Eve & Tinder left for' followed by a note about a Mandarin stone showroom in Trumpington (near Cambridge), which is plausibly a transit stop on the Birmingham-to-Norfolk route. Visits to 'Annette' (lunch at Auberge) and 'John & Pamela' (tea) are recorded in B_0245_R en route to Kenninghall but no locations are given; recorded as unresolved. No children are mentioned as travelling on this trip. The Kenninghall campsite is called 'South Lodge' and is described as tiny with a shed for a washroom."
+}
