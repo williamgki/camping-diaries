@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0156",
+  "volume": "A",
+  "pdf_page": 156,
+  "pages": [
+    {
+      "page_id": "A_0156_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Peter + John fought Thomas in the boats. Charles fell out of the boat, reaching for the paddle + swam to the edge.\n\tWe ended up in a squalid campsite for the night __Cova Donga__ *. Dirty. Loo paper around. People leaving early in the night for work. We had a super super at Restaurant __Fabada__ where we had a friendly waiter. Peter + Thomas ate enormous amounts! Nice, clean.\n\t__Sunday__\n\tWe went up to Cova Donga. It was ghastly. People had given lovely jewelry, named + dated + the Church had locked it up in glass cases. A chieftain, Pelayo, had beaten the Moors for the first time in 722. A Visigoth descendant, he united Spain to drive the Moors out. He is celebrated as a sort of King Arthur/Alfred. The monuments + chapels were built 1880. + stirred up nationalism. The church was firmly shut for the service, + Simon was wearing shorts, so we didn't attempt to go. It's enough to make you turn Quaker. Spaniards rather cold.\n\tWe went to the zoo afterwards, which was good in parts, but had 4 unhappy pacing brown grizzly bears. Apparently they are wild on the mountains.\n\tWe ran out of wine, + opened a",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Cova Donga", "Fabada"],
+      "place_mentions": ["Cova Donga", "Fabada"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The campsite name 'Cova Donga' is underlined; this refers to Covadonga, Asturias, Spain. 'Fabada' (underlined) is the restaurant name, possibly also the Asturian bean stew dish name used as restaurant name. 'Pelayo' is the Asturian chieftain mentioned in historical context. The text is cut off at the bottom ('opened a...'). No handwritten page number visible at top-left. The year cannot be determined from this page alone; context suggests a Spain trip within 1989-2003."
+    },
+    {
+      "page_id": "A_0156_R",
+      "side": "R",
+      "handwritten_page_no": 69,
+      "blank": false,
+      "full_text": "Peter + John,\t\tThomas + Charles in boats.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Peter + John,        Thomas + Charles in boats."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "The right page contains a hand-drawn sketch (not a route map but a scenic illustration) of a lake or river with mountains in the background and two small boats, each carrying stick-figure people. The caption at the bottom reads 'Peter + John, Thomas + Charles in boats.' Page number 69 is visible at the top-right corner. This is an illustration/drawing page rather than a route sketch — it depicts the boating activity mentioned on the left page."
+    }
+  ]
+}

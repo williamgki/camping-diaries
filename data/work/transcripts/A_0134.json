@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0134",
+  "volume": "A",
+  "pdf_page": 134,
+  "pages": [
+    {
+      "page_id": "A_0134_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "road away from the village where they have created a shallow lake or next to the former railway station. We camped next to the track round the lake & the mini-golf. It is very hot. The boys made friends with 4 Dutch girls camped in the trees above the lake. They spent hours building sand castles.\n   Sat lunch we had at Hotel Keripes. It was delicious. The streets of the old town are pretty. There is a panoramic view from the church on the hill. Eve has a bad neck from almost falling over in Vezelay. Thomas, Peter & John have had vomiting Thomas is still sick when we leave. Too much cleaning up to go to church or back to the restaurant on Sunday. 2 mega storms on Sat + Sun night. Constant flashes, Sornion went into the tent which was almost blown flat but kept popping up again, the large Khyam.\n   Mon 8th August\n   We are driving south through Morvin + had lunch outside __Autun__. We parked + walked to Autun Cathedral, to see more glorious carving, but my neck ached. Fortunately there was an upstairs room where some capitals were at a lower height. I could have gone a long time here",
+      "dates": [
+        { "raw": "Mon 8th August", "iso_guess": "1994-08-08", "confidence": 0.9 }
+      ],
+      "headings": ["Mon 8th August"],
+      "underlined_places": ["Autun"],
+      "place_mentions": ["Vezelay", "Sornion", "Morvin", "Autun", "Autun Cathedral"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page continues mid-sentence from previous spread. 'Keripes' is the diary's spelling of the hotel name — may be 'Keripas' or a French hotel name; transcribed as written. 'Sornion' appears to be a place name (possibly a campsite or village near Vezelay, Burgundy); could also read 'Sennion' or similar — transcribed as it appears. 'Morvin' is almost certainly the Morvan region of Burgundy (Parc Naturel Régional du Morvan); transcribed as written. 'Mon 8th August' fell on a Monday in 1994 (the only year in the 1989–2003 range), giving high confidence for that year. There is some text visible in the right margin of the scan, written vertically, but it is largely obscured by the gutter/overlap and could not be reliably read. A small triangular shape (possibly a tent sketch) appears inline with the text near 'the tent which was almost blown flat'."
+    },
+    {
+      "page_id": "A_0134_R",
+      "side": "R",
+      "handwritten_page_no": 78,
+      "blank": false,
+      "full_text": "A dog came up while I sketched this in a driveway near Autun + ate half a very dead dead rabbit.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Autun"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "The page is dominated by a detailed hand-drawn pen sketch of an architectural scene — appears to be a building exterior with columns, horizontal banded stonework, and recessed sections, consistent with a Romanesque or classical building near Autun. The text caption is written at an angle in the lower-left portion of the page and describes the sketching context. This is an architectural/observational sketch, not a route map, so route_sketch is false. The handwritten page number '78' appears in the top-right corner."
+    }
+  ]
+}

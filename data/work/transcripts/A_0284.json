@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0284",
+  "volume": "A",
+  "pdf_page": 284,
+  "pages": [
+    {
+      "page_id": "A_0284_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Hand-drawn plan/sketch of Skenfrith Castle — see route_sketch_description]\n\n__Skenfrith Castle.__\nOne of 3 built by Normans in wood before 1100. Rebuilt 1270 in stone (along with Tretower) subduing Gwent.\n  * central tower had appartments on first floor. Archers on roof shooting over outer walls.",
+      "dates": [],
+      "headings": ["Skenfrith Castle."],
+      "underlined_places": ["Skenfrith Castle"],
+      "place_mentions": ["Skenfrith Castle", "Tretower", "Gwent"],
+      "route_sketch": true,
+      "route_sketch_description": "Plan-view diagram of Skenfrith Castle. Outer curtain wall (roughly square with rounded corners) contains: 'Corner Tower' (circle, top-left), unlabelled circular tower (top-right), two more rounded corner bastions (bottom-left and bottom-right). Along the top inner wall: 'wooden buildings'. Centre of courtyard: 'Tower' with asterisk (the circular keep). Left wall: 'watergate' (rectangular feature). Right inner area: 'C17 stone building'. Centre-lower area: 'oven + kitchens' (circle) and 'Chapel'. Bottom gate: 'gate + drawbridge' with arrow pointing outward. Below outer wall: 'mill.' label with upward arrow. Top of diagram: 'river' label with arrow. Curtain wall and features drawn in blue pen.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible in top-left corner. The sketch labels include 'C17 stone building' (likely 17th century). 'appartments' is the diary's spelling. Year not determinable from this page alone; context from adjacent pages would be needed."
+    },
+    {
+      "page_id": "A_0284_R",
+      "side": "R",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "After tea we drove on the Malvern & had pizza before listening to Peter play in the concerto concerto at Malvern, led by Thomas. Then we went home.\n  * After lunch we drove back to __Capel-y-ffin__, where there was supposed to be a service in a tiny church at 2.30, but the service had been cancelled. It was a pretty church. The graveyard had an inscription on the back of a headstone \"Better to smoke here than in the hereafter\". Next to it were 2 small headstones which had been carved by Eric Gill. Simon telephoned the vicar to complain about the misleading notice.\n__September 22nd.__\n  There has [strikethrough: been] been a huge gap because we hired an RV in California for a month. The apples, tomatoes & bananas that we left in the van at the beginning of July were still recognisable today.\n  Charles, Simon & Eve, + Tonic are going",
+      "dates": [
+        { "raw": "September 22nd.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["September 22nd."],
+      "underlined_places": ["Capel-y-ffin"],
+      "place_mentions": ["Malvern", "Capel-y-ffin", "California"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten page number '2' visible in top-right corner — this may be part of a larger number (e.g. 12, 22, 52 etc.) but only '2' is clearly legible at the outer corner. Year not stated on this page; the text mentions hiring an RV in California from early July through to September 22nd, which could place this in the 1990s given the volume range (1989-2003). 'concerto concerto' appears to be a repetition in the original. 'appartments' and other spellings preserved verbatim. There is a strikethrough over 'been' where it appears written twice (corrected in the same line). The name 'Tonic' appears as a superscript addition between 'Eve,' and 'are going'. Text cuts off at bottom of page."
+    }
+  ]
+}

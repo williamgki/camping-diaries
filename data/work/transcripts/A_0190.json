@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0190",
+  "volume": "A",
+  "pdf_page": 190,
+  "pages": [
+    {
+      "page_id": "A_0190_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Monday August 19__\n\n\tWe are travelling home on John's birthday. Pick up seaweed. En route we had a tour of __Knowth__ where the Solstice was celebrated before even the pyramids. V. good guide. Early carvings, patterns, on the standing stones. Burial chambers. In process of being excavated. V. fertile.\n\tIt was a race down to Dun Laoghaire. Appalling signs through Dublin. We arrived with less than 15 min to spare, but it looks like the ferry will leave 40 min late, anyway.\n\tWe drove through Anglesey\n\n[drawing of camper van on a truck/transporter]\n\n\tAs Simon was driving on the motorway near Meole Brace, south of Shrewsbury, the engine died after a strong smell of petrol. A garage man towed us to his forecourt where we slept from 2 am – 7.30. [?Tues] We got home at 11, the van on a truck & the rest of us in the cab. The float in the carburettor had broken from metal fatigue.",
+      "dates": [
+        { "raw": "Monday August 19", "iso_guess": "1991-08-19", "confidence": 0.85 }
+      ],
+      "headings": ["Monday August 19"],
+      "underlined_places": ["Knowth"],
+      "place_mentions": ["Knowth", "Dun Laoghaire", "Dublin", "Anglesey", "Meole Brace", "Shrewsbury"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page contains a child's drawing of a camper van being carried on a truck/transporter, illustrating the breakdown story. The heading 'Monday August 19' is underlined. 'Knowth' is underlined. Year inferred as 1991 because Aug 19 was a Monday and Aug 25 was a Sunday in 1991, matching the dates on the facing page; Sept 13 1991 was also a Friday, consistent with the next entry on the right page. '2 am – 7.30' followed by what appears to be 'Tues' abbreviation."
+    },
+    {
+      "page_id": "A_0190_R",
+      "side": "R",
+      "handwritten_page_no": 21,
+      "blank": false,
+      "full_text": "The door catch which holds back the sliding door has broken too. Has the bumpiness of the Irish roads caused these problems?\n\n\t__Sunday 25th August__\n\tWe left to take Peter to join the Portals at Beauchamp music camp. They are dropping off Claire to do the Grade II theory course. Peter goes with them to Wales & Somerset.\n\tWe had tea in the van. Rosie is just 3. Gorgeous. Chubby. Very keen on the washing up in the little sink.\n\t__Friday Sept 13th__\n\tWe set off at 6.15. & spent 25 minutes at WoodEnd. Margaret, Jim & Helen were about to go on holiday to Cornwall. On to __Stamford Bridge__ [?***] a campsite",
+      "dates": [
+        { "raw": "Sunday 25th August", "iso_guess": "1991-08-25", "confidence": 0.85 },
+        { "raw": "Friday Sept 13th", "iso_guess": "1991-09-13", "confidence": 0.85 }
+      ],
+      "headings": ["Sunday 25th August", "Friday Sept 13th"],
+      "underlined_places": ["Stamford Bridge"],
+      "place_mentions": ["Beauchamp", "Wales", "Somerset", "WoodEnd", "Cornwall", "Stamford Bridge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.90,
+      "notes": "Handwritten page number '21' visible in top-right corner. The top of the page continues text from the left page about the van breakdown and Irish roads. 'Sunday 25th August' and 'Friday Sept 13th' are underlined headings. After 'Stamford Bridge' there appear to be asterisks or similar marks followed by 'a campsite' — could be a symbol indicating campsite rating. 'Beauchamp' may refer to Beauchamp music camp; spelling as written. 'WoodEnd' written as one word as in the diary. Year inferred as 1991 (see left page notes)."
+    }
+  ]
+}

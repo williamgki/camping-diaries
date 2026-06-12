@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0315",
+  "volume": "B",
+  "pdf_page": 315,
+  "pages": [
+    {
+      "page_id": "B_0315_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Thursday__ Weather better than forecast. We walked to the town. The bin man was friendly but - people - when we were trying to get coffee - were not. Like France. Take it or leave it. A most interesting building - Lost Ark - being refurbished as a live arts venue by a school teaching family from Telford. An interesting clock in the middle of town. Appalling traffic - huge lorries with logs. St. Clements church 1700s. We had supper at the Eagle - good steak & kidney pudding.\n\nFriday\nA cold, chilly day, overcast. But at least it has not rained. We drove up to the 3rd lake in the Elan Valley, cycled down to the 2nd dam (which we reached 2 years ago). It was a nice ride -",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Thursday", "Friday"],
+      "underlined_places": [],
+      "place_mentions": ["the town", "Telford", "St. Clements church", "the Eagle", "Elan Valley", "Rhayader"],
+      "route_sketch": true,
+      "route_sketch_description": "Printed/glued-in map labelled 'How to Find Us' showing roads around Wales with RHAYADER marked prominently. Shows A5, A483, A470, A458, A44, A40, A477, A4112, A4067, A465, A40 and other roads; key towns labelled include Holyhead, Betws-y-coed, Porthmadog, Machynlleth, Caerws, Llanidloes, Newtown, Welshpool, Montgomery, Llandrindod Wells, Llanwrtyd Wells, Builth Wells, Hay-on-Wye, Brecon, Talgarth, Abergavenny, Dickhowell [Crickhowell?], Ystradgynlais, Swansea, Cardiff, Pembroke, Knighton, Presteigne, Liverpool, Chester, Shrewsbury.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible — top of page cropped. The map insert is a printed/glued item, not hand-drawn, though it functions as a route-finding aid; route_sketch set true. 'Lost Ark' is a building name in town (Rhayader, context from map and right page caption). Date year cannot be confirmed from this page alone; the right page shows 'Aug 26th Sunday' which suggests a late-August trip; year unknown from this spread."
+    },
+    {
+      "page_id": "B_0315_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "back to the visitors' centre & had lunch & looked at the exhibitions. Back at the campsite we relaxed.\n\n__Saturday__\nThe campsite has people our age on cycling holidays (going to the coast) young mountain bikes, older motorcyclists, young mountain motorcyclists. We set off on our bikes to the dam (about 4 miles) Twider yanked the lead out of Simon's hand & chased sheep, got caught in bracken & re-captured. Bloody dog. We picked blackberries. In the van on the way to the farm now to pick up the smalls & keep them at 86 until Tuesday.\n\nAug 26th __Saturday~~ Sunday\nSimon & Eve at farm for hop-picking. Parked in courtyard. Came home. Set let [?]",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Aug 26th Sunday", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["visitors' centre", "Rhyader", "the dam", "the farm", "86"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Rhyader"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Photo shows Rhayader town centre with clock tower; caption reads 'Rhyader' (diarist's spelling). 'Aug 26th' entry has 'Saturday' struck through and 'Sunday' written next to it — diarist corrected the day. 'Simon' and 'Eve' are family members. '86' likely refers to a house number. Bottom of page is partially cut off. Year not determinable from this spread alone."
+    }
+  ]
+}

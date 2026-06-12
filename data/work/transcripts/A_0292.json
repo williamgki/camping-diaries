@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0292",
+  "volume": "A",
+  "pdf_page": 292,
+  "pages": [
+    {
+      "page_id": "A_0292_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "trencher supper at Sally Lunn on a Sally Lunn bun. The basement shows floor levels from Roman times. We had left Tonic in the van too, so we hurried back to let him out. Simon",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Sally Lunn"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["trencher supper at Sally Lunn on a Sally Lunn bun. The basement shows floor levels from Roman times. We had left Tonic in the van too, so we hurried back to let him out. Simon"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page dominated by a glued-in Sally Lunn's promotional card/menu (printed, not handwritten). The card reads: 'SALLY LUNN'S 1680 / The Oldest House in Bath / Home of the original Sally Lunn Bun'. Handwritten caption text appears below the card. The text at the right edge of the scan belongs to the right page. 'Tonic' appears to be a pet (dog). Entry is a continuation from a previous page — begins mid-sentence with 'trencher supper'. Year cannot be confirmed from this page alone; context from volume position (1989–2003) and the May dates on the right page suggest late 1990s or early 2000s."
+    },
+    {
+      "page_id": "A_0292_R",
+      "side": "R",
+      "handwritten_page_no": 3,
+      "blank": false,
+      "full_text": "& Charles mended the bike. We have been cold all day.\n__Monday May 7th.__\n    Better weather today, still a cool breeze, but warm sunshine.\n    We cycled into Bath along the north bank of the river. We left the tow path opposite Herschel's house. Eve put Tonic in the front basket. We cycled though Bath along first roads. In the centre of town we rejoined the river & went west along the south bank, starting at Poulteney Bridge. When we reached passed the railway station, we crossed to the north bank again & back to the van. After elevenses we left for home.\n    __Friday May 25th__    Peter is 18 today! Phew!\n    Simon, Eve & Charles [?Tonic] set off for [?Malvern] at 4.45. We dropped off Nathan Archer on the way. Blue Coat had broken up on Thursday, the day before, & Charles & Nathan had been ice-skating & putting Nemoskey on the allotment.\n    John & Peter sang & played in the summer concert. Charles met Jamie Russell who is to be his housemaster. We camped",
+      "dates": [
+        { "raw": "Monday May 7th.", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Friday May 25th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Monday May 7th.", "Friday May 25th"],
+      "underlined_places": [],
+      "place_mentions": ["Bath", "Herschel's house", "Poulteney Bridge", "Malvern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number '3' visible at top-right corner — this likely refers to a page within a particular trip section, not a global diary page number. 'Tonic' is a pet name (dog). 'Nemoskey' is an uncertain reading — could be a pet name or plant variety. '[?Malvern]' — the destination after '4.45' is partially cut off at the right margin of the left image; 'Malvern' is the most plausible reading given the visible letters 'Malv-'. 'Blue Coat' appears to be a school (Blue Coat School). 'Poulteney Bridge' — diary spelling preserved; standard spelling is 'Pulteney Bridge' in Bath. Year cannot be confirmed from the page; May 7th falling on a Monday and May 25th on a Friday narrows year candidates, but no year is stated. Entry ends mid-sentence ('We camped') — continues on next page."
+    }
+  ]
+}

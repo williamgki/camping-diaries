@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0325",
+  "volume": "B",
+  "pdf_page": 325,
+  "pages": [
+    {
+      "page_id": "B_0325_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Saturday__\n\n[photo: lavender fields with abbey building in background]\n\n__L'abbaye de Sénanque__\n\nSimon managed to mend the hole in my sandal + we were set to walk to The Abbey of Sénanque but I woke up with a terrific migraine. It was probably the cheese sauce 2 nights earlier. Thank goodness for Sumatriptan. Sadly, we had to miss the walk - 2 hours there, 2 hours back + a terrific hill - but drove to Sénanque for the 3.30. tour in French. We had an excellent guide - she spoke v. clearly. We saw the dormitory, warming room, chapter, cloisters, church - which has perilous clocks. At 6 we joined the monks for Vespers. They sang beautifully. Then there was a long, peaceful silence + we walked out at 7.\n\n[illegible] [?Thousoms] [?but 1996]",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["Sénanque"],
+      "place_mentions": ["Sénanque", "Abbey of Sénanque", "L'abbaye de Sénanque"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["L'abbaye de Sénanque"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Photo caption 'L'abbaye de Sénanque' appears to be written in a different ink (pink/purple cursive). Bottom of page is partially cut off with an illegible partial line. No handwritten page number visible in top-left corner. Year not determinable from this page alone; volume covers 2003-2019 but lavender season and Provence setting suggest summer."
+    },
+    {
+      "page_id": "B_0325_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Sunday__\n\nWe cross a plain, mountains, a plain. Very fruitful Lavender, vines, olives. The French even have a St. Trousers. St Pantaleon. We stopped briefly. We arrived at la Verdière****. I did some washes. The campsite served coq au vin, [?Terling] with salad. A big party came in + sat at a long table. A flock of sheep went past. Friendly people. For the second time people chatted loudly on their mobs. The man opposite kept staring. The pool wasn't open until July.\n\n__Monday__\n\nI washed the bedding + we left. We visited __Barjols__. It's very attractive + has at least 30 drinking fountains. Until quite recently it produced leather, + is only just catching up with tourism. A lovely church with imaginative statues. Behind the old font is a Tympanum on the walls from about 1200. V. impressive.\n   On to __Cotignac__. We parked at the campsite, high up in woods - prettier than the last campsite. The shower is also warmer. Blisteringly hot. Washing dried fast. We walked over the hill + down down the [?cliffs] on an",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "until July", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Sunday", "Monday"],
+      "underlined_places": ["Barjols", "Cotignac"],
+      "place_mentions": ["St Pantaleon", "la Verdière", "Barjols", "Cotignac"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Top-right corner appears to show a '2' but it may be cut off from main page number. The word after 'coq au vin,' is unclear — could read 'Terling' or similar (possibly a starter/salad description). 'la Verdière' followed by '****' likely indicates campsite star rating. Text is cut off at the bottom of the page mid-sentence. 'St. Trousers' is the diarist's humorous gloss on 'St Pantaleon' (pantalon = trousers). 'mobs' = mobile phones."
+    }
+  ]
+}

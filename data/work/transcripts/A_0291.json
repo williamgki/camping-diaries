@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0291",
+  "volume": "A",
+  "pdf_page": 291,
+  "pages": [
+    {
+      "page_id": "A_0291_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Eve bought a disposable bbque & Charles cooked bacon.\n   __May 6th__\n   Cold. Cold. Simon & Eve about to cycle off to church, but S. stayed behind with Charles because he had a puncture. Emmanuel church just along the road, very low, very freindly. The church warden, Mrs. Hune, in the M.V. Simon biked a bit with Tonic.\n   Charles is biking & playing hide-&-seek with other boys on the campsite. He finally did so many skids that he caused an enormous bald patch hole in his tyre, so we can't ride bikes anymore.\n   We caught a bus into Bath. We were incredibly lucky with bus times going & coming.\n   We saw the William Herschel Museum in a small Georgian town house. He lived with his sister, Caroline, who was also an astronomer. From his garden, with a home-made telescope, he discovered Uranus.",
+      "dates": [
+        { "raw": "May 6th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["May 6th"],
+      "underlined_places": [],
+      "place_mentions": ["Bath", "William Herschel Museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible in top-left corner. 'freindly' is the diary's spelling. 'Hune' could be 'Hume' — hard to be certain. 'M.V.' likely stands for motor van/camper van. The underline appears on 'May 6th' as a heading. 'Emmanuel church just along the road' — Emmanuel could be the campsite-vicinity church name. Year cannot be determined from this page alone; volume covers 1989–2003. The nearby spread A_0286 has a date of Sun Oct 21st 2001, and A_0288 references the Tate Modern (opened 2000), so this Bath entry is likely from 2001 or thereabouts, but the May 6th date rules out the October London visit being the same trip. Could be a separate trip in a different year."
+    },
+    {
+      "page_id": "A_0291_R",
+      "side": "R",
+      "handwritten_page_no": 3,
+      "blank": false,
+      "full_text": "He had originally come to England from Germany to play the organ in Bath.\n   Then we ~~hada cop~~ saw the Micromuseum where there are tiny sculptures by Willard [illegible] Adams & Eve carved into a pencil point & the statue of Liberty in the eye of a needle, viewed through magnifying glasses.\n   We had a cup of tea & looked at Bath Abbey. Nice embroidered Plaques show links to West Indies. Pale stone.\n   We had a",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Bath", "Bath Abbey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number '3' visible at the very top-right corner. A large colour photograph of the interior of Bath Abbey (fan-vaulted ceiling, nave looking east toward the stained glass window above the altar) is glued into the right half of the page, taking up approximately half the page. Text continues around the left side of the photograph. The strikethrough reads 'hada cop' — the writer crossed this out and replaced with 'saw'. The name before 'Adams & Eve' is partially obscured/illegible — reads something like 'Willard [?]'. 'Adams & Eve' could be a product name or artist name for micro-sculptures. Text cuts off at the bottom of the page mid-sentence ('We had a'), continuing on the next spread. The Micromuseum is a Bath tourist attraction featuring microscopic art."
+    }
+  ]
+}

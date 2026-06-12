@@ -1,0 +1,43 @@
+{
+  "spread_id": "A_0145",
+  "volume": "A",
+  "pdf_page": 145,
+  "pages": [
+    {
+      "page_id": "A_0145_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "View from our campsite at Coniston.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Coniston"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["\"Gondola\" on Coniston Water, The Lake District.", "View from our campsite at Coniston."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a glued-in postcard/photo. The postcard caption reads '\"Gondola\" on Coniston Water, The Lake District.' and includes a photo credit 'Photo: E. A. Bowness'. Below the photo a handwritten caption reads 'View from our campsite at Coniston.' No handwritten page number visible in top-left corner. The right gutter of this page shows partial text that is the continuation from the right page — not transcribed here to avoid duplication."
+    },
+    {
+      "page_id": "A_0145_R",
+      "side": "R",
+      "handwritten_page_no": 59,
+      "blank": false,
+      "full_text": "Ruskin wrote \"There is no wealth but life.\"\n\tHe also said \"... happiness is increased not by the enlargement of the possessions, but of the heart; and days lengthened, not by the crowding of emotions, but the economy of them... if thus we taught, we had the ordering of our house and estate in our own hands, I believe no manner of temperance in pleasure would be better rewarded than that of making our gardens gay only with common flowers.\"\n\tHe paid workmen to hew a nice house out of the solid rock hillside in his garden in order to give cold comforts to people who were ill in the local area.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Page contains quoted passages attributed to Ruskin (John Ruskin), followed by a short prose note about Ruskin paying workmen to hew a house from rock. No place names appear on this page; the context (preceding left page) is Coniston / Lake District, which is associated with Ruskin's home Brantwood. The top of the page appears to continue from a previous page — the first line begins mid-thought with 'Ruskin wrote', suggesting text started on an earlier page."
+    }
+  ]
+}

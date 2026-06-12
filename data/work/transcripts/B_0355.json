@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0355",
+  "volume": "B",
+  "pdf_page": 355,
+  "pages": [
+    {
+      "page_id": "B_0355_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The Shrine\nSt. Melangell's\nChurch\nNorth Powys\n\nDavid Bilbey\n\nAfter lunch we went on a walk 2½m to St. Melangell's church, an old pilgrimage site. Her shrine was dismantled in the Reformation.\nParts of it were hidden in the lychgate & other buildings. Now her shrine has been rebuilt.\nSt. Melangell protected a hare from a huntsman in the [?C].\nLots of quail. Smelly. A quail farm?\nWe camped at Llan fechain, quite near Welshpool",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Melangell's Church", "North Powys", "Llan fechain", "Welshpool"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Shrine, St. Melangell's Church, North Powys, David Bilbey"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page contains a glued-in postcard/print of a watercolour by David Bilbey showing the shrine interior of St. Melangell's Church, North Powys. The text 'in the [?C].' likely refers to 'in the [?C7th]' or similar century abbreviation — partially legible. 'Llan fechain' is the diary's spelling of Llanfechain."
+    },
+    {
+      "page_id": "B_0355_R",
+      "side": "R",
+      "handwritten_page_no": 56,
+      "blank": false,
+      "full_text": "__Sunday__\nWe walked in a peaceful valley & set off at 10.15. for home.\n__Friday August 20th__\nWe set off at 7.35. for a hop business meeting with William, Ed [?Davis/Jones] & others at Newnham. Simon had a good meeting. I walked Tinder & wrote letters. We drove on to Pangbourne. Meadow Farm, Pangbourne, campsite. It is a beautiful, big, flat [?site] near the river. It floods in winter. It might be a good site to meet up with Pete. We arrived at 3.40. Charles came from Reading an hour later. We spent the evening chatting.\n__Saturday__\nWe got up & Charles got up a bit later. At 11.45. we walked along the meadows into Pangbourne. Then we came back to the van, had lunch & left. It was lucky the rain held off. We left across the toll Bridge 60p. The day before we had crossed it twice, overshooting the campsite entrance. M40.\nThen home.",
+      "dates": [
+        { "raw": "Friday August 20th", "iso_guess": "2010-08-20", "confidence": 0.6 },
+        { "raw": "Sunday", "iso_guess": "2010-08", "confidence": 0.4 },
+        { "raw": "Saturday", "iso_guess": "2010-08-21", "confidence": 0.55 }
+      ],
+      "headings": ["Sunday", "Friday August 20th", "Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Newnham", "Pangbourne", "Meadow Farm", "Reading", "M40"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page number 56 in top-right corner. 'Friday August 20th' — in the volume range 2003–2019, this date falls on a Friday in 2004 and 2010; 2010 is the tentative best guess given volume position. The word between 'Ed' and '& others' looks like 'Davis' or 'Jones' — partially legible, crossed-out letters visible. 'flat [?site] near the river' — one word partially obscured; 'site' or possibly 'flat' with a second adjective. The toll bridge at Pangbourne is the Whitchurch Bridge (60p toll noted). 'Tinder' appears to be a dog's name."
+    }
+  ]
+}

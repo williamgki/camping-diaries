@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0001",
+  "volume": "B",
+  "pdf_page": 1,
+  "pages": [
+    {
+      "page_id": "B_0001_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Kirby\nB15 3JG\n86 Westfield Rd, Edgbaston, Birmingham\nAugust 8th 2003 - June 2005",
+      "dates": [
+        { "raw": "August 8th 2003 - June 2005", "iso_guess": "2003-08-08", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Edgbaston", "Birmingham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "This is the volume cover/front matter page. Contains owner name 'Kirby', postcode 'B15 3JG', address '86 Westfield Rd, Edgbaston, Birmingham', and date range 'August 8th 2003 - June 2005'. Two photos of the Bayeux Tapestry are glued in (sections showing soldiers with cart and weapons, and ships at sea). The date range gives volume B coverage from August 2003 to June 2005."
+    },
+    {
+      "page_id": "B_0001_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Right page contains two photos only — sections of the Bayeux Tapestry showing ships arriving (text visible in tapestry: 'AD PEVENE SAE' i.e. arriving at Pevensey) and a feast scene ('FECERVNT PRANDIVM ET HIC EPISCOPVS CIBV ET POTV BENEDICTI'). No handwritten diary text on this page."
+    }
+  ]
+}

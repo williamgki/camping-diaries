@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0250",
+  "volume": "A",
+  "pdf_page": 250,
+  "pages": [
+    {
+      "page_id": "A_0250_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "road + we are having to thread our way between them. Yesterday's road, from over [?Orduasshei], is brand new, also the main road from Oslo → Stavanger, single track with passing places. It cut 100 km off the old journey.\n      Lovely smooth rocks + cliffs + erratic boulders.\nGreen wires on Telegraph poles\n\n[photo caption:] [?Stokdonmuset]. 1590's Farm Buildings.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Orduasshei", "Oslo", "Stavanger"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["[?Stokdonmuset]. 1590's Farm Buildings."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page is a continuation — no handwritten page number visible. The photo caption word before '1590's Farm Buildings' is unclear; best reading is '[?Stokdonmuset]' (possibly 'Stokdonsmuseet' or similar Norwegian open-air museum name). The place name over which the road passes is difficult to read: could be 'Orduasshei' or 'Orduasskei' or similar Norwegian toponym."
+    },
+    {
+      "page_id": "A_0250_R",
+      "side": "R",
+      "handwritten_page_no": 78,
+      "blank": false,
+      "full_text": "We drove into Stavanger + saw the cathedral. Lovely C12. Heavy. some plain arches, some with dogtooth. Musicians rehearsing, wind sextet, so we could not see the cathedral fully. Marvellous 1660 paintings of families on wood panels.  ○\n      A long wait on the harbour side for the ferry.\nSat 16th August\n      As we left the harbour at North Shields we saw the tubes around a building of swimming slides. So we went for a super swim with lots of slides – 5 or 6 of them.\n      Then we had lunch in a beautiful field where they'd harvested. Green + gold landscape. Blue sky. Not a mountain in sight. We are going south to Lincolnshire to James Smith's house to pick up Thomas who has come back in the train from visiting the Wegners.\n      Thomas + Ernest Smith met us at the cross roads – in a gorgeous red Morgan. Eve got in for the 2 mile",
+      "dates": [
+        { "raw": "Sat 16th August", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sat 16th August"],
+      "underlined_places": ["Sat 16th August"],
+      "place_mentions": ["Stavanger", "North Shields", "Lincolnshire"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The date 'Sat 16th August' is underlined. No year is explicitly stated on this page; the volume covers 1989–2003 and page 78 is fairly early, but without a year anchor from the page itself the iso_guess year is left null. The entry describes a ferry from Norway (Stavanger) to North Shields, then travelling to Lincolnshire to James Smith's house. 'Wegners' likely refers to a family surname. 'Ernest Smith' and 'Thomas' are family/friends. 'Morgan' is a Morgan sports car. The small circle '○' after 'wood panels' may be a doodle or photo-placement marker."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0294",
+  "volume": "A",
+  "pdf_page": 294,
+  "pages": [
+    {
+      "page_id": "A_0294_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "sent John & Charles to the playground to test the conservation of angular momentum on the roundabout. Then he went to demonstrate himself & came back feeling very sick.\n\t Monday 28th May\n\t Breezy Breakfast. Warm smell of honey. Trying to decide what to do. lots of places closed on a Monday.\n\t He went to Wicken Fen & walked around it. Saw hides, dragonflies, lovely yellow flowers. Black polythene to keep water in. [?Filtering] from fields comes in where pumped up. John bought my birthday present. Simon lost a lens\n\t Burwell Church is magnificent, like [?for] Kings College Chapel, beautiful architecture, thin pillars; old wooden carvings of elephants with castles. After looking at the church we stopped the van by the river near the campsite & blew up the boat. John & Charles rowed off down the river in their swim-suits... & came back fighting.\n\t We had a barbeque & marshmallows. It's sunny & windy.",
+      "dates": [
+        { "raw": "Monday 28th May", "iso_guess": "1990-05-28", "confidence": 0.4 }
+      ],
+      "headings": ["Monday 28th May"],
+      "underlined_places": [],
+      "place_mentions": ["Wicken Fen", "Burwell Church", "Kings College Chapel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page begins mid-entry, continuing from previous spread. '[?Filtering]' — word partially legible, could be 'Filtering' or 'Silting' or similar. 'For Kings College Chapel' — first word at line-start may be 'for' or 'far'. No handwritten page number visible on this side. Year cannot be confirmed from this page alone; 'Monday 28th May' fits 1990 and 2001 within the 1989–2003 range; position near end of volume (pdf_page 294 of 350) loosely suggests later era but year left at low confidence."
+    },
+    {
+      "page_id": "A_0294_R",
+      "side": "R",
+      "handwritten_page_no": 38,
+      "blank": false,
+      "full_text": "Widen Fen.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Wicken Fen"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Widen Fen."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page is dominated by a glued-in colour photograph of a wetland/fen scene with yellow iris flowers and reed beds. The handwritten caption below reads 'Widen Fen.' — almost certainly intended as 'Wicken Fen' (the place visited on this day), with the 'ck' difficult to read or casually abbreviated. Handwritten page number '38' visible top-right corner."
+    }
+  ]
+}

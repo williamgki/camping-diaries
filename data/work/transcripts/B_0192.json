@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0192",
+  "volume": "B",
+  "pdf_page": 192,
+  "pages": [
+    {
+      "page_id": "B_0192_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": ["ULM an der Donau"],
+      "underlined_places": [],
+      "place_mentions": ["Ulm", "Donau"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Münster zu Ulm S[?]. Höchste Kirche der Welt [?] Meter hoch.", "ULM an der Donau"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.7,
+      "notes": "Left page is a glued-in decorative printed postcard/lithograph of Ulm showing the Minster (Münster zu Ulm), labelled 'ULM an der Donau'. The postcard contains printed German text listing sights (Rathaus, Fischbrunnen, etc.) but is a printed item, not handwritten. No handwritten page number visible. The caption beneath the minster reads 'Münster zu Ulm S[?]. Höchste Kirche der Welt [?] Meter hoch.' — text is small and partially legible. A wheat/grain decorative motif appears at the bottom of the page."
+    },
+    {
+      "page_id": "B_0192_R",
+      "side": "R",
+      "handwritten_page_no": 12,
+      "blank": false,
+      "full_text": "it, but the children really enjoy it.\nIt's run by nice older women & the\nchildren meet up with friends.\nSchool is 8-12. They can stay at\nthe club 12-2 or 12-5.\nAfter lunch we rested (v. hot) & then\nwent on a bike ride. Ferry - taking\nbikes + 5 cars. Park. The children\nplayed clock golf. Hot sun. R. [?Weckar]\nPicnic. Chat - lovely. We saw village\nEric cycled home [?alone] [?hands]\nthe rest of us missed the ferry &\ncycled over the bridge.\nWed [Thursday]. July 25th. The chil's school is over but\nthey have to go to church today,\nwhich they don't want. Then holidays\nuntil Sept 7th.\nWe left at 8.20. down motorway.\nTraffic getting out of Ulm was awful\nV. bad road signs. We enjoyed looking",
+      "dates": [
+        { "raw": "July 25th", "iso_guess": "YYYY-07-25", "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ulm"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "Handwritten page number '12' visible at top right corner. Text begins mid-sentence, continuing from previous page. 'Wed' is written then crossed out/corrected to 'Thursday' (the word Thursday appears underlined or struck through). The river name reads '[?Weckar]' — likely 'Neckar' (R. Neckar) given the geographic context near Ulm; the initial letter is ambiguous in cursive. The word after 'alone' above 'hands' is difficult to read — may be a marginal annotation 'hands' added above the line. 'chil's' is an abbreviation for 'children's'. Year cannot be confirmed from page content alone; volume B covers 2003–2019 and page 12 suggests an early entry in the volume. The text cuts off at the bottom with 'We enjoyed looking', continuing on the next page. A decorative wheat/grain motif appears at the bottom centre of the page (same as left page, suggesting a consistent page border design)."
+    }
+  ]
+}

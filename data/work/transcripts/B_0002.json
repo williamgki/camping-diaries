@@ -1,0 +1,61 @@
+{
+  "spread_id": "B_0002",
+  "volume": "B",
+  "pdf_page": 2,
+  "pages": [
+    {
+      "page_id": "B_0002_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__2003__\n1. Weimar, Buchenwald\n   Ludwigstadt, Bamburg\n3 Rothenb[u]rg\n4 Rot-am-See, Heidelberg\n6 Hermeskeil [illegible] Ypres\n7 London, Burrough, Nether Wotote\n8 Malvern, Barnett Castle, High Force\n9 Halt Whistle, Vindolanda,\n10 Houseteads, Chestars\n11 Heatton, Newcastle\n12 Rye Court, Colton Valley. __2004__\n13 Upton, Malvern\n14 Woodrow, Bromyard, W Malvern\n15 Beborough, London, Southwark\n   Chipping Campden, Malvern\n16 Dinas, Harlech\n17 Machynlleth\n18 Little Crossingham\n   Sutton Coldfield\n   Southampton\n19 Bilbao\n20 Guernica, [?Markina]\n   Mutreku\n21 Puente de la Reina\n   Santa Maria Eunate\n   Hoz de Lumbier\n22 Logrono, Sanguesa\n   Ruesta, Lake [?Yesa]\n23 Jaca\n24 Aragon, Ainsa\n27 Plan\n28 Bielsa Tunnel\n29 Massat, Bedeilhac\n30 [?Mas] Melageon, Arc-les-Thermes\n31 Montaillou\n32 Vernet, Les Sauterelles\n33 St. Martin's Abbey\n   Canigou\n35 Cuca Abbey, [?Elne]\n36 Treve, Carcasson\n37 Realment\n38 Albi\n40 Eymentiers, Futuroscope\n41 Le Suisse Normand\n42 Normandy Beaches\n   Bayeux\n43 Lodques, Point du Hoc\n   Barfleur\n45 Bath\n46 Trumpley, Bromyard\n   Malvern Court\n48 Harbury Hell\n__2005__\n50 Aston Cantlow\n51 Kinwarton\n52 Malvern [?Bromyard]\n   PTO\n\nGuggenheim Museum\nBilbao\n1997 by Frank O'Gehry",
+      "dates": [
+        { "raw": "2003", "iso_guess": "2003", "confidence": 0.99 },
+        { "raw": "2004", "iso_guess": "2004", "confidence": 0.99 },
+        { "raw": "2005", "iso_guess": "2005", "confidence": 0.99 }
+      ],
+      "headings": ["2003", "2004", "2005"],
+      "underlined_places": [],
+      "place_mentions": [
+        "Weimar", "Buchenwald", "Ludwigstadt", "Bamburg", "Rothenb[u]rg", "Rot-am-See", "Heidelberg",
+        "Hermeskeil", "Ypres", "London", "Burrough", "Nether Wotote", "Malvern", "Barnett Castle",
+        "High Force", "Halt Whistle", "Vindolanda", "Houseteads", "Chestars", "Heatton", "Newcastle",
+        "Rye Court", "Colton Valley", "Upton", "Malvern", "Woodrow", "Bromyard", "W Malvern",
+        "Beborough", "London", "Southwark", "Chipping Campden", "Malvern", "Dinas", "Harlech",
+        "Machynlleth", "Little Crossingham", "Sutton Coldfield", "Southampton", "Bilbao", "Guernica",
+        "Mutreku", "Puente de la Reina", "Santa Maria Eunate", "Hoz de Lumbier", "Logrono", "Sanguesa",
+        "Ruesta", "Jaca", "Aragon", "Ainsa", "Plan", "Bielsa Tunnel", "Massat", "Bedeilhac",
+        "Melageon", "Arc-les-Thermes", "Montaillou", "Vernet", "Les Sauterelles",
+        "St. Martin's Abbey", "Canigou", "Cuca Abbey", "Treve", "Carcasson", "Realment", "Albi",
+        "Eymentiers", "Futuroscope", "Le Suisse Normand", "Normandy Beaches", "Bayeux", "Lodques",
+        "Point du Hoc", "Barfleur", "Bath", "Trumpley", "Bromyard", "Malvern Court", "Harbury Hell",
+        "Aston Cantlow", "Kinwarton", "Malvern", "Bilbao"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Index page mapping diary page numbers to places visited, covering trips from 2003 to 2005 (with PTO suggesting continuation). Year headings '2003', '2004', '2005' are underlined. Entry 6: second place after Hermeskeil is partly illegible — could be 'Leo Sensor' or similar, followed by Ypres. Entry 7: 'Nether Wotote' could read 'Nether Wootton' or 'Nether Wotton'. Entry 10: 'Chestars' likely 'Chesters' (Roman fort). Entry 11: 'Heatton' likely 'Heaton'. Entry 15: 'Beborough' uncertain — could be 'Bewdborough' or 'Beborough'. Entry 20: second place after Guernica is crossed out/overwritten, could be 'Markina'. Entry 30: first word crossed out, replaced with 'Melageon'; 'Arc-les-Thermes' could be 'Ax-les-Thermes'. Entry 32: 'Les Sauterelles' uncertain, could be 'Cauterets' or a campsite name. Entry 35: place after 'Cuca Abbey' unclear, could be 'Elne' or 'Elu'. Entry 36: 'Treve' and 'Carcasson' likely Trèves and Carcassonne. Entry 37: 'Realment' likely Réalmont. Entry 40: 'Eymentiers' likely Eymoutiers. Entry 43: 'Lodques' uncertain — possibly Loctques or a campsite; 'Point du Hoc' likely Pointe du Hoc. Entry 46: 'Trumpley' likely Trimpley. Entry 52: second word after Malvern could be 'Bromyard' (faint). Annotation at bottom 'Guggenheim Museum Bilbao 1997 by Frank O'Gehry' is a note about the photo on the facing page."
+    },
+    {
+      "page_id": "B_0002_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Full-page photograph (postcard or printed photo) of an aerial/overhead view of a building — consistent with the Guggenheim Museum Bilbao as noted on the facing left page. No handwritten text on this page."
+    }
+  ]
+}

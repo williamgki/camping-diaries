@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0235",
+  "volume": "B",
+  "pdf_page": 235,
+  "pages": [
+    {
+      "page_id": "B_0235_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Thursday__\n    We went west, though Picardy into Normany, stopping at a roadside restaurant a few miles east of Caen. Tomorrow we will reach Britanny. xx[?x+x]\n    Tonight we have stopped at __Camping l'Aurore__ Cherrueix. The shower works by just pulling on a chain. We are 10 k west of Mont St. Michel. I could not get the camp password to work on my iphone for wi-fi. So I have paid £1-99 for a day of data-roaming... I think.\n    __Friday__\n    Cyclists camp here with tents, [?Dutch] who have cycled 300 miles on Voies Vertes + Brits who got off the boat at St. Malo. We leave + go past 4 or 5 windmills, almost polder country, + thatched houses.\n    Sign posts are in 2 languages. We follow a sign to a chapel, St. [illegible] + had lunch, Lisorno",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Thursday", "Friday"],
+      "underlined_places": ["Camping l'Aurore"],
+      "place_mentions": ["Picardy", "Normany", "Caen", "Britanny", "Cherrueix", "Mont St. Michel", "Voies Vertes", "St. Malo", "Lisorno"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "'Normany' is the diary's spelling for Normandy. 'Britanny' is the diary's spelling for Brittany. The campsite name could read 'Camping l'Aurore' or possibly 'Camping l'Aumone' — 'Aurore' seems most likely. The xx notation after 'Britanny' appears to be kisses/symbols, not text. 'Lisorno' at the bottom may be a partial/cut-off place name — could be part of a longer name; the text continues to the right page. The word before the cyclists' nationality could read 'Dutch' or 'Dutch'. 'Lisorno' could also relate to a chapel name cut off by the page edge. Year cannot be determined from this page alone; no year marker visible."
+    },
+    {
+      "page_id": "B_0235_R",
+      "side": "R",
+      "handwritten_page_no": 55,
+      "blank": false,
+      "full_text": "[photo/postcard glued in: statue of three figures with caption \"Avec l'assurance de nos priéres près de Saint-Yves\"]\n\nTréguier, Brittany. St. Yves, patron saint of lawyers, became unpopular when he judged in favour of a poor man.\n\nVan walked, then had trouble finding the main [?D]. Stopped at Super-U. [?I've moved] the van to try to get out of the rain.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Tréguier", "Brittany", "Saint-Yves", "Super-U"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Avec l'assurance de nos priéres près de Saint-Yves"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.75,
+      "notes": "The right page contains a glued-in postcard/photo showing a statue of Saint-Yves (patron saint of lawyers) in Tréguier, Brittany. The caption on the postcard is in French. The text below gives context about St. Yves. Last line partially cut off or unclear — 'Van walked' may mean 'Van Walker' (a person's name) or the van was walked/moved. 'main [?D]' — the letter after 'main' is unclear, could be 'D' for road. The final line about 'moved the van to try to get out of the rain' is partially obscured by a yellow sticker. Year not determinable from page content alone."
+    }
+  ]
+}

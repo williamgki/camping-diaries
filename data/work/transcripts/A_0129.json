@@ -1,0 +1,50 @@
+{
+  "spread_id": "A_0129",
+  "volume": "A",
+  "pdf_page": 129,
+  "pages": [
+    {
+      "page_id": "A_0129_L",
+      "side": "L",
+      "handwritten_page_no": 42,
+      "blank": false,
+      "full_text": "Pen-y-Fan  Brecon Beacons, from near our campsite, May '94.\ncricket, Eve wandered off to sketch.\n\npart of a window of __Tretower Manor__.\n(William has just told me that he can get a far better quality picture in colour in one 2/1000 second.)\n\nTuesday\n  We set off to see __Cwm Llwch__. lovely place to camp at car park. The house was locked.\n  Drove on through __Brecon__ to __Bwlch__. We took Joan Clarke out to lunch. Good company: she was much amused by the boys, especially John + mermaid / Birth of Venus.\n  We left her to go down into the valley to see __Tretower__ castle & fortified manor house. We had 45 min head sets. Lots of garderobes. lovely cosy rooms.",
+      "dates": [
+        { "raw": "May '94", "iso_guess": "1994-05", "confidence": 0.95 },
+        { "raw": "Tuesday", "iso_guess": "1994-05", "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": ["Tretower Manor", "Cwm Llwch", "Brecon", "Bwlch", "Tretower"],
+      "place_mentions": ["Pen-y-Fan", "Brecon Beacons", "Tretower Manor", "Cwm Llwch", "Brecon", "Bwlch", "Tretower"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn sketch of Pen-y-Fan mountain silhouette at top of page. A second hand-drawn sketch shows a window arch, captioned as 'part of a window of Tretower Manor.'",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page number in top-left corner is partially visible; given right page is numbered 43 this is most likely 42. The fraction '2/1000' is written as a typeset-style fraction. Underlined place names: Tretower Manor (heading under sketch), Cwm Llwch, Brecon, Bwlch, and Tretower are all underlined in the diary. Tuesday entry is undated except by context of May 1994 Brecon trip."
+    },
+    {
+      "page_id": "A_0129_R",
+      "side": "R",
+      "handwritten_page_no": 43,
+      "blank": false,
+      "full_text": "June 25th  Sat\n  3.0.  We left Birmingham to come to the Wolverhampton camping shop where Simon decided not to buy the folding chair he had seen in a catalogue.  We had tea + drove onto a lovely open park land 6 miles from Stourbridge.  The children are playing foot ball.  Charles is crying alot.\n\nJuly 1st  Friday\n  Simon, Eve, William, Peter, John & Charles set off to Malvern for the weekend.  William is to have lunch with Murtagh.  Simon has brought along the Black & white T.V. for Eve to watch Wimbledon.\n  We camped at Shuttlefast Farm after a detour via Redditch because of game on the motorway.  It is very close + rain threatens.\n\nSat.  The farmer's wife is friendly.  We set off back to Malvern + invited [?Reg Jarres] to have lunch with us the next day.  Simon + William has had lunch with Murtagh.  Eve has a drink + went out to the van to give Peter + John + Charles lunch.  Simon toured around to watch cricket with the boys while Eve watched Martina beat Navratilova.  Thomas arrives at 6. + we returned to the campsite.  (We had looked at [?Blackinn] earlier in the day - may camp there next time.)  More cricket at the campsite + there are 3 horses.",
+      "dates": [
+        { "raw": "June 25th Sat", "iso_guess": "1994-06-25", "confidence": 0.95 },
+        { "raw": "July 1st Friday", "iso_guess": "1994-07-01", "confidence": 0.95 },
+        { "raw": "Sat.", "iso_guess": "1994-07-02", "confidence": 0.85 }
+      ],
+      "headings": [],
+      "underlined_places": ["Shuttlefast Farm"],
+      "place_mentions": ["Birmingham", "Wolverhampton", "Stourbridge", "Malvern", "Shuttlefast Farm", "Redditch", "Blackinn"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Year confirmed as 1994: June 25 fell on a Saturday in 1994 and July 1 fell on a Friday in 1994. Campsite name reads like 'Shuttlefast Farm' but could be 'Shuttlefarm' or similar. '[?Blackinn]' may be Blackminster (near Evesham, Worcestershire) or another local place name - hard to read clearly. '[?Reg Jarres]' is a person name, uncertain reading. '3.0.' at start of June 25 entry may be a time or mileage note. 'alot' is the diary's spelling."
+    }
+  ]
+}

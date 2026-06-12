@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0079",
+  "volume": "B",
+  "pdf_page": 79,
+  "pages": [
+    {
+      "page_id": "B_0079_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "This is a very pretty campsite outside __St. Agnan__ Village, v. small, no [?accueil]. Someone will come & collect money. 5 horses are looking at us over the fence. The mountains around feel very protective.\n\nOn the way to the campsite we stopped at the village church to find out what time church is tomorrow, but lots of villages were listed & I got confused. One of the saddest announcements was that there would be a memorial service tomorrow for the 5 children of a particularly family killed by a hand grenade on August 4th 1944.\n\nWe started supper outside & a woman came & collected money. For pudding we moved into the van because it was cold. John [?bret] Eve at [?Scrabble] again.\n\nSunday\n__Drove into La Chapelle__ to buy & eat breakfast. A lovely saxophone solo at the start of the service. Photos of the 5 children were on the altar. They were killed in 1945, not 44, so were they playing with a grenade. Cub [?Sed] Scouts dropped nuts & dirt on top of the camping van. We drove off to __Luire Cave__. It",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "August 4th 1944", "iso_guess": "1944-08-04", "confidence": 0.95 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["St. Agnan", "La Chapelle", "Luire Cave"],
+      "place_mentions": ["St. Agnan", "La Chapelle", "Luire Cave"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Top of page continues from previous spread. 'St. Agnan' is underlined; could be 'St. Agnan' in the Vercors region. 'no [?accueil]' — word partially legible, likely French word 'accueil' (reception). '[?bret]' — one word unclear after 'John'; could be a name abbreviation. '[?Scrabble]' — looks like 'Scrabble' the game. 'Cub [?Sed] Scouts' — one word between Cub and Scouts is unclear, possibly crossed out. The year of the diary entry cannot be determined from this page alone; the 1944 date refers to a historical WWII event."
+    },
+    {
+      "page_id": "B_0079_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "was considered one of the deepest in the world – very cold, always 7°. We borrowed very smelly Blankets. Pot holers are still exploring the cave – 25 miles of passages found so far.\n\nSimon thought not many people were there. John has only seen [French] tourists in the Vercors.\n\nIt's trying to rain today. It's been cooler today & I've worn a sweatshirt most of the day. We spent lunch & early afternoon at the camp.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Vercors", "Vassieux-en-Vercors"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Musée de la Résistance, Vassieux-en-Vercors, Drôme / Vercors"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.75,
+      "notes": "Right page contains a large glued-in printed brochure/leaflet for 'musée de la résistance départemental en Vercors, Vassieux-en-Vercors, Drôme / Vercors'. The handwritten text runs down the left strip of the page and is partly obscured by the overlap with the left image. '[French]' — the word before 'tourists' is partially legible; likely reads 'French' or could be another nationality. The text on this page is a continuation from the left page (cut mid-sentence at 'It' — 'Luire Cave. It / was considered...'). 'Vassieux-en-Vercors' comes from the brochure, not the handwritten text. Year of diary entry cannot be confirmed from this page; volume B covers 2003–2019."
+    }
+  ]
+}

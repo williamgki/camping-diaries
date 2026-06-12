@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0323",
+  "volume": "A",
+  "pdf_page": 323,
+  "pages": [
+    {
+      "page_id": "A_0323_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Jem + Maia + Eve in back of camping van, - Jem put his hand on the log\n\n[hand tracing drawing]\n\nJem's hand\nAugust 2002\nMende France\n\n3-4 miles. It was a beautiful walk past farm houses, near Vaiserelle. Chickens, rabbits, vegetable gardens. Lovely [strikethrough] unspoitt farmhouses lanes, old roads, moss. Trees, purple thistles with grasshoppers + yellow beetles.\n    We got back to camp + John + Eve made salad + Simon cooked a bbq. Yop for pud. The boys played football with a 10 year old girl from Nimes who was very good at football.",
+      "dates": [
+        { "raw": "August 2002", "iso_guess": "2002-08", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Vaiserelle", "Mende", "France", "Nimes"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Jem + Maia + Eve in back of camping van, - Jem put his hand on the log", "Jem's hand August 2002 Mende France"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page contains a hand tracing (outline of Jem's hand) labelled 'Jem's hand / August 2002 / Mende France'. The top caption appears to be a description of the drawing/photo. 'Vaiserelle' is the diary's spelling — could be a hamlet near Mende in the Lozère; exact spelling uncertain. 'unspoitt' appears to be a strikethrough word before 'farmhouses' — transcribed as written with note. 'Yop' is a French yoghurt drink brand."
+    },
+    {
+      "page_id": "A_0323_R",
+      "side": "R",
+      "handwritten_page_no": 68,
+      "blank": false,
+      "full_text": "__Thursday August 8__\n    We had breakfast together + packed up + said goodbye to David + family. We had lunch at a supermarket + drove on to __La Couvertoirade__. A wall was built around it by the Knights of St. John who took over from the Templars in 1450. In the 1750 it had 648 people, but the upland plateau village shrunk, so by 1880, there were only 352 inhabitants. [?And] Old disc crosses in the church + graveyard. Interesting old buildings. Simon got cross at all the gift shops. We had tea.\n    We drove on to __Cirque de [?Navacolles]__.\n6,000 years ago a large curve in the river had almost produced an ox-bow lake, then the river broke through back on course. 300m [?] ft. There was an amazing view from the ridge. A canal was below, too. We went on down a zig-zag road, + Eve was cross at the steep drops.\n    We went alongside the canal taking water to the power station at Madières. It was like a Madeira Levada.\n    We got a patisserie for supper. We drove on + on to beyond __Ganges__ 5 k south, near a river. 2 campsites have been full, but we have been allowed to spend the night outside the site + use",
+      "dates": [
+        { "raw": "Thursday August 8", "iso_guess": "2002-08-08", "confidence": 0.9 }
+      ],
+      "headings": ["Thursday August 8"],
+      "underlined_places": ["La Couvertoirade", "Cirque de [?Navacolles]", "Ganges"],
+      "place_mentions": ["La Couvertoirade", "Cirque de [?Navacolles]", "Madières", "Madeira", "Ganges"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "The underlined place 'Cirque de [?Navacolles]' is partially obscured — could read 'Navacolles' or 'Navacelles'; the Cirque de Navacelles is a well-known gorge feature in the Hérault near this area, making 'Navacelles' a plausible reading. 'Thursday August 8' in 2002 is consistent (August 8 2002 was a Thursday). The text cuts off at the bottom of the page — continues on the next spread. Handwritten page number 68 visible top-right. 'Madières' is a village on the Hérault river. 'Levada' reference compares the canal to the irrigation channels of Madeira."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0244",
+  "volume": "A",
+  "pdf_page": 244,
+  "pages": [
+    {
+      "page_id": "A_0244_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[postcard photo of Brekatedralen - Nigardsbreen]\n\nTues 12th August\n   We packed up & drove to the centre to see the Akershus Festning – built by Hikon [?Magnusson] c/1300 & Christian IV early [1]7[th], lovely tapestries, wood carved chests, portraits.\n   Resistance museum, 3 men ~~[strikethrough]~~ executed outside, one called Rasmussen.",
+      "dates": [
+        { "raw": "Tues 12th August", "iso_guess": "1997-08-12", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Akershus Festning", "Nigardsbreen"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Brekatedralen - Nigardsbreen"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.78,
+      "notes": "Page has a large glued-in postcard showing Brekatedralen - Nigardsbreen (a Norwegian glacier with a distinctive tent-like visitor centre). Marginal note 'see p.68' written beside the photo on the right side. The author's surname for the builder of Akershus is partially legible — could read 'Magnusson' or similar. Text at right gutter edge is cut off and continues onto the right page. The 'executed' word appears to have a struck-through word before it (possibly 'men' repeated or 'shot'). Year not written on page; this is a Norway trip — volume position suggests late 1990s but year cannot be confirmed from this page alone."
+    },
+    {
+      "page_id": "A_0244_R",
+      "side": "R",
+      "handwritten_page_no": 94,
+      "blank": false,
+      "full_text": "We rushed up to Svein's house. He gave us a drink in the garden. Lovely wood panelling & applied arts. His sister is a ceramicist.\n   He suggested we go to the beach for the boys to swim from an island to the west of Oslo. [?Hovedøya]? There was a raft & diving board lots of families but not crowded. V. hot & sunny. A marvelous resort so near a capital city. He walked round the island with Simon, & then with me, pointing out the views & islands & rich peoples houses. His wife is very ill. It was very good to spend time with him.\n   We came back to the van & had a cup of tea with Svein before he went home.\n   We drove on for 1 ¼ hours to [?Fiskum]**\nnear Kongsberg.\nThe campsite is a pretty old farm, with old barns & surrounded by orchards. A rifle range & trains.\n   Wed 13 Aug\n   We came into __Kongsberg__. There is an interesting museum – silver mining/mint/skiing/minerals? Simon bought a stone with a hole",
+      "dates": [
+        { "raw": "Tues 12th August", "iso_guess": "1997-08-12", "confidence": 0.4 },
+        { "raw": "Wed 13 Aug", "iso_guess": "1997-08-13", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Kongsberg"],
+      "place_mentions": ["Oslo", "Svein's house", "Fiskum", "Kongsberg"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page number 94 visible in top-right corner. Text continues from left page mid-narrative. The island name to the west of Oslo is partially struck through and uncertain — could be 'Hovedøya' or another name; the original word appears crossed out before the '?' query. Campsite name reads like 'Fiskum' followed by '**' (possibly a footnote marker). The entry for Wed 13 Aug ends mid-sentence ('a stone with a hole') — text continues on the next page. Year not stated on page; Norway context and diary position suggest late 1990s but cannot be confirmed precisely."
+    }
+  ]
+}

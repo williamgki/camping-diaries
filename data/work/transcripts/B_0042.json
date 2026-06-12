@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0042",
+  "volume": "B",
+  "pdf_page": 42,
+  "pages": [
+    {
+      "page_id": "B_0042_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Toulouse-lautrec museum, Albi. Profile of 12. by Villard. Woman putting on her stocking la Goulue at the Moulin Rouge Aristide Bruant in his cabaret. museum (Palaced the Bérbie) In the Salon of Rue des Moulins\n\nWe walked along the walkway* on the right by the river after seeing the museum. Then at 3 we set off to Eygmoutiers — a long drive, very hot & sweaty. When we got there at 8.30., we had trouble finding",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Albi", "Eygmoutiers", "Moulin Rouge", "Rue des Moulins"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "Toulouse-lautrec museum, Albi. Profile of 12. by Villard. Woman putting on her stocking la Goulue at the Moulin Rouge Aristide Bruant in his cabaret. museum (Palaced the Bérbie) In the Salon of Rue des Moulins"
+      ],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.75,
+      "notes": "Page contains a glued-in postcard/brochure for Musée Toulouse-Lautrec, Albi. Captions are written vertically along the right margin in a mix of handwriting and printed text. 'Palaced' may be a mis-reading of 'Palais' or 'Palace'. 'Profile of 12.' is unclear — could be 'Profile of TL.' (Toulouse-Lautrec). The bottom narrative text continues onto the right page. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0042_R",
+      "side": "R",
+      "handwritten_page_no": 40,
+      "blank": false,
+      "full_text": "the campsite Pierrette, [?]. It's on a large lake. It's very disappointing that, having wanted to [struck] swim for days & being much too hot, it rained in the night.\n__Monday August 16th__\nWe started breakfast outdoors & had to finish it in the van. Simon & Eve walked up to the central building - ping pong, snooker & a library & newspapers. In the evening a BBQ. But the boys wanted to drive on, so we left. (They preferred to save time for the Normandy beaches than sit by a damp lake).\n\nWe bought bread in a town & kept driving north, having lunch in a lay by. (David's favourite rest. closed Monday)\nAt 5.30 we turned into __Futuroscope__ , the French scientific theme park. We stayed in 'Clarion' Hotel, which was quite good. The pool was small - we swam but",
+      "dates": [
+        { "raw": "Monday August 16th", "iso_guess": "2004-08-16", "confidence": 0.5 }
+      ],
+      "headings": ["Monday August 16th"],
+      "underlined_places": ["Futuroscope"],
+      "place_mentions": ["Pierrette", "Normandy", "Futuroscope"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Henri de Toulouse-Lautrec par lui-même, 1896"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page number 40 visible in top-right corner. Text continues from left page. 'Pierrette' is the campsite name — could also read 'Pierrette' with some additional text after the comma that is illegible (possibly a place name). 'Monday August 16th' is underlined in the diary. In the volume covering 2003-2019, Monday 16 August falls in 2004 and 2010; iso_guess is 2004-08-16 with low confidence — both are plausible. A postcard image of 'Henri de Toulouse-Lautrec par lui-même, 1896' is glued in on the right side of the page. Some strikethrough text present ('swim' appears crossed out before 'swim for days'). The text is cut off at the bottom, suggesting it continues on the next spread. 'David's favourite rest. closed Monday' appears as an inserted note/annotation. Futuroscope is near Poitiers, France."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0127",
+  "volume": "B",
+  "pdf_page": 127,
+  "pages": [
+    {
+      "page_id": "B_0127_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Villa Ephrussi de Rothschild.\nSaint-Jean-Cap-Ferrat.\n\nShe laid out the grounds into attractive garden\n\"rooms\" - Japanese, Spanish, Stone, Provençal,\nFrench, Florentine, Sèvre, Exotic, Rose. There\nis a lovely \"tempetto\" + water course down to\nformal parterres (illusion of distance in spacing of\nwater courses.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Villa Ephrussi de Rothschild", "Saint-Jean-Cap-Ferrat"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Villa Ephrussi de Rothschild. Saint-Jean-Cap-Ferrat."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page contains a large colour postcard/photo of the Villa Ephrussi de Rothschild with caption written vertically alongside it. Text below describes the gardens. 'Sèvre' could be 'Sèvres' (a garden style named after the porcelain). 'tempetto' likely 'tempietto'. No handwritten page number visible."
+    },
+    {
+      "page_id": "B_0127_R",
+      "side": "R",
+      "handwritten_page_no": 65,
+      "blank": false,
+      "full_text": "The interior of the house has absolutely\ngorgeous Fragonard & Boucher decorations, chinese\nclothes & shoes, painted wood, wood carvings, stone\ncarvings, tapestries, carpets. Marvellous porcelain.\nShe only lived here for 4 years after 1912, because\nthen her husband died. She willed it to France (to\nbe added to by furniture from all her other villas\nafter her\ndeath)\n\nMadame Ephrussi's bedroom",
+      "dates": [
+        { "raw": "1912", "iso_guess": "1912", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["France"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Madame Ephrussi's bedroom"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Handwritten page number '65' in top-right corner. Page contains a colour photo of an ornate bedroom interior with caption 'Madame Ephrussi's bedroom' written vertically alongside it. Text continues from left page describing the Villa Ephrussi de Rothschild. 'chinese' is lower-case as written. The phrase 'all her other villas' — 'villas' is partially cut by the photo but readable in context."
+    }
+  ]
+}

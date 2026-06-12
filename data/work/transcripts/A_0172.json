@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0172",
+  "volume": "A",
+  "pdf_page": 172,
+  "pages": [
+    {
+      "page_id": "A_0172_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Monday October 24th__\n      We set off to Libertys & looked for material for Simon's dressing gown, bought Eve a rugby-watching brown coat & [illegible] velvet scarf. Peter bought a CA, John bought a candle.\n      We had a delicious lunch at the Newman Arms, off Tottenham Court Rd.; Eve had steak & [?fried] kidney pudding & spotted dick & custard.\n      We saw the Egyptian section & the peat bog man in the British Museum. Jane Total was out.\n      We had an icecream in a park & trained & bussed back to the cinema car park.\n      We are driving home up the motorway. ETA 7.50.",
+      "dates": [
+        { "raw": "Monday October 24th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Monday October 24th"],
+      "underlined_places": [],
+      "place_mentions": ["Libertys", "Tottenham Court Rd", "British Museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "red",
+      "legibility": 0.85,
+      "notes": "Year not stated on this page. The right-hand page begins a new entry dated 9th April 1996, so this October 24th entry likely predates or follows separately. 'CA' is unclear — could be a brand name or abbreviation. 'Jane Total was out' — 'Total' may be a surname; could also read as 'Totol' or similar. 'rugby-watching brown coat' — the strikethrough word before 'velvet scarf' is illegible."
+    },
+    {
+      "page_id": "A_0172_R",
+      "side": "R",
+      "handwritten_page_no": 3,
+      "blank": false,
+      "full_text": "9th April 1996\nSimon 46, Eve 42, Thomas 16, William 14\nPeter 12, John 8, Charles 6. (7 next week).\n      8.30. We set off for __Beauchamps__ for John to go on his first 'cello course. Peter is staying with Lawrence [?Barret] in France.\n      Overcast, but slightly warmer.\n      We are camping in the field.\n      After lunch we drove to __Gloucester__ Cathedral. Gorgeous Norman [?arches] & fat pillars. Fan vaulting & old lead?.\n      Font with [?] patterns on robes (12?) in lady chapel. Effigy of Robert Curthose elegant. Wood? painted red. William, Robert + William + Henry sons of William the Conqueror. Robert inherited Normandy. Robert William got England. Henry imprisoned Robert in Wales 1106–134, when Robert died & was buried at Gloucester.\n      On to the Docks.\n      We returned just before 4 as John finished his first day on the course.",
+      "dates": [
+        { "raw": "9th April 1996", "iso_guess": "1996-04-09", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": ["Beauchamps", "Gloucester"],
+      "place_mentions": ["Beauchamps", "France", "Gloucester", "Wales"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "A circular stamp/sticker from 'Gloucester Cathedral Exhibition' is affixed at the bottom right of the page. 'Lawrence [?Barret]' — surname unclear, could be 'Barret', 'Barnet', or 'Basset'. The date '1106–134' for Henry imprisoning Robert appears to be '1106–1134' (a split across a line). '(7 next week)' refers to Charles turning 7 next week. The handwritten page number '3' appears in the top-right corner."
+    }
+  ]
+}

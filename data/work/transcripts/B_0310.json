@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0310",
+  "volume": "B",
+  "pdf_page": 310,
+  "pages": [
+    {
+      "page_id": "B_0310_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[postcard of Tournon-sur-Rhône glued in]\n\nThe university was founded by Cardinal Tourmon.\n\nMonday\n\nHaving left the hotel, we motor-wayed to Lyons & spent an hour trying to find a parking place without Success. There's a rail strike & they've blocked the main square from parking. It would have been nice to have a meal.\n\nWe have come to a place the Same distance north of Lyons (as Tournon) we're now at a rainy",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Tournon-sur-Rhône", "Lyons", "Tournon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The university was founded by Cardinal Tourmon."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues onto right page. The postcard shows 'Tournon-sur-Rhône'. The handwritten caption reads 'Cardinal Tourmon' (likely meaning Cardinal de Tournon). No handwritten page number visible at top-left corner. Year cannot be determined from this page alone; volume covers 2003–2019."
+    },
+    {
+      "page_id": "B_0310_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Tournous__, an important Mediaeval Monastery town.\n\nWe had a delicious supper after looking around the abbey. Simon had cheese & salad & I had murdered eggs (vinegar.) The plates were really hot. Then Simon had steak & I had chicken. Then Simon had crème brûlée & I had chocolate mousse. A really good meal in our hotel de la Paix.\n__Tuesday__ Overcast & damp, but cleared up by lunch time & warmer now at tea time. We saw the abbey again [?It] was the bishop's mark. St. Philibert is [?it] buried here. We saw the upper room with 3 huge organ bellows, the crypt & the cloister. Lovely. And a beautiful \"Brown Madonna\", where I lit a candle for Olivia.\nWe wandered around the town - beautiful stone carved doorways & gutters (all clean) down the middle of cobbled streets.\nWe're now at St. Jean de Vaux. The sun is shining, although there might be thunder.\n__Wednesday__\nThere was lots of thunder in the night. But th[e] full [?in] day h[as] had OK weather. Sometim[es]",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Tournous"],
+      "place_mentions": ["Tournous", "hotel de la Paix", "St. Philibert", "St. Jean de Vaux"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Text continues from left page. 'Tournous' is underlined — likely a variant spelling or misread of 'Tournous'; could also be 'Tournus' (a town in Burgundy known for its Romanesque abbey of St. Philibert). The reference to St. Philibert being buried there strongly supports 'Tournus'. The '[?It]' and '[?it]' passages are partially legible small insertions above the line. The last line is cut off at the bottom of the scan. No handwritten page number visible at top-right corner."
+    }
+  ]
+}

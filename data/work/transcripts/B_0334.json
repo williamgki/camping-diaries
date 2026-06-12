@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0334",
+  "volume": "B",
+  "pdf_page": 334,
+  "pages": [
+    {
+      "page_id": "B_0334_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "St. Illtud's Church Llanilltud Fawr",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Llanilltud Fawr"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["St. Illtud's Church Llanilltud Fawr"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page is almost entirely filled with glued-in photographs and postcards of St. Illtud's Church (Llantwit Major / Llanilltud Fawr), Wales. Images include: aerial/bird's-eye view watercolour of the church complex; exterior photo with tower and trees; interior photo showing nave and chancel arch; stained glass window image; interior photo showing the rood screen/chancel; exterior photo of decorated archway with blue floral arrangement; stone carved relief/frieze photo; black-and-white sketch/print of the church exterior; stained glass window image (bottom left); and a small painted/watercolour image of a figure (bottom right). The printed word 'LLANILLTUD' appears on one postcard/item (bottom left area). A handwritten caption in blue ink reads 'St. Illtud's Church Llanilltud Fawr' across the bottom-centre of the page. The right edge of the image shows partial bleed-over of text from the right-hand page — not transcribed here. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0334_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Friday 16th August__. Peter had left his car at 86.35 We drove his car to Penn Onn. Heavy traffic. Heavy rain. Kay cooked us a delicious supper. Conrad + Nini watched Stornosaur movie. The van, borrowed by Peter + Nana was very clean, although they had been on a sandy beach. In the morning it had stopped raining.\n__Saturday__ I started the day picking blackberries. We drove to St. Illtud. He started a school in 500 AD. Wonderful church with [?Ilmill] modern part for Celtic crosses. We met Phil, Kay's boss + his partner, Darren, doing up a shop for Darren's graphic design.\n   William sent a WhatsApp that he had arrived at the house — I recognised the car but not the house.\n   We had a celebratory lunch for John's bday Peter's law masters first. Sm salmon, Choc brownies + rasp berries.\n   After lunch Simon + Eve left for beyond Brecon, Nr. Merthyr Cynnnog. 10 miles from Brecon. No mob reception, lovely grass, surrounded by hills. Tinder on sheep alert.",
+      "dates": [
+        { "raw": "Friday 16th August", "iso_guess": "2019-08-16", "confidence": 0.75 }
+      ],
+      "headings": ["Friday 16th August", "Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Penn Onn", "St. Illtud", "Brecon", "Nr. Merthyr Cynnnog", "Brecon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page is a diary entry continuation. 'Friday 16th August' is underlined as a heading. 'Saturday' is also underlined. The figure '86.35' after 'car at' is transcribed as written — could be a mileage, a price, or a time (possibly '8.35' written with a leading digit). 'Stornosaur' is the diary's apparent spelling — likely intended as 'dinosaur' or similar. '[?Ilmill]' is an uncertain reading of a word preceding 'modern' — could be 'still', 'small', 'similar', or another adjective. 'Penn Onn' is likely Pen-y-Fan area or a specific place in Wales near Llantwit Major — could also be 'Penn Inn' or similar. 'Merthyr Cynnnog' is transcribed as written; likely refers to Merthyr Cynog, a village near Brecon, Wales. WhatsApp reference confirms post-2009 date. Friday 16 August falls on that day in 2019 within volume B range (2003-2019), making 2019 the most plausible year. 'Conrad + Nini' and 'Kay', 'Peter', 'Nana', 'William', 'John', 'Simon + Eve' are personal names. 'Tinder on sheep alert' is a humorous reference to the Tinder dating app. No handwritten page number visible in top-right corner."
+    }
+  ]
+}

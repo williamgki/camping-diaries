@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0255",
+  "volume": "A",
+  "pdf_page": 255,
+  "pages": [
+    {
+      "page_id": "A_0255_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Kirby  86 Westfield Rd., Edgbaston, Birmingham\nB153 JG.     September 4th 1998  - August 8th 2003\n\n[glued-in ticket: 11496  EINTRITT BACHHAUS 4,00 EURO EISENACH — with Neue Bachgesellschaft Museum logo illustration]",
+      "dates": [
+        { "raw": "September 4th 1998", "iso_guess": "1998-09-04", "confidence": 0.95 },
+        { "raw": "August 8th 2003", "iso_guess": "2003-08-08", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Edgbaston", "Birmingham", "Eisenach"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["11496 EINTRITT BACHHAUS 4,00 EURO EISENACH"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "This is the inside front cover / endpaper. The handwritten inscription gives the owner's name (Kirby), address (86 Westfield Rd., Edgbaston, Birmingham, B153 JG), and the date range of the volume: September 4th 1998 to August 8th 2003. A printed admission ticket for the Bachhaus museum in Eisenach (Bach birthplace museum, Germany) is glued in; the ticket reads '11496 EINTRITT BACHHAUS 4,00 EURO EISENACH' and bears the Neue Bachgesellschaft Museum crest. The postcode 'B153 JG' may be a transcription of 'B15 3JG' (standard UK postcode format)."
+    },
+    {
+      "page_id": "A_0255_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Blank page (inside back endpaper or facing blank leaf). The overlap from the left image shows the tail end of the ownership inscription but that text belongs to the left page."
+    }
+  ]
+}

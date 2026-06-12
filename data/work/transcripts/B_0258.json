@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0258",
+  "volume": "B",
+  "pdf_page": 258,
+  "pages": [
+    {
+      "page_id": "B_0258_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "green. Men are dismantling a village marquee after yesterday's festival.  __La Besse__\n\nOn to __Puy en Velay__, campsite 3 k away at Brives Charensac. Yerghot.\n__Monday__ At 10 we left on the bike ride. Brives → Solignac. Arrived at 1 + had picnic lunch. Every pedal + push, steady incline. Only 1½ hours to get back, free-wheeling nearly all the way. The cycleway surface is formed from chippings laid on the original railway ballast and generally easy. The tunnels are well lit with occasional places where water falls from the roof. We saw no food at Solignac.\n\n[printed leaflet glued in]\n__HISTORY:__\nThe railway line from Le Puy-en-Velay to Langogne came into service in 1912 to provide a link between the industrial centres of the St Etienne region and those of the Cévennes.\nHowever, since 1981, trains have deserted this route and the rails have been removed to create a pleasant path which attracts walkers, cyclists and mountain bikers.\n\n__DESCRIPTION:__\nThe starting point of the Greenway (North–South direction) is situated 4 km from Le Puy-en-Velay on the way out of Brives Charensac station (altitude 600 m). A gentle climb (2%), easy for all, takes you to Solignac-sur-Loire (altitude 850 m). The path goes through 5 tunnels, all lit up, and a metal-spanned viaduct, 184 m long.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["La Besse", "HISTORY:", "DESCRIPTION:"],
+      "underlined_places": ["Puy en Velay", "La Besse"],
+      "place_mentions": ["La Besse", "Puy en Velay", "Brives Charensac", "Yerghot", "Solignac", "Langogne", "St Etienne", "Cévennes", "Solignac-sur-Loire"],
+      "route_sketch": true,
+      "route_sketch_description": "Printed map (part of glued-in leaflet) showing the Greenway route alongside La Loire river; labels include La Loire, Valence, Brives-Charensac (Old station, Campsite Brives), and Latour. Route runs north–south with a green line indicating the cycleway.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "'Yerghot' may be a campsite name or abbreviation — uncertain reading. 'La Besse' appears as an underlined annotation near the top, possibly a place name or campsite. The lower half of the page is dominated by a printed/glued tourist leaflet about the Brives Charensac–Solignac-sur-Loire Greenway (Voie Verte). No handwritten page number visible."
+    },
+    {
+      "page_id": "B_0258_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[handwritten text top-left, partially obscured by map]\n[?We] [?restaurant] + [?washed] [?the] [?by] [?hands]. We ate at the camp restaurant. Good lasagna. Sorbet, [?and] vanilla ice cream + [?had] caramel ice cream + chocolate sauce\n\n[printed leaflet/map continuation]\n[Map labels:] Solignac/Loire, Old station Solignac/Loire alt. 857 m, Km 13.8, Aubenas, Mende, Gagne viaduct, Tunnel de Veneyres, __Veneyres__ Km 12.1, Tunnel de Pradeaux, Malpas alt. 858 m, Tunnel de Malpas, [?Coubon], Cussac-sur-Loire alt. 651 m, Old station __Coubon-Yolhac__ alt. 720 m, Km 4.9, Latour Km 3.8, Tunnel de Riou, Le Riou Km 8.6, Tunnel de Taulhac, Le Puy-en-Velay alt. 621 m, St-Etienne, Lyon\n\n[Practical information box:]\nGreenway —\nMain access point\nSecondary access point\nNearby town or village\nBicycle hire\nNo access for motorized vehicles\nEmergency telephone number +\nEat before feeling hungry and drink before feling thirsty\nRemember that the tunnels may be cold\nRespect the Greenway, the environment and surrounding property\nKeep dogs on leads",
+      "dates": [],
+      "headings": ["Practical information"],
+      "underlined_places": ["Veneyres", "Coubon-Yolhac"],
+      "place_mentions": ["Solignac-sur-Loire", "Aubenas", "Mende", "Veneyres", "Pradeaux", "Malpas", "Coubon", "Cussac-sur-Loire", "Coubon-Yolhac", "Latour", "Le Riou", "Le Puy-en-Velay", "St-Etienne", "Lyon"],
+      "route_sketch": true,
+      "route_sketch_description": "Continuation of printed map from left page showing the full Greenway route. Runs from Solignac/Loire (alt. 857 m) at top through tunnels (Veneyres, Pradeaux, Malpas, Riou, Taulhac) and stations (Coubon-Yolhac) south to Le Puy-en-Velay. Arrows and km markers indicate direction and distances. Practical information legend on right side.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.72,
+      "notes": "Handwritten text at top-left is partially obscured by the printed map and is difficult to read fully. The bulk of this page is the continuation of the printed tourist leaflet/map glued in. 'feling' in printed text is original spelling (not corrected). No handwritten page number visible. The words around 'restaurant' and following are partially covered — readings marked [?] are best guesses."
+    }
+  ]
+}

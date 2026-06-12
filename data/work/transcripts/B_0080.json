@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0080",
+  "volume": "B",
+  "pdf_page": 80,
+  "pages": [
+    {
+      "page_id": "B_0080_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "At 4.50 we drove up part of a hillside & went on a 2 hour walk up the side of a hill. Charles sat in the van & got bored. The walk was Fabulous; a zigzag track, newly carved out, that would only be accessible to a 4x4. Lovely tall trees, woods, silent. At the top we came out & saw a view across to rocks & hills. There were 5 national beehover & a WBC.\n\tThere are lots of flies & butterflies, moss & lichen & the air feels very clean. Apparently there are eagles & the last bear was seen in 1937.\n\tWhen we got back to the camp for lunch 2 of the horses bolted out of the field. The remaining 3 bucked & [?got] gallopped around the field. After they'd charged up & down the road, the horses were caught. They were all led away in halters, so the field's empty now, which is too bad because they were friendly.\n\tJohn is making a salad for supper. After supper he beat me again at Scrabble\n\n__Monday__\n\tWilliam has just texted that his house move went well. He starts a new job today & we won the Test by 2 [?or] runs.\n\tAt breakfast we discussed the cold in the night. John's toothpaste was solid. Charles had certain no-go cold areas in his sleeping bag. The sun reached our part of the valley at 8.50. I wouldn't",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible in top-left corner. 'beehover' is unclear — could be 'beehive' or a specific term; transcribed as written. 'WBC' abbreviation unknown. The bear seen in 1937 and the valley setting suggest a mountainous area, possibly the Pyrenees or similar. Year cannot be determined from this page alone; euro currency mentioned on right page suggests post-2002."
+    },
+    {
+      "page_id": "B_0080_R",
+      "side": "R",
+      "handwritten_page_no": 18,
+      "blank": false,
+      "full_text": "get up before then if I lived here. John would put big mirrors high up on the hillside to reflect the sunlight down to his house.... but would it work?\n\tWe drove N.E. ~~down~~ up, Gorge de la Bourne, which had a steep, overhanging roof on the other side, so we were glad to be travelling northwards. Very narrow & very very pretty. Then we went downhill & the road came out high above Grenoble. Near Villefranche we stopped at a comfortable big Aire - Boisvay - with a lake. John made baguette sandwiches. Then we drove through Beaujolais vineyards.\n\tWe [?arrived] stopped at a supermarket. At 5.3[?0] we got to St. Jean de [?lux] (near [~~Chalon~~] Chalon) & went for a swim in the fabulously clean pool (fed from the source) quite cold, but the sun had heated it. We bought 18 [?swimnis] for €18. When we got back to the van the fridge was clicking. We'd run out of gas & had forgotten to buy a new cylinder. So Simon, Charles & Eve went off to buy one. We tried [~~Aldesey~~] [?Mellacey], then [~~Eve~~] [?Mercurey], & finally found some at Chalon. The shop owner said that the cylinder was not actually empty!",
+      "dates": [
+        { "raw": "At 5.3[?0]", "iso_guess": null, "confidence": 0.1 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Gorge de la Bourne", "Grenoble", "Villefranche", "Boisvay", "Beaujolais", "St. Jean de [?lux]", "Chalon", "Aldesey", "Mellacey", "Mercurey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.80,
+      "notes": "Handwritten page number 18 in top-right corner. Several words crossed out and corrected in the text — 'down' crossed out replaced with 'up'; 'Chalon' crossed out in parenthetical (reading now 'near Chalon'); 'Aldesey' crossed out replaced with what reads like 'Mellacey'; 'Eve' crossed out (appears to be another village name) replaced with 'Mercurey'. 'St. Jean de [?lux]' — the second part is unclear, could be 'lux' or similar. '18 [?swimnis]' — unclear word, likely '18 swims' or entry tokens. Boisvay appears to be an Aire de service/campsite near Villefranche. Route N.E. up the Gorge de la Bourne from a mountainous valley suggests travel from Vercors/Pyrenees area towards Chalon-sur-Saone. Euro currency confirms post-2002."
+    }
+  ]
+}

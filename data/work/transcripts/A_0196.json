@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0196",
+  "volume": "A",
+  "pdf_page": 196,
+  "pages": [
+    {
+      "page_id": "A_0196_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Thomas was sick at supper & sick in the middle of the night. Simon emptied his bucket. William & Eve had running tummies.\n\n__Sunday 6th April.__ Breakfast outside.\n\nWe reached Beauchamp at 9.45. for John's 'cello course. Charles & Peter are keeping their bikes in the field. Simon is going home for evensong in the car with the rest of the bikes. (Simon is churchwarden & Robert Grimley is moving on to be Dean of Bristol.)\n\nWe spent a leisurely day. Thomas & Charles walked. The rest of us read & played ping pong.\n\nEmma Dunsden is ill in a wheelchair. Alan & Caroline meet her at Charing Cross Hospl for a blood test tomorrow. It may be lupus. Supper inside. We had supper & went to bed early it was a cold night\n\n__Monday 7th April.__\nA chilly morning, but a glorious blue sky. Breakfast outside. We spent a day",
+      "dates": [
+        { "raw": "Sunday 6th April", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Monday 7th April", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday 6th April.", "Monday 7th April."],
+      "underlined_places": [],
+      "place_mentions": ["Beauchamp", "Bristol", "Charing Cross Hospl"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible in top-left corner. 'Beauchamp' is likely a campsite name — could be 'Beauchamp' or similar. 'Charing Cross Hospl' is an abbreviation for Charing Cross Hospital. 'Robert Grimley is moving on to be Dean of Bristol' — could also read 'Grimley' as 'Grimsby'. No year visible on the page itself; year cannot be confirmed from page content. The mention of Thomas having a driving theory test (on the right page) suggests post-1996 (when UK theory tests were introduced separately), but this is contextual inference only."
+    },
+    {
+      "page_id": "A_0196_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "relaxing again. John hard at work on his 'cello.\n\nSimon is to return with Thomas at 6.30. It was a beautiful evening. We had supper outdoors, & Simon played cricket with the boys. It had been a lovely day – reading, ping pong & downfall.\n\n__Tuesday 8th April__\nSimon & Thomas left at 7.10 for Birmingham, without breakfast. Thomas has a driving theory test. The rest of us slept on until 9.10.\n\nJohn made his picnic & laid breakfast & set off to his course. Charles practised his trumpet & played 4 in a row. William packed up the tent with help from Peter. We moved the van to make a fast get away\n\nAt 2.30 we listened to John's concert. He played in the \"hairy hedgehog\" group. It was very good.\n\nWe set off for home at 4.50.",
+      "dates": [
+        { "raw": "Tuesday 8th April", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Tuesday 8th April"],
+      "underlined_places": [],
+      "place_mentions": ["Birmingham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible in top-right corner. The right page is written in green ink, contrasting with the blue ink of the left page. The 'hairy hedgehog' group appears to be the name of a musical ensemble at John's cello course. 'downfall' likely refers to a card/board game. No year visible on the page; year cannot be confirmed from page content alone."
+    }
+  ]
+}

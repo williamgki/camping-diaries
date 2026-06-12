@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0337",
+  "volume": "B",
+  "pdf_page": 337,
+  "pages": [
+    {
+      "page_id": "B_0337_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "walk along footpaths through woods & fields & country estates.\nSunday A leisurely start. Simon & Charles looked at the van engine. Arri & Eve read & did sudokus. After tea we went to walk around Bourton on the water & had a delicious supper. Much social distancing.\n__Monday__\nCharles dropped off his van at the VW garage for an MOT. We stopped at Stow & shopped while Simon put the van up on a kerb & mended the water tank straps. More hand sanitiser in each shop.\nLunch is to be a picnic with Peter at the Rollright Stones. (We have just had an offer for the full price on 86, more viewings with estate agent this afternoon.)\nWe had the picnic, got Charles' van & met John. Then Charles & Arri left. We drove to a village green, had tea with John & Peter & Conrad.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": [],
+      "place_mentions": ["Bourton on the water", "Stow", "Rollright Stones"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text begins mid-sentence, continuing from the previous spread. 'Much social distancing' and 'More hand sanitiser in each shop' strongly suggest this entry dates from 2020 (COVID-19 pandemic), which would be beyond the stated volume range of 2003-2019; year cannot be confirmed from the page content itself. 'Monday' heading is underlined. '86' likely refers to a house address being sold."
+    },
+    {
+      "page_id": "B_0337_R",
+      "side": "R",
+      "handwritten_page_no": 38,
+      "blank": false,
+      "full_text": "After tea Simon & Eve left in Peter's green mercedes to go home. Peter took the van with Conrad to camp near High Wycombe for a Dads & lads weekend with William, Joseph & Seb & John & Thomas & Walter. They had a BBQ.\n   Peter brought the van back on Wednesday.\n__Friday__ July 10th\nWe sold the house, 86, this week. We hope to move to 45 George Rd about October 20th. Simon & Eve & Tinder set off at 3.30, to near Ross on Wye. The site is on a farm, New House Farm, a nice, small, sunken field. Another camper admired our van & offered to buy it if Peter doesn't want it. The odometer has gone wrong. We were cold in the night.\n__Saturday__ July 11th\nWe walked up & down an old track & set off for John & Kay & Eben.",
+      "dates": [
+        { "raw": "Friday July 10th", "iso_guess": "2020-07-10", "confidence": 0.55 },
+        { "raw": "Saturday July 11th", "iso_guess": "2020-07-11", "confidence": 0.55 }
+      ],
+      "headings": ["Friday July 10th", "Saturday July 11th"],
+      "underlined_places": [],
+      "place_mentions": ["High Wycombe", "Ross on Wye", "New House Farm", "45 George Rd"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.90,
+      "notes": "Handwritten page number '38' visible in top-right corner. 'Friday July 10th' and 'Saturday July 11th' are underlined. July 10th fell on a Friday in 2020 and 2015; given the 'social distancing' and 'hand sanitiser' context on the facing page, 2020 is the most likely year, though the volume is stated to cover 2003-2019. 'Tinder' is likely the family dog. '86' refers to the house being sold; moving to '45 George Rd'. 'New House Farm' near Ross on Wye is the campsite. Could read 'sunken field' — confirmed."
+    }
+  ]
+}

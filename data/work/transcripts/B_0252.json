@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0252",
+  "volume": "B",
+  "pdf_page": 252,
+  "pages": [
+    {
+      "page_id": "B_0252_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Sunday__ We went for a walk to see the outside of a [?Pt] Priory but I had to turn back because I was tired. The others returned soon because the gate was locked.\n\n    After lunch Simon is driving home in the van + Charles is taking Tinder + me on to Ansted where we will meet up with Kate + Lizzie, for Annette's cremation + funeral.\n\n__Saturday July 25th__\n__Just after 10 Simon & Eve took Tinder to kennels (£310 for 3 weeks) & set off to [?x x x x] Kent. V. Heavy traffic. Got to__ __Stalisfield__ __again. Great improvement in pub food under new owners. Just got a table at 6.30 pm. Need to book a meal ahead next year. As soon as we arrived I put the kettle on (5.10.) + then did yoga for 10 min + felt much less stiff.__\n\n  __Sunday__ We set off at 8.45. & reached the Channel Tunnel car park at 9.10. An hour",
+      "dates": [
+        { "raw": "Saturday July 25th", "iso_guess": "2015-07-25", "confidence": 0.4 },
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday", "Saturday July 25th", "Sunday"],
+      "underlined_places": ["Stalisfield"],
+      "place_mentions": ["Ansted", "Kent", "Stalisfield", "Channel Tunnel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "The priory reference on Sunday is partially legible — 'Pt' or 'Prt' could be an abbreviation. 'Tinder' appears to be the family dog's name. 'Ansted' could read 'Anstead' or another variant — uncertain spelling. The 'x x x x' before 'Kent' appears to be a crossing-out. Year not stated on page; Saturday July 25th falls on a Saturday in 2015, which is consistent with the migration/ferry-strike context on the right page and the volume range 2003–2019."
+    },
+    {
+      "page_id": "B_0252_R",
+      "side": "R",
+      "handwritten_page_no": 72,
+      "blank": false,
+      "full_text": "early, but yesterday queues had been 5 hrs. 1/20 closed, Operation Stack to cope with waiting lorries. French trouble has been caused by both rioting asylum seekers + French tyre-burning [?for] ferry strikes.\n\n   On towards Laon. The rain got [?x x] heavier & heavier. We reached Village [?Waten] at Suzy, a campsite with an American Rodeo/Wildwest Theme. Camping in wagons & tipis. Nice. We had a meal which had a good first course. Not good food really. Lots of girls who'd like horses.\n\nMonday in the morning croissant for Simon + a baguette. No rain but overcast.\nOn to Laon, with the cows looking out. We parked + walked up lots of steps — perfect sized steps — the best I've ever walked up. Laon Cathedral is beautiful, especially the Tower of the crossing from inside! Built in 55 years. All of a piece. Laon was the Carolingian capital, on a hill, easy to defend. Walking along the streets is nice. Coffee\n\nx x x  Etangs du Moulin",
+      "dates": [
+        { "raw": "Monday", "iso_guess": "2015-07-27", "confidence": 0.35 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": ["Laon", "the streets"],
+      "place_mentions": ["Laon", "Suzy", "Laon Cathedral", "Etangs du Moulin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "The campsite name reads 'Village Waten at Suzy' — 'Waten' uncertain, could be a brand/name within a campsite at Suzy (a village near Laon, Aisne, France). 'Operation Stack' is the UK motorway lorry-holding operation used at Channel Tunnel during disruptions — consistent with summer 2015 migrant/ferry-strike disruptions at Calais. The 'x x x' at top-left of right page appears to be a gutter continuation of 'x x x x' from the left page. 'Etangs du Moulin' at bottom is likely a campsite or place name noted separately. The underline on 'the streets' may be underlining 'the' before 'streets' as part of a phrase rather than a place name — included for completeness. Page number 72 is visible at top-right."
+    }
+  ]
+}

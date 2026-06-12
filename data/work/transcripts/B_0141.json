@@ -1,0 +1,43 @@
+{
+  "spread_id": "B_0141",
+  "volume": "B",
+  "pdf_page": 141,
+  "pages": [
+    {
+      "page_id": "B_0141_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Gold Staircase 1519-1526 Diego de [?Siloe]\n\nThe cathedral is up against a hill. This staircase leads up to a door at street level.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Burgos"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Gold Staircase 1519-1526 Diego de [?Siloe]", "CATEDRAL DE BURGOS — PATRIMONIO DE LA HUMANIDAD"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page contains a glued-in postcard of the Catedral de Burgos showing the Golden Staircase interior. Handwritten caption runs vertically along the right side of the postcard: 'Gold Staircase 1519-1526 Diego de [?Siloe]' — the architect's name could read 'Siloe' or 'Silée'; Diego de Siloé is the historically known architect of this staircase. Below the postcard, a handwritten note describes the cathedral's topography. Left margin shows partial text ('A', 'on', 'tre[n?]', 'ala', 'Sil[?]') that is cut off at the gutter — likely continuation of text from a previous page or marginalia. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0141_R",
+      "side": "R",
+      "handwritten_page_no": 79,
+      "blank": false,
+      "full_text": "After parking the van, Simon & Eve swam in a lovely pool with a very fat lady in a blue bikini.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Handwritten page number 79 in top-right corner. Text occupies only the top portion of the page; the remainder is blank. The bottom-left corner shows bleed-through/overlap text from the left page ('his', 'reet') which belongs to B_0141_L and is not transcribed here. No year is directly visible on this page; the Burgos content on the facing page suggests a trip to Spain."
+    }
+  ]
+}

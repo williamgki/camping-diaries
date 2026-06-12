@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0243",
+  "volume": "B",
+  "pdf_page": 243,
+  "pages": [
+    {
+      "page_id": "B_0243_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "back at the van we texted William with the details, had coffee & left. Onto __[?Bréon] en [?Ail]__, we walked around before bed. There seemed to be either gypsies or poor people on the campsite. One woman had a washing machine + tumble drier on a huge wooden pallette outside. Rain, rain. Mud but no litter but all their rubbish was in bags by the washrooms. Most odd.\n\n__Thursday__\nMore rain, gradually clearing during the day. We drove thro or past [?Mencon], [?Cartrouges], the round Argenten to the Chambois + looked at the town + newly laid wreaths. 20 years ago we met an American on a beach in Devon (1944 for Juno? beach) now we see French memorials after 70 years, August 2014. On Aug 19-22 the Amer, Canadians, French, Brits & Poles closed the Falaise rocket. The gap was 30k, then down",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": "2014-08", "confidence": 0.6 },
+        { "raw": "August 2014", "iso_guess": "2014-08", "confidence": 0.95 },
+        { "raw": "Aug 19-22", "iso_guess": "1944-08-19", "confidence": 0.75 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": ["[?Bréon] en [?Ail]"],
+      "place_mentions": ["[?Bréon] en [?Ail]", "[?Mencon]", "[?Cartrouges]", "Argenten", "Chambois", "Devon", "Juno", "Falaise"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "The place name after 'Onto' is partially obscured/underlined — could read 'Bréon en Ail' or similar; the underlined text is difficult to parse clearly. 'Mencon' and 'Cartrouges' are uncertain readings — 'Cartrouges' is likely the village Cartrouges in Orne, Normandy. 'Argenten' is likely Argentan. The text refers to the Falaise Pocket of August 1944, WWII. The word 'rocket' at the end is likely 'pocket' (Falaise Pocket). Text continues onto the right page."
+    },
+    {
+      "page_id": "B_0243_R",
+      "side": "R",
+      "handwritten_page_no": 63,
+      "blank": false,
+      "full_text": "to 3 k while attacked by Poles on Hill 262 (ht) the Polish Hills, the Germans fled along the Corridor of Death. Horses (only 30% of the German army was modernised) +\n\n[glued-in postcard/leaflet — printed text:]\n__MONTORMEL__\nIt's raining in Montormel\nAnd yet, it's summer ;\nHeaven is weeping over events former.\nIt's raining in Montormel...\n\nIl pleut sur Montormel\nEt pourtant c'est l'été\nLe ciel pleure le passé\nIl pleut sur Montormel...\n\n[handwritten caption:] Montormel Memorial",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["MONTORMEL"],
+      "place_mentions": ["Montormel", "Hill 262", "Polish Hills", "Corridor of Death"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Montormel Memorial"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page contains a glued-in postcard or leaflet for the Montormel Memorial (Mémorial de Montormel, Normandy). The printed text is a bilingual (English/French) poem about Montormel. A black-and-white photo of tanks is included on the postcard. The handwritten caption 'Montormel Memorial' is written vertically along the right side of the postcard. The handwritten diary text at the bottom is a continuation from the left page, discussing the Falaise Pocket battle. 'ht' in parentheses is uncertain — may stand for 'height' or be an abbreviation."
+    }
+  ]
+}

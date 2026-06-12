@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0017",
+  "volume": "B",
+  "pdf_page": 17,
+  "pages": [
+    {
+      "page_id": "B_0017_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "new garden & house. It was a good meal & afternoon with friends. Then home.\n__Saturday May 15th__\n   We left soon after lunch (S o E) & got to Kate & Jamie's farm at 3. We went on a long walk around the farm looking at apple blossom & organic wheat fields. Tonic got over-hot, lay in muddy puddles, rolled & dust & had to have a wash. Jamie has built a hot overlooking the river. We had tea on the terrace. It was lovely & sunny.\n   On [the] To South Hyde campsite, W. Malvern, a lovely field & [tent/tipi?] near the oak tree. John sang with the choir at St. James, a good concert. We then had drinks & nibbles at Gregory Swinford's house.\n__Sunday__ After chapel we had John's parents' day, drinks at the Russells & lunch with John & Charles on the Common. Then home.",
+      "dates": [
+        { "raw": "Saturday May 15th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Saturday May 15th", "Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Kate & Jamie's farm", "South Hyde campsite", "W. Malvern", "St. James", "Gregory Swinford's house", "the Common"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Page continues from previous spread — opening words 'new garden & house' are a continuation. 'S o E' is an unclear abbreviation, possibly a departure time or location indicator. 'a lovely field & [tent/tipi?]' — the word after 'field &' is unclear, could be 'tips' or 'tipi' (tent symbol). 'Jamie has built a hot' — likely 'hot tub' with 'tub' cut off or obscured. No year evident on this page; Saturday May 15 falls on various years in the volume range 2003-2019, candidates include 2004, 2010, 2021 — within volume B's range 2003-2019, Saturday May 15 matches 2004 and 2010."
+    },
+    {
+      "page_id": "B_0017_R",
+      "side": "R",
+      "handwritten_page_no": 15,
+      "blank": false,
+      "full_text": "__Sat 22nd May__\nSimon & Eve set off for Borough in London, William's & Bryony's house. We camped in the courtyard. Simon had a heavy cold. We went to a super modern ballet, after supper at Esh. Bryony's mother, Tess, was there.\n   We had breakfast in the conservatory, a very pleasant slow, cooked breakfast, with lots of coffee. Then Simon & Eve went to Southwark Cathedral, where Canon Jeffrey John celebrated Communion for the last time before moving to be Dean of St. Albans. He preached about the need for people to stay in the Church, even when they were got at, to [bear/leave] fruit in the Church.\n   We bought lunch at M & S for everyone & then went home.\n   William's & Bryony's van is looking very smart with new yellow curtains.",
+      "dates": [
+        { "raw": "Sat 22nd May", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sat 22nd May"],
+      "underlined_places": [],
+      "place_mentions": ["Borough", "London", "William's & Bryony's house", "Southwark Cathedral", "St. Albans"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number '15' visible in top-right corner. 'after supper at Esh' — 'Esh' may be a restaurant name or abbreviation, unclear. 'to [bear/leave] fruit' — the word before 'fruit' is somewhat unclear, likely 'bear' (as in 'bear fruit'). Canon Jeffrey John's move to become Dean of St Albans provides a dating clue — he became Dean of St Albans in 2004, suggesting Saturday 22nd May 2004 is plausible. Saturday 22 May 2004 is confirmed by calendar."
+    }
+  ]
+}

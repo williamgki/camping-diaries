@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0309",
+  "volume": "B",
+  "pdf_page": 309,
+  "pages": [
+    {
+      "page_id": "B_0309_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[?Thursday] May 12th.\nWe walked along paths to Brossac. The castle looks beautifully built. We walked around it & looked at the old town then went down to the new town. The river [strikethrough: is] bank is full of bamboo. There's an old house & paper factory guarded by an alsation. We had lunch at L'Arboussede. A local [strikethrough: the] petanque club was also having a lunch there. Good trout.\n\nBack at the van we just got the floor swept before rain poured down.\n\nWhy are so many of the vines left unwedded?\n\n__Sunday__\nA difficult start to the day. My loo was overflowing, so I had to bail it out. We stopped to look at an old bridge ([?2]) & church - St. [?Catherine] Iss.... & Simon lost the lens in his glasses, & it poured & poured rain & we were cold & couldn't find it. He's now driving in dark glasses. Things got better when we",
+      "dates": [
+        { "raw": "[?Thursday] May 12th.", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["[?Thursday] May 12th.", "Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Brossac", "L'Arboussede"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "A glued-in leaflet/brochure for 'L'Herbier à Couleur' / 'Teintures végétales' (natural plant dyes, artisan local) occupies the lower-left portion of the page. The first word of the date heading is unclear — initially read as 'Thursday' but if the previous spread (B_0308) recorded 'Thursday May 10th', then May 12 would be a Saturday; the word may be 'Saturday' misread. There is possible strikethrough on the day name suggesting a correction. 'L'Arboussede' is the name of a restaurant or establishment; spelling uncertain. 'unwedded' may be 'unweeded' (vines left unweeded). The church name reads 'St. [?Catherine] Iss....' — surname/suffix unclear, possibly 'Issigeac' or similar place. The bridge annotation '([?2])' may be a route number. The Sunday entry continues onto the right page. Year not determinable from page alone; if the trip follows B_0308 (May 10 Thursday), the year candidates are 2005 (Thursday May 12), or 2007/2012/2018 (Thursday May 10) — conflicting day-of-week evidence means year cannot be confirmed."
+    },
+    {
+      "page_id": "B_0309_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "silk worms\neating\nmulberry\nleaves\n\ngot to the Silk Museum at St. Hyppolyte du Fauve. It was fascinating & very interesting. Dreadful conditions for women. At its height in 1860. Pasteur found a cure for the silk worm [strikethrough: disease] [?disease] (p? nosema). a [?feneges].\n\nWe had the heater on during lunch (7°) & are now going to a hotel for the night. We have now gone into a huge jam, 1½ hrs had supper & are now in slow-moving traffic to our hotel at Tournon. I ended up having to drive in the dark & rain because of Simon's glasses, which was pretty fraught. The hotel room was nice. It looked onto the Rhône. [strikethrough: The] The [strikethrough: two] town seems to be in a valley surrounded by vines...",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Hyppolyte du Fauve", "Tournon", "Rhône"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["silk worms eating mulberry leaves"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "A photo is glued at the top right of the page, showing a child examining leaves with silkworms alongside dyed fabric swatches; the caption 'silk worms eating mulberry leaves' is handwritten to the upper left of the photo. The text at the top of this page ('got to the Silk Museum...') continues directly from the left page Sunday entry. 'St. Hyppolyte du Fauve' is likely 'Saint-Hippolyte-du-Fort' (commune in Gard, France, known for its silk heritage museum). 'nosema' is the correct name for a silkworm disease studied by Pasteur (pébrine). '[?feneges]' is unclear — possibly 'fameuses' or another word. 'Tournon' is likely Tournon-sur-Rhône (Ardèche). The strikethroughs and corrections are the author's own."
+    }
+  ]
+}

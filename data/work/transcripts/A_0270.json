@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0270",
+  "volume": "A",
+  "pdf_page": 270,
+  "pages": [
+    {
+      "page_id": "A_0270_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Sat 31st July.__\n\nWe set off at 4 pm, S, E, W, P, J, C,\n(Thomas is at Jesta in Belgium + will join us later)\nWe motored up to __Orton__ near the __Lake District__\n(J. [?M] 38 on M6) A beautiful campsite, [?view] of distant\nhills, in fields with drystone walls. Good wine\nat supper.\n__Sun__\nWarm at\nbreakfast time.\nWe drove off at\n9.45 + had\nlunch at the\nArt Lover's Ho,\nGlasgow.\nDesigned 1901\nby Mackintosh +\nMacDonald.\nBuilt 1990's.\n\nA gorgeous white\nmusic room.\nWall hangings,\none embroidered,\nothers printed.\n(Wm didn't like)\nAfter a cup of\n\n[Sketch caption, written vertically along right margin:] Piano + piano stool, white, mushroom, Art-Lover's House, Glasgow",
+      "dates": [
+        { "raw": "Sat 31st July", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sat 31st July.", "Sun"],
+      "underlined_places": ["Orton", "Lake District"],
+      "place_mentions": ["Jesta", "Belgium", "Orton", "Lake District", "M6", "Glasgow", "Art Lover's House"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn sketch of an interior room — appears to be the music room of the Art-Lover's House, Glasgow. Shows furniture arrangement including piano and piano stool. Annotations on the sketch include 'lilac seat cushion', 'purple', 'green'. Caption written vertically: 'Piano + piano stool, white, mushroom, Art-Lover's House, Glasgow'.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "No handwritten page number visible — top-left corner is cut off. The sketch is a room interior, not a route map, but it is hand-drawn with labels so route_sketch is set to true to flag it. 'Jesta' could be a place name in Belgium (possibly 'Gesta' or another reading). 'no showers' appears as a later annotation above 'Orton' and again above 'at supper'. The date 'Sat 31st July' with Monday 2nd August on the right page is consistent with multiple years; the Art Lover's House Glasgow was completed/opened 1996, so the year is 1999 or later — the 'Wales May 1999' photo on the right page and the narrative flow suggest this trip is likely summer 1999 or 2000."
+    },
+    {
+      "page_id": "A_0270_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "tea we drove up to Balloch *** on lochlomond.\nVery organised campsite, keys to showers. Ping pong.\nThe caretaker was extremely rude just before we\nwent to bed + there was a thunderstorm.\n\n__Monday Aug 2nd__\n\nWe went back into Glasgow + parked by\nthe river + walked across an old pedestrian bridge,\nup the hill to the School of Art tour at 11. Tonic\nstayed in the loo in the van. We all enjoyed it. Than\n[?We/Wh] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]",
+      "dates": [
+        { "raw": "Monday Aug 2nd", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Monday Aug 2nd"],
+      "underlined_places": [],
+      "place_mentions": ["Balloch", "lochlomond", "Glasgow", "School of Art"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Wales May 1999"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.75,
+      "notes": "Photo at top of page shows a young man in front of a camper van; caption 'Wales May 1999' is written in green ink above the photo and appears to label this photograph — likely from a different trip inserted here. Balloch is on Loch Lomond. The caption along the left gutter 'Piano + piano stool, white, mushroom, Art-Lover's House, Glasgow' continues from the left page sketch. The bottom of the page is partially cut off; final line(s) are illegible. 'Monday Aug 2nd' following 'Sat 31st July' and 'Sunday' is internally consistent. Year cannot be confirmed from the text alone; the 'Wales May 1999' photo label is on a different trip's photo, but combined with the Art Lover's House opening ~1996, this entry is likely from summer 1999 or later."
+    }
+  ]
+}

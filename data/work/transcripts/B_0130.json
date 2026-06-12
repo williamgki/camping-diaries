@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0130",
+  "volume": "B",
+  "pdf_page": 130,
+  "pages": [
+    {
+      "page_id": "B_0130_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Monday\nWe walked across the village up to the ski lift. Took a ride up the hill. We walked around the top lake on the right & back down the hill to Aussois. 7K, a beautiful, interesting walk with a goat cheese crepe half way round. Biking is ruining the paths.\n1,500→2,400m\n\n[postcard: AUSSOIS - Vanoise — shows mountain panorama with labels: Aiguilles d'Arves, Aiguille Doran, Col de la Masse, Plateau d'Orcinan, Bassins d'Aussois, Massif de Polvoron, Grand Argentier, Retenue d'Aussois]\n\nSavoie. Massif de la Vanoise. View of the chains of [?Arnont] + [?Arval] (1950s). We walked around the top lake + down to Aussois, out & light on the life.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": [],
+      "place_mentions": ["Aussois", "Vanoise", "Savoie", "Aiguilles d'Arves", "Aiguille Doran", "Col de la Masse", "Plateau d'Orcinan", "Bassins d'Aussois", "Massif de Polvoron", "Grand Argentier", "Retenue d'Aussois", "Massif de la Vanoise"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["AUSSOIS - Vanoise — mountain panorama with labels: Aiguilles d'Arves, Aiguille Doran, Col de la Masse, Plateau d'Orcinan, Bassins d'Aussois, Massif de Polvoron, Grand Argentier, Retenue d'Aussois"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "No handwritten page number visible in top-left corner. A postcard of Aussois/Vanoise is glued in, with printed labels of mountain peaks and lakes; the handwritten caption on the right margin of the postcard reads 'Savoie. Massif de la Vanoise. View of the chains of [?Arnont] + [?Arval] (1950s)...' — the two mountain chain names are partially obscured/unclear, possibly 'Arnont' and 'Arval' or similar. The '(1950s)' appears to refer to the era of the photograph, not the diary entry. The altitude note '1,500→2,400m' appears below the main Monday text in a smaller hand. No explicit year visible on this page; volume B covers 2003–2019. The preceding spread (B_0128) mentions Cuneo/Italy suggesting an Alpine trip."
+    },
+    {
+      "page_id": "B_0130_R",
+      "side": "R",
+      "handwritten_page_no": 68,
+      "blank": false,
+      "full_text": "the top lake is blue, the bottom lake grey like an English puddle. There is lots of slate by the lower lake. Water also gushes into it from canals cut through the mountains from other valleys. We saw a marmot.\nWe got back, [?stif], at 3:30.\nLater we walked into town & had delicious raclette\n\nTuesday.\nWe have had an easy day today. We walked into town & shopped. There was a small market. For lunch we walked across to Marie Christiane fort. We had tomato mousse, chicken & chocolate puddings. Part of the building sleeps skiers & walkers. We walked up into the enormous roof space. Sandy floors, unglazed.\n\n[route sketch: hand-drawn map showing 'Our walk —' with path from Aussois going up to 'dam', then '2 lakes' with arrows, and 'lift' marked at top right; arrows indicating direction of walk]\n\nSee P.72.",
+      "dates": [
+        { "raw": "Tuesday.", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Tuesday."],
+      "underlined_places": [],
+      "place_mentions": ["Aussois", "Marie Christiane fort"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn sketch showing the walk from Aussois uphill past a dam, continuing to '2 lakes' at the top, with a 'lift' marked at upper right. Arrows indicate direction of travel. Caption reads 'Our walk —'. A note at bottom reads 'See P.72.'",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number 68 visible in top-right corner. The word '[?stif]' after 'We got back,' is unclear — possibly a name or abbreviation, could be 'stiff' (describing tiredness) or a person's name. 'Marie Christiane fort' is a restaurant/building in Aussois — possibly 'Marie-Christine' fort/refuge. The route sketch depicts the Monday walk described in the text (Aussois to lakes and back via ski lift). 'See P.72.' is a cross-reference to a later page in the diary. No explicit year on the page; trip context (Alpine location, Aussois/Vanoise) consistent with a summer holiday."
+    }
+  ]
+}

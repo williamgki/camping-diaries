@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0230",
+  "volume": "B",
+  "pdf_page": 230,
+  "pages": [
+    {
+      "page_id": "B_0230_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "They were very patient while John (who was leaving early to go back to Swansea) climbed into bed with us & we had tea, dressed & had breakfast. We & joined us for breakfast. It was so nice to have a meeting place for visitors.\n        They left. Charles & Jenny got up. Jenny was fed up at having another driving lesson. We chatted. We left for Conta's house at Hinton Parva. We looked at the church next door. St. Swithins. Conta had paid £500 to prevent concrete being put over all the stones by the new warden.\n        Iona & Theo were studying for their second year medical exams. Really too nice a day to study. Conta was annoyed that Wanda's gymkana was cancelled because lightning had been forecast. Wanda is at C.V.L.C. Mike was in Wales golfing with a friend. Tinder had a wild run around with Conta's dogs. Iona wonders if he could breed with Willow.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Swansea", "Hinton Parva", "Wales"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Top of page is a continuation from a previous page. 'We &' is likely 'Wes &' or similar — unclear abbreviation. 'gymkana' as written (likely 'gymkhana'). 'C.V.L.C.' is an abbreviation not expanded in text. 'St. Swithins' — could be 'St. Swithin's'. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0230_R",
+      "side": "R",
+      "handwritten_page_no": 52,
+      "blank": false,
+      "full_text": "We got in for free with EH/NT membership. Otherwise— family £39\n\n[glued-in Stonehenge English Heritage ticket: \"ENGLISH HERITAGE STONEHENGE / Step into England's story / Join English Heritage FOR MORE GREAT DAYS OUT / Web Member Adult / Tour Date: 08 Jun 2014 09.00 / Valid on day of purchase only\"]\n\n        On to __Ashdown House__, a hunting lodge built in 1662 by Lord Craven (nouveau riche Cavalier) for his girl-friend Elizabeth, daughter of James I, sister of Charles I & wife of King of Bohemia? who had lost his throne. She loved hunting. You could view the land for miles around at the top of the house, cupola balcony.",
+      "dates": [
+        { "raw": "08 Jun 2014", "iso_guess": "2014-06-08", "confidence": 0.99 }
+      ],
+      "headings": ["Ashdown House"],
+      "underlined_places": ["Ashdown House"],
+      "place_mentions": ["Stonehenge", "Ashdown House", "Bohemia"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["ENGLISH HERITAGE STONEHENGE — Step into England's story"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Glued-in Stonehenge English Heritage admission ticket dated 08 Jun 2014 — confirms year as 2014. Handwritten annotation beside ticket reads 'We got in for free with EH/NT membership. Otherwise— family £39'. 'Ashdown House' is underlined in the text. 'Elizabeth' written above the line as an interlinear insertion between 'friend' and 'daughter'."
+    }
+  ]
+}

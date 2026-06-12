@@ -1,0 +1,43 @@
+{
+  "spread_id": "A_0108",
+  "volume": "A",
+  "pdf_page": 108,
+  "pages": [
+    {
+      "page_id": "A_0108_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Page dominated by two pen-and-ink architectural sketches. Background diary text in faint pencil/light ink is largely illegible beneath the drawings.]\n\nWell + bench.\n\nentrance to courtyard.\n\n[Background text fragments around margins and behind sketches — illegible]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Well + bench.", "entrance to courtyard."],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.2,
+      "notes": "Page contains two pen-and-ink sketches: (1) a stone well with a roofed timber frame/windlass structure and a bench alongside, captioned 'Well + bench.'; (2) a stone archway entrance with dressed-stone voussoirs, captioned 'entrance to courtyard.' Background diary narrative text is present but extremely faint (appears to be pencil or light ink, possibly showing through from adjacent pages or written very lightly behind the sketches), and is almost entirely illegible. No handwritten page number is visible in the top-left corner. The sketches appear to depict features at or near St. Jean de Vaux (named on the facing right page)."
+    },
+    {
+      "page_id": "A_0108_R",
+      "side": "R",
+      "handwritten_page_no": 25,
+      "blank": false,
+      "full_text": "[Page dominated by two pen-and-ink architectural sketches and a place-name label. Background diary text in faint pencil/light ink is largely illegible beneath the drawings.]\n\nWindow at side of church.\n\nstone hinge barn door\n\n__St. Jean de Vaux__\n\n[Background text fragments around margins and behind sketches — illegible]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["St. Jean de Vaux"],
+      "place_mentions": ["St. Jean de Vaux"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Window at side of church.", "stone hinge barn door"],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.25,
+      "notes": "Handwritten page number '25' visible in top-right corner. Page contains two pen-and-ink sketches: (1) a Gothic/pointed arched window with delicate tracery at the top, captioned 'Window at side of church.'; (2) a semicircular stone socket/hinge detail for a barn door, captioned 'stone hinge barn door'. At the bottom of the page, underlined in ink: 'St. Jean de Vaux' — this is almost certainly St-Jean-de-Vaux, a village in Saône-et-Loire, Burgundy, France, providing the location context for all sketches on this spread. Background diary narrative text is present but extremely faint and largely illegible. The sketches and captions are the primary readable content on this side."
+    }
+  ]
+}

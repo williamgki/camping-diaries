@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0152",
+  "volume": "A",
+  "pdf_page": 152,
+  "pages": [
+    {
+      "page_id": "A_0152_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Tuesday 30th May\n\tNo rain so far this morning. John wanders up to look at the horses. He loves the dogs & cats. There is a dog, corgi, called Holly. All 7 of us are setting out on a ride at 10.30.\n\tThe ride was marvellous. There were 11 of us altogether. We went along trails & narrow stream beds & hillsides. Twice one of the guides went ahead with John, Charles & Simon & the rest of us held back for a canter. John has already learnt to rise to the trot & Charles bounces about like a relaxed pea. There were lovely views & it didn't rain.\n\tUnfortunately William fell off onto his nose on the last canter. (Superman fell off the day before & broke his neck).\n\tWe had lunch, packed up & drove off to have tea with Joan Clarke. Then we went on for fish & chips at Malvern & dropped Thomas. We got home, showered the children & Eve was in the bath when John W & Hannah & 3 boys arrived!\n\tInspite of the rain, it was a super half-term camping trip. (& 200 for camping & riding)",
+      "dates": [
+        { "raw": "Tuesday 30th May", "iso_guess": "1995-05-30", "confidence": 0.92 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Malvern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible at top-left. Year 1995 confirmed: May 30 was a Tuesday in 1995, consistent with right page's reference to the 350th anniversary of the Battle of Naseby (1645+350=1995). 'Joan Clarke' is a person, not a place. 'Superman' appears to be a horse that broke its neck the day before. The bracketed note '(& 200 for camping & riding)' appears to refer to cost (£200)."
+    },
+    {
+      "page_id": "A_0152_R",
+      "side": "R",
+      "handwritten_page_no": 85,
+      "blank": false,
+      "full_text": "Sunday June 18\n\t__Simon, Eve, Thomas, William, John + Charles went to Middleton Hall for Mary Cohen's afternoon concert.__ Peter cathedralled & lunched at Susan & Simon Smith's. William watched rugger on TV in the van. Thomas played his violin. Charles, Simon & Eve listened to all the concert. Mark Hick joined William. It was a lovely sunny afternoon. We had a picnic lunch.\n\nSaturday 24th June\n\t__We left at 9.05 for Northamptonshire.__ Simon, Eve, Karoleia, William, Peter, John, Charles. We had coffee on the way at __Nasby__. Fairfax & Ireton won the battle against Prince Rupert. Dead Bodies lay all the way to Leicester. The 350th anniversary was on June 14th. It happened 1645.\n\tIt is most disappointing that it is raining slightly & not very warm.\n\tWe arrived at __Belton-in-Rutland__ *** at 11.45. There is a pretty farm house with horses & portabloos. About 15 caravans.",
+      "dates": [
+        { "raw": "Sunday June 18", "iso_guess": "1995-06-18", "confidence": 0.85 },
+        { "raw": "Saturday 24th June", "iso_guess": "1995-06-24", "confidence": 0.9 },
+        { "raw": "June 14th", "iso_guess": "1995-06-14", "confidence": 0.7 }
+      ],
+      "headings": ["Sunday June 18", "Saturday 24th June"],
+      "underlined_places": ["Nasby", "Belton-in-Rutland"],
+      "place_mentions": ["Middleton Hall", "Northamptonshire", "Nasby", "Leicester", "Belton-in-Rutland"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number '85' visible at top-right. Year 1995 confirmed by the diary noting the '350th anniversary' of the Battle of Naseby which occurred on June 14, 1645 (1645+350=1995). 'Nasby' is the diary's spelling of Naseby (Northamptonshire). 'Karoleia' is a person's name. 'Belton-in-Rutland' underlined with '***' — possibly a campsite rating or emphasis. 'Mark Hick' is a person. 'Peter cathedralled' — unusual usage, possibly meaning Peter attended a cathedral service. June 18 was a Sunday in 1995 and June 24 was a Saturday in 1995, consistent with year 1995."
+    }
+  ]
+}

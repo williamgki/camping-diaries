@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0310",
+  "volume": "A",
+  "pdf_page": 310,
+  "pages": [
+    {
+      "page_id": "A_0310_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Charles chose blue Shubrumpton, but we can't buy any until the plants have been in the pot for a month.\n    We drove to Malpas church where there are apparently 2 fine statues, one pre-Ref, one post-Ref, but not only was the church locked but service times were posted just out of view. So we won't go to church there.\n    Back in the van in the evening we again played Scrabble. John & Charles are keen on it.  has not only clean but shining\n    Another cold night, aching lips. \"showers\n__Sunday__\n    We wake to blue sky & sunshine. Charles was also very cold in the night. We reached Tim's nursery garden at 10 and loaded up the van with the plants. Then we went a short distance to Prees church. The kneelers are the most beautiful I've seen – each one a flower. Greens carefully controlled, fawn background, brown sides. Designed 20 years ago from pictures in the vicar's prayer book, by a man",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Malpas", "Prees"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible in top-left corner. 'Shubrumpton' may be a plant variety name. The word 'has not only clean but shining' appears to be a marginal annotation in different placement. Text continues onto the right page. Year cannot be confidently determined from this page alone; 'Friday May 24th' on the right page and the volume range 1989-2003 narrows it but does not confirm a year."
+    },
+    {
+      "page_id": "A_0310_R",
+      "side": "R",
+      "handwritten_page_no": 55,
+      "blank": false,
+      "full_text": "who is now verger. I knelt on a primrose. Bell ringers. A very welcoming church. The woman vicar (who had a 60th birthday tea yesterday) was away & the service was taken by a prison chaplain. Cherryard. Good sermon on doubting Thomas.\n    No pub open at Prees so we drove on to Hadnall, Saracens. Best pub lunch ever in well-decorated annex.\n    Off home in hot sun to plant the plants.\n__Friday May 24th__\n    7 Simon, Eve & Tonic left for __St. David's__. Eve has a new chair seat & Tonic has a new perch. We had a pretty drive west through showers & sunshine. We reached Hundred House**** west of __Kington__ west of Leominster at 9.10. Cold wind. Simon hurt his ribs coming back through Westfield Rd. window after inspecting a roof bar. Eve slept badly worrying about refugees in Ladywood.",
+      "dates": [
+        { "raw": "Friday May 24th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Friday May 24th"],
+      "underlined_places": ["St. David's", "Kington"],
+      "place_mentions": ["Prees", "Hadnall", "St. David's", "Hundred House", "Kington", "Leominster", "Westfield Rd.", "Ladywood"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number 55 visible in top-right corner. 'Cherryard' is uncertain — could read 'Cherryard' or '[illegible]'. 'Hundred House' followed by asterisks (****) — possibly indicating a campsite or notable stop. 'Tonic' appears to be a pet (bird or cat). 'St. David's' is underlined. 'Kington' is underlined. 'Friday May 24th' falls on a Friday in years including 1991, 1996, 2002 within the volume range, but no year is explicitly stated on the page. The earlier Sunday entry and this Friday entry may be from different trips."
+    }
+  ]
+}

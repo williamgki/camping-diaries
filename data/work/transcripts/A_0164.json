@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0164",
+  "volume": "A",
+  "pdf_page": 164,
+  "pages": [
+    {
+      "page_id": "A_0164_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Glued-in map/postcard: BODEGAS DUEÑAS — printed map showing Duero region, with labels including LOS ARRIBES, VITIGUDINO, SALAMANC[a], EL CAMPO CHARRO, CIUDAD RODRIGO, LA ALBERCA, SIERRA DE FRANCIA, las Hurdes, Portugal]\n\nSee map near inside\n\nthe foot of the columns. The square was pretty, people dancing and celebrating, we had icecream. Vanbanesque town walls. John dropped a pebble over. * * * *\n   At 7, we arrived at la [?Aberca] campsite. It had a pale turquoise swimming pool + lovely views of hills. But the campsite people seem lazy. They don't pick up litter or mend taps, or locks. We swam. We picked blackberries. There were vanilla trees, peach, sweet chestnut + oak trees.\n   The shop was shut, so we couldn't buy wine for supper, or bread. We had blackberries for supper. And then porridge oats + milk + sugar + more blackberries. It was delicious.\n   Wed 8th August\n      We decided to go on a circular tour. We",
+      "dates": [
+        { "raw": "Wed 8th August", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Aberca"],
+      "place_mentions": ["Aberca"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["BODEGAS DUEÑAS — printed map showing LOS ARRIBES, VITIGUDINO, EL CAMPO CHARRO, CIUDAD RODRIGO, LA ALBERCA, SIERRA DE FRANCIA, las Hurdes"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page begins mid-sentence, continuing from a previous page. The campsite name is underlined in the diary and reads '[?Aberca]' — likely 'La Alberca', a village in Sierra de Francia, Spain, which also appears on the Bodegas Dueñas map insert. The glued-in item is a printed promotional map for Bodegas Dueñas wine region. Year cannot be confirmed from this page alone; volume covers 1989–2003."
+    },
+    {
+      "page_id": "A_0164_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "shopped at [?Tamames], where there is a storks' nest + stork on the church.\n   We drove on to [?Miranda] + had a delicious lunch. John finished mine. The Gazpacho was very good. We walked around, the village, looking up side roads. Overhanging balconies where you could touch across the alleys, one supported on pillars. Little squares. We weren't sure which was the church. Escutcheons + 4 herds of goats on the walls.\n   We went on to __El Gaseo__ in [?Casthuerdo], very cut-off village. Poor people, but generous, they gave us tomatoes + pears, + all we could give them was some chocolates. The houses cling to the cliff, some are round with big, irregular slates on the roof. These now house the donkeys + chickens, + the people are in modern houses. Steep paths. The river is at the bottom. All along the river, there are runnels off to irrigate the crops in the river bends.\n   We came home up hairpin bends to a pass __El Portillo__, amazing views. Horrific drops. (We missed out \"La Lena\" the highest hill, with a monastery on the top.) We had a swim + then prawns for supper, which was a bit of a disaster because wasps swarmed in.\n   Earlier in the day, Thomas, Peter, John + Charles had done hard washing of their clothes",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["El Gaseo", "El Portillo"],
+      "place_mentions": ["Tamames", "Miranda", "El Gaseo", "Casthuerdo", "El Portillo", "La Lena"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Several place names are uncertain. 'Tamames' is a village in Salamanca province, Spain — plausible given the Sierra de Francia context. '[?Miranda]' could be Miranda del Castañar or another nearby village. '[?Casthuerdo]' is hard to read — could be 'Las Hurdes' area or a specific village name; 'El Gaseo' (underlined in diary) may be 'El Gasco', a village in Las Hurdes. 'La Lena' could be 'La Peña de Francia', the highest point in the Sierra de Francia with a monastery, which matches the description perfectly. 'El Portillo' is likely the pass on the road back. Text ends mid-sentence, continuing onto next page. Margin on left side shows gutter overlap text from left page ('near', 'pretty', 'ecream.', 'e over.', 'psite.', 'ely', 'eem', 'or', 'hastnut', 'buy', 'erries', '+', 'We') — not transcribed again."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0206",
+  "volume": "B",
+  "pdf_page": 206,
+  "pages": [
+    {
+      "page_id": "B_0206_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Cluny Abbey    √ spire visible from campsite\n\n[?Simbol] 9/0\n\n__Thursday__\nWe moved the van to the carpark outside the campsite & walked into town to see the Abbey. Simon remembered the granary. Every thing his had to be reconstructed. We looked at 2 artificial reality screens which, as you moved",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": [],
+      "place_mentions": ["Cluny Abbey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Cluny Abbey", "spire visible from campsite"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Glued-in colour postcard/photo of Cluny Abbey. Caption 'Cluny Abbey' and '√ spire visible from campsite' written alongside photo. Right margin of photo has what appears to read '[?Simbol] 9/0' — possibly a postcard stock number or image credit. Diary text begins below photo with 'Thursday' (underlined). Text ends mid-sentence continuing onto right page. No handwritten page number visible in top-left corner. Year not determinable from this page alone; volume covers 2003–2019."
+    },
+    {
+      "page_id": "B_0206_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Capital from the choir of Cluny 3, the beekeeper.\n\n[?Simbol] 9/0\n\nthem around, showed you how things had looked. The capitals & carvings are lovely. We had awful trouble in the shop. The",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Cluny 3"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Capital from the choir of Cluny 3, the beekeeper."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Glued-in colour photo of a stone capital carving (the beekeeper). Caption above photo reads 'Capital from the choir of Cluny 3, the beekeeper.' Left margin has '[?Simbol] 9/0' — possibly matching label from left page, a postcard stock number or image credit. Diary text continues from left page and ends mid-sentence ('The') — text continues on following spread. Handwritten page number in top-right corner is partially visible but illegible at this resolution; appears to start with '2'. Year not determinable from this page alone."
+    }
+  ]
+}

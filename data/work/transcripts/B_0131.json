@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0131",
+  "volume": "B",
+  "pdf_page": 131,
+  "pages": [
+    {
+      "page_id": "B_0131_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Eve's chocolate paper from lunch.\n\nThe campsite is really lovely, perched high on a valley side, so high that planes fly along the valley below us. Although the valley is the same height as where we skied last year ([?Morgie]) the ski hills extend 700m higher.\n\n__Wednesday August 15th.__\nWe packed up & drove to a super market near St. Jean de Maurienne. We drove north west, to the west of Aix les Bains, north of Chambery, until we reached __St Rampart__ **. It's very hot & we had to wait until the [?accueil] lady came back to get jetons for a shower. Camping Hermitage.\nWe couldn't find a restaurant open for supper. Simon said the town reminded him of a Black Country town, or Stroud.\nThursday\nRain after much lightening in the night.\nRain, rain, rain in the morning.",
+      "dates": [
+        { "raw": "Wednesday August 15th.", "iso_guess": "2007-08-15", "confidence": 0.3 }
+      ],
+      "headings": ["Wednesday August 15th."],
+      "underlined_places": ["St Rampart"],
+      "place_mentions": ["St. Jean de Maurienne", "Aix les Bains", "Chambery", "St Rampart", "Camping Hermitage", "Stroud"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Eve's chocolate paper from lunch."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "A gold-foil and red chocolate wrapper (label reads 'Chocolat noir 72% de cacao / Fine / Marc Christine') is glued in at the top, captioned 'Eve's chocolate paper from lunch.' The place 'St Rampart' is underlined and followed by '**'; could also read '[?St Rambert]' — St-Rambert-en-Bugey or similar. '[?Morgie]' is a tentative reading of the ski resort name from previous year. '[?accueil]' is a tentative reading. Year cannot be confirmed from this page alone; the August 15th Wednesday date fits e.g. 2007 but other years are possible."
+    },
+    {
+      "page_id": "B_0131_R",
+      "side": "R",
+      "handwritten_page_no": 69,
+      "blank": false,
+      "full_text": "to the left\n\n[route sketch — see notes]\n\nThe gorge widened to become a plain with vinyards on south-facing slopes as we approached Chambery.\n\nahead to the right\n\nWe drove north on the motorway to Dijon, then took the main road. At [?Lenglary], we found a restaurant with just \"Menu du jour €13\" outside the door. It was delicious, all for £10 each — prosciuto & melon, chicken & potatoes lashed in cream, 2 cheeses, apricot flan, coffee & chocolate & red wine. We bought bread at the bakers & continued on to beyond Troys, Camp Municipal, __Méry-sur-Seine__ **. We've crossed the Rhône-Rhine canal today & the Saûne & the Seine. The weather cheered up after Dijon, but all the rivers & streams look very swollen.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Méry-sur-Seine"],
+      "place_mentions": ["Chambery", "Dijon", "[?Lenglary]", "Troys", "Camp Municipal", "Méry-sur-Seine", "Rhône-Rhine canal", "Saûne", "Seine"],
+      "route_sketch": true,
+      "route_sketch_description": "A hand-drawn cross-section / profile sketch occupying the top third of the page, showing mountain or valley silhouettes drawn in blue ink. Two annotation labels: 'to the left' (pointing left) and 'ahead to the right' (pointing right/forward). The sketch appears to illustrate the view from the road — mountains/ridges visible to the left and ahead-right as the vehicle travelled through a valley or gorge.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page number 69 visible in top-right corner. '[?Lenglary]' is uncertain — could be Langres, or a village name; the 'y' ending makes Langres less likely but it is on the route Dijon→Troyes. 'Troys' is the diary's spelling of Troyes. 'Saûne' appears to be the diary's spelling of Saône. 'Méry-sur-Seine' is underlined and followed by '**', indicating overnight stop. The route sketch annotations 'to the left' and 'ahead to the right' describe mountain views seen from the road."
+    }
+  ]
+}

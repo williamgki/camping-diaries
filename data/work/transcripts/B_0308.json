@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0308",
+  "volume": "B",
+  "pdf_page": 308,
+  "pages": [
+    {
+      "page_id": "B_0308_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Thursday May 10th.\nWe left at 9.30 & came south, as directed by David, through Meymac, Bort, Riom, Florenc. We are camping on R. Hepault (wine growing) near caves of the Madelons. We have passed over causse, very dry limestone, gorsey not farmland. Down here it's warmer & grapes are harvested.\n\nFriday\n[?Deny] RH died on Wed. Olivia Tufnoll died [strikethrough: Thu] Friday\nWe are in camping d'Anglas near Brossac.\nA beautiful meadow with the sound of a river.\nWe saw those amazing caves - Grotte dos-demoisell[?es]\nMillions of years old. Just after lunch at Ganges David Fellowes rang to say Ols has died (She had died just before noon.)\nWe returned to the camp via a supermarket.\nSimon swam. We ride bikes to the shower house.",
+      "dates": [
+        { "raw": "Thursday May 10th.", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Thursday May 10th."],
+      "underlined_places": ["Florenc"],
+      "place_mentions": ["Meymac", "Bort", "Riom", "Florenc", "R. Hepault", "Madelons", "causse", "camping d'Anglas", "Brossac", "Grotte dos-demoisell", "Ganges"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Photos of cave interiors (stalactites/stalagmites) are glued along right margin of left page. 'Florenc' is likely Florac (village in Lozère/Hérault area of southern France). 'R. Hepault' is likely the River Hérault. 'caves of the Madelons' may be Grotte des Demoiselles (also called Grotte des Demoiselles, near Ganges, Hérault). 'Grotte dos-demoisell' is a partial reading — likely 'Grotte des Demoiselles'. 'Brossac' may be Brissac (commune in Hérault near the Grotte des Demoiselles). First word of Friday entry unclear — reads like '[?Deny]' but may be a name or word. 'RH' and 'Ols' are personal references, not place names. Year not determinable from page content alone — May 10 was a Thursday in 2007, 2012, and 2018 within volume B range (2003–2019)."
+    },
+    {
+      "page_id": "B_0308_R",
+      "side": "R",
+      "handwritten_page_no": 9,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Page is entirely filled with glued-in photographs of cave interiors showing stalactites and stalagmites, likely from the Grotte des Demoiselles. A handwritten page number '9' appears at the top right corner. No other text present."
+    }
+  ]
+}

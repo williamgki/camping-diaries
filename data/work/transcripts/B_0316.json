@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0316",
+  "volume": "B",
+  "pdf_page": 316,
+  "pages": [
+    {
+      "page_id": "B_0316_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Friday 28th Sept  4 pm\n  Simon, Eve, Tinder → __Dornston__.\nCampsite with Fort Laramie + tilted horse! Lots of trees + flat but glorious sunshine + walk. We saw St. Nicholas church. V. old buttresses. There will be a WW1 [?tedoro] lecture on the 6 mo. when Alexander Kirby was killed. (Nov 9th). Peaceful walk.\n\nSat 29th\nNight freezing cold. Tummy ache. Old pâté or beans? Heat has built up during the day. Another super walk + blackberrying + damsoning. Beautiful houses. Sheep, cows, horses, Shetland ponies, Llamas. Heron.\n\nlunch + home.\n\nApril 5th 2019\nSimon, Eve + Tinder come to near Barnsley. Arrived 5:30. Stoking[?field] new Cotswold stone shower block powered by wood stove.\n15 [illegible]",
+      "dates": [
+        { "raw": "Friday 28th Sept", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Sat 29th", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "April 5th 2019", "iso_guess": "2019-04-05", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": ["Dornston"],
+      "place_mentions": ["Dornston", "St. Nicholas church", "Barnsley"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Two distinct diary entries on this page. The first (Friday 28th Sept, Sat 29th) lacks a year — could be late 2018 or another year; no year evidence on the page itself. The place 'Dornston' is underlined; could also read 'Dornston' or possibly 'Dornstone'. The word before 'lecture' is unclear — reads like 'tedoro' or similar, possibly 'tedious'. 'Stoking[?field]' near Barnsley is a campsite name; could be 'Stokingfield' or 'Stokefield'. The April 2019 entry is confirmed by the year written in the diary. Bottom of page text partially cut off — reads '15' followed by illegible text. Photo on lower right appears to show a large Elizabethan/Jacobean stone manor house with no visible caption."
+    },
+    {
+      "page_id": "B_0316_R",
+      "side": "R",
+      "handwritten_page_no": 6,
+      "blank": false,
+      "full_text": "6.45. Charles arrived. Supper in the van. Then we sat in Charles' van to warm up. Then we went up to toilet block to see warm community room with stove. Cold in the night. Horribly cold.     Ashen Mains campsite.\n\n[photo of golden dragon/serpent weathervane against blue sky]\n\n[rotated caption:] Newark Park, Gloucs\n16th century weathervane\non Tudor hunting lodge",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ashen Mains campsite", "Newark Park", "Gloucs"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Newark Park, Gloucs / 16th century weathervane / on Tudor hunting lodge"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page number '6' visible at top right. This page continues the April 2019 entry from the left page. 'Ashen Mains campsite' appears to be the campsite name near Barnsley. The photo shows a gilded/golden weathervane in the form of a dragon or sea-serpent; the caption (written vertically/rotated) reads 'Newark Park, Gloucs / 16th century weathervane / on Tudor hunting lodge'. Newark Park is in Gloucestershire. The text at top continues from the left page's April 5th 2019 entry."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0116",
+  "volume": "B",
+  "pdf_page": 116,
+  "pages": [
+    {
+      "page_id": "B_0116_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "delicious!\n__Saturday__\nWe slept well & it was a bit chilly in the morning so we breakfasted in the van. Then Naomi took Thomas to Banbury Station to go back to play a concert at St. Augustines. She returned & we had coffee before setting off for __Stowe__.\nWe walked near the Elysian field which was very beautiful. Lots of temples & pillars, & views. It was built by Lord Cobham, 1760? Lovely big trees & places to picnic. Sold to NT by school in 1989.",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["Stowe"],
+      "place_mentions": ["Banbury Station", "St. Augustines", "Stowe", "Elysian field"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page number not visible in top-left corner of this left-hand page. The text 'delicious!' at the top is a continuation from the previous page. 'St. Augustines' could refer to St Augustine's church/venue. 'Lord Cobham, 1760?' — the diarist adds a question mark themselves. 'Sold to NT by school in 1989' refers to the National Trust acquisition of Stowe. One glued-in photo of Stowe gardens (colonnade/temple building). Year cannot be firmly established from this page alone; context suggests this is a weekend trip sometime during the volume's 2003–2019 range."
+    },
+    {
+      "page_id": "B_0116_R",
+      "side": "R",
+      "handwritten_page_no": 55,
+      "blank": false,
+      "full_text": "We walked, had a picnic at the van & walked again & had a cup of tea. V. large fish, geese.\n\nWe were very lucky with the weather. As we drove from the carpark (Naomi to visit Keisha in Suffolk, Simon & Eve home) to the lodge, it started to rain again. It was a very good weekend, not least because Naomi taught us what kissing gates are for.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Suffolk"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Handwritten page number 55 visible in top-right corner. Two glued-in photos of Stowe garden buildings — one showing a columned temple/Palladian building, one showing a rotunda/temple reflected in a lake. The text 'kissing gates are for' appears to continue or be cut off at the right margin but the sense is complete as a knowing remark. 'Keisha' is a person's name, not a place. The lodge mentioned likely refers to the Stowe lodge/gatehouse."
+    }
+  ]
+}

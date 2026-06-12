@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0338",
+  "volume": "A",
+  "pdf_page": 338,
+  "pages": [
+    {
+      "page_id": "A_0338_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday May 3rd. We left at 3 pm, Simon, Eve, Tonic, to go north. __Quarry Bank Mill__ & the __Styal Estate__ are just south of Manchester. In 1785 Samuel Greg founded a water-powered cotton mill & built the village of Styal for his workers. We arrived so late that only the woods (& shop - calico (Calcutt) shirt + apron bought) were open. Lots of water at different levels. Beech trees at the top of the valleys on the ridges.\n\n   On to __Manchester__, supper in a car park, to hear Thomas play in Strauss' 1868-1946 \"Metamorphoseus\". Very sad. Racki played too & we heard Wei Mi do a solo. (Racki + Lizzie & Katrin stayed at our house last w/end before the Quartet's playing at Stratford). We camped outside Thomas' Victoria Halls of Residence.\n\nSunday May 4th. (Eve + Tonic characteristically back dogs near [illegible]). Thomas arrived at 9.30. we picked up Owen & set off for __Tatton Park__ The gardens are beautiful, but Simon thought the outer park landscape even more magnificent. We saw a dove tree with white handkerchiefs. The kitchen garden has green houses being restored - we could",
+      "dates": [
+        { "raw": "Saturday May 3rd", "iso_guess": "2003-05-03", "confidence": 0.45 },
+        { "raw": "Sunday May 4th", "iso_guess": "2003-05-04", "confidence": 0.45 }
+      ],
+      "headings": ["Saturday May 3rd", "Sunday May 4th"],
+      "underlined_places": ["Quarry Bank Mill", "Styal Estate", "Manchester", "Tatton Park"],
+      "place_mentions": ["Quarry Bank Mill", "Styal Estate", "Manchester", "Stratford", "Tatton Park"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Year not explicitly stated on page. Volume A covers 1989-2003 and this is near the end (pdf_page 338 of 350). The date 'Saturday May 3rd' matches 2003 (Saturday = May 3 2003). 'Strauss 1868-1946' likely refers to Richard Strauss and 'Metamorphoseus' is likely 'Metamorphosen'. The word after 'characteristically' is partially illegible — reads something like 'back dogs near' but context unclear. 'Calcutt' may be a misread; could be 'Calicutt' or a brand name."
+    },
+    {
+      "page_id": "A_0338_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "see arched bricks of underfloor heating for 83 greenhouses. We walked around a beautiful Japanese garden but were not allowed in. Gorgeous gunnera beside a massive pond, covered in horse manure.\n\n   We drove a short way into __Knutsford__ & walked around. Very + pretty, expensive town, narrow streets, 3 expensive kitchen shops + dress shops, all shut. We had lunch at Casa Pilinca. Delicious. They made a fuss of Tonic tied up in kitchen courtyard. Trains were too infrequent so we drove Thomas & Owen back to Manchester & set off home, having tea at Keele services.\n\n__Friday May 23rd__.\n   We left at 5.35. (Simon, Eve & Tonic). The motorway traffic was stationary so we went on back roads to __Malvern__ for the 7. concert. We reached Worester at 6.43... but just made it running into Big School as the orchestra arrived. We were very proud to have a child playing in",
+      "dates": [
+        { "raw": "Friday May 23rd", "iso_guess": "2003-05-23", "confidence": 0.5 }
+      ],
+      "headings": ["Friday May 23rd"],
+      "underlined_places": ["Knutsford", "Malvern"],
+      "place_mentions": ["Knutsford", "Casa Pilinca", "Manchester", "Keele services", "Malvern", "Worester"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.87,
+      "notes": "The 'Friday May 23rd' section switches to green ink. 'Worester' is the diary's spelling of Worcester. 'Casa Pilinca' is the diary's spelling — could be 'Casa Pilina' or similar restaurant name. 'Friday May 23rd' matches 2003 (Friday = May 23 2003), consistent with 'Saturday May 3rd' on left page. 'Keele services' is on the M6 motorway. The page is cut off mid-sentence at 'playing in'."
+    }
+  ]
+}

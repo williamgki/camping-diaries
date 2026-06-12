@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0171",
+  "volume": "A",
+  "pdf_page": 171,
+  "pages": [
+    {
+      "page_id": "A_0171_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "On the way we passed through __Hartley Wintney__ + stopped to see Peter + Belinda. We shared supper on the kitchen table - we provided Bacon sandwiches + they contributed smoked salmon. We saw to goats, dogs, birds + rabbits too.\n      On [the] to __Farnham__, + after the children were in bed on the drive we chatted to Mary + Richard, her parents, brother, [Lee/Bec], wife, Deana + their children while they all had lasagna. Richard Hendon was there too.\n   The next [Sunday] day we walked to the church, It rained. George got lost twice. We went to the reception at [?Quenetter] + saw Jane + Harry, Sally + her family + David Maxine + the girls, Tim with a dreadful beard with his family + the new arrival Cains.\n   We got home about 7pm.\n~~Saturday~~ Friday October 22nd.\n   The seven of us set off for __London__ at 10.20. We arrived at Pickett's lock, [?sa] [?Vallba leisure] centre. (Cinema) *** Depressing too, but nice to come home to a movie. The managers were abrupt.\n   The weather was marvellous all 3 days.\n      Simon, V+A ; Thomas Planetarium + Sims; William, Planetarium + Sims; Peter Planetarium +",
+      "dates": [
+        { "raw": "Friday October 22nd", "iso_guess": "1995-10", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Hartley Wintney", "Farnham", "London"],
+      "place_mentions": ["Hartley Wintney", "Farnham", "London", "Pickett's lock"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.75,
+      "notes": "Page begins mid-paragraph, continuing from a previous spread. No handwritten page number visible at top-left. The right margin has partially cut-off text which appears to be a column of abbreviated notes running alongside the main text; these are not fully legible. The date heading is written as 'Saturday' with a strikethrough, followed by 'Friday October 22nd' — the day-of-week and date combination does not align cleanly with any year in the volume range (e.g. in 1994 Oct 22 was a Saturday; in 1995 it was a Sunday; Friday Oct 22 aligns with 1999). However, film references on the facing page (Pocahontas, Apollo 13, Nine Months) place this firmly in 1995, when those films were in UK cinemas. The writer may have written the wrong date or day. Year given as 1995 with low confidence. '[?Quenetter]' is unclear — could be a surname or a venue name for a reception/wedding. 'Sims' likely refers to a person (Sims family). 'V+A' = Victoria and Albert Museum."
+    },
+    {
+      "page_id": "A_0171_R",
+      "side": "R",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "British museum; John Planetarium + films.\nCharles Planetarium + films, Eve V+A Ivories + Liberties.\n   We had lunch + bought day tickets + went to the Victoria + Albert Museum. We saw beautiful ivories + an Elizabethan portrait. We had tea. We went into the Friends of the V+A room + had tea + saw [?Chad Hadkins].\n   We tried to get tickets for Starlight Express at the Adelphi, but there weren't any. We saw the Chad lights in the bar upstairs.\n   We bussed + trained back, queued for movie tickets + gobbled supper in the movies. E, T, W, P went to the Net; E, J, C, went to Pocahontas.\n   Sunday We had a frustrating journey into London, + arrived in time for a sung [?Each] at Westminster Abbey, + glimpsed Peter Portal. We lunched at Pizza Hut + went on to the Planetarium. The films made Eve feel sick + brought on a migraine to add to her tooth ache.\n   We had Tea watching tennis in Regents Park.\n   We returned to the campsite.\nTWSJC saw Apollo 13, E+P saw 9 Months. We had supper in the van before the movies",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "1995-10", "confidence": 0.35 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["British museum", "Victoria + Albert Museum", "Adelphi", "Westminster Abbey", "Pizza Hut", "Planetarium", "Regents Park", "London"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.82,
+      "notes": "Handwritten page number '2' visible in top-right corner. The last two lines ('TWSJC saw Apollo 13, E+P saw 9 Months. We had supper in the van before the movies') are written in red ink, the rest in blue. Film references: 'Pocahontas' (Disney, UK release autumn 1995), 'Apollo 13' (UK release August 1995), '9 Months' (US/UK 1995) all strongly support 1995. 'The Net' is a 1995 film (UK release). '[?Each] at Westminster Abbey' could be 'Eucharist' (a sung Eucharist). '[?Chad Hadkins]' is unclear — possibly a person's name. 'Chad lights' is unclear — possibly a reference to a bar decoration or display at the Adelphi. 'Peter Portal' may refer to a person glimpsed at Westminster Abbey. 'TWSJC' are likely initials of family members (T=Thomas, W=William, S=Simon, J=John, C=Charles). Left margin has partial gutter text from left page — not re-transcribed."
+    }
+  ]
+}

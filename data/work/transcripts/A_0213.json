@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0213",
+  "volume": "A",
+  "pdf_page": 213,
+  "pages": [
+    {
+      "page_id": "A_0213_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "pool, & the grown-ups chatted. We were sitting next to boys called Xavier, Sabrien, Willi & Thibaut. On our other side were 2 local women from Cassanionze. As we were about to go, dancing started in the horseshoe space between the tables - the Hokey Cokey, including putting your tongue in & out. We danced for a bit & then went to bed at [10:20]. The music continued until 2am.\n\n__Friday 8th August.__\n\nCharles is tired. A restful day, wasp-killing, ping pong, icecreams, swimming, boating. Simon has filled the water tank using buckets, so that he doesn't have to drive down to the tap. In the evening Peter & William & Simon & Eve play bridge. Thomas is being a pain.\n\n__Saturday 9th August__\n\nWe packed up & drove to Entraigues, had coffee in the lovely square with its canopy of plane trees. We met an English family. Charles chose yet another tractor - bought as his birthday present by Thomas.",
+      "dates": [
+        { "raw": "Friday 8th August", "iso_guess": "1997-08-08", "confidence": 0.4 },
+        { "raw": "Saturday 9th August", "iso_guess": "1997-08-09", "confidence": 0.4 }
+      ],
+      "headings": ["Friday 8th August.", "Saturday 9th August"],
+      "underlined_places": [],
+      "place_mentions": ["Cassanionze", "Entraigues"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page starts mid-text, continuing from previous spread. No handwritten page number visible at top-left (top of page cropped/obscured). 'Cassanionze' could also read 'Cassanionge' or 'Cassanionze' — likely a French place name near Entraigues. 'Sabrien' is an uncertain reading; could be 'Fabrien' or 'Sebastien' abbreviated. The time '10:20' is written as a superscript annotation between 'bed at' and 'The'. Year is uncertain — Friday 8 August and Saturday 9 August is consistent with 1997, 1986, 1991, 2003 etc.; year not firmly supported by the page itself. The volume covers 1989-2003."
+    },
+    {
+      "page_id": "A_0213_R",
+      "side": "R",
+      "handwritten_page_no": 43,
+      "blank": false,
+      "full_text": "We had lunch in a shady lay-by. Mint was growing nearby. It was very hot & the road was windy. At 5.0 we reached the amazing Aven Armand caves. Tho[se] are the best caves which Simon & I have been in. They are 1 million years old ...\n\nthen ...\n\nThe cave is big enough to sit Notre Dame Paris inside.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Aven Armand", "Notre Dame Paris"],
+      "route_sketch": true,
+      "route_sketch_description": "Two small hand-drawn sketches of cave formations/stalagmites, one above 'then ...' and one below. The sketches appear to show the interior profile of the cave with tall stalagmite columns. No place labels or arrows — illustrative rather than a route diagram.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page contains a glued-in pressed/dried leaf (no caption). There is a large glued-in photograph of cave stalactites and stalagmites, presumably Aven Armand. Text partially obscured by the photo; some words on the left margin are cut off by the gutter/photo overlap. 'Tho[se]' — end of word runs off the right edge of the left image and is confirmed by 'are the best' on the right page. 'Notre Dame Paris' is the writer's comparison — not a place visited. Handwritten page number '43' visible at top-right corner. Route sketch flagged as true for the two cave interior sketches, though they are illustrative drawings rather than a map."
+    }
+  ]
+}

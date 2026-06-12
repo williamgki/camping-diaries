@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0239",
+  "volume": "A",
+  "pdf_page": 239,
+  "pages": [
+    {
+      "page_id": "A_0239_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "reached our room at 3am. In the [?a+d] ambulance John had a pill up his bum + oxygen in his nose + stopped feeling sick + was fine. We were finally let out at 1.0 pm.\n__Monday 3rd August__\n\tSimon + the boys slept on the carpark + shopped at a supermarket.\n\tWe caught the 4.0 ferry to __Ornes__ + reached a marvellous stave church\n[Photo caption: A model of two Edwardians on their Harley Davigon at the Solomon museum]\nWe could climb up into the gallery + see beautifully carved capitals. Three families had private box pews, one of them still lives in the village - Bugge. Stave churches are built with very strong vertical pillars",
+      "dates": [
+        { "raw": "Monday 3rd August", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Monday 3rd August"],
+      "underlined_places": ["Ornes"],
+      "place_mentions": ["Ornes"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["A model of two Edwardians on their Harley Davigon at the Solomon museum"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page is a continuation — text begins mid-sentence ('reached our room at 3am'). No handwritten page number visible in top-left corner. The word after 'the' before 'ambulance' is unclear — possibly an abbreviation or word like 'a+d' or 'A&E'; written as '[?a+d]'. 'Harley Davigon' appears to be the diarist's spelling of 'Harley Davidson'. 'Solomon museum' may refer to a local museum; could alternatively be read as 'Solvorn museum' or similar Norwegian place — noted as uncertainty. 'Ornes' is the ferry destination; this is a place on the Sognefjord / Lustrafjord in Norway, consistent with Urnes Stave Church nearby (spelled 'Urnes' on the ticket on the right page). Year cannot be confirmed from this page; Norway trip within 1989–2003 range. Text continues at right edge of page (partially visible: 'in', 'vil[lage]', 'Th[e]', 'th[e]', 'ha[d]', 'the') — this is the gutter overlap and belongs to the right page."
+    },
+    {
+      "page_id": "A_0239_R",
+      "side": "R",
+      "handwritten_page_no": 67,
+      "blank": false,
+      "full_text": "[Glued-in ticket: URNES STAVKYRKJE / FORENINGEN TIL NORSKE FORTIDSMINNES- MERKERS BEVARING / Kr. 80,- / 027]\n\nWe found a beautiful valley to camp in, with a lake (drinking-water for the village, so no swimming) views of waterfalls. There was alot of rain in the night + the waterfalls increased in size; they haven't formed clefts in the hillside, they just pour out over the rocks.\n__Skjolden__,** [?too] above the head of [?Luster] fjord\n\n__Tues 4th [?August]__\t\t__Borgsdalen__\n\tWe left in a drizzle + went up a steep road - 8% for 10 km. It went on + on to a high area, Very barren + misty + mysterious; a crew of a glacier. Stupid",
+      "dates": [
+        { "raw": "Tues 4th [?August]", "iso_guess": null, "confidence": 0.45 }
+      ],
+      "headings": ["Tues 4th [?August]", "Borgsdalen"],
+      "underlined_places": ["Skjolden", "Borgsdalen"],
+      "place_mentions": ["Urnes Stavkyrkje", "Skjolden", "Luster fjord", "Borgsdalen"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.84,
+      "notes": "Handwritten page number 67 visible at top-right corner. A glued-in admission ticket for Urnes Stavkyrkje (Urnes Stave Church) is at the top of the page, printed text reads 'URNES STAVKYRKJE / FORENINGEN TIL NORSKE FORTIDSMINNES- MERKERS BEVARING / Kr. 80,- / 027'. 'Skjolden' is underlined and followed by '**' (two asterisks, possibly a rating) and a partially legible word that may be 'too' or 'just'; then 'above the head of [?Luster] fjord' — Luster/Lustrafjord is the correct geographic name for this area. 'Borgsdalen' is underlined and appears as a heading on the same line as the date. The month in 'Tues 4th [?August]' is partially unclear but consistent with 'Monday 3rd August' on the left page. 'a crew of a glacier' likely means 'a view of a glacier'. Text ends mid-sentence — continues on next spread. Year cannot be confirmed from page content; Norway camping trip within 1989–2003."
+    }
+  ]
+}

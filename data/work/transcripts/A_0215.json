@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0215",
+  "volume": "A",
+  "pdf_page": 215,
+  "pages": [
+    {
+      "page_id": "A_0215_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "in France. A woman in a bright orange dress led the singing. The priest was friendly & had a very clear voice, as did the 2 men who read. It was about \"bread\". It was a small CxII church, with beautiful stone vaulted ceiling.\n\n   Another Renault Master van has parked next to us, only the 3rd that we've seen, very high-tech.\n\n[SKETCH: drawing of stone bridge with arches, two figures beneath]\n\nBridge we crossed to reach Malène.\nThe Frenchman from Lille showed us inside his van. It was like an Aladin's cave – floor-ceiling shelves all around for boxes & only 2 tiny side windows. Stuffy & no view. 2 bikes are strapped on the back doors. 2 children & a 5 mo baby.\n\n[right margin, vertical]: Samira Eve William — A Parisian has bought a",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["France", "Malène", "Lille"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn sketch of a large stone bridge with multiple arches. Two small human figures are shown beneath the bridge. Captioned 'Bridge we crossed to reach Malène.'",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "'CxII' likely means C12 (12th century). The right margin has vertical text that continues onto the right page: 'Samira Eve William — A Parisian has bought a [4-house village on the west bank, for holidays, which can only be reached by boat]'. No handwritten page number clearly visible in top-left corner."
+    },
+    {
+      "page_id": "A_0215_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[left margin, vertical, continuation from left page]: A Parisian has bought a 4-house village on the west bank, for holidays, which can only be reached by boat\n\n[postcard/photo label]: LES GORGES DU TARN\n\nSamira, Eve, William & Peter went on one boat. Eric took Thomas, John + Charles + 2 Strangers.\n\nHe was very particular about weight distribution. He used the motor but [?let] it up & [?punted] over rapids, ski[lfully] using the current\n\n[?]oop [?founded] 1952. 9 Boatman. [?Respect] [illegible] [illegible]ould [illegible]ack.",
+      "dates": [
+        { "raw": "1952", "iso_guess": "1952", "confidence": 0.7 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Gorges du Tarn"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["LES GORGES DU TARN"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.7,
+      "notes": "The right page has a glued-in postcard/photo labelled 'LES GORGES DU TARN' showing a kayaker in the gorge. Text below the photo describes a boat trip with family members named Samira, Eve, William, Peter, Eric, Thomas, John, Charles. The year '1952' likely refers to the founding/establishment of a boatman cooperative or similar (9 Boatman). The final lines are partially illegible. The left margin text runs vertically and is a continuation of the marginalia from the left page."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0215",
+  "volume": "B",
+  "pdf_page": 215,
+  "pages": [
+    {
+      "page_id": "B_0215_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Petworth\nlimewood\n[?ext]\nlinewood\nGrinling\nGibbons\n1690\ncarvings",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Petworth"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Petworth limewood [?ext] linewood Grinling Gibbons 1690 carvings"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.7,
+      "notes": "Page is dominated by a glued-in colour photograph of ornate wood carvings. The handwritten caption above the photo is partially legible; the text reads something like 'Petworth / limewood / [one word unclear, possibly 'ext' or part of a longer word] / linewood / Grinling / Gibbons / 1690 / carvings'. Petworth House is famous for Grinling Gibbons' limewood carvings. Some caption lines are hard to distinguish from each other."
+    },
+    {
+      "page_id": "B_0215_R",
+      "side": "R",
+      "handwritten_page_no": 35,
+      "blank": false,
+      "full_text": "enormous Capability Brown gardens/\npa[r]k, with Timber.\n\tWe tried to see a bit of Salmon's\nBridge Farm, the Campins home that\nSimon visited when he was 10, then\ncontinued on to Jane in Churt.\n\tWe had supper & slept at\nLongwood House\n__Tuesday__\n\tSimon drove us to the factory,\nAsh Vale & Jane & Eve caught the\ntrain to go to the Light box\nexhibition on Gertrude Jekyll 1843-1932.\nWe met up with Julie Aldam for 20\nminutes. She pointed us on our walk\nto Kate Ruby's House. Simon got there\nbefore us. Kate was there with Dora\n& Mylo who slept all the time.\n\tAfter lunch we drove Jane back\nto Churt & went on to Surs [Jew]",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Tuesday"],
+      "underlined_places": [],
+      "place_mentions": ["Salmon's Bridge Farm", "Churt", "Longwood House", "Ash Vale", "Surs [Jew]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page continues from a previous page (text begins mid-sentence with 'enormous Capability Brown gardens'). The last word on the page is cut off — reads 'Surs Jew' or possibly 'Surs [illegible]'; could be a place name but is unclear. 'Ash Vale' is a place in Surrey. 'Longwood House' could be a private house or campsite. 'Salmon's Bridge Farm' is mentioned as the Campins family home that Simon visited as a child. The Gertrude Jekyll exhibition is at the 'Light box' (a gallery in Woking, Surrey). No year is directly stated on this page; Surrey locations and the Light Box gallery suggest a date post-2007 (when the Light Box opened), within the volume range 2003-2019. Year left as null. 'Tuesday' is underlined as a day heading."
+    }
+  ]
+}

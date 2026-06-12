@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0154",
+  "volume": "A",
+  "pdf_page": 154,
+  "pages": [
+    {
+      "page_id": "A_0154_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday July 2nd.\n      Simon & Eve took supper over to __Malvern common__ for Jim, Margaret, & Helen & Reg Farrer. Thomas came running up late. Thomas played Mozart Rondo in C in Big School. Mary Cohen & Jim & Margaret & Helen & Mary came back for a cup of tea & cashew nuts after the concert.\n\n11am Tuesday July 25th\n      Simon, Eve, Thomas, Peter, John & Charles set off for Spain via Venetia & Southampton. (William in Colorado & Alaska). See map near index.\n      We had tea at Venetia's, seeing Olivia, George, Tilla & Archie. Laura & Jack left Cordelia & Helena to play. We had a lovely tea in the hot sun. But V has just been burgled, the guinea pig has died, the puppy stolen & they've building a horrible commerical shed in the next-door field. The new cottage next door is being done up, with the fellowes painting it.\n      The ferry left at 8 pm & got in at 7am on Thu. It was rather sickening.\n      We motored to __Castro Urdiales__. We walked up to the church which had",
+      "dates": [
+        { "raw": "Sunday July 2nd.", "iso_guess": "1989-07-02", "confidence": 0.95 },
+        { "raw": "11am Tuesday July 25th", "iso_guess": "1989-07-25", "confidence": 0.95 }
+      ],
+      "headings": ["Sunday July 2nd.", "11am Tuesday July 25th"],
+      "underlined_places": ["Malvern common", "Castro Urdiales"],
+      "place_mentions": ["Malvern common", "Spain", "Venetia", "Southampton", "Colorado", "Alaska", "Castro Urdiales"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Both 'Sunday July 2nd' and 'Tuesday July 25th' are only consistent with 1989 within the volume's 1989-2003 range. 'Venetia' is a person's name, not a place. 'See map near index' annotation in text. 'commerical' is the diary's spelling. 'fellowes' may be a surname."
+    },
+    {
+      "page_id": "A_0154_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "an interesting frieze of sculptures around the top. The town had lovely balconies & a market where we bought food. John & Charles went in the playground. Thomas bought Cadbury's sweets when we had coffee.\n      We had lunch & swam at Mogro. The tide was coming in & covering up John's & Charles' holes in the sand. Peter had a lilo. The current was strong.\n      We drove on to a campsite __Santillana de Mar__. The view is of a grassy hillside. There is a pool & restaurant & playground & lots of Brits in Key Camps. In the evening Simon & Eve walked past a field with cows in down to the \"prettiest village in Spain.\" The courtiers from Cadiz built stone houses there, now lived in by farmers. It is beautiful in all directions. (St. Juliane = Santillana)\n\nFriday 28th July\n      We rigged up shade & Eve washed clothes in the machine.\n\n      We swam, had lunch, napped, swam, had icecream, a cup of tea, and at 5.30. pm. set off down the hill for",
+      "dates": [
+        { "raw": "Friday 28th July", "iso_guess": "1989-07-28", "confidence": 0.95 }
+      ],
+      "headings": ["Friday 28th July"],
+      "underlined_places": ["Santillana de Mar"],
+      "place_mentions": ["Castro Urdiales", "Mogro", "Santillana de Mar", "Spain", "Cadiz"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Friday 28th July is consistent with 1989. 'Key Camps' is a holiday company brand. 'St. Juliane = Santillana' is an annotation explaining the village name. 'Mogro' is a beach/village on the coast of Cantabria. The right page is a continuation from the left page — Castro Urdiales church description picks up mid-sentence at top."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "spread_id": "B_0356",
+  "volume": "B",
+  "pdf_page": 356,
+  "pages": [
+    {
+      "page_id": "B_0356_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Wednesday August 25th\n5.45. left home for farm. Supper with William. Saw children before bed.. V peaceful in their bedrooms.\n\nThursday\n__Simon__ tested hop machines. I was in house while Joseph on puzzle lesson zoom. We located hop black boxes for teas. Came home.\n\nSunday August 26th\n4.30. Simon, Eve + Tinder have left to go hop picking. It went well. Simon fixed machines. Eve made rag dolls with Nina, Backgammon with Seb, sewed a draw string bag with Joseph. Country life filmed the family at Newnham hops. Home on Friday. Back to farm Sunday. Home on 8th William's birthday morning.\nFriday 9th Sept back to farm. Rain. Simon continued to work on machines. Bon fest in the Woods. Swimming. Aga not yet on.\nTuesday 14th September Home\nThursday 23rd Sept Simon picked Eve up from dentist & we're off at [?B] 11.15. to see Charles apple counting in Kent. Manually by Richard & Mary in daylights",
+      "dates": [
+        { "raw": "Wednesday August 25th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sunday August 26th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Friday 9th Sept", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Tuesday 14th September", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Thursday 23rd Sept", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["farm", "Newnham hops", "Kent"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible at top-left. Year cannot be confirmed from this page alone — volume covers 2003-2019, and the technology references (Google Maps navigation, zoom puzzle lesson, farm machinery with cameras) suggest 2010s. 'Tinder' appears to be a person's name or a dog's name, not the app. 'Bon fest' could be 'Bon fete' or similar. '[?B]' before '11.15' is a partially legible letter/abbreviation. 'daylights' at bottom of page continues on right page."
+    },
+    {
+      "page_id": "B_0356_R",
+      "side": "R",
+      "handwritten_page_no": 57,
+      "blank": false,
+      "full_text": "by machine in the dark.\nWe arrived at 3. Tea with Richard + Mary, George + Charles + Tom. Richard + Mary had been counting apples for 2 or 3 days (almost grounds for divorce.) Charles took car to get machine (overgrown golf buggy that US uses for hunting, electric) from secure farm lock up. We have supper with Charles in van. Then first I, then Simon go out in buggy with Charles. Counting apples. 2 lights + screens, 2 cameras. Each camera takes 17 pics per second, 2 miles per hour, every 5th row. At night. Data analysed: size of apples. No of apples, in\nReading.\n\n__Friday__ Charles arrived for breakfast promptly at [?8].9. He had left the buggy (cheeky) in the campsite with us overnight as he had done another farm at 10p[m] + got locked out of the secure farm building. At 10 we left for home. Simon needs to get home to exchange contracts on the factory building. A dreadful traffic jam. Google advised us to go up towards Cambridge after the Dartford Tunnel (M11) + we need to get to the solicitor.\nWed + Thu, 6th + 7th Oct, Simon used van to pick up lights + work bench from Chad, as he's selling the [?factory] building.",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Wed + Thu, 6th + 7th Oct", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Friday"],
+      "underlined_places": ["Friday"],
+      "place_mentions": ["Kent", "Cambridge", "Dartford Tunnel", "M11"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.83,
+      "notes": "Handwritten page number '57' at top-right. Text continues from left page ('by machine in the dark' is the continuation). 'Reading' appears as a place name (town in Berkshire) where data analysis was done. 'Dartford Tunnel' and 'M11' are road/infrastructure references in England. 'Friday' heading is underlined. '[?8].9' is a partially legible time — could be '8.9' (i.e. 8:09 or 8.9am). 'Chad' is likely a person's name. The word after 'selling the' is partially cut off at page bottom but appears to read '[?factory]'."
+    }
+  ]
+}

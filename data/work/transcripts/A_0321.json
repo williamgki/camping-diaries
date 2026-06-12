@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0321",
+  "volume": "A",
+  "pdf_page": 321,
+  "pages": [
+    {
+      "page_id": "A_0321_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "St. Michel d'Aiguilhe (XIe  porche roman",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Michel d'Aiguilhe"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["St. Michel d'Aiguilhe (XIe  porche roman"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page contains one large colour photograph of the Romanesque porch of St. Michel d'Aiguilhe chapel, with a handwritten caption above reading 'St. Michel d'Aiguilhe (XIe  porche roman'. Below the photo are two hand-drawn pen sketches of carved figures or reliefs (likely details from the Romanesque portal). No handwritten page number visible in top-left corner. Text at the right gutter edge is fragmentary and belongs to the right page."
+    },
+    {
+      "page_id": "A_0321_R",
+      "side": "R",
+      "handwritten_page_no": 66,
+      "blank": false,
+      "full_text": "Sunday.  We were all tired.  the rain poured.  After Breakfast of very stale bread the rain lessened + we set off.  We found a bakery, bought croissants + bread + had a second breakfast.\n\tWe had a late lunch at Puy en Velay.  Then we climbed up the amazing hill to the chapel.  The \"hill\" is really the plug of an old volcano that has eroded away.  Romanesque  After a cup of tea we drove on [the?] to [change?] to campsite hes __Terrasses du Lac__  ****  [illegible] Lacde Neus[?]  at [?Langoues].  Lots of things to do, on the side of a hill, ping pong (old) pool, ping pong, tennis, riding, sailing, wind surfing.  A fantastic view of the setting sun across the lake.  The lake is rounder shape than the last one, about the same size, but not as interesting to swim/boat in.  Further to walk to it.\n\tPeter chopped the Salad for supper.  Eve played ping pong with John.  Simon took photos.  Charles washed his sandals, which stank.\nMonday\n\tWe had a very relaxing day, reading + playing ping pong.  There is a large, 3-sided barn over the 2 ping pong tables.  The boys",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": ["Terrasses du Lac"],
+      "place_mentions": ["Puy en Velay", "Terrasses du Lac", "Lacde Neus[?]", "[?Langoues]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.75,
+      "notes": "Handwritten page number 66 in top-right corner. The campsite name is underlined: 'Terrasses du Lac'. The location of the campsite is difficult to read; 'Langoues' is a tentative reading — could be 'Langeac' or another nearby Auvergne village. 'Lacde Neus' is also uncertain, possibly 'Lac de Naussac' or similar. There is a small annotation/correction with asterisks (****) between the campsite name and the lake name, partially illegible. The word 'Romanesque' appears mid-sentence, possibly a marginal annotation or continuation of a thought. The text is cut off at the bottom of the page mid-sentence. Year cannot be determined from the page itself; context (Puy en Velay area, handwritten page 66, volume position) suggests a trip to France, likely mid-1990s but year not confirmed."
+    }
+  ]
+}

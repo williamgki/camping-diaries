@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0263",
+  "volume": "A",
+  "pdf_page": 263,
+  "pages": [
+    {
+      "page_id": "A_0263_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__April 10th  1999  Saturday__\n\nJohn sang magnificently as Miles in the Turn of the Screw on Friday, & on Saturday at 9 am we set off for Sussex. We left Tonic [?at] kennels to be plucked, & continued on  to the Gravestocks in __Hove__. Jonathan, Charlotte, Abigail & Tom gave us a delicious lunch. We saw their tortoises, 2 baby tortoises, border terries, cat & aviary.  After the lunch we saw Jonathan's PDSA clinic, v. interesting, operating rooms, pills. 4 ½ vets. A dead kitten.  We walked & the boys rollerbladed in Preston Park  We returned to the Gravestocks for a cup of tea & Hot Cross Buns, before leaving for a campsite.\n     Passing Lancing College, we came to Steyning — v. pretty, but only one small hut with one loo & cold water basin, so we drove on to __Washington__ lovely clean modern loo block, continental, infra-red light comes on as you walk in. Expensive. Foot paths.  Thomas is practising his",
+      "dates": [
+        { "raw": "April 10th 1999 Saturday", "iso_guess": "1999-04-10", "confidence": 0.98 }
+      ],
+      "headings": ["April 10th  1999  Saturday"],
+      "underlined_places": ["Hove", "Washington"],
+      "place_mentions": ["Sussex", "Hove", "Preston Park", "Lancing College", "Steyning", "Washington"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Handwritten page number not visible — top-left corner obscured by binding. Top-right edge shows partial overlap text from right page: appears to read 'No. (?)pas / 70 / Wod.cent' — possibly editorial or campsite notes at top of right page. 'Tonic [?at] kennels' — the word after 'Tonic' is not fully clear, could be 'at' or an abbreviation. 'border terries' transcribed verbatim (likely 'terriers'). Text ends mid-sentence at foot of page, continuing on right page."
+    },
+    {
+      "page_id": "A_0263_R",
+      "side": "R",
+      "handwritten_page_no": 7,
+      "blank": false,
+      "full_text": "violin in the bushes.  Expensive £18 per night\n     __April 11th__  Glorious sunshine, breakfast at a convenient picnic table next to the van.  John & Charles have gone exploring.  John has already got one leg soaked in the stream (milky white from the chalk)\n\n[Hand-drawn sketch: architectural details labelled \"Brighton Pavillion\" showing emblem under ceiling frize, and serpent around palm pillar — labelled \"Salton\"]",
+      "dates": [
+        { "raw": "April 11th", "iso_guess": "1999-04-11", "confidence": 0.92 }
+      ],
+      "headings": ["April 11th"],
+      "underlined_places": [],
+      "place_mentions": ["Brighton Pavillion", "Salton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["emblem under ceiling frize", "Brighton Pavillion", "Serpent around palm pillar Salton"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page number '7' visible top right — could be a standalone handwritten diary page number or part of a larger number. The large hand-drawn sketch occupying the lower two-thirds of the page depicts architectural ornamental details from Brighton Pavilion: an emblem under a ceiling frieze (pencil drawing of a decorative column capital) and a serpent coiling around a palm pillar, labelled 'Salton'. These are pencil sketches glued in or drawn directly. 'Brighton Pavillion' is the spelling used in the sketch label (double-l). 'Salton' may refer to a specific location within Brighton Pavilion or could be a misread of 'Saloon'. 'frize' is verbatim (likely 'frieze'). The sketch is not a route map but an architectural study. Top of page continues sentence from left page: 'violin in the bushes.'"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0142",
+  "volume": "A",
+  "pdf_page": 142,
+  "pages": [
+    {
+      "page_id": "A_0142_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "than once.\n\tThey got back at 6.0.  No hot water at site for __Ste shower__\n\tMeanwhile Eve had carried at least 10 buckets of vomit across the campsite to the loos. Poor Peter had been feeling very sick. The sick feeling only went away in the night. Charles was very good. He talks incessantly.\n\t__Fri 28th Oct__ + Sat\n\tAnother beautiful morning. We decide to drive on to Cambridge. We see St. John's, Kettle's Yard, old St. Peter's church, Clare College; we walk along the Backs + go to Evensong at King's. We bus in from our campsite at Great Sheldon, but have to take 2 taxis back because, since privatisation, there are infrequent bus services to the villages. We have tea with Richard Holroyd + come home a day early because Eve is tired. Lunch at the Grad Pad was delicious. We find that an old trunk is still at the Bank in Cambridge.",
+      "dates": [
+        { "raw": "Fri 28th Oct", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Fri 28th Oct + Sat"],
+      "underlined_places": [],
+      "place_mentions": ["Cambridge", "St. John's", "Kettle's Yard", "St. Peter's church", "Clare College", "Backs", "King's", "Great Sheldon", "Grad Pad"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page begins mid-sentence ('than once.'), continuing from the previous spread. The annotation in the top-right margin above the 'Fri 28th Oct' heading reads 'Ste shower' or possibly 'St shower' — likely a marginal note about a shower facility at the site; transcribed as written. 'Fri 28th Oct' is underlined as a date heading. No handwritten page number visible in the top-left corner — top of image is cropped. Year cannot be confirmed from this page alone; 'privatisation' of bus services (UK deregulation 1986) is consistent with any year in 1989–2003. 'Great Sheldon' may be 'Great Shelford' — a village near Cambridge — but transcribed as written; alternative reading noted. 'Holroyd' could also read 'Holroyd' — appears clear."
+    },
+    {
+      "page_id": "A_0142_R",
+      "side": "R",
+      "handwritten_page_no": 56,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Page is entirely occupied by a glued-in colour photograph/postcard showing punting on the River Cam in Cambridge, with an ornate gothic bridge in the background (Bridge of Sighs, St John's College). No written caption visible. Handwritten page number '56' appears in the top-right corner."
+    }
+  ]
+}

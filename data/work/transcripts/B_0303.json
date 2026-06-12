@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0303",
+  "volume": "B",
+  "pdf_page": 303,
+  "pages": [
+    {
+      "page_id": "B_0303_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Caerleon \"Fort of the Legion\"",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Caerleon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Caerleon \"Fort of the Legion\""],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page is dominated by glued-in photos of Caerleon: top photo shows Roman soldiers re-enactment in a field; middle-left shows a classical building (museum or temple front); middle-right shows an aerial view of the excavated Roman amphitheatre; bottom shows a large stone carved face/head. Caption at bottom reads: Caerleon \"Fort of the Legion\". No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0303_R",
+      "side": "R",
+      "handwritten_page_no": 4,
+      "blank": false,
+      "full_text": "April 13th 2018\n Simon, Eve & Tinder left for Wales to visit John & Kagin their new house (11am). We stopped in Bourneville to buy buttons.\n      We parked by the river park, flat land, below Ross on Wye & walked up the hill for a good lunch at Man of Ross. We bought crafts & books.\n      On to Caerleon (\"fort of the legion\"). The amphitheatre (could seat 6,000) was excavated 1927, but the rest – granary, barracks, has only been excavated/being excavated since the '60. An interesting museum – a mock barrack room for 8 men with bunks – nice curators.\n      We spent the night at a campsite – \"White House Farm\"* a miles' walk away. Heater in modern shower block. V. Clean.\n      We have forgotten marmalade & tea towels.",
+      "dates": [
+        { "raw": "April 13th 2018", "iso_guess": "2018-04-13", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Wales", "Bourneville", "Ross on Wye", "Man of Ross", "Caerleon", "White House Farm"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten page number in top-right corner reads '4' — likely a diary-internal page number rather than a volume page number. The name 'Kagin' could be 'Kayin' or another spelling — the handwriting is somewhat ambiguous. 'Bourneville' may be 'Bournville' (the Birmingham suburb) — the diary spelling is used verbatim. The '60 refers to the 1960s. The asterisk after 'White House Farm*' may indicate a footnote not visible on this page."
+    }
+  ]
+}

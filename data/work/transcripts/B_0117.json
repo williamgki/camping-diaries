@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0117",
+  "volume": "B",
+  "pdf_page": 117,
+  "pages": [
+    {
+      "page_id": "B_0117_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__July 6th__\n   5.15. Simon + Eve left for Malvern. At home John is being baby sat, by Margaret Greaves, having just got out of hospital after malaria. Then William + Bryony arrive for the night + will drive him to the Farm for Ed's wedding tomorrow.\n   We reached Malvern by 6.20. in time for the leavers' chapel service. Eve sat near Charles, Simon parked the van. Dr. Welch spoke, the new acting head, she spoke well, mentioning the hills.\n   We had supper at [?] SH. Jamie Russell mentioned us in his speech. (Apparently the head mentioned us in her speech as well, but we arrived too late to hear it. \"The last Kirby\") The fireworks were beautiful, out in front of St. George. We chatted to Simon Luther's family. We slept on the old nissen hut area again. For the last time? (St E[?], midnight\n__Saturday July 7th__                                          Charles bed 2 am)\n   We went to coffee with Mr. Frayn, lookin[g]",
+      "dates": [
+        { "raw": "July 6th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Saturday July 7th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["July 6th", "Saturday July 7th"],
+      "underlined_places": [],
+      "place_mentions": ["Malvern", "Farm", "St. George"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible in top-left corner. 'SH' after supper location is partially illegible — possibly a house or school house name. 'St E[?]' near bottom partially illegible. 'St. George' likely refers to a building at Malvern College (St George's). Year not stated on page; volume covers 2003-2019 but year cannot be determined from content alone. 'Dr. Welch' referred to as 'new acting head'."
+    },
+    {
+      "page_id": "B_0117_R",
+      "side": "R",
+      "handwritten_page_no": 56,
+      "blank": false,
+      "full_text": "at his lovely garden + __house__ + views. Very hospitable.\n   On the Farm for Ed's + Frankie's wedding at the Farm. Marvellous 200 people. House, then marquee, Cricket Stumps + teepee made by Kate + Jamie + painted by Matsuuras. Lots of Harries + Louisa. Addie came back from India for 25 hours. Humanist ceremony, drinks, (Chamagne) meal, dancing.   Tepee\n__Sunday__\n   Chatting at the table, coffee + toast at marquee. Cricket, a lunch, more cricket. Such fun being with the cousins. Charles [?nearly] lost his jacket + Simon's glasses lost a lens. John even managed to play tennis. Nice to see old friends. Set off back to 86 at 3.45.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["house"],
+      "place_mentions": ["Farm", "India"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Handwritten page number 56 in top-right corner. 'Chamagne' appears to be abbreviation or misspelling of 'Champagne'. 'nearly' partially legible. '86' at end likely refers to a house address. 'Harries' may be a family name. 'Matsuuras' is a family name. The word 'house' is underlined in 'garden + house + views'."
+    }
+  ]
+}

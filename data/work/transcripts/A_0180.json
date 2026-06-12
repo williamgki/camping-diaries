@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0180",
+  "volume": "A",
+  "pdf_page": 180,
+  "pages": [
+    {
+      "page_id": "A_0180_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Telford's bridge 1828 Anglesey\nboating. The boys frolicked in the mud. Thomas got his trousers wet & washed them. A lovely little valley going down to a rocky + sandy beach.\n__Sunday__ Aug 4th.\n   Simon had intended to get up at 6, but overslept to 6.30. The ferry to __Dun Laoghaire__ left at 9. We rushed through breakfast & packing up & got there in good time. Pretty Grey Welsh houses down to the waterfront. A nice ferry. We have driven to __Roundwood__[***] the highest",
+      "dates": [
+        { "raw": "Sunday Aug 4th", "iso_guess": "1991-08-04", "confidence": 0.6 }
+      ],
+      "headings": ["Sunday Aug 4th."],
+      "underlined_places": ["Dun Laoghaire", "Roundwood"],
+      "place_mentions": ["Anglesey", "Dun Laoghaire", "Roundwood"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn architectural sketch of Telford's Menai suspension bridge (1828, Anglesey) showing the two main towers with arched openings and suspension cables radiating outward. Labelled 'Telford's bridge 1828 Anglesey'.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The sketch depicts Telford's Menai Bridge on Anglesey. The text is cut off at the bottom of the page ('the highest') and continues on the right page. 'Sunday Aug 4th' as a Sunday falls in 1991 and 2002 within the volume range 1989-2003; 1991 is tentatively preferred but cannot be confirmed from page content alone. '[***]' appears to be three small asterisks or similar annotation marks above or beside 'Roundwood' in the original."
+    },
+    {
+      "page_id": "A_0180_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "village in Ireland, + hope to go to __Glendalough__ monastery tomorrow. (Glen of the 2 lakes)\n\n[photo of Glendalough monastery with round tower and lake]\n\n[left margin, written vertically alongside photo:]\nGlendalough & Kevin's Monastery\nGleann Da Loch, Co Chill Mhantáin\nMainistir Chaoimhin. (fine looking)",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Glendalough"],
+      "place_mentions": ["Ireland", "Glendalough", "Gleann Da Loch", "Co Chill Mhantáin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Glendalough & Kevin's Monastery / Gleann Da Loch, Co Chill Mhantáin / Mainistir Chaoimhin. (fine looking)"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "The page continues the text from the left page: 'village in Ireland...' (Roundwood being described as the highest village in Ireland). A colour photo of Glendalough is glued in. The left margin text running vertically beside the photo appears to be a caption possibly copied from the back of the postcard/photo — it includes the Irish-language name 'Gleann Da Loch' (Glen of the Two Lakes) and 'Co Chill Mhantáin' (Co. Wicklow) and 'Mainistir Chaoimhin' (St Kevin's Monastery). The word 'Chaoimhin' could also read 'Chaoimhín' — the handwriting is slightly ambiguous on the accent."
+    }
+  ]
+}

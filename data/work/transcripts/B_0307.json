@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0307",
+  "volume": "B",
+  "pdf_page": 307,
+  "pages": [
+    {
+      "page_id": "B_0307_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Monday__ We're off to see David. Helen + he have flown there. John + Kay should be there too in the Caterham.\nLots of mills at Beaugency – \"In the Town? They 've routed the water, dividing the stream in 2 before it got to the [illegible] river the water was reused.\n\n[photo caption: Le Rû]\n[French text on photo: Au fil du Rû, long de 2700 mètres, onze moulins sont installés au Moyen Age, dans les quartiers du Prateau et des Marais. La rivière, de faible débit est aménagée afin d'assurer une énergie hydraulique suffisante. En complément, dans sa partie supérieure des moulins à vent sont construits au XVIII° siècle pour pallier le manque de rendement. Ils disparaissent au début du XX° siècle. Les moulins à eau sont devenus des résidences particulières et ne sont pas accessibles au public.]\n\nWe reached David a bit later than planned. It was lovely to have a bit of the house & garden.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Beaugency"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Le Rû"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page has a glued-in sketch/illustration of horses or cattle with a cart, and a glued-in colour postcard of a flower-lined canal labelled 'Le Rû' with a French information text about mills. The word before 'river' is crossed out and illegible. The right edge of this page is partially obscured by the gutter. Beaugency is a town on the Loire in France; the diary appears to be describing a visit to David (a family member or friend) in France. Year cannot be determined from this page alone."
+    },
+    {
+      "page_id": "B_0307_R",
+      "side": "R",
+      "handwritten_page_no": 8,
+      "blank": false,
+      "full_text": "__Tuesday__ We managed a 14½ mile walk to Treignac lake – gorgeous old roads + scenery. Yoga helps stop the stiffness. Nice to spend time with everyone. I had a ride in the Caterha[m]\n__Wednesday__ John + Kay left after Simon had driven the Caterham. They will cross at St Malo tomorrow. David, Helen, Simon + [I] went to Treignac for the bank, shoes for Helen + seeds. The others went for a shorter walk after lunch. We all did some gardening. Nasturtiums. David has cooked delicious [illegible] stew. There are 2 beautiful matched white horses from the Camargue in David's field, for a couple of weeks, mowing the grass for him. Mr. Levine is anxious – the mare has a bad hoof. If he has to put her down (21 years old) the other will have to be put down too. They are inseperable.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Tuesday", "Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Treignac", "St Malo", "Camargue"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number '8' visible at top-right corner — may be part of a larger number but only '8' is legible. Several words at right edge are slightly cut off: 'Caterha[m]', and some line-ends truncated ('They will cros[s]', 'some gardenin[g]', 'delicious [illegible]', 'anxious – th[e]', 'the other wil[l]'). 'inseperable' is the diary's spelling (sic). Mr. Levine appears to be a local French neighbour. Treignac is in Corrèze, France. Year cannot be determined from this page alone; context (volume B, near end, camper-van trip to France visiting David) loosely suggests 2000s–2010s but no year is stated."
+    }
+  ]
+}

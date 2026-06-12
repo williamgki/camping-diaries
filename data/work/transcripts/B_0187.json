@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0187",
+  "volume": "B",
+  "pdf_page": 187,
+  "pages": [
+    {
+      "page_id": "B_0187_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Friday April 27th 2012.\n     Simon, Eve & Tinder (6 mo) set off at 6 for Barmouth area, the only place in the country where rain is not\n[Photo caption, written vertically along right edge of photo:] The Mawddach Estuary looking towards Barmouth",
+      "dates": [
+        { "raw": "Friday April 27th 2012", "iso_guess": "2012-04-27", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Barmouth", "Mawddach Estuary"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Mawddach Estuary looking towards Barmouth"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.92,
+      "notes": "Text at top continues onto right page. Large photo takes up most of the page. Vertical caption written along right edge of photo."
+    },
+    {
+      "page_id": "B_0187_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "forecast. Cold & windy, fantastic view of Estuary from Craig Wen campsite LL39 1BQ. Very difficult entry - we had to turn round twice\n[Photo caption, written vertically along left edge of photo:] The Mawddach Estuary & the Rhinogydd",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Craig Wen", "Mawddach Estuary", "Rhinogydd"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Mawddach Estuary & the Rhinogydd"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Continuation of text from left page. 'LL39 1BQ' is a postcode for Craig Wen campsite. 'Rhinogydd' is the Welsh name for the Rhinog mountains range. The last word on the right page text 'twice' is read with high confidence. Caption along photo edge reads 'The Mawddach Estuary & the Rhinogydd' — 'Rhinogydd' could also read 'Rhinogydds' but most likely 'Rhinogydd'."
+    }
+  ]
+}

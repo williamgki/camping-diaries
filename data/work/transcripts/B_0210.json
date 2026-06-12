@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0210",
+  "volume": "B",
+  "pdf_page": 210,
+  "pages": [
+    {
+      "page_id": "B_0210_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "& get into a field of sheep. Ghastly. Simon just caught him before he chased a horse. Dreadful. We had lunch & left. A good camp site but poor blackberrying.\n\n__Friday September 28th__\n\tSimon, Eve & Tinder left at 5 to go to __Devizes__ to spend the w/end with Charles & Jenny (arrived 2.15. Sat pm) & John (arrived 3.15. Sat.).\n\tWe arrived about 8 & had bacon sandwiches. We're at __Foxhangar__ where in the 70's, as the canal was being repaired, a farm diversified into camp site & large marina. Lovely big open spaces. Distant sound of road. Clean loos.\n__Saturday__ With Tinder on a harness we cycled up an enormous flight of locks 1796-1810. to Devizes & looked around the town. Nice, Georgian, shabby Cheltenham. We had coffee & cycled back to the van & [juked]",
+      "dates": [
+        { "raw": "Friday September 28th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Friday September 28th", "Saturday"],
+      "underlined_places": ["Devizes", "Foxhangar"],
+      "place_mentions": ["Devizes", "Foxhangar"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page begins mid-sentence, continuing from previous spread. 'juked' is the last word and is uncertain — could read 'juked', 'picked', or similar; text continues on next page. Year not stated on this page; volume B covers 2003–2019 and the reference to a canal being repaired 'in the 70s' is consistent with a late-2000s or 2010s visit to Foxhangar/Devizes on the Kennet & Avon Canal. No handwritten page number visible on left page."
+    },
+    {
+      "page_id": "B_0210_R",
+      "side": "R",
+      "handwritten_page_no": 30,
+      "blank": false,
+      "full_text": "[Glued-in leaflet: \"Explore the Magic of Our Kennet & Avon Canal\" — Kennet & Avon Canal Trust, with aerial photograph of a flight of canal locks. Anniversary badge '50' visible.]\n\nour campsite",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Kennet & Avon Canal"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["our campsite"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Right page is almost entirely occupied by a glued-in printed tourist leaflet for the Kennet & Avon Canal Trust, featuring an aerial photo of a flight of locks. Handwritten page number 30 visible at top-right corner. The only handwritten text is the caption 'our campsite' at the bottom right, apparently referring to Foxhangar campsite near the canal. The '50' anniversary badge on the leaflet could help date the visit if the trust's anniversary year is known."
+    }
+  ]
+}

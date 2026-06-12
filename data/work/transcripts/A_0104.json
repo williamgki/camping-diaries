@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0104",
+  "volume": "A",
+  "pdf_page": 104,
+  "pages": [
+    {
+      "page_id": "A_0104_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "In the afternoon we tried to camp at Livorno but there was no room. We finally found a camp at __Sestri Levante__ #**Trigoso only 300m. from a station one down from Sestri Levante, which is just what we wanted. Thomas had a headache most of the day + ended up being sick just before bed.\n  We traipsed down the hill ½ mile to a restaurant, very friendly, who suggested mussels + Sarsa de noxe - Salse dei noci, ravioli with pine nuts + basil - delicious.\n  William has read that Americans eat the most icecreams, Brits eat the second most + Italians the 3rd most, but the Italians spend more money on them. Orson Wells has commented that the Italians are a nation of actors … all x millions of them act, but only the bad ones get into films.\nFriday July 23rd.\n  We hurried + caught the 9.20. train to Corniglia, to walk back to __Vernazza__. We packed in the Knapsack + bum bag :- suncream, 7 cups, 3 bottles water, bog roll, plastic bag, extra bags +",
+      "dates": [
+        { "raw": "Friday July 23rd", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": ["Sestri Levante", "Vernazza"],
+      "place_mentions": ["Livorno", "Sestri Levante", "Trigoso", "Corniglia", "Vernazza"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text continues from previous page (starts mid-narrative). No handwritten page number visible in top-left corner. '#**Trigoso' appears as a marginal annotation after 'Sestri Levante' — appears to be the campsite name 'Campeggio Trigoso' (confirmed by the sticker on the right page). 'Sarsa de noxe' and 'Salse dei noci' are the diarist's renderings of the sauce name (salsa di noci). 'Orson Wells' is the diarist's spelling (standard: Orson Welles). Year cannot be determined from this page; 'Friday July 23rd' does not anchor the year without external evidence. Text cuts off at bottom mid-sentence ('extra bags +')."
+    },
+    {
+      "page_id": "A_0104_R",
+      "side": "R",
+      "handwritten_page_no": 19,
+      "blank": false,
+      "full_text": "rubber band to keep John's arm dry, spare shorts, 7 swim suits, one towel, shade sheet, money, passports, biscuits, band aids, maps, sun hats.\n  The train journey was 25 minutes. We then walked up a huge flight of steps + drank 2 cups of water each at the village tap. It was a long hot walk. After the village, a sign said that the walk would take 1½ hrs. I guessed it wd. be 2 hours. Infact it took 1¾ hours. A few times there was a sheer drop off the path down a cliff, but most of the walk was beautiful + safe through olive",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Sestri Levante", "Trigoso"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number 19 visible in top-right corner. The upper portion of the right page is dominated by a large circular campsite sticker/logo for 'CAMPEGGIO TRIGOSO ** / SESTRI LEVANTE (GE) ITALY / 0185-41047' — a printed adhesive label with a colourful illustrated coastal scene. The place_mentions for this page are drawn from the sticker. The narrative text continues from the left page (mid-sentence 'rubber band…') and itself cuts off mid-sentence at the bottom ('through olive'). The train journey of 25 minutes and the walk described are from Corniglia back toward Vernazza along the Cinque Terre coastal path. Text wraps around/below the sticker."
+    }
+  ]
+}

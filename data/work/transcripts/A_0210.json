@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0210",
+  "volume": "A",
+  "pdf_page": 210,
+  "pages": [
+    {
+      "page_id": "A_0210_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "correau méchant\". There was lightening off to the left.\n        Thomas + John slept outside.\n        __Tuesday 5th August__\n        They had to hurry into the van in the morning, because it started to rain. In fact it drizzled until about 3.30. Simon had just gone to change the gas cylinder, the + discovered to his annoyance that he had forgotten to fill the old one. So we had no tea or coffee + [Simon] washed up in cold water.\n        We left for the supermarket + Conques. Simon felt ill – was it the supper or the lack of caffeine? William had a headache too.\n        We had lunch in a layby, looked at campsites from the road + reached __Conques__ at 3.30. It was as beautiful + peaceful as ever, with lovely Romanesque architecture, but lots of people. John bought a leather bracelet with his name on.",
+      "dates": [
+        { "raw": "Tuesday 5th August", "iso_guess": "1997-08-05", "confidence": 0.55 }
+      ],
+      "headings": ["Tuesday 5th August"],
+      "underlined_places": ["Conques"],
+      "place_mentions": ["Conques"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page begins mid-sentence, continuing from the previous spread. The word before 'méchant' looks like 'correau' (possibly a French word or a mishearing/mishearing of 'temps' — could be 'très mauvais'/'weather'). 'the +' in 'cylinder, the + discovered' appears to be a struck-through word followed by '+' (an ampersand used as 'and'); the struck-through word may be 'and' or 'he'. '[Simon]' is inferred from context — the name appears as a small superscript annotation above 'washed'. No handwritten page number visible in the top-left corner. Year cannot be determined from page content alone; 1997 is a rough estimate based on position in volume (pdf_page 210 of 350, volume covers 1989–2003) and the presence of children old enough to canoe; treat with low confidence."
+    },
+    {
+      "page_id": "A_0210_R",
+      "side": "R",
+      "handwritten_page_no": 41,
+      "blank": false,
+      "full_text": "On the way home we stopped at le Port de __Viellevie__ to book canoeing + look at a restaurant. Back to the campsite at 6.45.\n        __Wednesday 6th August__\n        We managed to persuade Simon to lie in + go on the 11.30. canoe trip, not the 9.30. one. So we had a lie in. Peter has spent his pocket money on a little bird that flies. Charles has brought at least two toy lorries.\n        We set off in canoes, William + Peter in one, John + Thomas in another + Simon, Charles + Eve in the third. The weather is [the] warmer. In fact we should have taken sun cream. We all wore Tshirts. It was a lovely trips with gentle rapids – two of them quite exciting. The 4 boys fought + competed all the way down, until just before the last 2 rapids William + Peter were so full of water that they decided to bail out using Peter's shoes. Well, they both lent the same side + capsized. The shoes disappeared + the boat almost sunk. So we had to use string (which was tying Eve's sunglasses to her swimsuit) to tie the sunk canoe to the other. Peter, Char[les]",
+      "dates": [
+        { "raw": "Wednesday 6th August", "iso_guess": "1997-08-06", "confidence": 0.55 }
+      ],
+      "headings": ["Wednesday 6th August"],
+      "underlined_places": ["Viellevie"],
+      "place_mentions": ["le Port de Viellevie"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Handwritten page number in the top-right corner appears to be 41 (could be 47 — the second digit is not entirely clear). The text ends mid-sentence at the bottom of the page, continuing onto the next spread. 'The weather is [the] warmer' — the struck-through word before 'warmer' appears to be 'the' or possibly another false start. 'lovely trips' is verbatim (likely should be 'trip' but transcribed as written). 'lent' is verbatim (likely 'leant'). 'Viellevie' (le Port de Viellevie) is a village on the Truyère river / Lot area, France, consistent with Conques being nearby. Year estimate as for left page."
+    }
+  ]
+}

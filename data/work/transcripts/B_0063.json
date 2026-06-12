@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0063",
+  "volume": "B",
+  "pdf_page": 63,
+  "pages": [
+    {
+      "page_id": "B_0063_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Malvern College Leavers Ball  Friday 8th July 2005  9pm – 1am\n\n[glued-in printed card: aerial photograph of Malvern College buildings with numbered key]\n[card text:]\n1  Joffin's DJ & Bar\n2  Jazz Trio, Bar & Chocolate Fountain  3  Cocktail Bar\n4  Bouncy Castle  5  Pig Roast  6  Overnight Games Tent (from 12.30am)\nYou are kindly requested to keep your ticket with you during the evening.",
+      "dates": [
+        { "raw": "Friday 8th July 2005", "iso_guess": "2005-07-08", "confidence": 0.97 }
+      ],
+      "headings": ["Malvern College Leavers Ball"],
+      "underlined_places": [],
+      "place_mentions": ["Malvern College"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Malvern College Leavers Ball  Friday 8th July 2005  9pm – 1am"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in printed event programme/ticket card for the Malvern College Leavers' Ball, featuring an aerial black-and-white photograph of the college buildings with numbered facilities labelled. Handwritten text below the card gives the event title and date/time. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0063_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Friday July 8th 2005.\n  Simon + John (17) + Eve set off at\n4.25. for the Malvern Leavers' Ball. Two\ndays before, John heard he had got 36 in the\nIB, + could go to Warwick. The following day\nhe was in London for the awful bombings.\n  Sally + Minoru were at the ball, too,\nKoroku dressed in his Kimono, which every-\none admired.\n  Simon + Eve slept outside No 7, as\nusual, + then walked over to the Grub for\nbreakfast, where Fran asked after Thomas.\n  John + Charles' friend, Tom Paget,\nshould be walking to the van from the Abbey\nHotel for 8.30. Then we'll set off home,\n+ on to Thorpeness in 2 cars, Thomas, Peter\nBen + Charles, too.\n  Friday July 22nd\n  John, Charles, Simon + Eve set off\nat 5pm for France, waved off by Thomas\n+ Peter. We are listening to the Ashes on the",
+      "dates": [
+        { "raw": "Friday July 8th 2005", "iso_guess": "2005-07-08", "confidence": 0.98 },
+        { "raw": "Friday July 22nd", "iso_guess": "2005-07-22", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Malvern", "Warwick", "London", "No 7", "the Grub", "Abbey Hotel", "Thorpeness", "France"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "The year 2005 is confirmed explicitly in the text ('Friday July 8th 2005'). Reference to 'the awful bombings' in London is consistent with the 7 July 2005 London bombings, the day before the ball. 'IB' likely refers to the International Baccalaureate. 'Koroku' may be a personal name; 'Minoru' and 'Sally' appear to be friends/family. The text cuts off at the bottom with 'the Ashes on the' — continues on the next page. No handwritten page number clearly visible in the top-right corner; a possible numeral appears but is ambiguous."
+    }
+  ]
+}

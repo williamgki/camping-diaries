@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0052",
+  "volume": "B",
+  "pdf_page": 52,
+  "pages": [
+    {
+      "page_id": "B_0052_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the icehouse was 6m wide & high\n     built of brick.\n\nhatch                 passage to take out ice.\nto shovel [diagram of icehouse structure]\nice +\nSnow          drain to ice pond\n\nThere was also a mushroom house\norchard, orangerie.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn cross-section diagram of an icehouse structure. Labels include: 'hatch to shovel ice + Snow' on the left side of the structure, 'passage to take out ice' with an arrow pointing to the right passage, and 'drain to ice pond' at the base with a curved arrow. The sketch shows a domed/rounded chamber with a hatch entrance on the left and a horizontal passage on the right.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "This page appears to be a continuation of notes about a visit to a historic property (likely Hanbury Hall, given the right page context). The icehouse diagram is a hand-drawn explanatory sketch rather than a route map, but has been flagged as route_sketch=true as it is a hand-drawn diagram. No handwritten page number visible on this page."
+    },
+    {
+      "page_id": "B_0052_R",
+      "side": "R",
+      "handwritten_page_no": 50,
+      "blank": false,
+      "full_text": "Hanbury Hall parterre. 2002, NT & Nick Moss",
+      "dates": [
+        { "raw": "2002", "iso_guess": "2002", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Hanbury Hall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Hanbury Hall parterre. 2002, NT & Nick Moss"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page contains a glued-in photograph of Hanbury Hall (a National Trust property, red brick manor house). The caption is written diagonally alongside the photo. 'NT' likely refers to National Trust. 'Nick Moss' may be a person who accompanied the visit or a photographer credit. The handwritten page number 50 is visible in the top right corner."
+    }
+  ]
+}

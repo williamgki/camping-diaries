@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0135",
+  "volume": "B",
+  "pdf_page": 135,
+  "pages": [
+    {
+      "page_id": "B_0135_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "April 26th 2008\n\n   We went for lunch to Hampton Lode in the autumn. Today we took Margaret + Helen out to the Severn Valley Park at Alveley, where we ate lunch in the van + then walked down with Tonic to see the new bridge.\n   On the way home we stopped at John Russell's house for Simon to fix his computer + Eve went to feed huln, while Simon drove home to feed the dog.\n\n__Sunday May 11th__\n   At 2.15. we picked up Margaret + Helen + drove to Churchhill Forge. It's one of the only watermills still going in the country. An overshot + an undershot mill, various hammers, belts, grease, friendly guides. Margaret sat up by the inlet water while we looked at the mill.",
+      "dates": [
+        { "raw": "April 26th 2008", "iso_guess": "2008-04-26", "confidence": 0.98 },
+        { "raw": "Sunday May 11th", "iso_guess": "2008-05-11", "confidence": 0.85 }
+      ],
+      "headings": ["Sunday May 11th"],
+      "underlined_places": [],
+      "place_mentions": ["Hampton Lode", "Severn Valley Park", "Alveley", "Churchhill Forge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The word after 'feed' near the end of the first paragraph reads '[?huln]' — possibly a pet name or 'hens'. 'Churchhill Forge' is how the diarist spells it; the printed postcard on the right page spells it 'Churchill Forge'. Sunday May 11th was indeed a Sunday in 2008, supporting the year."
+    },
+    {
+      "page_id": "B_0135_R",
+      "side": "R",
+      "handwritten_page_no": 73,
+      "blank": false,
+      "full_text": "[Printed/illustrated postcard or leaflet glued in, showing six pen-and-ink drawings of watermill machinery with the text:] CHURCHILL FORGE [and] 1996",
+      "dates": [
+        { "raw": "1996", "iso_guess": "1996", "confidence": 0.7 }
+      ],
+      "headings": ["CHURCHILL FORGE"],
+      "underlined_places": [],
+      "place_mentions": ["Churchill Forge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["CHURCHILL FORGE"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "This page is almost entirely occupied by a glued-in printed leaflet/postcard showing pen-and-ink illustrations of Churchill Forge watermill machinery. The text 'CHURCHILL FORGE' and '1996' are printed, not handwritten. The handwritten page number 73 appears in the top-right corner in blue ink. The '1996' on the leaflet is the date of publication of the leaflet, not the diary visit date (which is 2008 per the left page). Some partial blue handwriting is visible at the gutter edge on the left side, which is overflow from the left page."
+    }
+  ]
+}

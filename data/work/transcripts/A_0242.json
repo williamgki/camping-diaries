@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0242",
+  "volume": "A",
+  "pdf_page": 242,
+  "pages": [
+    {
+      "page_id": "A_0242_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[photo: Selma Lagerlof's house at Marbacka]\n\n[text at top right, partly obscured by gutter:] went out for a [bro?] on the lake in the 2 rubber boats. After lunch we came to the house. Mr [Lagerloff?] wrote Nils & the goose [Stores?]. we bought a book & [slice?] fruit bowl. [Alonly?] house which reminds [us?] of [Mackintosh?].\n\nbeautiful curtains, proportions & oak wood.\n\nThen we drove on to Sunne. At Sunne we went to the supermarket & Eve found [bluegas?]. We had a good supper.\n\n__Sat 8th Aug__\nLots more clothes washing, & we hired a big row boat for going out in the lake. We [like?]",
+      "dates": [
+        { "raw": "Sat 8th Aug", "iso_guess": "1998-08-08", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Sunne", "Marbacka"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Selma Lagerlof's house at Marbacka"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.6,
+      "notes": "Large photo dominates most of the page. Text at top right is partially cut off into the gutter/overlap and hard to read fully. The vertical annotation on the left reads 'Selma Lagerlof's house at Marbacka'. 'Lagerloff' is the diarist's spelling. 'Mackintosh' may refer to the architect Charles Rennie Mackintosh. Text at bottom right is cut off. Year confirmed as 1998 by U.S. embassy bombings reference on right page; Aug 8 was Saturday in 1998."
+    },
+    {
+      "page_id": "A_0242_R",
+      "side": "R",
+      "handwritten_page_no": 12,
+      "blank": false,
+      "full_text": "the campsite, it is quite like [Cassianoel?].\n\nIn the evening we all met up in 2 large tents & celebrated \"[strikethrough: Crayfish] Crayfish fest\", singing + dancing + drinking + eating crayfish. Very friendly Swedes & Germans. Some have come for 20 years. It celebrates the start of the crayfish season, though now they are imported from China & USA. We met a nice family from Hamburg.\n\nDrinking is a problem, you can buy weak ol beer in shops. For stronger drink you have to go to a special fair. So many Swedes have their own stills at home & drink very seriously.\n\n__Sunday 9 9 Aug__\n[Sushinelide?] drove to __Sunne__ & bought a paper. U.S. embassy bombings in Africa. Simon telephoned Sven in Oslo, whose wife is dying.\n\nThe houses might be based on building with logs. [sketch of log joint] So many have a central bit, as if to provide a place for logs to cross over [sketch of log joint] ***[?symbols]?\n\n4 30. arrived in __Oslo__ campsite. V. pretty. John picked raspberries.\n\n__Monday 10th Aug__\nWe had a wonderful day doing museums. We caught a bus & tram to the peninsular where 5 museums are, Bygdoy. We all visited the Viking Museum, then Simon & Eve went to the Folk [Museon?]",
+      "dates": [
+        { "raw": "Sunday 9 9 Aug", "iso_guess": "1998-08-09", "confidence": 0.9 },
+        { "raw": "Monday 10th Aug", "iso_guess": "1998-08-10", "confidence": 0.9 }
+      ],
+      "headings": ["Sunday 9 9 Aug", "Monday 10th Aug"],
+      "underlined_places": ["Sunne", "Oslo"],
+      "place_mentions": ["Sunne", "Africa", "Oslo", "Hamburg", "Bygdoy", "Viking Museum", "Folk Museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page number '12' visible top-right (could be part of a larger page number but only '12' visible). The word before 'Crayfish fest' appears struck through (an earlier word attempted). The diarist's name at start of Sunday entry is unclear — could be 'Sushinelide', 'Sushinelide', or a person's name; possibly 'Sunshine' + name or 'Simon' misread. The campsite comparison word is unclear — could be 'Cassianoel' or similar. Year confirmed as 1998 because U.S. embassy bombings in Africa occurred on 7 August 1998, and Aug 8 = Saturday, Aug 9 = Sunday matches perfectly. Small hand-drawn log-joint diagrams appear in the text but these are inline illustrations, not a route sketch. 'Bygdoy' is the peninsula in Oslo (also spelled Bygdøy)."
+    }
+  ]
+}

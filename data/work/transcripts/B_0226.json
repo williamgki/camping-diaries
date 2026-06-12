@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0226",
+  "volume": "B",
+  "pdf_page": 226,
+  "pages": [
+    {
+      "page_id": "B_0226_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We cooked at [?Churton] & had lunch next to the railway line in the carpark. We dropped of William & Joseph at Princes Risborough & spent a lovely sunny afternoon at Upton House. Amazing earth-moving in the garden. Oil magnate. Lovely coloured stone. Worth coming back! Home via Gaydon & M.40.\n\nOctober 18th Friday\n3.0. We left for south of Guilford, Rudgwick Riverside Farm ****  We have come down for Mylo Ruby's christening at Church of the Good Shepherd near Woking. We arrived at 8pm. On the way we spent hours in a traffic jam on the way to a Datchett petrol station.\n     Rain in the night  October 19th.\n     We set off at 10 south on the [~~Thames~~] Downs Link bike path, right next to the campsite. We went for [?a] mile to see the bridge [=] which is the Downs Link symbol.  The inspector said the incline was too much for the Train, so they built a metal bridge (1865) over",
+      "dates": [
+        { "raw": "October 18th Friday", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "October 19th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Rudgwick Riverside Farm"],
+      "place_mentions": ["Guilford", "Rudgwick Riverside Farm", "Woking", "Datchett", "Downs Link"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Top of page is continuation from previous spread. 'Churton' uncertain — could be a place name or personal name. 'Guilford' spelled as diary writes it (usually Guildford). 'Datchett' — diary spelling, normally Datchet (near Slough). The word struck through over 'Downs Link' appears to be 'Thames' with a strikethrough, corrected to 'Downs Link'. A small sketch of a bridge symbol (two lines with arch) appears inline in the text. Year not determinable from this page alone; volume covers 2003–2019, October entry."
+    },
+    {
+      "page_id": "B_0226_R",
+      "side": "R",
+      "handwritten_page_no": 46,
+      "blank": false,
+      "full_text": "the brick bridge. It existed for just nearly 100 years  Ahhh! Beeching!\nIt was a really nice ride. [?Used] at home in Surrey. At one point on the path we managed to collect nearly a bucket of sweet chestnuts.\n     The ride was not easy. The path was muddy & slippery. But the autumn colours were beautiful & there were lovely views.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Surrey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "'[?Used]' — the word before 'at home in Surrey' is not entirely clear; could be 'Used' or 'Felt'. 'Beeching' refers to the Beeching cuts (1960s railway closures). Lower half of page is blank."
+    }
+  ]
+}

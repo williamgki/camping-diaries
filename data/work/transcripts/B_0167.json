@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0167",
+  "volume": "B",
+  "pdf_page": 167,
+  "pages": [
+    {
+      "page_id": "B_0167_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Wednesday__\n\nWe had originally intended to go back to Cragside but NT properties are so crowded in August that instead we went west to __Kielder Water__ & walked by the reservoir. It would make a good cycling holiday [drawing] to rent a cottage here & cycle around [drawing] with young children. The path appears to go right round (50m?) + a ferry would take you to 5 jetties around the lake.\nGoing on southwards, we crossed between Weardale & Teesdale, through Stanhope B6278, glorious empty moorland. We reached Bower & Peter & Elizabeth gave us a lovely supper. We slept in the nearby car park.\n\n__Thursday__\n\nSimon discussed garden projects. At midday we left for a walk & lunch at Arkengarthdale. After lunch in the van, Peter led us on a super walk, up quite a steep hillside where the track disappeared under a slag heap. Lovely wild flowers in meadows by the river & little bridges. We risked the \"bull in field sign\".",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Wednesday", "Thursday"],
+      "underlined_places": ["Kielder Water"],
+      "place_mentions": ["Cragside", "Kielder Water", "Weardale", "Teesdale", "Stanhope", "B6278", "Bower", "Arkengarthdale"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Right margin has 'Kielder Water' written vertically in blue ink. The left page has no visible handwritten page number in the top-left corner. Two small decorative drawings (possibly bike/van symbols) appear inline in the cycling holiday passage. 'Bower' may be a place name or a family surname — context suggests a family friend's home. The word before 'car park' at the end of the Wednesday section reads 'nearby' — could be 'nearly' but 'nearby' fits better contextually. Year cannot be determined from page content alone; volume B covers 2003–2019."
+    },
+    {
+      "page_id": "B_0167_R",
+      "side": "R",
+      "handwritten_page_no": 22,
+      "blank": false,
+      "full_text": "We left for Bham at 4pm + had [~~lunch at~~] supper at Pinnocchio's When we got home.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Bham", "Pinnocchio's"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Kielder Water"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page number '22' written in top-right corner in green ink. 'Kielder Water' written vertically in blue ink in the left margin (gutter side). The page is dominated by a large glued-in photograph of Kielder Water (a reservoir/lake with forested shores). Below the photo, text continues from the Thursday entry. The words 'lunch at' appear struck through before 'supper at'. 'Bham' is an abbreviation for Birmingham. 'Pinnocchio's' is likely a restaurant name (could also be spelled 'Pinocchio's')."
+    }
+  ]
+}

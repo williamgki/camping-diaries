@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0251",
+  "volume": "B",
+  "pdf_page": 251,
+  "pages": [
+    {
+      "page_id": "B_0251_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday June 20th.\n4 of the 5 boys are moving house this summer. This week John is holidaying in L.A. William has just moved into the farm. Charles is storing stuff in our garage before moving into a room while doing up his new house. Peter moves to London next week. John moves [from]\n\n[Aerial photograph of a triangular building with surrounding grounds]\n\n[Rotated caption beside photo:] Rushton Triangle Lodge 1593. Built by [?Tresham] RC. after being freed from prison.",
+      "dates": [
+        { "raw": "Saturday June 20th.", "iso_guess": "2015-06-20", "confidence": 0.92 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["L.A.", "Rushton Triangle Lodge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Rushton Triangle Lodge 1593. Built by [?Tresham] RC. after being freed from prison."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The year 2015 is inferred from context: the left page entry mentions 'John is holidaying in L.A.' and 'John moves from Swansea to Cardiff' (text continuing on right page), which closely matches the B_0247 entry (April 10th 2015) where 'John in Swansea about to move to Cardiff.' June 20, 2015 was indeed a Saturday, supporting the year identification. The text at the bottom right of the left page is cut off at the gutter; it continues on the right page with 'Swansea to Cardiff.' The caption beside the photo is written vertically/rotated. The author name in the caption is partially legible — 'Tresham' is the most likely reading (Sir Thomas Tresham built Rushton Triangular Lodge); 'RC' = Roman Catholic. No handwritten page number visible in the top-left corner."
+    },
+    {
+      "page_id": "B_0251_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Swansea to Cardiff.\n        At. 10.30. Simon, Eve Charles & Tinder left for Naseby. It's a good viewpoint.\nPrince [?Charles] [strikethrough: Rupert] cavalry chased the New Army cavalry away & the Cromwell [?'s] infantry killed the Cavalier infantry.\n        Then on to the Triangular Lodge.\nA most odd, small building built by RC. He was the grandfather of a gunpowder plotter, married to a Throckmorton.\n        I had had a sore throat for 2 nights before the trip + suddenly at Naseby it became a cold. When we got to Top End*** campsite at Little Staughton, I stayed inside while Simon + Charles sat outside + walked. Half the site is given over to a Ford Corsair rally. Very serious business. Simon + Charles are spending much time discussing Morgan engineering.\n        We had a quiet night.",
+      "dates": [
+        { "raw": "Saturday June 20th.", "iso_guess": "2015-06-20", "confidence": 0.92 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Swansea", "Cardiff", "Naseby", "Triangular Lodge", "Top End campsite", "Little Staughton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "The handwritten page number in the top-right corner is only partially visible and appears to show '1' but is cut off — could be '71', '75' or another two-digit number; reported as null since it cannot be read with confidence. The strikethrough over 'Rupert' (replacing with 'Charles') is a correction in the text — the writer first wrote 'Prince Rupert' then crossed it out and wrote 'Charles' above, though in context 'Rupert' is historically correct for Naseby (Prince Rupert commanded the Royalist cavalry). The '***' after 'Top End' appears to be annotation marks (stars/asterisks). 'RC' in 'built by RC' refers to Sir Thomas Tresham (Roman Catholic), consistent with the photo caption on the left page. 'Throckmorton' — Francis Tresham's mother was Muriel Throckmorton. 'Ford Corsair rally' — unusual car club meeting at the campsite. 'Morgan engineering' — likely referring to Morgan motor cars."
+    }
+  ]
+}

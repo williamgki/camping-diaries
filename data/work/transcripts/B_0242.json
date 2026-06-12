@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0242",
+  "volume": "B",
+  "pdf_page": 242,
+  "pages": [
+    {
+      "page_id": "B_0242_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "On + we picked black-berries at lunch time. Simon sat in the sun.\nOn arrival at [?Flatter] __Malestroit__ municipal campsite * * * * *\nwe wandered into town on our bikes, chained them infront of the church, looked aroun[d] the town. + shopped.\n\n[Glued-in photo: standing stones at Carnac at sunset, captioned \"ALIGNEMENTS DE CARNAC\"]\n[Glued-in ticket: CARNAC, Alignements de / VCI TR CARNAC VISITE CONF INDIV / VCI Adulte - Anglais / le 26/08 a 11:30 / Menec ouest / Valable le 26/08/2014 / 5.00 EUR / Vendu le 26/08/2014 a 11:03 NI ECHANGE NI REMBOURSE / C213/PATI 240690052393]\n\nSimon bought a purse, Eve bought gloves. We went back to the van (over the bridge across the river) + returned to town to have supper at the Grain of Salt. At 8.30. we went to a fabulous organ concert in the Church by Prof Mickael Gaborieau. Really amazing. There was a video link so we could see his hands, feet + the music clearly.",
+      "dates": [
+        { "raw": "26/08/2014", "iso_guess": "2014-08-26", "confidence": 0.99 }
+      ],
+      "headings": [],
+      "underlined_places": ["Malestroit"],
+      "place_mentions": ["Malestroit", "Carnac", "Grain of Salt"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["ALIGNEMENTS DE CARNAC"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Top of page is partially cropped — text above ticket begins mid-sentence. The word before 'Malestroit' is unclear; could be a place name like 'Flatters' or an adjective. Ticket confirms date 26/08/2014. 'Grain of Salt' is a restaurant name. Prof Mickael Gaborieau performed an organ concert."
+    },
+    {
+      "page_id": "B_0242_R",
+      "side": "R",
+      "handwritten_page_no": 62,
+      "blank": false,
+      "full_text": "__Wednesday__ It's not raining but the weather didn't look hopeful. We had originally thought of spending 2 nights here, but with rain forecast for the afternoon, we moved out of the camp + set off on a bike ride. The campowner's wife said it wouldn't rain. We cycled N.W along the Brest-Nantes Canal. Then William rang to say his passport had been in the stolen Knapsack + he needed a new one for Majorca next week + wanted our passport details. We reached St. Andrew of the Rock (lovely- well-cared for church) + had coffee + cycled home, a bit of a gentle uphill, along the voie-verte - disused railway line. Lunch back in Malestroit. We didn't expect much when the mothy bar man said only sandwich or kebab, but the kebab turned out to be a big hamburger sandwich w/ chicken stew + salad - rather good.",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": "2014-08-27", "confidence": 0.7 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Brest-Nantes Canal", "Majorca", "St. Andrew of the Rock", "Malestroit"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Wednesday follows Tuesday (ticket dated 26/08/2014), so this is likely Wednesday 27/08/2014, but year is confirmed from left page ticket. 'St. Andrew of the Rock' is a church visited by bike along the Brest-Nantes Canal north-west of Malestroit. 'voie-verte' is the disused railway greenway. 'mothy' likely means 'mouthy' or could be a local expression. 'William' appears to be a family member (son?) whose passport was in a stolen knapsack."
+    }
+  ]
+}

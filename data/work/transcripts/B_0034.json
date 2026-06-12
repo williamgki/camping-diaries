@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0034",
+  "volume": "B",
+  "pdf_page": 34,
+  "pages": [
+    {
+      "page_id": "B_0034_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "on the grass beside them + the donkeys were grazing nearby.\n\tAfter lunch we set off to drive over 2 hours to Cassalls' Prades. The drive was amazing - heavily wooded [so] narrow valleys, hardly anyone living there, hydro electric dams. We came out into Col de Jau - views unfortunately clouded, but 5 very naughty horses terrorising car drivers for bread!! We ate our rock cakes in the van for protection, + drove off.\n\tWe went past Spa hotels in Moltig. Then we reached Prades. The Municipal Camping was complet. We have driven on to the Abbaye St. Michel de Cuxa (also on the Pilgrim's Santiagoway.) Charles went in + found a programme + Simon telephoned to book tickets for a concert on Thursday. On to try to find a campsite.\n\tReached Les Santerelles ** [Filbls?], high up with views, (sadly overgrown orchard) swimming pool, good showers, but £15 a night, whereas last one £30.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Cassalls' Prades", "Col de Jau", "Moltig", "Prades", "Abbaye St. Michel de Cuxa", "Santiagoway", "Les Santerelles"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "No handwritten page number visible at top-left (cropped). The word after 'Les Santerelles **' is unclear — possibly '[Filbls]' or similar abbreviation/annotation. The right edge of this page is partially visible in gutter overlap with text continuing to the right page margin. 'Cassalls' Prades' likely refers to Prades (town in Pyrénées-Orientales); 'Cassalls'' may be a name or misreading — could be referring to 'Caillau' or similar. 'Santiagoway' likely refers to the Camino de Santiago / Way of St James. The crossed-out word before 'narrow valleys' looks like 'so'."
+    },
+    {
+      "page_id": "B_0034_R",
+      "side": "R",
+      "handwritten_page_no": 32,
+      "blank": false,
+      "full_text": "John + Charles say it's only 4½ star!\nWednesday August 11th\n\tPain au chocolat + croissants for breakfast were stale. Simon telephoned to reserve place for another concert, but fully booked.\n\n[Vertical marginalia, left side, rotated:] Vernet les Bains was a very fashionable resort for \"taking the waters\", especially in about 1900. Some of the best hotels were swept away by a flood in 1940. Another [?] showed the [?Baptist?] Church.",
+      "dates": [
+        { "raw": "Wednesday August 11th", "iso_guess": "2004-08-11", "confidence": 0.3 }
+      ],
+      "headings": ["Wednesday August 11th"],
+      "underlined_places": [],
+      "place_mentions": ["Vernet les Bains"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Les Pyrénées-Orientales - Vernet-les-Bains - [Chorale du Bain / church building]"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.75,
+      "notes": "Page number 32 visible at top-right. There is a glued-in old black-and-white postcard showing a church or building in Vernet-les-Bains, captioned on the postcard itself 'Les Pyrénées-Orientales / Vernet-les-Bains - Choral du Bain' (or similar; postcard text partially legible). The vertical marginalia on the left side is rotated 90 degrees and partially obscured by the gutter; transcription is approximate. The year for 'Wednesday August 11th' is uncertain — Wednesday fell on 11 August in 2004 and 1999 within the volume's 2003–2019 range; 2004 is the better fit for a mid-volume page at pdf_page 34, but the content itself does not confirm the year. Confidence set low accordingly."
+    }
+  ]
+}

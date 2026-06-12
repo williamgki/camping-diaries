@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0183",
+  "volume": "B",
+  "pdf_page": 183,
+  "pages": [
+    {
+      "page_id": "B_0183_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Saturday 15th October__\n      We breakfasted at 8.. Jamie cooked us bacon. Jamie took us round the farm. He took us first to Simon's surprise - a vineyard! White grapes. Eventually 3 tons of juice a year!\n      We also saw Mike's workshop - lovely cabins + Josh's dome + Toby + Ali's chestnut plantings barn. Crunchie was leading out the 2 horses to drag wood.\n      After a cup of coffee we drove south to Wilsham House B + B, where I am hoping to celebrate my 60th birthday in July 2013. Richard + Jane welcomed us, showed us the farm (which has [?4] double bedrooms) explained about the B + B across the drive (which we couldn't see because it has people in) answered our questions + made suggestions. It's absolutely beautiful.\n      Then we drove on past Lorna Doone's Farm to a nearby camp site, near __Oare__ ★ ★ ★\n      Lots of girls doing D of E?\n      On [the] to Barnstaple. Simon slept from 9 pm - 8 am, his ear + throat hurt + he's very tired, but better after a good sleep. It",
+      "dates": [
+        { "raw": "Saturday 15th October", "iso_guess": "2011-10-15", "confidence": 0.6 },
+        { "raw": "July 2013", "iso_guess": "2013-07", "confidence": 0.95 }
+      ],
+      "headings": ["Saturday 15th October"],
+      "underlined_places": ["Oare"],
+      "place_mentions": ["Wilsham House", "Lorna Doone's Farm", "Oare", "Barnstaple"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Saturday 15th October with a mention of planning to celebrate a 60th birthday 'in July 2013' suggests this entry was written in October 2011 (when 15 Oct was a Saturday) or possibly October 2012 (when 15 Oct was also a Monday — so 2011 is more likely). The word after 'On' before 'to Barnstaple' appears to be 'the' crossed out or 'the way'. 'Crunchie' appears to be the name of a horse or animal. D of E = Duke of Edinburgh award. The number of double bedrooms is partially legible — could be 4 or another digit."
+    },
+    {
+      "page_id": "B_0183_R",
+      "side": "R",
+      "handwritten_page_no": 3,
+      "blank": false,
+      "full_text": "was warmer in the night.\n      __Sunday__ On to Barnstaple where we managed to buy Micron + cycled along the Tarka Trail (Barnstaple → Instow Rd?)\n[postcard: Appledore from Instow Quay, North Devon]\nView from shop where we bought the cart",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2011-10-16", "confidence": 0.55 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Barnstaple", "Tarka Trail", "Instow", "Appledore", "Instow Quay", "North Devon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Appledore from Instow Quay, North Devon", "View from shop where we bought the cart"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "The right page contains a glued-in postcard photograph titled 'Appledore from Instow Quay, North Devon'. A handwritten caption on the left side of the postcard reads 'View from shop where we bought the cart'. The arrow notation 'Barnstaple → Instow Rd?' may represent the direction cycled on the Tarka Trail. 'Micron' is unclear — could be a brand name for bikes or cycling equipment, or possibly 'Microns' (a hire shop). The handwritten page number '3' appears in the top-right corner. The Sunday date follows from Saturday 15th October, so ISO guess is the following day."
+    }
+  ]
+}

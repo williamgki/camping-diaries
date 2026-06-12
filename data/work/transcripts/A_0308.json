@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0308",
+  "volume": "A",
+  "pdf_page": 308,
+  "pages": [
+    {
+      "page_id": "A_0308_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Phew. Fortunately we have found gas at la Haye. Now for a lay-by for tea.\n... We have stopped under the light house by the sea at __Carteret__.\n      We rested after tea + then walked south along the cliff path, a very well-made path, towards Carteret, past a ruined chapel. It was a super walk. The houses we saw in Carteret seemed to be very nice summer sea side houses. The blackberries are salty.\n      We drove up the peninsular to __Cherbourg__. Closely enclosed town. We had a delicious meal at Cafe de Paris on the quayside. Fishing boats moored in the harbour. Sea platter. Sat 13th Nov.\n      We spent the night on the ferry. The room even had a hair dryer. At 6.15am we started driving home, collecting Tonic + Charles on the way.\n      Saturday 20th October\n      At Noon we went to Malvern, Simon, Eve, Charles + Tonic, to pick up John. We bought sandwiches, Chocolate, bread + milk at Safeway + drove to Cambridge. William gave us tea in",
+      "dates": [
+        { "raw": "Sat 13th Nov", "iso_guess": "1999-11-13", "confidence": 0.45 },
+        { "raw": "Saturday 20th October", "iso_guess": "2001-10-20", "confidence": 0.75 }
+      ],
+      "headings": ["Saturday 20th October"],
+      "underlined_places": ["Carteret", "Cherbourg"],
+      "place_mentions": ["la Haye", "Carteret", "Cherbourg", "Cafe de Paris", "Malvern", "Cambridge", "Safeway"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pink",
+      "legibility": 0.88,
+      "notes": "Page contains two separate trip entries. The first (ending 'Sat 13th Nov') appears to be from a Normandy/Cherbourg trip; if 13 Nov was a Saturday, candidate years within volume range are 1993 or 1999. The second entry ('Saturday 20th October') with the right page's 'Sunday Oct 21st' fits 2001 exactly (Oct 20 = Saturday, Oct 21 = Sunday). 'la Haye' likely refers to La Haye-du-Puits or a similar village in Normandy. 'Cafe de Paris' is on the Cherbourg quayside. People named: Simon, Eve, Charles, Tonic, John, William."
+    },
+    {
+      "page_id": "A_0308_R",
+      "side": "R",
+      "handwritten_page_no": 53,
+      "blank": false,
+      "full_text": "his room in New Court with Ollie Downes, Eugenio. We had planned to camp at St. Neots, but the site was flooded. So we are camping in Cambridge.\n      We had delicious chocolate cake + enjoyed the visit. William came with us to the Cambridge campsite where the manager is very fussy.\n      We went to the Tickle Arms, now owned by Max. They are about to rebuild the extension. The meal was fantastic. It was 5 courses for all of us - tomato consommé, scallop + cucumber + lime, turbot wrapped in prosciutto, venison on red cabbage + chocolate soup with homemade lemon marshmallow. White German wine + Rioja.\n      __Sunday Oct 21st__\n      It rained in the night. [?Inch according] to the weather forecast, + more expected. The campsite road was awash + there were puddles all over the site. Fortunately the tent was slightly above the puddles. After breakfast we decided to go home. We texted Peter to tell him so. (Tonic's basket he'd [?put] to the outside + it had collected the rain water off the van, while he shivered on the [?grass under] the van.) It rained continuously, quite [illegible]",
+      "dates": [
+        { "raw": "Sunday Oct 21st", "iso_guess": "2001-10-21", "confidence": 0.75 }
+      ],
+      "headings": ["Sunday Oct 21st"],
+      "underlined_places": ["Sunday Oct 21st"],
+      "place_mentions": ["New Court", "St. Neots", "Cambridge", "Tickle Arms"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page number 53 visible in top-right corner. 'New Court' is likely a college court at Cambridge (e.g. St John's College New Court). 'Tickle Arms' is a pub/restaurant. People named: Ollie Downes, Eugenio, William, Max, Peter, Tonic (appears to be a pet/dog — shivering under van). The iso_guess of 2001-10-21 for Sunday Oct 21st is consistent with the left page's Saturday 20th October also fitting 2001. Last word before page ends is partly illegible. 'Inch according to the weather forecast' may be 'an inch'."
+    }
+  ]
+}

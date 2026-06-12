@@ -1,0 +1,77 @@
+{
+  "spread_id": "A_0256",
+  "volume": "A",
+  "pdf_page": 256,
+  "pages": [
+    {
+      "page_id": "A_0256_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "1. Bourton-on-the-Water\n2. Slaughter, [?Ralnege]\n3. London 1999\n4. Hove, Washington\n7. Bramber, Brighton\n8. Leonardslee, Longwood\n9. Little Snoring, Lettringsett Hall\n10. Chippenham Park, Littleport\n   Ely, Stretham, Rogersons\n11. Malvern, Dines, Port [?Maddock]\n12. Portmaerion, Cambridge\n13. Orton, Glasgow\n14. Balloch, Inverary, Oban\n15. Craignure, [?Duart]\n16. Iona\n17. Tobermory, Loch Sunart\n18. Glencoe, Trossachs, Doune\n19. [?Stirling], [?St. Andrews]\n20. Edinburgh\n21. North [?Bristol], South [?Herwick] Suffolk\n22. Stapeley water gardens\n   (London)\n23. Ely 2000, Bath\n24. [?Wimpley] Stoke\n25. Malvern, Enslow Tackley\n26. Hay-on-Wye, [?Llanthony] Priory\n27. [?Skiprith] Castle, Malvern\n28. Capel-y-[?Ffin]\n   Peak District, Lathhill Gorge\n29. Ashbourne, Hendon RAF museum\n\n30 St. Margaret's Westminster\n   London, Courtauld\n   David & Sally's art gallons\n   Hamburg, Liberty's\n31 Science Museum\n32 Tate Modern\n33 The Globe Theatre\n   2001\n34 Bath\n37 Burwell, Wicker Fen\n39 Flacknoe, [?Guildford], [?chunt]\n41 Normandy, [?Henqueville], Etretat\n   Yvetot\n42 Seine, [?Jumiages], [?Yainville]\n43 [?Harnagueville]\n44 Deauville, Pegasus Bridge\n45 Caen, Suisse, Normandie\n46 Arromanches\n48 Bayeux\n49 [?Cerisy] la Foret, St. Lo,\n52 Coutances, Lessay,\n52 Carteret, Cherbourg 200[?]\n53 Cambridge, Brown [?Chris]\n54 [?Piress]\n55 Kingston\n56 Pembroke\n57 St. [?Pats], Solva,\n58 [?Landygrod], [?Pembury] [?Norling]\n   Trimpley, Malvern, Bristol, [?Lyn]\n   [?Kelby]\n60 Clent\n61 [?Vendeauil], [?Quartin], [?Chaumard]\n63 [?Clony]\n64 [?Andly], [?Lyons], [?Heyriane]\n65 [?Pinyon] Valley, [?Langtrines]",
+      "dates": [
+        { "raw": "1999", "iso_guess": "1999", "confidence": 0.95 },
+        { "raw": "Ely 2000", "iso_guess": "2000", "confidence": 0.9 },
+        { "raw": "2001", "iso_guess": "2001", "confidence": 0.95 },
+        { "raw": "200[?]", "iso_guess": "2001", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [
+        "Bourton-on-the-Water", "Slaughter", "London", "Hove", "Washington",
+        "Bramber", "Brighton", "Leonardslee", "Longwood", "Little Snoring",
+        "Lettringsett Hall", "Chippenham Park", "Littleport", "Ely", "Stretham",
+        "Rogersons", "Malvern", "Port Maddock", "Portmaerion", "Cambridge",
+        "Orton", "Glasgow", "Balloch", "Inverary", "Oban", "Craignure", "Duart",
+        "Iona", "Tobermory", "Loch Sunart", "Glencoe", "Trossachs", "Doune",
+        "Edinburgh", "Bristol", "Suffolk", "Stapeley", "Bath", "Wimpley Stoke",
+        "Enslow", "Tackley", "Hay-on-Wye", "Llanthony Priory", "Skiprith Castle",
+        "Capel-y-Ffin", "Peak District", "Lathhill Gorge", "Ashbourne",
+        "Hendon", "Westminster", "London", "Courtauld", "Hamburg",
+        "Science Museum", "Tate Modern", "The Globe Theatre", "Burwell",
+        "Wicker Fen", "Flacknoe", "Guildford", "Normandy", "Henqueville",
+        "Etretat", "Yvetot", "Seine", "Jumiages", "Yainville", "Harnagueville",
+        "Deauville", "Pegasus Bridge", "Caen", "Suisse Normandie", "Arromanches",
+        "Bayeux", "Cerisy la Foret", "St. Lo", "Coutances", "Lessay",
+        "Carteret", "Cherbourg", "Kingston", "Pembroke", "Solva", "Trimpley",
+        "Bristol", "Clent", "Chaumard", "Lyons", "Pinyon Valley"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "mixed",
+      "legibility": 0.72,
+      "notes": "Index page mapping page numbers to places/trips. Entries 5, 6 not visible — possibly missing or on a previous page. Entries 35, 36, 38, 40, 47, 50, 51, 59, 62 not present (gaps in numbering). Entry 2: second place name difficult to read, possibly 'Ralnege' or 'Ralnage'. Entry 9: 'Lettringsett Hall' — could be 'Letheringsett Hall'. Entry 11: last word possibly 'Maddock' or 'Paddock'. Entry 19: partially obscured, 'Stirling' and 'St. Andrews' best readings. Entry 26: 'Llanthony Priory' — could be 'Llanthony Priory'. Entry 27: 'Skiprith Castle' possibly 'Skipwith' or similar. Entry 30: 'David & Sally's art gallons' likely 'art galleries'. Entry 39: third word unclear, possibly 'church' abbreviated. Entry 42: 'Jumiages' likely 'Jumieges'; 'Yainville' is a village near Jumieges. Entry 52 appears twice. Entry 58: multiple place names partially cut off at edge. Entry 61: 'Vendeauil' possibly 'Vendeuvre', 'Quartin' possibly 'Quarré-les-Tombes', 'Chaumard' possibly correct. Entry 63: 'Clony' possibly 'Cluny'. Entry 64: 'Heyriane' possibly 'Heyriès' or 'Heyrieux'. Entry 65: 'Pinyon Valley' possibly 'Pinyon' in France (Gorges du Verdon area?); 'Langtrines' unclear."
+    },
+    {
+      "page_id": "A_0256_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "67 Vaiserelle\n68 La Couvertoirade\n   Cirque de Navacelles [?Evenos]\n   Ganges, Brissac\n   St. Bauzille de Putois\n69 Bastid [?], Nimes\n70 Pont du Gard\n   Ardeches\n73 Tain l'Hermitage\n74 Villefranse-Sur-Saone\n   St. Jean de Vaux\n75 Lumbres, Sevenoaks\n   Walsall\n76 Trimsley, Biddulph Grange\n78 Edale\n79 Eden Project, Cornwall 2003\n81 Fowey\n82 Manchester\n83 Knutsford Malvern\n   [?Nlanafan] Fawr.\n85 Kate + Jamie's farm, Malvern\n   Cambridge\n86 Ashford, Bad Honnef\n87 Alsfeld\n88 Eisenach\n90 Wartburg, Erfurt\n91 Weimar",
+      "dates": [
+        { "raw": "2003", "iso_guess": "2003", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": ["2003"],
+      "place_mentions": [
+        "Vaiserelle", "La Couvertoirade", "Cirque de Navacelles", "Ganges",
+        "Brissac", "St. Bauzille de Putois", "Nimes", "Pont du Gard",
+        "Ardeches", "Tain l'Hermitage", "Villefranse-Sur-Saone",
+        "St. Jean de Vaux", "Lumbres", "Sevenoaks", "Walsall", "Trimsley",
+        "Biddulph Grange", "Edale", "Eden Project", "Cornwall", "Fowey",
+        "Manchester", "Knutsford", "Malvern", "Nlanafan Fawr", "Kate + Jamie's farm",
+        "Cambridge", "Ashford", "Bad Honnef", "Alsfeld", "Eisenach",
+        "Wartburg", "Erfurt", "Weimar"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "mixed",
+      "legibility": 0.82,
+      "notes": "Continuation of the index from the left page. Entries 71, 72, 77, 80, 84, 89 not listed (gaps in numbering). Entry 67: 'Vaiserelle' — possibly 'Vaisserale' or 'Vaissière'. Entry 68: word after 'Cirque de Navacelles' looks like '(Evenos)' or similar annotation possibly a later addition. Entry 69: 'Bastid' possibly 'Bastide'. Entry 74: 'Villefranse-Sur-Saone' — likely 'Villefranche-sur-Saône'; 'St. Jean de Vaux' possibly 'St-Jean-de-Vaux'. Entry 75: 'Lumbres' is a town in Pas-de-Calais. Entry 76: 'Trimsley' possibly 'Trimpley' (as mentioned on left page). Entry 83: 'Nlanafan Fawr' likely 'Llanafan Fawr' (Wales); written in teal/green ink along with 'Malvern'. Entry 79: '2003' is underlined in teal/green ink — year marker for this entry. The index appears to end at entry 91 (Weimar)."
+    }
+  ]
+}

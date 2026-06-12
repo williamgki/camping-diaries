@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0208",
+  "volume": "A",
+  "pdf_page": 208,
+  "pages": [
+    {
+      "page_id": "A_0208_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "After an hour's talk, we just make it to Jacques Coeur's house, to have another hour's tour there. It is a lovely house, a courtyard & various rooms.\n\tIn the afternoon the boys swim & read. Charles, who has been noisily full of complaints at John, has a nap. The boys are using the two rubber dinghies in the river. Eve swims & picks plums & washes more clothes in the machine. Simon & Eve walk up to the church, across the bridge, but find that there is only one service a month. There is a \"bal\" on the \"plage\" tomorrow. We are deciding whether to stay for it or not. The local French boys are noisy with their motor bikes, & jumping off the bridge into the river.\n\t__Sunday__\nWe drive of at 9.05, leaving [?later] behind, to go to church at __Toecy__. [we couldn't understand] [the priest's words.] After the service a kind man showed us the way to Mahun, to buy [S. Yorre] petrol. We set of to the south at 11.30; driving past the volcanoes of the Auverne. At the Aire, Simon drove into a tree while getting shade.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Toecy"],
+      "place_mentions": ["Jacques Coeur's house", "Toecy", "Mahun", "S. Yorre", "Auverne", "Aire"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "The annotation 'we couldn't understand the priest's words' appears interlined in smaller handwriting. 'Toecy' is underlined — could be 'Toecy', 'Loecy', or another French village name near Moulins area. 'S. Yorre' appears as a marginal note near 'Mahun' — possibly Saint-Yorre, a commune in Allier. 'Auverne' likely means Auvergne. 'Aire' likely refers to a roadside aire (rest stop). Year cannot be precisely determined from page content alone."
+    },
+    {
+      "page_id": "A_0208_R",
+      "side": "R",
+      "handwritten_page_no": 37,
+      "blank": false,
+      "full_text": "The bumper broke, but S. mended it. The ground around the tree cracked a bit.\n\tWe reached __Cassaniouge__ at 6.30. Unfortunately the walled-off pool [&] is only open from about 2-7 now. But we all swam in the lake, except Simon, & the boys fought in the boats.\n\tWe had supper & went to bed, Thomas & Charles sleeping outside.\n\t__Monday__\nThe bread van arrived at 9. Simon & Eve walked almost half way to Calornet, to see if it would be possible to walk there for supper this evening. Thomas, Charles, Simon & Eve motored into __Cassanioug__, but the P.O. was shut. The church is nice & clean, 1908 stained glass. The war monument shows 70 dead in WWI (only 3 in WWII) 7 of whom were from one family. (And the same family lost one man in WWII). There is a notice up of a tombola on Aug 9th. The first prize is a pig; the second, a lamb, the 3rd-6th is a ham (Dead or alive?) Thomas is making baguette sandwiches for lunch.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Aug 9th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": ["Cassaniouge", "Cassanioug"],
+      "place_mentions": ["Cassaniouge", "Calornet", "Cassanioug"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number '37' appears in top-right corner. 'Cassaniouge' is underlined as a heading and appears again as 'Cassanioug' (truncated or variant spelling) when mentioned a second time — both refer to the same place, likely Cassaniouze in Cantal, France. 'Calornet' could be 'Calornet' or possibly 'Cabrenet' or another nearby village — reading uncertain. 'Aug 9th' gives month but not year. Year cannot be precisely determined from page content alone."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0278",
+  "volume": "A",
+  "pdf_page": 278,
+  "pages": [
+    {
+      "page_id": "A_0278_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Boys & Hew played on a home-made raft.\n    Sat Aug 14th  Grotty, dirty look at __Tantallon campsite__*\n    We had clevenses at the old chapel + hospice of __Soutra__, an Augustrian monastery, closed for bad behavious in 1460. There are remains of old seeds - poppies (amputations) cottsfoot (childGirth) showing what sort of medicine was practised.\n    The view was one of the best I've ever seen, the hills to the west of Douro, past Edinburgh & to beyond North Berwick.    We bought oatcakes at __Selkirk__\n    We lunched on a bridge over the __Tweed__ a beautiful stone bridge with Shields on it. A new one had been built about 10 years ago.\n    At __Hawick__, the wool mill town, we stopped & bought a brown cashmere sweater. We drove on through sun & heavy rain bands & got home about 8.45. Then we all went out for a balti.",
+      "dates": [
+        { "raw": "Sat Aug 14th", "iso_guess": "1993-08-14", "confidence": 0.55 }
+      ],
+      "headings": [],
+      "underlined_places": ["Tantallon campsite", "Soutra", "Selkirk", "Tweed", "Hawick"],
+      "place_mentions": ["Tantallon campsite", "Soutra", "Douro", "Edinburgh", "North Berwick", "Selkirk", "Tweed", "Hawick"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Top of page is partially cut off; the text beginning 'Boys & Hew played on a home-made raft.' appears to be the conclusion of an entry from the previous spread. 'Sat Aug 14th' is the date of the main entry. The word 'clevenses' appears to be a colloquial/dialectal spelling of 'elevenses'. 'Augustrian' may be the diarist's spelling of 'Augustinian'. 'behavious' likely means 'behaviour'. 'Douro' is an unusual reading — could refer to the Pentland Hills region or be a misread; possibly 'Douro' refers to the hills to the west visible from Soutra Hill. 'cottsfoot' likely means 'coltsfoot'. Two drawings of oatcakes appear at the bottom of the page. The date 'Sat Aug 14th' falls on a Saturday in 1993 within the volume's range (1989–2003), but also 1999 is possible; confidence is moderate."
+    },
+    {
+      "page_id": "A_0278_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Printed map of Scotland and northern England showing regions: Highland, Grampian, Tayside, Fife, Lothian, Borders, Strathclyde, Central, Dumfries & Galloway, Cumbria, Lancashire, and others. Map section numbers printed in red: 425, 451, 424, 423, 422, 421, 420, 419, 418, 417, 416, 415, 463, 464, 461. A hand-drawn route in black marker is traced over the map showing the trip route through Scotland.]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Lewis", "Stornoway", "Harris", "N. Uist", "S. Uist", "Skye", "Portree", "Kyle of Lochalsh", "Rhum", "Coll", "Tiree", "Mull", "Mallaig", "Ft. William", "Oban", "Inveraray", "Lochgilphead", "Jura", "Islay", "Campbeltown", "Arran", "Ayr", "Kilmarnock", "Lanark", "Greenock", "Motherwell", "Glasgow", "Stirling", "Kirkcaldy", "Perth", "Pitlochry", "Montrose", "Dundee", "Edinburgh", "Peebles", "Kelso", "Hawick", "Selkirk", "Berwick", "Alnwick", "Dingwall", "Nairn", "Elgin", "Banff", "Inverness", "Fraserburgh", "Aberdeen", "Thurso", "Wick", "John o'Groats", "Helmsdale", "Ullapool", "Dumfries", "Stranraer", "Kirkcudbright", "Gretna", "Carlisle", "Penrith", "Workington", "Barrow", "Lancaster", "Blackpool", "Preston", "Isle of Man", "Kendal"],
+      "route_sketch": true,
+      "route_sketch_description": "A printed road atlas map of Scotland and northern England with a hand-drawn route traced in black marker. The route appears to start in the central/south of Scotland, travel northward up the west coast past Oban and Ft. William toward Mallaig and Mull, then loop back through the central Highlands. A second line runs down the east side of Scotland through Edinburgh and the Borders region. The route broadly traces a loop through Scotland.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "The right page is a printed map (from what appears to be a road atlas) with section reference numbers in red (e.g. 421 STRATHCLYDE, 422 BORDERS, 423 TAYSIDE, etc.) and a hand-drawn route overlay in black marker. The handwritten page number in the top-right corner is partially cut off and appears to show only '2', which may be a page number or part of one. No handwritten narrative text appears on this page."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "spread_id": "A_0246",
+  "volume": "A",
+  "pdf_page": 246,
+  "pages": [
+    {
+      "page_id": "A_0246_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[...lle holder.] The old min[e...]\n[...] back – arse leathers – to\n[...] In 1881 they had a\n[...] could go up or down\n[...] the next ring –\n[...] k could be [lift...] –\n[...] ing a bucket & winding\n[...] s) than the trained\n[...] In 1680 they started\n[...] 2 or 3 horses\n[...] local farms.\n[...] rses to work 1 week in\n[...] started using water\n[...] r was used to work\n[...] way down the hill.\n[...] n skis started in 1950s\n[...] [j]ump records\n[...] 09 in 1994.\n[...] to the Baroque church,\n[...] t having to pay e[ntrance]\n[...] aterfull in the town\n[...] hn found drill noises\n[...] e very loud. William noted\n[...] lecanter used to play\n[...] Norwegian after the war\n\nCharles picture of Transport Aug 1[2th Tuesday]",
+      "dates": [
+        { "raw": "1881", "iso_guess": "1881", "confidence": 0.9 },
+        { "raw": "1680", "iso_guess": "1680", "confidence": 0.9 },
+        { "raw": "1950s", "iso_guess": "1950", "confidence": 0.85 },
+        { "raw": "in 1994", "iso_guess": "1994", "confidence": 0.95 },
+        { "raw": "Aug 1[2th Tuesday]", "iso_guess": "1997-08-12", "confidence": 0.55 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Charles picture of Transport Aug 1[2th Tuesday]"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.55,
+      "notes": "Left edge of page is cut off in scan — text on the left side of most lines is missing. Content appears to be notes from a museum or heritage site visit, describing mining equipment/history (bucket and winding gear, 1881 machinery, horses, water power) and ski/jump records, then a Baroque church and waterfall in a town. 'William noted' and 'lecanter used to play Norwegian after the war' suggest observations about local culture. The right portion of the page has a child's pencil drawing (by Charles) of a vehicle (camper van or bus), captioned 'Charles picture of Transport Aug 1[2th Tuesday]'. The caption continues onto the right page. Aug 12th fell on a Tuesday in 1997 and 2003 within this volume's date range (1989–2003)."
+    },
+    {
+      "page_id": "A_0246_R",
+      "side": "R",
+      "handwritten_page_no": 75,
+      "blank": false,
+      "full_text": "[Charles picture of Transpor]t Aug 12th Tuesday\n\n[pencil drawings of vehicles and interior floor plan — no further written text]",
+      "dates": [
+        { "raw": "Aug 12th Tuesday", "iso_guess": "1997-08-12", "confidence": 0.55 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Charles picture of Transport Aug 12th Tuesday"],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.8,
+      "notes": "Page number 75 visible in top-right corner. The written text is a continuation of the caption from the left page: 't Aug 12th Tuesday'. The rest of the page is filled with pencil drawings by Charles: the upper portion shows a row of vehicles (cars, vans, trucks) seen from the side, and the lower portion appears to be a detailed floor plan or interior layout of the camper van. No place names appear on this page. Aug 12th Tuesday corresponds to 1997 or 2003 within this volume; 1997 is more likely given position in the volume but cannot be confirmed from page content alone."
+    }
+  ]
+}

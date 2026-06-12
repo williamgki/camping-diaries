@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0039",
+  "volume": "B",
+  "pdf_page": 39,
+  "pages": [
+    {
+      "page_id": "B_0039_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Saturday, 14th August__\n\tWe drove into __Carcasson__, a fortified town, which was once taken by Simon de Montfort. The walls were originally Gallo-Roman, the usual square stones with red bricks, but in about 1300, the builders put new, massive blocks of stone above & below the earlier construction, to strengthen it. The towers are this [oval shape drawing] shape, for strength, & entrances are limited & overlooked by lots of arrow slits.\n\tThe church has fabulous stained glass, trees of Jesse, & Life & 2 magnificent rose windows, lovely statues & a big square carving (sarcophagus) of The Siege of a city — Crusader helmets & an angel. The Seig Stone\n\tGorgeous shops & I bought a 3m. tablecloth with blue grapes.\n\tWe had lunch next to the Canal du Midi — quite small, that [struck] links Med. wi. Atlanti[c]",
+      "dates": [
+        { "raw": "Saturday, 14th August", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Saturday, 14th August"],
+      "underlined_places": ["Carcasson"],
+      "place_mentions": ["Carcasson", "Canal du Midi"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The town name is written 'Carcasson' (single 'n' at end); likely Carcassonne. 'The Seig Stone' appears as a marginal annotation in smaller writing beside the sarcophagus sentence. A small hand-drawn oval appears in-line to illustrate tower shape. 'Simon de Montfort' may also be 'Simon de Montfort'. The bottom line is partially cut off at the right edge; reads '...that [struck-through word] links Med. wi. Atlanti[c]' — the struck-through word looks like 'the' or 'that'. Year cannot be determined from this page alone; volume B covers 2003–2019."
+    },
+    {
+      "page_id": "B_0039_R",
+      "side": "R",
+      "handwritten_page_no": 37,
+      "blank": false,
+      "full_text": "[Glued-in aerial postcard photo of Carcassonne with caption on postcard: Carcasson Aude]\n↑ this area between the 2 walls was used for trying in fighting & jousting\n\nAs we go north, the hills are covered in woods.\nThe GAS computer map is useful. Simon can choose a carpark in a town & plot it on",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Carcasson", "Aude"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Carcasson Aude"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "The right page contains a large glued-in aerial postcard photograph of Carcassonne. The postcard itself bears the printed text 'Carcasson Aude'. A handwritten annotation with an arrow points to the area between the two walls: 'this area between the 2 walls was used for trying in fighting & jousting' — 'trying in' may be [?training in] or [?trying in]; transcribed verbatim. The text at the bottom of the page is cut off ('plot it on'). 'GAS computer map' likely refers to a sat-nav or GPS device brand. Year cannot be confirmed from page content alone."
+    }
+  ]
+}

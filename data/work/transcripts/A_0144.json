@@ -1,0 +1,50 @@
+{
+  "spread_id": "A_0144",
+  "volume": "A",
+  "pdf_page": 144,
+  "pages": [
+    {
+      "page_id": "A_0144_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "where Simon + Eve stayed with St. John's College in 1973/4. It was a lovely walk, some hill side, some lake side.\n\n    We booked supper + ate at a delicious restaurant, Rothay Manor, run by 2 brothers. Mushroom + smoked bacon in garlic sauce, asparagus soup, duck + veg, fruit terrine. [strikethrough] Australian wine. We drove on to a campsite at Hawkshead.* * *\n\n__Sunday 29th.__\n\n    We walked to St. Michael's church. Beautiful. Mediaeval carvings, quite low church, 1662 Communion A & M. Bell ringing. Good sermon on Emmaus. Booth to his doctor \"God has taken the best of me.\" Too many twiddles on the organ.\n\n    We walked around the town. Furness had been top town in the area until the Dissolution. Then Hawkshead took over. Stuck in a time-warp. The railway never came. 6 sheep's fleeces in the M.A. paid a [strikethrough] shepherd's annual wage. Now it takes 6,000. Hooks outside buildings under eaves to display fleeces to merchants. Lug marks in ear for ownership — Norwegian log-law.\n\n    Beatrice Potter lived in a nearby village. Her husband was solicitor here. She became a sheep breeder + donated her farms to the N.T. Wordsworth went 1900-36",
+      "dates": [
+        { "raw": "Sunday 29th.", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "1973/4", "iso_guess": "1973", "confidence": 0.8 }
+      ],
+      "headings": ["Sunday 29th."],
+      "underlined_places": [],
+      "place_mentions": ["Hawkshead", "Furness"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Restaurants named: Rothay Manor. 'Beatrice Potter' likely Beatrix Potter. 'St. John's College' reference to 1973/4 is a historical note within the narrative. The '1900-36' at the bottom of the page appears to be a date range annotation continuing into the right page — may relate to Wordsworth or possibly Beatrix Potter. Year of the diary entry itself is not explicitly stated on this page; context from surrounding volume pages would be needed. 'Booth to his doctor' — 'Booth' likely refers to a person in the church/sermon context."
+    },
+    {
+      "page_id": "A_0144_R",
+      "side": "R",
+      "handwritten_page_no": 58,
+      "blank": false,
+      "full_text": "to grammar school here 1880's + lived with a dame because his parents had both died.\n\n    We left after reading after lunch + drove a short distance to Coniston; on the N.W. side of Lake Coniston. We've camped at __Pier Cottage__ * * * * which is so beautiful that we have decided to stay more than one night. The house here used to be the home of the captain of the Gondola. It's rather gloomy looking. We are camped right next to the water with only some bushes between us + the waves. We're on a promontory caused by a river bringing down silt to the north of the town.\n    We saw the [?Sun] Hotel + had a drink at the [?Black Bull]\n\n__Monday__\n\n    We set off to buy Eve new walking boots + then caught SY Gondola (steam [yacht] Gondola) around the lake, getting off at Ruskin's home, __Brantwood__, on the eastern shore. It has been a very interesting day. His writings [strikethrough] influenced Frank Lloyd Wright, Morris + Gandhi. There was a special exhibition on Gandhi too. Ruskin retired to Brantwood at the end of his life 1871-1900.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "1880's", "iso_guess": "1880", "confidence": 0.9 },
+        { "raw": "1871-1900", "iso_guess": "1871", "confidence": 0.95 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": ["Pier Cottage", "Brantwood"],
+      "place_mentions": ["Coniston", "Lake Coniston", "Pier Cottage", "Brantwood"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number 58 visible top right. 'SY Gondola' is the steam yacht Gondola on Coniston Water. 'Pier Cottage' is a campsite underlined. 'Brantwood' is Ruskin's home, underlined. The hotel name is partially unclear — reads like '[?Sun] Hotel'. The pub name reads like '[?Black Bull]'. 'Frank Lloyd Wright, Morris + Gandhi' — Morris likely William Morris. Wordsworth dates '1880s' on this page refer to Wordsworth attending grammar school in Hawkshead. The diary year cannot be confirmed from page content alone; the trip appears to be a Lake District holiday."
+    }
+  ]
+}

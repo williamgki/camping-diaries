@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0232",
+  "volume": "A",
+  "pdf_page": 232,
+  "pages": [
+    {
+      "page_id": "A_0232_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Tuesday May 26th__\n     Sunshine when we woke up, but intermittant shows later in the day. We take a picnic & get on __Festiniog Railway__ at __Penrhyn__. We get off at __Dduallt__. It's a very, very pretty walk 1½ hours, back to Penrhyn. Oak trees, sweet chestnut, ash coppices! We had a picnic lunch. It's similar to the Cinque Terre, but no sun or Germans. I'd like to walk more stretches of the railway. We could see huge banks of purple rhododendrons & a nuclear power station. Most of the walk was in the rain. We drove back to [?Ainas] for tea. In the evening we had marshmallows & hot chocolate.\n\n__Wednesday 27th May__\n     Rain & non-rain all day. We packed up & reached __Machynlleth__ before lunch. There is now a diff railway which fills with water to balance each cab. Simon would like to make a solar-powered garden fountain & a waste-heat recovery system. One house with",
+      "dates": [
+        { "raw": "Tuesday May 26th", "iso_guess": "1998-05-26", "confidence": 0.85 },
+        { "raw": "Wednesday 27th May", "iso_guess": "1998-05-27", "confidence": 0.85 }
+      ],
+      "headings": ["Tuesday May 26th", "Wednesday 27th May"],
+      "underlined_places": ["Festiniog Railway", "Penrhyn", "Dduallt", "Machynlleth"],
+      "place_mentions": ["Festiniog Railway", "Penrhyn", "Dduallt", "Cinque Terre", "Machynlleth"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "No handwritten page number visible on this side. Year inferred as 1998 from the preceding spread (A_0231_R, page no. 41) which confirms May 25th = Monday 1998, making May 26th = Tuesday and May 27th = Wednesday, consistent with the diary. The place name before 'for tea' (after 'drove back to') is uncertain — reads as '[?Ainas]'; in the context of the Ffestiniog Railway area (North Wales), could be a local place name or abbreviation. 'intermittant' is the diary's spelling (sic). 'diff railway' in the Wednesday entry likely refers to a different (diff) railway, possibly at Machynlleth's Centre for Alternative Technology. Text continues on the right page."
+    },
+    {
+      "page_id": "A_0232_R",
+      "side": "R",
+      "handwritten_page_no": 62,
+      "blank": false,
+      "full_text": "double double glazing & 18ins insulation in the roof only has one radiator. I enjoyed looking at the organic gardening. \"Our earth is not a gift from our parents, it is on loan from our children.\"\n\n     We had a delicious filthy veggie lunch, then came home via __Woodpecker Hall__, Monmouth, but the Goodiers weren't there, only an Australia fly-swat.\n\n__July 27th Monday__ S.E.W.A.J.C. (Thomas Train Crew)\n     We left home after Tom's visit at 9.40. & headed north. We stopped for lunch in a field next to such a smelly pig-muck spreader that Charles & William were fed up & we moved into the village\n     Heavy traffic on the roads, so we reached __North Shields__, __New Castle__, at 4.0., just in time for the queue to get on the Ferry to Bergen.\n\n__July 28th Tuesday__\n     The ferry was extraordinarily calm. We left at 3.30, but the ramp hit the bottom",
+      "dates": [
+        { "raw": "July 27th Monday", "iso_guess": "1998-07-27", "confidence": 0.8 },
+        { "raw": "July 28th Tuesday", "iso_guess": "1998-07-28", "confidence": 0.8 }
+      ],
+      "headings": ["July 27th Monday", "July 28th Tuesday"],
+      "underlined_places": ["Woodpecker Hall", "North Shields", "New Castle"],
+      "place_mentions": ["Woodpecker Hall", "Monmouth", "North Shields", "New Castle", "Bergen"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number '62' visible in top-right corner. The page begins mid-sentence continuing from the left page (Wednesday 27th May entry about a house with double glazing — likely the Centre for Alternative Technology or a nearby eco-house near Machynlleth). The July entries appear to be from a separate trip (to Norway via ferry from North Shields/Newcastle). 'S.E.W.A.J.C.' likely refers to family member initials; '(Thomas Train Crew)' is a parenthetical, possibly a nickname for the group. 'New Castle' is written as two words (diary's spelling, underlined). July 27th = Monday and July 28th = Tuesday are consistent with 1998. 'Woodpecker Hall' is underlined — a place near Monmouth (possibly a house visited). 'Goodiers' likely a family surname. Text is cut off at the bottom — 'the ramp hit the bottom' is the last readable line."
+    }
+  ]
+}

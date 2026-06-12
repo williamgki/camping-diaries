@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0348",
+  "volume": "A",
+  "pdf_page": 348,
+  "pages": [
+    {
+      "page_id": "A_0348_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "that we liked.\n        After lunch Thomas, John & Charles went to an Internet cafe while Simon & Eve walked to an art gallery. It was a very hot walk & the gallery was shut. So we found the boys at the Internet cafe & visited another Church by the Cathedral, St. Severin. We then went on to the home of Annie's friends, in Weimar the Pemmeke family, who are allowing us to stay in their house while they are on holiday. We feel very lucky. It's a lovely modern house & garden! Simon & Thomas & John went to the super market.\n        Over the front door they have\n        20* C + M + B * 03.  The guide at the cathedral said that this is because this year has been designated the year of the 3 Kings, Caspar, Melchior & Balthasar. Both the Wegner & Gemmekes have very plain bedrooms - a wall or 1½ walls covered by an enormous cupboard with louvred doors, not many pictures.\n        The kind cleaner, Elizabeth Lemann, let us in & is coming back early on Saturday to say",
+      "dates": [
+        { "raw": "20* C + M + B * 03", "iso_guess": "2003", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Severin", "Weimar"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The name 'Pemmeke' appears in the text; 'in Weimar' is written as a small interlinear annotation above 'the Pemmeke'. 'Wegner' and 'Gemmekes' appear to be surnames of the host family / neighbours. The inscription '20* C + M + B * 03' refers to the Epiphany house blessing tradition (Caspar, Melchior, Balthasar), confirming year 2003. Top of page is a continuation from the previous spread."
+    },
+    {
+      "page_id": "A_0348_R",
+      "side": "R",
+      "handwritten_page_no": 72,
+      "blank": false,
+      "full_text": "goodbye & collect the key.\n        __Friday August 8th__\n        The terrace of the house is lovely to sit on, but we have to eat meals indoors because of the wasps.\n        Weimar\n        __Bauhaus__\n        __Museum__\n        Director's\n        Room\n        Gropius\n        1924\n        Thomas has greatly enjoyed using a new GPS navigational system on Peter's old laptop.\n\n[annotation top right:] The children are, 12, Monty, Florian & Isabelle",
+      "dates": [
+        { "raw": "Friday August 8th", "iso_guess": "2003-08-08", "confidence": 0.95 }
+      ],
+      "headings": ["Friday August 8th"],
+      "underlined_places": ["Bauhaus Museum"],
+      "place_mentions": ["Weimar", "Bauhaus Museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Weimar Bauhaus Museum Director's Room Gropius 1924"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.90,
+      "notes": "A colour photograph of the Weimar Bauhaus Museum Director's Room (Gropius, 1924) is glued in to the right half of the page. The caption text 'Weimar / Bauhaus / Museum / Director's Room / Gropius / 1924' is handwritten to the left of the photo. 'Bauhaus' and 'Museum' appear underlined. Top-right annotation reads 'The children are, 12, Monty, Florian & Isabelle' — likely naming the Pemmeke/Wegner children with ages. Friday August 8th falls on a Friday in 2003, consistent with the year evidence from the left page."
+    }
+  ]
+}

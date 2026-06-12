@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0244",
+  "volume": "B",
+  "pdf_page": 244,
+  "pages": [
+    {
+      "page_id": "B_0244_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "men rotted & were bull-dozed into pits by the Brits: 100,000 Germans, 50,000 escaped, 40,000 prisoners, 10,000 killed. Flies & smell were terrible. Land didn't recover until 1954.\n\n    We shopped at le Clerke & went on [?**RS] to __bigne le Foret__ to camp at __St. Paul__, It's a very pretty valley. You could walk up into the town. A \"trout stream\" (8fat) runs thro the camp Good showers. About 2½ hours from the Channel Tunnel. It rained in the night. A beautiful old town. I'd like to walk here.\n\n    __Friday__\n    We left at 8.35. For Charleval + petrol [?Salon] Fortunately the machine took a card. We reached the train on time & had lunch in the train. On to Whittlesey St., where I knocked very loudly on the door. We brought pudding with us.\n\n    __Saturday 30th August.__\n    After a night & lunch with the William Kirby we set off for [?Tinds] on the way home.",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Saturday 30th August", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Friday", "Saturday 30th August."],
+      "underlined_places": ["bigne le Foret", "St. Paul"],
+      "place_mentions": ["le Clerke", "bigne le Foret", "St. Paul", "Channel Tunnel", "Charleval", "Whittlesey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page is a continuation; top text describes WWII site with German prisoners/casualties, likely a visit to a battlefield or memorial site in France. 'bigne le Foret' could be 'Bagnoles-de-l'Orne' area or 'Bigne-le-Forêt' (Normandy); 'St. Paul' is the campsite name within that valley. 'le Clerke' may be a shop name. 'Charleval' is a commune in Normandy. The annotation after 'went on' is unclear — possibly '**RS' or similar. '(8fat)' is unclear — possibly a cost or rating. '[?Tinds]' at end is uncertain — could be 'Tinds', 'Tinks', or another place name. Year cannot be determined from page content alone (Saturday 30th August falls in various years within 2003–2019 range)."
+    },
+    {
+      "page_id": "B_0244_R",
+      "side": "R",
+      "handwritten_page_no": 64,
+      "blank": false,
+      "full_text": "__Saturday Oct 3[rd] 4th__\n    Thomas is in India. Naomi's about to have a baby. At 11.30 we set off with Austin to __Wolverley__ to camp for the night & go on a bike ride.\n    We found a pitch where we can see the Playground – __Wolverley__ **** v.clean loos. In the afternoon we walked around the village & saw the outside of the church Austin played with a girl called Ruby who was also here with her grandparents Lovely sunshine after a rainy morning. The night was freezing cold. Austin disappeared in his sleeping bag.\n\n    __Sunday Oct 5th.__\n    We set off at 9.15 on the bike ride & got back at 2.45. We cycled to Kidder & had coffee. Then on to Stourport. V.attractive Tontine Hotel & appartments for sale. Georgian, from start of canal hotels. Built by Brindley, it was a hamlet calls",
+      "dates": [
+        { "raw": "Saturday Oct 3rd 4th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sunday Oct 5th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Saturday Oct 3[rd] 4th", "Sunday Oct 5th."],
+      "underlined_places": ["Wolverley"],
+      "place_mentions": ["Wolverley", "Kidder", "Stourport", "Tontine Hotel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page number 64 visible in top-right corner. The heading 'Saturday Oct 3[rd] 4th' is ambiguous — the superscript may read '3rd' making Saturday the 4th, or it could be 'Oct 3/4th'. A Saturday Oct 4th within 2003–2019 falls on: 2003, 2008, 2014. Given 'Thomas is in India' and 'Naomi about to have a baby' as family context clues, year cannot be determined from page alone. 'Kidder' is likely an abbreviation for 'Kidderminster'. 'Stourport' is Stourport-on-Severn, Worcestershire. The Tontine Hotel in Stourport is a real Georgian building associated with James Brindley (Staffordshire & Worcestershire Canal). Text at bottom is cut off — 'it was a hamlet calls' continues on next page. 'appartments' is the diary's spelling."
+    }
+  ]
+}

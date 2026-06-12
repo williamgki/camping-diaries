@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0318",
+  "volume": "A",
+  "pdf_page": 318,
+  "pages": [
+    {
+      "page_id": "A_0318_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "table for supper. The food was delicious\n1lse flottant.\n    Simon + Eve would give this campsite\n5star, lake + lots of walks, but John + Charles\ninsist on only 4 star - the view's blocked by\ntrees, you have to pay for showers + the croissants",
+      "dates": [
+        { "raw": "31-07-2002(MER) 19:59", "iso_guess": "2002-07-31", "confidence": 0.99 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["La Vieille Auberge", "Chaumard"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page contains a glued-in restaurant receipt from 'La Vieille Auberge, 58120 Chaumard' dated 31-07-2002 (Wednesday), showing a meal for 4: 4 menu tradition. 49.60, 1 badoit 4.70, 1 gamay Pinot 11.00, TOTAL 65.30 (F428.34). Also contains a small photo of a white building (the restaurant) and what appears to be a scenic/landscape postcard photo. The handwritten text begins mid-sentence, continuing from the previous page. 'Ilse flottant' likely refers to 'ile flottante' (floating island dessert). The text cuts off mid-sentence at the bottom ('the croissants') continuing on the right page."
+    },
+    {
+      "page_id": "A_0318_R",
+      "side": "R",
+      "handwritten_page_no": 65,
+      "blank": false,
+      "full_text": "were stale. They are sold, after ordering,\nfrom a depot by a woman who also runs\nthe fishing tackle shop.\n    __Thursday__\n        More drizzle during the night + morn.\nJohn walked up to get the bread. Charles\nboated. Eve swam. After breakfast at 10.20.\nwe left.\n    Charles + Simon shopped at a supermarket.\nAt 1.50. there was a metalic banging so\nwe stopped + had lunch. Simon discovered\nthat one of the straps holding on the water\ntank was loose. A nut worked loose +\nweakened a thread in the body of the van,\npossibly. He tied it on with string.\n    We approached Clung, + Eve was\npleased to go. John said \"Oh yes, Clung:\nI've seen him in 2 films.\" and that about\nsummed up John's + Charles' interest in the\nAbbey. It was poorly sign-posted once we\nhad paid for the tickets + the adolescent\nboys were a pain to drag round. It was\ndifficult to figure out where to go + we",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": "2002-08-01", "confidence": 0.65 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": ["Thursday"],
+      "place_mentions": ["Clung"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The place name 'Clung' almost certainly refers to Cluny (Abbaye de Cluny), a famous Benedictine abbey in Burgundy, France. The diarist spells it 'Clung' and John makes a film reference joke ('I've seen him in 2 films') treating 'Cluny' as a person's name. The Thursday date is estimated as 2002-08-01 based on the receipt on the facing page being dated 31-07-2002 (Wednesday), making Thursday the following day. The page number '65' is visible top-right. Text continues beyond the bottom of the page."
+    }
+  ]
+}

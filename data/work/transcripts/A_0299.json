@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0299",
+  "volume": "A",
+  "pdf_page": 299,
+  "pages": [
+    {
+      "page_id": "A_0299_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Founded in 654 by St. Phibert raided by Vikings 10-14 buildings by dukes of Normandy,",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Abbaye de Jumieges", "Seine-Maritime"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Abbaye de Jumieges, SEINE-MARITIME"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Page dominated by a glued-in colour postcard/photo of the Abbaye de Jumieges (labelled 'Abbaye de Jumièges / SEINE-MARITIME'). Below the photo is a handwritten caption: 'Founded in 654 by St. Phibert raided by Vikings 10-14 buildings by dukes of Normandy,' — 'St. Phibert' may be a phonetic rendering of Saint Philibert. The '10-14' likely refers to 10th–14th century buildings. No handwritten page number visible."
+    },
+    {
+      "page_id": "A_0299_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "They have [sketch of roof overhang] one end of the roof overhanging [sketch] the walls so that they can work in the dry to load + unload the ends of the house/barn. The gardens are very pretty. Some orchards are of eating apples, but most are cider apples. Oct 22-24 is the big festival. We bought cider + apple jelly at one of the farms. It is sold as brut, dry, or demi-sec. It looks like champagne.\n\t\tWe drove Routot, where the linen museum was shut. Simon shopped at Pont-Audomer. We went down the Risle estuary to Honfleur. Honfleur has a beautiful harbour + a very straight, uphill road leading out of it. Lots of campsites are shut, but finally at __Hennequeville__ we found \"Le Chant des Oiseaux\" * * * * with a marvellous view. We are on the edge of a steep slope down to the sea. We walk down steep steps to walk on the sandy beach near the gulls. To our left is Trouville, then Deauville, + far in the distance [illegible] Norman [illegible]",
+      "dates": [
+        { "raw": "Oct 22-24", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Hennequeville"],
+      "place_mentions": ["Routot", "Pont-Audomer", "Risle", "Honfleur", "Hennequeville", "Trouville", "Deauville"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Continuation of a narrative about Normandy, France. The diarist describes Norman farmhouse architecture (roof overhangs), apple orchards and cider, then a drive through Routot (linen museum shut), shopping at Pont-Audomer, travelling down the Risle estuary to Honfleur, then finding a campsite 'Le Chant des Oiseaux' (four stars) at Hennequeville with sea views towards Trouville and Deauville. 'Oct 22-24' is given as a festival date but no year appears on this page; year cannot be confirmed from the content alone. The bottom of the page is partially obscured/cut off; last two lines are only partly legible. The small inline sketches appear to illustrate a roof overhang structure. 'Simon' is a person's name, not a place."
+    }
+  ]
+}

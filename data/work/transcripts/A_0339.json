@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0339",
+  "volume": "A",
+  "pdf_page": 339,
+  "pages": [
+    {
+      "page_id": "A_0339_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "every piece of the first time ever: John 'cello & voice & Charles euphonium & trombone. Brass band, chamber music, chamber choir & jazz band. We slept outside No. 7.\n__Saturday__\n    Charles sat with us at the Priory. John sang in the choir. There was no sermon, only glorious music. We met up with Jane & Harry & Rocky during coffee & the speeches in the Winter Garden. Ahamed Rashid, a Pakistani, gave the prizes & an excellent speech. Harry said his speech reflected the East in that it was passionate & [illegible]. He had been in No. 4 in the 60's, & had written a book about the Taliban & is a journalist. Keen on Tolerance. Afghanistan.\n    John went to stay with Jane to revise for GCSEs while the 3 of us have come to __Llanafan Fawr__. There is a church & pub here & lots of sheep. Beautiful, especially the sky. Some rain. The church has a yew behind 2000 years old. The pub is an old cruck building made from",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["Llanafan Fawr"],
+      "place_mentions": ["the Priory", "Winter Garden", "Afghanistan", "Llanafan Fawr"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The word after 'passionate &' is largely illegible — possibly 'unstructured' or 'instructive'. 'Ahamed Rashid' likely refers to Ahmed Rashid, the Pakistani journalist and author. No handwritten page number visible on this (left) page. The text is cut off at the bottom continuing onto the right page."
+    },
+    {
+      "page_id": "A_0339_R",
+      "side": "R",
+      "handwritten_page_no": 84,
+      "blank": false,
+      "full_text": "old ships' timbers.\n    __Sunday__ The service is only at 3pm on the second Sunday, so we have missed church. We set off late on our walk because better weather has been forecast for the afternoon. We took a picnic & walked up a valley, round hills & back down another, mostly along a road because the footpaths on the map don't seem to work. I fell & coming down a steep hill with the pack. Tonic has been annoying pulling on the lead. The walk was pretty & varied - about 6 miles. Only one car came along the road all day. It's very remote. Amazing birds - swallows catching bugs. Rooks.\n    Charles has been spinning the sheep's wool that we collected & tying a raft of oak twigs. We are south of __Elan Valley__ near Builth Wells.\n    We had supper in the Red Dragon, a pub over 1,000 years old mentioned by Giraldus. It has been in the same family for 3[illegible]",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Elan Valley"],
+      "place_mentions": ["Llanafan Fawr", "Elan Valley", "Builth Wells", "Red Dragon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number 84 visible in top-right corner. Text is cut off at the bottom — last word/number after 'same family for 3' is illegible (possibly '35' or '300'). 'Tonic' appears to be the name of a dog. 'Giraldus' likely refers to Giraldus Cambrensis (Gerald of Wales). The left-side text beginning 'old ships' timbers' continues from the left page. 'Elan Valley' near Builth Wells is in mid-Wales, consistent with the Llanafan Fawr location on the left page. No year is directly visible on this page; volume covers 1989–2003; context (GCSEs mention, Taliban book reference) loosely suggests late 1990s or early 2000s."
+    }
+  ]
+}

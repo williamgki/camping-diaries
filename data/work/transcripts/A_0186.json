@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0186",
+  "volume": "A",
+  "pdf_page": 186,
+  "pages": [
+    {
+      "page_id": "A_0186_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Simon + Eve walked into Lahinch. We visited the woollen shop. Eve bought an orange + blue silk/lambswool cardigan. [?Thibrdgum] [?bought sandwieder] We went back to the van, sorted the washing + set off for Moher the __Cliffs of Moher__. Lovely countryside. Thatched [?eat] cottages. B+Bs. Sea-view/ocean view/island view/Atlantic view.\n      Boys wanted to walk on dangerous paths. Woman harpist singing about 5 sons. Man harpist. Man piper. Sheer cliffs to the sea + tower\n      We went to the music shop at Dolin where John bought a pipe.\n      At __Aillwee__ Mountain we went into the Cave. Remains of 2 bear pits – European brown bear extinct in 800s. Straw stalactites (1 inch = 80 years) one stalagmite 8,000 years old. Discovered 1940, opened as a private family in 1976, 5 years ago they blasted a second passageway out. Simon bought an Australian hat.\n      Tea on the __Burren__ – amazing limestone plateaus with clefts [?grikes] – 1 m. deep + v. straight.",
+      "dates": [
+        { "raw": "August 1996", "iso_guess": "1996-08", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": ["Cliffs of Moher", "Aillwee", "Burren"],
+      "place_mentions": ["Lahinch", "Moher", "Cliffs of Moher", "Dolin", "Aillwee Mountain", "Burren"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Top of page is a continuation from previous page. 'Dolin' likely 'Doolin' — diary spells it 'Dolin'. Some interlinear annotations above 'blue silk/lambswool cardigan' line are partially illegible; best reading given. '[?grikes]' — geological term for cleft in limestone pavement, likely correct reading. Year 1996 confirmed by right-hand page heading 'Ireland August 1996'."
+    },
+    {
+      "page_id": "A_0186_R",
+      "side": "R",
+      "handwritten_page_no": 17,
+      "blank": false,
+      "full_text": "__Ireland August 1996__\n\n1. Dun Laoghaire\n2. Glendalough\n3. Kildare\n4. Kilkenny\n5. Cashel\n6. Dingle\n7. Dunquin / Dún Chaoin\n8. Great Blasket\n9. Tralee\n10. Shannon Ferry\n11. Lahinch\n12. Ennistimon\n13. Rocks of Moher\n14. The Burren / Aillwee Mtn.\n15. Clonmacnoise\n16. Lough Ree\n17. Killyleagh\n18. Knowth",
+      "dates": [
+        { "raw": "August 1996", "iso_guess": "1996-08", "confidence": 0.99 }
+      ],
+      "headings": ["Ireland August 1996"],
+      "underlined_places": ["Ireland August 1996"],
+      "place_mentions": ["Dun Laoghaire", "Glendalough", "Kildare", "Kilkenny", "Cashel", "Dingle", "Dunquin", "Dún Chaoin", "Great Blasket", "Tralee", "Shannon Ferry", "Lahinch", "Ennistimon", "Rocks of Moher", "The Burren", "Aillwee Mtn.", "Clonmacnoise", "Lough Ree", "Killyleagh", "Knowth"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn outline map of Ireland with numbered locations (1–18) plotted and a red route line tracing the journey. Route appears to start in the east (around Dublin/Dun Laoghaire area), travel south through Kilkenny/Cashel, west to Dingle peninsula (nos. 6–8), north along west coast through Shannon/Lahinch/Burren, then northeast to Clonmacnoise/Lough Ree, and back east toward Killyleagh/Knowth. Small pictograms (castles, boats, etc.) mark some sites.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "This page functions as a trip index/route summary page rather than a prose narrative. Heading 'Ireland August 1996' is underlined. Route line on map drawn in red. No. 13 reads 'Rocks of Moher' (cf. left page 'Cliffs of Moher' — diary uses both names). No. 7 gives both English and Irish spellings: 'Dunquin / Dún Chaoin'. No. 17 reads 'Killyleagh' — could also be 'Killyleagh' (Co. Down, Northern Ireland)."
+    }
+  ]
+}

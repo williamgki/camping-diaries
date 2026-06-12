@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0136",
+  "volume": "A",
+  "pdf_page": 136,
+  "pages": [
+    {
+      "page_id": "A_0136_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "to walk in the vineyards, but I'd said to the children we'd go to __Chalon sur Saone__ if the storm hadn't stopped. So at 10.45 we went to buy boules for Petanc there (unsuccessfully). We window-shopped around the town & had lunch in a very, very friendly restaurant where John kept offering the little girl, Justine, chips. Chalon had felt fair for 2 months [?today from the Alps].\n\tThen we went on to a Carrefours. Simon bought the boys 4 sets of boules as my 20th wedding anniversary present to him.\n\tWe went home via __Givry__. Charles had to poo as we got there, so we thought that we might as well look at the church while we were there. It is lovely - welcoming, bright warm yellows, clean. The architecture - 1790 - is gorgeous; arches & pillars in comfortable harmony. The architect trained in Rome under Soufflot. Gauthey.\nInteresting acoustics. The children behaved badly - Peters John. It would have been nice to stay & sketd the motifs - doors & roof & windows in this town caught in an C18 time worp.\n\tIt was a beautiful evening when we got back to St. Jean. The children played boules. Simon, Charles & Eve went out for a walk. Behind our van, outside the camp ran a stream. Above it",
+      "dates": [
+        { "raw": "1790", "iso_guess": "1790", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": ["Chalon sur Saone", "Givry"],
+      "place_mentions": ["Chalon sur Saone", "Givry", "St. Jean"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "The date 1790 refers to the architecture of the church in Givry, not a diary date. Margin annotation near 'Chalon had felt fair for 2 months' is partially illegible — reads something like 'today from the Alps'. The word 'sketd' appears to be an incomplete 'sketch'. 'worp' likely means 'warp'. 'Peters John' may be 'Peter's John' or similar — unclear meaning."
+    },
+    {
+      "page_id": "A_0136_R",
+      "side": "R",
+      "handwritten_page_no": 88,
+      "blank": false,
+      "full_text": "St. Jean de Vaux\n\nwindow in Mansard slope\nRue des Sources\n\n[hand-drawn sketch of a window]\n\n[hand-drawn map of France showing route, labelled: Calais, St. Omer, Laon, Paris., Troyes, Bar sur Aube, Clairvaux, Vezelay, Morvan, Autun, Chalon-s-Saone]\n\n__1994__",
+      "dates": [
+        { "raw": "1994", "iso_guess": "1994", "confidence": 0.99 }
+      ],
+      "headings": ["St. Jean de Vaux"],
+      "underlined_places": [],
+      "place_mentions": ["St. Jean de Vaux", "Rue des Sources", "Calais", "St. Omer", "Laon", "Paris", "Troyes", "Bar sur Aube", "Clairvaux", "Vezelay", "Morvan", "Autun", "Chalon-s-Saone"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn outline map of France with a dotted route line running from Calais in the north, south through St. Omer, Laon, Paris (marked as a dot to the west of the route), then Troyes, with a branch east to Bar-sur-Aube and Clairvaux, then south to Vezelay, Morvan, Autun, and Chalon-s-Saone. The year 1994 is written in underlined text to the right of the map. Above the map is a sketch of a window (described as 'window in Mansard slope, Rue des Sources, St. Jean de Vaux').",
+      "photo_captions": ["St. Jean de Vaux\nwindow in Mansard slope\nRue des Sources"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "The window sketch caption reads 'St. Jean de Vaux / window in Mansard slope / Rue des Sources'. The route map is labelled 1994. On the map, 'Clairvaux' could also read 'Clairvaux' (Clairvaux-les-Lacs or Clairvaux Abbey); 'Bar sur Aube' is legible. 'Morvan' appears between Vezelay and Autun, referring to the Morvan region."
+    }
+  ]
+}

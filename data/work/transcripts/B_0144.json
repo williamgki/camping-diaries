@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0144",
+  "volume": "B",
+  "pdf_page": 144,
+  "pages": [
+    {
+      "page_id": "B_0144_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "86 Westfield Rd, Edgbaston, Birmingham\nB15 3JG.    0121-454-3730.\n\n2008 July.\n\nThe favourite painting of Eugenio Triana Sr. at the Prado\n[illegible] by Francisco de Goya",
+      "dates": [
+        { "raw": "2008 July", "iso_guess": "2008-07", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Edgbaston", "Birmingham", "Prado"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The favourite painting of Eugenio Triana Sr. at the Prado [illegible] by Francisco de Goya"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Top of page contains an address: 86 Westfield Rd, Edgbaston, Birmingham B15 3JG with phone number 0121-454-3730 — possibly a contact note inserted here. Below that '2008 July' gives the date. At the bottom is a partially visible caption for the photograph on the facing page. The second line of the caption is cut off at the page edge; it likely reads something like '[Saturn devouring his son / a seated countess] by Francisco de Goya'. The right half of the spread is a glued-in or pasted postcard/photo of a Goya painting (a woman in white seated in a gold chair)."
+    },
+    {
+      "page_id": "B_0144_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 1.0,
+      "notes": "Full-page photograph or postcard of a Goya painting: a woman in a white/silver dress seated in a gold armchair, with a decorative headpiece. No handwritten text on this page. The caption for this image appears at the bottom of the left (L) page."
+    }
+  ]
+}

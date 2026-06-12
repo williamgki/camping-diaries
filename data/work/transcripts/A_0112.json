@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0112",
+  "volume": "A",
+  "pdf_page": 112,
+  "pages": [
+    {
+      "page_id": "A_0112_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Friday August 20th__\n     We left at 5.45., Jr Cagain in their pyjamas. After supper in the field, William babysat John & Charles while Simon & Thomas & I went in to hear Peter's quartets at __Beauchamps__. His 'cellist's bridge slipped, but they all did very well. Afterwards we listened to \"After Cocoa\" music. The Fishpols did stalwart work getting the children to bed.\n     __Sat__\n     We got up in a leisurely way, & then went to explore the __Forest of Dean__ Heritage centre. Wonderful observation bee hive, where we failed to find the queen, an antery, established since 1968, good adventure playground, & museum of mining & tree management in the forest. 27% oaks.\n     Back at __Beauchamp__ we had lunch & listened to the orchestra, which included \"My Fair Lady\". Home at about 6. pm.",
+      "dates": [
+        { "raw": "Friday August 20th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Friday August 20th", "Sat"],
+      "underlined_places": ["Beauchamps", "Forest of Dean", "Beauchamp"],
+      "place_mentions": ["Beauchamps", "Forest of Dean", "Beauchamp"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible at top left. 'Jr Cagain' may be a name or abbreviation — unclear. 'Fishpols' likely a family name (Fishpool?). 'After Cocoa' appears to be a music programme title. 'antery' appears to be the diarist's spelling of 'antry' or 'anthill area'. Year cannot be pinned from this page alone — the volume covers 1989–2003; Friday August 20th fell on: 1993, 1999. Most likely late summer family music event. 'Jr Cagain' could also read 'Jr Caquin' or similar."
+    },
+    {
+      "page_id": "A_0112_R",
+      "side": "R",
+      "handwritten_page_no": 27,
+      "blank": false,
+      "full_text": "Friday August 2[?]\n     We left at 5.0., & inspite of the Bank holiday, arrived at __Beauchamp__ at 6.15. Grandma, Grandpa, Aunt Helen & John joined us & had a drink while we ate supper. We heard Thomas play some Telemann with Rupert Budley. He was also in a sextet. The \"guards\" were on duty until 4.30 am.\n     __Sat__\n     While Thomas released the rest of us, went to see the cruck barn at __Ashleworth Court__. The church was pretty too — a squint, beautifully tapestried kneelers, & a rare, painted Edward [VI] rude screen. Flooding from [?Severn].\n     John & Charles & Eve had a trying walk over a vast field looking for blackberries.\n     In the afternoon we heard a lovely concert. John, Peter, Simon & Eve listened while William babysat Charles — which he said was very hard work with just one child. They played the New World Symphony. Afterwards Eve chatted to the mother of Adams, a boy on the course. She had a ten week baby & had written the biography of Laura Ashley.\n     Then we packed up & went home.",
+      "dates": [
+        { "raw": "Friday August 2[?]", "iso_guess": null, "confidence": 0.35 }
+      ],
+      "headings": ["Sat"],
+      "underlined_places": ["Beauchamp", "Ashleworth Court"],
+      "place_mentions": ["Beauchamp", "Ashleworth Court"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Handwritten page number '27' visible in top right corner. The day number after 'August 2' at the top is partially cut off or unclear — could be 27 or 21. 'Rupert Budley' is a name; could also read 'Rudley' or 'Budley'. 'Edward VI rude screen' likely means 'rood screen' (carved chancel screen), mis-spelt or heard phonetically by diarist. 'Flooding from [?Severn]' — the word after 'from' is partially cut off at the page edge, 'Severn' is probable given Ashleworth Court is on the River Severn in Gloucestershire. Year cannot be confirmed from text; consistent with the left page's Friday August 20 entry suggesting this is the same late-August camp."
+    }
+  ]
+}

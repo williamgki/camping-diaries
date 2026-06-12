@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0096",
+  "volume": "B",
+  "pdf_page": 96,
+  "pages": [
+    {
+      "page_id": "B_0096_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "next to where people - lots of fat people - are picnicking by the river.\n\n[photo: Dartmeet postcard]\n\nDartmeet, East Dart River, modern bridge + ancient clapper bridge (600 years old ?) Dartmoor",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Dartmeet", "East Dart River", "Dartmoor"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Dartmeet, East Dart River, modern bridge + ancient clapper bridge (600 years old ?) Dartmoor"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in postcard photograph labelled 'DARTMEET' with a handwritten caption written rotated alongside the photo. No handwritten page number visible at top-left. Text at top is continuation from previous page."
+    },
+    {
+      "page_id": "B_0096_R",
+      "side": "R",
+      "handwritten_page_no": 39,
+      "blank": false,
+      "full_text": "We walked to where the 2 Darts meet. It's a marvellous place for children, clapper bridge, wet suits, rubber boats going through rapids, tiddle nets.\n\n\tWe picked up Margaret + Helen + headed for home (forgetting the logan berry bushes that Evelyn had got ready for us.)\n\n__July 1st, Saturday__\n\tAfter a mission planning day in church we left to pick up Margaret + Helen for supper in the van. A foot ball match was on TV so at 4.15. the roads were nearly empty. Very hot.\n\tWe had a good evening at Hampton Lode. England lost to Portugal.\n__July 22nd, Saturday.__ (Simon took the van to get lampshades at Blackburn)\n\tCharles, Peter, Simon, Eve + Tonic drove to Trimley where we gave Margaret + Helen lunch in the garden. Peter took along",
+      "dates": [
+        { "raw": "July 1st, Saturday", "iso_guess": "2006-07-01", "confidence": 0.7 },
+        { "raw": "July 22nd, Saturday", "iso_guess": "2006-07-22", "confidence": 0.7 }
+      ],
+      "headings": ["July 1st, Saturday", "July 22nd, Saturday."],
+      "underlined_places": [],
+      "place_mentions": ["Hampton Lode", "Blackburn", "Trimley"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page number 39 visible at top-right. Text is continuation from left page (starts mid-sentence about the Dart rivers meeting at Dartmeet). 'tiddle nets' may be 'tiddler nets' — transcribed as written. 'Tonic' is likely a nickname or pet name. Year 2006 inferred because July 1st fell on a Saturday in 2006 and July 22nd 2006 was also a Saturday, consistent with both date mentions. Annotation '(Simon took the van to get lampshades at Blackburn)' appears as an interlinear note beside the July 22nd heading. Text ends mid-sentence at page bottom — continues on next page. 'logan berry' transcribed as written (loganberry)."
+    }
+  ]
+}

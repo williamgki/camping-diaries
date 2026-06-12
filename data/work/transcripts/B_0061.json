@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0061",
+  "volume": "B",
+  "pdf_page": 61,
+  "pages": [
+    {
+      "page_id": "B_0061_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "86 WestField Rd, Edgbaston, Birmingham\nB15 3 JG.      0121-454-3730.\n2005. July – 2008 July.",
+      "dates": [
+        { "raw": "2005. July – 2008 July.", "iso_guess": "2005-07", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Edgbaston", "Birmingham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "This appears to be an inside cover or flyleaf page with an ownership/address label and a date-range label for the volume section (2005 July – 2008 July). The text in the bottom-right corner ('Tru...', 'Sin...', 'Wo...') is the 3% overlap bleed from the right page caption and has not been transcribed here. Left margin shows the edge of a decorative or photo element from the facing page."
+    },
+    {
+      "page_id": "B_0061_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Three rabbits representing the\nTrinity, Mediaeval glass, Long Melford.\nSimilar representation found in [?6] China &\nwooden roof bosses in Devon.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Long Melford", "China", "Devon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Three rabbits representing the Trinity, Mediaeval glass, Long Melford. Similar representation found in [?6] China & wooden roof bosses in Devon."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page contains a photograph of stained glass depicting three hares/rabbits (a medieval 'three hares' motif). The handwritten caption below reads as transcribed. The '[?6]' reading is uncertain — could be a stray numeral or possibly 'in' written with a flourish, or an abbreviation. 'China' here likely refers to the country China, not a place in Britain. Long Melford is a village in Suffolk, UK."
+    }
+  ]
+}

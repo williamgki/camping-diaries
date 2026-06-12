@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0297",
+  "volume": "A",
+  "pdf_page": 297,
+  "pages": [
+    {
+      "page_id": "A_0297_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "From Wolfhamscote (Warwicks) we cycled to All Saints Braunston (Leics) for church. A woman priest, a good sermon & prayers. Welcoming.\n\tThen we cycled to the Admiral Nelson, a pub next to a lock, where Simon & Eve had plaice & Charles had jumbo sausage\n\tWe cycled along the canal & by road back to the van. After Simon had seen inside the church, we set off home.\n\tOctober 6th Saturday\n\t\tSimon & Eve) set off for Normandy alone. Charles Boarding BC, John Malvern Peter [?jazz] saxophone London, William Cambridge, Thomas Greenwich. We go to Guildford to see Di in hospital We stopped to see Jane & Harry. Saw Werema lilies & small red gladioli. Harry gave us a beautiful piece of Crown Derby [?1804] or 1822 given to his great grandfather, who had married a",
+      "dates": [
+        { "raw": "October 6th Saturday", "iso_guess": "2001-10-06", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Wolfhamscote", "Warwicks", "Braunston", "Leics", "Admiral Nelson", "Normandy", "Malvern", "London", "Cambridge", "Greenwich", "Guildford"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Top-left corner where page number would appear is not clearly visible; page number set to null. The date 'October 6th Saturday' — year not stated on page; volume covers 1989-2003 and this is near the end of the volume (pdf_page 297 of 350), so likely early 2000s but cannot confirm. 'BC' after 'Boarding' may be an abbreviation (boarding school?). Crown Derby date reads possibly '1804' or '1822'. Text continues onto right page mid-sentence."
+    },
+    {
+      "page_id": "A_0297_R",
+      "side": "R",
+      "handwritten_page_no": 21,
+      "blank": false,
+      "full_text": "Menton.\n\tOn to Portsmouth, where the ferry people had given our tickets to other people called Kirby, who had not taken their booking number off the internet. We had a lovely cabin. Walked out in the middle of [?the] Moulin Rouge film. Had rice supper. Left the port & camped at D'Antifer, Henqueville. *** Windy, high cypress & privet hedges. Typical French summer camp chalets. Pretty.\n\tat [?1st] Sunday\n\tOn towards __Etretat__. We pass a very attractive Normandy Farm complex, red brick & flint-patterned walls, house, stable block, out houses. Sunshine.\n\tWe reach Etretat & shop for pâté, sausage, cake & bread. Church is beautiful a small Norman church 8 gallant columns — capitals go to square from round columns. V [?Mr Long] round arches, Hugh lanterns. Good service. Priest spoke clear French. Pauses during his sermon. After church we wandered around the town & ate at the 2 Augustins — vast pots of mussels, moules. Simon ate mine. Sharp white wine. As it clouded over we staggered",
+      "dates": [
+        { "raw": "at [?1st] Sunday", "iso_guess": "2001-10-07", "confidence": 0.3 }
+      ],
+      "headings": ["Etretat"],
+      "underlined_places": ["Etretat"],
+      "place_mentions": ["Menton", "Portsmouth", "D'Antifer", "Henqueville", "Etretat", "Normandy"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "Handwritten page number '21' visible at top right. 'Moulin Rouge' appears to have a strikethrough over part of it (the 'the') — written as '[?the] Moulin Rouge'. 'D'Antifer, Henqueville' — could also read 'D'Antifer' as a separate location from 'Henqueville'; both are places near Etretat on the Normandy coast. 'Menton' at top left appears to be end of a word from previous page (possibly 'Braunston'? — no, Menton is a word; could be a person's name or continuation). '2 Augustins' is the restaurant name. '[?Mr Long]' is unclear — possibly 'very long'. Text ends mid-sentence, continuing onto next spread. Year estimated from volume position (near end of volume A, 1989–2003)."
+    }
+  ]
+}

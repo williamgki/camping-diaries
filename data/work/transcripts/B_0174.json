@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0174",
+  "volume": "B",
+  "pdf_page": 174,
+  "pages": [
+    {
+      "page_id": "B_0174_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday June 12th\n\nView from table + chairs behind hedge at camp site Eastward, Shropshire.\nwe need to buy, bread milk tea glue cafetiere\n\n    We went to Stokesay Castle + each listened to a tape recording of its history as we wandered around. A beautiful place. It surrendered to Cromwell's troops in the civil war. Lawrence of Ludlow had permission to build a castle from the king. It wasn't one of the Marches Castles.\nEnroute to the Elan Valley Reservoirs we had an outdoor lunch at a pub. There were 3 or more Reservoirs, built 1886-19[illegible]. At any time they had 5,000 men working on them, 12,000 men were on the books. A final reservoir was opened by Queen Elizabeth, her first appointment on ascending",
+      "dates": [
+        { "raw": "Saturday June 12th", "iso_guess": "2010-06-12", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Eastward", "Shropshire", "Stokesay Castle", "Ludlow", "Marches Castles", "Elan Valley Reservoirs"],
+      "route_sketch": true,
+      "route_sketch_description": "Pencil sketch at top of page showing a landscape view of rolling hills/mountains, with some tree/vegetation outlines, labelled as the view from the campsite at Eastward, Shropshire.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.88,
+      "notes": "Ink is green for main diary text; pencil for the landscape sketch. The date 'Saturday June 12th' fell on a Saturday in 2004 and 2010 within the volume's range (2003-2019); mid-volume position (page 174 of 373) loosely suggests 2010 is more likely, but year cannot be confirmed from page content alone. The reservoir construction date reads '1886-19' followed by partially legible digits that may be '03' or '08' — transcribed as [illegible]. 'Eastward' could also read 'Eastwood' — best reading given context of Shropshire campsite is 'Eastward'."
+    },
+    {
+      "page_id": "B_0174_R",
+      "side": "R",
+      "handwritten_page_no": 29,
+      "blank": false,
+      "full_text": "Stokesay Castle\n1280 fortified\nmanor house",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Stokesay Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Stokesay Castle 1280 fortified manor house"],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.95,
+      "notes": "Page contains a single glued-in colour photograph of Stokesay Castle showing the half-timbered gatehouse and ruined curtain walls with a graveyard in the foreground. The caption below the photo is handwritten in green ink."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0050",
+  "volume": "B",
+  "pdf_page": 50,
+  "pages": [
+    {
+      "page_id": "B_0050_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "INFORMAL CONCERT\n\nSunday 17th October 2004 : 7.30 p.m. St Edmund's Hall\n\nBacchanale\n    Jonathan Hill (timpani)\n    Ian Wright\n\nModerato\n    Michael Allum (piano)\n    Haydn\n\nBlack and White Blues\n    Catherine Ponting (cello)\n    Paul Harris\n\nCurtain Call Blues\n    'The Five'\n    John Foxall (trumpet), Matthew McDade (trombone)\n    Jonathan Hill (vibraphone), Gregory Swinford (piano)\n    Peter Churchill\n\nTell me Lovely Shepherd (from Solomon)\n    Scott Mahoney (treble)\n    Boyce (arr. E.Poston)\n\nAndante\n    Andrew McDade (tuba)\n    Capuzzi",
+      "dates": [
+        { "raw": "Sunday 17th October 2004", "iso_guess": "2004-10-17", "confidence": 0.99 }
+      ],
+      "headings": ["INFORMAL CONCERT"],
+      "underlined_places": [],
+      "place_mentions": ["St Edmund's Hall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.97,
+      "notes": "This page is a glued-in printed concert programme (orange/red background, printed black text), not handwritten diary text. The programme is for an Informal Concert at St Edmund's Hall on 17th October 2004."
+    },
+    {
+      "page_id": "B_0050_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Andante\n    Scott Mahoney (treble)\n    Andrew McDade (tuba)\n    Capuzzi\n\nArabesque No.1\n    Hanano Kawase (piano)\n    C. Debussy\n\nItalian Dance\n    Simon Eaton (oboe)\n    Madeleine Dring\n\nTrombone Concerto - 2nd movement\n    Matthew McDade (trombone)\n    Gregory Swinford (piano)\n    Lars-Erik Larson\n\nAndante from Concerto\n    Eleanor Nichols (flute)\n    B. Molique\n\n'Am Abend da es kühle war'\n\"Mache dich, mein Herze, rein' (from St. Matthew Passion)\n    Gregory Swinford (baritone)\n    J.S. Bach\n\nSonata Movement No. 2\n    John Kirby (cello)\n    Shostakovich\n\nPartita in C Minor - 1st Movement\n    Hector Leung (piano)\n    J.S. Bach",
+      "dates": [
+        { "raw": "Sunday 17th October 2004", "iso_guess": "2004-10-17", "confidence": 0.99 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.97,
+      "notes": "Continuation of the same glued-in printed concert programme (reverse or second page). No handwritten text present. The overlap at the gutter with the L page repeats 'Andante / Scott Mahoney (treble) / Andrew McDade (tuba) / Capuzzi' — this is the gutter overlap; primary assignment is to the L page."
+    }
+  ]
+}

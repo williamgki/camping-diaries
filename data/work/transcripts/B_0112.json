@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0112",
+  "volume": "B",
+  "pdf_page": 112,
+  "pages": [
+    {
+      "page_id": "B_0112_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Our campsite was basic – only one shower, but clean. A man next to us was camping on his own with 4 children\n__Friday__ Boulanger 2 min. walk. Eve bought cakes.\n\tWe picked up M+H & drove past Chateau de Chambord.\n\tWe drove north, Charles map-reading with the GPS through Paris suburbs. Just south of Amiens, St. Fuscien, is Margaret's hotel. We dropped off her case & found a LeClerc & stocked up for England. Simon drove into Amiens & we found a very good place to eat supper, overlooking the boat-gardens, Hortillages. Lovely scenery.\n\tIn the night there was a terrific thunderstorm, but Margaret slept through it!\n~~Thursday~~ __Saturday 12th August '06__\n\tWe all came into the \"hotel\" for a stupendous breakfast, artistically laid out –",
+      "dates": [
+        { "raw": "Saturday 12th August '06", "iso_guess": "2006-08-12", "confidence": 0.97 }
+      ],
+      "headings": ["Saturday 12th August '06"],
+      "underlined_places": ["Hortillages"],
+      "place_mentions": ["Boulanger", "Chateau de Chambord", "Paris", "Amiens", "St. Fuscien", "LeClerc", "Hortillages", "England"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The word 'Thursday' is crossed out and replaced with 'Saturday'. 'Boulanger' may refer to a bakery/shop rather than a place name but included as it appears in context. 'St. Fuscien' is a village south of Amiens. 'M+H' likely refers to Margaret and husband or two named individuals. Text continues from a previous page (mid-sentence at top)."
+    },
+    {
+      "page_id": "B_0112_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Angel,\nweeping on\nthe tomb of\nGuillan Lucas,\nAmiens\nCathedral.\n\nThe largest\nGothic Cathedral\nin France.\n75 stones high\non nave column\nbefore vaulting\n__XIII__\n\nwatermelon, apples & grapes, sugared (frozen?) [a bit.] musoli, bread, cake, croissants. We chatted about his design business & Chad.\n\tWe looked at Amiens Cathedral & set",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Amiens Cathedral"],
+      "place_mentions": ["Amiens Cathedral", "France"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Angel, weeping on the tomb of Guillan Lucas, Amiens Cathedral. The largest Gothic Cathedral in France. 75 stones high on nave column before vaulting XIII"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page contains a glued-in photograph of a cherub/angel statue at Amiens Cathedral. The annotation 'XIII' (underlined) beside the photo caption likely refers to a Roman numeral label or chapter/section number rather than a page number — it does not appear in the top outer corner. The word 'musoli' may be 'muesli'. 'frozen?' has a question mark in the original with a small note 'a bit.' written nearby. 'Guillan Lucas' could be 'Guillan' or another spelling — read as written. Text ends mid-sentence ('& set'), continuing to next page."
+    }
+  ]
+}

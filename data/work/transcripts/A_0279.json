@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0279",
+  "volume": "A",
+  "pdf_page": 279,
+  "pages": [
+    {
+      "page_id": "A_0279_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Sunday 22nd August.__\n\tAfter church we went to Stapeley Water Gardens with Jim, Margaret & Helen & Polly, the American cousin/nannie. The gardens weren't very good – it was mostly an indoors zoo. We had lunch there, & ended with John's birthday tea. But his brothers teased him for being fat until he cried, so it was pretty dreadful.\n\n__Friday 3rd Sept__\n\tSimon, Thomas & Eve set off early for London. Thomas went into the centre & Trinity College. Simon & Eve trailed around shops & architects in hot heat. Jonathan showed Eve good curtain material for the bedroom.\n\tWe moved Thomas into 32 Mountview Rd, N4. The hoovers were both broken. Then we drove to David's & went to a restaurant for Jim & Margaret's diamond wedding anniversary. Sally's having a baby & Dylan's got [?diabetes] [strikethrough: [illegible]]. The food was delicious.\n\tWe spent the night on Mountview Rd.",
+      "dates": [
+        { "raw": "Sunday 22nd August", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Friday 3rd Sept", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sunday 22nd August.", "Friday 3rd Sept"],
+      "underlined_places": [],
+      "place_mentions": ["Stapeley Water Gardens", "London", "Trinity College", "32 Mountview Rd, N4", "Mountview Rd"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible in top-left corner. Year cannot be determined from this page alone — the volume covers 1989–2003; 'diamond wedding anniversary' (60 years), 'Jim & Margaret' and other personal context might help anchor the year in a separate pass. The word after 'Dylan's got' appears to have a strikethrough with 'diabetes' written above in a correction; transcribed best reading as [?diabetes]. 'Mountview Rd' could also read 'Mountview Rd' — appears consistent."
+    },
+    {
+      "page_id": "A_0279_R",
+      "side": "R",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "before hurrying back to Birmingham for Tony's hair cut.\n\n__Saturday October 9th.__\n\tSimon & Eve drove across to Ely Station to pick up Thomas for Robert Upex's 50 birthday party at Chippenham. A super party. We slept on the drive & had breakfast in the sunshine outside.\n\tBantam Chickens, bees & piglets in the nave of Ely Cathedral for a lovely harvest service. A Congolese setting for the Mass which needed dancing, but everyone stood stock still. After a snack in a coffee house, we took Thomas to the station & went home.",
+      "dates": [
+        { "raw": "Saturday October 9th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Saturday October 9th."],
+      "underlined_places": [],
+      "place_mentions": ["Birmingham", "Ely Station", "Chippenham", "Ely Cathedral"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page number '2' visible in top-right corner. This page begins mid-sentence continuing from the left page (or a preceding page). The text 'before hurrying back to Birmingham for Tony's hair cut.' is a continuation from a previous section. Year not determinable from this page; 'Saturday October 9th' combined with 'Robert Upex's 50 birthday party' may allow year anchoring elsewhere. 'Upex' could also read 'Ipex' — best reading is 'Upex'."
+    }
+  ]
+}

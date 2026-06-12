@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0361",
+  "volume": "B",
+  "pdf_page": 361,
+  "pages": [
+    {
+      "page_id": "B_0361_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Chorby?] Woods at about 8.25. for breakfast, on the road again at 8.55. We went on + on + will be getting to Crail about 4.15. Conta has rented a house where we are staying. She is organising a pre-wedding supper in a hall, to which we are bringing Welsh daffodils. The dinner all went very well. Conta had cooked delicious Lasagna, peas + chocdate Brownies. Claudia + Theo went to supper with their father, Joss + Wanda ate with us. We slept in Conta's house.\n\n__Saturday__\nAlas Conta woke up with a throbbing headache + bore throat + tested positive for Covid 19. The wedding was beautiful in the Cow Shed at Crail. There was an amusing MC. Theo played the [Piano?]. Joss told a poem. Over 200 at the wedding. Delicious beef cheek. We had to leave after the dancing started because of strobe lights. Alfie made a speech about how nice Conta is.\n\n__Sunday__\nWe chatted + then went to the brunch back in the Crushed. Louisa had baked a triple cake - lemon? vanilla, chocolate, ginger? The brunch was also super. We chatted to new friends + said Goodbye to all, including David + Maxine, who was 60 on the day.",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday", "Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Crail", "Cow Shed at Crail"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Top of page is cut off — text begins mid-sentence with '[Chorby?] Woods' (possibly 'Chorleywood' or 'Chorley Woods'). The diary mentions Covid-19, placing this spread post-2020, though volume B is described as covering 2003-2019; the volume appears to extend beyond 2019. 'chocdate' likely 'chocolate'. 'bore throat' likely 'sore throat'. 'the Crushed' may be a venue name or partial reading. Handwritten page number not visible on this left page."
+    },
+    {
+      "page_id": "B_0361_R",
+      "side": "R",
+      "handwritten_page_no": 62,
+      "blank": false,
+      "full_text": "We have offered to have Conta to stay while she recovers from Covid. We set off + spent the night at __Kirk Loch__. Lovely.\n\n__Monday__\n  Simon tested positive when we woke up. He doesn't feel well. We had lunch at Englewood Brook Chapel. Picked up lampshades in Bolton, picked up dog from Jackie + hurried home before Conta gets there!\n\n__Friday March 25th__\nWe left home at 9.45. to take Tinder to the vet. Skin lesions, sore ear. (Charles had a baby Oliver last week. Wanda has turned her face to the wall.) We travelled all morning up to the Peak District + parked [Seplurt?] at Alsop on the Tissington Trail. A marvellous bike ride with our now ebikes N to Hartington station. [10 miles] Now we are camped at Fourginside Farm near Parwich. Glorious sunshine. The solar panel is more than adaquate to fill the ebikes. The sunshine continues.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.25 },
+        { "raw": "Friday March 25th", "iso_guess": "2022-03-25", "confidence": 0.75 }
+      ],
+      "headings": ["Monday", "Friday March 25th"],
+      "underlined_places": ["Kirk Loch", "Friday March 25th"],
+      "place_mentions": ["Kirk Loch", "Englewood Brook Chapel", "Bolton", "Peak District", "Alsop", "Tissington Trail", "Hartington station", "Fourginside Farm", "Parwich"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Handwritten page number '62' visible at top right. 'Friday March 25th' was a Friday in 2022, consistent with Covid references on this spread. 'Englewood Brook Chapel' may alternatively read 'Englesea Brook Chapel' (a Methodist chapel in Cheshire, near Crewe — plausible en route home from Scotland). '[Seplurt?]' is an unclear interlined annotation, possibly 'Specifically' or a place abbreviation — unclear. 'Fourginside Farm' may alternatively read 'Fouginside Farm' or similar — uncertain spelling. 'adaquate' is the diary's spelling (for 'adequate'). 'N' above 'to' appears to be a superscript annotation. 'Tinder' appears to be the family pet's name."
+    }
+  ]
+}

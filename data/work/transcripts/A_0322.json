@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0322",
+  "volume": "A",
+  "pdf_page": 322,
+  "pages": [
+    {
+      "page_id": "A_0322_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "joined in games of round-robin with other children. In the late afternoon we walked to the barage, the damn, which is just over a mile away. Brown cows, fishermen. A huge squame of water. Like Sizewell power station, it is closed to visitors, maybe because of Sept 11. On the way back there were huge storm clouds, but rain didn't fall on us.\n\n   The supermarkets were closed yesterday & we had very little food left, so we went to the lakeside restaurant for supper & had good salad & icecream.\n\n   __Tuesday.__\n\n   Good croissants & bread from the reception. Peter had marmite on his croissant. There were waves of torrential rain in the early morning. Rivers inside the tent. Wet sleeping bags.\n\n   We shopped at Mende & then found the campsite __Le Jardin de Tivoli__ * * * * ½. There was a bad row as we arrived. We had lunch & read. In the afternoon David, Sally, Maia, Dylan & Jem arrived. The children swam. David cooked spaghetti. We walked up into Mende in the evening & went to the market. It was dark when we returned. Lovely old houses [sketch of house shape] with roofs this shape & an old bridge.\n\n   (campsite bad sewage smells at [illegible]\n\n   [illegible] at one point.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sept 11", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Tuesday"],
+      "underlined_places": ["Le Jardin de Tivoli"],
+      "place_mentions": ["Sizewell", "Mende", "Le Jardin de Tivoli"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "The reference to 'Sept 11' being the reason Sizewell power station is closed to visitors is a contextual aside suggesting this trip was made after 11 September 2001; volume A covers 1989–2003. The barage/damn most likely refers to a reservoir near Mende in the Lozère region of France. 'squame' may be a misreading — possibly 'expanse' or 'square' but written 'squame'. The hand-drawn house roof shape is a small inline sketch, not a route sketch. Some text at the bottom of the page is partially cut off and illegible."
+    },
+    {
+      "page_id": "A_0322_R",
+      "side": "R",
+      "handwritten_page_no": 67,
+      "blank": false,
+      "full_text": "(13 bridge at Mende. Still used by cars.\n\n   __Wednesday__\n\n   Still quite cool weather. A pity, because the children don't swim. The boys fight at intervals. Dylan, John & Sally & Peter stayed in camp. David & Simon, Charles, [?Ella] Maia & Jem went to the supermarket in Mende & Eve got a lift in & went to the cathedral. Plain early Romanesque. A black Madonna that looked like a man. Good wood carvings on choir, & wood carvings on choir loft & Aubusson hangings up in chancel which were too dark to see.\n\n   We had lunch back at the camp & then Simon drove us up into the hills for a walk-",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Mende"],
+      "route_sketch": true,
+      "route_sketch_description": "A pen-and-ink drawing of a stone arch bridge, viewed from the side, showing the arch, stonework crenellations on top, and a river/rocky banks below. Captioned '(13 bridge at Mende. Still used by cars.' — likely a 13th-century bridge at Mende.",
+      "photo_captions": ["(13 bridge at Mende. Still used by cars."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "The drawing is a hand-drawn sketch (not a photo) of a medieval bridge at Mende. The caption '(13' likely means '13th century' — i.e. '(13th century) bridge at Mende'. The struck-through name before 'Maia' could be 'Ella' or similar; marked [?Ella]. 'Aubusson hangings' refers to Aubusson tapestries, consistent with a Romanesque cathedral interior. Text at the bottom is cut off — the page continues on the next spread."
+    }
+  ]
+}

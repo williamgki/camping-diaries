@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0266",
+  "volume": "A",
+  "pdf_page": 266,
+  "pages": [
+    {
+      "page_id": "A_0266_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "May 1st.  We reached John Crowder at Letheringsett Hall.  He seems very well + well looked after.  Church with a round tower.  Very very pretty countryside.\n\tThen on to near Mildenhall, __Chippenham Park West Wing__.  We are sitting in almost sun on the balcony.  Tonic likes the balcony  lovely gardens.\n\n[photo of fairground ride with people]\n\n↑\nJohn; terror",
+      "dates": [
+        { "raw": "May 1st", "iso_guess": "1999-05-01", "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Chippenham Park"],
+      "place_mentions": ["Letheringsett Hall", "Mildenhall", "Chippenham Park West Wing"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["John; terror"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "No handwritten page number visible in top-left corner. 'Letheringsett' is best reading of the surname/place — could also be 'Letheringsott'. The underline covers 'Chippenham Park West Wing' (written as a single underlined heading). Year not stated on page; volume position (p.266 of 350) loosely suggests late 1990s–early 2000s but year is not asserted with confidence. 'Tonic' appears to be a dog's name. Photo caption 'John; terror' written below photo of fairground ride."
+    },
+    {
+      "page_id": "A_0266_R",
+      "side": "R",
+      "handwritten_page_no": 10,
+      "blank": false,
+      "full_text": "We found a campsite at 3 miles N.W of Littleport, Hale Ten, __Cave farm__ +, a field bordered by Willow + silver birch, + walks along straight raised paths.  Two clean loos + a shower.  Very quiet + pleasant.  Simon practised cricket with Charles, while Eve walked Tonic to a barn where he chased rabbits.  A lovely evening.\n\tMay 2nd, Sunday.  Charles + Eve again walked Tonic to the barn; this time Tonic did not swim through a very polluted [?stream] drainage ditch.  Again no success in rabbit catching.\n\tWe went to __Ely__ Cathedral, all rather big + distant.  3 new choristers were admitted.  Staff friendly, but not much volume of sound from choir.  Cold.\n\tCharles + Eve went to Cromwell's House.  His body dug up + his head chopped off 3 years after his death.  Head not buried until 1960 in Sydney Sussex College.\n\tLunch in the carpark, then we drove to Stretham Old Engine 1831–25, steam pumps using Watts' parallel motion.\n\tWe stopped off at Guy Rogerson's on the way home to leave him the telephone + see Oliver.  Then on home.",
+      "dates": [
+        { "raw": "May 2nd, Sunday", "iso_guess": "1999-05-02", "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Cave farm", "Ely"],
+      "place_mentions": ["Littleport", "Hale Ten", "Cave farm", "Ely Cathedral", "Cromwell's House", "Sydney Sussex College", "Stretham Old Engine", "Guy Rogerson's"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten '10' visible in top-right corner — likely a page number within this section/trip rather than the absolute diary page. 'Hale Ten' is best reading; could be a place name or campsite name — unsure. 'Cave farm' is underlined. 'polluted [?stream]' — word is crossed out in original before 'drainage ditch', could read 'stream' or similar. 'Stretham Old Engine 1831–25' transcribed as written — the date range appears to be 1831–1925 (truncated). Text cut off at right margin in a few places: 'where he / chased rabbits' and 'sound from choir' reconstructed from context. 'Sydney Sussex College' is in Cambridge, consistent with Ely area trip. Year not stated on page; same caveat as left page."
+    }
+  ]
+}

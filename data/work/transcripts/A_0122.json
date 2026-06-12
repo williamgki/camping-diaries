@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0122",
+  "volume": "A",
+  "pdf_page": 122,
+  "pages": [
+    {
+      "page_id": "A_0122_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We drank beer John Smith at the \"Sloop on the harbour, and lovely Shellfish, brill & salmon at the \"Mermaid\". One beach out to the \"Island\" (with the little church with 2 crosses on) is calm & serene, uniform architecture & Tate, & the other has the fishing moke & tourist shops. The Tate was built in place of an old gasometer, enormous gas cylinder.\n   May 4th Wednesday\n      We woke to rain, but after 2 showers, the rest of the day has been sunny. We walked 20 minutes down the hill again to St. Ives church. It is very pretty, high, user-friendly with things explained as you walk round in the guide notes. The baptistary floor is paved [?≡III] by slates on end. Lovely alabaster, well lit behind the high altar, gilded saints in the wooden roof & a beautiful Madonna & child by Hepworth. The notes invited you to get your children to stroke the baby's head to feel how smooth the marble is.\n   St. Ives houses were divided into \"[?Upalong for] the tin miners & \"Downalong\" for the fishermen families. \"Downalong\" got all its water from",
+      "dates": [
+        { "raw": "May 4th Wednesday", "iso_guess": "1994-05-04", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Ives", "Tate", "Hepworth"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page begins mid-sentence — continuation from previous spread. No handwritten page number visible. The pub names 'Sloop' and 'Mermaid' are in quotation marks. 'Upalong' partially legible. 'Hepworth' refers to Barbara Hepworth (sculptor). The Madonna & child by Hepworth is in St. Ives church. The year is not stated on this page; the volume covers 1989-2003 and the content (visiting the Tate St. Ives, which opened 1993) suggests post-1993. Year assigned tentatively as null in iso_guess — insufficient evidence to pin year precisely; set as 1994 with low confidence as a rough estimate."
+    },
+    {
+      "page_id": "A_0122_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "St. Ia's well. She floated to Cornwall on a leaf from Ireland.\n   We bought a painting \"Skin Deep\" by Stephen Dove. We saw Barbara Hepworth's museum & very pretty garden. The Cornish Ice Cream is delicious. We bought shells for the boys & fudge, clotted cream fudge.\n   We had lunch down a track on the way to St. Just. We also booked a trip for tomorrow down a tin mine.\n   St. Just has an old, grass-covered circle/ amphitheatre where Mystery Plays were performed until the [?17], & a Methodist Church with an iron on the roof & Doric columns.\n   The Anglican church has enormous stones in the walls, & wall paintings & a standing head stone from the [?5] [?with] Sedus Hic [?acest] on it. We had beer & mead liqueur in the pub. ****\n   Our evening campsite is called Bosavern. We are camped in a beautiful lawned garden.\n   May 5th\n   I had a shower in the shower block. The garden is beautiful. They don't allow tents.\n   We set off to look at a [?] BC grave [?through] pea soup fog. I was frightened of falling",
+      "dates": [
+        { "raw": "May 5th", "iso_guess": "1994-05-05", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Ia's well", "Cornwall", "St. Just", "Bosavern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.80,
+      "notes": "Page ends mid-sentence — continues onto next spread. No handwritten page number visible. 'Bosavern' is a campsite near St. Just in Cornwall. The painting 'Skin Deep' by Stephen Dove — artist name may be 'Dove' or similar. The standing stone inscription 'Sedus Hic [?acest]' is partially legible — could be a Latin/Old Cornish memorial inscription. The century reference for Mystery Plays '[?17]' is uncertain. Year tentatively same as left page — post-1993 (Tate St. Ives context), set as low-confidence 1994."
+    }
+  ]
+}

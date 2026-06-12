@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0332",
+  "volume": "B",
+  "pdf_page": 332,
+  "pages": [
+    {
+      "page_id": "B_0332_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "into Amiens along a canal. It was a 13½k round trip, a nice ride. We looked at the cathedral + had a good supper by the Somme. Pork stew + apple pud. (apple + prune in pastry). Because it's so light at this date, the son-et-lumière didn't start until 10.45., so we left without seeing it. The cathedral was closed.\n\nPeople from England have been telling us of the heatwave forecast for N. France (40°), but we haven't noticed.\n\n__Nouvelles sur Mer__ have come up to\n\nThursday We shopped + shopped + have come up to Baie de Somme - lovely 16 mph breeze, but a bit windy for riding bikes which we had hoped to do. It's 5 pm + 27°. We are at the \"Chinese Cemetery\" camps at les Haies de Nolette. A barrier here now + more cabins",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Nouvelles sur Mer"],
+      "underlined_places": ["Nouvelles sur Mer"],
+      "place_mentions": ["Amiens", "Somme", "N. France", "Baie de Somme", "les Haies de Nolette"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["from milk ↑ from bread ↓"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Two Intermarché advertisement leaflets/postcards glued in (one showing milk production, one showing bread/bakery). The text 'Nouvelles sur Mer' appears underlined and may be the heading for the next destination; could also read as 'Nouvelles-sur-Mer'. The 'Chinese Cemetery' camps at les Haies de Nolette refers to a Chinese war cemetery near Nolette/Noyelles-sur-Mer. No handwritten page number visible on this side."
+    },
+    {
+      "page_id": "B_0332_R",
+      "side": "R",
+      "handwritten_page_no": 83,
+      "blank": false,
+      "full_text": "- many more campsites have barriers + cabins. They also have unisex loos - only Amiens has had m + f loos.\n\nWe cycled to station to find out the time of trains for Tomorrow, then Eve went to look at the Chinese Cemetery. Lots of men died in 1919, the last in March 1920. Why weren't they at home in China? The campsite has \"die-back\" in its ash trees - it won't have shade soon in large parts of it.\n\n__Friday__\nA glorious last day in France. The wind was gentle, so we cycled to + from le Crotoy. It was a glorious sunny ride along sunken [?Sint] cycle paths + sea rides. The tide was far out with people walking on the sand. We think we found the same restaurant for lunch that we ate at year ago - a huge plate to share of whelks, mussels, shrimps, lobster bits, oysters. Then we cycled further past holiday lets to see Lake Firmin but it was fenced",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "March 1920", "iso_guess": "1920-03", "confidence": 0.95 },
+        { "raw": "1919", "iso_guess": "1919", "confidence": 0.95 }
+      ],
+      "headings": ["Friday"],
+      "underlined_places": ["Friday"],
+      "place_mentions": ["Amiens", "Chinese Cemetery", "France", "le Crotoy", "Lake Firmin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Hotel 'Le Crotoy - Les Tourelles Restaurant' stamp/logo glued in on the right side. The word before 'cycle paths' is partially obscured/unclear — could read 'sunken Sint' or possibly 'sunken [?set]'. 'Lake Firmin' may refer to Lac de Romelaëre or another local lake near Le Crotoy; could also be 'Lake Firmin' as written. The dates 1919/1920 refer to historical information about the Chinese Cemetery, not the diary trip dates. Page number 83 visible in top right corner."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0317",
+  "volume": "A",
+  "pdf_page": 317,
+  "pages": [
+    {
+      "page_id": "A_0317_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Wednesday__\n\t[photo postcard: Paysage du Morvan]\n\t[caption beside photo:] Lac de Pannesière (Nièvre)\n\t• our campsite at Chaumont\n\nIt rained in the night & there were intermittent showers during the day. Wonderfully cool. Eve swam out into the lake before breakfast. After breakfast John & Charles paddled/rowed right across the lake.",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Lac de Pannesière", "Nièvre", "Chaumont"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Paysage du Morvan", "Lac de Pannesière (Nièvre)", "our campsite at Chaumont"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "No year visible on this page. Location is Lac de Pannesière in the Morvan, Nièvre, France. 'Chaumont' appears to be the campsite name/location near the lake. The postcard is labelled 'Paysage du Morvan'. Text continues on right page."
+    },
+    {
+      "page_id": "A_0317_R",
+      "side": "R",
+      "handwritten_page_no": 62,
+      "blank": false,
+      "full_text": "After elevenses we walked up into the village, leaving John at the van. There was a parade & bugle in the Cemetery to commemorate the Maquis of Chaumard. People were drinking in the Mairie. The church is old with old Statues of Sts Peter, Dennis, Sebastian & a very old statue of St. Anne (?).   brown slugs\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t     blond cows\n\tAfter lunch we walked up to see St. Peter's well along lovely old roads. Good views of the lake. Three hamlets including 70 buildings were drowned in building the dam 1936-49. The dam is hydro electric, built on granite, to prevent flooding of the Seine near Paris. High in July low in October. 90% water leaves the dam every year.\n\t[Badoit water label glued in]\n\tWe booked croissants for breakfast & a",
+      "dates": [
+        { "raw": "Wednesday (continued)", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Chaumard", "Mairie", "Seine", "Paris"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Badoit Source St-Galmier — 100 cl Eau Minérale Naturelle Gazeuse"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "Page number 62 visible in top-right corner. 'Chaumard' is a village near Lac de Pannesière in the Nièvre, Morvan. 'Maquis of Chaumard' refers to WWII French Resistance. Marginalia 'brown slugs blond cows' written to the right margin in smaller text. A Badoit mineral water label (100cl) is glued in. Text cuts off at bottom ('We booked croissants for breakfast & a') — continues on next page. Dam construction dates given as 1936-49. No explicit year given; the trip appears to be in France (Morvan/Nièvre region)."
+    }
+  ]
+}

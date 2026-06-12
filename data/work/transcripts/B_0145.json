@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0145",
+  "volume": "B",
+  "pdf_page": 145,
+  "pages": [
+    {
+      "page_id": "B_0145_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "1. Zamora, Spain 2008\n2.St. Pedro\n3.Salamanca, Arpile\n4 Salamanca\n5 Avila\n7 Toledo\n8 Madrid\n10 Embalee de la Cuerda del Poso\n11 North of Pamplona, Suaren\n   Roncevallbs\n12 North of Bergerac\n   Bas Noux\n13 St. Jean de Vauce\n   Hampton Lode\n14 Cambridgeshire\n   Fotheringay\n15 Foulsham, Potter Heigham\n   Halesworth, R. Yare, Annette\n16 Enville church Stretton,\n   Hamperley, Long Mynd\n   Oswestry, Bewdley\n17 Hampton Lode, Kings Norton\n18 Humber Bridge, Bridlington\n   Whitby Scarborough\n19 Coalhouses, Alnick Garden\n20 Bamburgh, Holy Island\n   Dunstanborough\n21 Cragside, Rothbury Kielder",
+      "dates": [
+        { "raw": "2008", "iso_guess": "2008", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Zamora", "Spain", "St. Pedro", "Salamanca", "Arpile", "Salamanca", "Avila", "Toledo", "Madrid", "Embalee de la Cuerda del Poso", "Pamplona", "Suaren", "Roncevallbs", "Bergerac", "Bas Noux", "St. Jean de Vauce", "Hampton Lode", "Cambridgeshire", "Fotheringay", "Foulsham", "Potter Heigham", "Halesworth", "R. Yare", "Enville", "Church Stretton", "Hamperley", "Long Mynd", "Oswestry", "Bewdley", "Hampton Lode", "Kings Norton", "Humber Bridge", "Bridlington", "Whitby", "Scarborough", "Coalhouses", "Alnick Garden", "Bamburgh", "Holy Island", "Dunstanborough", "Cragside", "Rothbury", "Kielder"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "mixed",
+      "legibility": 0.82,
+      "notes": "This is an index page mapping entry numbers to place names with page numbers in a right-hand column (page numbers are partially cut off at the right edge of the scan). Entry 1 is annotated 'Spain 2008' giving the year. No entry 6 is visible (jumps from 5 to 7). 'Arpile' may be 'Arevalo' or similar Spanish place; written as 'Arpile'. 'Embalee de la Cuerda del Poso' is likely 'Embalse de la Cuerda del Pozo' (reservoir near Soria, Spain). 'Roncevallbs' likely 'Roncesvalles'. 'Bas Noux' uncertain — could be 'Bas Nouc' or a campsite name. 'St. Jean de Vauce' uncertain — could be 'St. Jean de Luz' or 'St. Jean de Vaux'. 'Hamperley' may be 'Hamperley' (a village near Church Stretton). 'Alnick Garden' likely 'Alnwick Garden'. 'Dunstanborough' likely 'Dunstanburgh'. Entries in black ink (1-13 approx) then blue ink (14 onwards), suggesting two writing sessions."
+    },
+    {
+      "page_id": "B_0145_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "21 Bowes, Arkengarthdale\n22 Trimley, Halesfam, Bristol\n   Winsford.\n23 Brandon Hills\n24 Queens Camel, Trimley\n   Pentyrse, Wales, Torpatten\n25 Old Roman Rd, Brecon,\n   Crickhowell, Abbeydore.\n   Moreton in the Marsh\n   Lower Swell, Pangolin Foundry.\n26 Folly Farm, Snowshill Manor\n27 Trimley.\n28 Ludlow, Elgich Barns.\n   Stokesay Castle.\n29 Elan Valley, Cwmiswyth\n   Tregaron.\n30 Arley Arboretum, Thornmess\n   Dunkirk\n31 Groenpark, Donk, St. Amands\n   Elewist, Mechelon Mahines\n32 Bad Honnef, Schwarzrheindorf\n33 Lowersborg, Osare, Ettenheim.\n   Freiburg.\n34 Colmar\n35 Lyons, St. Genest Malifoux\n36 Puy-en-Velay, Vivier Monastrol d'Allier\n   Giant's Causeway.\n37 Haute-Loire, Cantal, Entraques,",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Bowes", "Arkengarthdale", "Trimley", "Halesfam", "Bristol", "Winsford", "Brandon Hills", "Queens Camel", "Trimley", "Pentyrse", "Wales", "Torpatten", "Old Roman Rd", "Brecon", "Crickhowell", "Abbeydore", "Moreton in the Marsh", "Lower Swell", "Pangolin Foundry", "Folly Farm", "Snowshill Manor", "Trimley", "Ludlow", "Elgich Barns", "Stokesay Castle", "Elan Valley", "Cwmiswyth", "Tregaron", "Arley Arboretum", "Thornmess", "Dunkirk", "Groenpark", "Donk", "St. Amands", "Elewist", "Mechelon Mahines", "Bad Honnef", "Schwarzrheindorf", "Lowersborg", "Osare", "Ettenheim", "Freiburg", "Colmar", "Lyons", "St. Genest Malifoux", "Puy-en-Velay", "Vivier", "Monastrol d'Allier", "Giant's Causeway", "Haute-Loire", "Cantal", "Entraques"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "blue",
+      "legibility": 0.80,
+      "notes": "Continuation of the index from the left page. Entry 21 is repeated on both pages (Cragside/Rothbury/Kielder on left; Bowes/Arkengarthdale on right) — the right page likely refers to the same trip entry continuing. 'Halesfam' may be 'Halesworth' or 'Halesham'. 'Pentyrse' uncertain — could be 'Pentyrch' (Wales) or 'Pentre'. 'Torpatten' uncertain — possibly 'Torpantau' (Brecon Beacons area). 'Cwmiswyth' likely 'Cwmystwyth'. 'Thornmess' uncertain — possibly 'Thornness' (Isle of Wight) or a campsite name. 'Groenpark' likely a Dutch campsite. 'Donk' likely 'Donk' (Belgium). 'St. Amands' likely 'Sint-Amands' (Belgium). 'Elewist' possibly 'Elewijt' (Belgium). 'Mechelon Mahines' likely 'Mechelen/Malines' (Belgium). 'Lowersborg' uncertain — possibly 'Lauterburg' or similar. 'Osare' uncertain. 'St. Genest Malifoux' possibly 'St. Genest-Malifaux'. 'Vivier Monastrol d'Allier' likely 'Vivier / Monistrol d'Allier'. 'Giant's Causeway' appears unexpectedly in entry 36 alongside French locations — possibly a separate unrelated trip note. 'Entraques' likely 'Entraygues-sur-Truyère'. Entry 37 appears to be cut off at bottom of page."
+    }
+  ]
+}

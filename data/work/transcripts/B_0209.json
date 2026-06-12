@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0209",
+  "volume": "B",
+  "pdf_page": 209,
+  "pages": [
+    {
+      "page_id": "B_0209_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Photo: aerial view of ruins, captioned in rotated text along right edge: Wenlock Priory. Early (3 century church, Priory + Norman chapter house]\n\nthe field + took in campers. tt I have finished a course of Antibiotics. The doctor decided my 6 weeks of diahorea thru Italy + France was giardiasis (sp?). Horrible.\n__Saturday Sept 1st__ [symbol] We went on a 4 [?mile] round trip to Much",
+      "dates": [
+        { "raw": "Saturday Sept 1st", "iso_guess": "2007-09-01", "confidence": 0.45 }
+      ],
+      "headings": ["Saturday Sept 1st"],
+      "underlined_places": [],
+      "place_mentions": ["Wenlock Priory", "Italy", "France", "Much"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Wenlock Priory. Early (3 century church, Priory + Norman chapter house"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.75,
+      "notes": "Page begins mid-sentence, continuation from previous spread. The text starts 'the field + took in campers.' A decorative wheat/grain symbol appears after 'Saturday Sept 1st'. The distance '4 [?mile]' — the unit word is partially obscured by the symbol. 'diahorea' is the diary's spelling. 'tt' may be a correction mark or abbreviation. Saturday Sept 1st fell on a Saturday in 2007 and 2018 within the volume's range (2003-2019); year uncertain, noted as 2007 tentatively. 'Much' at end of line continues on right page as 'Wenlock'."
+    },
+    {
+      "page_id": "B_0209_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Wenlock, Simon chose brown wool for a waistcoat + I bought bootees + a hat for Argony's new baby. Do Calcutta babies wear bootees? We had tea + homemade cake in the church. (Luch) Wenlock Priory, Cluniac, St. Milburge, is beautiful + peaceful. It was enormous. At the lavabo, 16 monks could wash at once. [strikethrough] We had lunch in the garden at the Talbot. Blackberry pudding + apple sauce. Walking home we realised we had crossed a field with a bull.\n\tWe had a nap + then went blackberrying. But the blackberries weren't very good.\n\tDuring supper we watched the sun set on one side of the van + the moon rise on the other. Beautiful. Then we went on an amazing moonlit walk + sat on a bench + we could see the lights of Wolverhampton + fireworks.\n__Sunday__\n\tWe walked to Callaughton on foot paths + roads. Tinder ran ahead on a path",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2007-09-02", "confidence": 0.4 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Sunday"],
+      "place_mentions": ["Wenlock", "Wenlock Priory", "Talbot", "Wolverhampton", "Callaughton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Text is continuation from left page — 'Wenlock' completes 'Much Wenlock' from B_0209_L. 'Luch' in parentheses is unclear — possibly an abbreviation or foreign word. 'St. Milburge' is the diary's spelling (standard: St Milburga). 'Cluniac' refers to the Cluniac monastic order. 'Argony' appears to be a personal name (possibly a baby whose parents may be connected with Calcutta — hence the query about whether Calcutta babies wear bootees). 'Tinder' appears to be a pet (dog). The page ends mid-sentence, continuing onto the next spread. 'Callaughton' — could also read 'Callaughton'; this is a hamlet near Much Wenlock in Shropshire. Year estimated as 2007 based on Saturday = Sept 1st, but 2018 is also possible; content does not definitively confirm either."
+    }
+  ]
+}

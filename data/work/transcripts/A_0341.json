@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0341",
+  "volume": "A",
+  "pdf_page": 341,
+  "pages": [
+    {
+      "page_id": "A_0341_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Monday May 26th Charles + Eve had showers.\n\tAt 10 we left on another walk, set out in a leaflet that the friendly publican gave us. We walked through a beautiful oak wood, then up a horrible terrifically steep hill. We walked over common land + along a river which was lovely. We had lunch + Simon fell asleep on the river bank while Eve slept on a fallen log. We went through a coniferous wood + up a disused road through fields getting extremely muddy. Tonic was a bit better at not pulling. We also passed 2 old churches.\n\tBack at the campsite we played cards + went to the pub for a drink + had chicken for supper in the van. The only thing wrong with this campsite is that it doesn't have showers.",
+      "dates": [
+        { "raw": "Monday May 26th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Monday May 26th Charles + Eve had showers."],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "No handwritten page number visible on this page. The date is Monday May 26th — in the volume era (1989–2003) May 26th fell on a Monday in 1997 and 2003 among others. Year cannot be determined from this page alone. 'Tonic' appears to be a dog's name."
+    },
+    {
+      "page_id": "A_0341_R",
+      "side": "R",
+      "handwritten_page_no": 85,
+      "blank": false,
+      "full_text": "The rain has held off all day + now it's drizzling in the evening.\nTuesday.\n\tWe left at 9:15. It's damp. We reached Jamie's farm with Charles map reading. Kate is playing golf. Ben is home after nearly 2 years in Australia. He had lunch with Charles + Eve + is good company. Jamie drove us round the apple orchards. Some of the roots have fungus. Simon + Jamie went off to an apple growers meeting. Charles played on computer games + Eve continued reading \"the Lunar [?Men].\" \n\tAfter leaving the farm we went to Holloway's garden shop + ordered 2 Lloyd loom chairs. We drove on home.\n\t__June 15th Sunday__\n\tAfter the 10.30. we drove down to Malvern, to Reg Farrar's, for a drinks party.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "June 15th Sunday", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["June 15th Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Jamie's farm", "Holloway's garden shop", "Malvern", "Reg Farrar's"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page number 85 visible top-right. 'Jamie's farm' is a named farm but no specific location given beyond context of apple orchards. 'the Lunar [?Men]' — the book title is partially cut off at the right margin; best guess is 'the Lunar Men' (a book about the Lunar Society of Birmingham, published 2002). If correct this would place the entry at 2002 or later. June 15th Sunday fell on e.g. 2003 in this volume's range. 'Lloyd loom chairs' spelled as written. 'Reg Farrar' is a personal name, not a place."
+    }
+  ]
+}

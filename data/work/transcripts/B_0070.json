@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0070",
+  "volume": "B",
+  "pdf_page": 70,
+  "pages": [
+    {
+      "page_id": "B_0070_L",
+      "side": "L",
+      "handwritten_page_no": 84,
+      "blank": false,
+      "full_text": "We stopped in Malaucene shopping, supermarket - small but good - & bought pastries from the nearby shop. Back at the campsite we swam & made supper. John beat Eve at Scrabble & Charles at pingpong\n\n__Saturday__\n   15,700 litres petrol has filled the van, at 370 garage stops. As we left England a week ago, it reached 64,000 miles. Today it reached 65,000 miles. It's done just over 20 mpg.\n   We packed up & bought vinegar & a blue gas cylinder on the way. We ~~drove~~ also stopped at the chocolatier & bought choc. icecreams for John & Eve & bags of ~~do~~ chocolate.\n   We drove around __Mt. Ventoux__ (if Mt. Ventnor on Isle of Wight, Celtic \"White Capes\") the top is not snow, it's white limestone. We stopped off for a short walk to see an old bridge that carried the old road up the valley.\n   After lunching in the carpark we went on what Charles called \"a suicidal walk\"",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": "2005-07-30", "confidence": 0.7 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["Mt. Ventoux"],
+      "place_mentions": ["Malaucene", "Mt. Ventoux", "Isle of Wight"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Text continues from previous page (B_0069) — the opening sentence is mid-paragraph about stopping in Malaucène. The passage ends mid-sentence at the bottom of the page, continuing onto B_0070_R. 'drove' before 'also stopped' is struck through in the original. 'do' before 'chocolate' appears struck through. The date Saturday is estimated as 2005-07-30 based on the confirmed date of 29/07/2005 on B_0069 (the preceding spread), and the narrative flow indicating this is the following day. 'Mt. Ventnor on Isle of Wight' is a parenthetical comparison — Ventnor is a town on the Isle of Wight, not a mountain. Celtic 'White Capes' is in quotation marks in the original. Page number 84 is visible top-left."
+    },
+    {
+      "page_id": "B_0070_R",
+      "side": "R",
+      "handwritten_page_no": 85,
+      "blank": false,
+      "full_text": "tries we\nochre &\nsand\nfrom\nwalk near\nold ochre\nopen-cast\nmines\n\n[glued-in: packet of ochre sand, labelled \"Colorado de Rustel\" to the right]\n\namong \"chemines des fees\" - fairy chimney, some over 20ft high, some from natural erosion. The stone on top of a chimney, prevents the top eroding along with the sides. At times since 1870s, there have been 24 men working. The last finished in 1992. There was an old pump for pumping water out of the veins. In the spring they brought the sand onto the flat land at the bottom of the hills & into settling tanks. The sand sank to the",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Colorado de Rustel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The right page has a packet of ochre/sand glued in, labelled 'Colorado de Rustel' in handwriting to its right — this is almost certainly Colorado de Rustrel, the ochre quarry site near Apt in the Luberon, Provence. The text on the left margin of this page (tries we / ochre & / sand / from / walk near / old ochre / open-cast / mines) appears to be a continuation from the left page gutter area, describing souvenirs or observations from the walk near the ochre open-cast mines. The main text below the glued-in item continues the description of the ochre workings. The page number '85' is partially visible at the top right (the '8' is clearly legible; the '5' may be cut off at the edge). 'Colorado de Rustel' may be a spelling variant of 'Colorado de Rustrel' — noted as alternative reading. Text ends mid-sentence, continuing on the next spread."
+    }
+  ]
+}

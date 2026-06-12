@@ -1,0 +1,43 @@
+{
+  "spread_id": "B_0134",
+  "volume": "B",
+  "pdf_page": 134,
+  "pages": [
+    {
+      "page_id": "B_0134_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "van above St. Tropez. See A.59",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Tropez"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["van above St. Tropez. See A.59"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a photo of a white camper van parked among pine trees. Caption below the photo reads 'van above St. Tropez. See A.59'. Along the right (gutter) edge there is rotated text which continues onto the right page: 'The walk down from the lakes to Aussois. See P.68.' — this caption belongs to the facing page photo and is transcribed there."
+    },
+    {
+      "page_id": "B_0134_R",
+      "side": "R",
+      "handwritten_page_no": 72,
+      "blank": false,
+      "full_text": "The walk down from the lakes to Aussois. See P.68.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Aussois"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The walk down from the lakes to Aussois. See P.68."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.92,
+      "notes": "Handwritten page number '72' in top-right corner. Page contains a landscape photo showing a valley with a village (Aussois). The caption is written vertically along the left (gutter) edge of the page and also bleeds slightly onto the left page in the gutter overlap; it is transcribed here as it captions this page's photo."
+    }
+  ]
+}

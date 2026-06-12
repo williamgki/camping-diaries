@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0331",
+  "volume": "A",
+  "pdf_page": 331,
+  "pages": [
+    {
+      "page_id": "A_0331_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We reached home at 7. William had cooked supper. Thomas had been organising the house. They had mown the lawn. Richard, William's friend from Cambridge, was visiting. We had pizza + a delicious summer pudding from Marjie A. For the first time, the boys helped put away stuff in the kitchen when we got home.\n\nSaturday August 24th\n  Simon, Eve, W, P, J, C went to see the New Art Gallery, Walsall. Super. Epstein, [?gropped] around there. Collection of 2 women. Tea at the 'Cats' Tales' which had v. clean loo. We then shopped for clothes in TK. Max. On to a Chinese restaurant where T. will join us for supper.\n  (I left the card in the restaurant. They remembered me when I [illegible] [illegible] it on to me.",
+      "dates": [
+        { "raw": "Saturday August 24th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Saturday August 24th"],
+      "underlined_places": [],
+      "place_mentions": ["Cambridge", "New Art Gallery", "Walsall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.75,
+      "notes": "A Veuve Clicquot champagne bottle label is glued to the centre of this page, obscuring some text beneath it. The handwritten page number in the top-left corner is not visible (possibly behind the label or not present). The word after 'Epstein,' reads like 'gropped' or possibly 'groped' — transcribed with uncertainty marker. 'TK. Max.' is TK Maxx (clothing retailer). 'Marjie A.' is a personal name abbreviated. 'Cats' Tales' appears to be the name of a tea room or café. The year cannot be confirmed from the page itself; the New Art Gallery Walsall opened in 2000, placing this entry no earlier than 2000. Given this is near the end of volume A (1989–2003), the year is likely 2002 or 2003. Saturday 24 August fell on a Saturday in 2002."
+    },
+    {
+      "page_id": "A_0331_R",
+      "side": "R",
+      "handwritten_page_no": 76,
+      "blank": false,
+      "full_text": "Sunday 25th\n  All 7 of us went to tea at Trimpley. After walking round the Reservoir + by the R. Severn, we had tea in Margaret's garden.\n  It was a super afternoon.\n\nNathaniel\nSally Ryan\n1916–68\nThe New Art Gallery\nWalsall",
+      "dates": [
+        { "raw": "Sunday 25th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Sunday 25th"],
+      "underlined_places": [],
+      "place_mentions": ["Trimpley", "R. Severn", "The New Art Gallery", "Walsall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Nathaniel\nSally Ryan\n1916–68\nThe New Art Gallery\nWalsall"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "The right page contains a glued-in photograph of a bronze sculpture — a portrait bust of a child, side-profile view. The caption text appears to the left of the photo and identifies the work as 'Nathaniel' by sculptor Sally Ryan (1916–68), displayed at The New Art Gallery, Walsall. 'Trimpley' is a hamlet near Bewdley, Worcestershire, on the River Severn; Trimpley Reservoir is there. 'Margaret's garden' refers to a personal acquaintance. The date 'Sunday 25th' follows 'Saturday August 24th' on the left page, consistent with Saturday 24 August 2002."
+    }
+  ]
+}

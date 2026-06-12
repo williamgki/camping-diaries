@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0159",
+  "volume": "B",
+  "pdf_page": 159,
+  "pages": [
+    {
+      "page_id": "B_0159_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "April 4th 2009\nSimon & Eve & Tonic drove over to [?Trumpby] & took Helen & Margaret out for a picnic lunch at Hampton ? Lode, by the",
+      "dates": [
+        { "raw": "April 4th 2009", "iso_guess": "2009-04-04", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["[?Trumpby]", "Hampton ? Lode"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Peckover House, Cambridgeshire, The Drawing Room"],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.82,
+      "notes": "The destination Simon & Eve drove to is unclear — could read 'Trumpby', 'Trumpington', or similar; marked as [?Trumpby]. The picnic location reads 'Hampton ? Lode' — writer appears uncertain themselves (the '?' is in the original). Photo caption written vertically alongside the photo. The left page has no handwritten page number visible in the top-left corner."
+    },
+    {
+      "page_id": "B_0159_R",
+      "side": "R",
+      "handwritten_page_no": 14,
+      "blank": false,
+      "full_text": "R. Severn. We could see the steam train across the water. Margaret was strong enough to walk quite a long way across the field & back.\n\n__Saturday April 18th.__\nSimon, Eve & Tonic set off eastwards. A[?t] was chilly, but gradually the sun broke through. We had lunch in the carpark near Peckover House, a very nice Georgian NT house. Built 1722 & lived in from 1796 by the Peckham family, Quaker bankers. We joined a tour of the garden. The Tulip tree has flat, -[?gottahed] leaves. There's also a quince tree & a ginks tree. Originated 65 mill. years ago (fossils found in coal seams). Really a [strikethrough: ten] fern. Within 4 months ginkos were found sprouting in the ruins of Hiroshima in 1944.",
+      "dates": [
+        { "raw": "Saturday April 18th.", "iso_guess": "2009-04-18", "confidence": 0.92 }
+      ],
+      "headings": ["Saturday April 18th."],
+      "underlined_places": ["Saturday April 18th."],
+      "place_mentions": ["R. Severn", "Peckover House", "Cambridgeshire", "Hiroshima"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.88,
+      "notes": "Page number 14 visible top-right corner. The heading 'Saturday April 18th.' is underlined. The date April 18th 2009 is inferred from the diary date of April 4th 2009 on the left page and the sequential nature of entries — April 18 2009 was indeed a Saturday, supporting confidence 0.92. 'ginks' appears to be the writer's spelling of 'ginkgo'. A word appears struck through before 'fern' — looks like 'ten' or 'fern' was written then crossed out. 'gottahed' annotation between lines above 'leaves' is unclear — possibly 'lobed' or similar botanical term. The sentence beginning 'A[?t] was chilly' — the word after 'A' is unclear, possibly 'It' misread. 'Peckham family' — the NT/NT house Peckover House is in Wisbech, Cambridgeshire; the founding family was actually the Peckover family, but the diary writes 'Peckham' — transcribed verbatim."
+    }
+  ]
+}

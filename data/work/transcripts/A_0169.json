@@ -1,0 +1,54 @@
+{
+  "spread_id": "A_0169",
+  "volume": "A",
+  "pdf_page": 169,
+  "pages": [
+    {
+      "page_id": "A_0169_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "76 Setesdal\n77 Sirdal\n   Stavanger\n78 North Shields\n   Lincolnshire\n   Conway\n79 Dolwyddelan\n   Llangollen\n   Llandudno\n80 Beauchamp",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [
+        "Setesdal",
+        "Sirdal",
+        "Stavanger",
+        "North Shields",
+        "Lincolnshire",
+        "Conway",
+        "Dolwyddelan",
+        "Llangollen",
+        "Llandudno",
+        "Beauchamp"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "mixed",
+      "legibility": 0.95,
+      "notes": "Index page mapping diary page numbers to places. Entries 76–77 and 'Stavanger' appear in black ink; entries 78–80 in blue ink. No handwritten page number visible in the top-left corner. 'Beauchamp' at entry 80 may refer to a campsite or place name rather than a well-known town; spelling as written."
+    },
+    {
+      "page_id": "A_0169_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Page is entirely blank."
+    }
+  ]
+}

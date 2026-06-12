@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0228",
+  "volume": "A",
+  "pdf_page": 228,
+  "pages": [
+    {
+      "page_id": "A_0228_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "has rained heavily all morning. After lunch back at the campsite, we have come in for John's end of course concert.\n\n[photo: three mannequin heads wearing elaborate bonnets]\n\nBoat women's hats with elaborate frills & loops of curtain at the back.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Boat women's hats with elaborate frills & loops of curtain at the back."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "This page is a continuation from a previous page (text begins mid-sentence). The handwritten page number in the top-left corner is not clearly legible. The photo shows three mannequin heads wearing ornate boat-style women's bonnets/hats. The caption is written vertically alongside the photo."
+    },
+    {
+      "page_id": "A_0228_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Relations were coming to visit [illegible] at home, so we wanted to return quickly. But it rained heavily all the way. We travelled at 30 mph with huge traffic jams & only reached home after 2 hours.\n\n    April 24th Friday.\nS,E,J,C,5·30. we left to camp west of Hereford. We went down the M5, west on the M50, around the south of the Malverns. We are staying at __Abbey Dore__, at the end of __Golden Valley__. The campsite is below the Neville Arms pub. We arrived at 7.30. Simon had booked supper for 8.15., but after making the beds, we ate straight away. We had pheasant & beef & treacle tart & custard & beers.\n\n    April 25th\n    It rained in the night, but glorious sunshine & blue sky at breakfast, so we were almost too hot.\n    We walked to see the Abbey 1147, & then on across the __Golden Valley__ to the __Abbey Dore Court Gardens__, which were very pretty. They had a Teddy collection too.",
+      "dates": [
+        { "raw": "April 24th Friday", "iso_guess": "1998-04-24", "confidence": 0.35 },
+        { "raw": "April 25th", "iso_guess": "1998-04-25", "confidence": 0.35 }
+      ],
+      "headings": ["April 24th Friday."],
+      "underlined_places": ["Abbey Dore", "Golden Valley", "Abbey Dore Court Gardens"],
+      "place_mentions": ["Hereford", "M5", "M50", "Malverns", "Abbey Dore", "Golden Valley", "Neville Arms", "Abbey Dore Court Gardens"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The handwritten page number in the top-right corner is partially visible — appears to be a single digit '5' but may be part of a larger number (e.g. 53 or 55). The text at the top of the right page is a continuation from a previous page. The year is not stated on this spread; April 24th falling on a Friday could be 1992, 1998, 2009, etc. Given the volume covers 1989-2003 and the position near page 228 of 350, a rough estimate is late 1990s — 1998 used tentatively but with low confidence. 'S,E,J,C' likely denotes the diarist and family members' initials. 'Abbey 1147' likely refers to the foundation date of Dore Abbey (founded 1147). The word after 'visit' is unclear — possibly 'Ms' or a name."
+    }
+  ]
+}

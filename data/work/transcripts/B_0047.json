@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0047",
+  "volume": "B",
+  "pdf_page": 47,
+  "pages": [
+    {
+      "page_id": "B_0047_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "John's 17th birthday.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Barfleur"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["John's 17th birthday.", "Barfleur (postcard — aerial view of Barfleur harbour)"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in colour postcard of Barfleur (the word 'BARFLEUR' is printed on the postcard). Below/beside the postcard is a handwritten caption 'John's 17th birthday.' in blue ink. The right-hand margin shows partial text that is the 3% gutter overlap with the right page (B_0047_R); that text is not transcribed here to avoid duplication. No handwritten page number visible in the top-left corner."
+    },
+    {
+      "page_id": "B_0047_R",
+      "side": "R",
+      "handwritten_page_no": 45,
+      "blank": false,
+      "full_text": "Sunday 29th August.\n        9.45. we set off, Simon, Eve, John, Charles, Melody 14 & Charlotte 13, to __Bath__ to Camp with David. We arrived & found their van at the Marina Campsite [illegible] but they had gone out. The 4 children played 4 in a Row & chess at the table, while Simon & Eve went out for a walk by the river. When we got back Eve had to yell \"John, John Kirby!\" several times before Charles came & let us in. Everyone was laughing.\n        We had a very slow start to lunch with extremely strong cider provided by David & just as we started to carve the chicken at 2 pm the heavens opened with 2 heavy rain showers. We left the food under a parasol & sheltered in the vans. Finally we got fed.\n        Soon after, at [?3].45. (!) we set off walking into Bath. Charles had hurt his back falling off the swing in the playground.",
+      "dates": [
+        { "raw": "Sunday 29th August", "iso_guess": "2004-08-29", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Bath"],
+      "place_mentions": ["Bath", "Marina Campsite"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number 45 in top-right corner. The time '3.45' has a strikethrough on the 3 and '4' written above — likely meaning 4.45; transcribed as [?3].45. The diary mentions children's ages (Melody 14, Charlotte 13) which could help narrow the year but names/ages are not independently verifiable here. 'Sunday 29th August' fell on: 2004 and 2010 within the volume's 2003-2019 range — year assigned tentatively as 2004 but confidence is low without further context. The '##' or similar symbol after 'Marina Campsite' is unclear — transcribed as [illegible]. Volume B covers 2003-2019; position in volume (page 47 of 373) suggests early in the volume, consistent with 2003-2004."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0323",
+  "volume": "B",
+  "pdf_page": 323,
+  "pages": [
+    {
+      "page_id": "B_0323_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "There was an arrangement with Switzerland to sell them salt cheap.\n1860s started decline — railways brought seasalt — tins preserved food.\n1916 Sections partly blown up. Later on it was preserved. Surrounded by a 12 ft wall.\n\n250 workers - tilers, barrel-makers, furnace.\n   Still raining at lunch time.      [?Tallion]\n   We drove SE + camped at __Meyrieu__.  [?Swf] Bourgoin- Damp.\nI had a good shower.          nice a lake\n__Tuesday__  It has Rained ALL DAY.  We kept on\nSE [th?] we stopped.  We have reached __Malaucene__.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Meyrieu", "Malaucene"],
+      "place_mentions": ["Switzerland", "Meyrieu", "Bourgoin", "Malaucene"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.72,
+      "notes": "Large aerial photograph occupies the left half of the page, showing a circular/oval enclosed estate — likely the Royal Saltworks at Arc-et-Senans (Saline Royale) or Salins-les-Bains in Franche-Comté, France, based on the salt-history text alongside it. Text to the right of the photo gives historical notes about a salt works: Swiss salt-selling arrangement, 1860s railway decline, 1916 partial destruction, 12 ft wall. Below the photo the diary continues the travel narrative. 'Tallion' (top right beside 'Still raining') could be a campsite name or abbreviation — unclear; possibly 'Jallion' or a camp name. '[?Swf] Bourgoin-' appears to be an abbreviation/partial word near Bourgoin — possibly 'Sud' or similar. 'nice a lake' appears as a marginal note beside the Meyrieu entry. The word after 'SE' at the bottom ('th?') is partially cut or ambiguous — possibly 'then' or 'til'. No handwritten page number visible."
+    },
+    {
+      "page_id": "B_0323_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "It has rained nearly all the time since [illegible]\nSunday lunch time but the forecast is good\nfor tomorrow.  In the late afternoon we enjoyed\na wet walk around __Malaucene__, where we\nhave been at least twice before.  2 bath\nhouses, blind alleyways.  Someone was\nplaying the organ in the church which has\nan original stone floor.        __Camp Bosquet__\n__Wednesday__  SUNSHINE.  Hooray!  Our van is in shade in\nthe morning, so it's a bit chilly.  But we now need\nthe shade in the afternoon.\nIt's market day in __Malaucene__.  We bought olive oil\n(one German couple come back every year to buy\ntheir) hair ties for granddaughters, face cloths, soap.\nlunch + supper in the van.   3 bike shops, one bike $300\n__Thursday__  We went on a 7k walk round to the\nnorth, in the morning before it got too hot.  Back\ndown into __Malaucene__ along lovely old roads.\nWe bought olive bread + goats cheese + bread for lunch\nat the van + booked a restaurant for this\nevening.  It had to be 7 (not 7.30.) so it was lucky that\nwe booked.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Camp Bosquet"],
+      "underlined_places": ["Malaucene", "Camp Bosquet"],
+      "place_mentions": ["Malaucene", "Camp Bosquet"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Camp Bosquet appears as a heading/label written to the right margin before the Wednesday entry — likely the name of the campsite at Malaucène. 'Malaucène' is spelled 'Malaucene' throughout (without accent). The text at the very top right of the right page is cut off at the gutter — '[illegible]' marks what appears after 'since'. The '$300' for the bike price is written with a dollar sign — possibly a currency approximation or the writer's habit. No handwritten page number visible."
+    }
+  ]
+}

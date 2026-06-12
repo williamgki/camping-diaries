@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0153",
+  "volume": "B",
+  "pdf_page": 153,
+  "pages": [
+    {
+      "page_id": "B_0153_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The river goes round W S + E & to the north, where our hotel is, it a V. steep hill.\n\nFortunately just near our hotel, is a huge escalator, which carries you up a large chunk of the hill. Definitely a plus! The hotel had a very good restaurant in the court yard.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Toledo"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["TOLEDO"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Large glued-in postcard/photo of Toledo occupies most of the left page. The text to the right of the photo appears to continue from the previous spread. The word 'it' before 'a V. steep hill' may be 'is' — reads as 'it a V. steep hill' which likely means 'it is a V. steep hill'."
+    },
+    {
+      "page_id": "B_0153_R",
+      "side": "R",
+      "handwritten_page_no": 8,
+      "blank": false,
+      "full_text": "__Tuesday__ We saw 2 synagogues (one of which did a bag search) + a Vizigothic Museum, El Grecos (his house shut) & the cathedral. Marvellous misericordes - a woman having a bath in a barrel with a shower curtain.\n\t I really like Toledo. The streets are higgledy piggledy.\n__Wednesday__\nWe drove on to Madrid. Susana + Eugenio were most welcoming + we stayed in their beautiful flat. Simon re parked the van, where we later got into trouble with a blue/green parking ticket. We walked to the Prado where they showed us their favourite pictures. Eugenio told us some of the history. We walked on to lunch + ate a fabulous meal. Rissoles, lamb chops, black pudding + doryfish baked in rock salt - piquant + crunchy. The puddings were good too - crepe cooked with lemon & leaves inside.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Tuesday", "Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Toledo", "Madrid", "Prado"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "Handwritten page number '8' visible top-right corner in green/blue ink. The diary is about a trip to Spain (Toledo and Madrid). 'Vizigothic' is the diarist's spelling of Visigothic. 'El Grecos' refers to El Greco's house in Toledo. 'doryfish' is the diarist's spelling (possibly John Dory fish). 'Susana + Eugenio' appear to be local contacts/friends in Madrid. Year cannot be confirmed from this page alone; volume B covers 2003-2019."
+    }
+  ]
+}

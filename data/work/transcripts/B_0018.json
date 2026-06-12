@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0018",
+  "volume": "B",
+  "pdf_page": 18,
+  "pages": [
+    {
+      "page_id": "B_0018_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Friday May 28th__\n\n     We set off as planned at 2, but had to loop back because Simon had forgotten his telephone. We delivered lights to Strat ford & reached __Chipping Campden__ at 3.30., where Simon is chatting to William Welsch.\n     We just reached __Malvern__ at 6.35, in time for the 7 Summer Concert. Charles stood for applause, with 3 other brass players at the end of the William Tell Overture. John was in every piece. A lovely Mozart chamber music piece.\n__Saturday 29th__\n\n     We slept outside No 7. Then met up with Jane & Harry & Koroku for the service at Malvern Theatre & prize giving also at Malvern Theatre. We had a good sermon from the & Dean Emeritus of Wells Cathedral: \"When God works he works to the sound of Bach, when he eavesdrops he listens to the angels who listen to Mozart.\"",
+      "dates": [
+        { "raw": "Friday May 28th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Saturday 29th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Friday May 28th", "Saturday 29th"],
+      "underlined_places": ["Chipping Campden", "Malvern"],
+      "place_mentions": ["Strat ford", "Chipping Campden", "Malvern", "Wells Cathedral"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible in top-left corner. 'Strat ford' appears as two words in the diary (likely Stratford). Year cannot be determined from this page alone; volume covers 2003–2019. 'Saturday 29th' follows 'Friday 28th' which narrows possible years but without a month confirmed on this page. The right page continues from this text and gives 'Sunday 30th May', confirming May dates. Possible years where May 28 = Friday and May 30 = Sunday: 2004, 2010, 2021 (outside range), etc. — likely 2004 or 2010 given volume range."
+    },
+    {
+      "page_id": "B_0018_R",
+      "side": "R",
+      "handwritten_page_no": 16,
+      "blank": false,
+      "full_text": "service to the world without arrogance or egotism. The choir sang \"I'd like to teach the world to sing.\" because the former head of Coca Cola for Brit. & Ireland gave the prizes, Penny Hughes. She became head at 33, then left after 10 years to have children.\n     We had lunch at SH, then set off at 2 in the van, arriving at __Ninas__ at 6. On the way we stopped for tea & saw William & Bryony & Thomas drive past in William's & Bryony's new orange Vw camping van. They had telephoned us at __Welshpool__ to ask about shopping.\n     We had chicken salad & stodge for supper. The midges were bad. Thomas lit a fire. Bryony found an orchid in the meadow.\n__Sunday 30th May__\n\n     It rained heavily in the night & the day took a while to warm up. After breakfast Thomas set off for a walk & went 11 miles, only returning at 7.25. for supper. The rest of us read & chatted & Bryony made coffee. Simon & Eve took the wild flower book into the meadow & tried to identify flowers. There were blue dragon[flies?]",
+      "dates": [
+        { "raw": "Sunday 30th May", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sunday 30th May"],
+      "underlined_places": ["Ninas", "Welshpool"],
+      "place_mentions": ["SH", "Ninas", "Welshpool"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page number '16' visible in top-right corner. 'Ninas' is underlined and likely refers to a person's home (Nina's). 'SH' is an abbreviation, possibly a house name or location. The text at the bottom is cut off; 'blue dragon[flies?]' is the final readable text but the word is partially cut. 'Sunday 30th May' with Friday 28th on the left page narrows the year: May 28 = Friday occurs in 2004 and 2010 within the volume's range (2003–2019). No further year evidence on the page."
+    }
+  ]
+}

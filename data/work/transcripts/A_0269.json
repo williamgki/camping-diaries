@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0269",
+  "volume": "A",
+  "pdf_page": 269,
+  "pages": [
+    {
+      "page_id": "A_0269_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Debbie is on a \"Camel walk\" from Oxford to Cambridge with a ~~can~~ couple of camels & lots of Americans to raise money for schools in N. Kenya.\n    We played cricket. Then David took Charles, Rachael & Daniel to Mid Summer Common fair, while Simon & Eve went to the Master's Tea in St. John's garden. It was very pretty. We chatted to Richard Holroyd & his friend. Simon stayed on at his college dinner & spent the night in St. John's.\n    Eve ~~star~~ walked back to the Fords & Debbie came back from the walk & we had a barbeque. It was a beautiful evening. Charles had taken David on a very rough ride & nearly been sick!\n    Charles & Eve spent the night on the Ford's drive.\n    __Sunday 27th June.__ The Fords drove off to rejoin their camel walk at 8.15.",
+      "dates": [
+        { "raw": "Sunday 27th June", "iso_guess": "1999-06-27", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Oxford", "Cambridge", "N. Kenya", "Midsummer Common", "St. John's"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.88,
+      "notes": "Text continues from the previous page. 'Sunday 27th June' is underlined. '~~star~~' represents a struck-through word before 'walked'. '~~can~~' represents a struck-through word before 'couple'. June 27 was a Sunday in 1999, consistent with the 'Wales May 1999' photo caption on the right page. St. John's refers to St. John's College, Cambridge."
+    },
+    {
+      "page_id": "A_0269_R",
+      "side": "R",
+      "handwritten_page_no": 1,
+      "blank": false,
+      "full_text": "Wales May 1999\n\n[photo: five boys/young men seated around a table inside a camper van]\n\nCharles & Eve set off for St. John's College Chapel at 9.40. Just before we left Simon arrived to walk in with us. He had just heard that Richard had been badly hurt in a bike accident.\n    There was beautiful singing in the chapel. Afterwards we went to call on Mrs. Bambrough, & then had lunch at the Grad Pad. It was too cold & wet to punt, so we called on Richard Holroyd, where we met James & Barbara Ko[?ndell] before going home",
+      "dates": [
+        { "raw": "Wales May 1999", "iso_guess": "1999-05", "confidence": 0.95 },
+        { "raw": "Sunday 27th June (from left page context)", "iso_guess": "1999-06-27", "confidence": 0.85 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. John's College Chapel", "Grad Pad"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Wales May 1999"],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.85,
+      "notes": "The '1' in the top-right corner may be a handwritten page number. 'Wales May 1999' is written above a photo of boys/young men in a camper van — this photo caption appears to be from a different trip (Wales, May 1999), not the current Cambridge narrative. The text about St. John's College Chapel continues the Sunday 27th June narrative from the left page. Last surname partially cut off — could read 'Kondell', 'Konell', or similar; transcribed as Ko[?ndell]. 'Grad Pad' likely refers to a pub or venue in Cambridge. Text is cut off at the bottom of the page."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0271",
+  "volume": "A",
+  "pdf_page": 271,
+  "pages": [
+    {
+      "page_id": "A_0271_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "we shopped a bit & went back to the van for lunch. There was a small park by the river.\n\n        We drove on to the Burrell Collection. Wonderful mediaeval carvings - alabaster from Nottingham. Chinese porcelain. Mediaeval interiors. Tapestries. Tonic enjoyed running in the huge field.\n\n        We drove to the Cathedral which had just shut, & then walked down to the Fire [strikethrough: Station] Station Restaurant. Friendly, good soup, but the garlic bread & pancake were burnt.\n\n        Rain just before bed, & the night & next morning were clear.\n\n        __Tues Aug 3rd__\n\ndodgems  We left at 10.30, going N.W. We stopped at [?dodgems] Inveraray. (We went up the west side of Loch Lomond). Then north to Loch Awe. We stopped to see St. Conan's Kirk, light. Carvings. Zigzagging to Oban.\n\n        We reach Oban, 1¾ hour wait for the ferry. Oban is like Barmouth, but bigger.\n\n        Very near the ferry terminus, on the 'Island of Mull, is our campsite, __Craignure__ *** Odd white plastic tents for wash rooms, \"carpeted cottage-style tents\", washing machine room, reception & drying tents. Lovely rock roofs for John & Charle[s]",
+      "dates": [
+        { "raw": "Tues Aug 3rd", "iso_guess": "1999-08-03", "confidence": 0.75 }
+      ],
+      "headings": ["Tues Aug 3rd"],
+      "underlined_places": ["Craignure"],
+      "place_mentions": ["Burrell Collection", "Nottingham", "Inveraray", "Loch Lomond", "Loch Awe", "St. Conan's Kirk", "Oban", "Barmouth", "Island of Mull", "Craignure"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text continues from a previous page (begins mid-sentence). No handwritten page number visible at top-left. The word 'dodgems' (or 'dodgers') appears written twice in the margin/inline near 'Inveraray' — possibly a note about a fairground/dodgem cars seen at Inveraray. There is a strikethrough on the word 'Station' before 'Restaurant' (i.e. 'Fire Station Restaurant' — the word 'Station' was struck through and rewritten, suggesting a correction). Year anchored to 1999 based on the 'Wales May 1999' section heading visible on the right page and the volume's date range; Aug 3rd 1999 was indeed a Tuesday, which corroborates the year assignment. Text is cut off at bottom with 'John & Charle[s]' — presumably continues on the next spread."
+    },
+    {
+      "page_id": "A_0271_R",
+      "side": "R",
+      "handwritten_page_no": 15,
+      "blank": false,
+      "full_text": "__Wales May 1999__\n\n[glued-in photograph: man in wide-brimmed hat sitting in a camping chair holding a dog, camper van in background]\n\nto play in. Eve did a load of wash & it nearly dried overnight.\n\n        Glorious weather. V. hot. Breezy sunshine all day.\n\n        __Wed 4th Aug__\n        We relaxed in the morning. The boys played ping pong Early lunch & caught 1.10 train from Craignure to Torosay Castle. We walked",
+      "dates": [
+        { "raw": "Wed 4th Aug", "iso_guess": "1999-08-04", "confidence": 0.75 }
+      ],
+      "headings": ["Wales May 1999", "Wed 4th Aug"],
+      "underlined_places": [],
+      "place_mentions": ["Craignure", "Torosay Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.90,
+      "notes": "Handwritten page number '15' at top-right corner. The heading 'Wales May 1999' is written in green ink at the very top of the page; this is anomalous as the body text continues the Scotland/Mull narrative from the left page (mentioning Craignure and Torosay Castle on Mull). The heading likely marks the start of a new chapter/section on the following pages rather than describing the content on this page. The body text continues mid-sentence from the previous page/left page ('to play in.' — referring to rock roofs for the children to play on). A photograph is glued in showing a man in a wide-brimmed hat holding a dog by the camper van — no handwritten caption. Text is cut off at the bottom ('We walked') and continues on the next spread."
+    }
+  ]
+}

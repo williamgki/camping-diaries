@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0220",
+  "volume": "A",
+  "pdf_page": 220,
+  "pages": [
+    {
+      "page_id": "A_0220_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "a big lunch in the Jim Kirbys & David Kirby - 14 of us & Tonic. __Burton Hill__. **** Football, wasps.\n   In the afternoon we went on a beautiful long walk in & around Malmesbury. The Abbey is gorgeous – Romanesque arches & carvings. A superb entry porch, & the Tomb of the first king. The tombstone of a woman eaten by a tiger.\n   [strikethrough: Jim] Margaret & I watched everyone else playing an energetic game of football.\n   A sumptuous supper - we all brought food to share. Much [?&] chatting.\n   __Sunday Sept 7th__\n   Straight after breakfast, John, Maia, Charles & Dylan asked to walk to the play ground with Tonic & David said \"yes\". Later we realised that they might [strikethrough: not] know the way. When we followed & reached the swings, we could not find them. Ten minutes later they turned up. Apparently they had walked the full circuit of yesterday, with John holding Dylan's hand when they crossed a road. We were horrified especially considering all the water + streams.",
+      "dates": [
+        { "raw": "Sunday Sept 7th", "iso_guess": "1997-09-07", "confidence": 0.85 }
+      ],
+      "headings": ["Sunday Sept 7th"],
+      "underlined_places": ["Burton Hill"],
+      "place_mentions": ["Burton Hill", "Malmesbury"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page begins mid-sentence, continuing from previous spread. 'Jim' appears struck through before 'Margaret' — both noted. 'not' also appears struck through in the Sunday Sept 7th passage. The '**** Football, wasps.' line uses asterisk stars after Burton Hill. In 1997, September 7 was indeed a Sunday, consistent with nearby page A_0216 referencing August 1997. No handwritten page number visible at top-left. 'sumptuous' read as 'sumptuous' though the handwriting could also read [?sumpious] — transcribed best reading. The 'Much [?&] chatting' — the word after 'Much' has a strikethrough and is hard to read, possibly 'much & chatting' or 'much more chatting'."
+    },
+    {
+      "page_id": "A_0220_R",
+      "side": "R",
+      "handwritten_page_no": 50,
+      "blank": false,
+      "full_text": "[postcard: three photographs of Malmesbury Abbey South Porch carved stonework]\n[right margin, rotated, handwritten annotation:] [?amazing] [illegible] like + see the [illegible]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Malmesbury Abbey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Malmesbury Abbey", "South Porch"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.6,
+      "notes": "Right page is a glued-in postcard showing three photographs of Malmesbury Abbey South Porch Romanesque carvings. The postcard text reads 'Malmesbury Abbey / South Porch'. Handwritten page number 50 visible in top-right corner. There is a small amount of handwritten annotation in the right margin, rotated sideways, but it is largely illegible — partially reads '[?amazing] [illegible] like + see the [illegible]'. The postcard photos depict carved stone apostles/figures in Romanesque style. Legibility score reflects the difficulty of reading the marginal annotation."
+    }
+  ]
+}

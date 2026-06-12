@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0305",
+  "volume": "B",
+  "pdf_page": 305,
+  "pages": [
+    {
+      "page_id": "B_0305_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday Simon + Eve picked up Tinder at 9.30 so only £15. Then we went to St. Fagan's museum. The main building opens later in the year. So we looked at out door buildings that have been moved there.\n    A gorse mill - Small. 2 men + 1 boy wd. take 20 min. to process a bunch of gorse - This was fed to livestock. Cd. be fed all year + grew on worst soil, so better soil cd be used for other crops.\n    We went to a pub for lunch + raced home (lots of traffic) + got there with 10 minutes to spare to get to church.\n    __Thursday May 3rd__\n    We set off at 9, voted (Newman House) for city councillors + dropped off Tinder at Kenads. Lunch in the van at Cobham services + on to Ightham Mote. Lovely [C4] house. Beautiful linen fold panelling, paint colour in rooms good, welcoming. Well worth a visit. V.beautiful.\n    On to the Plough Inn Stalisfield, where Simon has already booked supper. They have put us in the fireplace again. They are building",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2018-04-29", "confidence": 0.75 },
+        { "raw": "Thursday May 3rd", "iso_guess": "2018-05-03", "confidence": 0.95 }
+      ],
+      "headings": ["Thursday May 3rd"],
+      "underlined_places": [],
+      "place_mentions": ["St. Fagan's", "Newman House", "Cobham services", "Ightham Mote", "Stalisfield", "Plough Inn Stalisfield"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "The 'C4' or similar notation before 'house' may be a National Trust grade classification marker; could also read as 'NT' or a date. 'Kenads' could be a campsite or location name — spelling uncertain. Sunday entry continues from a previous page; date estimated as 2018-04-29 based on Thursday May 3rd 2018 being confirmed by the NT leaflet on the right page."
+    },
+    {
+      "page_id": "B_0305_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "holiday lets in the next field. It has been cold for days but now there is nice warm evening sunshine.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ightham Mote", "Kent"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Ightham Mote — Kent 2018 — House, garden and estate (National Trust leaflet cover, glued in)"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Page contains a circular Ightham Mote sticker/badge and a glued-in National Trust leaflet for Ightham Mote, Kent, dated 2018. The '2018' on the leaflet confirms the year. Handwritten text is a continuation from the left page describing the Plough Inn at Stalisfield."
+    }
+  ]
+}

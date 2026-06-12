@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0300",
+  "volume": "A",
+  "pdf_page": 300,
+  "pages": [
+    {
+      "page_id": "A_0300_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Tuesday October 9th.\n\n[photo of Pegasus Bridge]\n\nPegasus Bridge Bénouville  6th June 1944\nfirst bridge liberated . Originally built 1932.\n Rebuilt 1994",
+      "dates": [
+        { "raw": "Tuesday October 9th.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Bénouville", "Pegasus Bridge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Pegasus Bridge Bénouville 6th June 1944 first bridge liberated . Originally built 1932. Rebuilt 1994"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page is dominated by a black-and-white photograph of Pegasus Bridge. Caption text is handwritten below the photo. Date 'Tuesday October 9th.' appears above the photo as a heading. No year is stated on this page; context from right-hand page (Oct 9th entry) and mention of the museum being 'only built a couple of years ago' alongside 'Rebuilt 1994' suggests a date in the mid-to-late 1990s, but the year cannot be confirmed from this page alone."
+    },
+    {
+      "page_id": "A_0300_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "During the night there were [illegible/cut] light houses & lighted marker buoys. lovely sound of the sea.\n\n Oct 9th Tuesday.\n  As we left, the van got stuck on [cut] the wet grass & mud. Then we scraped [cut] one of the water brackets on the drive.\n  We drove through __Deauville__ - beautifu[l cut] large old houses. We stopped at Villervill[e cut] for coffee. I walked down to the sea [cut] across the sandy beach to collect shells. [cut] Simon fixed the water tank. Travelling wes[t cut] we reached __Pegasus Bridge__ & looked at the museum there before and after lunch The museum was only built a couple of years ago. It was the start of the Allied offensive back into Europe on D Day. The bridge, & the neighbouring bridge across the R. Orne, had to be taken from the [?Grem] Germans intact.\n  [struck-through word] Bréville was badly damaged, on the ridge.",
+      "dates": [
+        { "raw": "Oct 9th Tuesday.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Oct 9th Tuesday."],
+      "underlined_places": ["Deauville", "Pegasus Bridge"],
+      "place_mentions": ["Deauville", "Villerville", "Pegasus Bridge", "R. Orne", "Bréville"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Text is cut off at the right margin throughout the page — this is a scan edge issue, not damaged text. Several line-ends are missing a word or two. One word before 'Germans intact' appears struck through (possibly 'Grem' or a false start). A word at the start of the last sentence is also struck through before 'Bréville'. No year stated; volume context (1989–2003) and reference to the Pegasus Bridge museum being 'only built a couple of years ago' (museum opened c.1992) suggests mid-1990s, possibly 1996 or later — cannot confirm year from page alone. Page number in top-right corner appears partially visible; could not confidently read a full number."
+    }
+  ]
+}

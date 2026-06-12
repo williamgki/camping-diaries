@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0141",
+  "volume": "A",
+  "pdf_page": 141,
+  "pages": [
+    {
+      "page_id": "A_0141_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "a viper. William threw stones at trees. Charlie made a trail with his stick. After tea Simon Peter, John + Charles tested their pulses running out of the carpark. William is immersed in his new chess computer.\n\n__Wednesday, 26th October__\n\nSome of us have had vomiting + diahorrea but we decide to leave home anyway. At 4.35 we set off the 7ofus, for Chingford Lee Valley [?+its] We eat in a restaurant in North Chingford + sleep altogether in the van, Charles lying up a triangle at the side of Simon's legs. We are excited about going to London to choose sofas + visit the Tower of London the next day, before driving on to Cambridge in the evening. Thu 27th Oct\n\nBut [?leas] disaster strike within 5 minutes of each other: Charles peels off his sleeping bag to discover that he's plastered in old poo, + Thomas reports that Peter is vomiting in the bushes....\n\nSo Simon takes Thomas + William + John to London + Eve stays in the van to puke + poo somemore with Peter + Charles, + wash the sleeping bag in the launderette,",
+      "dates": [
+        { "raw": "Wednesday, 26th October", "iso_guess": "1994-10-26", "confidence": 0.55 },
+        { "raw": "Thu 27th Oct", "iso_guess": "1994-10-27", "confidence": 0.55 }
+      ],
+      "headings": ["Wednesday, 26th October"],
+      "underlined_places": [],
+      "place_mentions": ["Chingford", "Lee Valley", "North Chingford", "London", "Tower of London", "Cambridge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page begins mid-sentence continuing from previous page. 'diahorrea' is the diary's spelling. '7ofus' likely means '7 of us'. '[?leas]' is partly illegible - possibly 'least' or a crossed-out word before 'disaster'. Year inferred from right page mention of 'April 94' for Crown Jewels re-exhibition date, suggesting this October trip is likely October 1994; confidence is moderate."
+    },
+    {
+      "page_id": "A_0141_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "which is fortunately here - wash up, without a drying up cloth which has been forgotten. It's a glorious day with bright blue sky + a few white clouds. Ideal for sight seeing in London.... or drying sleeping bags. Charles reads the whole of Hanzel + Gretel.\n\nThe campsite was 1½ hours from where Simon wanted to get to in London - too many connections - so we'll stay in a camp on a BR station next time. Simon + the boys visit Furniture Shops + the Tower, riding on 8 Trains.\n\nWilliam's favourite part of seeing the Tower was \"the Star of Africa\" + the pearls around the Crown Jewels. Thomas + John + Simon liked the Crown Jewels too. Simon says the newly-opened appartments were good too. (They happened to meet the Shoebothams.)\n\nThe jewels were moved underground in 1960 because of the nuclear threat. Then there were 1,600 visitors per day. They were re-exhibited in April 94, above ground again, now there are 15,000 visitors a day. You go round on a revolving platform. You can go round more",
+      "dates": [
+        { "raw": "April 94", "iso_guess": "1994-04", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["London", "Tower", "Crown Jewels"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page continues mid-sentence and also ends mid-sentence. 'Hanzel + Gretel' is the diary's spelling (standard is Hansel). 'BR station' likely means British Rail station. 'Shoebothams' is transcribed as written - could be a family surname, uncertain reading. 'appartments' is the diary's spelling. 'Star of Africa' refers to the Cullinan Diamond. The mention of April 94 re-exhibition of Crown Jewels helps date this trip to October 1994."
+    }
+  ]
+}

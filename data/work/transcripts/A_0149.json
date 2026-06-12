@@ -1,0 +1,65 @@
+{
+  "spread_id": "A_0149",
+  "volume": "A",
+  "pdf_page": 149,
+  "pages": [
+    {
+      "page_id": "A_0149_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "This page shows a decorative pink/salmon patterned paper (endpaper or decorative insert). No text is present on the main body of the page. A sliver of text from the right-hand page is visible at the far right edge due to gutter overlap, but belongs to the right page."
+    },
+    {
+      "page_id": "A_0149_R",
+      "side": "R",
+      "handwritten_page_no": 62,
+      "blank": false,
+      "full_text": "We drove up to Wast Water & walked in the village, seeing St. Olaf's tiny church where climbers are buried & drystode walls of the farm. Some lush farm lands to the south of Wast Water. ~~For supper we went~~ We drove back via the coast road. For supper we went to the White Moss Inn - a truely delicious meal. We camped at __South Wray Castle Farm__ * * * * an amazing camp site with a meandering stream, bog & field - Was the stream for the Castle children to play on?\n\n    __Thu May 4th.__ We drove to Dove Cottage at Grasmere, coming in on a very steep road, 25% of 1 in 4 above the white Moss Inn.",
+      "dates": [
+        { "raw": "Thu May 4th.", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Thu May 4th."],
+      "underlined_places": ["South Wray Castle Farm"],
+      "place_mentions": [
+        "Wast Water",
+        "St. Olaf's",
+        "White Moss Inn",
+        "South Wray Castle Farm",
+        "Dove Cottage",
+        "Grasmere",
+        "Ravenglass",
+        "Wast Water",
+        "Scafell Pike",
+        "Cliffe",
+        "Coniston",
+        "Hawkshead",
+        "Ulverston",
+        "Grasmere",
+        "Ambleside",
+        "Rydal Water",
+        "Troutbeck",
+        "Kendal",
+        "Barrow"
+      ],
+      "route_sketch": true,
+      "route_sketch_description": "A hand-drawn map of the Lake District in the lower half of the page. Places labelled include (reading roughly left to right and top to bottom): Ravenglass (bottom left), Wast Water (left, with a lake shape), Scafell Pike (centre-left, marked with a triangle symbol), Cliffe (centre-left, also marked with a triangle), Coniston (centre, with a small lake shape), Hawkshead (centre), Ulverston (centre-right), Grasmere (top centre), Ambleside (top centre), Rydal Water (top centre-right), [?Troutbeck] (top right area), Kendal (right), Barrow (bottom centre). Coastline is sketched along the left and bottom edges. Small circles mark lakes/tarns. The map has no explicit arrows but the spatial arrangement suggests a Lake District area overview.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number 62 visible at top right. Text at top is a continuation from the previous page (pdf_page 148). A strikethrough sentence 'For supper we went' is visible before the corrected version is written out again. 'drystode walls' likely means 'dry stone walls'. 'truely' is the diary's own spelling. 'South Wray Castle Farm' is underlined and given four stars (****). 'Dove Cottage' at Grasmere is the famous Wordsworth home. 'Thu May 4th' — the year cannot be determined from this page alone; the volume covers 1989–2003. Route sketch labels: 'Scafell Pike' reads as '[?Seathle Pike]' or '[?Scafell Pike]' — likely Scafell Pike; 'Cliffe' near a second triangle marker may be a different summit or could be '[?Cliffe]'. The label near Coniston area reads '[?Conilton]' which is interpreted as Coniston. Label near Ambleside reads '[?Ambleside]' or possibly 'Ambleside'. '[?Troutbeck]' is a tentative reading of a label to the right of Rydal Water."
+    }
+  ]
+}

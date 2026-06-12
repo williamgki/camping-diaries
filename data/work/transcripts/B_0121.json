@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0121",
+  "volume": "B",
+  "pdf_page": 121,
+  "pages": [
+    {
+      "page_id": "B_0121_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Simon's favourite cheese.\nFriday August 3rd\n    There was a terrific thunder storm just after we went to bed. We were concerned as to whether M+C were OK in the tent. They were fine. Lots of rain, no wind.\n    Simon had ordered bread which arrived at 8.10.\n    We drove lots + the last part was very windy. For lunch we had stopped at an aire with an olive mill. It had changed from water power to electricity. It seems that they cooked the olives before taking the oil?",
+      "dates": [
+        { "raw": "Friday August 3rd", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Simon's favourite cheese."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Left page has a glued-in label for 'Chaource' cheese from 'Les Fromagers d'Armançon' (Fromagerie d'Auxon 10/30). The caption 'Simon's favourite cheese.' appears to be written by the diarist. Year cannot be determined from this page alone; 'Friday August 3rd' falls on a Friday in various years within the 2003-2019 range (e.g. 2007, 2012, 2018). The text at bottom continues onto the right page (gutter cuts text on the right edge)."
+    },
+    {
+      "page_id": "B_0121_R",
+      "side": "R",
+      "handwritten_page_no": 59,
+      "blank": false,
+      "full_text": "At 4 we arrived at __Madam Ferrero__, Camping à la ferme, Grimaud. We are in a grove of pines + cork oak. The lower trunk bark has been peeled away. There's a distant view of St. Tropez + a ferris wheel + roller coaster + harbour with lots of masts. There's no pool but there is a ping pong table + lovely breeze. * See page 71 + 72\nSaturday\n    The showers are cold, except for one in the room with the ping pong table. The farmer's wife has white hair + is around a lot + it's very clean.\n\nentry ticket to museum.\nLovely Picassos",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["Madam Ferrero"],
+      "place_mentions": ["Madam Ferrero", "Grimaud", "St. Tropez", "Saint-Tropez"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Simon's chocolate wrapper", "entry ticket to museum. Lovely Picassos"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Right page has three glued-in items: (1) a red SENEQUIER St Tropez chocolate wrapper (Valrhona, Guanaja 70% cacao, Grand Cru de Chocolat Noir Amer, 26600 Tain l'Hermitage, France) with caption 'Simon's chocolate wrapper'; (2) an entry ticket to L'Annonciade musée de Saint-Tropez for the PICASSO exhibition 'Picasso en Méditerranée' (Couple espagnol devant une auberge, 1900), Tarif Réduit, No 04856, with caption 'entry ticket to museum. Lovely Picassos'. There is a marginal note '* See page 71 + 72'. The campsite name 'Madam Ferrero' is underlined. The word 'farmer's' is partially cut off at the right gutter and reads '[farm...]' but context makes it 'farmer's wife'. Year not determinable from page content; 'Friday August 3rd' (from left page) was a Friday in 2007, 2012, and 2018 within vol B range. The Picasso ticket references the museum L'Annonciade in Saint-Tropez."
+    }
+  ]
+}

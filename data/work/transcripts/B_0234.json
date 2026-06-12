@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0234",
+  "volume": "B",
+  "pdf_page": 234,
+  "pages": [
+    {
+      "page_id": "B_0234_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "car (wonderful) & hours of car Talk.\nI [?al] almost finished the pink sweater that I was knitting for Flora's birthday.\nlunch, then another lovely 3½ mile walk.\nI think Great Rissington has the most fabulous group of Cotswold House that I've seen. As Jenny says, you wouldn't dare let the outside of your house appear bad if you lived there.\n\n\tThen tea, then we all left. The first time we had to stop on the return journey was at the Green Man red light in Harborne.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Great Rissington", "Harborne"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page begins mid-paragraph (continuation from previous spread). No handwritten page number visible at top-left. The word before 'almost' is unclear — could be 'al' or an abbreviation. 'Cotswold House' may be 'Cotswold Houses' (plural) but diary appears to write 'House'. Green Man is a pub/landmark at a road junction in Harborne (Birmingham)."
+    },
+    {
+      "page_id": "B_0234_R",
+      "side": "R",
+      "handwritten_page_no": 54,
+      "blank": false,
+      "full_text": "August 19th 2014.\tJohn's birthday.\nHe has just completed his first 2 weeks' work in Swansea. Charles has driven back safely from Noux in his tub-on-wheels. Jenny has brought Helen [back] by plane from Noux. Thomas + family have had a week in Germany with Annie + a week in a cabin in France. William + Bryony are in London. Peter + family have left for Chhattrapati's 50th birthday in Calcutta.\n\tOver tea in bed, Simon decided to leave today evening instead of tomorrow morning. I managed to get to sewing as well as pack up. We set off at 6.10 pm. Two campsites refused us so I rang Kate when a road sign said \"Woking\" + left a message. There was a house/dog sitter. We slept on the drive + left at 7.20.\n\nWed Aug 20th\nWe moved to a services for breakfast + got to the Channel Tunnel early + the train was 50 minutes late. We've arrived at __les Haies de Nolettes__ *** where we've been before. There's a Chinese WW1 cemetery.\n\tWe cycled to the cemetery + to the next village with 2 stations, one for modern, one for old trains. It rained in the night.\nNoyelles sur Mer.",
+      "dates": [
+        { "raw": "August 19th 2014", "iso_guess": "2014-08-19", "confidence": 0.99 },
+        { "raw": "Wed Aug 20th", "iso_guess": "2014-08-20", "confidence": 0.97 }
+      ],
+      "headings": ["August 19th 2014. John's birthday.", "Wed Aug 20th"],
+      "underlined_places": ["les Haies de Nolettes"],
+      "place_mentions": ["Swansea", "Noux", "Germany", "France", "London", "Calcutta", "Woking", "Channel Tunnel", "les Haies de Nolettes", "Noyelles sur Mer"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page number 54 visible at top-right. 'Noux' appears twice — possibly a place name (could be 'Noue', 'Noeux', or similar French/other location) but written clearly as 'Noux' in both instances. 'Chhattrapati' likely refers to Chhatrapati (as in a person's name, possibly Chhatrapati Shivaji reference or a personal name) — transcribed as written. '***' after 'les Haies de Nolettes' appears to be the diarist's own annotation/star marks. 'les Haies de Nolettes' is underlined in the original. The word 'back' in 'Jenny has brought Helen [back] by plane' appears cut off at gutter margin — the word is inferred from context, marked as added."
+    }
+  ]
+}

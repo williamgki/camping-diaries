@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0178",
+  "volume": "A",
+  "pdf_page": 178,
+  "pages": [
+    {
+      "page_id": "A_0178_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Eve at a temple on the Long Walk, Farnborough Hall.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Long Walk", "Farnborough Hall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Eve at a temple on the Long Walk, Farnborough Hall."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a glued-in colour photograph of a circular domed temple/folly with a person (Eve) standing in front of it. The handwritten caption is below the photo. No handwritten page number visible."
+    },
+    {
+      "page_id": "A_0178_R",
+      "side": "R",
+      "handwritten_page_no": 4,
+      "blank": false,
+      "full_text": "__Saturday June 1st.__\n\t1pm we - P,J,C, S,E, set off for Laurel Spooner's 40th birthday party & Laurel & Dick's 20th Wedding Anniversary; at Layer Marney Tower near Colchester, and old Tudor house. The children were supposed to be ghouls - John was a policeman, Charles a cowboy. Simon had made John 'police' badges on the new computer.\n\tWe are camping on the island of Mersea, Ten Farm campsite. **** Clean loos, very restful, glorious views [illegible] [illegible] of the sea with sail boats. Sand & gorse like Thorpeness. We got to bed at 12.30. & woke at 8am.\nSunday After breakfast we went for a walk along the shingle sand banks. Mud flats, tide coming in, hundreds of shells. We had lunch in Mersea at a good French restaurant; the Blackwater, with Matt & Jane  Very enjoyable. We set off for home.",
+      "dates": [
+        { "raw": "Saturday June 1st", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Saturday June 1st."],
+      "underlined_places": ["Saturday June 1st.", "Mersea, Ten Farm campsite."],
+      "place_mentions": ["Layer Marney Tower", "Colchester", "Mersea", "Ten Farm campsite", "Thorpeness", "Mersea", "the Blackwater"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number '4' visible in top-right corner. 'Saturday June 1st.' and 'Mersea, Ten Farm campsite.' appear underlined. The stars '****' appear to be a rating for the campsite. Two words after 'glorious views' are unclear — possibly 'A A' (could be AA rating symbols or decorative marks) followed by 'of the'; marked as [illegible]. 'Mud flats' read as 'Mud flats' though it could be 'Mudflats'. Year cannot be confirmed from the page itself — 'Saturday June 1st' falls on a Saturday in various years; within volume A range (1989–2003) candidates include 1991 and 1996 and 2002; no year is written on the page."
+    }
+  ]
+}

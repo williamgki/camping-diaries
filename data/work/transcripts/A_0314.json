@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0314",
+  "volume": "A",
+  "pdf_page": 314,
+  "pages": [
+    {
+      "page_id": "A_0314_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Friday Jan May 31st.__\n4.10. we 6ft, Simon, Eve, Charles, Tonic. Heavy Traffic that kept moving to Malvern. It's the Queen's Jubilee weekend. John played in the orchestra & chamber orchestra. He & Rocky have just moved to SH from 168.\n__Saturday__ We slept outside no 7. Simon & Eve went to the Priory & then Winter Gardens for speeches, leaving Charles & Tonic in the van at the Medical Centre carpark. The Hills\" by John Ireland sounded beautiful, & a Zulu song & \"Zadok the Priest\". Donna Milroy spoke. Jane & Harry were there. Sunshine\n\tThe drive south to Lyme Regis was absolutely dreadful. M5 totally blocked. We crawled off at __Bristol__ & called in to see Robert & Joan & Naomi [?Grimley]. Then smaller roads to Hook Farm at Uplyme * * *. Crowded.\n[pink annotation: Tonic snapped his lead running away from fireworks.]\n__Sunday June 2nd__\n\tSunshine when we woke. We set off with helmets to Lyme Regis. On the way, Eve went up to Uplyme Church, St. Mary's. Very Friendly. [strikethrough: Queen] Queen's Jubilee; King Solomon. Met [?H]U Iris, 83, organising parenting courses.",
+      "dates": [
+        { "raw": "Friday Jan May 31st.", "iso_guess": "2002-05-31", "confidence": 0.8 },
+        { "raw": "Saturday", "iso_guess": "2002-06-01", "confidence": 0.75 },
+        { "raw": "Sunday June 2nd", "iso_guess": "2002-06-02", "confidence": 0.85 }
+      ],
+      "headings": ["Friday Jan May 31st.", "Saturday", "Sunday June 2nd"],
+      "underlined_places": ["Bristol"],
+      "place_mentions": ["Malvern", "SH", "Priory", "Winter Gardens", "Medical Centre carpark", "Bristol", "Lyme Regis", "Hook Farm", "Uplyme", "Uplyme Church", "St. Mary's"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.82,
+      "notes": "The heading reads 'Friday Jan May 31st.' — 'Jan' appears to be a false start or abbreviation error before 'May'. May 31 fell on a Friday in 2002, which also coincides with the Queen's Golden Jubilee weekend (June 2002), strongly suggesting year 2002. 'SH' is an unknown abbreviation, possibly a street or house name. The name after 'Donna' could be 'Milroy' or similar. '[?Grimley]' — family name partly legible. Pink annotation in different (magenta) ink: 'Tonic snapped his lead running away from fireworks.' 'Met [?H]U Iris, 83' — unclear abbreviation before 'Iris'. The word before 'Jubilee' appears struck through, then rewritten as 'Queen's'."
+    },
+    {
+      "page_id": "A_0314_R",
+      "side": "R",
+      "handwritten_page_no": 5,
+      "blank": false,
+      "full_text": "I suggested a marquee at the campsite.\n\tSimon & John & Charles & Tonic went on to the town, & estimated I'd get there 30 minutes before I did. They didn't realise I'd stay for coffee. It was a really pretty walk down to the town beside the river. John met me. We sat on the wall above the beach because dogs are not allowed on the beach. John got us egg & mayonnaise bagels. At one point [strikethrough: Thomas] Tonic was tied up on the wall while we sat on the beach & he fell over the wall & was [?dragged] up by a man. Charles swam.\n\tWe set off to the east [strikethrough: at] as the tide was going out & wore helmets & looked for fossils. Simon & John found some. They were heavy to carry back. We walked back to town & bought ice creams & walked back to the van.\n[pink annotation: Fossils from what is now tropic of capricorn, covered by later sand from Shara (before 15- Europeated)]\n\tWe had showers (20p), we have booked a table for supper at 8.15. We ate at the Queen Victoria. Good food. Fireworks at the campsite.\n[pink annotation: Section of earth's crust has travelled from Africa → north Lyme Regis since time of dinosaurs.]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Lyme Regis", "Queen Victoria"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.83,
+      "notes": "Handwritten page number '5' in top-right corner. Two pink/magenta annotations added later: (1) 'Fossils from what is now tropic of capricorn, covered by later sand from Shara (before 15- Europeated)' — 'Shara' likely means Sahara; '15-' and 'Europeated' are unclear, possibly 'before 15- [million years, before it was separated]' or similar geological note. (2) 'Section of earth's crust has travelled from Africa → north Lyme Regis since time of dinosaurs.' — geological annotation about the fossils found. The word after 'was' near '[?dragged]' could read 'dragged' or 'waltzed'. 'Queen Victoria' is a restaurant/pub in Lyme Regis where the family dined."
+    }
+  ]
+}

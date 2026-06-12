@@ -1,0 +1,43 @@
+{
+  "spread_id": "B_0133",
+  "volume": "B",
+  "pdf_page": 133,
+  "pages": [
+    {
+      "page_id": "B_0133_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Melody's drawing\n\nSt. Tropez",
+      "dates": [],
+      "headings": ["Melody's drawing", "St. Tropez"],
+      "underlined_places": [],
+      "place_mentions": ["St. Tropez"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a large pencil drawing (not a route sketch but a landscape/townscape illustration) depicting St. Tropez: a steep hillside covered in houses/villas, a harbour below with sailboats and masts, and trees in the foreground. The caption 'Melody's drawing' appears at the top centre, and 'St. Tropez' is written in pencil below it. No handwritten page number visible on the left (top-left corner)."
+    },
+    {
+      "page_id": "B_0133_R",
+      "side": "R",
+      "handwritten_page_no": 71,
+      "blank": false,
+      "full_text": "See P.59.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.95,
+      "notes": "Right half of Melody's pencil drawing of St. Tropez continues from the left page. At the top centre 'See P.59.' is written (cross-reference to another page in the diary). Handwritten page number '71' appears in blue ink in the top-right corner. The drawing shows the same hillside townscape and harbour with moored sailboats. No additional textual content beyond the cross-reference and page number."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0257",
+  "volume": "A",
+  "pdf_page": 257,
+  "pages": [
+    {
+      "page_id": "A_0257_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": null,
+      "legibility": 1.0,
+      "notes": "Page is blank. A sliver of text from the right page is visible at the far right edge due to gutter overlap but belongs to the right page."
+    },
+    {
+      "page_id": "A_0257_R",
+      "side": "R",
+      "handwritten_page_no": 1,
+      "blank": false,
+      "full_text": "September 3rd 1998. Thursday\n    William (nearly 17) Peter 15, John 11, Char[les]\n& Simon & Eve set off at 6.45. for a long\nweekend in the Cotswolds. We travelled\nalong a pretty Roman Road.\n    8.10. We arrived at Moors Farm,\none km north east of __Bourton-on-the-Water__\nDamp. John & Charles fight continuously.\n    Sept 4th Friday.\n        The weather forecast is bad - rain &\nend-of-hurricane winds; but it's dry all day.\nWe set off into Bourton. Very pretty & good for\nwandering about. In the book shop Simon bought\na large-scale map of the Cotswolds, which even\nshows fields. Peter bought a book on Small farms\n[S. Taylor?] Simon bought Eve some amber pendant earrings.\nJohn & Eve went to the perfumerie & smelled\nwonderful smells.\n    The Miniature Museum was shut as we\nwalked back to the van for lunch. After lunch\nSimon waterproofed the small tent. The boys\nplayed cricket. After tea Simon & Charles & Eve went\non a 3 mile walk to Wyck Rissington - a gorgeous\nold church, 16 wooden rounds, & green. Then back\n[illegible - text cut off at bottom]",
+      "dates": [
+        { "raw": "September 3rd 1998. Thursday", "iso_guess": "1998-09-03", "confidence": 0.99 },
+        { "raw": "Sept 4th Friday", "iso_guess": "1998-09-04", "confidence": 0.99 }
+      ],
+      "headings": [],
+      "underlined_places": ["Bourton-on-the-Water"],
+      "place_mentions": ["Cotswolds", "Moors Farm", "Bourton-on-the-Water", "Bourton", "Wyck Rissington"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number '1' visible in top right corner — this may be page 1 of a new trip section rather than a diary-wide page number. The surname after 'Small farms' appears to be 'S. Taylor' or similar annotation in a different hand/size. Bottom of page is cut off in the scan. Name after 'John 11,' is partially obscured at the right margin; reads as 'Char[les]'. 'Wyck Rissington' could also read 'Wyck Kissington' — Wyck Rissington is a known Cotswolds village so that reading is preferred."
+    }
+  ]
+}

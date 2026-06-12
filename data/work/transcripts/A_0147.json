@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0147",
+  "volume": "A",
+  "pdf_page": 147,
+  "pages": [
+    {
+      "page_id": "A_0147_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Tuesday 2nd May.\n\n      We left at 9.10.  We drove over Wrynose Pass, steep, huge drops, into Wrynose Bottom + [strikethrough] down to Scidden Valley.\n\n[sketch of valley cross-section] glacial valleys + the rivers have hardly worn into the granite.  In some places hanging valleys [sketch] with waterfalls.\n\n      We walked over Hard Knott Pass + saw Hardknott Roman Fort, __Mediobogdum.__  It's on the edge of a cliff with a parade ground 3 acres, cleared + levelled, nearby.  We carried on around Harter Fell.  We had lunch at the top of steep cliffs next to the fort, looking out at Scarfell Pike.  It was a long, hot walk.  Downhill we came through forrests where men were sawing, through an old oak wood + over a beautiful packhorse bridge with deep cool rock pools on either side.  Birk Bridge carpark.\n\n      We drove on north west + camped at __Boot__ in __Eskdale__.  The local pub provided beer, but the young, good-looking barman, whose father was a farmer up the valley, took ages to\n\n[marginal note rotated, running vertically along right edge:] Wast Water, deepest lake in England, facing east",
+      "dates": [
+        { "raw": "Tuesday 2nd May", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Tuesday 2nd May."],
+      "underlined_places": ["Mediobogdum", "Boot", "Eskdale"],
+      "place_mentions": ["Wrynose Pass", "Wrynose Bottom", "Scidden Valley", "Hard Knott Pass", "Hardknott Roman Fort", "Mediobogdum", "Harter Fell", "Scarfell Pike", "Birk Bridge", "Boot", "Eskdale", "Wast Water"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible in top-left corner. 'Scidden Valley' — could also read 'Sledden' or 'Scadden'; best reading is 'Scidden'. 'Scarfell Pike' is the diary's spelling of Scafell Pike. The year cannot be determined from this page alone; 'Tuesday 2nd May' matches several years in the 1989–2003 range. A small sketch of a U-shaped valley cross-section appears in the left margin. The vertical marginal note 'Wast Water, deepest lake in England, facing east' runs along the right edge of the left page."
+    },
+    {
+      "page_id": "A_0147_R",
+      "side": "R",
+      "handwritten_page_no": 61,
+      "blank": false,
+      "full_text": "calculate the cost of 2 half-pints of beer.\nWed      The campsite smells beautiful of damp vegetation + cows.  __Hollin Farm__ 09467-23253  We walked up early to see the [?16c] corn mill but it wasn't open until 11.  The terminus of the Ravenglass/Eskdale railway is at Boot.\n\n[hand-drawn route sketch/map of Lake District fells, with labels:]\nScafell [label top right, faint]\nHaystacks [label top left of map]\nGreat Gable [label middle left]\nWhatdale Head [label middle]\nKirkFell [label lower left]\n\n[caption rotated diagonally, lower left:] Wast Water, deepest lake in England, facing east\n[caption lower:] These 3 hills symbol of Lake District",
+      "dates": [
+        { "raw": "Wed", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Hollin Farm"],
+      "place_mentions": ["Hollin Farm", "Ravenglass", "Eskdale", "Boot", "Scafell", "Haystacks", "Great Gable", "Whatdale Head", "Kirk Fell", "Wast Water", "Lake District"],
+      "route_sketch": true,
+      "route_sketch_description": "A hand-drawn sketch map of Lake District fells fills most of the right page. The map shows a ridge line running roughly north-south. Labels identify (from top to bottom on the left ridge): Haystacks, Great Gable, Kirk Fell. To the right is a separate ridge/valley labelled Whatdale Head (could be Wasdale Head). Scafell is labelled faintly at the top right. The diagonal caption 'Wast Water, deepest lake in England, facing east' appears on the left margin (carried over from left page). A lower caption reads 'These 3 hills symbol of Lake District', referring to the three main fell outlines depicted.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.80,
+      "notes": "Handwritten page number 61 visible top-right. 'Hollin Farm' is underlined; phone number 09467-23253 follows. '[?16c]' — the diary appears to say '16' with a superscript 'c', likely meaning '16th century'. 'Whatdale Head' could read 'Wasdale Head' — the map context strongly suggests Wasdale Head, but the written form looks like 'Whatdale'. 'Haystacks' is a possible reading of the top-left map label; could also be 'Haystacks' the fell near Buttermere, though placement near Great Gable is consistent. The map caption mentions 'Wast Water, deepest lake in England, facing east', which is also noted as a marginal annotation on the left page — it may span the gutter."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0228",
+  "volume": "B",
+  "pdf_page": 228,
+  "pages": [
+    {
+      "page_id": "B_0228_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "April  2014\n\n  We had tea in the van at Lapworth\n& walked along the canal.\n\n\nMay 16th.\n2.45. Simon, Eve & Tinder left to drive\nto meet William & Joseph near Felsted.\nIt was a huge field with short grass but\nthe man was not friendly & charged us for\n2 pitches. Mean __Sewards Hall Farm__. * The\nloos were very clean & the shower worked.\nWe didn't get there until 6.10 — the signing\nof the A road was very bad & queues to get\nonto the A14.\n     We put Joseph to bed & had supper.\nWilliam & Joseph were awake quite a lot\nbut I slept like a log, having had Austin,\nFlora & Betty to stay for 4 days while\nThomas, Naoomi & Walter were in Budapest.\nSaturday May 17th\n  We went along a disused railway line called\nthe Flitch Country Park. Very enjoyable. No",
+      "dates": [
+        { "raw": "April  2014", "iso_guess": "2014-04", "confidence": 0.95 },
+        { "raw": "May 16th.", "iso_guess": "2014-05-16", "confidence": 0.90 },
+        { "raw": "Saturday May 17th", "iso_guess": "2014-05-17", "confidence": 0.90 }
+      ],
+      "headings": [],
+      "underlined_places": ["Sewards Hall Farm"],
+      "place_mentions": ["Lapworth", "Felsted", "Sewards Hall Farm", "A14", "Budapest", "Flitch Country Park"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The top of the left page has 'April  2014' which appears to be a month/year heading continuing from a prior entry about Lapworth canal — that text belongs to the April section. The May 16th entry begins a new camping trip near Felsted, Essex. 'Naoomi' is spelled as written (likely 'Naomi'). 'Flitch Country Park' — the Great Dunmow Flitch Trials railway path in Essex, consistent with the Felsted location."
+    },
+    {
+      "page_id": "B_0228_R",
+      "side": "R",
+      "handwritten_page_no": 48,
+      "blank": false,
+      "full_text": "horrible fast riders. Before we left we had\nto drive to a Halfords in Braintree\nto buy a bike seat for Joseph — William\nhad forgotten his borrowed one — &\nsome gumpleads. Because William had\nleft the car doors open his battery had\ngone flat.\n     We had a delicious lunch at 47\nnear Raine, in the garden. Tinder ran\n18 k & was pooped at the end, only\nTrotting. Unfortunately Joseph fell asleep for\n20 minutes in the bike seat on the way\nhome, so he didn't nap on getting back.\nBut his behaviour was very good\nthroughout the holiday. He watches DVDs\nof Peppa Pig & demonstrates his prowess at\ncycling backwards on his Ben 10 bike.\n     We took it in turns to nap with the\nafternoon. Joseph gave me a daisy, a\nbuttercup & a dandelion.\n__Sunday 18th May__\n  We walked throu winter wheat & William\nshowed us black weed which has to be\nploughed back in to get rid of it.",
+      "dates": [
+        { "raw": "Sunday 18th May", "iso_guess": "2014-05-18", "confidence": 0.90 }
+      ],
+      "headings": ["Sunday 18th May"],
+      "underlined_places": [],
+      "place_mentions": ["Braintree", "Raine"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "'gumpleads' is unclear — could be 'gum leads' or 'jump leads' (jump leads to start a flat battery would make contextual sense); transcribed as written. 'Raine' — likely Rayne, a village near Braintree, Essex; could also read as 'Rayne'. 'lunch at 47' likely refers to a house number. 'throu' — spelled as written (diary abbreviation of 'through')."
+    }
+  ]
+}

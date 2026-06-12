@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0181",
+  "volume": "A",
+  "pdf_page": 181,
+  "pages": [
+    {
+      "page_id": "A_0181_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Now The monastery is very beautiful in an unimposing way. The Vikings attacked it. The English closed it down. And finally, the revels on St. Kevin's day were stamped out by the local priest.\n\tThe old cathedral, roofless, St. Kevin's kitchen, a double archway, with sanctuary cross next to it + the round tower are what remain. There are 2 lakes.\n\tWe spent the afternoon back at the campsite. It drizzled most of the day. The camp did a service wash - wash + dry for us - for £5 which was a great help. A delicious meal at the Roundwood Inn Guinness\n\tIt poured in the night. Pegs came out in the big tent. William made a mooing noise hammering them back in. The small tent leaked. For £1 the man dried the clothes + John's sleeping bag.\n__Tues 6th Aug__\n\tIt rained + rained until we reached __Nore Valley__ Bonnet Bridge, Nr __Kilkenny__ at 7pm.\n\tBefore that we drove in a soggy state + saw the Japanese Garden + Irish National Stud at __Kildare__. The garden was beautiful - Founded 1906-10 by a man + his son, [illegible] Minoru. Steep stone steps + bridges + stepping stones showing life's journey. The stud tour showed the Stables + foaling place + foster mother place, miniature ponies + a stallion worth £10mil.",
+      "dates": [
+        { "raw": "Tues 6th Aug", "iso_guess": "1991-08-06", "confidence": 0.5 }
+      ],
+      "headings": ["Tues 6th Aug"],
+      "underlined_places": ["Nore Valley", "Kilkenny", "Kildare"],
+      "place_mentions": ["Roundwood Inn", "Nore Valley", "Bonnet Bridge", "Kilkenny", "Kildare", "Irish National Stud"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The page continues from the previous spread — the monastery described is almost certainly Glendalough (St. Kevin's monastery, County Wicklow, Ireland), given the references to St. Kevin, the round tower, the roofless old cathedral, and 2 lakes. The crossed-out word before 'Minoru' is illegible; Minoru was the name of the man who founded the Japanese Garden at Kildare (Colonel William Hall-Walker, but his son is the one mentioned — or possibly referring to the horse Minoru). The year is uncertain; volume A covers 1989–2003, and an Irish trip with these details could be early 1990s."
+    },
+    {
+      "page_id": "A_0181_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Wed 7th Aug__\n\tGrey cloud. Mild. Slow start. The boys had pleaded for a lie-in. Showers. Friendly. Lots of animals. Ponies, rabbits. John + Charles went off to see the baby goats before breakfast. (We meant to have an Irish breakfast for £2 but forgot!)\n\tWe left for Kilkenny, a mediaeval town. The __Castle__ had a design centre - lots of silver + pottery made. Wool. The __cathedral__, __Canice__, had lovely tombs of Butler family - crusaders + others. Grey chancel, 1900 alabaster carving behind altar. I liked the grey stone + \"Kilkenny marble\". Texture of dog's coat + knight's chain mail.\n\t__Black Abbey church__ Domenican (Franciscan church. V. odd alabaster carving of Trinity. [?CE] but beard + hair v. unusual.\n\tLunch in a v. nice place where we could choose our own sandwiches in fresh bread. We ate on a dangerous roof top, without a wall around.\n\tOn to __Rock of Cashel__. The Kings of Munster lived on the Rock of Cashel for 600 years + in about 1100 gave it to the Bishops. Lovely stone carving from 1100s + 1400s. Sarcophagi.",
+      "dates": [
+        { "raw": "Wed 7th Aug", "iso_guess": "1991-08-07", "confidence": 0.5 }
+      ],
+      "headings": ["Wed 7th Aug"],
+      "underlined_places": ["Castle", "Canice", "Black Abbey church", "Rock of Cashel"],
+      "place_mentions": ["Kilkenny", "Castle", "Canice", "Black Abbey church", "Rock of Cashel", "Munster"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.90,
+      "notes": "Top-right corner does not show a clearly legible handwritten page number. The word 'Domenican' appears to be the diarist's spelling of Dominican. The '[?CE]' is a partially legible abbreviation — possibly 'CE?' referring to the carving being Christ or some iconographic label. 'Black Abbey' is a Dominican friary in Kilkenny; the diarist writes 'Domenican (Franciscan' which may be a self-correction mid-sentence or confusion. Year is uncertain — same trip as left page, likely early-to-mid 1990s."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0025",
+  "volume": "B",
+  "pdf_page": 25,
+  "pages": [
+    {
+      "page_id": "B_0025_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "(Simon dropped the 3 of us off at the municipal swimming pool around the corner, while he drove to the supermarket. We expected a lift back, & it was only when Charles decided to walk, 1½ hours later, that we realised Simon had already got back. The cool swimming was marvellous (10 min along road).\n\n__THIS BELONGS A PAGE BACK AT LUMBIER__\n\nWe had bought white asparagus (tinned) which Charles said looked like wax candles, it didn't taste very good. The cider was acidic. I offered to put it in the French dressing. The cheese is rather like parmesan. The jar of tuna fish in olive oil was very good. Lake Yesa.\n__Thursday August 5th__\n\tSunny all day. We are staying on at Ruesta. In the morning we read & John beat Eve at Scrabble. At 3.30. we set off for the lake again. John & Eve swam across to the promontory. Simon didn't enjoy the swim[...]",
+      "dates": [
+        { "raw": "Thursday August 5th", "iso_guess": "2004-08-05", "confidence": 0.55 }
+      ],
+      "headings": ["THIS BELONGS A PAGE BACK AT LUMBIER", "Thursday August 5th"],
+      "underlined_places": ["Lumbier"],
+      "place_mentions": ["Lumbier", "Lake Yesa", "Ruesta"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page is a continuation; no handwritten page number visible at top-left. 'THIS BELONGS A PAGE BACK AT LUMBIER' is underlined and appears to be a later annotation or editorial note. The annotation '(10 min along road)' appears above the swimming pool passage in slightly smaller writing. The text is cut off at the bottom right edge where it continues onto the right page. Thursday August 5th fell on a Thursday in 2004 and 2010 within the volume's range (2003-2019); year not explicitly stated on page — 2004 is a tentative guess."
+    },
+    {
+      "page_id": "B_0025_R",
+      "side": "R",
+      "handwritten_page_no": 23,
+      "blank": false,
+      "full_text": "Our campsite has been levelled & lots of poplar trees planted.\n\n[sketch of lake or terrain outline]\n\nlots of old cong[illegible] haired [?hippies] at the site - relaxed but cl[illegible]\n\nbecause the clay/sand was so slimy. Cha[rles] played with the yellow boat. John & Charles got cross because Eve wouldn't let them cross the lake - John swimming & Charles in the boat.\n\tWe returned to the campsite & walk[ed] up to the nearly-deserted town of Ruesta for supper. There was a pilgrims' supper at 8.30. which cost us £8 each - bacon soup, plaice & salad & an orange. Charles refused to eat fish, so we have had all sorts of 'Plaice jokes' since then. The pilgrims are Spanish, French & German. Simon weeded one of the yellow arrows on the track by our campsite because pilgrims were missing it.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ruesta"],
+      "route_sketch": true,
+      "route_sketch_description": "A hand-drawn outline shape near the top of the page, appearing to represent a lake or geographic feature (possibly Lake Yesa or the local lake mentioned in the text). No directional arrows or labelled place names within the sketch itself.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Text is cut off on the left margin where it wraps from the left page. Several words at the top-right are partially obscured or difficult to read — 'cong[illegible] haired [?hippies]' is uncertain. 'relaxed but cl[illegible]' trails off at the edge. The sketch appears to be a rough outline of the lake nearby. Yellow arrows are Camino de Santiago waymarkers, consistent with Ruesta being on the Camino Aragonés."
+    }
+  ]
+}

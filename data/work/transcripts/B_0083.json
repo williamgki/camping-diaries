@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0083",
+  "volume": "B",
+  "pdf_page": 83,
+  "pages": [
+    {
+      "page_id": "B_0083_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The courtyard of the Hotel-Dieu, Beaune, is very decorative. Outside it was austere to [?deterbuglert]. The well is of elegant Gothic [?torought] - ironwork.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Beaune", "Hotel-Dieu"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "The courtyard of the Hotel-Dieu, Beaune, is very decorative. Outside it was austere to [?deterbuglert]. The well is of elegant Gothic [?torought] - ironwork."
+      ],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.65,
+      "notes": "Page contains two glued-in photos: (1) a colour postcard labelled 'Hospices de Beaune' showing the courtyard with its distinctive patterned tiled roof; (2) a black-and-white photo of a religious polyptych/altarpiece. The handwritten caption accompanies the postcard. Second word after 'austere to' is very difficult to read — possibly 'deter-[illegible]' or a French word. 'torought' in 'Gothic torought-ironwork' is likely 'wrought' (i.e. 'Gothic wrought-ironwork'). The right margin of this image contains the start of text that continues on the right page — it is cut off at the gutter and has not been transcribed here to avoid duplication."
+    },
+    {
+      "page_id": "B_0083_R",
+      "side": "R",
+      "handwritten_page_no": 21,
+      "blank": false,
+      "full_text": "We stopped at a supermarket to shop + eat lunch in the van, then drove north, nearly running out of petrol.\n\tThe milometre has reached 66,000.\n\tWe reached [?Guignicourt] + got the perfect spot by the river. After supper I saw an old lady walking by the river who went to sit on a bench. I sat next to her + we chatted about the de [?Nuydles].\n\nFriday August 12th\nA beautiful sunny morning. We left at 10. We drove north with cricket on the radio (we can pick it up north of [?Dijon]) As we reached SE of __St. Omer__, rain stopped play + started falling on us, too. We had lunch in the carpark + then went to look at L'Ascenseur à Bateaux des Fontinettes, a pool of water Takes boats up a canal, built in 1887. on the Canal Neufosse.\n\tIt was built to speed things up for the boats + save water. The top caisson took in [?the] 30cm of water, along with the boat, to enable the balance to go down. Rubber-type type tubes were inflated aro[illegible]",
+      "dates": [
+        { "raw": "Friday August 12th", "iso_guess": "2005-08-12", "confidence": 0.3 }
+      ],
+      "headings": ["Friday August 12th"],
+      "underlined_places": ["St. Omer"],
+      "place_mentions": ["Guignicourt", "Dijon", "St. Omer", "Fontinettes", "L'Ascenseur à Bateaux des Fontinettes", "Canal Neufosse"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page number 21 visible in top-right corner. The left margin contains a rotated caption text 'The well is of elegant Gothic [?torought] - ironwork.' which is the caption from the left page postcard and has not been double-transcribed. Place name after 'We reached' is difficult — could be 'Guignicourt' (a commune in Aisne, France, on the Aisne river, which would fit the narrative of a river spot). 'de Nuydles' is unclear — could be a French surname or place name. 'Dijon' is a reasonable reading for the radio cricket pickup point, consistent with a route through Burgundy northward. The Canal is spelled 'Neufosse' in the diary (the standard spelling is 'Neufossé' or 'Canal de Neufossé'). 'Friday August 12th' — the year is not stated on this page; volume B covers 2003–2019. The diary mentions reaching SE of St. Omer on a Friday August 12th, which fits 2005 or 2011; given the milometre reading of 66,000 and context, a year cannot be confirmed — iso_guess given low confidence. Text appears to continue on the next page (ends mid-sentence)."
+    }
+  ]
+}

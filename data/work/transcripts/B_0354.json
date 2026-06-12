@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0354",
+  "volume": "B",
+  "pdf_page": 354,
+  "pages": [
+    {
+      "page_id": "B_0354_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[parted] on the roadside. We cycled against a strong head wind to Shell Island. The previous day the wind had blown me over while I was doing yoga. We cycled around Shell Island – a few shops + lots of campers + sand dunes. Just as we were about to cycle back along the causeway it was closed for high tide when the water covers the road. So Simon bought food in a super market + we had lunch in a sheltered part of the beach. Then we cycled back to the van [the water was still a bit over road] + drove back via Barmouth then up a v. windy, hairy high valley road to a wild camping place for the night, on Wales second highest pass, Hellfire Pass, between Lake Bala + Lake Vyrnwy.\nWe wild camped.\n__Saturday__\nWe drove along a v. windy road to Lake Vyrnwy After the dam we stopped for bread, loo paper, the Times + Tea. We drove on along beautiful country",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Shell Island", "Barmouth", "Hellfire Pass", "Lake Bala", "Lake Vyrnwy"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Text begins mid-sentence — continuation from previous page. Interlinear annotation in smaller handwriting reads '[the water was still a bit over road]'. Margin text at bottom-right ('roa', 'We', '+la') is the overflow of the sentence that continues on the right page: 'roads to a village near St. Melangell's church. We had lunch outdoors at the pub – scampi + Lasagna.' No handwritten page number visible in top-left corner. Year cannot be determined from this page alone; volume covers 2003–2019."
+    },
+    {
+      "page_id": "B_0354_R",
+      "side": "R",
+      "handwritten_page_no": 55,
+      "blank": false,
+      "full_text": "lake Vyrnwy / Llyn Efyrnwy\n[photo of Lake Vyrnwy / Llyn Efyrnwy with dam and tower]\nroads to a village near St. Melangell's church. We had lunch outdoors at the pub – scampi + Lasagna.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Lake Vyrnwy", "Llyn Efyrnwy", "St. Melangell's church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["lake Vyrnwy / Llyn Efyrnwy"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Top of page has handwritten label 'lake Vyrnwy / Llyn Efyrnwy' above a glued-in colour postcard photograph of the lake and dam. Handwritten page number 55 in top-right corner. Text at bottom continues from left page margin overflow. 'St. Melangell's church' likely refers to Pennant Melangell, Montgomeryshire, Wales."
+    }
+  ]
+}

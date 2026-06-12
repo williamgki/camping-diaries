@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0106",
+  "volume": "B",
+  "pdf_page": 106,
+  "pages": [
+    {
+      "page_id": "B_0106_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Intaglios - gemstones with carved designs. Pepin [?] Topane is in St. [?] religious box. [G] [?Ronald] Catrelin representing Apollo",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Conques"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Conques - Détail du Tympan"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.55,
+      "notes": "Page dominated by two glued-in photos: (1) a large postcard of 'Conques - Détail du Tympan' (printed caption visible below image), (2) three smaller photos of intaglio gemstones with handwritten captions. The handwritten caption text is partly cut off at the gutter and is difficult to read fully. 'Topane' could be 'Topaze' or similar; the saint's name after 'St.' is illegible. The word 'representing Apollo' runs along the bottom-right margin and continues onto the right page. 'Catrelin' is uncertain — could be a proper name or misread."
+    },
+    {
+      "page_id": "B_0106_R",
+      "side": "R",
+      "handwritten_page_no": 45,
+      "blank": false,
+      "full_text": "We played \"Set\" again in the evening + again Charles won, twice!\n A Wednesday\n[strikethrough: Tuesday] August 1st.\nSimon walked into town to buy bread. We packed up + wandered along hair-pin bends at 20 mph to Conques. The Abbey is as lovely as ever. After pizza in the square, we looked at the Treasury (newly laid out [?200?])\n We wandered further, with more hair-pin bends to __Cassianousc__. Girls were playing with lizards in a basin. They have been trying to attract Charles attention ever since we got here.\n Simon + Eve walked from Cassianousc to [?Catre] Calvinet in the afternoon, over the fields + a slight ridge. Lots of grasshoppers. The Hotel Beau Sejour is booked for both evenings that we're here, so we reserved for tomorrow's lunch.\n In the evening we listened to a Podcast about the Spanish Inquisition, but unfortunately it ended before the end.\n It started raining at 7pm + went on all night.",
+      "dates": [
+        { "raw": "Wednesday August 1st", "iso_guess": "2012-08-01", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": ["Cassianousc"],
+      "place_mentions": ["Conques", "Cassianousc", "Calvinet"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "The day of week was first written as 'Tuesday' then crossed out and 'Wednesday' written above/beside it, with 'August 1st' underlined. The place 'Cassianousc' is underlined; it likely refers to Cassaniouze, a commune in Cantal, France near Calvinet and Conques. The word before 'Calvinet' appears to be a crossed-out attempt — possibly 'Catre' or 'Calve' — before writing 'Calvinet'. A figure '[?200?]' after 'newly laid out' is unclear — could be a year reference or a number. The year cannot be determined from the page alone: Wednesday 1 August fell on 2007, 2012, or 2018 within the volume's 2003–2019 range; given the podcast reference and general context, 2012 is a plausible candidate but confidence is low."
+    }
+  ]
+}

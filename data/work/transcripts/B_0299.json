@@ -1,0 +1,43 @@
+{
+  "spread_id": "B_0299",
+  "volume": "B",
+  "pdf_page": 299,
+  "pages": [
+    {
+      "page_id": "B_0299_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Recommended place to go for a coffee near\nLake Orta\nVilla Nigra, __Manicella__ (sp?)\n\nSki lift right next to Restaurant Zerotta (hotel?) near\nMont Blanc, near Cour Mayeur.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Manicella"],
+      "place_mentions": ["Lake Orta", "Villa Nigra", "Manicella", "Mont Blanc", "Cour Mayeur"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Appears to be a miscellaneous notes page (not a diary entry) with recommendations for places to visit. 'Manicella (sp?)' — the writer themselves doubts their spelling; could also read as 'Manicella' or 'Menicella'. 'Cour Mayeur' likely refers to Courmayeur (near Mont Blanc, Italy), spelled phonetically. 'Restaurant Zerotta' — could also read 'Zerotta' or 'Zeratta'. No date or year evident from the page itself; year cannot be determined from page content alone."
+    },
+    {
+      "page_id": "B_0299_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 1.0,
+      "notes": "Page is blank (decorated endpaper pattern only, no handwritten text)."
+    }
+  ]
+}

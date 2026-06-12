@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0109",
+  "volume": "B",
+  "pdf_page": 109,
+  "pages": [
+    {
+      "page_id": "B_0109_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday August 4[?th]\n\n    We parked in Figéac & went to church with John Hurman, leaving Charles in the van. After the service, which was full of people & quite easy to follow, we walked around the old part of town & had lemon tea & coffee. When we returned to the van, Charles was [?frumped] because we'd been so long. He had not slept well because a mouse kept coming to visit his tent in the night. (He had \"strengthened the gates.\"!)\n\n    We drove off through lovely country side & reached Saillant, [strikethrough: le Solid] le Bontet the campsite is next to a river where Charles & I paddled & slid over rocks – the current was pretty strong in parts & we bumped our bums. I hand washed clothes.\n    Parts of the grounds really stank of piss, but it was very beautiful.\n\nMonday We walked down to look at the chapel, which has windows by Marc Chagall, pretty but difficult to understand. The village is nice. The chateau looks grand, with a big lake that we couldn't see.",
+      "dates": [
+        { "raw": "Sunday August 4th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Sunday August 4[?th]"],
+      "underlined_places": [],
+      "place_mentions": ["Figéac", "Saillant", "le Bontet"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Date reads 'Sunday August 4' but the following characters are unclear — could be '4th' or '46'. No year is visible on this page; year cannot be determined from content alone. The word after 'Charles was' looks like 'frumped' (possibly 'grumped' or 'slumped'). Strikethrough text before 'le Bontet' appears to read 'le Solid' or similar. Photos visible at right edge of left page belong to page layout but are cut off. 'Monday' heading is underlined."
+    },
+    {
+      "page_id": "B_0109_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Postcard of Uzerche glued in]\n\nUzerche, church of St. Peter & other views of the walled town.\n\n    We drove to Uzerche, a town that in about 850 endured a 7 year siege against the Saracens. At the end of the 7 years, they tricked the Saracens by presenting them with a fat calf & a bale of hay, & the Saracens gave up.\n    We had delicious chips for lunch.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Uzerche"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Uzerche, church of St. Peter & other views of the walled town."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Right page is dominated by a glued-in multi-photo postcard of Uzerche. The handwritten caption describes 'church of St. Peter & other views of the walled town.' Text continues below the postcard with the story of the 850 AD siege. Some text from this page was partially visible in the left-half image at the right edge (lines beginning '850 end...', 'At to en...', 'presentin...', 'the Sara...') — these are transcribed fully from the right-half image."
+    }
+  ]
+}

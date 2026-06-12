@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0350",
+  "volume": "A",
+  "pdf_page": 350,
+  "pages": [
+    {
+      "page_id": "A_0350_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Pegasus Bridge from the air showing the first house liberated (now a café) & the position where the 3 gliders crash landed.\n00.19 hrs June 6th 1944",
+      "dates": [
+        { "raw": "June 6th 1944", "iso_guess": "1944-06-06", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Pegasus Bridge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Pegasus Bridge from the air showing the first house liberated (now a café) & the position where the 3 gliders crash landed. 00.19 hrs June 6th 1944"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a glued-in aerial photograph of Pegasus Bridge (Normandy, France) with white circles drawn on it to indicate key positions. The caption beneath is handwritten in blue ink and refers to the historical D-Day event of June 6th 1944, not the diary trip date. No handwritten page number visible on this page."
+    },
+    {
+      "page_id": "A_0350_R",
+      "side": "R",
+      "handwritten_page_no": 45,
+      "blank": false,
+      "full_text": "*** \n   We drove on to __Caen__, where, after much searching, we found the camp site shut. So we have camped in some trees beside the racecourse. We cycled into Caen & saw the Abbaye aux Dames, which is mostly rebuilt, & the Abbaye aux Hommes, which has a plain west front & elegant towers. There are also good misericords.\n   We ate supper at Alcide, in the big square with lots of sail boats. The cycle lanes are good. [?Place] [?Toutonne]. Simon had pitchards! I had salmon [illegible] pâté. Then we had blanchette de veau. Simon had tartine & I had chocolate liègeois ice cream.\n   There were race horses being shown off in a courtyard in front of a building. We saw trotters on the beach earlier in the day.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Caen"],
+      "place_mentions": ["Caen", "Abbaye aux Dames", "Abbaye aux Hommes", "Alcide"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page number 45 visible at top right. Three asterisks (***) at the top centre may be a section break or continuation marker. The word after 'good.' before 'Simon had' appears to be '[?Place]' followed by what could be '[?Toutonne]' or '[?Tourtonne]' — possibly a place name inserted as a correction or annotation above the line; hard to read clearly. The word between 'salmon' and 'pâté' is partially obscured. 'pitchards' likely means 'pilchards' (verbatim preserved). 'blanchette de veau' is likely 'blanquette de veau' (verbatim preserved). The year of this trip is not stated on this page; context from surrounding pages in volume A (1989–2003) and reference to Pegasus Bridge/Normandy on the facing page suggest this is a France/Normandy trip."
+    }
+  ]
+}

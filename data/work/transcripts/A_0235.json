@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0235",
+  "volume": "A",
+  "pdf_page": 235,
+  "pages": [
+    {
+      "page_id": "A_0235_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "On Thursday morning we stopped at __Oslo__ to buy knitwear. Peter bought a hat, Eve bought a cardigan \"Christiania\" is the old name for Oslo.\n\n\tAt about 5 we arrived at Laerdal. There is a helicopter pad. We have camped right next to a marina. There is no ping pong. There are lots of silverburch. I am wearing a trousers, fleece + socks, but it is warm in the sun. Children here have large pedal cars.\n\tJohn + Charles have been able to hire the pedal cars.\n\tHeavyrain in the night. Warm rain in the morning + cloud down low.\n\tA delicious supper of prawns from the Bergen fish market.",
+      "dates": [
+        { "raw": "Thursday morning", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Oslo"],
+      "place_mentions": ["Oslo", "Christiania", "Laerdal", "Bergen"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["CHRISTIANIA S732 H + D. LADIES' SIZES: S - XL"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "A glued-in postcard/advertisement for Christiania knitwear (model in a Norwegian-patterned cardigan) is pasted on the left half of the page. The word 'Oslo' appears to be underlined in the text. 'silverburch' is likely 'silver birch' — transcribed verbatim. 'Laerdal' could also read 'Laerdal' (Lærdal, Norway). No handwritten page number visible at top-left, likely obscured by the glued postcard. Year cannot be confirmed from page content alone; Norway context and volume position suggest mid-to-late 1990s."
+    },
+    {
+      "page_id": "A_0235_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Newspaper clipping page — no handwritten diary text. Page consists entirely of printed newspaper advertisement columns including: property investment ads, investment properties in East Manchester (Blackwood), financial spread trading (CFD Index), Betting Coupes horse racing \"plots\", property investment offers, urban planters (www.urbanplanters.co.uk), loans and commercial property ads. A number \"65\" appears in printed form at top-right corner, which is part of the newspaper page number, not a diary page number.]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["East Manchester", "London"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "This page is entirely a newspaper clipping glued in — no handwritten diary text whatsoever. The '65' at top right is a printed newspaper page number, not a handwritten diary page number. Place mentions extracted from printed ad text only (East Manchester, London from the Investment Properties and Open Evening ads). The newspaper appears to be from the early 2000s based on the URLs and phone number formats (0161, 01908, etc.)."
+    }
+  ]
+}

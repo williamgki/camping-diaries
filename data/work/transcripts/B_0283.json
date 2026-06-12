@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0283",
+  "volume": "B",
+  "pdf_page": 283,
+  "pages": [
+    {
+      "page_id": "B_0283_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "& prosciuto at the camp shop. We had bought olive bread & cakes earlier in the day.\n__May 2nd Tuesday.__\n After breakfast I braved the washing machine. Gettone (3.50 € each) were not available in the shop but in the hotel reception. I got 2. The machine wouldn't go. The handyman - Francesco - then used my second token. It still wouldn't work. He came back later & got it going - apparently the other washing machine shorts the electricity in the whole block - & returned the second gettone which I will use tomorrow to wash the bedding.\n Simon is trying to mend the room heater. Getting dressed & undressed on these cold nights is a bit grim.\n After elevenses we walked 1 ½ k into Assisi along the hillside, a lovely walk again along an old road with olive trees, well cared for. We went to see the super frescoes in the lower Basilica & the Upper Basilica both[e] before [th-]",
+      "dates": [
+        { "raw": "May 2nd Tuesday", "iso_guess": "2006-05-02", "confidence": 0.5 }
+      ],
+      "headings": ["May 2nd Tuesday."],
+      "underlined_places": [],
+      "place_mentions": ["Assisi"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text continues from previous page mid-sentence ('& prosciuto...'). Text also continues onto right page at bottom. 'gettone' = Italian washing machine tokens. The handyman is named Francesco. Year cannot be confirmed from this page alone; May 2nd fell on a Tuesday in 2006 (within volume B range 2003-2019), also possible other years — confidence kept low."
+    },
+    {
+      "page_id": "B_0283_R",
+      "side": "R",
+      "handwritten_page_no": 103,
+      "blank": false,
+      "full_text": "& after lunch. I had ravioli. Simon ate an enormous pig knuckle.\n Good sunshine in the afternoon.\n It was a shock to see soldiers with machine guns at the Basilica\n[Glued-in printed leaflet: ASSISI / Casa Editrice Francescana / Basilica di S. Francesco]\n__Wednesday__\n Simon went to see the Cathedral & St. Clare's church. He also found a good food shop.\n I stayed in the camp & washed the bedding.",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": "2006-05-03", "confidence": 0.45 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Assisi", "Basilica di S. Francesco", "Cathedral", "St. Clare's church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["ASSISI / Casa Editrice Francescana / Basilica di S. Francesco"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten page number 103 visible top-right. Page contains a glued-in printed leaflet/postcard for 'ASSISI - Casa Editrice Francescana - Basilica di S. Francesco' with an illustrated image of the basilica complex. 'Wednesday' heading is underlined. Text at top continues from left page. Year inference same as left page — May 3rd (Wednesday) fits 2006."
+    }
+  ]
+}

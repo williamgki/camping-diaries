@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0142",
+  "volume": "B",
+  "pdf_page": 142,
+  "pages": [
+    {
+      "page_id": "B_0142_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Page is blank. Partial gutter text visible at bottom-right edge is a continuation of the right page's handwritten note and is transcribed there."
+    },
+    {
+      "page_id": "B_0142_R",
+      "side": "R",
+      "handwritten_page_no": 80,
+      "blank": false,
+      "full_text": "Saint Anne Room, Beaune, former linen room, P 20,\n\nTapastry, miracle of Saint Eloi. Beaune.\n\nYouth hostel & camping, Lorde valley.\n04.71.23.56.\n10/06.07.88.\n19.04.\n15110 [?Fridefont]\nAuvergne\nFerme Auberge.",
+      "dates": [
+        { "raw": "10/06.07.88.", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Beaune", "Lorde valley", "Auvergne", "[?Fridefont]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "Saint Anne Room, Beaune, former linen room, P 20,",
+        "Tapastry, miracle of Saint Eloi. Beaune."
+      ],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page contains two glued-in photographs and one postcard/illustration. Top photo shows a room with mannequins in period dress; caption reads 'Saint Anne Room, Beaune, former linen room, P 20,'. Middle photo shows a tapestry with a rabbit; caption reads 'Tapastry, miracle of Saint Eloi. Beaune.' Bottom item is a printed postcard/illustration of 'Ferme Auberge des deux vallées' (text printed on the card, not handwritten). Bottom-left handwritten note gives contact/address details: youth hostel and campsite in the Lorde valley, phone number 04.71.23.56., a number sequence '10/06.07.88.' (could be phone number or date reference — unclear), postcode 15110, place name read as '[?Fridefont]' (possibly Fridefont, Cantal; could also read 'FrideSont'), Auvergne, Ferme Auberge. The '10/06.07.88.' string is ambiguous — could be a partial phone number or a date; year 88 would pre-date this volume (2003–2019) so more likely a phone number fragment."
+    }
+  ]
+}

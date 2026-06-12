@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0136",
+  "volume": "B",
+  "pdf_page": 136,
+  "pages": [
+    {
+      "page_id": "B_0136_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Friday May 16th.          Journey 50 min from 8.40am\n   We went to the Blind school Bubbly Bath & at 9 set off for Defford (where Malvern College do sailing) We camped at the __Defford Arms__ next to a huge field of horseradish. Quiet: birds, church bells.\nSat  Cold in the morning. The heater worked. My cardigan smelled of the wardrobe in Gran Canaria as I got dressed.\n   We walked across fields to the Swans Neck where the river loops round near Bredon Hill. Nettles. On the way back we held hands & put Tonic on the lead to run across a field of cows. 25 cows converged on us as we got onto the raised duckboard bridge across the river.\n   We're going to have a drink at the Defford Arms& then lunch in the van.\n   After lunch we drove to [?Cor] Croome Park, beautiful Capability Brown garden being restored by NT. [symbol] Culverts to long lake. Metal Bridges Simon admired. Goslings\nAfter tea in the van we came home 5.25",
+      "dates": [
+        { "raw": "Friday May 16th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sat", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Defford Arms"],
+      "place_mentions": ["Defford", "Defford Arms", "Swans Neck", "Bredon Hill", "Croome Park", "Gran Canaria"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Witley Parish Church, Worcs.", "View of interior looking east"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Photo captions appear in right margin of left page, likely referring to the photo on the right page. 'Bubbly Bath' is unclear — could be a pet name or place nickname. The word before 'Croome Park' appears to be a crossed-out draft (reads like 'Cor' struck through). Year cannot be determined from page content alone; May 16 falling on Friday in volume B era: 2003, 2008, 2014. Croome Park NT restoration began c.2007 which may favour 2008 or later."
+    },
+    {
+      "page_id": "B_0136_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Witley Parish\nChurch,\nWorcs.\n\nView of\ninterior looking\neast\n\n\n\n\n\nFriday\nJune 6th\n\n   Eve went to a fund-raiser by Mo & Pat in Sutton Coldfield (for [?Pannos]) & trained back to University Station where Simon, Charles & Tonic picked her up at 12.30.\n   We ate lunch in the carpark of  Great Witley\nChurch",
+      "dates": [
+        { "raw": "Friday June 6th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Witley Parish Church", "Worcs.", "Sutton Coldfield", "University Station", "Great Witley Church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Witley Parish Church, Worcs. View of interior looking east"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page is dominated by a glued-in colour photograph of the interior of Witley Parish Church (Worcestershire), looking east toward the altar, with ornate baroque ceiling paintings. The caption labels are handwritten in the left margin. 'Pannos' is uncertain — could be a name or an event/charity abbreviation. 'University Station' likely refers to University railway station, Birmingham. Year cannot be confirmed from page; June 6 on Friday in volume B era: 2003, 2008, 2014."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0086",
+  "volume": "B",
+  "pdf_page": 86,
+  "pages": [
+    {
+      "page_id": "B_0086_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Visit of the Magi, 1350, dated 150 years before Long Melford church, Sound buried under chancel, so maybe hidden in Reformation. A similar alabaster Midwife plumping up pillows. Ox + ass under bed. midwife more integral, may forked beards, photographs in Germany Ox + ass hidden up",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Long Melford", "Germany"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Visit of the Magi, 1350, dated 150 years before Long Melford church, Sound buried under chancel, so maybe hidden in Reformation. A similar alabaster Midwife plumping up pillows. Ox + ass under bed. midwife more integral, may forked beards, photographs in Germany Ox + ass hidden up"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Page is dominated by a large photograph of a stone/alabaster relief carving (Nativity scene). The caption text runs diagonally beside and below the photo. Some words partially obscured or difficult to read due to angle and crowding. 'Sound' may read 'Found'; 'may forked beards' may be 'may have forked beards' with a word omitted. No handwritten page number visible."
+    },
+    {
+      "page_id": "B_0086_R",
+      "side": "R",
+      "handwritten_page_no": 24,
+      "blank": false,
+      "full_text": "Melford connection + then started a L.M. reunion every 6 years to raise money. He died in 2000 aged 95. The sermon was good, about 3 different levels of belief. I really liked the Clopton chapel + the alabaster + the rabbit window (see front.) Friendly people weering tweed\n   We drove on to __Lavenham__ (4 star church) which we didn't like as much, though it a purer style of arch+, perpendicular. We had lunch on the road outside.\n   The village of Lavenham is very, very pretty. Incredible range of houses, many of them tilted. Shilling Street had 'found [?Rose]', \"Guinea [illegible] House\" + \"Florin House\". We looked around the Guildhall with its interesting displays on building, the wool industry + family histories. Lily of the Valley was used for dyeing spring green.\n   The \"boom\" in Lavenham was 1460-153[illegible] Then several large houses were knocked down because people couldn't afford them. Outside in the garden was the village lock-up + mortuary with an old fire-engine.",
+      "dates": [
+        { "raw": "1460-153...", "iso_guess": null, "confidence": 0.0 }
+      ],
+      "headings": [],
+      "underlined_places": ["Lavenham"],
+      "place_mentions": ["Melford", "Lavenham", "Shilling Street", "Guildhall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page number 24 visible at top right. Text continues from previous page (B_0086_L) mid-sentence with 'Melford connection'. 'L.M.' likely stands for Long Melford. 'weering' is as written (possibly 'wearing'). 'arch+' likely 'architecture'. The house name on Shilling Street is partially illegible — reads like 'found Rose' or similar, with a struck-through word in 'Guinea Cottage House'. The boom date ends with '153' then cut off at page edge — could be 1530 or 1535 or similar. Year of the diary entry not determinable from this page; 'He died in 2000 aged 95' establishes the entry is post-2000, consistent with volume B (2003-2019)."
+    }
+  ]
+}

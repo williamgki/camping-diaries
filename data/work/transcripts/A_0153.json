@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0153",
+  "volume": "A",
+  "pdf_page": 153,
+  "pages": [
+    {
+      "page_id": "A_0153_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "John & Charles play on the see-saw & rope ladder.\n    We had lunch inside, because it is horribly damp, windy & cold, & then walked up to look at the church. The Gough family gave a window to St. George. There is a face with donkey ears, sticking its tongue out in the piscina. The font is 13 or 14.\n    We continued on 1½ miles around the village & countryside. 5 horses stood around Eve in a field. Simon carried Charles over the nettles. Peter felt ill & William listened to rugger on the radio so they both stayed behind at the van. We had played cricket when we got back. Most people had left the campsite to cycle around Rutland Water.\n    In the evening we had a barbeque - lamb chops, sausages, & veg & beef kebabs.\n    __Sunday June 25th__\n    Church at 9.0. Carefully modulated tones. Returned to wash up, elevenses, & put away tents.",
+      "dates": [
+        { "raw": "Sunday June 25th", "iso_guess": "1995-06-25", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Rutland Water"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "No handwritten page number visible — page begins mid-sentence suggesting continuation from previous spread. 'Sunday June 25th' anchors the day; Sunday 25 June fell in 1989, 1995, and 2000 within the volume's range. The font age noted as '13 or 14' likely refers to centuries (13th or 14th century). 'St. George' refers to a church window donated by the Gough family."
+    },
+    {
+      "page_id": "A_0153_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "John wailing over writing a butterfly poem.\n[photo caption, rotated left margin:] Sunny supper at Upper [?Cautres] after a very wet days' riding\n    After failing to get lunch at a village pub, we ate at a coaching inn in Uppingham & returned home in the sun.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Upper [?Cautres]", "Uppingham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Sunny supper at Upper [?Cautres] after a very wet days' riding"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "The place name in the photo caption reads 'Upper Cautres' or possibly 'Upper Cantres' — handwriting is slightly unclear. Uppingham is a town in Rutland, consistent with the Rutland Water reference on the left page. A large glued-in photograph occupies the centre of the page showing several children seated outdoors at a table. No handwritten page number visible in top-right corner."
+    }
+  ]
+}

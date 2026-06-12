@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0254",
+  "volume": "B",
+  "pdf_page": 254,
+  "pages": [
+    {
+      "page_id": "B_0254_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Tuesday  We had a lie in + set off to Vezelay by quite complicated main roads. At the carpark, halfway down the hill,",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Vezelay"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Vezelay on Yonne"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in postcard/photo of the interior of Vezelay basilica. Text continues onto right page. No handwritten page number visible in top-left corner. The caption 'Vezelay on Yonne' is written below the photo in blue/black ink."
+    },
+    {
+      "page_id": "B_0254_R",
+      "side": "R",
+      "handwritten_page_no": 74,
+      "blank": false,
+      "full_text": "I had to wait while Simon went off to find the €6. We had lots of time to look at the west wall, 2 of them, inner + outer, + all the capitals. At one time 1000 pilgrims were burned when the cathedral caught fire. It was involved with crusades. Richard the [lion]heart visited.\n\n    We started with lunch + I had chocolate waffles gou[?]ffles, for pudding.\n*****\n    On to Chaumot, near Corbigny run by a very relaxed Dutchman. He bought a station house near here 25 years ago + this campsite 14 years ago. The loos are brilliant – easy to clean – loo, bin, brush off the floor. It's on Canal Nivernais, so we can bike ride tomorrow. It started to rain when I was in the loo + has gone on + on. Sodden cyclists keep arriving...\nWednesday July 29th.\n\nWe are on a sort of island with a bridge at one end. There was a railway here once which interchanged with the canal. The next village has \"mines\" in",
+      "dates": [
+        { "raw": "Wednesday July 29th.", "iso_guess": "2009-07-29", "confidence": 0.7 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Vezelay", "Chaumot", "Corbigny", "Canal Nivernais"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Handwritten page number 74 in top-right corner. Text is a continuation from left page about the Vezelay cathedral visit, then moves to a campsite at Chaumot near Corbigny run by a Dutchman on Canal Nivernais. The word after 'waffles' is partially overwritten/corrected — reads 'gouffles' or possibly 'gaufres' (French waffles); marked as [?]ffles. 'Richard the lionheart' — the word 'lion' appears as a combined word 'lionheart'; text reads 'Richard the [lion]heart'. Year 2009 inferred because July 29 fell on a Wednesday in 2009, which fits the volume date range (2003–2019) and the use of euro currency. Text is cut off at bottom of page."
+    }
+  ]
+}

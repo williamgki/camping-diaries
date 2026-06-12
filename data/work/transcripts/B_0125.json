@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0125",
+  "volume": "B",
+  "pdf_page": 125,
+  "pages": [
+    {
+      "page_id": "B_0125_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Matisse was too ill to go to the opening of the chapel in 1951, but in a letter to the bishop he wrote that the chapel was his best work.\n\n[photo caption:] Henri Matisse 1869-1954\nBaigneuse dans les roseaux 1952\npaper & Canvas.\n\n[vertical right-margin text:] Vierge à l'enfant 1951\nAf[illegible]\nat [illegible]\nnc[illegible]",
+      "dates": [
+        { "raw": "1951", "iso_guess": "1951", "confidence": 0.9 },
+        { "raw": "1952", "iso_guess": "1952", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Henri Matisse 1869-1954 Baigneuse dans les roseaux 1952 paper & Canvas."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "Page contains a glued-in colour print/postcard of Matisse artwork 'Baigneuse dans les roseaux 1952'. The dates (1951, 1952) refer to Matisse's artworks described, not to the diary entry itself. Right margin has vertically written text partially cut off at gutter — 'Vierge à l'enfant 1951' is clear; a few further lines are only partially legible. No handwritten page number visible."
+    },
+    {
+      "page_id": "B_0125_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Vierge à l'enfant 1951\nCeramic panel.\n\n[photo of ceramic panel artwork]\n\nAfter driving in zig zags & a circle we had lunch at \"[?Tab] \"tout va\" 94 Boulevard de Pastour, a really nice French meal, escalope of chicken & salad.\nThen we set off one of the zig-zaggiest ro[ads we]\never [saw / had].",
+      "dates": [
+        { "raw": "1951", "iso_guess": "1951", "confidence": 0.85 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Boulevard de Pastour"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Vierge à l'enfant 1951 Ceramic panel."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.75,
+      "notes": "Left margin carries continuation of caption from left page: 'Vierge à l'enfant 1951 / Ceramic panel.' Photo shows a ceramic tile panel (Matisse design with flowers/AVE inscription). Bottom narrative text is partially cut off at the right edge; last line reads 'one of the zig-zaggiest ro[ads we] ever [saw]' — bracketed words are inferred from cut-off. The restaurant name before 'tout va' is unclear — could be 'Tab' or an abbreviation. '94 Boulevard de Pastour' — 'Pastour' is the diary's spelling; could also be 'Pasteur'. The 1951 date refers to the Matisse artwork caption, not the diary visit date; diary year cannot be confirmed from this spread alone."
+    }
+  ]
+}

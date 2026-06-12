@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0281",
+  "volume": "A",
+  "pdf_page": 281,
+  "pages": [
+    {
+      "page_id": "A_0281_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the Vine Tree. Delicious. Pork & faggots. lovely roast Mediterranean vegetables. After supper we walked to look at the Royal Crescent. Fortunately it wasn't raining, but there was a magnificent thunderstorm across the valley. We were lucky to catch a Taxi back to the campsite.\n\n     Hot weather again on __Sunday__. The people at Claverton village were snooty about helping us find a church when we arrived at the end of their service. At the next church, __Limpley Stoke__, Simon saw Jill Wright crossing the graveyard. Inspite of telephoning Jill & Hugh we had failed to make contact, so it was good to meet them by chance. Hugh had just finished preaching. So we shared their church coffee (Saxon arch) & set off to Freshford. A very welcoming church & good sermon by a lay-reader. Hugh & Jill invited us to lunch.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Limpley Stoke"],
+      "place_mentions": ["Vine Tree", "Royal Crescent", "Claverton", "Limpley Stoke", "Freshford"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page is a continuation from a previous page; no handwritten page number visible at top. 'Sunday' is underlined in the original. 'Limpley Stoke' is underlined. The church mentioned has a Saxon arch. Jill Wright and Hugh are friends encountered by chance."
+    },
+    {
+      "page_id": "A_0281_R",
+      "side": "R",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "They have a gorgeous house with a beautiful view across the valley over the canal. We had a beer sitting in the sun.\n     Then we set off to the American museum. It had wonderful quilts, Amish furniture, Navahos jewelry (squash blossoms) like mine. But also very bossy old museum guides who kept telling us where to go - Charles wasn't allowed to go round by himself.\n     We had tea in the carpark & left for home, dropping off John at __Malvern__ on the way, to take his academic scholarship.\n     __Friday May 26th__\n     Simon & Eve, John & Charles drove down to the Malvern summer concert. Peter played the viola. We slept outside No 7. It was very cold in the night. My hips ached. After the service & speeches in",
+      "dates": [
+        { "raw": "Friday May 26th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Friday May 26th"],
+      "underlined_places": ["Malvern"],
+      "place_mentions": ["Malvern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The '2' in the top-right corner appears to be a handwritten page number. 'Friday May 26th' is underlined as a heading. 'Malvern' is underlined. The American museum referenced is likely the American Museum in Britain, located at Claverton Manor near Bath. 'Navahos' is the diary's spelling of Navajos. Year cannot be confirmed from this page alone; within volume A (1989-2003), Friday May 26 fell on: 1989, 1995, 2000 — most likely context needed from surrounding pages."
+    }
+  ]
+}

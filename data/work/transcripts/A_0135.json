@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0135",
+  "volume": "A",
+  "pdf_page": 135,
+  "pages": [
+    {
+      "page_id": "A_0135_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Autun  Dream of the Kings.  One of the capitals in the upstairs room, where we could see them at head height.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Autun"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Autun  Dream of the Kings.  One of the capitals in the upstairs room, where we could see them at head height."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page is dominated by a glued-in black and white photograph of a Romanesque stone relief carving (three crowned figures reclining, with an angel below — the 'Dream of the Kings' capital from Autun cathedral). The caption is handwritten diagonally beneath the photo."
+    },
+    {
+      "page_id": "A_0135_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "There was an organ & trumpet recital in the evening at 9.0., which was too late, so we didn't go to it.\n\tWe drove on to __St. Jean de Vaux__, & camped in the middle of the Burgundy Vineyards. We got there just before the pool shut · lightening in the night, Thomas continues to be ill.\n\t__Tues 9th August__\n\tWe swam & rested. There are lots of children's camps. An Algerian girl is chasing Peter. We went out in the van in the evening to Restaurant de Raison, Hotel de Garage, Givry, where we went last year & again had a good meal. Simon ate tons of chicken.\n\tThere was another very windy storm in the night, (it had been too hot in the day) Simon spent ages in the tent. He has now tied the tent to a tree. The poor camp leaders of the children were very busy in the night. Charles stayed in the tent inspite of the storm. It was still raining & stormy in the morning. Thomas is still sick. We went wine tasting at the same Caves as last year. Simon & I wanted",
+      "dates": [
+        { "raw": "Tues 9th August", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Tues 9th August"],
+      "underlined_places": ["St. Jean de Vaux"],
+      "place_mentions": ["St. Jean de Vaux", "Burgundy", "Restaurant de Raison", "Hotel de Garage", "Givry"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The top of the page begins mid-sentence, continuing from the previous spread. 'Tues 9th August' is underlined as a date heading. Year cannot be determined from this page alone; the volume covers 1989–2003. 'Raison' could also read 'Saison' — unclear. 'lightening' may be 'lightning' (transcribed verbatim). Page continues onto next spread (ends mid-sentence with 'Simon & I wanted'). No handwritten page number clearly visible in the top-right corner — the partial '4' visible at the very top-right edge may be part of a page number cut off or belong to the previous spread."
+    }
+  ]
+}

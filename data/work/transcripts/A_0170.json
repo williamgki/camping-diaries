@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0170",
+  "volume": "A",
+  "pdf_page": 170,
+  "pages": [
+    {
+      "page_id": "A_0170_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": null,
+      "legibility": 1.0,
+      "notes": "Page is blank. Decorative endpaper visible on far left edge of scan."
+    },
+    {
+      "page_id": "A_0170_R",
+      "side": "R",
+      "handwritten_page_no": 1,
+      "blank": false,
+      "full_text": "August 31st 1995.\n\n   We were about to leave at 6.0. but Eve alarmed John in the house. It was 8 before the alarm men managed to reset it. Simon & Eve, Thomas 15, William 13, John 8, Charles 6, left for Bromyard, Kate & Jamie's farm. (Peter at Beauchamp).\n   The Sands, Peter + his were at the Farm with their children, before leaving for Australia.\n\n__Friday__\n   We watched the grain lorry loading with grain. The boys saw Edward's 2 Vietnamese pigs being fed. We swam & played tennis & picked Blackberries. A lovely day.\n   Kate & Jamie & Ben & Edward joined us for supper.\n\n__Saturday__\n   Edward & Jamie beat Thomas & Eve at tennis, just. (Simon & Eve had beaten Thomas & William the day before) There's a good ball machine called a Lob-ster. It rained intermittently in the morning.\n   We left for Beauchamp at 1.0.\n\n__Saturday 9th September__\n   Simon, Eve, Peter, John & Charles left for Charity's (Hatty's) christening at about 5.15.",
+      "dates": [
+        { "raw": "August 31st 1995", "iso_guess": "1995-08-31", "confidence": 0.99 },
+        { "raw": "Friday", "iso_guess": "1995-09", "confidence": 0.5 },
+        { "raw": "Saturday", "iso_guess": "1995-09", "confidence": 0.5 },
+        { "raw": "Saturday 9th September", "iso_guess": "1995-09-09", "confidence": 0.95 }
+      ],
+      "headings": ["Friday", "Saturday", "Saturday 9th September"],
+      "underlined_places": ["Bromyard", "Beauchamp"],
+      "place_mentions": ["Bromyard", "Beauchamp", "Australia"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten page number '1.' visible top-right corner. The Friday and Saturday entries follow the August 31st date so likely fall in early September 1995 (exact dates uncertain). 'Beauchamp' appears both as a farm/place where Peter stayed and as the destination they left for on Saturday. 'The Sands' appears to be a family name (Peter + his family). 'Lob-ster' is hyphenated as written — a brand name for a ball machine. 'Charity's (Hatty's)' — the christening name given with a nickname in parentheses. Kate & Jamie's farm is near Bromyard."
+    }
+  ]
+}

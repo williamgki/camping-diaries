@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0064",
+  "volume": "B",
+  "pdf_page": 64,
+  "pages": [
+    {
+      "page_id": "B_0064_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "radio + news of terrorism + bombings on the London Underground.\n\n      Dreadful jams - parts of the M25 were closed. We had supper outside a [illegible] Dutch Barn near Cobham. We reached __Broadhembury__ near Ashford in Kent at 10.45. They had not left us a note + it took 15 minutes for the concierge to arrive. Petty Hitlers. We paid £25 to sleep on a path.\n\n      We reached the [?fer] train early + the train was delayed an hour. It was a bit nerve-wracking with terrorism around.\n\n      We had lunch on an Aire. I was nearly washed off my squatter when it decided to flush without warning. Simon says he just has to adjust his thinking that going to the loo is really a foot ball. Charles says you just have to be braver. Each time you open the door, the loo flushes... The French have gone mad, using all this water + they've closed the playgrounds.\n\n      We shopped successfully at a super market, but then 2 garages rejected Simon's",
+      "dates": [
+        { "raw": "London Underground bombings context", "iso_guess": "2005-07", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": ["Broadhembury"],
+      "place_mentions": ["London Underground", "M25", "Cobham", "Broadhembury", "Ashford", "Kent"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page begins mid-sentence, continuing from the previous spread. The reference to 'terrorism + bombings on the London Underground' dates this entry to shortly after 7 July 2005 (London Underground bombings), consistent with the volume date range 2005 July – 2008 July established on B_0061. 'Broadhembury' is underlined in the original; this may be a campsite name near Ashford in Kent (could also read 'Broadhembury' or 'Broadhembry' — a village in Devon also exists, but context here points to a campsite near Ashford, Kent). There is a crossed-out word before 'Dutch Barn' that appears to be a strikethrough correction; transcribed as [illegible]. The word '[?fer]' before 'train' appears to be a crossed-out attempt, possibly 'ferry' abbreviated. Text continues onto right page."
+    },
+    {
+      "page_id": "B_0064_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "credit cards. We found a Shell garage.\n\n      The campsite in fields outside __Laudemanche__ is light with lovely views across fields. We drove an extra 4k for supper - a very good meal, charcuterie, steak/lamb + apple cake. At the end, Simon + John had coffee Clara asked for tea. It arrived as hot water + a tea bag. When I asked for milk, they heated it.\n\n      For church tomorrow we thought we might go to Clairvaux. \"Oh,\" said John, \"Clairvaux who's she, an au pair.\"\n\n      It rained a bit in the day but was dry by bed time.\n\n      __Sunday__\n\n      It started raining after we left. We had camped east of Troyes near artificial lakes between the Seine + Aube rivers. R. Marne is to the NE.\n\n      We reached Clairvaux Abbey, hoping to go to church, but it was all closed up until 2 pm. So we drove on though the rain + bought bread.\n\n      We drove through Grémieux in the",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2005-07", "confidence": 0.75 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Laudemanche", "Sunday"],
+      "place_mentions": ["Laudemanche", "Clairvaux", "Troyes", "Seine", "Aube", "Marne", "Clairvaux Abbey", "Grémieux"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues from left page. 'Laudemanche' is underlined in the original; this is likely a small village/campsite location in France east of Troyes — could also read 'Laudemanche' or 'Laudemache'; the handwriting is fairly clear. 'Grémieux' may alternatively be 'Grémicux' — the village of Crémieu (Isère, France) seems unlikely given they are east of Troyes, but 'Grémieux' or similar hamlet near the Aube/Seine area is plausible. 'Sunday' is underlined as a heading. The entry mentions 'R. Marne is to the NE' as a navigational note. Page ends mid-sentence, continuing to the next spread. The '*' after 'Shell garage' appears to be an asterisk annotation in the original."
+    }
+  ]
+}

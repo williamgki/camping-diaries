@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0207",
+  "volume": "A",
+  "pdf_page": 207,
+  "pages": [
+    {
+      "page_id": "A_0207_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "This room in [Jacque]s\n[C]oeur's house has\na ceiling the shape\nof an Upside-down\nboat. He made [his]\nwealth as a trader\nwith a fleet of boats\n+ built a beautiful\nhouse with running\nwater. He was [so]\n[ri]ch that one year he\nfunded 4 armies for\nthe king. The 2 people in the central panel are playing chess.\ncouples are eating fruit.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The 2 people in the central panel are playing chess. couples are eating fruit."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.65,
+      "notes": "Left edge of page is cut off in scan, so the first several lines of text have their left portions missing. The photo shows an ornate interior, likely Jacques Coeur's house in Bourges — the text on this page appears to be a continuation from the previous spread describing Jacques Coeur's house. The caption text below the photo is more legible than the main text. Page number not visible."
+    },
+    {
+      "page_id": "A_0207_R",
+      "side": "R",
+      "handwritten_page_no": 38,
+      "blank": false,
+      "full_text": "__Saturday August 2nd__\n\t\tWilliam doesn't come to __Bourges__ because he's having trouble with his contact lenses + he's too vain to wear his NHS specs.\n\t\tWe set off at 10 + return at 1.45. We visit the cathedral. Magnificent. It can't be photographed, only caught by a moving camera. A simple nave, no transept, + a double row of columns at each side. Unlike Amiens, the sanctuary hasn't been messed up by a gilded Baroque altar. Simple. White marble altar. As you walk about, the columns seem to open up + move around to invite you to look more. Not heavy + oppressive. (8 columns to each pier) Lovely stained glass.\n\t\tWe go down to the crypt with a man with a moustache like [sketch of moustache]. Apparently in the past there was a whole [syste]m of statues, beautiful, in the cathedral, which were decapitated + destroyed by Protestants. The remains are called the \"Jube\". We also saw the tomb of the Duc de Berry — white marble inlaid with flecks of black marble, where there was ermine. The inner crypt was Roman + Carolingean.",
+      "dates": [
+        { "raw": "Saturday August 2nd", "iso_guess": "1997-08-02", "confidence": 0.4 }
+      ],
+      "headings": ["Saturday August 2nd"],
+      "underlined_places": ["Bourges"],
+      "place_mentions": ["Bourges", "Amiens"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "The word 'Carolingean' is the diarist's spelling (standard: Carolingian). The year is not explicitly stated on this page; it is estimated from volume position (pdf_page 207 of 350, volume covers 1989-2003) but cannot be confirmed from page content alone — year assigned with low confidence. 'system' partially cut off at right margin, reading '[syste]m'. A small hand-drawn moustache sketch appears inline in the text. Duc de Berry is a historical figure/tomb referenced."
+    }
+  ]
+}

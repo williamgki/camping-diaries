@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0166",
+  "volume": "B",
+  "pdf_page": 166,
+  "pages": [
+    {
+      "page_id": "B_0166_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "only a prior, 2 monks + lots of servants. We drove on to Craster + parked + walked to Dunstanborough + back - glorious sunshine. We've come back to the same lovely little campsite, Budle farm.\n\n[photo of Dunstanburgh Castle from aerial view]\n\nDunstanburgh Castle. Early C4. Lancastrian Stronghold during Wars of the Roses. Built by a nobleman to show off to the king.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Craster", "Dunstanborough", "Budle farm", "Dunstanburgh Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Dunstanburgh Castle. Early C4. Lancastrian Stronghold during Wars of the Roses. Built by a nobleman to show off to the king."],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.88,
+      "notes": "The castle name appears as 'Dunstanborough' in the narrative text and 'Dunstanburgh' in the photo caption — both transcribed as written. The photo caption is written vertically along the right edge of the photo in green ink. 'C4' likely means 'C14' (14th century) but transcribed as written."
+    },
+    {
+      "page_id": "B_0166_R",
+      "side": "R",
+      "handwritten_page_no": 21,
+      "blank": false,
+      "full_text": "__Tuesday__\n   We returned to Lindisfarne to see the Castle, hoping to see the Castle in the morning & then go on to Cragside in the afternoon. However the Castle didn't open until 12. So we packed a lunch + walked around the island, seeing Jekell's beautiful garden. We arrived at the castle at 12 but there was a huge queue, so we decided to return in winter.\n   When we reached Cragside, near Rothbury, there was again a huge queue to get into the house. So we saw the Iron Bridge & lakes & Pumphouse & Simon walked to the Powerhouse where Lord Armstrong made hydro electric power. Now we have come on to __Snitter Farm__ __Campsite__, an open view of woods & fields. Tonic is getting better, gradually allowed to eat more but dreadful smells\n   Simon & I are sitting in a howling gale + weeping with laughter because his farts are so bad.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Tuesday"],
+      "underlined_places": ["Snitter Farm", "Campsite"],
+      "place_mentions": ["Lindisfarne", "Cragside", "Rothbury", "Iron Bridge", "Powerhouse", "Snitter Farm Campsite"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The name 'Jekell's' likely refers to Gertrude Jekyll, the garden designer associated with Lindisfarne Castle garden — transcribed as written. 'Tonic' appears to be a pet (dog). No year is visible on this page; volume B covers 2003–2019 but no further anchoring evidence is present on this spread. Page number 21 is visible at top-right."
+    }
+  ]
+}

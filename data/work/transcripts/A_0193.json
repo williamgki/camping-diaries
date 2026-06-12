@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0193",
+  "volume": "A",
+  "pdf_page": 193,
+  "pages": [
+    {
+      "page_id": "A_0193_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We finally found the __Vlax museum__ – specialising in linseed + flax. It is very difficult to find your way in Belgium because they only put signs actually at the turnings. The museum is very interesting. The Leie River was particularly good because it had no lime or iron in the water [for retting]. 1880 – 1920 saw the biggest modernisation in the industry. In 1946 the R. Leie (Fr hys) was no longer allowed to be used for retting. Apart from leaving the flax to ret in fields, they used tanks of heated water 30° to ret the flax in 2-3 days instead of 1-2 weeks. Bacteria broke down the pectin which bound the flax fibres to the wood core.\n\tOn to Oudenaarde where there is a lovely town hall (closed) in the square. Thomas looked around while we went to put the tent up in the __Oudenaarde campsite__ ****. Clean loos, free hot showers, playground, easy access to the town. Back to town for supper at the Fox.\n\t__Saturday__\n\tIntermittent rain. We had showers. Charles tried. Thomas had left his jacket at the Fox. On to Gent. The Altar was closed until 2pm. So we [window] shopped + had lunch at Belfort – grotty pudding.\n\tWe walked, looking at the beautiful gables",
+      "dates": [
+        { "raw": "6 May", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["Vlax museum", "Oudenaarde campsite"],
+      "place_mentions": ["Belgium", "Leie River", "Oudenaarde", "Gent", "Belfort"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page is a continuation ('Cont' in margin). Text continues from a previous page. The heading 'Vlax museum' is underlined; 'Vlax' is the diary's spelling — likely the Flax Museum in Belgium (possibly in Kortrijk/Leieland area). 'Oudenaarde campsite' is underlined. The right-hand margin has a vertical annotation reading '6 May / 14 32 / Cont' — '6 May' is the diary date; '14 32' refers to 1432 (year of the Ghent Altarpiece, the Adoration of the Lamb by Hubert & Jan van Eyck), matching the postcard caption on the right page. 'The Altar' refers to the Ghent Altarpiece (Adoration of the Lamb). 'Fr hys' is unclear — possibly French name annotation for the River Lys/Leie. 'Charles tried' at the Saturday entry appears incomplete or the meaning is unclear — transcribed verbatim. '[window]' is a small interlinear insertion above 'we' before 'shopped'. No year can be confirmed from this page alone; the trip is a Belgium camping trip in May, likely late 1990s–early 2000s based on position in volume (handwritten page 24 on facing page)."
+    },
+    {
+      "page_id": "A_0193_R",
+      "side": "R",
+      "handwritten_page_no": 24,
+      "blank": false,
+      "full_text": "[postcard: The Adoration of the Lamb / Hubert's Jan van Eyck / 6 May 14 32 / Gent]",
+      "dates": [
+        { "raw": "6 May", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Gent"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Adoration of the Lamb / Hubert's Jan van Eyck / 6 May 14 32 / Gent"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.90,
+      "notes": "Page is almost entirely occupied by a glued-in postcard reproduction of 'The Adoration of the Lamb' (the Ghent Altarpiece) by Hubert and Jan van Eyck. The caption is written vertically in the left margin of the page (at the gutter), reading '6 May 14 32 / Gent' — '6 May' is the diary date, '14 32' is 1432 (the year the altarpiece was completed/dedicated). Handwritten page number '24' visible in the top-right corner. The Altar mentioned on the left page as 'closed until 2pm' is the Ghent Altarpiece, displayed in St Bavo's Cathedral, Gent. Year cannot be confirmed from this page alone; year left as null — see left page notes."
+    }
+  ]
+}

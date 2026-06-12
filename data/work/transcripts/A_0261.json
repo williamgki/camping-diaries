@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0261",
+  "volume": "A",
+  "pdf_page": 261,
+  "pages": [
+    {
+      "page_id": "A_0261_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Arnolfini Portrait,  1422  , Jan van Eyck.\nOur perception enables us to see the mirror.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Arnolfini Portrait,  1422  , Jan van Eyck. Our perception enables us to see the mirror."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page contains a glued-in colour reproduction of the Arnolfini Portrait by Jan van Eyck (National Gallery, London). The handwritten caption beneath gives the title, date of painting (1422), and artist name, followed by a reflective note about the mirror visible in the painting. No handwritten page number visible."
+    },
+    {
+      "page_id": "A_0261_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Tuesday October 27th.__\n\t We took down the tent & moved to a carpark. In London we visited St. Barth[olomew] 1123, originally the choir of an Augustin[ian] monastery church. Lovely arches\n\n[photo of St. Bartholomew interior — arches and nave]\n\nSt.\nBartholomew",
+      "dates": [
+        { "raw": "Tuesday October 27th.", "iso_guess": "1992-10-27", "confidence": 0.5 }
+      ],
+      "headings": ["Tuesday October 27th."],
+      "underlined_places": [],
+      "place_mentions": ["London", "St. Bartholomew"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["St.\nBartholomew"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "The text at the very top ('Tuesday October 27th.') is underlined. Some words run into the gutter and are partially cut: 'St. Barth-' continues as 'olomew' (just visible) and 'Augustin-' continues as 'ian'. The text reads 'St. Bartholomew 1123, originally the choir of an Augustinian monastery church. Lovely arches'. The church is St. Bartholomew the Great, Smithfield, London. October 27th fell on a Tuesday in 1992 and 1998 within the volume range (1989–2003); year cannot be confirmed from the page content alone. The label 'St. Bartholomew' in the left margin alongside the photo is a caption. The words 'Eyck.' and 'mirror.' visible at bottom-left are bleed-through/overlap from the left page caption and belong to page A_0261_L — not transcribed again here."
+    }
+  ]
+}

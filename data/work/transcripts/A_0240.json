@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0240",
+  "volume": "A",
+  "pdf_page": 240,
+  "pages": [
+    {
+      "page_id": "A_0240_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "sheep next to the road.          [?Helgeflahen] [?Steinlakmos]\n      We saw the beginnings of a stream\n+ followed it down through lakes until\nit had become a big river.\n      At __Ringebu__ we saw a third stave\nchurch with a red steeple. It is larger\nthan the others + has wall paintings +\nbig wooden beads coming down the [changlier?]\nIt was being painted with pitch + smelt\nvery strong.\n      At this point we left the lowlands\nagain + have come up to a very lonely\nplateau. The colours are mossy green +\nalso a very pale green plant, like a lichen\nbush. Noone lives in the area + there\nis no farming, but a few lakes for fishermen\n+ bird spotters - but not many birds.\n      We have come to wild camp, much\nto William's disgust. Near __Tryvang__\nMosquitos. Near Koppang. We found the\nmosquito nets.\n      Wed 5th Aug\n      Rain in the night, a cold, wet start, but",
+      "dates": [
+        { "raw": "Wed 5th Aug", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Ringebu", "Tryvang"],
+      "place_mentions": ["Ringebu", "Tryvang", "Koppang"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "Top-right corner of page has small handwritten text that may be place names or annotations; best reading is '[?Helgeflahen] [?Steinlakmos]' but very uncertain. 'changlier' may be 'chandelier' — transcribed as written. The date 'Wed 5th Aug' — year not stated on this page; volume covers 1989–2003 but year cannot be confirmed from this page alone so iso_guess left null. 'Tryvang' underlined; could also read 'Tryvang' as a local place name near Koppang, Norway."
+    },
+    {
+      "page_id": "A_0240_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Ringebu Stave church.\n\nthe sun has come out now.\nMistakenly Simon, + Charles bought culture milk (yoghurt)\n(6 litres) which we are still working our way thro\ninventing yoghurt puddings. Our other problem\nis that Norway doesn't sell Blue gas, +",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ringebu", "Norway"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Ringebu Stave church."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Right page has a large glued-in colour photograph of the interior of Ringebu Stave Church with a handwritten caption beneath it. Text continues at the bottom of the page but is cut off at the right edge ('working our way thro[ugh]'). 'Simon' and 'Charles' appear to be names of family/trip members. 'Blue gas' refers to camping gas brand."
+    }
+  ]
+}

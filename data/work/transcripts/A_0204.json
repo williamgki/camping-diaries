@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0204",
+  "volume": "A",
+  "pdf_page": 204,
+  "pages": [
+    {
+      "page_id": "A_0204_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "a pub where we were able to rent our own boat, [sketch of boat] with a long nose + 2 paddles. Simon + the boys took turns paddling. It was pretty; flowers, veg. + summer houses! But alot of it was unkempt + we wondered if it was going downhill.\n    We returned to the van + motored on [?***½] to n.w.of Paris. We stayed at L'Ile Adam. Good clean loos, free showers. Cement ping pong tables + nets.\n    We left about 10 on __Thursday July 31st__ to look for the Bassets in __Paris__. Between them Peter + Thomas remembered. But unfortunately the family were out.\n    On to the Eiffel Tour. Simon did an amazing Tour de Force driving across the roundabout at the L'Arc de Triomphe. We parked in a camping van space next to the Eifel Tour for 2 hours. It was only just enough time. We queued for something like 20-25 minutes up + down for the 2 lifts. Thomas + John walked up to the second",
+      "dates": [
+        { "raw": "Thursday July 31st", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": ["Paris"],
+      "place_mentions": ["Paris", "L'Ile Adam", "L'Arc de Triomphe", "Eifel Tour"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page is a mid-entry continuation; no handwritten page number visible in top-left corner. Date 'Thursday July 31st' — within the volume range (1989–2003), July 31 fell on a Thursday in 1997, which is the most likely year but cannot be confirmed from this page alone. Small inline sketch of a boat (long narrow shape) on line 2. 'Eifel Tour' spelled thus in diary. 'L'Arc de Triomphe' — diary writes 'L'Arc de Triomphe'. 'L'Ile Adam' is a town/campsite north-west of Paris. 'Bassets' appears to be a family name. Marginal annotation partially visible at bottom-right edge: 'm', 'wri', '[illegible]'."
+    },
+    {
+      "page_id": "A_0204_R",
+      "side": "R",
+      "handwritten_page_no": 35,
+      "blank": false,
+      "full_text": "floor. Everyone except William + Eve walked down from the second floor. It had spectacular views. An amazing feat to build it. Simon bought ham baguettes for lunch.\n    At 3. 15. we left towards Orleans.\n[glued-in ticket/brochure: SOCIETE NOUVELLE D'EXPLOITATION DE LA TOUR EIFFEL / ASCENSION DE LA TOUR EIFFEL]\n[hand-drawn sketches of chateau architectural details with captions:]\na coupe?\nmansard window + table wing\ntile pattern roof on gatehouse\nchateau de la Ferté\nSt. Aubin",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Orleans", "chateau de la Ferté", "St. Aubin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["ASCENSION DE LA TOUR EIFFEL", "a coupe?", "mansard window + table wing", "tile pattern roof on gatehouse", "chateau de la Ferté\nSt. Aubin"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "Handwritten page number '35' visible in top-right corner. Glued-in printed ticket/brochure for 'ASCENSION DE LA TOUR EIFFEL' (Société Nouvelle d'Exploitation de la Tour Eiffel). Below the ticket are hand-drawn pencil/ink sketches of chateau architectural features — a coupe (car shape? or architectural term), mansard window detail, and tile pattern on a gatehouse roof — with the label 'chateau de la Ferté / St. Aubin'. This is likely Château de la Ferté-Saint-Aubin, a château near Orleans (Orléans) in the Loire Valley, consistent with the text 'we left towards Orleans'. The sketches are architectural observation drawings, not a route map."
+    }
+  ]
+}

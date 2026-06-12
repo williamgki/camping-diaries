@@ -1,0 +1,50 @@
+{
+  "spread_id": "B_0320",
+  "volume": "B",
+  "pdf_page": 320,
+  "pages": [
+    {
+      "page_id": "B_0320_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "tent at beeton. John Camped, Peter at Golf Club.\nNaomi, Austin + Betty stayed at home.\n  Supper in a room at golf club.\nSaturday\n  Walk into Aldeburgh. Lunch with Peter's cake at Dolphin. 5pm nibbles on grass. Supper 2 speeches (Leo didn't speech) dancing. A super evening.\nThe band checked every room for a bed (including June's) + ended up sleeping all over the floor!\nHairy from [?Bristol], Irish? + wearing kilts.\nSimon Really good food. Scallops. Simon was sick in the night. A photo with Wanda, June + Eve.\nSunday Treasure hunt on Neave didn't happen.\nOrson had slept with Nana while Peter celebrated his birthday late.\nPique at Seamark. Then tea for Peter at [?Country] [?Club] Golf Club + mini golf, but it rained.\nOf to a kampsite __Arbon Barn__ in Whepstead. Beautiful, well cared for surroundings. Given cup of tea by Karen when we car arrived. Husband cabinet maks. All clean. They organise camping",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": "2019-06", "confidence": 0.5 },
+        { "raw": "Sunday", "iso_guess": "2019-06", "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": ["Arbon Barn"],
+      "place_mentions": ["beeton", "Golf Club", "Aldeburgh", "Dolphin", "Seamark", "Arbon Barn", "Whepstead"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.75,
+      "notes": "Top of page is cut into mid-sentence suggesting this continues from the previous spread. 'beeton' may be 'Beeston' or similar. 'Neave' could be a place name or surname. 'kampsite' is the diary's own spelling. The strikethrough word before 'Golf Club' appears to be 'Country'. 'cabinet maks' likely means 'cabinet maker'. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0320_R",
+      "side": "R",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "tours to Morocco. He makes kitchens. They are putting a van in a 4 wheel flat bed truck.\nSunday\n  Walked to St. Petronilla's church. Lovely well-cared for. Across wheat/barley fields. South of Bury St. Eds. We had lunch east of Nazeby before going home.\n6th June, Thursday\n__Lots of news on Radio about D Day landings 75 years ago.__\nWe left the house at 1 + dropped Tinker off at kennels. I miss him.\n  Lots of traffic, but no real jams 6.15 We've reached Stalisfield + changed supper booking from 8.15 to 7.30. Sunshine.\n  Breaded plaice, pork + black pudding Wellingtons custard + gingerbread, blood orange souflet + icecream.\nJune 7th\n__Horrid crossing. Delayed only one hour in the end.\nThe French being extra thorough. We headed south",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2019-06", "confidence": 0.5 },
+        { "raw": "6th June, Thursday", "iso_guess": "2019-06-06", "confidence": 0.95 },
+        { "raw": "June 7th", "iso_guess": "2019-06-07", "confidence": 0.95 }
+      ],
+      "headings": ["6th June, Thursday", "June 7th"],
+      "underlined_places": [],
+      "place_mentions": ["Morocco", "St. Petronilla's church", "Bury St. Eds", "Nazeby", "Stalisfield"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "The mention of 'D Day landings 75 years ago' on 6th June anchors the year firmly to 2019 (D-Day was 6 June 1944, 75 years = 2019). 'Tinker' appears to be a dog (dropped at kennels). 'souflet' is the diary's own spelling of soufflé. 'Bury St. Eds' is an abbreviation for Bury St. Edmunds. 'Nazeby' could be Naseby. Page continues cut off at bottom — text runs off. Handwritten '2' visible in top-right corner."
+    }
+  ]
+}

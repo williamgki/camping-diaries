@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0280",
+  "volume": "B",
+  "pdf_page": 280,
+  "pages": [
+    {
+      "page_id": "B_0280_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Corniglia\nthe path to __Corniglia__ because several of the lower Cin 5 Terre paths have been blocked off. We had to climb way way up the hill & walk along at a high level. Going up the hill was hard work but it was a glorious walk. We had a sandwich halfway in a small village with a shop. There was a huge zig zag walk from Corniglia town down",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Corniglia"],
+      "place_mentions": ["Corniglia", "Cin 5 Terre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Corniglia"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page dominated by a glued-in colour photograph of Corniglia (Cinque Terre) showing the village on a cliff above terraced vineyards and the sea. 'Cin 5 Terre' is the diary's abbreviation for Cinque Terre. The text continues onto the right page. 'sandwich' may read 'sandwi[ch]' with the last letters cut by the photo edge."
+    },
+    {
+      "page_id": "B_0280_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "to the station. The weather was better, as the day progressed the sea became less rough.\n__Saturday__\nI had a bad migraine (fear of falling off paths?) but we managed to set off & the migraine was better. We drove thru lovely countryside to near Montalcino. The campsite __Podere [?La] Cozo__ [?coconut] has the best views ever. Fines. But you have to pay €5 for a shower & no loos. They'll call the police if you empty a chemical loo & our loo is full. So we set off to Montalcino to empty the loo. It took ages to find the chemical loo emptier. A walled hill-top town. What a maze. We finally found it way outside the town. Campers were sitting in deck chairs on a car park watching [?the] people emptying their loos. Most odd.\nSuch wonderful views in a full 180°, & just over the ridge there are views the other way. Mile after mile. 100 miles. Sunshine. In the day just warm enough without a sweater.\n__Sunday April 30th__\nWe set off at 8.30, hoping for monks' singing at __Abbey Sant'Antimo__. There wasn't. They'd sung at Easter. But",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Sunday April 30th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Saturday", "Sunday April 30th"],
+      "underlined_places": ["Podere [?La] Cozo", "Abbey Sant'Antimo"],
+      "place_mentions": ["Montalcino", "Podere [?La] Cozo", "Abbey Sant'Antimo"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.80,
+      "notes": "Some text at the top is a continuation from the previous spread (Cinque Terre / station). The campsite name after 'Podere' is partially illegible — could be 'La Cozo', 'Le Cozo', or similar; one word after it looks like 'coconut' but is likely a misread of a campsite descriptor or Italian word. The word after 'watching' appears to be 'the' but is crossed out or unclear. Sunday April 30th: year not stated on page; in volume B (2003–2019) April 30 falls on a Sunday in 2006 and 2017. Given the Cinque Terre and Montalcino context (Italian trip), year cannot be confirmed from this page alone — iso_guess left null. 'Abbey Sant'Antimo' underlined in blue ink (different from surrounding black ink)."
+    }
+  ]
+}

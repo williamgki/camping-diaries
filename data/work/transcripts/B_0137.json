@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0137",
+  "volume": "B",
+  "pdf_page": 137,
+  "pages": [
+    {
+      "page_id": "B_0137_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "On to Hay where we met up in the campsite with Thomas, Naomi + Austin. They gave me [illegible] aroma therapy as a birthday present. [?Radnorshire]\n\tNaomi cooked supper + then beat us all at scrabble. Austin stopped crying when\nSaturday June 7th. Charles sang Happy Birthday again.\n\tMist lay over __Hay__, clearing as we drank tea. The van heater now works. After a leisurely breakfast I walked the dog + then we walked down the hill to shop + look at books. Simon bought Eve a sheep tea cosy + some wooden earrings. Simon bought a scarf, Eve bought Austin a red + white stripey suit. Thomas bought a toothbrush. We looked at maps.\n\tThe icecreams were delicious Simon thought not too [strikethrough: soo] sweet.\n\tWe had lunch + a nap + then a long drive to Llanthony Abbey, through the Black Forest mountains, a",
+      "dates": [
+        { "raw": "Saturday June 7th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Hay"],
+      "place_mentions": ["Hay", "Llanthony Abbey", "Black Forest mountains"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible on this page. The word after 'birthday present' looks like 'Radmor5[?]' — possibly 'Radmorshire' or a campsite name near Hay; the top-right corner text is partially cut off. 'Black Forest mountains' likely refers to the Black Mountains of Wales (not Germany), continuing to Llanthony Abbey/Valley. Year cannot be confirmed from page content alone; Saturday June 7th could fit several years within 2003–2019."
+    },
+    {
+      "page_id": "B_0137_R",
+      "side": "R",
+      "handwritten_page_no": 75,
+      "blank": false,
+      "full_text": "very twisty road through narrow lanes + lovely sheep-cropped grass on top of the hills. On the way we stopped at Capel-y-Ffin + Eve recognized the gill tombstones that Simon had seen on on earlier trip.\n\tWe returned to the campsite + went down the hill to eat in Hay, the 3 [?Tuns]\n\tThere was a photo of the old iron bridge\n\n[route sketch: zigzag lines]\n1835-1956.\n\nEve closed wisely all the windows. So we were warm in the",
+      "dates": [
+        { "raw": "1835-1956", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Capel-y-Ffin", "Hay", "Llanthony Valley", "Black Mountains"],
+      "route_sketch": true,
+      "route_sketch_description": "A small hand-drawn sketch showing zigzag lines, likely representing the twisty road or mountain terrain. No place labels or arrows visible on the sketch itself.",
+      "photo_captions": ["CAPEL-Y-FFIN\nLLANTHONY VALLEY, BLACK MOUNTAINS\nSt. Mary's was built in 1762 on an earlier site: note its ancient yew trees and the base of an old stone cross, also two small head stones carved by Eric Gill"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.83,
+      "notes": "Handwritten page number 75 visible top-right. The dates '1835-1956' appear to be associated with the iron bridge photo or the route sketch — possibly the dates of the bridge's construction/demolition; not a diary entry date. 'the 3 [?Tuns]' is likely a pub name 'Three Tuns' in Hay. 'gill tombstones' may be 'Gill tombstones' referencing Eric Gill (as mentioned in the postcard caption below). A glued-in postcard photograph of Capel-y-Ffin church (St Mary's) in Llanthony Valley, Black Mountains occupies the right half of the page. Text continues off bottom of page."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "spread_id": "A_0168",
+  "volume": "A",
+  "pdf_page": 168,
+  "pages": [
+    {
+      "page_id": "A_0168_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Kirby  86 Westfield Rd, Edgbaston Birmingham B1533[?b]\nAugust 31st 1995\n\nLog 3\n\n[glued-in ticket: BORGUND STAVKYRKJE / FORENINGEN / TIL NORSKE FORTIDSMINNES- / MERKERS BEVARING / Kr. 100,- / 2880]\n£1 = NK12",
+      "dates": [
+        { "raw": "August 31st 1995", "iso_guess": "1995-08-31", "confidence": 0.95 }
+      ],
+      "headings": ["Log 3"],
+      "underlined_places": [],
+      "place_mentions": ["Edgbaston", "Birmingham", "Borgund"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["BORGUND STAVKYRKJE / FORENINGEN / TIL NORSKE FORTIDSMINNES- / MERKERS BEVARING / Kr. 100,- / 2880"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in admission ticket for Borgund Stavkyrkje (Norwegian stave church), price Kr. 100, serial number 2880. Handwritten annotation on ticket: '£1 = NK12'. The address postcode reads 'B153[?]' — last character(s) unclear. 'Kirby' at top appears to be a name or label. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "A_0168_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "1. Bromyard. Farnham 1995\n   Hartley Wintney\n2. London\n3. Beauchamps Gloucester 1996\n   Calver Mill, Peaks\n5. Chatsworth\n7. Farnborough Hall\n8. Stratford\n9. Mersea, Colchester, Doncaster,\n   Thorpeness\n10. Anglesey, Dun Laoghaire\n11. Glendalough. Kildare, Kilkenny.\n12. Rock of Cashel, Micheltown.\n13. Dingle, [?Micheltown], Gallarus\n14. Dunquin\n15. Great Blasket, Camp\n16. Lahinch, Moher, Millvee, Burren\n17. Map of Ireland, Leamaneh.\n18. Ennis, Clonmacnoise, Lough Ree\n19. Grandard\n20. Killyleagh, Seaforde, Portaferry.\n   Karcutt [?Kircutt].\n21. Beauchamp, Stanford Bridge\n22. London, Ypres\n23. Kortrijk. Oudenaarde\n24. Gent\n25. Broadlembury 1997 Forest of Dean\n26. Beauchamp\n28. Bristol\n29. Derbyshire, Calke Abbey.\n30. Dinas\n31. Rhinog, Harlech\n32. Clent, Alfreton, Upton\n33. Amiens, Loeully [?Loeuilly]\n34. Paris\n35. La Perle St. [illegible]\n38. Bourges [?Foecy]\n39. [?Cassahiouse] [?Celurnu]\n40. Conques\n41. [?Vieuville]\n42. Entragues [?Entraygues]\n43. Avon [?Armand]\n   La Malène\n45. St. Enimie\n46. Monastier / St. Jean [illegible]\n47. La Belle [?Eche]  [?Vaux]\n48. Channel Tunnel\n49. Beauchamp\n50. Malmesbury\n   East of Welland\n51. London Greenwich\n   Imp War Museum\n   __Tate__ 1998\n55. Oundle\n56. Beauchamp, [?Worcstr]\n58. Abbey Dore, Golden Vall[ey]\n59. Hanley Swan.\n61. [?Bnas] [?Fetincy]\n62. Machynlleth\n   Newcastle, Bergen\n64. Dale\n65. Laerdal, [?Borgand]\n66. [?Sognafjord], [?Schwengabb]\n68. [?Nigardsbreen] glacier\n   [?Arde], [?Urnes]\n69. Bergsdalen, [?Ringebu]\n   [?Trajvang]\n70. Koppang, [?Holjes]\n71. [?Humletorp] [?Marbeck]\n72. Sunne, Oslo\n74. [?Konasberg]\n75. [?Rjukan] [?Vemost]",
+      "dates": [
+        { "raw": "1995", "iso_guess": "1995", "confidence": 0.95 },
+        { "raw": "1996", "iso_guess": "1996", "confidence": 0.95 },
+        { "raw": "1997", "iso_guess": "1997", "confidence": 0.95 },
+        { "raw": "1998", "iso_guess": "1998", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": ["Tate"],
+      "place_mentions": [
+        "Bromyard", "Farnham", "Hartley Wintney", "London", "Beauchamps", "Gloucester",
+        "Calver Mill", "Peaks", "Chatsworth", "Farnborough Hall", "Stratford",
+        "Mersea", "Colchester", "Doncaster", "Thorpeness", "Anglesey", "Dun Laoghaire",
+        "Glendalough", "Kildare", "Kilkenny", "Rock of Cashel", "Micheltown",
+        "Dingle", "Gallarus", "Dunquin", "Great Blasket", "Camp",
+        "Lahinch", "Moher", "Millvee", "Burren", "Leamaneh",
+        "Ennis", "Clonmacnoise", "Lough Ree", "Grandard",
+        "Killyleagh", "Seaforde", "Portaferry",
+        "Stanford Bridge", "Ypres", "Kortrijk", "Oudenaarde", "Gent",
+        "Broadlembury", "Forest of Dean", "Bristol",
+        "Derbyshire", "Calke Abbey", "Dinas", "Rhinog", "Harlech",
+        "Clent", "Alfreton", "Upton", "Amiens", "Paris",
+        "La Perle", "Bourges", "Conques", "La Malène",
+        "St. Enimie", "Monastier", "Channel Tunnel",
+        "Malmesbury", "London", "Greenwich", "Imp War Museum", "Tate",
+        "Oundle", "Abbey Dore", "Hanley Swan",
+        "Machynlleth", "Newcastle", "Bergen", "Dale", "Laerdal",
+        "Bergsdalen", "Sunne", "Oslo"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "mixed",
+      "legibility": 0.75,
+      "notes": "This is an index page: a numbered list mapping page numbers to places/trips. Entries are written in multiple ink colours (blue, black, dark red/brown), suggesting additions over time. Years 1995, 1996, 1997, 1998 appear inline against specific entries. Right margin is partially cut off in the scan, making some entries in the right column incomplete. Entry 19 reads 'Grandard' — likely 'Granard' (Irish town). Entry 20: last word could be 'Kircutt' or 'Karcutt' — unclear. Entry 33: 'Loeully' could be 'Loeuilly'. Entry 38: second word after Bourges unclear — possibly 'Foecy' or 'Féécy'. Entry 39 very hard to read — possibly 'Cassahiouse' / 'Cassagniouse'. Entry 41 possibly 'Vieuville'. Entry 42: 'Entragues' likely 'Entraygues'. Entry 43: 'Avon Armand' — uncertain. Entry 46: right side cut off. Entry 47: partially cut off. Entry 61: 'Bnas' possibly 'Anais'; 'Fetincy' possibly 'Fétigny'. Entry 65: 'Borgand' likely 'Borgund'. Entry 66: right side cut off — possibly 'Sognafjord, Schwangau' or similar. Entry 68: possibly 'Nigardsbreen glacier, Årdal, Urnes'. Entry 69: 'Trajvang' possibly 'Tryvann'. Entry 70: 'Holjes' possibly 'Holje'. Entry 71: possibly 'Humletorp Mårbäck'. Entry 74: 'Konasberg' likely 'Kongsberg'. Entry 75: 'Rjukan Vemost' — 'Vemost' likely 'Vemork' (Norsk Industriarbeidermuseum site). A handwritten annotation 'Steveton' (or similar) appears near entry 46 as a marginal note."
+    }
+  ]
+}

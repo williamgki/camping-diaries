@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0246",
+  "volume": "B",
+  "pdf_page": 246,
+  "pages": [
+    {
+      "page_id": "B_0246_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "pub can go to the church to pray & the church can go to the pub – the Red lion to pee. The food is supposed to be very good.\n    A freezing (almost) cold night. It's really too cold to camp now. Trouble with the room heater.\n\n[glued-in ticket: RoofAid presents Raise the Roof! St Mary's Church, Kenninghall Saturday 11th October 2014 Doors open 7:00pm for 7:30pm Admit One: £5 in advance, £6 on the door Ticket No: 142]\n\nSunday\n    Visited St. Mary's South Lopham. 5 tiered tower, Norman. 900 year old chest (dug out). The elephant & castle on the now end is from the Beaufort family. 6 Betts on the",
+      "dates": [
+        { "raw": "Saturday 11th October 2014", "iso_guess": "2014-10-11", "confidence": 0.99 },
+        { "raw": "Sunday", "iso_guess": "2014-10-12", "confidence": 0.9 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Kenninghall", "St Mary's Church", "South Lopham", "St. Mary's South Lopham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page is a continuation from a previous spread — text begins mid-sentence. A glued-in red printed ticket for 'RoofAid presents Raise the Roof!' at St Mary's Church, Kenninghall, dated Saturday 11th October 2014, provides a firm year anchor. 'Red lion' likely refers to the Red Lion pub (pub name). 'Beaufort family' mentioned in context of heraldry at South Lopham church. Text cuts off at bottom with '6 Betts on the', continuing on the right page."
+    },
+    {
+      "page_id": "B_0246_R",
+      "side": "R",
+      "handwritten_page_no": 66,
+      "blank": false,
+      "full_text": "war memorial & 2 families with 5 names. Now sun breaking through the fog, so we might walk in Thetford Forest.\n    There's now a bridge near the church to replace what used to be a ford between 2 springs, one of R. Ouse, one of R. Waveney. When there's a flood, Norfolk becomes an island.\n    We drove on to woods & walked next to the wood on a track with fields on one side, growing onions & turnips? Motorcycles passed. It was a super walk with Tinder. Then back into the van & back to B'ham for tea.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2014-10-12", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Thetford Forest", "R. Ouse", "R. Waveney", "Norfolk", "B'ham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten page number 66 visible at top-right corner. Text continues from left page (B_0246_L). 'B'ham' is almost certainly Birmingham. 'Tinder' appears to be the family dog's name. The entry describes a Sunday visit to South Lopham church and a walk in Thetford Forest area, before driving home to Birmingham. The ford described is between sources of the River Ouse and River Waveney."
+    }
+  ]
+}

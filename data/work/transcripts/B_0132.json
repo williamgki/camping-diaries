@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0132",
+  "volume": "B",
+  "pdf_page": 132,
+  "pages": [
+    {
+      "page_id": "B_0132_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We walked round the village & along the canal. It was very quiet. We camped next to the river, between the river & canal, which needs repairs. [Friday] In the evening we watched an Italian trying to show his sons how he could BBQ. It ended in fiasco. All the other campers were french. Friendly, clean.\n   All the loos this trip have been clean except at the Princess Grace exhibition\nFriday\n   We set off & north wards, Sunshine, white clouds. Past Brie. An English caravan has overtaken us twice, the first time quite dangerously. The route is a good one for avoiding the motorway:- Dijon D903, D901, D996. Chatillon-sur-Seine, Bar-sur-Seine, Troyes, & N19 → Nogent-sur-Seine, D373, Sezanne, Montmirail. D1 Soissons. D6 Noyon, Roye Amiens\n   We shopped for England at Roye, which was quite big, but poor people so not expensive quality. Then we reached Camping des Lignes at Longuepré to the north west of Amiens. ****\n   We went into Amiens & had supper in a restaurant - lamb stew & delicious chocolate cakes",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Amiens", "Camping des Lignes"],
+      "place_mentions": ["village", "Brie", "Dijon", "Chatillon-sur-Seine", "Bar-sur-Seine", "Troyes", "Nogent-sur-Seine", "Sezanne", "Montmirail", "Soissons", "Noyon", "Roye", "Amiens", "Longuepré", "Camping des Lignes"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page number not visible at top-left. The word struck through at the start of one line appears to be 'Friday' crossed out. 'Longuepré' could also read 'Longpré' — text is slightly unclear. 'Camping des Lignes' is underlined in the original. The route description lists road numbers and towns northward through France toward Amiens. Year not determinable from this page alone; Channel Tunnel mention on facing page and laptop reference suggest mid-to-late 1990s or later. 'Princess Grace exhibition' is a notable reference."
+    },
+    {
+      "page_id": "B_0132_R",
+      "side": "R",
+      "handwritten_page_no": 70,
+      "blank": false,
+      "full_text": "with warm, sliding middles. Then, at 10, we carried stools into the square & watched the painted facade of Amiens cathedral. The commentary was first in French, then in English. It was marvellous, lit up like a jewel, or like an Indian temple.\n   The laptop was a help driving through town. There were lots of police was a good rod group on the canal, & we didn't want to drive back early through them & the revellers, so we came back to the west of Amiens.\nSaturday\n   The fridge went out in the night, so I switched off. & it was very cold. The heater worked. The campsite is good - TV room, loo paper & they sell chicken & paella at 6.30 pm for supper. It's about 1¾ hrs to Calais. We reached the other side of the Tunnel at 12.10., having eaten baguette sandwiches in the Tunnel. I telephoned ahead & we just reached the kennels by 3.55. to collect Tonic. A super holiday!",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Amiens", "Calais", "Tunnel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Handwritten page number 70 visible at top-right. 'The laptop was a help driving through town' — possibly satnav/mapping software on a laptop, suggesting late 1990s or 2000s. 'There were lots of police was a good rod group on the canal' — the phrase 'was a good rod group' seems slightly garbled or a false start; transcribed verbatim. 'Tonic' appears to be the family dog collected from kennels. The Tunnel refers to the Channel Tunnel. Year cannot be precisely determined from page content alone; Channel Tunnel opened 1994, laptop navigation suggests likely late 1990s–2000s. Volume B covers 2003–2019 per context, so likely 2003 or later."
+    }
+  ]
+}

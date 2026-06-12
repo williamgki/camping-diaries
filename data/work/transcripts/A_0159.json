@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0159",
+  "volume": "A",
+  "pdf_page": 159,
+  "pages": [
+    {
+      "page_id": "A_0159_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "eggs, ice creams, in the camp restaurant. In the evening we walked in the village. Old slates on the roof, balconies. The exterior of the church being pointed, steps up to the bells + a wobbly balcony. Pretty, lush fields up to the road, irrigation ditches, maize, tomatoes, peppers, melons, gladioli. Several new houses being built, as a result of the new motorway?\n\n__Wed 2nd Aug__\n\tWe got up late. Again the boys play with boats in the river. Simon + Thomas had a grand fight. Charles got frightened in the boat + swam to the shore. We had lunch at the camp restaurant again, + went back to the river afterwards. The camp laundry service washed the towels + clothes (but did not dry) in their machine for 675 ptas. The boys watched a bull fight on T.V. At 9.40. Thomas + Eve went into the village to sketch. Just as we had finished drawing the church, stork arrived, so we went back to draw them too.\n\n__Thu 3rd Aug__\n\tWe set off to [struck: Santiag] Santiago, visiting 2 churches on the way. We saw OCebreiro and Portmarin. OCebreiro is high up, with lovely views of hills, on the Pilgrimage route. The houses in the hamlet are old. Some of the thatched rooves with plaited ropes over them are this shape [sketch]. One had a museum showing a living room/hall, bedroom + kitchen. The church was",
+      "dates": [
+        { "raw": "Wed 2nd Aug", "iso_guess": "1995-08-02", "confidence": 0.82 },
+        { "raw": "Thu 3rd Aug", "iso_guess": "1995-08-03", "confidence": 0.82 }
+      ],
+      "headings": ["Wed 2nd Aug", "Thu 3rd Aug"],
+      "underlined_places": [],
+      "place_mentions": ["Santiago", "OCebreiro", "Portmarin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Text begins mid-sentence at top of page, continuing from previous spread (A_0158). No handwritten page number visible at top-left. The entry mentions Villamartin implicitly (the village with the church and storks, which is sketched on the facing right page and labelled 'Villamartin'). 'OCebreiro' is the diary's spelling of O Cebreiro (Galicia, Spain), a notable stop on the Camino de Santiago. 'Portmarin' is the diary's spelling of Portomarín (Galicia, Spain). A struck-through word before 'Santiago' appears to be a false start (possibly 'Santiag...' or similar). Year 1995 is inferred: a preceding entry (A_0155_R) is dated 'Saturday 29th July', and within 1989–2003, July 29 falls on a Saturday in 1995; Wed 2nd Aug and Thu 3rd Aug are fully consistent with that year."
+    },
+    {
+      "page_id": "A_0159_R",
+      "side": "R",
+      "handwritten_page_no": 72,
+      "blank": false,
+      "full_text": "church with stork's nest  Villamartin",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Villamartin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["church with stork's nest  Villamartin"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "The right page is a hand-drawn sketch of a church tower/facade with a large stork's nest on top, showing the stork(s) with wings visible, and a lower section of the church below. A caption written vertically along the left side of the sketch reads 'church with stork's nest  Villamartin'. The handwritten page number 72 appears at top-right. This is an artistic sketch rather than a route map. 'Villamartin' is the village name — this could refer to Villamartín de Valdeorras or another Villamartin in Galicia/northern Spain along the route described on the left page."
+    }
+  ]
+}

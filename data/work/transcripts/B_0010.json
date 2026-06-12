@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0010",
+  "volume": "B",
+  "pdf_page": 10,
+  "pages": [
+    {
+      "page_id": "B_0010_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "cooking of supper. He cooked sausages, tomatoes & potatoes. He gave Margaret French beans to cook & me [struck:bread] broccoli. Simon & I walked up the road & looked at the distant glow of town lights (Oxford, Cheltenham?). It rained in the night.\n\n    Ag __Sunday__\n        Aylan ate with us & Jem & David with Grandma. At 11 we left the campsite carrying a picnic. William & John were wearing sandals with no heel straps. Grandma also wore sandals because she forgot to change. It was quite warm. We walked down the old road at the side of the site which led down into the valley. At the bottom there were difficult ploughed fields that we found it difficult to walk through. The Oxfordshire Way had been ploughed up. We went through Sledington & Simon found a marvellous place for a picnic under a huge shady tree, by the R. Evenlode. We walked back out of the valley by road passing through Idbury. In the evening we had supper at the New Inn, our campsite pub.\n\n    Monday\n        We chatted & [?of] had coffee & left at 11.30., bringing Aylan back to Birmingham",
+      "dates": [
+        { "raw": "Ag Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Ag Sunday", "Monday"],
+      "underlined_places": ["Sunday"],
+      "place_mentions": ["Oxford", "Cheltenham", "Sledington", "R. Evenlode", "Idbury", "New Inn", "Birmingham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The heading 'Ag Sunday' likely means August Sunday — 'Ag' appears to abbreviate August. The struck-through word before 'broccoli' reads 'bread'. 'Sledington' may also be read as 'Sledington' (a hamlet near Burford, Oxon, spelled Sladington/Sladington in some sources). The right-page content (page 8) references October dates which are clearly a separate trip — this left page continuation is from an earlier summer/August trip involving the Oxfordshire Way near R. Evenlode. Year cannot be confirmed from this page alone; volume B covers 2003–2019. 'Aylan' is a personal name."
+    },
+    {
+      "page_id": "B_0010_R",
+      "side": "R",
+      "handwritten_page_no": 8,
+      "blank": false,
+      "full_text": "Sunday October 19th\n    S+E  We left at 5 to pick up Jim, Margaret & Helen to hear John play his 'cello in an informal concert. He played very well, one of his grade 8 pieces, & in a 'cello quartet. The best we'd heard him play for ages.\n__Friday October 24th__\n    We should have left at 4.30., but 10 minutes before getting in the van I saw Tonic had a sore eye. So I dashed to the vet, got stuff for conjunctivitis, & dashed back. [marginal annotation: I put the ointment in his wrong eye first] We left at 5.10... It was a long, long drive north. We are camping at Doe Park __Cotherstone__, NW Barnard Castle.\n    There is a dog walk, lovely views, old Georgian house & HEATED toilets. This is important because we are all absolutely __freezing__. I am wearing a sweater, an arran cardigan, a sheepskin waistcoat & a jacket & my hands are nearly too cold to write. I wish I'd brought boots. The van heater is broken.",
+      "dates": [
+        { "raw": "Sunday October 19th", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "Friday October 24th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Friday October 24th"],
+      "underlined_places": ["Cotherstone", "Friday October 24th"],
+      "place_mentions": ["Doe Park", "Cotherstone", "Barnard Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.88,
+      "notes": "Page number 8 visible at top-right corner. 'Tonic' appears to be a pet (dog) name — mentioned in context of going to the vet for conjunctivitis. 'S+E' likely refers to the writer's initials or a shorthand for two people. 'Doe Park' near Cotherstone, NW of Barnard Castle, is a known campsite in County Durham. The October 19th Sunday and October 24th Friday pairing is consistent with years such as 2003 or 2008 (volume B starts 2003) but year cannot be confirmed from the page itself. 'arran cardigan' refers to Aran-style knitwear."
+    }
+  ]
+}

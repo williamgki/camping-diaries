@@ -1,0 +1,43 @@
+{
+  "spread_id": "A_0118",
+  "volume": "A",
+  "pdf_page": 118,
+  "pages": [
+    {
+      "page_id": "A_0118_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Ticket 1 — printed] CONWY VALLEY RAILWAY MUSEUM / BETWS-Y-COED / VISITOR'S TICKET / CHILD / Valid only for day of issue / [serial no.] 7643\n[Ticket 2 — printed] CONWY VALLEY RAILWAY MUSEUM / BETWS-Y-COED / MINIATURE RAILWAY / Valid only for one journey / Issued subject to the Company's regs. / [serial no.] 8187\n[Postcard caption — printed] THE CONWY VALLEY   RAILWAY, BETWS-Y-COED",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Conwy Valley", "Betws-y-Coed"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["THE CONWY VALLEY   RAILWAY, BETWS-Y-COED"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "Page consists entirely of two glued-in railway tickets (printed) and a glued-in postcard of the Conwy Valley Railway at Betws-y-Coed. No handwritten page number visible. The right gutter shows partial handwritten text but this belongs to the right page."
+    },
+    {
+      "page_id": "A_0118_R",
+      "side": "R",
+      "handwritten_page_no": 38,
+      "blank": false,
+      "full_text": "Stone farmhouse bottom of valley.   R. Alwen  s.e of Betws-y-Coed.\nBrick porch with wooden 'railway front.'   Dolgungles\n\n   We left Peter and Clare at the riding school. We drove back through __Betws-y-Coed__. Touristy shop + a lovely miniature railway which William, John + Charles went on. Very friendly staff. We looked around the museum, it even had the old smell of a ticket office. We saw the old church - lit only by candles, ceiling falling down. (B Old font, [illegible] with 2 carveson each face.\nCharles 6.day cake.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Betws-y-Coed"],
+      "place_mentions": ["R. Alwen", "Betws-y-Coed", "Dolgungles"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Page includes a hand-drawn pen sketch of a stone farmhouse with trees, captioned 'Stone farmhouse bottom of valley. R. Alwen s.e of Betws-y-Coed. Brick porch with wooden railway front. Dolgungles'. 'Dolgungles' may be a mis-spelling or phonetic rendering of a Welsh place name near the R. Alwen; could read 'Dolgynlas' or similar — transcribed as written. Bottom lines are partially cut off/cramped; '(B Old font, [illegible] with 2 carveson each face' — the bracketed opening and word after 'font' are unclear; 'carveson' may be 'carves on'. 'Charles 6.day cake' is a note at the bottom left, possibly 'Charles 6 day cake' (a birthday note). The page number '38' is visible in the top-right corner."
+    }
+  ]
+}

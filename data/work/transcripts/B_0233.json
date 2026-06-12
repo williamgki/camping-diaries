@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0233",
+  "volume": "B",
+  "pdf_page": 233,
+  "pages": [
+    {
+      "page_id": "B_0233_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Friday June 27th.\n\tSimon, Eve + Tinder left just after 6. We arrived about 7.45 at Great Rissington, Ashespring **** & filled with water. There's a beautiful view to the west, grey clouds, alas, not an encouraging sunset for the next day. Loos in shower room, 20f them. Gnomey flowers, but nice. Horses. Tinder is behaving better. ~~Sat~~ At 9.30, just as we put our coats on for a walk, it started to rain. Lots of bird paths.\n\tWe went thro fields, lovely church with a 1938 wall-hanging, embroidered with a living map of the village. Fantastic Cotswold houses, rich Chelsea tractor, beautiful gardens. Idyllic. It rained more as we got back to the van.\n\tCharles + Jenny arrived at 11.20. We walked back up to the Lamb pub to book supper. We had a drink too. Tinder was allowed in.",
+      "dates": [
+        { "raw": "Friday June 27th", "iso_guess": "2003-06-27", "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Great Rissington", "Ashespring"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The campsite name reads 'Ashespring' followed by four asterisks (star rating). The word 'Sat' is struck through and 'At' written after, suggesting a correction. '20f' may be shorthand for '20 of'. The year cannot be confirmed from the page itself; June 27 fell on a Friday in 2003, 2008, 2014 — position in volume B (2003-2019) loosely suggests early in range. Year recorded as 2003 with low confidence."
+    },
+    {
+      "page_id": "B_0233_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "After lunch we ~~drove~~ walked into Bourton-on-the-Water. Very pretty. The aim of the trip was to have an icecream, which we did. It rained heavily & we ate them under a tree & then hurried back to Charles' car & back to the van for a cup of tea.\n\tBefore supper we walked & then went to the Lamb, where we ate in the bar so that Tinder could be with us.\n__Sunday__\n\tSimon & Eve set off on a walk before Charles & Jenny arrived at 11. It was up hill & down dale & we went through heavy undergrowth & oozing black swampy mud & got back in time. ~~lunch~~. Then as we sat we heard a thunderous farty noise & Charles & Jenny arrived wearing helmets in the sublime folly of the Morgan 3 wheeler. There followed trips in the",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2003-06-29", "confidence": 0.3 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Bourton-on-the-Water"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "The word 'drove' is struck through and 'walked' written above it. The word 'lunch' later in the text is also struck through. 'Morgan 3 wheeler' refers to a Morgan three-wheeled car. The text ends mid-sentence, continuing onto the next spread. The Lamb pub is mentioned again from left page. Year estimated as 2003 with low confidence — see left page notes."
+    }
+  ]
+}

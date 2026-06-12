@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0290",
+  "volume": "B",
+  "pdf_page": 290,
+  "pages": [
+    {
+      "page_id": "B_0290_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We have waited 25 years to have supper in the St. Jean de Vaux restaurant, but it has always been closed in August. Now we are here in May, but the restaurant has now shut down! So we had moules & frites at the campsite.\n\"Thursday May 11\"\nA bit of rain in the night. Increasing rain in the morning. Isaiah keeps not [?being]. We walked round the village & up past the water tanks. The path has eroded badly. Back to the van for lunch.\nIt rained & rained & rained all afternoon. Stilla [?failure] to contact Isaiah. Finally his wife rings, & the campsite owner gets hold of her & she says Isaiah has semi-retired. Their son works on cars & the vineyard is closing. He sends us to Monneret (La Fosse 06 72 92 98 70/03 85 45 1756 in St. Marc de Vaux, just beyond the St. Jean de Vaux graveyard). Simon made an appt. at 5pm. So we drove there & bought 60 bottles of Cremant de Bourgogne & some red too. Very nice people. In the evening it stopped raining.",
+      "dates": [
+        { "raw": "Thursday May 11", "iso_guess": "2017-05-11", "confidence": 0.5 }
+      ],
+      "headings": ["\"Thursday May 11\""],
+      "underlined_places": [],
+      "place_mentions": ["St. Jean de Vaux", "Monneret", "La Fosse", "St. Marc de Vaux"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number at top-left is not visible/cut off. The year is not stated explicitly on this page. 'Thursday May 11' could be 2017 (May 11 = Thursday) but could also be other years; low year confidence. 'Stilla' may be 'Still a'. Phone number reads 06 72 92 98 70 / 03 85 45 1756 — the 1756 appears below the line and may be a continuation of the number or a separate reference. 'Isaiah' appears to be the name of a local wine producer/contact."
+    },
+    {
+      "page_id": "B_0290_R",
+      "side": "R",
+      "handwritten_page_no": 118,
+      "blank": false,
+      "full_text": "[...in] Friday We left promptly to go north to near Arras. When we reached the village which should have had a campsite we couldn't find the site. So we spent the night on the 3 hopeurs / hypers on the Grand Place in Arras. We had to move the van into the middle of the square because of the market the next day.\nWe had supper here. →\n[glued-in business card: Le Petit Rat Porteur / Restaurant, Brasserie, Cuisine de tradition / Salle en cave : possibilité réunion de famille, repas d'affaires... / Christelle et Michel CAUCHY / 11, rue de la Taillerie - 62000 ARRAS / Tél. 03 21 51 29 70 / Email : lepetitratporteur@orange.fr]\nThey would do a family reunion meal (38 seats in basement) if we had a reunion at Alexander Claud Kirby's grave next August. (only last week in August, because closed earlier in month.)\nSaturday We drove to Vimy to buy bread. So many towns & villages have lost their bakeries. Vimy ridge steep. Lots of Canadian [?&] memorials. On to the Tunnel.",
+      "dates": [
+        { "raw": "Friday", "iso_guess": "2017-05-12", "confidence": 0.45 },
+        { "raw": "Saturday", "iso_guess": "2017-05-13", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Arras", "Grand Place", "Le Petit Rat Porteur", "Vimy", "Vimy ridge", "Tunnel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "Page number 118 visible top-right. A business card for 'Le Petit Rat Porteur' restaurant in Arras (62000) is glued in; its printed text has been transcribed in brackets. '3 hopeurs / hypers' is unclear — possibly '3 brasseries' or similar; could be 'hopers/hypers' meaning large supermarkets (hypermarchés). 'Alexander Claud Kirby' appears to be a family member buried at a WWI/WWII cemetery near Arras. 'On to the Tunnel' likely refers to the Channel Tunnel. Year estimated as 2017 based on Thursday May 11 on facing page, carried forward with low confidence."
+    }
+  ]
+}

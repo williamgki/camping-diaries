@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0116",
+  "volume": "A",
+  "pdf_page": 116,
+  "pages": [
+    {
+      "page_id": "A_0116_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "In the afternoon Charles, William + Peter did homework + Chris wrote letters while Simon + John went for another walk.\n\n[photo glued in: stone village street with flowers and rooftops]\n\n[illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible] [illegible]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.55,
+      "notes": "Page contains text at the top (continuation from previous page) and a large glued-in colour photo of a stone village street scene with flowers. Below the photo there is faint, partially obscured text that is very difficult to read — it may be text showing through from behind the photo or from the reverse of the glued element; transcribed as illegible. No handwritten page number visible at top-left corner."
+    },
+    {
+      "page_id": "A_0116_R",
+      "side": "R",
+      "handwritten_page_no": 31,
+      "blank": false,
+      "full_text": "The sky was clear & the night cold.\n__Sun 26th Sept__\n\n    It was cold & drizzly in the morning. We went to Naunton church which was friendly, [?]&[?] [?vagram] but full of old people. 1662 Communion with sentences, collect & gospell from ASB. Beautifully kept church & good organist. Stone inscription next to the alter to [?]Oscar's son? \"barbarously murdered by rebels in 1645\". A list of people who came back in safety from Great War.\n    We had coffee & walked around the back roads of the village.\n    We drove to __Bourton-on-the-Water__ & couldn't find the hotel we stayed in. We all enjoyed the model village. We wandered around the village & had fish & chips with delicious chips. Then an ice cream.",
+      "dates": [
+        { "raw": "Sun 26th Sept", "iso_guess": "1993-09-26", "confidence": 0.45 }
+      ],
+      "headings": ["Sun 26th Sept"],
+      "underlined_places": ["Bourton-on-the-Water"],
+      "place_mentions": ["Naunton", "Bourton-on-the-Water"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number 31 at top right. 'Sun 26th Sept' is underlined. The word between 'friendly' and 'but' is unclear — possibly a superscript annotation or correction; transcribed as [?vagram]. 'gospell' is the diary's spelling. 'ASB' likely refers to Alternative Service Book. The phrase about 'barbarously murdered by rebels in 1645' is a quoted inscription. The name before 'son' is unclear — could be 'Oscar' or another name. September 26 was a Sunday in 1993 and 1999; without clearer year evidence from the page itself, 1993 is used as the iso_guess (volume A covers 1989–2003 and mid-volume position loosely suggests early-to-mid 1990s), but confidence is low. Bourton-on-the-Water is underlined in the diary."
+    }
+  ]
+}

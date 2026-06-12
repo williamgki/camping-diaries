@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0346",
+  "volume": "B",
+  "pdf_page": 346,
+  "pages": [
+    {
+      "page_id": "B_0346_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Wed May 26th__\nWe're in Denfurlong Farm Campsite.\nThe sun is shining & it's a bit warmer. lovely empty site. Silence! Rabbits. Birds.\nNew van doing well. Simon presses buttons to check on things. I had a shower.\nWe are about to leave for Chipping Sodbury.\nWe wander in the town & do a bit of shopping. Then we have a delicious lunch at Amigos, Shamsi & Dave's restaurant, which they don't let us pay for. Jill visits too. Then we head for home.\n\n__Thursday June 3rd.__\n\tSimon, Eve & Tinder left at 10.45 & picked up Flora. We stopped for lunch at Kimbolton, a church in the middle of nowhere. Workmen were doing up the tiny church with a little kitchen, disabled loo & spiral staircase up to the bells. The village want the schoolchildren to use",
+      "dates": [
+        { "raw": "Wed May 26th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Thursday June 3rd", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Wed May 26th", "Thursday June 3rd."],
+      "underlined_places": ["Chipping Sodbury"],
+      "place_mentions": ["Denfurlong Farm Campsite", "Chipping Sodbury", "Amigos", "Kimbolton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible in the top-left corner. The year cannot be determined from the text alone; this page is near the end of volume B (pdf_page 346/373) and the adjacent transcript B_0341 refers to COVID-era travel, suggesting a date possibly around 2021 or later, but no year is stated on this page. 'Denfurlong Farm Campsite' is a campsite near Chipping Norton/North Cotswolds area. 'Tinder' and 'Flora' appear to be names of dogs. 'Amigos' is a restaurant in Chipping Sodbury run by Shamsi and Dave. The sentence continues onto the right page."
+    },
+    {
+      "page_id": "B_0346_R",
+      "side": "R",
+      "handwritten_page_no": 47,
+      "blank": false,
+      "full_text": "the church more. It is all being beautifully done.\nOwain Glendower is buried in the church yard, the last Prince of Wales before the Tudors.\nWe reached the Gaskells & chatted to John, then arrived [?at 3] at Racketty Lodge, outside Hay on Wye. It's a superhouse in a campsite.\nZoe, Graham, Clara & Seren arrived, then Peter, Nana, Conrad, Nini & Giaconda.\n\tThe next day Nana had organised horse riding for all the children. Peter rode his 9 [?bott]. Simon visited Mrs. Gaskell on her 95th birthday. In the afternoon Zoe left (after giving me a beautiful book of Thorpe [?photo]s) & John, Kay & Eben arrived. [strikethrough: Cots] Conta Criswell came to lunch. William visited for a couple of hours.\n\t__June 5th__ We walked into Hay & shopped & had icecream. I bought a dress & a red knapsack. After lunch & a nap we walked along the [strikethrough] river & found a beach & some of us swam. Eben is enjoying his cousins.\n[illegible line at bottom]",
+      "dates": [
+        { "raw": "June 5th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["June 5th"],
+      "underlined_places": ["Hay on Wye"],
+      "place_mentions": ["Hay on Wye", "Racketty Lodge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Handwritten page number '47' is visible in the top-right corner. The text continues from the left page (mid-sentence). 'Owain Glendower' — the diarist writes this name for the Welsh leader more commonly spelled Owain Glyndwr; transcribed as written. The note 'the last Prince of Wales before the Tudors' is historically inaccurate but transcribed verbatim. 'Racketty Lodge' is a campsite/holiday let outside Hay-on-Wye. '[?at 3]' — a small superscript 'at 3' appears to be interlined above 'arrived at Racketty Lodge', indicating arrival time of 3 pm. '9 [?bott]' — unclear word after '9'; could be '9 bolt' or '9 hand' (horse measurement) or similar; transcribed as best read. 'Conta Criswell' — 'Conta' is a personal name appearing in nearby transcripts; 'Cots' appears struck through before it. 'Thorpe [?photo]s' — could be 'Thorpe photos' (a book of photographs of Thorpe, a place) or similar; the word after 'Thorpe' is partially obscured. The last line at the bottom of the page is cut off and largely illegible. The year for this entry cannot be confirmed from the page; no year is visible."
+    }
+  ]
+}

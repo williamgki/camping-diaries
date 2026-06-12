@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0312",
+  "volume": "B",
+  "pdf_page": 312,
+  "pages": [
+    {
+      "page_id": "B_0312_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[glued-in postcard photograph of mural] [?62] murals St Gabriel's Chapel, Crypt, Canterbury Cathedral\n\nJohn & Kay were at Peter's house for tea. Dave arrived & they went out to supper so that Kay could meet John's medical friends. (Dave works on a [illegible].) Nana took Simon to an Indian concert.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Canterbury Cathedral", "St Gabriel's Chapel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["[?62] murals St Gabriel's Chapel, Crypt, Canterbury Cathedral"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Page is largely occupied by a glued-in postcard from Canterbury Cathedral showing a mural in St Gabriel's Chapel Crypt. The caption is handwritten beneath the postcard logo. The final word before the illegible mark is unclear; could be 'locomotive' or similar. No handwritten page number visible at top-left. The right edge of this image shows partial letters that are the beginning of words on the right page (overlap)."
+    },
+    {
+      "page_id": "B_0312_R",
+      "side": "R",
+      "handwritten_page_no": 712,
+      "blank": false,
+      "full_text": "Peter took the children & Eve to a party at Gerald & Emily Stocock's house. 2 Chinese daughters, People played music; Gerald showed me the dress description ready for the BBC of Princess Di's dress.\nSunday Peter & Simon went to Quaker meeting. Nana & Eve took children to a street party. In the afternoon we went to Dinosaurs & Best horses in Concert. Then Peter & children went to a leaving party in a pub. In the evening Rocky came to Supper.\nMonday At 7.15. Simon, Peter & Eve left on pedal bikes for Central London for a talk on the Bavagad Gita. It was an exciting ride. Army of cyclists on Embankment going v. fast. The Breakfast. Then India & China in BM. In the evening we went to a talk by John Grey.  May 22nd.\nTuesday Eve took children to school with Peter. We called in for a pub lunch with Judith & Rosemary on the way to Kennels. Then home",
+      "dates": [
+        { "raw": "May 22nd", "iso_guess": "1997-05-22", "confidence": 0.35 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Central London", "Embankment", "Kennels"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number '712' visible at top-right corner. The text is a continuation from the left page. 'Bavagad Gita' is likely 'Bhagavad Gita'. 'BM' likely refers to the British Museum. 'Rocky' appears to be a person's name. 'Stocock' could be 'Stockcock' or another spelling — transcribed as written. The year cannot be confirmed from this page alone; 'May 22nd' is noted but year is uncertain — placed as null-year guess. 'Dinosaurs & Best horses in Concert' may be a show or exhibition name. The entry appears to end mid-sentence ('Then home') suggesting the text continues on the next page."
+    }
+  ]
+}

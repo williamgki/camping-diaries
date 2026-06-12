@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0195",
+  "volume": "B",
+  "pdf_page": 195,
+  "pages": [
+    {
+      "page_id": "B_0195_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The opera was incredible. 9.15 – 1.05. 4 Acts + 20 minute intervals. There were 6 horses + 3 donkeys. A very good Carmen. The tenor was a\n\n[postcard: panoramic view of Verona with river; ticket stub reads: ROBERT CAPA / Biglietto: Intero / Prezzo: / Valido il 29/07/2012 Emesso il 28/07/2012 alle 19.21 / Comune di Verona Cultura]\n\nsubstitute. It was horribly hot + sticky. People kept being ill. The very nice, unsophisticated Russian woman next to me started for to drink water + fan abt, gave a groan + passed out. Men with bright\n\n[postcard: aerial view of Museo di Castelvecchio, Verona; Comune di Verona Assessorato alla Cultura]",
+      "dates": [
+        { "raw": "29/07/2012", "iso_guess": "2012-07-29", "confidence": 0.95 },
+        { "raw": "28/07/2012", "iso_guess": "2012-07-28", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Verona"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["MUSEO DI CASTELVECCHIO"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues from previous spread; text at top is mid-sentence. Ticket stub visible for opera at Verona dated 28–29 July 2012. Opera described is Carmen. Two postcards of Verona glued in: one panoramic city view, one aerial view of Castelvecchio. Text continues onto right page."
+    },
+    {
+      "page_id": "B_0195_R",
+      "side": "R",
+      "handwritten_page_no": 15,
+      "blank": false,
+      "full_text": "orange trousers dashed around but it took them ages to reach us. Russia came round after we had splashed lots of water on her after about 5 minutes. She looked ghastly, pale, with owl eyes + running mascara. A nearby woman said we shd. get her lying down with her feet up, but the seating was so steep that we didn't dare move her. She refused to leave with the orange men. But after one more act they left. Then another woman 2 rows behind fainted. Unbearably hot until 3rd act. Walking home, up the long hill to the campsite, was exhausting + I didn't feel well with the heat.\n\n    The [the] German motorcyclists only got back after us because he got lost. He's just completed his pilot's training. I hope he flies better than he walks.\n\nSaturday Too hot in the van at breakfast. Too hot every minute of the day + evening. So we are missing Palladio in N. Italy + heading for the Alps near France. 5 minutes after a shower we pour sweat again.\n\n    We walk down into the town [Verona] + see the",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": "2012-07-28", "confidence": 0.75 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Verona", "N. Italy", "Alps", "France"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.90,
+      "notes": "Handwritten page number '15' visible in top-right corner. Text is continuation from left page. 'The [the]' reflects a strikethrough/correction visible in the ms — writer started 'The' then crossed it and wrote 'The German motorcyclists'. 'Verona' appears as a marginal annotation above 'into the town', written in a slightly different hand/style. 'Saturday' context: the opera ticket is dated 29/07/2012 (Friday night/Saturday morning) so Saturday here is likely 28 July 2012, though 28 July 2012 was a Saturday — date could also be 2012-07-28. Page ends mid-sentence."
+    }
+  ]
+}

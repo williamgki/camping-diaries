@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0285",
+  "volume": "A",
+  "pdf_page": 285,
+  "pages": [
+    {
+      "page_id": "A_0285_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "up to the Peak District through dense trafic. We have passed 4 broken-down cars. The sky is lovely & Simon Rattle is conducting Brahms on the radio.\n    We arrived at Hadon Grove *** in the dark & camped near a marquee full of noisy happy children.\n__Sept 23rd.__\n    The children woke Charles early but Simon slept until 8.25. We were in big open fields lined with large trees. After breakfast we went through a stone stile near the van into a beautiful valley. Below was a Gorge (no Grand Canyon) the Lathkill Gorge. We walked 2½ miles to Over Haddon. Strong drink in the pub, because both Simon & Eve had bad backs, we had a glorious fry-up in \"Uncle Geoff's Diner\". His 16 seater restaurant serves 7,300 [?cfos] per year. People write their orders on a notebook, because he's very deaf. The weather is lovely. We walked back along the road. Charles has been playing number games & letter games.",
+      "dates": [
+        { "raw": "Sept 23rd", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Peak District", "Hadon Grove", "Lathkill Gorge", "Over Haddon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page continues from previous spread — no handwritten page number visible in top-left corner. 'Hadon Grove' likely reads 'Haddon Grove' (near Haddon Hall / Over Haddon area, Derbyshire). Three asterisks '***' appear after the place name, possibly indicating a campsite or editorial mark. The figure '7,300 [?cfos]' is unclear — could be '7,300 covers' or similar. Year cannot be determined from this page alone; volume position suggests late 1990s but this is not certain. 'Sept 23rd.' underlined in original."
+    },
+    {
+      "page_id": "A_0285_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Charles did his homework & we wrote & read. The campsite has hot showers, lots of space & wonderful views over fields & dry-stone walls. All for £5 per night.\n__Sunday Sept 24th.__\n    It was misty & then started to rain. We drove towards Birmingham looking for a church & found St. Oswald's Ashbourne. Bell-ringing. Tonic stayed in the loo in the van. The church is pretty with lots of old Tombs. Cockraine family. Mediaeval & Tudor. At coffee in the church hall the men were friendly but not the women. Perhaps they didn't like the mud on my boots. ABCP service. We set off to reach home for lunch.\n__Sat October 20th.__\n    We left home at 9.50. & drove to Coleshill & bought a Brompton folding bike. Then we had lunch in the carpark at the Hendon RAF museum. Peter went on a flight simulator. John liked the Radar. Charles liked looking at the model aeroplanes.",
+      "dates": [
+        { "raw": "Sunday Sept 24th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sat October 20th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sunday Sept 24th", "Sat October 20th"],
+      "underlined_places": [],
+      "place_mentions": ["Birmingham", "St. Oswald's Ashbourne", "Coleshill", "Hendon RAF museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "No handwritten page number clearly visible in top-right corner. 'St. Oswald's Ashbourne' is St Oswald's Church, Ashbourne, Derbyshire — the place name runs together in the diary. 'Cockraine' may be 'Cockayne' (a notable family associated with Ashbourne church). 'ABCP' is unclear — possibly 'ABC' or an abbreviation for a church service type. 'Tonic' appears to be a pet or child's nickname. Year cannot be determined from this page alone; 'Sunday Sept 24th' and 'Sat October 20th' co-occurring would fit e.g. 1995 or 2000, but this is not confirmed by the text — year left null. 'Brompton folding bike' is a brand name (Brompton Bicycle). 'Hendon RAF museum' is the RAF Museum, London (Hendon)."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0108",
+  "volume": "B",
+  "pdf_page": 108,
+  "pages": [
+    {
+      "page_id": "B_0108_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We drove on to __Lissac et Mouret__, M. GAY Gerard, a lovely campsite in an enormous field with walnut trees. The farmhouse has a pool & trampolines & a bar. We swam in the pool, & later in the day we went back to the bar & Simon & Charles played pool. 05 65 34 40 98.\n__Saturday August 5th__\n   We had a leisurely morning, reading. At 11.30 we set off to buy bread. As I got out to look at the baker's door, a van drew up & the man turned out to be selling bread.\n   We drove to John Hurman's house. It took quite a while to find it in the hamlet. It's a beautiful house, completely developed from a barn with entrances each end on separate levels. The bottom floor has 3 bedrooms (2 with shower rooms) a bath room & a laundry. Upstairs has an enormous hall with a fire in the corner by the door. The other end has a balcony built up with a spiral staircase. At the end is a kitchen with a long low [?bow] window, with a kitchen table made out of different woods with a long drawer for bagettes. It has a step-out balcony & a staircase into the garden. The garden has lovely lilacs of India, pink with a lovely smell.",
+      "dates": [
+        { "raw": "Saturday August 5th", "iso_guess": "2006-08-05", "confidence": 0.7 }
+      ],
+      "headings": ["Saturday August 5th"],
+      "underlined_places": ["Lissac et Mouret"],
+      "place_mentions": ["Lissac et Mouret"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number not visible on left page — may be on a previous page or cut off. The word before 'window' looks like 'bow' or 'low' — written as [?bow] but 'long low' may be the full phrase. 'bagettes' is the diary's spelling (baguettes). Year inferred from Saturday August 5th falling on a Saturday within the volume range 2003–2019; 2006 is the best match."
+    },
+    {
+      "page_id": "B_0108_R",
+      "side": "R",
+      "handwritten_page_no": 47,
+      "blank": false,
+      "full_text": "To the side of the house is an old pig sty. We took John out to the riverside for a picnic & afterwards walked & saw a small plane take off & land. We returned to his house & carried / rolled rocks up from the piggery & had delicious rose tea & lemon & a WONDERFUL pear cake on the balcony under shady umbrellas. He buys teas in Paris, from a special shop, Maison du Thé. Maison frères.\n   We came back to the camp again & chatted & read.\n__Sunday August 6th__\nJohn gave us a large bag of walnuts. Last year it dropped 4,400 walnuts. This year it has very few.\n\n[glued-in business card: l'Oasienne — Chambres d'hôtes gîtes ruraux — Camping à la ferme — Crêperie - Pierrade — Piscines - Mini-golf - Jeux — Nicole et Gérard GAY \"Claviés\" 46100 LISSAC-ET-MOURET — Près de FIGEAC — Tél.-Fax: 05 65 34 40 98]",
+      "dates": [
+        { "raw": "Sunday August 6th", "iso_guess": "2006-08-06", "confidence": 0.7 }
+      ],
+      "headings": ["Sunday August 6th"],
+      "underlined_places": [],
+      "place_mentions": ["Paris", "Maison du Thé", "LISSAC-ET-MOURET", "FIGEAC"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["l'Oasienne — Chambres d'hôtes gîtes ruraux — Camping à la ferme — Crêperie - Pierrade — Piscines - Mini-golf - Jeux — Nicole et Gérard GAY \"Claviés\" 46100 LISSAC-ET-MOURET — Près de FIGEAC — Tél.-Fax: 05 65 34 40 98"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page number 47 visible top-right. A printed business card for l'Oasienne campsite (Nicole et Gérard GAY, Lissac-et-Mouret, près de Figeac) is glued in at the bottom of the page. 'Maison frères' likely refers to Mariage Frères, the Paris tea shop. Year inferred as 2006 — Sunday August 6th matches that year within the volume range."
+    }
+  ]
+}

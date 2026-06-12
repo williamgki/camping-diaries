@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0353",
+  "volume": "B",
+  "pdf_page": 353,
+  "pages": [
+    {
+      "page_id": "B_0353_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "arrived with Olive. They played cricket / foot ball at the campsite. Then we all met up at a restaurant in Chester for lunch. Peter + I cycled back with Gigi to the campsite where Gigi + I had naps. Peter went back into Town with the others + they saw the Cathedral + a model railway (west coast main line) + arch building. And shopping.\nIn the evening Thomas cooked another lovely BBQ.\n\n__Wednesday__\nWe waited while the Tents dried + Thomas + Peter packed up. In leaving Thomas went to look at camping vans. They all went home. Simon + Eve went west to near Harlech.\n   We had trouble finding a lunch place along the Dee estuary. We saw an old ship with a red + back funnel. Travelling inland we passed Dolwyddelen Castle. 1283 it fell to Edward I.",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Chester", "Harlech", "Dee estuary", "Dolwyddelen Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.88,
+      "notes": "Page number not visible in top-left corner — likely continues from previous page. 'back funnel' likely means 'black funnel'. Dolwyddelen Castle spelled 'Dolwyddelen' in the diary (standard spelling is Dolwyddelan). Year cannot be determined from this page alone; volume covers 2003–2019."
+    },
+    {
+      "page_id": "B_0353_R",
+      "side": "R",
+      "handwritten_page_no": 54,
+      "blank": false,
+      "full_text": "We stopped for tea near a pass before a big slate mine. Llan Bleanow Ffestiniog. Then onto the campsite south of Harlech, Llandanwg village. Glan y Gors campsite. A short walk away is a [?B] chapel, sunk in the dunes, St. Tanwg arrived there in the [?6].\nWe were quite tired after being with the family.\n\n__Thursday__\n   We walk behind the dunes in the salt marshes. They are protecting the marram grass which takes 5 years for a [?big] clump to get established. Lunch - cheese pasties + later tea time ice cream at Y Maes Cafe. Well run. V. busy. V. V. windy in the afternoon, keeping the skylight shut. Families on the sandy beach.\n\n__Friday__\n   We left before breakfast to get a space in the carpark, but there was a 2 m baffle, so we are",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Thursday", "Friday"],
+      "underlined_places": [],
+      "place_mentions": ["Llan Bleanow Ffestiniog", "Harlech", "Llandanwg", "Glan y Gors", "St. Tanwg", "Y Maes Cafe"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.85,
+      "notes": "Handwritten page number 54 visible top-right. 'Llan Bleanow Ffestiniog' likely refers to Blaenau Ffestiniog — diary spelling preserved. '[?B] chapel' — the circled letter before 'chapel' looks like a 'B' or '6'; St. Tanwg is a known chapel at Llandanwg sunk in dunes. '[?6]' after 'in the' likely refers to a century (e.g. '6th century') but numeral is unclear. '2 m baffle' may mean a height barrier. Year cannot be determined from page content alone."
+    }
+  ]
+}

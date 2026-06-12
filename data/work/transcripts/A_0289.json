@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0289",
+  "volume": "A",
+  "pdf_page": 289,
+  "pages": [
+    {
+      "page_id": "A_0289_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "I also like Matisse's snail & Barbara Hepworth's harp. Charles was shocked by the naked dancing man & the woman talking about the bad things that had happened in her relationships (both films). We saw Pat Gregory & Keith Herbert. I would have enjoyed it more as an ice rink.\n\t We said goodbye to Thomas & Peter left & we found a good restaurant & had a delicious meal - I had mushroom & stilton & herb crumble (& balsamic [?vinegar]) And for pudding John & I had pineapple & pecan cheesecake with orange syrup sauce. They had used the lighting well.\n\t After that we went to the Globe theatre, where we could not stay long enough. A good Scotswoman, Margaret,",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Bankside Restaurant Bar", "London", "Globe theatre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page contains a glued-in business card for 'Bankside Restaurant Bar, 32 Southwark Bridge Road London SE1 9EU'. The word after 'balsamic' is partially obscured by the card — reads as '[?vinegar]' or possibly '[?vinger]'. Text continues onto right page. No handwritten page number visible."
+    },
+    {
+      "page_id": "A_0289_R",
+      "side": "R",
+      "handwritten_page_no": 3,
+      "blank": false,
+      "full_text": "gave us a tour. The wood is unseasoned oak. It's the first thatched building in London since the 1666 fire. The marbled column was one of 2 oak trees, with a carved Corinthian capital, one found in Suffolk, one in Scotland. The Queen is at this 12 June performance Triumphs & Mirth, 1997, [illegible]",
+      "dates": [
+        { "raw": "12 June 1997", "iso_guess": "1997-06-12", "confidence": 0.92 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["London", "Suffolk", "Scotland", "Globe theatre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Queen is at this 12 June performance Triumphs & Mirth, 1997, [illegible]"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Year 1997 explicitly stated in text alongside '12 June performance Triumphs & Mirth'. The word after '1997,' at the end of the caption is cut off at the right edge of the image — could be 'held' or similar. A large colour photo of a Globe Theatre performance is glued in, showing an actor in elaborate medieval costume on stage with audience visible in galleries. Handwritten page number '3' visible top-right corner."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0247",
+  "volume": "B",
+  "pdf_page": 247,
+  "pages": [
+    {
+      "page_id": "B_0247_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "April 10th 2015 Friday.\n        Simon, Eve + Tinder left at 6.30pm. at\nThomas + Naomi at Lyttleton Rd, William +Bryony\njust moved to Bromyard. Peter + Nana about\nto move Calcutta → us → London. John in\nSwansea about to move to Cardiff. Charles +\nJenny have just bought a house in Oxford.\nI have been spending alot of time in Suffolk\nwith Annette who is dying.\nWe drove to __Tonge__ [?H#*] near Nottingham, on\nthe Cloud Cycleway. Thou the gate wewere\non the cycleway. Warm day.\nSaturday   cold morning.  We cycled 3 miles up\nto the Trent River, disused, often embanked\nrailway line thru fields.\n        We drove to Nottingham + had lunch\nin a pub next to the Kanal. Good, Selaft!\nStag party? next to us. Not many greghans\nin restaurant.\n        We walked up thru Gatehouse to\nthe Castle museum. It started as a Norma[n]",
+      "dates": [
+        { "raw": "April 10th 2015 Friday.", "iso_guess": "2015-04-10", "confidence": 0.99 },
+        { "raw": "Saturday", "iso_guess": "2015-04-11", "confidence": 0.85 }
+      ],
+      "headings": [],
+      "underlined_places": ["Tonge"],
+      "place_mentions": ["Lyttleton Rd", "Bromyard", "Calcutta", "London", "Swansea", "Cardiff", "Oxford", "Suffolk", "Tonge", "Nottingham", "Cloud Cycleway", "Trent River", "Nottingham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "The word after 'Tonge' appears to be a correction mark or annotation (possibly '+++' or similar). 'Kanal' appears to be an idiosyncratic spelling of 'Canal'. 'Selaft' is unclear — could be an exclamation or abbreviated word. 'greghans' is unclear — possibly 'grey hairs' or another word. Page text continues onto the right page. No handwritten page number visible in top-left corner. 'Lyttleton Rd' could also read 'Lyttleton Rd' — appears to be a street name. 'at' and partial text visible at right edge belongs to right page."
+    },
+    {
+      "page_id": "B_0247_R",
+      "side": "R",
+      "handwritten_page_no": 67,
+      "blank": false,
+      "full_text": "Castle. Charles I raised his banner there 67\nat Start of Civil War. Cromwell had it razed.\nRebuilt, burnt, rebuilt (Reform Act).\nLovely alabaster + costume museum.\nTea back at the van + we have driven to\nanother field – Pleasleyfarm campsite * *.\nWe went along a Roman road out of\nNottingham – slow + bordered by buildings.\nNottingham used to be called Snottingham.\nThe Snots.\nThe farm is a sort of depot for storing\nlarge lorries. Windswept.\n                Sunday\n                Cold feet all\n                night.\n                After breakfast\n                on to\n                Hardwick\n                Hall.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2015-04-12", "confidence": 0.82 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Sunday"],
+      "place_mentions": ["Nottingham Castle", "Pleasleyfarm campsite", "Nottingham", "Snottingham", "Hardwick Hall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page has two glued-in photos: one large showing an Elizabethan/Jacobean mansion (likely Hardwick Hall given the text context), and one smaller photo below it showing two people. 'Pleasleyfarm campsite' — could also be 'Pleasley Farm campsite' (two words). The handwritten page number '67' is visible in the top-right corner. 'Reform Act' reference explains the rebuilding of Nottingham Castle. 'Sunday' appears underlined."
+    }
+  ]
+}

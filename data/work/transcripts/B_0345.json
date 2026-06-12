@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0345",
+  "volume": "B",
+  "pdf_page": 345,
+  "pages": [
+    {
+      "page_id": "B_0345_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "police, a very nice policeman. All announcements start in Welsh & change to English so it look for-ever. The [?ex] policeman couldn't work out where I was. We didn't have the same pronounciation for Llanmador & I forgot the word Gower. He finally decided that I wasn't in St. Davids & kindly put me through to another police station but they never answered the phone. Then a man walked past & said he would get his Wellingtons & sort it out. Later we saw them trotting along the beach to join other horses. They all have lovely long hair. In the too very high tides horses & cows are moved off the beach but the sheep are left standing in the water.\n\n__Monday__\nWe have driven quite a tortuous route over the Heads of the Valleys – new roads being built, & stopped for lunch at Raglan Castle.\n\n__Tuesday May 25th__ Peter's Birthday 11.10. We left for a short trip to see Chadworth Roman Villa While eating lunch we heard that Kaz & John are expecting their second baby.\n\n[margin, vertical] There are also 2 buckeye trees from US, grafted onto English horse chestnuts.\n\n[margin, vertical, lower] Chadworth Roman Villi [illegible lines]",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Tuesday May 25th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Monday", "Tuesday May 25th"],
+      "underlined_places": [],
+      "place_mentions": ["Llanmador", "Gower", "St. Davids", "Heads of the Valleys", "Raglan Castle", "Chadworth Roman Villa"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "Page appears to be a continuation from a previous page — starts mid-sentence with 'police'. 'Llanmador' may be 'Llanmadoc' (a village on Gower peninsula). 'Chadworth Roman Villa' is almost certainly 'Chedworth Roman Villa' (Gloucestershire) — the diary's spelling used throughout. 'Tuesday May 25th' cannot be pinned to a year without more context; May 25th fell on a Tuesday in 2004 and 1999 among others. Marginalia in right margin written vertically about buckeye trees from US grafted onto English horse chestnuts. Lower margin partially illegible."
+    },
+    {
+      "page_id": "B_0345_R",
+      "side": "R",
+      "handwritten_page_no": 1,
+      "blank": false,
+      "full_text": "[printed postcard/information card — Chedworth Roman Villa]\n\nChedworth Roman Villa was discovered in 1864 when a gamekeeper, out ferreting for rabbits, found small stone cubes – loose tesserae – from one of the buried mosaics. The site was swiftly due to reveal extensive walls, bath houses and fine mosaics from one of the most significant Roman villas in Britain.\n\nThe 19th century landowner, Lord Eldon, came to survey the finds, took shelter buildings over the most delicate ruins, and had a small museum for the artefacts. The estate was sold in the 1920s and the Villa was bought for the nation through public subscription.\n\nChedworth Roman Villa was at its greatest in the fourth century, as a large and luxurious country house, with many domestic comforts such as underfloor heating and two bath houses.\n\n[handwritten, left margin, vertical]\nChadworth Roman Villa\nMosaic floor of the Warm Room\n(Tepidarium) in the hot living\nC4\n\n[handwritten, left margin, vertical, continuation from L page]\nThere are also 2 buckeye trees from US,\ngrafted onto English horse chestnuts\n(This is the buckeye state)\nThe Romans brought all seeds – still here!\n\n[photo: interior photo of mosaic floor and hypocaust pillars at Chedworth Roman Villa]",
+      "dates": [],
+      "headings": ["Chedworth Roman Villa"],
+      "underlined_places": [],
+      "place_mentions": ["Chedworth Roman Villa", "Chadworth Roman Villa"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Chadworth Roman Villa / Mosaic floor of the Warm Room (Tepidarium) in the hot living / C4"],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.85,
+      "notes": "Right page contains a glued-in printed postcard or information leaflet about Chedworth Roman Villa, with a photograph of the mosaic/hypocaust. Handwritten annotations in left margin (vertical) describe the mosaic floor of the Tepidarium (warm room), dated to C4 (4th century). 'Chadworth' is the diarist's consistent spelling for 'Chedworth'. Handwritten page number '1' visible in top-right corner — this may be a page number on the postcard/insert itself rather than a diary page number. The left margin text about buckeye trees appears to be a continuation of the marginalia from the L page."
+    }
+  ]
+}

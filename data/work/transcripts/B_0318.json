@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0318",
+  "volume": "B",
+  "pdf_page": 318,
+  "pages": [
+    {
+      "page_id": "B_0318_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "for flying kites. There's a big community room with wood-burning stove for drying out & keeping warm if the weather's bad.\n\tSimon + Eve + Tinder went to __Frampton on Severn__ to walk along village, fields, canal. Tinder v. good. Then on to lunch in a field. Then on to home.\n\nSunday April 28th\n We shd have left at 8.30., but we left 5 min late because TT, parked in front of van, was flat, so Simon had to recharge it. We are booked into a 10.30. tour of Dern Gate, Mackintosh's house in Northampton. We had wanted to camp this w/end, but it is too cold.\n\tWe reached Derngate at 10 & went on a guided tour. The house was built 1816 & modernised for Bassett-Lowke by Mackintosh in 1916. The house cost ~~£820~~ £220 & the renovations cost £800 (workman's weekly wage £2). BL was colourblind & only saw yellow & black.",
+      "dates": [
+        { "raw": "Sunday April 28th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Frampton on Severn"],
+      "place_mentions": ["Frampton on Severn", "Northampton", "Derngate"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page appears to be a continuation from a previous page (text starts mid-sentence with 'for flying kites'). No handwritten page number visible in top-left. 'Dern Gate' and 'Derngate' both appear — the diarist uses both forms; Derngate is 78 Derngate, Northampton, the Mackintosh-designed house. 'BL' refers to Bassett-Lowke. Sunday April 28th: in volume B (2003–2019), April 28 fell on a Sunday in 2013 and 2019. The '78 Derngate' caption on the right page corroborates this visit. Year cannot be confirmed from the page text alone. The strikethrough on '£820' is in the original — diarist corrected to £220. 'TT' likely refers to a car/vehicle battery tender."
+    },
+    {
+      "page_id": "B_0318_R",
+      "side": "R",
+      "handwritten_page_no": 19,
+      "blank": false,
+      "full_text": "78 Derngate. Hall/lounge screen on side of stair\n\n\tOn the way home we stopped with Judith Kirby for lunch at Bierton, then had tea on the roadside next to a field of sheep near Bicester.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["78 Derngate", "Bierton", "Bicester"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["78 Derngate. Hall/lounge screen on side of stair"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.92,
+      "notes": "Page contains a glued-in postcard/printed photograph of a Charles Rennie Mackintosh stained glass hall/lounge screen with printed caption 'CHARLES RENNIE MACKINTOSH'. Below the photo is a handwritten caption '78 Derngate. Hall/lounge screen on side of stair', then narrative text. Handwritten page number '19' visible in top-right corner. 'Bierton' is a village near Aylesbury, Buckinghamshire. 'Bicester' is in Oxfordshire — consistent with a route home from Northampton heading south."
+    }
+  ]
+}

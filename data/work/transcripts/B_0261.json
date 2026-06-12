@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0261",
+  "volume": "B",
+  "pdf_page": 261,
+  "pages": [
+    {
+      "page_id": "B_0261_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "opposite pitch. He & his son are cycling St. Clau[?]hyons. He's off to Nepal in the [crossed out] winter.\n\nWe chose a restaurant on the square which advertised puddings made in the restaurant. It was a very good choice. Samu[el] had tripe + [Alison?]. I had salmon pasta. Samin[?] had chef's pastry for [just?] – as adored by me + I had choc. [Sou?] [Fondant?]. Both delicious.\n\nThunderstorms in the night. V.v. hot. The pharmaciene at the next table (with 2 her sons) was V. nice + invited us to look her up at the pharmacy on [bar?] our next visit. She knows local restaurants.\n\nSaturday\n\nSimon bought cakes for the family next door. V. well behaved. We left.\n\n[Beside photo:] In Conques we ate at the Ch[ar?][magne?] rest[aurant?] [Alyst?] salads; had [chestnut?] crème [brulee?] good coffee. It [rained?] on + off [all] day. We walk[ed] a[round] the town enjoyed looking at [illegible]",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Nepal", "Conques"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Abbatiale Sainte-Foy, tympan du Jugement dernier (début du XIIe siècle)"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.65,
+      "notes": "Page continues from a previous page — opening text is mid-sentence. 'St. Clau[?]hyons' could be a cycling route or place name — partially obscured. The text beside/over the photo is written at an angle and partly obscured by the photo, making it harder to read. 'pharmaciene' is the diary's spelling (standard French would be 'pharmacienne'). The year cannot be confirmed from this page alone; volume B covers 2003–2019."
+    },
+    {
+      "page_id": "B_0261_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the old buildings + shops. We drove on to [?] race thru hills + along [?] + rain. We had trouble remembering [where] the campsite [is]. It was no longer advertising camping [when] we got there.\n\nWhite monks organised a short service in the abbey with psalms at noon. The metal work grills around the sanctuary were made of prisoners' chains. St. foy was prayed to for prisoners. The abbey has continued this theme by having writing + photos about hostages, torture + prisoners Today, since 1995, in Eritraya. 10,000 people have disappeared. Enforced national service is in a brutal army\n\nSunday\n\nRain in the night. Damp but no rain in the morning. Apparently the rain is the first they've had since June 10th.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "since June 10th", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Eritraya"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["C'est à un voyage privilégié dans l'étage des tribunes de l'abbatiale que le visiteur est exceptionnellement convié depuis peu. Il y découvrira des perspectives inoubliables et percevra, par les jeux d'éclairage, la beauté plastique des chapiteaux romans."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.75,
+      "notes": "Page continues from left page. 'Eritraya' is the diary's spelling — almost certainly referring to Eritrea. The photo is a printed postcard or leaflet image of the interior of the Abbatiale Sainte-Foy (Conques), with a French caption. The text alongside the photo (left margin of right page) is partially obscured. Year cannot be confirmed from this page; volume B covers 2003–2019. The abbey context and the reference to the 1995 Eritrea human rights theme are consistent content for a visit to Conques (Abbaye Sainte-Foy)."
+    }
+  ]
+}

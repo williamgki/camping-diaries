@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0163",
+  "volume": "B",
+  "pdf_page": 163,
+  "pages": [
+    {
+      "page_id": "B_0163_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Thursday August 7  070809\nFriday 11.15, Simon, Eve & Tonic set off to Northumberland. Tonic's ill.",
+      "dates": [
+        { "raw": "Thursday August 7  070809", "iso_guess": "2009-08-07", "confidence": 0.92 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Northumberland"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Traditional White Gingerbread"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page contains a glued-in postcard photograph of what appears to be the Humber Bridge, with a printed recipe for 'Traditional White Gingerbread' overlaid on the lower portion. The '070809' at the top likely represents the date 07/08/09 (7 August 2009), consistent with 'Thursday August 7'. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0163_R",
+      "side": "R",
+      "handwritten_page_no": 18,
+      "blank": false,
+      "full_text": "We stopped to admire the Humber Bridge + walked down to the water's edge through a nature park near an old black windmill. A man arrived in a car & collected sea weed.\n      On [the] to Bridlington.\n      Pradhma, Godfrey, Emy & Evans welcomed us warmly + picked apples from the tree in their garden + gave us a good supper. It was lovely to see them.\n      We drove on + camped at __Muston Grange Caravan Park__, extraordinarily regimented & densely packed caravans. £12.50. Nice people.\n      We have had a [?re] series of spills on this trip. I knocked over the dog water bowl. Simon lifted a half-bottle of cider by the stopper & it exploded over the floor. Pradhma tipped water over me at supper. (At lunch today Simon shook the French dressing & it sprayed out of the 20 year old bottle which has developed a split.)\n      Worst of all, Tonic had bits of",
+      "dates": [
+        { "raw": "Thursday August 7", "iso_guess": "2009-08-07", "confidence": 0.88 }
+      ],
+      "headings": [],
+      "underlined_places": ["Muston Grange Caravan Park"],
+      "place_mentions": ["Humber Bridge", "Bridlington", "Muston Grange Caravan Park"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.87,
+      "notes": "Handwritten page number '18' visible at top right, appearing after the phrase 'We stopped to admire the Humber Bridge'. The text continues from the left page. The word before 'series' is hard to read — looks like a crossed-out word or short word; transcribed as '[?re]'. The names 'Pradhma', 'Godfrey', 'Emy', 'Evans' appear to be people's names (hosts at Bridlington). Text is cut off at the bottom — page continues on next spread. Numbers '5' and '3' appear above 'Emy' and 'Evans' respectively, possibly keyed annotations."
+    }
+  ]
+}

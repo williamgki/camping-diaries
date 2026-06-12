@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0106",
+  "volume": "A",
+  "pdf_page": 106,
+  "pages": [
+    {
+      "page_id": "A_0106_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We had lunch in a layby + drove on to __Cuneo__, where we had trouble following signs to the campsite**. The boys played ping pong. Some of the loos were incredibly old + corrugated + smelled of pigs.\n\tWe walked around a flea market in Cuneo + had supper in a friendly restaurant overcooked spaghetti, good veal + chips. Trattore Belvedere.\n\t__Monday July 26th__\n\tWe played ping pong + set off towards __les Deux Alps__. We stopped to shop at __Saluzzo__. We went along very windy roads. Near the end of the day we passed a glacier, + finally reached __les Deux Alys__[?], where the 3 boys had skied 2 years before. It was dark when we arrived. Everyone put on trousers, except Eve who didn't have any. Cold, cold. We had supper in the van + walked up the hill for crêpes before bed - lemon, chocolate, honey, chestnut, strawberry.\n\t__Tuesday July 27th__\n\tOnce the sun came over the hill, the",
+      "dates": [
+        { "raw": "Monday July 26th", "iso_guess": "1993-07-26", "confidence": 0.35 },
+        { "raw": "Tuesday July 27th", "iso_guess": "1993-07-27", "confidence": 0.35 }
+      ],
+      "headings": ["Monday July 26th", "Tuesday July 27th"],
+      "underlined_places": ["Cuneo", "les Deux Alps", "Saluzzo", "les Deux Alys"],
+      "place_mentions": ["Cuneo", "Saluzzo", "les Deux Alps"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "No handwritten page number visible in top-left corner — text begins mid-sentence continuing from previous page. The restaurant name 'Trattore Belvedere' may be 'Trattoria Belvedere'. The place 'les Deux Alps' is underlined and written twice — once as 'les Deux Alps' and once possibly 'les Deux Alys' (the second underlined instance is harder to read; could be 'Alpes'). The standard spelling is 'Les Deux Alpes'. Year is uncertain — no explicit year on page; the July dates and route (Cuneo to Les Deux Alpes via Saluzzo) are consistent with the nearby pages (A_0103) which appear to be a summer European trip; tentative year assigned 1993 based on volume position but confidence is low. Right-edge of left image shows partial text belonging to the right page (not transcribed here)."
+    },
+    {
+      "page_id": "A_0106_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "air warmed up very quickly, + we were able to eat breakfast outdoors. Wild flowers. Friendly campsite man who said that caravans were better than tents in freezing conditions. Van waterworks don't [illegible] hold up when it's freezing.\n\tWe walked around the ski village. William lost a lens + had a headache. The rest of us went up in a ski lift. Les Deux Alps is a village, with \"the Village\" a hotel complex above it. It's a super place for a summer holiday - mountain biking, scootering downhill after being hauled up on a hand lift, bowling, sliding, paragliding, glacier skiing, walking, horseriding. But Simon found the site rather ugly.\n\tCharles + John found the chair lift exciting. Charles, Peter + I went in one. Simon, John + Thomas in the other.\n\tAt 12.15. we left + passed __Grenoble__ + ploughed through __Lyons__ in the rush hour. At the last minute we visited the __Fracastos__ + swam, + they gave us a delicious barbequed supper. Afterwards",
+      "dates": [
+        { "raw": "Tuesday July 27th", "iso_guess": "1993-07-27", "confidence": 0.35 }
+      ],
+      "headings": [],
+      "underlined_places": ["Grenoble", "Lyons", "Fracastos"],
+      "place_mentions": ["Les Deux Alps", "Grenoble", "Lyons"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "No handwritten page number visible in top-right corner — text continues from left page and ends mid-sentence at bottom. 'Fracastos' is underlined and appears to be a family name (not a place name), though it could possibly be a place name or surname — included in underlined_places for attention; could alternatively read 'Fracastos', 'Fracassos', or 'Froassos'. 'Lyons' is the older English spelling of Lyon, France. Year is uncertain; see notes on left page. The left edge of the right image shows partial text from the left page gutter (not re-transcribed)."
+    }
+  ]
+}

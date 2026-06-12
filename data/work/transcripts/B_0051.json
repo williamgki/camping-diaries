@@ -1,0 +1,43 @@
+{
+  "spread_id": "B_0051",
+  "volume": "B",
+  "pdf_page": 51,
+  "pages": [
+    {
+      "page_id": "B_0051_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.1,
+      "notes": "Page is almost entirely covered by a large orange/red folded paper insert glued in. No text visible on this page. The far right edge shows the beginning of the right page content (overlap area)."
+    },
+    {
+      "page_id": "B_0051_R",
+      "side": "R",
+      "handwritten_page_no": 48,
+      "blank": false,
+      "full_text": "went on a day trip to Hanbury Hall 1801 near Droitwich. It's very attractiv[e] with wrought iron gates + lovely views over Worcestershire, near the Malverns. We saw inside an ice house,",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Hanbury Hall", "Droitwich", "Worcestershire", "Malverns"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page contains a large colour photograph of formal parterre gardens with geometric flower beds and paths — likely the gardens at Hanbury Hall. Handwritten text runs vertically on the left margin alongside the photo, then continues horizontally at the bottom. The '1801' appears to be Hanbury Hall's date of construction (built 1701 is more likely — could be misread; diary writes '1801'). The word 'attractive' appears cut off at the right edge as 'attractiv' — final letter unclear. Text continues on next page (sentence ends mid-flow with comma)."
+    }
+  ]
+}

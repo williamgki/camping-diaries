@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0181",
+  "volume": "B",
+  "pdf_page": 181,
+  "pages": [
+    {
+      "page_id": "B_0181_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 1.0,
+      "notes": "Page appears blank apart from a printed decorative wheat/grain motif at the bottom centre. Bleed-through from the right page is visible at the right edge but belongs to the right page."
+    },
+    {
+      "page_id": "B_0181_R",
+      "side": "R",
+      "handwritten_page_no": 1,
+      "blank": false,
+      "full_text": "Friday 14th October 2011\nWe set off, Simon, Eve + Tonic (13) to visit Grandma in the Shruberg at Kidderminster. She agreed to move to Sunrise in Edgbaston. We had a glass of wine.\n    We set off for the farm. On the way Jeremy telephoned to say that Tatana had died that morning. It's very sad.\n    Thomas has started a teacher training course. William is waiting to get liscensed for Samphire. Peter is doing films + has bought an ambassador. John is in the Gambia for 2 weeks in his 2nd year at Swansea + he's bought a glorious red BMA. Charles has just started at Imperial – innovation + entrepreneurship.\n    We arrived at the farm + Kate gave us a delicious supper – 4 little beef wellingtons, roast potatoes, beetroot, carrots + parsnips + blackberry + apple crumble. It was very cold in the night.",
+      "dates": [
+        { "raw": "Friday 14th October 2011", "iso_guess": "2011-10-14", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Kidderminster", "Edgbaston", "the Gambia", "Swansea", "Imperial"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten page number '1' visible in top right corner — likely the first page of a new entry or diary section. 'Shruberg' could also read '[?Shrubery]' or '[?Shrubbery]' — a care home name. 'Sunrise' is likely a care home name in Edgbaston. 'Tatana' is a personal name (possibly 'Tatiana'). 'liscensed' is original spelling (for 'licensed'). 'Samphire' appears to be a business or boat name. 'BMA' likely refers to a car (possibly BMW miswritten, or a model name). 'ambassador' likely refers to a car. Last few words of some lines are slightly cut off at right edge."
+    }
+  ]
+}

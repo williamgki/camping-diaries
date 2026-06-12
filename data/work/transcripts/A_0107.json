@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0107",
+  "volume": "A",
+  "pdf_page": 107,
+  "pages": [
+    {
+      "page_id": "A_0107_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "we drove off & reached __St. Jean de Vaux__ at 10.30. w. of Chalon sur Saone. A gorgeous vingard runs down right to the edge of the campsite. rocky outcrop above! Famous wine names all around. Swimming pool Semion stopped. We washed clothes & swam\nWed.   At 5.30 we went for a walk for an hour through the Burgundy vinyards. It was very hot & quiet, except for John who cried a[?lot] of the way that he wanted a drink of water.\n   At 7.30 we left for supper at \"Hotel de Raisin\" __Givry__. It's quite a large, pretty town, buildings of tired yellow. An imposing building in the middle with a red & yellow patterned, tiled a roof, cf Beaune. The church & other buildings seem C18. (II) windows. Did wealth arrive then, instead of the Middle Ages.\n   They are pruning some of the vines. Some fields have feathery rows, others neat.\n   Charles can make extraordinary motercycle noises after Italy, to suit all sorts & types & riding conditions of motorbikes.\n   We had a delicious meal – one of the best. The woman was very kind helping",
+      "dates": [
+        { "raw": "Wed.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["St. Jean de Vaux", "Givry"],
+      "place_mentions": ["St. Jean de Vaux", "Chalon sur Saone", "Burgundy", "Hotel de Raisin", "Givry", "Beaune"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Top of page has some faint marks that may be remnants of text or smudging; no clear handwritten page number visible. The word after 'cried' is partially cut off — reads as 'a[?lot]' or possibly 'a[?bit]'. The marginal annotation 'Semion stopped. We washed clothes & swam' appears written small above 'Swimming pool'. Date is 'Wed.' with no explicit year; from context (France trip, July, Burgundy) and the right page's 'Thu 29th July', this Wednesday is likely 28th July. Year cannot be confirmed from this page alone — volume covers 1989–2003."
+    },
+    {
+      "page_id": "A_0107_R",
+      "side": "R",
+      "handwritten_page_no": 22,
+      "blank": false,
+      "full_text": "Charles so that he didn't burn himself. John practised his \"Au revoir, Madame\" at the end & was invited to kiss her goodbye, which was quite a shock, but he managed it.\n   We had snails, chicken, frogs legs, caramel custard, cheese icecream.\n__Thu 29th July__\n   John & Charles & I walked into the village to get a stamp & post cards.\n   Simon & Thomas found a wine tasting place & we all walked off to Marc Laborde & tasted & bought a dozen of white & red. Staggered back with Simon carrying 1 dozen & 1st Wm carrying the other case ⅓ mile. Eve hung onto John & Charles.\n   We made it back for a lovely cool swim. The pool is less crowded in the morning.\n   We had lunch & a nap. Then Thomas & Eve went out round the [?ex] village to sit in the shade & sketch. William & Peter swam.\n   John had an icecream because he isn't able to swim.\n   There are 3 groups of children sleeping in",
+      "dates": [
+        { "raw": "Thu 29th July", "iso_guess": null, "confidence": 0.7 }
+      ],
+      "headings": ["Thu 29th July"],
+      "underlined_places": ["Thu 29th July"],
+      "place_mentions": ["Marc Laborde"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number 22 visible at top-right. Date is 'Thu 29th July' but no year is given on this page. 29th July falls on a Thursday in several years within 1989–2003 (e.g. 1993, 1999). The abbreviation '[?ex]' before 'village' may be 'ex' or 'the' struck through. 'Marc Laborde' is likely the name of a wine producer/merchant near St. Jean de Vaux / Givry, Burgundy. Text is cut off at the bottom ('children sleeping in'). The word after '1st Wm' likely refers to a family member William."
+    }
+  ]
+}

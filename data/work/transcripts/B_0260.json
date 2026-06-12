@@ -1,0 +1,50 @@
+{
+  "spread_id": "B_0260",
+  "volume": "B",
+  "pdf_page": 260,
+  "pages": [
+    {
+      "page_id": "B_0260_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "This is another good campsite for families. Swimming pool & cycling. At 9.30, pm there are 26 children in the playground & field.\n\n~~Tuesday~~ Wednesday\nWe motored south west & I got very very very hot in the passengers seat. We had sausages in Grandvieu, a rather sad town where most of the shops were closed - either the owners were on holiday or they were being sold, [?+]. Most odd mannkin/puppets all over. __Valde[?]__ [?Saures]. Spooky. We reached __Entrayques__. The [?campsite] computer knew that we'd been here 2006 + 2010. The [?last] 2006 visit was when Simon & Charles spent hours playing with a plastic bottle & stick in the rapids. I really like Ent... the flat level bridge takes you [?to] right into town. Late, about 8.30, we walked up into town & saw trestle tables & lots of people eating in the square & local produce on sale.\n\n__Thursday__\nA lovely day, reading all day, Simon a book on Turing & I a Clancy whodunnit. I did a 9 kilo wash, everything, that was dry by lunch time. A father & son cycling duo wearing orange & black are in the [?pitch] [?happened]",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "2006", "iso_guess": "2006", "confidence": 0.95 },
+        { "raw": "2010", "iso_guess": "2010", "confidence": 0.95 }
+      ],
+      "headings": ["Wednesday", "Thursday"],
+      "underlined_places": ["Entrayques"],
+      "place_mentions": ["Grandvieu", "Entrayques"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.72,
+      "notes": "Tuesday is crossed out and replaced with Wednesday. 'Valde[?]' and '[?Saures]' may read 'Valdesaures' or similar — unclear due to text partially cut off at right margin. The word after 'the' before 'campsite' is partially obscured. '2006' appears as a superscript correction above 'last'. The last two words on the page are unclear — could be 'pitch happened' or similar. 'Ent...' is an abbreviation for Entrayques. 'Grandvieu' could also be 'Grandview' or another spelling — transcribed as written."
+    },
+    {
+      "page_id": "B_0260_R",
+      "side": "R",
+      "handwritten_page_no": 80,
+      "blank": false,
+      "full_text": "I don't know how they do it. I'm too hot lying in the shade.\n\nBefore supper we walked on the island that gets flooded, & admired all the trees. After we went to bed there was super disco music for dancing until very late.... but Simon was snoring.\n\nFriday We have been getting up later & later which is nice. After breakfast we walked up to the market in town & bought food, bought a girl's dress to copy for the 5 granddaughters. We walked to the 'old Bridge' [sketch of bridge with label: upstream] (13). It is a magnificent building with pointed buttresses on the upstream side & square towers downstream, or the bases for [what were] square towers. It has withstood snow & flood for 700 years.\nThe oldest street in town is hideously decrepit with rotting buildings for sale, which may well be flooded at times.\nAt tea time we invited an Irishman from the",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Friday"],
+      "underlined_places": [],
+      "place_mentions": ["Entrayques"],
+      "route_sketch": true,
+      "route_sketch_description": "A simple hand-drawn sketch of a bridge, showing the upstream elevation with pointed arch buttresses and the downstream side with square towers (or bases). Labeled 'upstream' above the sketch with an arrow. The number '13' appears in a circle beside the sketch, appearing to be an annotation reference.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The page continues text from the left page (Thursday narrative). The bridge sketch is inline within the Friday entry, illustrating the 'old Bridge' at Entrayques. The word 'decrepit' may read 'desecrated' — transcribed as best reading. The phrase 'what were' appears as a superscript insertion above 'square towers'. The page number 80 is clearly visible in the top-right corner. The text cuts off mid-sentence at the bottom ('an Irishman from the'). The year cannot be precisely determined from this page alone; previous visits noted as 2006 and 2010, and this is a subsequent visit — likely 2012–2016 based on volume position and mention of granddaughters (plural)."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0287",
+  "volume": "A",
+  "pdf_page": 287,
+  "pages": [
+    {
+      "page_id": "A_0287_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "because the barrier shut at 10.pm. Peter took a torch to his tent.\n__Monday__\n     It's raining. It rained intermittently all day. Peter washed up breakfast + we set off on the bus. The bus service here is appalling. 3 large, empty buses go the other way, + when our bus arrived it could only take half the people who were waiting.\n     We left at 10 + reached Hamleys at 11. We left John + Charles there for 2 hours (Peter had gone off) + Simon + Eve went to art galleries. We found a beautiful picture of a girl in pink. Eve stopped at Liberty's for Mary Haines' green baize for a card table + Simon helped Charles choose a remote control car. We had lunch on the pavement outside a Pret à Manger. Then we set off for the Science Museum.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": [],
+      "place_mentions": ["Hamleys", "Liberty's", "Pret à Manger", "Science Museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page is a continuation — first line begins mid-sentence ('because the barrier shut at 10.pm'). No handwritten page number visible at top-left. 'Mary Haines' could be a person's name rather than a place. The diarist writes 'Pret à Manger' with accent. Year cannot be determined from this page alone; 0870 phone numbers on the right page suggest late 1990s–early 2000s. 'Monday' is underlined as a day heading."
+    },
+    {
+      "page_id": "A_0287_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Simon looked at maths + computers. Charles saw (rockets) the child area + made a bridge using counter weights.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Science Museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "In 1949 scientists predicted that in the future computers would weigh no more than 1.5 tons — advance bookings 0870 8704771 enquiries 0870 8704868 Sci√m",
+        "Your brain is more active sleeping than it is watching television — advance bookings 0870 8704771 enquiries 0870 8704868 Sci√m",
+        "There are more stars in the universe than grains of sand on the earth — advance bookings 0870 8704771 enquiries 0870 8704868 Sci√m"
+      ],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "The top three-quarters of this page are taken up by three glued-in Science Museum (Sci√m) promotional bookmark/leaflet cards, each bearing a scientific fact and the same advance-bookings phone number (0870 8704771). The 0870 prefix places this no earlier than ~1995. The handwritten text appears below the cards, continuing the narrative from the left page about the visit to the Science Museum. No handwritten page number is visible at the top-right."
+    }
+  ]
+}

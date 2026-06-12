@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0222",
+  "volume": "A",
+  "pdf_page": 222,
+  "pages": [
+    {
+      "page_id": "A_0222_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "five minutes later... we clambered off again, when Simon suddenly realised that we were driving away from the sun. Fortunately another bus just happened to be passing. Thomas ran & flagged it down. Nearly an hour later we passed the campsite, & 15 minutes later we were on the train bound for __Oxford Circus__.\n\tAgain we made a pilgrimage to Liberty's, Fabrics & lighting. We lost Peter briefly. Then we spent nearly an hour in Hamleys. John bought quirky stuff that blows raspberries. Charles bought a Porshe car. Peter bought a hand-shaker trick toy. We went into Next & Burberrys, bought a Coke & set off back to the campsite. Thomas bought tickets for a movie. Pizza hut supper.\n\tEve put John & Charles to bed while Simon took T, W, P to the movie. Cold.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Oxford Circus"],
+      "place_mentions": ["Oxford Circus", "Liberty's", "Hamleys", "Next", "Burberrys"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page is a continuation mid-narrative; no handwritten page number visible in top-left corner. 'Porshe' is the diary's spelling (probably Porsche). 'T, W, P' are initials of family members. The text at the bottom is cut off at 'Cold.' continuing onto the right page."
+    },
+    {
+      "page_id": "A_0222_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Sunday October 26th__\n\tGas wouldn't flare. Simon changed to the red cylinder. Heavy frost on the tents.\n\t\t\t\tThe clocks changed, so we were able to leave at 9.30., catching 2 buses to 7 Sisters & a tube train to Embankment. A marvellous trip down the river on a boat in bright, bright sunshine, with an amusing guide. The boat stopped at Tower Bridge & we circled in front of the Queen's House before docking. It was very beautiful. __Greenwich__\n\tWe visited St. Alphege's Church, with",
+      "dates": [
+        { "raw": "Sunday October 26th", "iso_guess": "1997-10-26", "confidence": 0.55 }
+      ],
+      "headings": ["Sunday October 26th"],
+      "underlined_places": ["Greenwich"],
+      "place_mentions": ["7 Sisters", "Embankment", "Tower Bridge", "Queen's House", "Greenwich", "St. Alphege's Church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "A glued-in red-ink illustrated map/postcard of Greenwich is present on this page, showing: Old Royal Observatory, Planetarium, National Maritime Museum, Romney Road (A200), River Thames, Greenwich Meridian Longitude 0 — this is a printed postcard or tourist map, not a hand-drawn route sketch. 'Sunday October 26th' with clocks changing (British Summer Time ending) narrows the year: Oct 26 was a Sunday in 1997 and 2003 within the volume range; 1997 is preferred given broader trip context but cannot be confirmed from this page alone. No handwritten page number visible in top-right corner. Text ends mid-sentence ('with') continuing onto the next spread."
+    }
+  ]
+}

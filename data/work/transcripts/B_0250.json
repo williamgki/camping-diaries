@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0250",
+  "volume": "B",
+  "pdf_page": 250,
+  "pages": [
+    {
+      "page_id": "B_0250_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Westbury Court Garden originally laid out 1696-17[illegible]\nRestored with original plante 1967 N.T.\n(Before Capability Brown)    lovely tulips &\nOn home for tea.              apple trees",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Westbury Court Garden"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Enjoy Westbury Court Garden — Rediscover a formal Dutch water garden (National Trust brochure cover, glued in)"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page is dominated by a glued-in National Trust brochure/leaflet for Westbury Court Garden. Handwritten annotations appear below the brochure. The date '1696-17[illegible]' refers to the garden's original layout date; the final two digits of the end year are cut off or unclear. 'plante' likely = 'plants' (original spelling preserved). No handwritten page number visible on this side."
+    },
+    {
+      "page_id": "B_0250_R",
+      "side": "R",
+      "handwritten_page_no": 70,
+      "blank": false,
+      "full_text": "Friday 29th May.\nSimon, Eve, Tinder left at 6 for Coughton\nCourt. We are in a farmer's field. ****\nGood foot path walks.\n__Saturday__\nWe walked about 3 miles by the river\n& left Tinder in the van. Lunch in the\ncourtyard block, then explored the house\n& garden [?for] of the Throckmorton family.\nlived here for 600 years. Catholic. One\nwoman had 19 children who all survived\nOwen priest's hole. Lovely house & garden.\nOf the 13 people implicated in the gun-\npowder plot, 7 were related to the\nThrockmortons.\nWe suppered in the van. It was cold.\n__Sunday__ We went to see a nearby NT [illegible]\ndovecote. [?If] with ladder intact, it was\namazing. The bird perches were staggered\nin the way they pointed.\nWe walked by the river &\ngot home for lunch.",
+      "dates": [
+        { "raw": "Friday 29th May", "iso_guess": "2009-05-29", "confidence": 0.55 }
+      ],
+      "headings": ["Saturday", "Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Coughton Court", "Westbury Court Garden"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page number 70 visible top-right corner. 'Tinder' appears to be the family dog (left in the van). 'Owen priest's hole' refers to Father John Gerard's priest hole at Coughton Court (associated with the Throckmorton family and the Gunpowder Plot). 'NT' = National Trust. 'dovecote' — word before it is largely illegible, possibly 'kiln' or a place name. The year is uncertain: 'Friday 29th May' matches 2009 or 2015 within the volume's 2003–2019 range; 2009 assigned as best guess given earlier placement in the volume (handwritten page 70), but confidence is low. '[?for]' — small word between 'garden' and 'of' is unclear. Some decorative stamp/sticker marks visible (asterisks noted as '****' in text, and a wheat-ear motif at page foot which is a printed diary decoration, not handwritten)."
+    }
+  ]
+}

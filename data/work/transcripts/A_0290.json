@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0290",
+  "volume": "A",
+  "pdf_page": 290,
+  "pages": [
+    {
+      "page_id": "A_0290_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "in honour of Sam Wanamaker's birthday.\n\n        We tried to get back to the campsite for 4.30. But yet again the bus didn't come. So we got in a taxi. But his engine was flat, so he had to use jump leads from another taxi. So we only left at 4.40. Peter was already there. He had been at Covent Garden.\n        We shan't be coming to Picketts Lock again, because it the cinema building is being demolished for a national athletics centre. But we probably wouldn't have come again anyway, because the bus service is so bad + with only 2 boys we'll stay in a hotel.\n        I now have a portable CD player which makes driving along very pleasant.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Covent Garden", "Picketts Lock"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "This is a continuation page — the text begins mid-sentence ('in honour of Sam Wanamaker's birthday.'). No handwritten page number visible at top-left. The right margin contains partial pink text from the right-hand page gutter overlap, not transcribed here. 'Picketts Lock' is a leisure centre/athletics venue in Edmonton, North London. Year not directly stated on this page; the facing page (A_0290_R) bears the date 'Friday 4th May. 2001', suggesting this left page is also from the same trip, likely late April/early May 2001."
+    },
+    {
+      "page_id": "A_0290_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Friday 4th May. 2001\n\n5.15.  Simon, Charles, Eve + Tonic left with our 3 bikes (Simon's + Eve's new collapsible bikes) for Bath; we want to go on the Bath/Bristol cycle path. A bank holiday w/end, so lots of traffic.\n                        __Bath Marina****__\n\nSaturday 5th May\n        Bright sunshine, but cold north wind. We set off on a bike ride. The campsite is sheltered, but it's quite cold riding. We have to put Tonic on a lead because he darts in front of cyclists. Simon trained him to run on the left. We cycled to Bitton railway station, where they have steam trains. It was 11 miles around trip. We had a picnic lunch back at the van.\n        In the afternoon Simon + Charles + Tonic set off to Bath to see where to tie up bikes the next day. Eve read. Tonic came back too tired [strikethrough: out] to eat supper. (16 miles he'd run)",
+      "dates": [
+        { "raw": "Friday 4th May. 2001", "iso_guess": "2001-05-04", "confidence": 0.97 },
+        { "raw": "Saturday 5th May", "iso_guess": "2001-05-05", "confidence": 0.97 }
+      ],
+      "headings": ["Bath Marina****"],
+      "underlined_places": ["Bath Marina****"],
+      "place_mentions": ["Bath", "Bristol", "Bath Marina", "Bitton railway station", "Bitton", "Bath"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.88,
+      "notes": "Text is written in pink/magenta ink throughout. A handwritten number appears in the top-right corner but is partially cut off — looks like '3' followed by additional digit(s), could be '3[?]'; recorded as null since full number cannot be confirmed. 'Bath Marina****' appears underlined with four asterisks, likely indicating a campsite name and rating. 'Tonic' appears to be the family dog. The word 'out' in the final sentence is struck through in the original. 'Bitton railway station' likely refers to Bitton Station on the Avon Valley Railway (steam heritage railway). The left margin contains partial blue text from the left-hand page gutter overlap, not transcribed here."
+    }
+  ]
+}

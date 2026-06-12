@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0212",
+  "volume": "B",
+  "pdf_page": 212,
+  "pages": [
+    {
+      "page_id": "B_0212_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "given me nurofen, Simon has given me 2 glasses of Cremant de Bourgogne & it's wonderful to have no pain.\n\tTinder is awful at pulling on the lead when we're near sheep.\n\tTopiaried hedges with peacocks. The land lady & husband (who died 2 years ago) have been there 50 years.\n\tA DoE Bronze group were there.\n\n__Saturday~~ Sunday__\n\tLovely sunny morning. We sat & chatted & read after breakfast. The DoE children formed a line & swept thro meadow looking for tith litter. After coffee we walked across the reservoir bridge. Then we had lunch & left. Tinder was behaving better by the end of the holiday.\n\n__Saturday May 25th__ Peter's birthday.\n11 Simon, Eve & Tinder left to go to Ansted so that Annette can chat with her executors, Kate (with baby Milo) & Eve. Kate, Annette & Eve meet on the Saturday. Pernille joined",
+      "dates": [
+        { "raw": "Saturday Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Saturday May 25th", "iso_guess": "2013-05-25", "confidence": 0.85 }
+      ],
+      "headings": ["Saturday Sunday", "Saturday May 25th Peter's birthday."],
+      "underlined_places": [],
+      "place_mentions": ["Ansted"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page continues from previous spread (starts mid-sentence). 'Saturday Sunday' heading appears to have 'Saturday' struck through or written over with 'Sunday' — transcribed as both with strikethrough marker. 'tith litter' may be [?tith] — unclear word, possibly 'tith' or 'litter' combined oddly; reads as 'tith litter' in context. 'Ansted' is the place name as written — could be Ansted/Anstead or a local village. Year 2013 confirmed: May 25 2013 was a Saturday, consistent with June 15 2013 also being a Saturday (see right page). 'executors' may relate to estate/probate context for Annette."
+    },
+    {
+      "page_id": "B_0212_R",
+      "side": "R",
+      "handwritten_page_no": 32,
+      "blank": false,
+      "full_text": "us on Sunday. We discussed Annette's care while Simon went on a bike ride. After Sunday lunch we head towards Richard Holroyd in Cambridge. He was not in. So we made a cup of tea & drove home.\n\n__Saturday June 15th__\n9.40. we leave for the south of England. We visit Standen, the Beale family home, a lovely Arts & Crafts house 1880. The interior is furnished as if from 1920. Mrs. Beale & 2 of her daughters sewed magnificent wall hangings, bedspreads, cushions & chair seats. In the dining room",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2013-05-26", "confidence": 0.7 },
+        { "raw": "Saturday June 15th", "iso_guess": "2013-06-15", "confidence": 0.9 }
+      ],
+      "headings": ["Saturday June 15th"],
+      "underlined_places": [],
+      "place_mentions": ["Cambridge", "south of England", "Standen"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Two glued-in photos: one showing a cosy library/sitting room interior with an armchair and bookshelves, one showing a garden with purple flowers (verbena-like) in front of a brick arch/window — likely photos of Standen. Text continues onto next page (ends mid-sentence 'In the dining room'). Richard Holroyd location given as Cambridge. Standen is a National Trust Arts & Crafts house in West Sussex, consistent with 'south of England'."
+    }
+  ]
+}

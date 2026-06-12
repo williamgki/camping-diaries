@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0213",
+  "volume": "B",
+  "pdf_page": 213,
+  "pages": [
+    {
+      "page_id": "B_0213_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "some of the chairs have a mythical beast in very small tapestry in the middle, sewn by the Royal College of Needlework & the Beale women sewed the surroundings. Philip Webb designed the house, Morris & Co did many of the textiles, William de Morgan ceramics. The bedroom has really lovely Gimson furniture, 4 or 5 pieces. [?Voyag-] Nice grounds. We got lost in the woods & nearly arrived late at Janny's mother's house. §Sonja lives in a big house at Capel in a huge house divided into 14 flats.\n\tThere's a swimming pool & tennis court. lovely big airey rooms & views of woods\nR & L [box]   We had a good meal & slept [?counter] in the van on the drive.\n\t__Sunday__ we went to Mass with Sonja St. John's Horsham. Great noisy children at the back, a nice service.\n\tOff to __Partridge Green__ where we are on a __Farm__ *** with easy cycling onto the Downs Link cycle path.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Partridge Green", "Farm"],
+      "place_mentions": ["Capel", "Horsham", "Partridge Green", "Downs Link"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Text begins mid-sentence continuing from a previous page, describing a visit to a historic house (likely Standen, given the Royal College of Needlework, Philip Webb, Morris & Co, William de Morgan, and Gimson references). 'St. John's Horsham' is a church name. A small boxed annotation 'R & L' appears in the margin alongside 'counter' which may be a different word — possibly 'ounter' or 'number'. The annotation '[?Voyag-]' is a faint word, possibly 'Voyage' or a surname. 'Farm ***' appears to mean a farm campsite rated three stars."
+    },
+    {
+      "page_id": "B_0213_R",
+      "side": "R",
+      "handwritten_page_no": 53,
+      "blank": false,
+      "full_text": "[glued-in map: Route of the Downs Link, showing hills/terrain cross-section with places labelled: Shoreham, South Downs, Clay Vale, Greenwood Rdge, Southwater, [illegible], Cowfold, High Weald, North Downs, Guildford. Handwritten annotation on map: \"we cycled 10k & 10k back\" and printed caption \"— Route of the Downs Link\"]\n\nIt was a particularly pleasant bike ride because it didn't have demon [f]ast cyclists. They are out on the downs. There were quite a few families, an old lady & man with a dog in a push chair & even Batman & Robin. The cycle route was a railway line axed by Beeching. We could see Lancing College\n\n[glued-in business card: The Steyning Tea Rooms / Open 7 days a week 10-6 / www.steyningtearooms.co.uk / 32 High Street / Steyning / West Sussex / 01903 810103 / Kim Cook / Proprietor / info@steyningtearooms.co.uk]\n\nchapel in the distance. At Steyning we had a stupendous tea - rhubarb scones, rhubarb jam & then set off home, back to the van",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Downs Link", "Shoreham", "South Downs", "Clay Vale", "Greenwood Rdge", "Southwater", "Cowfold", "High Weald", "North Downs", "Guildford", "Lancing College", "Steyning"],
+      "route_sketch": true,
+      "route_sketch_description": "Glued-in printed map showing a terrain cross-section of the Downs Link route, with place labels from west to east: Shoreham, South Downs, Clay Vale, Greenwood Rdge, Southwater, [illegible], Cowfold, High Weald, North Downs, Guildford. A dashed line marks the cycle route. Handwritten annotation reads 'we cycled 10k & 10k back'. Printed caption reads '— Route of the Downs Link'.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page contains a glued-in printed map/diagram of the Downs Link cycle route and a glued-in business card for The Steyning Tea Rooms. The word before 'cyclists' looks like 'fast' with a small 'f'. Text is cut off at the bottom mid-sentence continuing from the left page. The Downs Link is a cycling/walking route in West Sussex/Surrey, England. Lancing College is a school near Shoreham-by-Sea with a distinctive chapel visible from the Downs Link. The year cannot be determined from the text alone; volume B covers 2003–2019."
+    }
+  ]
+}

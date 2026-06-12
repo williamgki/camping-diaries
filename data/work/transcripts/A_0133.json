@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0133",
+  "volume": "A",
+  "pdf_page": 133,
+  "pages": [
+    {
+      "page_id": "A_0133_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Simon thinks the swimming is too dangerous for John & Charles. We went out to __Restaurant des Grottes__ & had pâté, lamb & floating island or Oeufs dans la neige.\n__August 5th Friday.__\n      We reached __Vézelay__. It's on a hill. Glorious. 5 different carvers. Great skill in showing movement & skin, muscle & bone. A lovely long old street to walk up cf Conques. It was the start of pilgrimages to Compostella. St. Bernard preached a crusade. The Tympanum has a Christ who welcomes pilgrims, seeming to move out towards them. They all look happy & excited. I pointed out David & Goliath to Thomas & William. Simon & I saw Lazarus & Dives & the mystied mill. Moses, OThaw = grain. Christ is mill & Apostles.\n      William has spent ages negotiating hair gel, instructions & sale – 5p a squirt to Peter. John & Thomas went to fetch bread. Charles has bought Duplo.\n\n[hand-drawn sketch of a hillside landscape with a building silhouette]\nView from lunch picnic on a hill after leaving Vézelay.",
+      "dates": [
+        { "raw": "August 5th Friday", "iso_guess": "1994-08-05", "confidence": 0.5 }
+      ],
+      "headings": ["August 5th Friday."],
+      "underlined_places": ["Vézelay", "Restaurant des Grottes"],
+      "place_mentions": ["Vézelay", "Conques", "Compostella", "Restaurant des Grottes"],
+      "route_sketch": true,
+      "route_sketch_description": "A simple pen sketch of a hillside landscape with what appears to be a building or structure on the hill, captioned 'View from lunch picnic on a hill after leaving Vézelay.'",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "'mystied mill' may be 'mystic mill' — a carved tympanum motif at Vézelay. 'OThaw = grain' — uncertain reading, possibly 'OThaw' is a name or abbreviation for something in the iconography. Date year is uncertain: August 5th falling on a Friday fits 1994 among years in the 1989–2003 range, but the year cannot be confirmed from text alone — the confidence is therefore moderate."
+    },
+    {
+      "page_id": "A_0133_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[glued-in black and white photograph of a stone carved relief showing two figures with a millstone/wheel between them, Romanesque style]\n\nWe drove 40 minutes south & the campsite where we had wanted to stay, by a big lake, was crowded, so we came back along the winding road to [?hormes]. * * * *\n      The campsite is at the end of a long, ugly",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["[?hormes]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["[photograph of Romanesque stone carving, two figures with a wheel/millstone — likely from Vézelay tympanum]"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "The place name after 'winding road to' reads '[?hormes]' — could be a village name; possibly 'Lormes', 'Mormes', or another place near Vézelay in Burgundy. The text is cut off mid-sentence ('long, ugly') at the bottom of the page — continues on the next spread. The asterisks '* * * *' appear to be a section break or editorial mark."
+    }
+  ]
+}

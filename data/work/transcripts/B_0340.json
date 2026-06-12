@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0340",
+  "volume": "B",
+  "pdf_page": 340,
+  "pages": [
+    {
+      "page_id": "B_0340_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 1.0,
+      "notes": "Left page appears blank. Text visible at the far right edge of the scan image is in the gutter overlap zone and belongs to the right page."
+    },
+    {
+      "page_id": "B_0340_R",
+      "side": "R",
+      "handwritten_page_no": 41,
+      "blank": false,
+      "full_text": "__NEW VAN__    Peugeot Boxer\n\n27 October 2020\nSet off quite soon after breakfast to rural Bedfordshire to pick up a wine rack that Simon had ordered. This happened to be near an English Heritage site, Wrest Park, that Peter had suggested for a meet up after not seeing Peter, Nana and the children for a long time due to Covid restrictions.\n We parked and the green Mercedes arrived soon after.    Unfortunately the weather turned very unpleasant.\n        We endured stories out doors in sleety rain at the conservatory, old stables, etc. which Nini insisted on attending all three. It was bloody cold but lovely to see the family.\n        Intending to visit Judith the next day, we looked up and found a small campsite near Berkhamstead.   We were the only campers but the owner strolled down to meet us in the dark. He was a campervan enthusiast.\n        In the morning we did a 1½ hour round trip walk over hillsides overlooking the West Coast Main Line and Grand Union Canal, returning to the van along the towpath.",
+      "dates": [
+        { "raw": "27 October 2020", "iso_guess": "2020-10-27", "confidence": 0.99 }
+      ],
+      "headings": ["NEW VAN    Peugeot Boxer"],
+      "underlined_places": [],
+      "place_mentions": ["Bedfordshire", "Wrest Park", "Berkhamstead", "West Coast Main Line", "Grand Union Canal"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "Date 2020-10-27 is clearly written. The heading 'NEW VAN Peugeot Boxer' is written in larger letters at top, not underlined but serves as a heading. Volume B covers 2003-2019 but this entry is clearly dated 2020 — the volume may have extended beyond 2019. 'Berkhamstead' is the diary's spelling (standard spelling is Berkhamsted). 'Peugeot' spelled as written. Simon, Peter, Nana, Nini, Judith are personal names."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0313",
+  "volume": "B",
+  "pdf_page": 313,
+  "pages": [
+    {
+      "page_id": "B_0313_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Thursday May 31st.\n5.15. We set off for the farm. Nina fell backwards off to top stairs. Somersaulted ghastly. But she was OK. Bryony gave us a good supper. We slept in the garage courtyard because wet, thunderstorm Friday Simon was in the hop barn. Then we admired Jamie's new mowing machine (robot). We stopped in Bromyard + went on to __Eardisland__. A very pretty village near Leominster. Black & white houses. Flowers. We wandered into a house drive of a very overgrown house, we thought it was deserted, but a very cross voice said \"Who are you?\" + we ran away.\nDelicious supper in the pub. Steak & kidney pie with suet pastry + yummy veg. I ate too much + couldn't sleep.\nSaturday\n  We walked around Burton Hall. (Burr = fortified dwelling) + saw rows of apple trees - difficult to tell what they are from a distance. Very beautiful + verdant lanes.\n[right margin, rotated:] Shobodon Church. 1750",
+      "dates": [
+        { "raw": "Thursday May 31st", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Thursday May 31st.", "Saturday"],
+      "underlined_places": ["Eardisland"],
+      "place_mentions": ["Bromyard", "Eardisland", "Leominster", "Burton Hall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Year cannot be determined from the page; 'Thursday May 31st' narrows to years where May 31 falls on a Thursday within the 2003–2019 range (e.g. 2007, 2012, 2018). 'Burr = fortified dwelling' appears to be the diarist's gloss on Burton Hall. Right margin contains rotated text 'Shobodon Church. 1750' which continues as a photo caption on the right page. The hall visited could be Berrington/Burton Court in Herefordshire near Eardisland — could also be read as 'Burtton Hall'."
+    },
+    {
+      "page_id": "B_0313_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Unfortunately the way back, footpath, was thro a field of cows. I was too nervous, so we walked the last kilo on a main road.\n  When we got back to the flat, boggy campsite, yet another camping van had got stuck & Simon help push it out.\n[photo caption, rotated:] Shobodon Church. 1750\nOgive arches.\nlovely old Romanesque font with lions",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Shobodon Church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Shobodon Church. 1750 Ogive arches. lovely old Romanesque font with lions"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Photo shows the interior of Shobodon Church (St John the Baptist, Shobdon, Herefordshire), which is well known for its rococo Gothic interior. The caption 'Ogive arches. lovely old Romanesque font with lions' is written vertically in the left margin alongside the photo. The diarist's spelling 'Shobodon' is verbatim; the standard spelling is Shobdon."
+    }
+  ]
+}

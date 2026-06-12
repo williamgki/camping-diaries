@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0119",
+  "volume": "B",
+  "pdf_page": 119,
+  "pages": [
+    {
+      "page_id": "B_0119_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Before looking at the Cathdral we had pizza from a real wood-fired oven. The pizza rested directly on the hot stones.\n\n   On & to __Connantre__ for the night. Simon paddled in the lake, Eve swam & the girls watched. A long, sandy Beach.\n                                  2 squatter\n                                  bos\n\n[glued-in newspaper clipping with image of person using long-handled paddle at wood-fired oven, caption reads: \"Nous cuisons dans nos fours l'ensemble de nos pains pour qu'ils obtiennent une mie moelleuse et une croûte croquante et bien dorée.\"]\n\nTuesday\n   We drove for 1 hour & shopped at Arcis-sur-Aube where Simon & Melody & Charlotte did a huge Supermarket Shop. The girls liked the Chaource cheese & Prawn. A long, long day's drive from 9.30-6.15 They swam at the small pool when we got here to Le Beau Sejour * * *.\n   There are Chinese Students (management at Lyons) working as fruit packers, staying at the camp for 2 months, 2 of them from Shanghai. Also cars from Czech & Lithuania. I slept well. It's warmer.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Tuesday"],
+      "underlined_places": ["Connantre"],
+      "place_mentions": ["Connantre", "Arcis-sur-Aube", "Le Beau Sejour", "Lyons", "Shanghai", "Czech", "Lithuania"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Nous cuisons dans nos fours l'ensemble de nos pains pour qu'ils obtiennent une mie moelleuse et une croûte croquante et bien dorée."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Top of page is slightly cut off — no handwritten page number visible. The marginal annotation '2 squatter bos' is unclear; 'bos' may be an abbreviation. 'Connantre' could also read 'Connantre' or possibly 'Connantré' — a village in Marne, France. The newspaper clipping is in French and relates to wood-fired bread ovens. 'Chaource' cheese is a specialty of the Aube region, consistent with Arcis-sur-Aube. Year cannot be determined from this page alone; context suggests a French camping trip, volume B covers 2003–2019."
+    },
+    {
+      "page_id": "B_0119_R",
+      "side": "R",
+      "handwritten_page_no": 57,
+      "blank": false,
+      "full_text": "Wednesday                                                 57\n   We left the motorway & went through Valreas in Provence, & reached N.D. des Vignes, an old pilgrimage site in a pine plantation. The nun said that the hermitage well had run dry & she wished they could have some rain from the English floods! She asked Melody & Charlotte if they could hear the grasshoppers\n\nReims Cathedral\n1974 Chagall\nleft lancet\nVirgin &\nChild\n\n[large glued-in colour photo of Chagall stained glass window depicting Virgin and Child]",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Valreas", "Provence", "N.D. des Vignes", "Reims Cathedral"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Reims Cathedral 1974 Chagall left lancet Virgin & Child"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The text ends mid-sentence with 'grasshoppers' — the sentence likely continues on the next page. 'N.D. des Vignes' is Notre-Dame des Vignes, a pilgrimage site. The photo caption is written beside the large Chagall stained glass photo and describes the Reims Cathedral Chagall window from 1974. The Wednesday entry seems to describe a different day/location from the Tuesday entry (Provence vs Aube region), suggesting pages may span multiple days of a longer trip. Year cannot be confirmed from content alone."
+    }
+  ]
+}

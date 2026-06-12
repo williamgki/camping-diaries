@@ -1,0 +1,53 @@
+{
+  "spread_id": "B_0074",
+  "volume": "B",
+  "pdf_page": 74,
+  "pages": [
+    {
+      "page_id": "B_0074_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "At 6.15. we set off for Moustiers, about 15min walk along the road. We left early in order to see the church, but the only part of town closed was the church... we wandered through shops + looked at the Faience ware. Its very pretty. Simion liked a sweetie jar + I liked a set of modern plates with animals. Original ware was made only in ~~white~~ on blue on white. Louis Quatorze persuaded his nobles to give him their silver dinner services + use faience instead. Later families added other colours. 1793 saw a steep decline, factories finally closing in 1875. In 1903 it was restarted as a local industry. We both liked a fretted fruit bowl.\n\tTuesday evening was the market. We had a good supper - tagliatelle, pizza + crêpes. Charles was very full.\n\tMoustiers has a star because [?kit] a knight on the 7th Crusade (1200?) was captured + a prisoner for many years. He vowed that if he got home to Moustiers again, he'd hang a star on a chain between the cliffs over the high-up chapel... + he did. The star has hung there since, except when the chain breaks.\n\tJohn beat Eve at ping-pong when we got back - 21-12, whereas previously he has",
+      "dates": [
+        { "raw": "Tuesday evening", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "1793", "iso_guess": "1793", "confidence": 0.95 },
+        { "raw": "1875", "iso_guess": "1875", "confidence": 0.95 },
+        { "raw": "1903", "iso_guess": "1903", "confidence": 0.95 },
+        { "raw": "1200?", "iso_guess": "1200", "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Moustiers"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page continues from a previous spread; text starts mid-sentence with 'At 6.15.' Top of page not visible (cut off or no page number). The word before 'a knight' is unclear — could read 'kit' or possibly an abbreviation. The strikethrough on 'white' is original (written then crossed out, replaced with 'on blue on white'). Right-side margin shows faint bleed-through of right-page text ('bea', 'We', 'Ve', 'Ma', '(Rou'). Year for this entry cannot be confirmed from this page alone (volume covers 2003–2019; content references Moustiers-Sainte-Marie, France)."
+    },
+    {
+      "page_id": "B_0074_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "beaton Simion 21-11.\n__Wednesday__\n\tWe left early to explore the Gorges of Verdon. They were originally explored by Martel, (d. 1936). There are various roads. (Routes des Crêtes goes near the rim). We went from",
+      "dates": [
+        { "raw": "21-11", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "d. 1936", "iso_guess": "1936", "confidence": 0.8 },
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": ["Wednesday"],
+      "place_mentions": ["Gorges of Verdon", "Routes des Crêtes"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["MOUSTIERS Ste-MARIE — cité de la faïence"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Upper portion of the right page is dominated by a glued-in tourist postcard/brochure for Moustiers-Sainte-Marie ('cité de la faïence') showing photos of the village, the star on a chain, and a piece of faience ware. The printed text on the postcard reads 'MOUSTIERS Ste-MARIE' and 'cité de la faïence'. Handwritten text below resumes: 'beaton Simion 21-11.' likely means 'beaten Simon 21-11' (ping-pong score continuation from left page). 'Wednesday' is underlined. Text is cut off at page edge with 'We went from'. 'Martel' likely refers to Édouard-Alfred Martel, French speleologist (1859–1938); 'd. 1936' may be approximate or slightly inaccurate. Routes des Crêtes could also read 'Route des Crêtes'. Year for this entry not determinable from page content alone."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0110",
+  "volume": "A",
+  "pdf_page": 110,
+  "pages": [
+    {
+      "page_id": "A_0110_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We went to Restaurant du Centre for a meal in the evening, just around the corner. It was delicious. As usual, we ordered 6 meals, with an extra plate for J + C to share. The food was delicious, but dreadfully slow. The first course took 50 minutes to reach the table (eggs + wine [?lees]) the second course 40 minutes (duck/rabbit) + overcooked veg, + the pud. 30 minutes - (sorbet, floating island + crème caramel) with frequent trips to the loo to wipe bottoms in between. Alto gether, it wasn't nearly as enjoyable as the previous evening.\n\n__Friday 30th July__\n\n    Packed up amid much bickering + drove to an E.Leclerk supermarket.\n    Set off on a long drive up towards Calais 12.00. Drove + drove, played 'Spot It.'\n    We reached Lumbres [?***] at 9. pm. John + Charles got filthy in the play ground. We left early + didn't see the swimming pool, but the river looked pretty.",
+      "dates": [
+        { "raw": "Friday 30th July", "iso_guess": "1993-07-30", "confidence": 0.55 }
+      ],
+      "headings": ["Friday 30th July"],
+      "underlined_places": [],
+      "place_mentions": ["Restaurant du Centre", "E.Leclerk", "Calais", "Lumbres"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.82,
+      "notes": "Text begins mid-paragraph — continuation from previous spread. No handwritten page number clearly visible in the top-left corner; a faint number may be present but is not legible. The word after 'Lumbres' appears to be three or four asterisk/illegible characters (possibly a campsite code or stars rating). 'J + C' refers to John and Charles. Blue ink is used for the 'Set off on a long drive up towards Calais 12.00. Drove + drove, played Spot It.' section (different pen from the surrounding black ink). 'E.Leclerk' = E.Leclerc supermarket chain. 'Friday 30th July': within volume A (1989–2003), July 30 falls on a Friday in 1993 and 1999; the surrounding pages (A_0105) suggest a July 1993 Italy trip, making a return journey through France on 30 July 1993 plausible — year set to 1993 tentatively. 'Restaurant du Centre' and 'Lumbres' (town in Pas-de-Calais, northern France near St-Omer) are consistent with a return route to Calais. The word 'roaded' appears as a superscript correction above 'eggs + wine' — possibly 'coated' or describing how the eggs were prepared; transcribed as the annotation appears."
+    },
+    {
+      "page_id": "A_0110_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Watertower\nOutside E.Leclerk\nnear Chalons s. Saone",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["E.Leclerk", "Chalons s. Saone"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Watertower / Outside E.Leclerk / near Chalons s. Saone"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "The page is dominated by a detailed pen-and-ink sketch of a water tower (a large flared/conical top on a cylindrical column, with hatching for shade). The caption written below the sketch reads 'Watertower / Outside E.Leclerk / near Chalons s. Saone'. 'Chalons s. Saone' = Chalon-sur-Saône, a city in Burgundy, France. This implies the route south passed through or near Chalon-sur-Saône before turning north on 30 July. Faint yellowish text is visible in the background around the sketch — this appears to be show-through from the reverse of the sheet (text from the next spread bleeding through thin paper) and has not been transcribed as it belongs to a different page. A faint '2.' is visible in the very top-right corner but is uncertain; it may be show-through rather than a page number on this page. No route sketch (the drawing is a building illustration, not a map or route diagram)."
+    }
+  ]
+}

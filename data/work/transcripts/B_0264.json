@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0264",
+  "volume": "B",
+  "pdf_page": 264,
+  "pages": [
+    {
+      "page_id": "B_0264_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday 15 Aug It's a nice hotel, good breakfast. Clean, good quality bed linen + towels. We have set off towards the Channel Tunnel. Simon was fed up yesterday - mob screen cracked, he drove forward into an unseen bollard at the bread shop. And no passport for Helen. But the rest of then trip seems to have gone smoothly. Jams on road out of Kent + M25. But we saw Charles + Jenny (new digs) at Oxford, on the way home.\n\n__Friday 4th Sept__\nSimon + [?Tinder] drove across to Cambridge, bad road works on A14. Arrived 1.30. in time for Annette's Memorial lunch. The day before Eve had been at the FCO for [?Wasbuton] Room dedication + then travelled from London to Cambridge by train with Beth, Ted, [?Aetex] + Edith Alston. John had treated us all before hand to lunch at Farmers' Club. David + [?Natalise] saw him to his bus stop for the train. On Thursday morning a taxi had taken us out to the newly laid stone on her ashes next to [?Pearl], + we talked about Annette in the church. The Lucy Cavendish",
+      "dates": [
+        { "raw": "Saturday 15 Aug", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Friday 4th Sept", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Friday 4th Sept"],
+      "underlined_places": [],
+      "place_mentions": ["Channel Tunnel", "Kent", "M25", "Oxford", "Cambridge", "A14", "London", "Farmers' Club"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Page number not visible (cut off or on prior page). 'Tinder' could be a person's name or misread; 'Wasbuton' likely 'Warburton' or similar room/person name at the FCO; 'Aetex' is uncertain — possibly a name; 'Natalise' could be 'Natalie'; 'Pearl' is the name next to which Annette's ashes stone was laid — could also read 'Pearce' or similar. No year on page; 'Friday 4th Sept' falls on a Friday in 2009 and 2015 within the volume range. Top of left page is a continuation mid-paragraph from previous spread."
+    },
+    {
+      "page_id": "B_0264_R",
+      "side": "R",
+      "handwritten_page_no": 84,
+      "blank": false,
+      "full_text": "[...C]ollege Memorial went well, with hymns, Amazing Grace + I bow to thee by my country + Beth gave one of the speeches.\n\tThe FCO concentrated on her trail-blazing as a woman, Sir Richard Dales spoke about [her?] as a diplomat, Dr. Jane [?Renfrews] about her work in LCC, Beth about Bosnian women + the family + Pauline Perry of LCC. Then tea.\n\tThen Simon + I set out back westwards to __the [?Arlingworth] Lodge Campsite__, next to the village.\n__Saturday__\n\tWe chatted in bed for ages + then set off on a bike ride a disused railway, all the way to Brixworth where we had fish + chips at the pub. The saxon church 640 AD is very impressive. Beautiful stone. Apparently in C5 saints remains in Rome were moved out of the catacombs to under city churches because of Lombarian invaders. Here at Brixworth, they re-created the same ideas as the Romans - under ground passageways",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["[?Arlingworth] Lodge Campsite"],
+      "place_mentions": ["Lucy Cavendish College", "[?Arlingworth] Lodge Campsite", "Brixworth", "Rome"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.80,
+      "notes": "Page continues from left page mid-sentence (starts '[...C]ollege Memorial'). 'Arlingworth' is uncertain — could be 'Arlingworth' (a village near Brixworth, Northamptonshire) or 'Arlingworth'; campsite name underlined with 'the' superscripted above. 'Renfrews' could be 'Renfrew' (Dr. Jane Renfrew was a Cambridge botanist/archaeologist, consistent with context). 'Lombarian' is diary spelling (standard: Lombard). 'C5' = 5th century. Page ends mid-sentence, continues on next spread. The '***' annotation visible between lines near the campsite name appears to be an annotation or correction mark."
+    }
+  ]
+}

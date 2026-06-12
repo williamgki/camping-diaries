@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0148",
+  "volume": "A",
+  "pdf_page": 148,
+  "pages": [
+    {
+      "page_id": "A_0148_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "WHITE MOSS HOUSE\n\nRydal Water\nTel. Grasmere 35295\n\nWEDNESDAY 3 MAY 1995\n\nCarrot, coriander, lentil and orange soup\n****\nA bombe of brill with a centre of Bonchester Brie wrapped in smoked salmon\nSorrel and watercress sauce\n****\nRack of Westmorland Herdwick spring lamb roasted with a herb crust of parsley, sage, rosemary and thyme (served pink unless otherwise requested)\nRecurrant, mint and merlot sauce\nPotato splits\nAubergines cooked with sesame oil and three peppers\nSteamed cauliflower\nStir fried fine green beans\n****\nSticky chocolate hazelnut cream slice\nCabinet pudding with fluffy lemon sauce (a hot, light steamed lemon pudding coated in raisins)",
+      "dates": [
+        { "raw": "WEDNESDAY 3 MAY 1995", "iso_guess": "1995-05-03", "confidence": 0.99 }
+      ],
+      "headings": ["WHITE MOSS HOUSE"],
+      "underlined_places": [],
+      "place_mentions": ["Rydal Water", "Grasmere", "Bonchester"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "This page is a printed/typed restaurant menu card glued into the diary as a souvenir. The card is oriented sideways (rotated 90 degrees). 'Bonchester' refers to Bonchester Bridge / Bonchester Brie (a Scottish cheese). 'Recurrant' is the menu's spelling (recurrent/redcurrant). 'Westmorland Herdwick' — Westmorland is a historic county of the Lake District."
+    },
+    {
+      "page_id": "A_0148_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sticky chocolate hazelnut cream slice\nCabinet pudding with fluffy lemon sauce (a hot, light steamed lemon pudding coated in raisins)\nBanana ice cream\n****\nBritish cheeses with White Moss oat biscuits\n***\nCoffee\n\nMay we suggest a glass of Brown Brothers' Orange Muscat and Flora 19[illegible] with your dessert? £3.50\n\nTo avoid discomfort to others, guests are requested not to smoke in the dining room",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["White Moss"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Continuation of the White Moss House menu card from the left page. The right side also carries a decorative illustration of a country house, birds, and foliage. The vintage year after 'Brown Brothers' Orange Muscat and Flora' is obscured by the illustration — likely '199[x]'. 'White Moss oat biscuits' refers to the restaurant's own-made biscuits."
+    }
+  ]
+}

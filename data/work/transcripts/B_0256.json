@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0256",
+  "volume": "B",
+  "pdf_page": 256,
+  "pages": [
+    {
+      "page_id": "B_0256_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Friday we set off about 9.45 or 10, after filling w/ water + emptying loo.\n\nParay-le-Monial\n\n[three photos of church/abbey interior]\n\nParay-le-Monial (Saône-et-Loire) Burgundy\nChrist in Glory, North Portal, [?Crche]",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Paray-le-Monial"],
+      "underlined_places": [],
+      "place_mentions": ["Paray-le-Monial", "Saône-et-Loire", "Burgundy"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Paray-le-Monial (Saône-et-Loire) Burgundy Christ in Glory, North Portal, [?Crche]"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The last word of the photo caption reads '[?Crche]' — possibly an abbreviated 'Creche', 'Crèche', or 'Porche'. No handwritten page number visible. The heading 'Paray-le-Monial' appears to be a printed/typed label on a photo or postcard rather than handwritten. The page date 'Friday' cannot be anchored to a year from this page alone; context from surrounding pages suggests this is part of a summer trip (August). Three photographs show church/abbey interiors."
+    },
+    {
+      "page_id": "B_0256_R",
+      "side": "R",
+      "handwritten_page_no": 76,
+      "blank": false,
+      "full_text": "off to Intermarché, [?Mouskatère], better than he Clerke earlier in the week. Rabbit pâté good. We had lunch on a Canal, le Canal lateral de la Loire, next to an Abbey. On to Paray-le-Monial. This has many women's religious orders represented. Simon didn't come into one of the most interesting churches with this theme because it had a \"no shorts\" sign. The main Abbeychurch has lovely [?Cotswold] stone. No nave, designed by Hugo from Cluny who was influenced by Mozarabic in Spain. A well-kept old town. We cycled back to the campsite. A boys' camp packed up. Lots more Dutch. Cows. I looked in a cabin while it was being cleaned. The campsite felt airless. During the night it rained + rained.\nSaturday August 1st.\nIt still rained in the morning. 10.30. We set off + had elevenses at the Abbey of Dieu Donné Abbaye [?Bènisitions] Dieu, gorgeous steeple + roof of Beaune, coloured tiles. Benedictine. 1135",
+      "dates": [
+        { "raw": "Saturday August 1st", "iso_guess": null, "confidence": 0.8 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Intermarché", "Canal lateral de la Loire", "Paray-le-Monial", "Spain", "Cluny", "Beaune", "Abbey of Dieu Donné"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page number 76 visible at top right. The text begins mid-sentence continuing from the left page (overlap). '[?Mouskatère]' is uncertain — could be a supermarket or brand name. '[?Cotswold]' is uncertain — possibly 'coloured' or another descriptor of the stone. '[?Bènisitions]' is unclear — possibly 'Bénédictions' or 'Bénédictins'. 'Abbey of Dieu Donné' may be 'Dieu-Dieu' or another place name. 'Beaune' appears in context of the abbey roof (coloured tiles). The year is not stated on this page; 'Saturday August 1st' could correspond to several years within the 2003–2019 range — cannot confirm without additional context. '1135' likely refers to a founding date."
+    }
+  ]
+}

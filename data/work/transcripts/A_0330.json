@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0330",
+  "volume": "A",
+  "pdf_page": 330,
+  "pages": [
+    {
+      "page_id": "A_0330_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "2002\n\n[hand-drawn outline map of France with labels: \"P\" (north-centre), \"CF\" and \"L\" (centre-south area)]\n\nvan (7 boxes).\n\tWe had lunch & swam. Simon & Eve went for another walk & found Gite André, a lovely place to stay. They wanted to exchange children & houses. Both teachers. She's Catholic, he's Protestant, & moving away to teach in a protestant school.\n\tAt 8 we went to the fetes where we ate on trestle tables next to friendly people. There was Karaoke Peter remarked that the French have a large body of",
+      "dates": [
+        { "raw": "2002", "iso_guess": "2002", "confidence": 0.95 }
+      ],
+      "headings": ["2002"],
+      "underlined_places": [],
+      "place_mentions": ["Gite André"],
+      "route_sketch": true,
+      "route_sketch_description": "Outline map of France. Labels: 'P' near north-centre (likely Paris), 'CF' and 'L' in the centre-south area (possibly Clermont-Ferrand and Lyon or similar). No roads or arrows drawn, just the country outline with dot-markers.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The map labels are faint pencil. 'CF' and 'L' likely abbreviate place names (possibly Clermont-Ferrand and Lyon, or similar); 'P' likely Paris. Text begins mid-sentence ('van (7 boxes).'), continuing from the previous page. The word before 'Karaoke' reads 'There was Karaoke' — 'Karaoke' is capitalised as if a heading/label. The final sentence is cut off at the page edge."
+    },
+    {
+      "page_id": "A_0330_R",
+      "side": "R",
+      "handwritten_page_no": 75,
+      "blank": false,
+      "full_text": "songs that are known by all ages, but the English wouldn't be able to do this. We had delicious salads, ham & Sauce & potatoes, bread, white cheese & left before the Tarte Tartin. Very noisy & great [?fun/run] fun.\n\t__Friday__ Again, lovely sunshine. We drove north for hours and hours, having lunch & tea on [?fires/fires]. We have arrived at __Lumbres__. We had herring for supper. The boys have been playing Irish tin whistles to drown out the Belgians' 60's pop music from next door. He has been across & sung us the Walloon national anthem, but wouldn't try it on the tin whistle. Simon has come back from the loos with wet feet & warned us not to flush the loos here.\n\t__Saturday August 17th__\n\t\tThe campsite is not very clean. Litter left around & bins overflowing. But the site with tall trees could be good if it were well run. We set off about 9.15 for the 11.00 Calais-Dover ferry.\n\t\tIn fact we caught the 10.15 ferry & crossed in warm sunshine. At 1.15 we reached Jane [?Portal/Portral] in her [?Red/Reed] flat. We had lunch with her & Rosie. Simon mended Rosie's new pogo stick & gave his goddaughter a bathroom radio for her [?14th/?4th] [illegible]",
+      "dates": [
+        { "raw": "Friday", "iso_guess": "2002-08-16", "confidence": 0.5 },
+        { "raw": "Saturday August 17th", "iso_guess": "2002-08-17", "confidence": 0.8 }
+      ],
+      "headings": ["Friday", "Saturday August 17th"],
+      "underlined_places": ["Lumbres"],
+      "place_mentions": ["Lumbres", "Calais", "Dover"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page number 75 visible top-right. 'Tarte Tartin' is likely 'Tarte Tatin' — transcribed as written. The phrase 'having lunch & tea on [?fires/fires]' is unclear; could be 'fires' or 'hire' or another word — marked uncertain. 'Jane [?Portal/Portral]' — surname uncertain; could be 'Portal'. 'in her [?Red/Reed] flat' — adjective before 'flat' unclear. The final line is partially cut off; '14th' or '4th' birthday implied. 'Saturday August 17th' in 2002 is confirmed as a Saturday, supporting the 2002 year reading. The route on this page: drove north through France to Lumbres, then Calais-Dover ferry back to England."
+    }
+  ]
+}

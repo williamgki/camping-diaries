@@ -1,0 +1,43 @@
+{
+  "spread_id": "B_0200",
+  "volume": "B",
+  "pdf_page": 200,
+  "pages": [
+    {
+      "page_id": "B_0200_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[route sketch at top of page — see route_sketch_description]\n\nopen river                    The glacier appeared to have created a giant elevated causeway on its SE flank as the sun melted that side and forced it to drop boulders and moraine like a huge dam that then kept the glacier clinging to the side of the valley.\nSimon had lunch at Zamboni in blinding sunlight. Occasionally he glimpsed M. Rosa through clouds towering impossibly above. There were many hanging glaciers high up the mountain.\n After lunch, he climbed up the side moraine to a cairn where a Dutch woman was seated. When he took out his camera she said they had forgotten to put the SD card so had no pictures of their mountain adventure so Simon took a few of her family and wrote his email address in her iPhone so that later she could send her email address and he could send her the photos.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Zamboni", "M. Rosa"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn sketch at top of page showing a mountain scene with arrows. Labels include: 'Sun' (top centre), 'Monte Rosa' (top right), 'footpath' (centre, with arrow pointing down to glacier), 'glacier' (centre-right), 'Zamboni' (left, with arrow pointing to a small building/hut symbol), 'open river' (bottom left). Arrows indicate the route/relationship between features.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "The sketch labels 'Zamboni' (a stopping point with a hut) and 'Monte Rosa' (labelled at top right). The word 'causeway' could be read as 'carroway' but 'causeway' fits context better."
+    },
+    {
+      "page_id": "B_0200_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[glued-in photograph of Monte Rosa / alpine landscape]\n\nVery twisty roads on the way back to the campsite. We stopped at Bogognia where there was an old castle built to keep the Swiss away from Lake Maggiore. Then",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Monterosa", "Lake d'Orta", "Bogognia", "Lake Maggiore"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["View of Monterosa (2nd highest mtn of Europe) from Amo[illegible] near lake d'Orta"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page number at top-right corner is partially cropped — appears to show '2' or possibly '22' but cannot be read with confidence; recorded as null. Photo caption is written vertically along the right margin; the word after 'from' is partially cut off — reads 'Amo...' (possibly 'Ameno' or similar, a village near Lake d'Orta in Piedmont). 'Bogognia' could be 'Bogogno' or '[?Bogognia]' — a location near Lake Maggiore in Piedmont; the spelling follows what is written. The text ends mid-sentence ('Then') as the narrative continues on the next spread."
+    }
+  ]
+}

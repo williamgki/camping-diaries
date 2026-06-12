@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0140",
+  "volume": "A",
+  "pdf_page": 140,
+  "pages": [
+    {
+      "page_id": "A_0140_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "old people in church invited us into the choir stalls, & an old lady sat next to William & helped him through every page of the dual service books. They were very welcoming.\n\tAfterwards we had a delicious supper in the restaurant across the road. We had sticky toffee cake with butterscotch sauce.\nSat Mon 5th Sept\n\tThe sky is a mixture of bright blue & dark clouds. The colours of the trees & long grass are very rich. We messed about at the campsite in the morning. We had forgotten the newspaper, so Simon has trouble getting the bar-b-que going. It almost rained, and then, to our amazement, we had hot sunshine from a blue sky in the afternoon. We ambled up the hill behind the campsite & William took photos. The boys roamed & played by the stream in the afternoon.\n\tThis is my favourite campsite.\n\tPeter tries to make a water mill. When the sun went down at about 7, it became very cold.\n\tWilliam + Peter keep fighting - Simon took down the big tent.\nTues 6th Sept.\n\tIt showered in the night & early morning. We left at 10.15.\n\tOn the way home we stopped at Machynlleth Centre for Alternative Technology. But the boys started fighting yet again in the carpark. So Simon put away the [?traincoats] & said 'do up yr seatbelts' & we went [home?]",
+      "dates": [
+        { "raw": "Sat Mon 5th Sept", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Tues 6th Sept.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sat Mon 5th Sept", "Tues 6th Sept."],
+      "underlined_places": [],
+      "place_mentions": ["Machynlleth", "Centre for Alternative Technology"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "This page continues text from the previous spread — the top of the page begins mid-sentence ('old people in church invited us...'). No handwritten page number visible. 'Sat Mon 5th Sept' likely means 'Saturday Morning 5th September'; September 5 fell on a Saturday in 1992 and 1998; given volume context (post-1994 based on neighbouring transcripts), 1998 is the more likely year, but this cannot be confirmed from the page alone. The word transcribed as '[?traincoats]' may be 'raincoats' (the 't' could be 'r' given handwriting style). The final word(s) at the bottom are partially cut off; '[home?]' is a best guess for the missing text. 'bar-b-que' is the diarist's spelling. Campsite location is not named on this page but is presumably in Wales given the Machynlleth reference on the return journey."
+    },
+    {
+      "page_id": "A_0140_R",
+      "side": "R",
+      "handwritten_page_no": 57,
+      "blank": false,
+      "full_text": "Saturday September 24th\n\tBecause Peter is more senior in the Cathedral Choir, he is not allowed to miss Sundays now; so we have come out for the day to Lichfield & Cannock Chase.\n\tWe breakfasted in the van in the Cathedral Precinct. The Cathedral is beautiful, but made of the fast-wearing red stone. There is a beautiful prayerroom upstairs. Lovely modern silver in the sacristy - one with a frog. Nice [19?] carved alabaster. Because of building works, we could not see the manuscripts in the Chapter. [annotation: The best [?reads] that [I've] [?seen —] brown [?grey] & [?]] The rood screen has large [?] gaps in, so that you can see the full length of the cathedral. St. Chad had a wooden church. This one was started in [?1068] 1195.\n\tWe walked around & saw good films on the history of Lichfield & the Civil War in St. Mary's centre, Heritage centre. We wandered round the market & bought John a sheepskin at Walter Smith's, the Butcher's.\n\tWe drove on to have lunch at Cannock Chase. On the walk on the common, Simon & Eve saw",
+      "dates": [
+        { "raw": "Saturday September 24th", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday September 24th"],
+      "underlined_places": ["Saturday September 24th"],
+      "place_mentions": ["Lichfield", "Cannock Chase", "Cathedral Precinct", "St. Mary's centre", "Walter Smith's", "Cannock Chase"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number '57' visible in top-right corner. The heading 'Saturday September 24th' is underlined. This page describes a day trip to Lichfield Cathedral and Cannock Chase, different from the Welsh camping trip on the left page — these may be from different years or different sections of the diary. September 24 fell on a Saturday in 1994 and in later years outside the 1989-2003 range; 1994 is the most plausible fit within the volume, but A_0136 is already dated 1994 (a France trip), so the year cannot be confirmed without further context — could be a different 1994 entry or possibly another year. The handwritten page number 57 is notably lower than page 88 on A_0136_R, suggesting either non-sequential pagination or the diary has multiple numbered sections. '[19?]' before 'carved alabaster' may be a quantity ('19 carved alabaster') or a date/type reference; the numeral is present but context is unclear. '[?1068]' appears struck through or annotated — '1195' is the clearer reading for the cathedral's founding date. The annotation in the Chapter sentence is in smaller/different script and partially illegible. The text ends mid-sentence ('Simon & Eve saw') — continues on next page."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "spread_id": "B_0168",
+  "volume": "B",
+  "pdf_page": 168,
+  "pages": [
+    {
+      "page_id": "B_0168_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__September/October.__ We have taken Margaret + helen out for 3 teas/lunches in the van.\n\n__October 16th Friday.__\n1.50. Simon, Eve & Tonic left for a w/end holiday. Bright sunshine on the M5 down past Bristol. We arrived at 5.40. at __Halse Farm campsite__ * * * * (middle of Exmoor) It's nice not having to wait until 4.10. to leave, when the children finish school. This is a working farm - cows, sheep, chicken + 2 barking sheep dogs. The farmer has boarded over the tractor wheels flush with the tyre, to keep mud out.\n\n__Saturday__\nA cold frost in the night. I had to get up twice to put more clothes on. We went on a 4 3/4 mile walk along Winsford Hill, down to Winsford village. Friendly P.O. good lunch. Walk back up the hill - one of the nicest I've been on, along a stream & up a very, very old track. No steep climbing. Tea. Now we're sitting in the sun with the van door open.",
+      "dates": [
+        { "raw": "October 16th Friday", "iso_guess": "2009-10-16", "confidence": 0.5 },
+        { "raw": "Saturday", "iso_guess": "2009-10-17", "confidence": 0.45 }
+      ],
+      "headings": ["September/October.", "October 16th Friday.", "Saturday"],
+      "underlined_places": ["Halse Farm campsite"],
+      "place_mentions": ["M5", "Bristol", "Halse Farm campsite", "Exmoor", "Winsford Hill", "Winsford village"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Looking up the Punch Bowl, Winsford Hill. We walked around this."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "No handwritten page number visible at top-left. The text at the very top is a continuation from the previous spread (mid-sentence). The sideways caption 'Looking up the Punch Bowl, Winsford Hill. We walked around this.' runs along the right margin and continues as a photo caption on the right page — transcribed here as the caption for the photo visible on the right page. 'October 16th Friday' falls on a Friday in 2009 and 2015 within the volume B range (2003–2019); year cannot be confirmed from page content alone. '1.50' likely means 1:50pm departure time. 'w/end' = weekend. 'P.O.' = Post Office. 'Tonic' appears to be a pet (dog, mentioned in nearby spreads)."
+    },
+    {
+      "page_id": "B_0168_R",
+      "side": "R",
+      "handwritten_page_no": 23,
+      "blank": false,
+      "full_text": "Looking up the Punch Bowl, Winsford Hill. We walked around this.\n\nWinsford Village - we walked through this, lots of bridges.\n\nThe Royal Oak Inn, Winsford where we had lunch - the peanut butter ice cream",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Winsford Hill", "Winsford Village", "Royal Oak Inn, Winsford"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "Looking up the Punch Bowl, Winsford Hill. We walked around this.",
+        "Winsford Village - we walked through this, lots of bridges.",
+        "The Royal Oak Inn, Winsford where we had lunch - the peanut butter ice cream"
+      ],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page contains four photographs arranged in a 2x2 grid with captions written diagonally/sideways alongside and below the photos. Handwritten page number '23' visible at top-right. The caption for the bottom-right photo ('The Royal Oak Inn, Winsford where we had lunch - the peanut butter ice cream') appears to trail off; the word 'ice cream' is somewhat cramped but legible. The top-left photo caption ('Looking up the Punch Bowl, Winsford Hill. We walked around this.') also appears as sideways marginalia on the left page — transcribed on both pages as it belongs to the right page photo."
+    }
+  ]
+}

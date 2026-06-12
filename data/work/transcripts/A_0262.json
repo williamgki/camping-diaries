@@ -1,0 +1,43 @@
+{
+  "spread_id": "A_0262",
+  "volume": "A",
+  "pdf_page": 262,
+  "pages": [
+    {
+      "page_id": "A_0262_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We walked on to the City of London Museum in the Barbican. There was a temporary exhibition of bones from London. We saw a magnificent coach. The Fire of London with Pepys' voice. A Victorian Shop. I could spend longer there. We had lunch + set of for the Tate.\n\tAt the Tate was a Sargent exhibition. R.L. Stevenson was there from the Taft Museum. Gorgeous portraits. A real treat.\n\t· Then we returned back to the campsite + home for the winter.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["City of London Museum", "Barbican", "London", "the Tate", "Taft Museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Text runs across the gutter; right-hand portions of lines are visible only in the R image. 'set of for' likely reads 'set off for' — transcribed as written. 'Taft Museum' is as written; likely refers to the Taft Museum, Cincinnati (lender of R.L. Stevenson portrait to the Sargent exhibition). No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "A_0262_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Continuation of left-page text across gutter — see A_0262_L for full_text.]\n\nPhoto caption (written vertically beside glued-in photo): John Singer Sargent  The Misses Vickers 1884 (Sheffield)",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Sheffield"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["John Singer Sargent  The Misses Vickers 1884 (Sheffield)"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Right page contains the right-hand portions of all text lines from the left page (gutter split), plus a glued-in photograph of the painting 'The Misses Vickers' (1884) by John Singer Sargent, with a handwritten caption written vertically to the left of the photo. No handwritten page number visible in top-right corner."
+    }
+  ]
+}

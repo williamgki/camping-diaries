@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0217",
+  "volume": "A",
+  "pdf_page": 217,
+  "pages": [
+    {
+      "page_id": "A_0217_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "+ loos were painted blue, the ladies' pink. Tues 12th Aug\nWe shopped at Monastier Ecomarket + set of n.e.\nthough Lyons on a fast road. We pulled off the\nmotorway to have lunch at a bend of a road\nin the woods. Simon left the beer bottles open.\nCharles caught a wasp in one bottle. When Simon\nwent to take a final gulp of beer, Thomas\nsaid \"Watch out! Charles' wasp\" + Simon spat\nbeer all over the table. We are about to turn\nnorth up the Rhône valley.\n    Beyond Givry we reached __St. Jean le Vaux__.\nThe pool is open until 8 in the evening, but\nunfortunately they expect the boys to wear\nskimpy swim suits. We have a delicious supper\nof chicken + charcuterie salad. Charles is\nterrified of the wasps.\n    Wednesday 13th August\n    Thomas bought bread in the village.\nYesterday the boys, John + Charles, were allowed to\nborrow swim suits, but they had to wait to\nborrow them today. They ended up wearing their\nunderwear / knickers instead.",
+      "dates": [
+        { "raw": "Tues 12th Aug", "iso_guess": "1997-08-12", "confidence": 0.4 },
+        { "raw": "Wednesday 13th August", "iso_guess": "1997-08-13", "confidence": 0.4 }
+      ],
+      "headings": ["Wednesday 13th August"],
+      "underlined_places": ["St. Jean le Vaux"],
+      "place_mentions": ["Monastier", "Lyons", "Rhône valley", "Givry", "St. Jean le Vaux"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page begins mid-sentence, continuing from previous spread. 'Monastier Ecomarket' — could be 'Monistrol' or another place; transcribed as written. 'St. Jean le Vaux' underlined; could also read 'St. Jean le Vaux' or '[?St. Jean le Vaux]' — reasonably legible. Year cannot be confirmed from this page alone; the volume covers 1989–2003 and a France/Givry/St. Jean le Vaux trip with these family members (Simon, Eve, Thomas, John, Charles, Peter, William) is consistent with mid-to-late 1990s but no year is written on this page."
+    },
+    {
+      "page_id": "A_0217_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Simon + Eve walked in the village + booked to\ntaste wine at 10.30 the next morning.\nAfterwards, it was so hot, that even Simon\nswam. So did Thomas + Eve.\n    We went back to the Hotel du Raisin\nrestaurant in Givry. We had delicious the cold\nherring + potatoes in oil, poached eggs in Burgundy\n+ cream caramel.\n    Back at the campsite we rested + swam.\nSimon got tea ready + prepared a picnic.\n    Thomas + John set off at 6.30 without a map.\nThe rest of us nearly didn't go because Charles\nlost his shoes. Finally we found them beyond where\nhis out-door bed had been. William stayed reading\n(so that he wouldn't have to put his lens in) +\nSimon, Peter + Eve + Charles walked up into the\nvinyards to the north of St. Jean. It was a beautiful\nwalk. We had supper near woods + watched the clouds\n+ looked at old crosses. Peter found a dead snake in the\nroad.\n    When we got back, we had apple tart +\nblack berries which John had picked for us.\n    __Thursday 14th August__\n    More trouble at the pool. John + Charles are wearing\nknickers + Thomas is not swimming. We left John +",
+      "dates": [
+        { "raw": "Thursday 14th August", "iso_guess": "1997-08-14", "confidence": 0.4 }
+      ],
+      "headings": ["Thursday 14th August"],
+      "underlined_places": ["Thursday 14th August"],
+      "place_mentions": ["Givry", "Hotel du Raisin", "St. Jean"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page ends mid-sentence, continuing onto next spread. 'Hotel du Raisin' is in Givry, Burgundy — consistent with the narrative. 'vinyards' — diary spelling preserved. 'Thursday 14th August' is underlined. Year not written on page; cannot be confirmed without external context. The left-gutter text (visible at left edge of R image) is part of the L page and not re-transcribed here."
+    }
+  ]
+}

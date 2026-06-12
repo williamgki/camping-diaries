@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0137",
+  "volume": "A",
+  "pdf_page": 137,
+  "pages": [
+    {
+      "page_id": "A_0137_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "was the old mill building. We walked up past it, in its vineyard. It was called \"Le Moulin de la Faisanterie\". The owner has a pack of dogs for shooting, pheasants, pigeons, ducks, chickens, other game birds. There is also a sizable pond. We followed the stream up past a vegetable garden towards its source. There was an old settling tank 1845, surrounded by a sort of pink marble, a swimming pool shape. The stream was piped through. Further up in the actual swamp of the source were 2 small white modern buildings. We came up onto the road, the same road where we had tasted wine earlier in the day.\n\tEve stayed behind to sketch. Simon + Charles saw a vine tractor - Charles was interested to know how a tractor could fit between the vines. The boys were still playing boules at 8.0. when we arrived back to prepare supper.\n\tOn the map there are several sources following one of the contours. The land is steep next to the St. Jean source, a fault. Old villages were built by these sources.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Le Moulin de la Faisanterie", "St. Jean"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page is a continuation from the previous spread — no heading or date visible. The top-left corner (where a handwritten page number would appear) is not clearly visible in the scan. 'Le Moulin de la Faisanterie' is the name of the mill building. 'St. Jean source' appears to refer to a local spring/water source."
+    },
+    {
+      "page_id": "A_0137_R",
+      "side": "R",
+      "handwritten_page_no": 67,
+      "blank": false,
+      "full_text": "Wed 10th August\n\tIt again started raining during breakfast. Blissfully cool. Simon collapsed the tent quickly. The boys washed up very slowly + we left to go north.\n\tWe stopped at an Aire for diversions. William + Peter bopped each other with boules. We had lunch outside a country campsite by a fast-flowing river. We came into an old town, Bar-[illegible] to camp in the municipal campsite. We had stopped at [#] __Clairvaux__ on the way, which was disappointing because tours were only allowed on Saturdays - they were [?touristing] the place. Rain is falling + the boys are again playing boules while Charles is in the playground.\n\tWe walked out into Bar for supper. It was delicious, in the Cellier des Moines. William bumped his head for the first time because of his height on the tunnel ceiling. I had aubergine salad, pork kebab + fruit-of-the-forest pastry. We also saw a church with a large, wooden covered area around it, which merchants to the fairs used for storing their wares. The [?Thur] river acted as a sort of moat to a fort, years ago, + there seems to be a man-made mound. Some of the buildings are pretty. The onion-type dome of the church is Eastern.",
+      "dates": [
+        { "raw": "Wed 10th August", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Wed 10th August"],
+      "underlined_places": ["Clairvaux"],
+      "place_mentions": ["Bar", "Clairvaux", "Cellier des Moines"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.80,
+      "notes": "Handwritten page number at top-right appears to be '67'. The town name after 'Bar-' is crossed out and partially illegible — likely 'Bar-le-Duc' given context (municipal campsite, river, Clairvaux nearby). The river name '[?Thur]' is unclear; in Bar-le-Duc the local river is the Ornain. 'Clairvaux' likely refers to the Abbaye de Clairvaux. The '#' symbol before Clairvaux may be a reference mark or hash. Year cannot be confirmed from page content alone — volume covers 1989–2003; 'Wed 10th August' matches several possible years; iso_guess left null."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "spread_id": "B_0101",
+  "volume": "B",
+  "pdf_page": 101,
+  "pages": [
+    {
+      "page_id": "B_0101_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The Viaduct of Garabit (Chantal). Built by Eiffel 1882-4. 565 m. long. across R. Truyere. Designed by Boyer.\n\nWe sat with 2 other couples & had:\nmelon\nmushroom omlette (ceps)\nstuffed cabbage\ncheese\nFar Breton? on pastry with raspberries.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Garabit", "Truyere"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Viaduct of Garabit (Chantal). Built by Eiffel 1882-4. 565 m. long. across R. Truyere. Designed by Boyer."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in postcard photograph of 'VIADUC DE GARABIT' (printed text on photo). Handwritten caption is written rotated alongside the postcard. The diarist name 'Chantal' in the caption may refer to a postcard series or series name rather than a person. 'Far Breton' is a traditional French dessert (could also read 'Far Breton'). Partial text visible at gutter edge on right side of image belongs to right page and has not been double-transcribed."
+    },
+    {
+      "page_id": "B_0101_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "During the night there was terrific lightning + the cockerel kept crowing. Rain poured + Charles came back into the van, thank goodness -a strong sense of self-preservation. He then dashed back to get his sleeping bag.\n\tHaving spoken to our neighbours at supper, we decided to try one of the walks.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn pencil sketch occupying the upper half of the page, appearing to show a campsite layout or pitch arrangement. Includes a note 'hoops adapter? to camp electric cables' written alongside the sketch. The sketch shows what appear to be lines representing a vehicle/van, a fence or barrier with cross-hatching, and other campsite features. A small label at the bottom of the sketch is illegible.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Upper portion of page contains a hand-drawn pencil sketch of what appears to be a campsite layout; the annotation reads 'hoops adapter? to camp electric cables' — 'hoops' may be '[?hoops]' or '[?loops]'. The sketch label at bottom is illegible. The narrative text below the sketch is clearly written in blue ink. No handwritten page number visible."
+    }
+  ]
+}

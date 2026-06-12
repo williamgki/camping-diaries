@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0157",
+  "volume": "B",
+  "pdf_page": 157,
+  "pages": [
+    {
+      "page_id": "B_0157_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We drove through Roncevalles, + the the town, because there were no parking places, but we stopped at the pass which had beautiful views. The police were checking for terrorist bombs (ETA etc).\n   We arrived at a marvellous campsite, __Cave de Sauveterre de Bearn__ ***** friendly + a lovely river to ~~uto~~ wade through + swim in. Charles made the wading look so easy. We each swam + walked. It was much easier to get through the paper work in a French campsite + nice French squatter loos. We were a bit low on treats for supper + a nice English family - a man + woman from Poole - gave us a frozen Mars Bar. A woman cyclist from England has won a medal in the Beijing Olympics. There was a thunderstorm in the night. Rain in the morning. We drove up into the town to buy bread + have breakfast. Simon + Eve had walked round the town the evening before.\n   There's a Romanesque church with an old Nativity capital + a capital of the gourmond + the beggar.",
+      "dates": [
+        { "raw": "Beijing Olympics", "iso_guess": "2008", "confidence": 0.8 }
+      ],
+      "headings": [],
+      "underlined_places": ["Cave de Sauveterre de Bearn"],
+      "place_mentions": ["Roncesvalles", "Cave de Sauveterre de Bearn", "Poole", "England", "Beijing"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "The campsite name 'Cave de Sauveterre de Bearn' may be 'Gave de Sauveterre de Bearn' — 'Gave' is the local word for river/stream in this region of France, which fits the context of the river mentioned. The strikethrough word before 'wade' looks like 'uto' or possibly 'to' — struck through by the diarist. Beijing Olympics were held in August 2008, which anchors the year of this entry."
+    },
+    {
+      "page_id": "B_0157_R",
+      "side": "R",
+      "handwritten_page_no": 12,
+      "blank": false,
+      "full_text": "__Monday__ After breakfast in the town square, watching canoeists assemble, we drove on to a supermarket. The breadshop provide so much business for village centres.\n   We shopped in a supermarket most of the morning + reached __Queyssac__ campsite, ***** 7k north of Bergerac, by evening, Charles' favourite campsite. It was open, good views, a lake with ducks. Simon made tea for 3 English women in a tent next door. It rained, for the first time on this trip. Really good showers.\n\n__Tuesday__\nWe started breakfast out doors + moved in because of the rain. We drove off north towards David's house. We lunched by a river in the rain + then went to the Tree Museum at Chamberet. Bees were carrying an ant out of their [?observation hive]. We arrived at [?Sard's] house, [?Sas Noux], at 4, just after Thomas + [illegible] Naomi + Austin. Dylan (17) had had 6 friends to stay + had managed to tidy up the house well.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": "2008", "confidence": 0.5 },
+        { "raw": "Tuesday", "iso_guess": "2008", "confidence": 0.5 }
+      ],
+      "headings": ["Monday", "Tuesday"],
+      "underlined_places": ["Queyssac"],
+      "place_mentions": ["Bergerac", "Queyssac", "Chamberet", "Sas Noux"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.83,
+      "notes": "The campsite name 'Queyssac' is underlined by the diarist; it is described as 7k north of Bergerac. 'Sas Noux' is a reading of what appears to be a French property name — could be 'Bas Noux' or similar. The owner's name before 'Naomi + Austin' is struck through and replaced — hard to read, possibly 'Also' or 'Alas'. 'David's house' is a person's house referred to by first name only — Chamberet is a commune in Corrèze, France, which is consistent with heading north from the Bergerac area. Year anchored as 2008 from the Beijing Olympics reference on the facing page."
+    }
+  ]
+}

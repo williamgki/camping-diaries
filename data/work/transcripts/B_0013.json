@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0013",
+  "volume": "B",
+  "pdf_page": 13,
+  "pages": [
+    {
+      "page_id": "B_0013_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "On to __Chesters__, where there is a Roman Bridge abuttment. Hadrian's wall is 73 miles long (90 Roman miles) We had lunch in the carpark + walked around in good weather.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Chesters"],
+      "place_mentions": ["Chesters"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in photograph showing an aerial or elevated view of Hadrian's Wall running across a dramatic ridge. The text is a continuation from a previous page. The right margin shows a few partial words that are part of the right-hand page text."
+    },
+    {
+      "page_id": "B_0013_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "In the evening we reached __Newcastle__. Simon & Eve went to church at St. Gabriel's. Peter lives at 6 St. John's Terrace, Haxton, which is ENE of the city centre, behind Sykes' Wall, which is visible from the bridge.\n\tWe had supper before Evensong + then left straight away for the movie which was a looooong 30 minute walk away. We saw \"Finding Nemo.\"\n\tMonday\n\tJohn & Charles sleep on Peter's floor, they spend alot of time in playing Kieran's James Bond computer game. Tord is the other housemate who organises things.\n\tPeter's house, which looks 4 ft. [illegible] but is, infact, up a flight of stairs to 3 bedrooms, living, kitchen & bathroom\n\tSimon & Eve slept in the van. It was much warmer in town + more comfortable + Peter has central heating. We saw where P[eter] [illegible] News. St. Nicholas Cathed[ral] Peter had a lesson at 5pm. He was",
+      "dates": [
+        { "raw": "Monday", "iso_guess": "2003-10", "confidence": 0.45 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": ["Newcastle"],
+      "place_mentions": ["Newcastle", "St. Gabriel's", "Haxton", "Sykes' Wall", "St. Nicholas Cathedral"],
+      "route_sketch": true,
+      "route_sketch_description": "A hand-drawn floor plan sketch of Peter's house, showing a rectangular outline with internal partitions suggesting rooms. Lines and boxes appear to indicate doors and rooms. The sketch accompanies text describing the house layout (3 bedrooms, living, kitchen & bathroom).",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "green",
+      "legibility": 0.8,
+      "notes": "The film 'Finding Nemo' was released in the UK in late 2003, strongly suggesting this entry dates to late 2003 (likely October/November 2003). 'Haxton' could alternatively read 'Heaton' — a real district in Newcastle ENE of the city centre; 'Heaton' is the more likely reading. 'Sykes' Wall' is uncertain — could read 'Sykes' Wall' or another surname. 'St. Nicholas Cathedral' is the cathedral in Newcastle city centre, consistent with the context. Text is cut off at the bottom of the page ('He was') indicating it continues on the next spread. The sketch in the middle of the page appears to be a floor-plan diagram of Peter's house rather than a route map, but is flagged as route_sketch true as it is a hand-drawn spatial diagram."
+    }
+  ]
+}

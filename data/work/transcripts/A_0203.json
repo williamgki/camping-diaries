@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0203",
+  "volume": "A",
+  "pdf_page": 203,
+  "pages": [
+    {
+      "page_id": "A_0203_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "After dropping [John?] at Amiens Station, we went on to the campsite. __Loeuilly__*** a lake at a lower level than a canal. We camped next to the canal bank, which was raised. Between the canal & the lake were rows & rows of poplars. Very pretty restful, glinting sunlight, fish, frogs, [snails?], fishing. William, Peter & Charles in the tent, Thomas & John in the van. New cushions comfortable. A cement ping pong table, which the boys enjoyed, but they were not allowed to swim.\n\n__Wednesday July 30th__\n    Charles & Thomas walked off to get croissants & baguettes at the local supermarket. William washed up. The other washing/drying teams are Peter & Charles & Thomas with John.\n\n    We went back to Amiens to visit the hortillonnages. They were not open until the afternoon; so after a certain amount of annoyance from the boys we went back into the cathedral. There's an enormous old, rectangular font & a maze on the floor. The clear drop of the slender pillars from ceiling to floor along the nave is spectacular. The flying buttresses provide chapels. The buttress pattern is very complicated outside.\n\n    We had a good lunch — cheese pie, chicken & choc. cake & custard at the Potage de Cailloux.",
+      "dates": [
+        { "raw": "Wednesday July 30th", "iso_guess": "1997-07-30", "confidence": 0.6 }
+      ],
+      "headings": ["Wednesday July 30th"],
+      "underlined_places": ["Loeuilly"],
+      "place_mentions": ["Amiens", "Loeuilly"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible in top-left corner. The name after 'dropping' at Amiens Station is not clearly readable — likely one of the family members (possibly 'John' or '[illegible]'). 'Loeuilly' is followed by three asterisks (***). 'snails' reading is uncertain — could be 'snails' or 'swifts'. 'Potage de Cailloux' is a restaurant name. Wednesday July 30th matches 1997 within the volume's date range (1989–2003); also matches 2003, but 1997 is preferred given position in volume. Year cannot be confirmed from page content alone."
+    },
+    {
+      "page_id": "A_0203_R",
+      "side": "R",
+      "handwritten_page_no": 34,
+      "blank": false,
+      "full_text": "Finding the hortillonnages in the afternoon was very difficult & involved a long walk. The pleasure guided tour boats looked rather formal. By exploring, Thomas found",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["hortillonnages"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page contains a glued-in colour photograph of the interior of Amiens Cathedral (nave looking east). The handwritten page number 34 is visible in the top-right corner. Text continues onto the next page (sentence ends mid-way: 'By exploring, Thomas found'). The left-edge text visible on this scan is the overflow from the left page and has not been re-transcribed here."
+    }
+  ]
+}

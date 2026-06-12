@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0285",
+  "volume": "B",
+  "pdf_page": 285,
+  "pages": [
+    {
+      "page_id": "B_0285_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "On to __San Feliciano__ on __Lake Trasimeno__. Lovely sunshine, but wind too cold to sit outside.\nAnother stunning view. We are parked next to Belgians who have been coming to this lake for 40 years.\n__Friday__ sunshine again. We watched a plane picking up water + dumping it. We thought it was fire extinguishing practice, but the Belgian says it's water pollution testing for Univ. __Perugia__/[?Perugua]. An odd bird here - horizontal black + white stripes + a red hat [sketch of bird]\n\nWe had a lazy morning 'reading by the lake. Simon cycled up the road to buy bread. At 3.30. we left for [?__Castelggioni del Mare__] [?Castiglione del Lago]. The drive there was beautiful - fertile fields. Grain + olives. Several abandoned houses. We reached the town + walked along the mainstreet - very pretty, full of tourist shops. The castle was interesting - frescoes + a Picasso exhibition. We walked around the",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": ["San Feliciano", "Lake Trasimeno"],
+      "place_mentions": ["San Feliciano", "Lake Trasimeno", "Perugia", "Castiglione del Lago"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Tramonto sull'Isola Polvese - Lake Trasimeno"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Text starts mid-sentence, continuing from previous page. The town name is difficult to read — the handwriting appears to show 'Castelggioni del Mare' or similar, but this is almost certainly Castiglione del Lago, the well-known town on Lake Trasimeno with a famous castle. The word after 'del' could be 'Lago' written quickly. The mention of Univ. Perugia is partially obscured. A small sketch of a bird (horizontal black & white stripes, red hat) appears in the text. Vertical marginalia on right edge reads 'Tramonto sull'Isola Polvese - Lake Trasimeno' — likely a postcard caption. No year visible on this page; volume B covers 2003–2019."
+    },
+    {
+      "page_id": "B_0285_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "castle walls + climbed to the top of the castle, \"non sporgersi\", a long way up. Fantastic views of the lake + surrounding mountains. We picked up",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Lago Trasimeno"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Tramonto sull'Isola Polvese - Lake Trasimeno", "LAGO TRASIMENO"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page is mostly occupied by a large glued-in postcard photograph of Lago Trasimeno (sunset/dusk scene over water with reeds). Printed text on postcard reads 'LAGO TRASIMENO'. Vertical handwritten caption in left margin reads 'Tramonto sull'Isola Polvese - Lake Trasimeno'. The written text at the top continues from the left page and ends mid-sentence ('We picked up'), continuing onto the next spread. The Italian phrase 'non sporgersi' means 'do not lean out'."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0345",
+  "volume": "A",
+  "pdf_page": 345,
+  "pages": [
+    {
+      "page_id": "A_0345_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the organ here. The house is like Cromwell's house at Ely. Low ceilings, wooden, cosy. After we had looked around a woman played a pipe organ used for [?continuo], a clavichord (quick) ~~a harpsichord~~, a spinet (small harpsichord)",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ely", "Eisenach"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Musical instruments / Bach's House / Eisenach"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page has a glued-in photo of a yellow building (Bach's House, Eisenach) in snow. Vertical marginalia on left reads 'Musical instruments / Bach's House / Eisenach'. Text is mid-sentence continuing from a previous page. The word used after 'pipe organ used for' could be 'continuo' or 'continue'. '~~a harpsichord~~' appears struck through with a line. No handwritten page number visible in top-left corner. Right edge of text is partially cut off by gutter/overlap."
+    },
+    {
+      "page_id": "A_0345_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "+ then an organ, Thomas pulled straps to pump it.\n\tWe drove on to a campsite by a lake 1km south of __Eisenach__ *44. Charles + Eve swam across the lake. Eve did 2 washes but unfortunately one of the machines was only a drier, so it had to be rewashed in the otter machine later. Thomas is doing the shopping. Good round black pudding (sweet? smoked?).\n\tSimon + Eve slept badly from having eaten too much!\n\t__Wednesday__ (St. Elisabeth of Hungary + more)\nWe arrived at __Wartburg Castle__ + waited ages for a guided tour. The speaker spoke in German, while English people were handed notes. It was a very modern castle, 1160s with some underfloor heating + latrines. lovely carved bases to columns. Much restored in [?C9] + parts reminded us of Arts + Crafts + Pre Raphaelites. musical instruments\nLuther translated the New Testament here in 10 weeks when banished from empire 1521 ([?King Friedrich] [?the wise] hid him as 'Junker [illegible]', [illegible] [illegible] Duke of Saxony",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": ["Eisenach", "Wartburg Castle"],
+      "place_mentions": ["Eisenach", "Wartburg Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["J S Bach", "musical instruments"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.78,
+      "notes": "Page contains two glued-in photos: a portrait labelled 'J S Bach' and a small photo of carved musical instruments in the bottom-right corner, captioned 'musical instruments'. Top-right page number corner appears to show '8' but is unclear — could be part of a larger number or a page reference. The reference '*44' after Eisenach likely refers to a campsite page cross-reference. 'otter machine' may be 'other machine' (handwriting reading). The final lines about Luther/1521 are partially cut off at page bottom; names after 'Junker' are illegible. 'C9' may refer to the 19th century (C19). iso_guess for Wednesday is null as the year cannot be confirmed from this page alone, though volume context suggests late 1990s or early 2000s."
+    }
+  ]
+}

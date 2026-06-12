@@ -1,0 +1,43 @@
+{
+  "spread_id": "B_0093",
+  "volume": "B",
+  "pdf_page": 93,
+  "pages": [
+    {
+      "page_id": "B_0093_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "St. Peter's Melverley on the banks of R. Vyrnwy 1406\n\nWe shopped at the Craft Centre in the Old Rectory. We all walked across the old railway bridge, now a road bridge, to look at the pub, the Fir Tree, we had a beer + lunched at the van.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Melverley", "R. Vyrnwy", "Old Rectory", "Fir Tree"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["St. Peter's Melverley on the banks of R. Vyrnwy 1406"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Caption '1406' appears to be the date of the church building, not a diary date. The caption is written vertically along the right edge of the photo. Text at bottom is cut off at the right gutter edge — continues on R page."
+    },
+    {
+      "page_id": "B_0093_R",
+      "side": "R",
+      "handwritten_page_no": 36,
+      "blank": false,
+      "full_text": "St. Peter's Melverley, Jacobean Pulpit, Chain Bible + CB seating.\n\nAfter tea we walked up river, along the [?levees] built to contain the flooding. Char[les] sent Tonie into a hollow tree & then down a foxhole where he completely disappear[ed]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Melverley"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["St. Peter's Melverley, Jacobean Pulpit, Chain Bible + CB seating."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "The word after 'along the' is partially obscured — could read 'levees' or 'levees' (earthen flood embankments); text at bottom-right is cut off at page edge, 'disappear[ed]' is truncated. 'Char[les]' is partially cut off at left gutter — likely 'Charles'. 'CB seating' in caption may stand for 'box' seating or similar. The left gutter carries a continuation of the L-page caption: 'R. Vyrnwy 1406'."
+    }
+  ]
+}

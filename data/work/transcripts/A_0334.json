@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0334",
+  "volume": "A",
+  "pdf_page": 334,
+  "pages": [
+    {
+      "page_id": "A_0334_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Thomas slept in the van.\n__Sunday Oct 6th.__\n     The sun shone & we set off on a walk straight after breakfast at 9. We walked over Edale Moor, along the edge of Kinder Scout. (There was a march here in 1932, demanding access to the Moors from the landowners.) We looked across to Mam's Tor where there was hanggliding.\n     The way was quite steep on the way up. Eve felt ill at the beginning. At first it was windy at the top, then the weather was glorious & sunny & we walked in shirtsleeves. There are amazing boulders at the summit, worn [illegible] away by running water. Beautiful [strikethrough] views to the south. We are at the start of the Pennine Way. It was 8 miles long. Tonie enjoyed it. It was the \"high Peaks\" in the north. The stone clour [?colour] used in buildings is less drab than that used in the south.\n     We got back for a pub lunch at 1.55. before putting Thomas on the bus",
+      "dates": [
+        { "raw": "Sunday Oct 6th.", "iso_guess": "2002-10-06", "confidence": 0.7 }
+      ],
+      "headings": ["Sunday Oct 6th."],
+      "underlined_places": [],
+      "place_mentions": ["Edale Moor", "Kinder Scout", "Mam's Tor", "Pennine Way"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The entry for Sunday Oct 6th continues from a previous page (Thomas slept in the van). Year not explicitly stated on this page; the right page has 'Friday April 4th 2003' as the next entry, so this October entry predates April 2003. Sunday Oct 6 fell in 2002, which is also consistent with the Soham girls' tragedy reference on the right page (murders in August 2002). Year estimated as 2002, confidence 0.7. The word 'clour' or 'colour' on the last line before the break is hard to read — could be 'colour' with the 'o' unclear. A small drawn figure (person shape) appears amid the text near 'worn'. The 'Beautiful' word has a visible strikethrough next to it."
+    },
+    {
+      "page_id": "A_0334_R",
+      "side": "R",
+      "handwritten_page_no": 79,
+      "blank": false,
+      "full_text": "at Doke [?Dove] [illegible] north of Buxton — due at 3.37 & left at 4.0.. Then we drove on home. (2 girls were told off for talking to strangers in a van (they were biking & we asked them where the bus stop was) because of the Soham girls' tragedy). We came home via Lichfield & Sutton Park.\n\n__Friday April 4th 2003__\n     Simon, Eve, John 15, Charles 13 (about to be 14) & Tonie set off at 6 for the Eden Project, Cornwall. Lovely Sunshine.\n     It has been a wet evening. After motorway sandwiches we drank water & it tasted foul. Before the campsite Simon opened the tank taps & we left a trail of 70 litres behind us. John tipped over a still foul tasting mug of water. We flushed water through the tanks & the landlady came up & complained & said they were on a water metre. We have filled a bottle from",
+      "dates": [
+        { "raw": "Friday April 4th 2003", "iso_guess": "2003-04-04", "confidence": 0.99 }
+      ],
+      "headings": ["Friday April 4th 2003"],
+      "underlined_places": [],
+      "place_mentions": ["Buxton", "Lichfield", "Sutton Park", "Cornwall", "Eden Project"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "Page number 79 visible in top-right corner. The place at the top 'Doke [illegible]' is hard to read — could be 'Dove [something]' (perhaps Dove Holes, a village north of Buxton on the A6). The word 'metre' is spelled as written (may be a variant of 'meter'). The entry for Friday April 4th 2003 is clearly dated 2003. The October entry from the left page ends at top of this page (continuing from left). Text cuts off at the bottom of the page (entry continues on next spread)."
+    }
+  ]
+}

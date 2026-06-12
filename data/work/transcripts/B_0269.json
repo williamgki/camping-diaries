@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0269",
+  "volume": "B",
+  "pdf_page": 269,
+  "pages": [
+    {
+      "page_id": "B_0269_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday.\nWe set off, cycling along the raised embankment next to the R. Arun. Hardgoing because of June grasses & thistles. We could see Arundel Castle in\n[photo of Arundel Cathedral]\nArundel R.C. Cathedral. Gate of mercy.\nNice church.\nPhilip Howard\nthis dog.",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["R. Arun", "Arundel Castle", "Arundel R.C. Cathedral"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Arundel R.C. Cathedral. Gate of mercy. Nice church.", "Philip Howard this dog."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text continues onto right page (mid-sentence 'Arundel Castle in ...'). Photo shows Arundel Cathedral from distance. 'Philip Howard' noted beside the photo — likely a marginal annotation referencing Saint Philip Howard. No handwritten page number visible on this side."
+    },
+    {
+      "page_id": "B_0269_R",
+      "side": "R",
+      "handwritten_page_no": 89,
+      "blank": false,
+      "full_text": "the distance which I first mistook for another cement works. It got nearer & nearer. The wind was pushing us.\n  We had a coffee & I bought lavender for Venetia whom we've visiting tomorrow in her new house. We also bought pastries for supper. etc\n  We caught a train back to Ford Station along the road to the campsite pub for lund which we had booked for 12.30. Good [?Affo] steak & kidney pie.\n  After a nap we drove to Chichester & looked at the shops & went to Evensong. Who Should turn up but the Roses! We stopped at Bognor Regis (George V bugger Bognor!) on the way back to the campsite for supper in the van.\n  5 0p each tokens for showers. Good Showers.\n[photo: The Chagall window (detail)- see 13 Chichester Cathedral]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ford Station", "Chichester", "Bognor Regis", "Chichester Cathedral"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Chagall window (detail)- see 13 Chichester Cathedral"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page continues from left page. 'lund' likely means 'lunch'. '[?Affo]' is uncertain — could be 'Affo' as an abbreviation or partial word before 'steak & kidney pie'. 'Good Affo' may mean 'Good Afternoon' or could be a pub name. Photo shows a stained glass window detail labelled 'The Chagall window (detail)- see 13 Chichester Cathedral' with 'Chichester Cathedral' written below. No year can be confirmed from the page text alone — the volume covers 2003–2019, and the reference to 'Venetia' visiting her new house and other contextual clues provide no precise year anchor."
+    }
+  ]
+}

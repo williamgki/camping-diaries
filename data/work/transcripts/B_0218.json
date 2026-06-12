@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0218",
+  "volume": "B",
+  "pdf_page": 218,
+  "pages": [
+    {
+      "page_id": "B_0218_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "After leaving St. Quentin, Simon found a headlight was not working. We drove on to la Barbuise Campsite [illegible] (where we had stayed many years before) & had a walk over chalk fields! Near Troyes.\nThursday\n  Simon can't mend the headlight because he's got a different one in the stores. In the end he discovered it was a broken fuse. We travelled south, stopping at an old church on the way which was closed. At Troyes we went to an Auchan shops, OK but a bit down market. We bought a la Reine pizza for lunch which was good, then carried on to Les Treilles Campsite [illegible] Montbard. Charles & Jenny arrived at 4 pm, so we had more tea & put up the tent. Then we went on a bike ride into Montbard. Eve bought athletes foot cream & Charles chose grey (wool) cotton for Eve to knit him a scarf. It's a good campsite - town & shops, restaurant & bike trail (Canal de Bourgogne) & free swimming.\nFriday We went on a [illegible] 15 mile bike ride",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Thursday", "Friday"],
+      "underlined_places": [],
+      "place_mentions": ["St. Quentin", "la Barbuise Campsite", "Troyes", "Auchan", "Les Treilles Campsite", "Montbard", "Canal de Bourgogne"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The campsite names have star ratings or reference numbers after them that are partially illegible (look like asterisk/star symbols). 'la Barbuise Campsite' — the campsite name near Troyes may read 'Barbuise' or possibly 'Barbaise'; Barbuise is a commune near Troyes. The wheat/grain symbols used to mark days (Friday line) appear to be decorative stickers or stamps on the page. Year not determinable from this page alone — context is a France trip travelling south via Troyes to Montbard; volume B covers 2003–2019."
+    },
+    {
+      "page_id": "B_0218_R",
+      "side": "R",
+      "handwritten_page_no": 3,
+      "blank": false,
+      "full_text": "La forge\nde\nBuffon\n\nalong the Canal & went to Buffon to see the Forge, about 1760, started by Buffon when he was 60. He spent his early life as a Naturalist, categorising birds. Then he built an amazing Forge",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Canal", "Buffon", "La forge de Buffon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["La forge de Buffon"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The right page is dominated by a glued-in photograph of a stone staircase interior, captioned 'La forge de Buffon' in handwriting to the upper left. The text below the photo continues the Friday bike ride narrative started on the left page. The forge at Buffon was built c.1768 by the naturalist Buffon — the diary gives 'about 1760' which is an approximation. Text appears to continue onto the next page. The handwritten page number '3' is visible in the top-right corner."
+    }
+  ]
+}

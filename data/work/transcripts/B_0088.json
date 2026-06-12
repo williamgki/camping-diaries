@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0088",
+  "volume": "B",
+  "pdf_page": 88,
+  "pages": [
+    {
+      "page_id": "B_0088_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "near a bus stop.\n__Saturday__\nWe set off at 9.30 because Peter had to be at the Cathedral for a rehearsal at 10. He had bought us tickets the day before. There were ladies in Hats & lots & lots of naval uniforms encrusted with gold & children at a local naval school. It was, as Peter commented, like a carol service with hymns instead. We celebrated the life of Cuthbert Collingwood 1748-1810, Nelson's second-in-command, who was born near the cathedral. His wife was buried here (Collingwood with Nelson at St. Paul's). The sermon was good. The preacher mentioned the sailor's prayer before battle, \"Oh lord, let the grapeshot, like the prize money, be scattered mainly among the officers.....\"\n\tAfterwards we walked down the Side, looked at bridges. We could see 7 from one spot, Newcastle's usually raining & has dripping bridges always in my memory. We walked from the Side up to the Discovery Centre.",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": "2005-10-22", "confidence": 0.9 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Cathedral", "St. Paul's", "Newcastle", "Side", "Discovery Centre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page begins mid-sentence, continuing from previous spread. The 'Side' refers to a street in Newcastle upon Tyne. The service was for Trafalgar Day 2005 (confirmed by ticket on right page), so Saturday = 22nd October 2005. Cuthbert Collingwood dates given as 1748-1810 in the text."
+    },
+    {
+      "page_id": "B_0088_R",
+      "side": "R",
+      "handwritten_page_no": 26,
+      "blank": false,
+      "full_text": "Peter Sang in the Choir.\n\n[glued-in: city coat of arms image]\n[glued-in: Newcastle Cathedral lantern logo]\nlantern of Newcastle Cathedral\n\n[glued-in ticket: TRAFALGAR DAY 2005 / Bicentenary Service / Cathedral Church of St Nicholas / on Saturday 22nd October 2005 at 11.00 am / ADMIT ONE / Admittance strictly by ticket only / Guests must be seated no later than 10.45 am]\n\nThe Discovery Centre is part local history, part science. It is built round a courtyard in which is a boat called \"Turbinia\", the",
+      "dates": [
+        { "raw": "Saturday 22nd October 2005", "iso_guess": "2005-10-22", "confidence": 0.99 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Newcastle Cathedral", "Cathedral Church of St Nicholas", "Discovery Centre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["lantern of Newcastle Cathedral"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Page contains glued-in coat of arms (Newcastle city arms), a Newcastle Cathedral lantern logo/sticker, and a printed admission ticket for Trafalgar Day 2005 Bicentenary Service. Marginal note 'Peter Sang in the Choir.' appears in the gutter area. The text at the bottom about the Discovery Centre and 'Turbinia' continues onto the next page. 'Turbinia' was the world's first steam turbine-powered steamship, preserved in Newcastle."
+    }
+  ]
+}

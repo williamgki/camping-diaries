@@ -1,0 +1,50 @@
+{
+  "spread_id": "B_0115",
+  "volume": "B",
+  "pdf_page": 115,
+  "pages": [
+    {
+      "page_id": "B_0115_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We parked a few roads down on a wider road near Tess house, 26 Ross St., near the station. Tess + Bryony cooked us a delicious supper- fish lasagna.\n\n__Sunday__\nTess gave us delicious croissants + took William + Bryony to the station at 9.10. We left + had a cup of tea with Richard Holroyd + looked at routes through France. We had a picnic lunch in a lay by. Lots more rain.\n\n__Wednesday June 6th.__\nSimon + Eve drove to Warwick Uni + picked up John + Katy + drove to the Windmill. It was a lovely evening. We had a picnic in the van, off the Fosse Way. A [?herd] herd of cows (with sheep) with an enormous bull passed the van. We played bridge.\n\n__Monday June 11th__\nSimon + Eve took Margaret + Helen out to supper in the van + a walk along the river. We had a good meal in the sunshine. A local resident came + picked up [?litter] litter + joked that GPS systems didn't work because of the pedestrian river ferry. When they go wrong, they have to make a 13 mile detour via [?Bridgnorth]",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Wednesday June 6th.", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "Monday June 11th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Sunday", "Wednesday June 6th.", "Monday June 11th"],
+      "underlined_places": [],
+      "place_mentions": ["Ross St.", "Warwick Uni", "Windmill", "Fosse Way", "Bridgnorth"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page number not visible in top-left corner. The entry starting at top appears to continue from a previous page. 'Richard Holroyd' — surname could be 'Holroyd' or similar. The word before 'herd of cows' appears to be a crossed-out word followed by 'herd'. The 13-mile detour destination at bottom-right reads most likely as 'Bridgnorth' but is cut off at the page edge. Year cannot be determined from this page alone — the June dates are consistent with a summer trip but no year is visible."
+    },
+    {
+      "page_id": "B_0115_R",
+      "side": "R",
+      "handwritten_page_no": 54,
+      "blank": false,
+      "full_text": "__Thursday June 14__\nWe drove in convoy from Westfield Rd -> __Lower Middleton Cheney__. The rain tipped down + the M40 + services flooded. Thomas + Naomi went in the red car, Simon, Eve + Tonic in the van. There were huge traffic jams. We walked to the New Inn for supper.        Burgess Farm [illegible][illegible][illegible][illegible]\n\n__Friday__\nWe had a superb walk, about 5 miles, cow parsley + elderflower. Sheep, cows, church, [?Tudor plaster?] we were not on a public footpath when we neared Lord Heseltine's house, (1769) there was a lime, oak, chestnut avenue. Naomi washed her [?stuff/feet] feet in Lord Heseltine's lake. The sun shone hot. We reached the shop + it got cloudy + we again went to the New Inn for lunch. The rain lashed down again. Will Thomas + Naomi be able to cook a fish bbq for supper?\n\nWell, yes they did! Simon helped light the bbq + just as it caught the heavens opened again, as I had predicted. So they shoved it under a nearby metal plant trough until the worst of the rain was passed. Naomi made a salad + wrapped salmon + corn on the cob in tin foil. It wa[s]",
+      "dates": [
+        { "raw": "Thursday June 14", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Thursday June 14", "Friday"],
+      "underlined_places": ["Lower Middleton Cheney"],
+      "place_mentions": ["Westfield Rd", "Lower Middleton Cheney", "M40", "New Inn", "Burgess Farm", "Lord Heseltine's house", "Lord Heseltine's lake"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.80,
+      "notes": "Handwritten page number 54 visible in top-right corner. The convoy route is marked with an arrow: Westfield Rd -> Lower Middleton Cheney. 'Burgess Farm' is followed by what appear to be star/asterisk symbols (possibly a rating or annotation) that are not clearly legible text. The word above 'feet' in 'Naomi washed her feet' has a superscript correction — appears to say 'stuff' crossed out or 'shifts'. 'Tudor plaster' is a superscript annotation above 'church'. Text is cut off at the bottom of the page ('It wa[s]'). Year is not determinable from this page — no year annotation visible; volume context (2003-2019) and mention of GPS systems on facing page suggests this is likely 2000s or later."
+    }
+  ]
+}

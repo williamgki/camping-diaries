@@ -1,0 +1,43 @@
+{
+  "spread_id": "A_0176",
+  "volume": "A",
+  "pdf_page": 176,
+  "pages": [
+    {
+      "page_id": "A_0176_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "This is a picture of a old chapell in [?Caunor] campsite it [is] now a barn wich is [braking] to [?buses]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["[?Caunor] campsite"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.65,
+      "notes": "Page contains a child's pencil drawing of a chapel/barn-like building with a triangular roof, oval window, and rectangular door, with block-like structures around the base. The handwritten text appears inside/around the drawing. The campsite name is uncertain — could read 'Caunor', 'Caunton', or another name. The final word is unclear — possibly 'pieces' or 'buses'. The letter 'A' appears to be a label within the drawing, not a page number. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "A_0176_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "When we arrived at __Chatsworth__ we went to look at the Cascades. We balanced lunch in the carpark on the side of a hill\n    Simon took John, Charles & Pete to",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Chatsworth"],
+      "place_mentions": ["Chatsworth"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Text is cut off at the bottom of the page — the sentence 'Simon took John, Charles & Pete to' continues on the next page. A colour postcard/photograph of Chatsworth House and its grounds is glued into the lower half of the page. No handwritten page number visible in top-right corner. The context (Chatsworth, Peak District) is consistent with the diary entry on earlier spread pages referencing a Peak District trip."
+    }
+  ]
+}

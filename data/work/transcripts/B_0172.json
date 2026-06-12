@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0172",
+  "volume": "B",
+  "pdf_page": 172,
+  "pages": [
+    {
+      "page_id": "B_0172_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[photo of Snowshill Manor, south front]\n\nSnows-\nhill\nManor\n\nGlouos\n\n[?Selt]\nSouth\nFront\n\nhouse behind it, where he installed electricity &\nhot water. He often sat there next to the fire\nin a hall porter's chair. A rope was next to",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Snowshill Manor", "Gloucs"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Snows-hill Manor Glouos [?Selt] South Front"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible on this page. The photo shows Snowshill Manor (Gloucestershire), a National Trust property. The caption is written to the right of the photo. One word before 'South Front' is unclear — possibly 'Selt' or a crossed-out word; could be a label direction like 'South Front'. The narrative text at bottom continues onto the right page. The volume covers 2003–2019 but no year is given on this page; context from right page ('23 May Sunday') does not uniquely anchor a year."
+    },
+    {
+      "page_id": "B_0172_R",
+      "side": "R",
+      "handwritten_page_no": 27,
+      "blank": false,
+      "full_text": "him & when he pulled it, it worked the\nbellows in the next room. Bryony & I enjoyed\nlooking at the dolls' houses. Simon &\nlooked at the warping? machine, large,\n6ft high, 6ft diametre, for # wrapping\nsilk thread around at the correct tension\nfor the weaver. Lots of spinning wheels.\n   Wagons from different countries, ships,\nclocks, walking frames for toddlers, one\nfor round a post (on a ship?) Crafts,\ncolours, useful, beautiful things. One of\nthe best places I've been.\n   We had lunch in the carpark. They\ndrove back to London & we are going\nback to Birmingham.\n   __23 May Sunday__\n   Traffic jams as we left [?Sham] at 1.30\nto take Margaret & Helen out for a\nStrawberry Tea. A lovely sunny\nafternoon.",
+      "dates": [
+        { "raw": "23 May Sunday", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["23 May Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["London", "Birmingham", "[?Sham]", "Snowshill Manor"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page number 27 visible at top-right. '23 May Sunday' is underlined. The word 'warping?' is written with a query mark in the original text — transcribed as written. '# wrapping' — the '#' appears to be a correction mark or deletion in the original. The place '[?Sham]' is unclear — it could be an abbreviated local place name near Snowshill, possibly 'Snowshill' abbreviated, or another nearby village. 23 May falls on a Sunday in years such as 2004, 2010, 2021 — within the volume B range (2003–2019), 2004 and 2010 are candidates. 'Bryony', 'Simon', 'Margaret', and 'Helen' are named individuals. The diarist describes returning to Birmingham while others return to London."
+    }
+  ]
+}

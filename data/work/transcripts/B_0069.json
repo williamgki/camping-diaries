@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0069",
+  "volume": "B",
+  "pdf_page": 69,
+  "pages": [
+    {
+      "page_id": "B_0069_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We went on a tour of the Abbey with 50 other people. The woman spoke fast french & didn't project her voice, so it was a bit disappointing (The man leading the following group would have been easier to hear). We saw the Dortoir where there were mason marks, a great barn of a room The markings on the floor, red tiles & stones, showed where beds were. They had wooden cubicles too. (Abbey Dore, Hereford & Lichfield were also Carthusian.)\n   We saw the Chapel - very plain, no decoration only the play of light) the cloister & Chapter house. Good accoustics in chapter house. The monks have come & gone since 12. Fortunately it was bought by an educated, sympathetic person in 1793. And in 1850s a church person owned it again. From 1968-88 it was a church centre, but monks came back in [~~] 1989. The public may go to services (6pm) We couldn't see the hives. There were lots of bumble bees working the lavender & other extraordinary insects.\n\n[glued ticket: ABBAYE NOTRE-DAME DE SÉNANQUE / Monastère cistercien / 84220 Gordes / Tél.: +33 (0)4 90 72 05 72 / www.senanque.fr / Les moines sont heureux de vous accueillir dans leur abbaye. / Entree Enfant / Visite guidee le 29/07 a 14:50 / 2.50EUR / 0001000169229 / Vendu le 29/07/2005 a 14:20 Caisse:CA02/S]",
+      "dates": [
+        { "raw": "29/07/2005", "iso_guess": "2005-07-29", "confidence": 0.99 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Abbey", "Dortoir", "Abbey Dore", "Hereford", "Lichfield", "Abbaye Notre-Dame de Sénanque", "Gordes"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "A ticket from Abbaye Notre-Dame de Sénanque is glued in, giving a confirmed date of 29/07/2005. The strikethrough before '1989' is in the original. Text at top continues from previous page. The word 'warming' appears as a marginal interlineation above 'room' near 'chapter house'. 'Carthusian' may be an error for 'Cistercian' — the ticket confirms this is a Cistercian abbey — but transcribed verbatim. The monks mentioned coming back in 1989 with a strikethrough before the year."
+    },
+    {
+      "page_id": "B_0069_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sénanque Abbey.\n\nWe drove to the top of the dusty lane, where the tarmac started, & had a cup of tea. (There was no tea at the Abbey, only a drinks machine that you had to drink standing there.)\n   Charles has decided to cross being a monk of his careers choice. (too [?long] boring.)",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Sénanque Abbey", "Abbey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Sénanque Abbey."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The right page has a large glued-in photo of Sénanque Abbey with lavender fields in the foreground, captioned 'Sénanque Abbey.' in handwriting. The word before 'boring' appears to be struck through with a line through it — possibly 'long' or 'very' — transcribed as [?long]. The text continues from the left page narrative (visit to Sénanque Abbey, 29/07/2005)."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0100",
+  "volume": "A",
+  "pdf_page": 100,
+  "pages": [
+    {
+      "page_id": "A_0100_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Barn across from Arizona swimming pool\n\n[continuing from previous page] had Sunday lunch - lasagna & roast veal + pote - for £40. I've done 2 loads of wash at vast expense £4, much to Simon's horror. Blissfully hot, but bearable with lots of trees.\n\tThe man next to us on crutches has a very amusing green parrot called Loretto. His wife bops it when it screeds too much. She has great trouble getting",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Arizona"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Barn across from Arizona swimming pool"],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.82,
+      "notes": "Page begins mid-sentence (continuation from previous page). Top half has a pencil sketch of a barn with pencil caption 'Barn across from Arizona swimming pool'. 'Arizona' appears to be a campsite name. 'pote' may be an abbreviation for 'potatoes'. The word before 'screeds' could be 'screeches' abbreviated or 'screeds' as written — taken as written. No handwritten page number visible in top-left corner. Text continues onto right page."
+    },
+    {
+      "page_id": "A_0100_R",
+      "side": "R",
+      "handwritten_page_no": 15,
+      "blank": false,
+      "full_text": "House across from camping van at Arizona.\n\nit into a cage at night time.\n\tOn Saturday evening at 6:15. an old Franciscan came round ringing a handbell \"la Santa Messa alle sette\". They set up an alter in the ping pong shed. The children came & went, a lovely service. I could watch the boys on the slide & swings behind the altar.\n\tWe have spent our time eating & swimming. John & William did a [illegible] of",
+      "dates": [
+        { "raw": "Saturday evening at 6:15", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Arizona"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["House across from camping van at Arizona."],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.83,
+      "notes": "Top half has a pencil sketch of a house with landscape, with pencil caption 'House across from camping van at Arizona.' The text 'la Santa Messa alle sette' is Italian for 'the Holy Mass at seven' — suggests the campsite is in Italy. 'alter' is written as-is (likely 'altar'). 'screeds' on left page may be 'screeches'. The handwritten number '15' appears in the top-right corner but could be a page number. The page number 15 is uncertain — it may read '15' or another number. Text continues on next page. No year can be confirmed from this page alone; context suggests Italy trip within 1989-2003 range."
+    }
+  ]
+}

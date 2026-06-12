@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0252",
+  "volume": "A",
+  "pdf_page": 252,
+  "pages": [
+    {
+      "page_id": "A_0252_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "An hour on to the campsite. We put up 2 tents & walked 20 minutes along the road to a pub for a beer. Dolwyddelan. The castle, a square keep above the campsite, is very picturesque. Arg + cosy inside, & you can walk up 30 steps to the roof. Built C13 by a Welsh prince to guard his realm & the pass.\n\n__Aug 23 Sun__\n\nThe rain tipped down in the night & poured on into the morning. Rivers swollen. We stopped at elevenses to see the __Llangollen Canal Viaduct__. Then home.\n\n__Aug 28th Fri__\n\nSimon + Eve set off for N. Wales at [?5/8].10 & reached __Llandudno__ [illegible] at 8.10. A pretty campsite, ducks & geese & just a loo & basin with a library - book in, book out. But there is a constant traffic noise.\n\n__Aug 29th__\n\nWe picked up John + Charles from riding. They had fought really badly one",
+      "dates": [
+        { "raw": "Aug 23 Sun", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Aug 28th Fri", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Aug 29th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Aug 23 Sun", "Aug 28th Fri", "Aug 29th"],
+      "underlined_places": ["Llangollen Canal Viaduct", "Llandudno"],
+      "place_mentions": ["Dolwyddelan", "Llangollen Canal Viaduct", "N. Wales", "Llandudno"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "No year is stated on this page. The 'Aug 28th Fri' date alignment: in the 1989-2003 range, Aug 28 fell on a Friday in 1992 and 1998. The text appears to continue from a previous page; the page number is not visible on the left page. 'Arg +' on line 5 may be a partial word or abbreviation — possibly 'Argh' or a name; reading uncertain. The number before '.10' in the Aug 28th entry is ambiguous — could be 5 or 8."
+    },
+    {
+      "page_id": "A_0252_R",
+      "side": "R",
+      "handwritten_page_no": 80,
+      "blank": false,
+      "full_text": "evening & been told off. They had not enjoyed it, but had liked the riding - 6 days good weather.\n\nWe raced down to Beauchamp to pick up Peter from his Big Band Course, led by Tony Sheppard. We met up with Hattie & James Duguid, but we didn't feed them the raspberries which I had ready, because John was throwing up.\n\nThe concert was superb - children dancing, butterflies. The Cook dancing to \"In the Mood.\" Sunshine.\n\nThen home to William (Thomas at Greenbelt).",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Beauchamp", "Greenbelt"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Handwritten page number 80 visible in top-right corner. 'Beauchamp' is likely a place name (Beauchamp is a common English place name element, also a proper surname — context suggests a venue or location where a Big Band Course was held). 'Greenbelt' refers to the Greenbelt festival (UK Christian arts festival held annually in late August). The right page is largely blank in its lower half — the text ends after 'Greenbelt).' with the rest of the page empty."
+    }
+  ]
+}

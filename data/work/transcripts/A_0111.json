@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0111",
+  "volume": "A",
+  "pdf_page": 111,
+  "pages": [
+    {
+      "page_id": "A_0111_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sat. 31st July\n\tWe left at 9.30, & had lunch on the Dover-Calais ferry on the way back to Westfield Rd..\n\n__Sat 7th August__\n\tWe set off at nine to take the boys to Rhiwiau Riding Centre. We had lunch on the sea front at [?Llandudas] [?Llanfairfechan]; where Simon tried to sail his boat in a boating pond. After leaving Thomas, William & Peter we took John & Charles swimming\n\tWe walked around __Conwy__ on the walls & saw an aquarium with lobsters & eels & went inside the smallest house in [?Brat] Britain.\n\tWe camped in the middle of nowhere, near a dam. * * *\n\tIn the [?morning] night 2 cars came & picked up someone, perhaps, after flashing lights. We were scared (at least Eve was) & Simon locked the doors.\n\tIt didn't rain the next day, & John & Charles walked 3½ miles up into the hills",
+      "dates": [
+        { "raw": "Sat. 31st July", "iso_guess": "1993-07-31", "confidence": 0.55 },
+        { "raw": "Sat 7th August", "iso_guess": "1993-08-07", "confidence": 0.55 }
+      ],
+      "headings": ["Sat 7th August"],
+      "underlined_places": ["Conwy"],
+      "place_mentions": ["Dover", "Calais", "Westfield Rd", "Rhiwiau Riding Centre", "Llandudas", "Llanfairfechan", "Conwy"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "The name above 'Llandudas' (crossed out) appears to be 'Llanfairfechan' written as a correction. The word before 'Britain' looks like a crossed-out false start ('Brat' or similar). Day-of-week checks show July 31=Saturday, Aug 7=Saturday, Aug 13=Friday in both 1993 and 1999; year is uncertain between those two. The crossed-out word in 'the [?morning] night' appears to be 'morning' struck through and replaced with 'night'."
+    },
+    {
+      "page_id": "A_0111_R",
+      "side": "R",
+      "handwritten_page_no": 26,
+      "blank": false,
+      "full_text": "After lunch we headed home. We narrowly missed being stuck in a huge traffic jam. When Simon saw that the cars were closing up ahead, he pulled off down side roads for tea. After travelling 3 miles we stopped to put the kettle on & saw the accident over the hedge — the police, 2 ambulances & 2 fire engines. Fortunately, we got home in one piece.\n\n__Friday 13th Aug__\n\tLeft at 6.10. Heavy traffic. Camped in a small, sheltered site, green, with a pond at one end. * * *\nJohn & Charles very good. Supper at 9.pm.\nSat Picked up boys from riding, drove home listening to all their stories. Home by 2pm for lunch. On the day, we looked at \"Four Winds\", Grandma's & Grandpa's old house outside Telford — we had stopped for petrol just by their old road.",
+      "dates": [
+        { "raw": "Friday 13th Aug", "iso_guess": "1993-08-13", "confidence": 0.55 }
+      ],
+      "headings": ["Friday 13th Aug"],
+      "underlined_places": [],
+      "place_mentions": ["Telford", "Four Winds"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page number 26 visible in top-right corner. 'Four Winds' is the name of a house (Grandma's & Grandpa's old house outside Telford). Year is uncertain between 1993 and 1999 based on day-of-week alignment; 1993 seems slightly more likely given page position (pdf_page 111 of 350, early-mid volume). The left page is written in darker/black ink; this right page continues in blue ink, suggesting possible different writing session."
+    }
+  ]
+}

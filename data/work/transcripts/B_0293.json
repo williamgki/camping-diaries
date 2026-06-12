@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0293",
+  "volume": "B",
+  "pdf_page": 293,
+  "pages": [
+    {
+      "page_id": "B_0293_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday Bryony gave us lunch & we drove home to take the Mitchcocks to St. George's.\n\n__Friday August 4th__\n8 am we set off to the factory. Picked up lights. Dropped off dog. On to NE of Norwich to deliver lights for a depot for Lanzarote time share. Reached Seamark after 5 pm. Swam Supper at Golf Club with Charles & Jenny, John & Kaz, Peter, Nana, Conrad & Eleni. Peter treated us. Slept at Seamark. Got cystitis after long journey.\n\nSaturday [?Hodes] Moved to sleep outside Annie's. Mitsuba's & Taiki's wedding reception. Simon went on [?Meave] with Jenny & Peter & Conrad & Eleni. Eve helped with hall decorations. Lunch at Dolphin. 4 pm party. Coffee, meal, dancing dancing. Didn't feel well. Fortunately John did[d]",
+      "dates": [
+        { "raw": "Friday August 4th", "iso_guess": "2006-08-04", "confidence": 0.6 },
+        { "raw": "Saturday", "iso_guess": "2006-08-05", "confidence": 0.55 }
+      ],
+      "headings": ["Friday August 4th"],
+      "underlined_places": [],
+      "place_mentions": ["Norwich", "Lanzarote", "Seamark", "Dolphin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Top of page is a continuation from a previous page — 'Sunday' entry has no page number visible at top-left (image may be cut off). The word after 'Saturday' looks like '[?Hodes]' or a crossed-out word — uncertain. '[?Meave]' is unclear, possibly a place or a name. 'Mitchcocks' could be 'Mitchcocks' (a surname). 'St. George's' is a place or venue name. Year is inferred: 'Friday August 4th' + 'Wed 16th Aug' on the right page both fit 2006 — August 4 was a Friday and August 16 was a Wednesday in 2006 — but the year is not written explicitly on this spread, so confidence is moderate. 'Swam' appears as a superscript insertion above 'Supper'."
+    },
+    {
+      "page_id": "B_0293_R",
+      "side": "R",
+      "handwritten_page_no": 113,
+      "blank": false,
+      "full_text": "got a prescription off David.\n\nSunday milled around, chatted. Lunch in Dolphin garden. Lovely watching children. [?Ptr] Thomas has a large tent. Took Conta & Wanda to station. Simon suddenly suggested visiting Pernille & Kit.\n\nHamburgers on the way home. Junct 6 blocked so got off onto M42 & past airport & Chad. Home at 10.\n\n__Wed 16th Aug__\nSimon, Eve, Tinder left 86 at 10. Off to farm & then camping with John & Kay to celebrate John's 30th birthday on Saturday. It's Simon's second to last visit to look at the new hop barn before the hop harvest begins on Aug 31st. He & William worked on the zig-zagging conveyor belts with Chris & 2 other Polish workmen. Bryony was out singing - a choir for tutoring choral conductors from all over the world. Eve",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2006-08-06", "confidence": 0.5 },
+        { "raw": "Wed 16th Aug", "iso_guess": "2006-08-16", "confidence": 0.65 }
+      ],
+      "headings": ["Wed 16th Aug"],
+      "underlined_places": [],
+      "place_mentions": ["Dolphin", "M42", "Chad"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number 113 visible at top right. '[?Ptr]' before 'Thomas' is an unclear abbreviation — possibly 'Ptr' or similar. 'Conta' and 'Wanda' are names (unusual spelling of 'Konta'?). 'Pernille & Kit' are names. 'left 86' likely refers to the A86 or road 86 near their home. 'Chad' may refer to a local area or place near the airport (possibly near Birmingham/M42). 'Tinder' is likely a dog's name. The text ends mid-sentence ('Eve') — continues on the next page. Year inferred as 2006: 'Wed 16th Aug' fits August 16, 2006 being a Wednesday, and 'Friday August 4th' on the left page fits August 4, 2006 being a Friday. Year not explicitly written on this spread."
+    }
+  ]
+}

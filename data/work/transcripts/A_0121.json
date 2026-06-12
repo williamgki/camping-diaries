@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0121",
+  "volume": "A",
+  "pdf_page": 121,
+  "pages": [
+    {
+      "page_id": "A_0121_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "swimming pool, games room for children. Nice and empty. V. clean loos.\n   We walked into St. Columb. Nice old has-been town. Beautiful Georgian library [?] windows. We had a good beer at the pub, + fish + chips next door. Publican had brought back a 30 ft. R.V. from America.\nMay 3rd Tuesday\n   We had a 50p bath at the campsite + left.\nRain.\n   At __Truro__ the rain stopped leaving a blustery day. We visited the cathedral, mock Gothic, Bath stone & granite, 1910, the first to be finished in England since St. Paul's. Lovely organ music. Interesting monuments. We had elevenses in the Terrace & bought lunch at 17-S. Afterwards we walked up to look at the Law Courts 1986-88. Splendid modern architecture, circles, domes, a grass rectangle in front with skeletal square shapes to define it architecturally - brick, slate, thick glass. Strict colour schemes - white, grevy & green plants. Superb view of cathedral + distant pines + other trees on far hills.\n   We drove on to __St. Ives__ & camped at Ayr * * * high on the hill, looking down onto the enormous cemeteries, the new art Gallery St. Ives Tate; pretty beach & gorgeous turquoise sea with white crests.",
+      "dates": [
+        { "raw": "May 3rd Tuesday", "iso_guess": "1994-05-03", "confidence": 0.8 }
+      ],
+      "headings": [],
+      "underlined_places": ["Truro", "St. Ives"],
+      "place_mentions": ["St. Columb", "Truro", "St. Paul's", "Law Courts", "St. Ives", "Ayr", "St. Ives Tate"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page text begins mid-sentence, continuing from previous spread. No handwritten page number visible at top-left. 'grevy' may be 'grey' — transcribed as written. 'Ayr' campsite name followed by three asterisks/stars. 'May 3rd Tuesday' matches 1994-05-03; the mention of 'St. Ives Tate' (opened 1993) and Law Courts '1986-88' as past reference supports a mid-1990s date."
+    },
+    {
+      "page_id": "A_0121_R",
+      "side": "R",
+      "handwritten_page_no": 36,
+      "blank": false,
+      "full_text": "Madonna + Child\n   by\n   Barbara Hepworth\n\nSt. Ives parish church\n\nIn memory of her son,\nSimon, killed in\nThailand RAF\n1953\n\nThe gallery shuts at 9.pm. We looked in. I like the arbs architecture, but not many of the exhibits. Alfred Wallis, an old sailor had some paintings there, & there was an alcove of exhibits showing friendship between artists.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Ives parish church", "Thailand"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Madonna + Child by Barbara Hepworth  St. Ives parish church  In memory of her son, Simon, killed in Thailand RAF 1953"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in black-and-white photograph of a sculpture of Madonna and Child. Caption text is handwritten to the left of the photo. 'arbs' may be a misread — possibly 'arts' or 'arb's' (abbreviation for architect's); transcribed as written. Alfred Wallis is a well-known naive artist associated with St. Ives."
+    }
+  ]
+}

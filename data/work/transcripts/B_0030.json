@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0030",
+  "volume": "B",
+  "pdf_page": 30,
+  "pages": [
+    {
+      "page_id": "B_0030_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We walked out into a brewing thunderstorm & sheltered in 2 doorways. 2 men stood in Simon's doorway & one smoked his way through the storm. (Even at the scout jamboree in the square there were men in uniform smoking). The rain poured down in stair rods & thunder & lightning crashed simultaneously, like a hammer horror film. When it eased up we walked back to the campsite down the steps & along the road because it was too dark to see in the fields.\n\n__Sunday August 8th__\n    John went swimming yesterday with 5 of Charles' MDs in his pocket! Apparently they all still work! Simon & Charles are furious at the campsite owners who won't exchange other goods from the shop for our enormous drinking water bottles, that we no longer need.\n\n    We set off eastward & went up into a dead-end valley, Gistaín, to find a church. The service in Plan village fortunately started 35 minutes after we got there. It was a lovely, full church, a small prayer area with cushions at the back, too",
+      "dates": [
+        { "raw": "Sunday August 8th", "iso_guess": "2004-08-08", "confidence": 0.88 }
+      ],
+      "headings": ["Sunday August 8th"],
+      "underlined_places": [],
+      "place_mentions": ["Gistaín", "Plan"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues from previous spread (no handwritten page number visible on left page). Text continues onto right page. The right gutter margin has partial vertical handwritten text visible, reading approximately 'Valley of Gistaín, Aragon Pyrenees' — this text appears fully on the right page margin. 'MDs' likely refers to memory cards (for a digital camera), given context of swimming. Year 2004 inferred: B_0020 transcript has confirmed 2004 dates (June–July 2004), and August 8 fell on a Sunday in 2004."
+    },
+    {
+      "page_id": "B_0030_R",
+      "side": "R",
+      "handwritten_page_no": 28,
+      "blank": false,
+      "full_text": "altars with flowers, one had a book open with lives of the saints. The congregation sang the service with enthusiasm. The service, with sermon, took 35 minutes.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Plan", "Gistaín"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Plan Church, Valley of Gistaín, Aragon Pyrenees"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten page number '28' visible in top-right corner. Large glued-in photograph of a Romanesque church building with a printed caption 'PLAN' at the bottom of the photo. Vertical handwritten caption running along the left margin reads 'Plan Church, Valley of Gistaín, Aragon Pyrenees'. The main text below the photo is a continuation from the left page, describing the church interior and service. 'Gistaín' may also be spelled 'Gistain' — written form is consistent with the Spanish village in the Aragon Pyrenees (Valle de Gistaín / Chistau Valley)."
+    }
+  ]
+}

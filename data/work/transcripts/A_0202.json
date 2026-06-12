@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0202",
+  "volume": "A",
+  "pdf_page": 202,
+  "pages": [
+    {
+      "page_id": "A_0202_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday July 28th.\n\t After Tong cut our hair, Simon, Eve, John & Charles returned to __Alfreton__ to pick up the new cushions. They are excellent.\n\tWe stopped at a Kodak factory for a layby for lunch. A Group 4 security man very politely told us it was private, but wished us a good lunch. John & Charles got muddy. John held Tonic with one hand & peed with the other while the dog wrapped around him.\n\tWe went on to hear Peter play his sax in the __Upton Jazz Festival__. Lots of drunks. Super music. Peter & Thomas went home in the minibus. We took William for the night.\nWed [crossed out] Tuesday July 29th.\n\tSimon & Tonic went to supper at Tropley to show off the new cushions. All the rest of us were at Thoperness.\n\tTuesday July 29th\n\tAt 6.25. We all left for Amiens, including Loïc de Fursac, 17, the French exchange.",
+      "dates": [
+        { "raw": "Saturday July 28th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Tuesday July 29th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Alfreton", "Upton Jazz Festival"],
+      "place_mentions": ["Alfreton", "Upton Jazz Festival", "Tropley", "Thoperness", "Amiens"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "No handwritten page number visible — may be cut off. The writer appears to cross out 'Wed' and writes 'Tuesday' before 'July 29th', then repeats 'Tuesday July 29th' on the next entry — possible date confusion in original. 'Tropley' and 'Thoperness' are uncertain readings; could be 'Trapley'/'Thorpeness' (Thorpeness is a Suffolk village — plausible). 'Loïc de Fursac' is a French exchange student aged 17. Year not explicit on page; Channel Tunnel reference on right page suggests post-1994; position in volume suggests mid-to-late 1990s."
+    },
+    {
+      "page_id": "A_0202_R",
+      "side": "R",
+      "handwritten_page_no": 33,
+      "blank": false,
+      "full_text": "We dropped off a letter at Joan Harris' house on the way. Simon had only gone to bed at 12, up at 5am, + a 3¾ hr break for work at 1.45., because he is church warden as well as running the factory.\n\tWe are going M40, M25 (sw of London) + M20 to Folkestone + M2 to Dover. Our Tunnel train is 10.50 (Quai side 10.30.) + Loïc's train from Amiens → Perigord is 5 pm.\n\n[sketch of Amiens Cathedral]\n\n1220\n\n__Amiens Cathedral__. Unfortunately the rose window was boarded over. They were halfway through sand-blasting the cathedral, it the new part looks superb.\n\tWe had lunch on the Shuttle. No water can be poured, or washing up or coffee.",
+      "dates": [
+        { "raw": "10.50", "iso_guess": null, "confidence": 0.0 }
+      ],
+      "headings": ["Amiens Cathedral"],
+      "underlined_places": ["Amiens Cathedral"],
+      "place_mentions": ["Folkestone", "Dover", "Amiens", "Perigord"],
+      "route_sketch": false,
+      "route_sketch_description": "Page contains a hand-drawn architectural sketch of Amiens Cathedral facade (towers, nave roofline, rose window, central arch), labelled '1220' beneath. This is an architectural illustration, not a route map — no roads or direction arrows present. A small triangular sketch is also partially visible near the top-left gutter of this page, possibly a route or building outline.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number '33' visible top-right (partially cut). Route given as M40, M25, M20 to Folkestone, M2 to Dover — Channel Tunnel ('Tunnel train') to Amiens, then continuing to Perigord. 'Quai side' likely refers to quayside check-in at tunnel terminal. '3¾ hr' is a fraction written superscript. 'Perigord' likely Périgord region, SW France. Year not stated but Channel Tunnel opened 1994 so this is 1994 or later; positional evidence suggests mid-to-late 1990s."
+    }
+  ]
+}

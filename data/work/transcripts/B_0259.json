@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0259",
+  "volume": "B",
+  "pdf_page": 259,
+  "pages": [
+    {
+      "page_id": "B_0259_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Aiguille rock seen from the banks of the Borne\n\nI [?rea] remember seeing the allotments from the rock on our last visit.\n\n__Monday~Tuesday__\n It was so hot that it should have rained heavily in the night, with thunderstorms, but it didn't. There was a bit of rain in the morning. We cycled along the Voie Verte for 5 km to [?Auys] thro suburbs & past the view above. We climbed up to see the cathedral. You walk up the hill, then there are 60 steps until you reach the front of the building, then up another 75 steps to level with the top of the arch * – the walker comes out almost under the crossing at the front of the nave – very unusual.\n\t I bought lace & we walked around the town steep cobbles & had a good lunch. The buildings are 5 stories high. It [?is] a rich town.",
+      "dates": [
+        { "raw": "Monday Tuesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Monday Tuesday"],
+      "underlined_places": [],
+      "place_mentions": ["Borne", "Voie Verte", "Auys"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Aiguille rock seen from the banks of the Borne"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "The heading 'Monday' appears crossed out with 'Tuesday' written over or after it. 'Auys' is uncertain — given the context of the Aiguille rock, the Borne river, the Voie Verte, and climbing to a cathedral with an unusual crossing position, this is almost certainly Le Puy-en-Velay; 'Auys' may be a partial or abbreviated rendering. The 'I rea' before 'remember' looks like a false start. The asterisk (*) in the text appears to refer to something (perhaps a footnote or an earlier note) not visible on this page."
+    },
+    {
+      "page_id": "B_0259_R",
+      "side": "R",
+      "handwritten_page_no": 79,
+      "blank": false,
+      "full_text": "[Two photographs glued in. Top photo shows a town square with a large Romanesque cathedral facade, crowds of people, and tall stone buildings — likely Le Puy-en-Velay. Bottom photo shows a recumbent stone statue of a figure, with a printed caption card attached:]\n\nBelow the Holy Cross (15th century) lies the 'apparition' stone which is said to be part of the sick sanctuary. According to legend, in a dream, a sick woman received the order to climb the mount. When she reached the top, she noticed a flat stone where she lay down and fell asleep. Around her gathered \"a multitude of holy and saints, and above them, a woman of royal dignity and saints, and above her clothes, everything about her was majesty; her face, the woman of royal dignity about her was extraordinary beauty\". When she awoke, she was healed. Today,",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Le Puy-en-Velay"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Below the Holy Cross (15th century) lies the 'apparition' stone which is said to be part of the sick sanctuary. According to legend, in a dream, a sick woman received the order to climb the mount. When she reached the top, she noticed a flat stone where she lay down and fell asleep. Around her gathered \"a multitude of holy and saints, and above them, a woman of royal dignity and saints, and above her clothes, everything about her was majesty; her face, the woman of royal dignity about her was extraordinary beauty\". When she awoke, she was healed. Today,"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page number 79 visible in top-right corner, with a handwritten 'K' below it (possibly an annotation or marker). The right page contains two photos and a printed postcard/caption insert — the printed text is partially cut off at the bottom of the image. The place name 'Le Puy-en-Velay' is inferred from context (Aiguille rock, Borne river, cathedral) rather than being explicitly written on this page. The printed caption text about the Holy Cross sanctuary refers to the 'apparition stone' — this is consistent with the Cathedral of Notre-Dame du Puy at Le Puy-en-Velay."
+    }
+  ]
+}

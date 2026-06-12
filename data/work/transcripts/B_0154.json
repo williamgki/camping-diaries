@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0154",
+  "volume": "B",
+  "pdf_page": 154,
+  "pages": [
+    {
+      "page_id": "B_0154_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The [?Family] of Carlos [?III] / [?Madrid] 1800 / Goya. Prado / Blue boy on left in the [?] / a felon / (betrayed his people) / Most beautifully painted [?dress] in the middle",
+      "dates": [
+        { "raw": "1800", "iso_guess": "1800", "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Prado"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The [?Family] of Carlos [?III] [?Madrid] 1800 Goya. Prado Blue boy on left in the [?] a felon (betrayed his people) Most beautifully painted [?dress] in the middle"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.65,
+      "notes": "Page contains a glued-in photo of Goya's painting 'The Family of Carlos IV' (commonly mis-identified as Carlos III) from the Prado, Madrid. The year 1800 refers to the date of the painting, not the diary entry. Handwritten caption notes are written diagonally around the photo. The page number is not visible in the top-left corner. The right edge of this page bleeds into the right page text."
+    },
+    {
+      "page_id": "B_0154_R",
+      "side": "R",
+      "handwritten_page_no": 9,
+      "blank": false,
+      "full_text": "We caught a taxi back + had a siesta. Then Simon + Charles + Eugenio chatted. Suzana + Eve walked back to the centre - Puerta del Sol - + bought a Spanish dress for Flora with hairslide, fan + castanettes + a Spanish apron for Lizzie. Only at 10.45. did we go out for a walk + just before midnight we went to a bar, to give Charles (+ us!) a bowl of gazpacho + a sort of omlette! Suzana + Eugenio say they wouldn't normally have eaten again. It's still incredibly hot - they say hotter than usual - 40° in Toledo, but only 37° in Madrid. We have fans in the bedrooms.\n\n__Thursday__\nWe left as the parking metre started at 9 am. Elevenses was an ideal spot, at the edge of a field of sunflowers under the shade of a willow tree. Charles paddled in the river but didn't fall in. It was so cool that he wore a sweater. We shopped at a super market for lunch.",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": [],
+      "place_mentions": ["Puerta del Sol", "Toledo", "Madrid"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page number 9 visible in top right corner. The text is a continuation from the previous page. People named include Simon, Charles, Eugenio, Suzana, Eve, Flora, Lizzie. The year cannot be firmly established from this page alone; the trip is to Madrid/Spain. The 'Thursday' heading is underlined in the original."
+    }
+  ]
+}

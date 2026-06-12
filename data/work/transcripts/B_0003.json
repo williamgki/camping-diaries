@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0003",
+  "volume": "B",
+  "pdf_page": 3,
+  "pages": [
+    {
+      "page_id": "B_0003_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "53 Knapton\n54 Cambridge\n   Oxburgh Hall\n   Mileham\n   East Dereham\n56 Reepham\n   Blickling Hall\n   Halesworth\n57 Corby",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Knapton", "Cambridge", "Oxburgh Hall", "Mileham", "East Dereham", "Reepham", "Blickling Hall", "Halesworth", "Corby"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Index page mapping diary page numbers to place names. Entries: 53→Knapton, 54→Cambridge (with sub-entries Oxburgh Hall, Mileham, East Dereham), 56→Reepham (with sub-entries Blickling Hall, Halesworth), 57→Corby. Left margin also shows a separate column of numbers (partially visible: 1, 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18...) which appear to be additional page-number entries from a continuation of the index — text for these entries is cut off at the gutter edge. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0003_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday August 6 2005\nAt 9.15. we left the Gemmeke's house in Weimar. We are: Thomas 23, John about to be 16, Charles 14 + Simon & Eve.\n   We drove to Buchenwald, arriving at 9.5[illegible]. __Buchenwald__ was the prototype concentration camp + had satelite camps. It was where the SS trained. 1937-45. Then the Russians ran it for 5 years.\n   250,000 passed through. 50,000 died, of [?whom] 1,000 were strangled. Many were shot in the back of the neck. They were \"Social misfits\", politicians, Jehovas Witnesses, Jews, homosexuals. The week they were liberated, April 11th 1945, the American soldiers made local Weimar people walk through the camp. We saw the ovens.\n   It's very hot. We stopped at a supermarket, then had lunch next to a railway line. We drove on to find a campsite by a lake. The first one was full. We've stopped at __Neumannshof__. It's crowded, no shade, + the swimming is a bit dirty-looking down a steep shale slope. John + Eve had trouble with the credit-card showers. Lots of instant bbqs stink. There's a barking dog right next to us.\nSunday\nWe left to drive Thomas to the station at Saalfeld for an 11.45 train. We discussed how poor E. Germa[ny illegible]",
+      "dates": [
+        { "raw": "Saturday August 6 2005", "iso_guess": "2005-08-06", "confidence": 0.97 },
+        { "raw": "April 11th 1945", "iso_guess": "1945-04-11", "confidence": 0.95 },
+        { "raw": "1937-45", "iso_guess": "1937", "confidence": 0.9 }
+      ],
+      "headings": ["Saturday August 6 2005", "Sunday"],
+      "underlined_places": ["Buchenwald", "Neumannshof"],
+      "place_mentions": ["Weimar", "Buchenwald", "Neumannshof", "Saalfeld"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Text is cut off on the right edge of the image throughout (gutter overlap). Key losses: end of line 2 ('John about to be 16' — '16' may be slightly cut), several line endings in the main body. 'satelite' sic (diary spelling). Date at top reads 'Saturday August 6 2005' — 2005-08-06 was indeed a Saturday. 'Gemmeke's' is a surname, not a place. 'E. Germa[ny]' at the bottom is cut; likely continues 'East Germany' on next page. '9.5[illegible]' — arrival time unclear, possibly 9.50 or 9.55. 'of [?whom]' — word partially cut at right edge."
+    }
+  ]
+}

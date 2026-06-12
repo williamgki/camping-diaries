@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0214",
+  "volume": "A",
+  "pdf_page": 214,
+  "pages": [
+    {
+      "page_id": "A_0214_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The water drips through so fast that the stalactites are small, but the stalagmites are enormous. The largest one is 30 metres high. They grow at a rate of 1 centimetre a century. (Am I finally going metric?)\n    We had a cup of tea & left at 7. We drove on to __La Malene__. The campsite [?hecos] was full, so we went on to the next one, 4 miles [--] further down the Tarn. The tents are not so close together, but perhaps the people are a bit dirty. After putting up the tent, we drove back to Malene for a pizza - lovely quick service.\n    The jig zag [strikeout] road which we came down on to the village, was quite scary. Simon had to keep going back & forth to get around the hair pin bends.\n\n__Sunday 10th August__\n    We had tea, Eve had a quick dip in the river & we set of for breakfast in the Malene carpark. Thomas bought baguettes & croissants while I put on the kettle. After breakfast Simon & Eve booked 2 boats & then we all went to church, except Peter. The service was the best that I've been to",
+      "dates": [
+        { "raw": "Sunday 10th August", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sunday 10th August"],
+      "underlined_places": ["La Malene"],
+      "place_mentions": ["La Malene", "Tarn", "Malene"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues from a previous spread describing a cave visit (stalagmites/stalactites - context from right page suggests Aven Armand). The word after 'campsite' is unclear - possibly a campsite name abbreviation, reads like '[?hecos]'. There is a strikethrough word before 'road' (appears to be 'rod' crossed out). Text is cut off mid-sentence at bottom. Year unknown from this page alone; Sunday 10th August does not help narrow the year without more context. Volume covers 1989-2003."
+    },
+    {
+      "page_id": "A_0214_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We parked under a weeping willow. Simon again drove into the tree.\n\nOur boatman was called Yves.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Gorges du Tarn", "Aven Armand"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "3 LES BATELIERS DES GORGES DU TARN - Visite guidee de 8 km sur les eaux du Tarn",
+        "4 AVEN ARMAND - En suivant le guide, 45 mn d'enchantement"
+      ],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page contains two glued-in tourist photo cards: card 3 'Les Bateliers des Gorges du Tarn' (boat trip on the Tarn) and card 4 'Aven Armand' (cave). A large glued-in printed road map of southern France (showing Montpellier, Nimes, Beziers area) occupies most of the right side. A pressed or drawn feather is in the lower-left area. Handwritten text appears in the left margin alongside these items. No handwritten page number visible in top-right corner."
+    }
+  ]
+}

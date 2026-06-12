@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0327",
+  "volume": "A",
+  "pdf_page": 327,
+  "pages": [
+    {
+      "page_id": "A_0327_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We arrived at our old camp site at the [?Ardèche] only to find it was full, & the one next to it.... We decided to book canoes for the next day, & up the slope we found __Raymond__. The woman in charge said we could stay in her field overnight if we were using her boats the next day. We paid for the boats & to stay overnight in the second livourne, Gournier. The whole trip came to 141€, £90. Charles swam in the river, watched by Peter. John & Simon & Eve bought bread & meat & 6 bottles of drinking water in the village. We had supper at the boat hire place. A man who smoked a pipe & had dirty hands cooked & served the food. Simon had mussels. The people were friendly, but the place was grubby. They had wallabies in a pen.\n__Monday__ At 8.30 we were kitted out with paddles, life jackets & stabs/barrels. The woman [?drove] us up to the Pont d'Arc & dropped us off. It was not as hot as the time we came before, 12 years ago.\n  We paddled all day, slept at Gournier, & paddled on to S. Martin & arrived at 1.30 pm. We had a very [?leisurely] first day. Charles pointed out beavers, Castor, to Eve. Peter was the only one of us who didn't capsize and rapid, which was just as well, because he didn't take shoes on the trip & wouldn't do up his life jacket.",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Raymond", "Gournier", "Pont d'Arc", "S. Martin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "Page begins mid-sentence, continuing from the previous spread. The campsite at the start is likely on the Ardèche river (France). 'livourne' may be a misspelling or unusual usage; could be 'bivouac' or similar — transcribed as written. 'second livourne' is unclear. The £90 / 141€ cost detail suggests a post-euro era (euro introduced 2002), so likely 2002 or 2003. '12 years ago' reference to a previous visit supports a revisit date in that era. 'S. Martin' likely refers to Saint-Martin-d'Ardèche. 'Raymond' appears to be a place name (campsite or locality up the slope)."
+    },
+    {
+      "page_id": "A_0327_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 1.0,
+      "notes": "Right page is entirely filled by a large colour photograph of a family (adults and a child) in a blue inflatable canoe/raft on a river, all wearing life jackets and holding paddles. No text, captions, or handwritten page number visible. The left margin of the image scan shows bleed-through of the left page text (overlap), but no distinct right-page text."
+    }
+  ]
+}

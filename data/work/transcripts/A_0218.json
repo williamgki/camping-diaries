@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0218",
+  "volume": "A",
+  "pdf_page": 218,
+  "pages": [
+    {
+      "page_id": "A_0218_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Charles swimming, + went to taste wine at Michel Isaie. We paid for 60 bottles. At the camp we lunched, rested + swam. After tea, Thomas, William + Peter read. Simon, Eve John + Charles [?bought charcuteries] walked up by water troughs + saw a bird farm. It gradually dropped more + more rain drops ... + then poured down. Peter + Eve read in the tent while the others went out in the van to pick up the Charcuterie + wine. John + Charles were given a tour of the caves.\n\n\tFor supper we had pâté + Thomas + John fetched hot chips from the café at the acceuil, which were delicious.\n\n__Friday 15th August.__\n\tSimon gave me tea at 8. We left at 10.10. We have headed up the pay motorway past Reims. We happened to stop at the same Aires 3 times with another family - There is about 7 hours' driving.\n\n\tAfter circling in a spiral for what seemed ages, we finally found La Belle Pêche *** at Hames-Boucres. It's a bit __old + tired__, full of families, nice dogs, friendly people + gnomes in their fenced-in [?playground] gardens. The café has happy music",
+      "dates": [
+        { "raw": "Friday 15th August", "iso_guess": "1997-08-15", "confidence": 0.85 }
+      ],
+      "headings": ["Friday 15th August."],
+      "underlined_places": [],
+      "place_mentions": ["Michel Isaie", "Reims", "La Belle Pêche", "Hames-Boucres"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "The campsite name 'Hames-Boucres' could also read 'Hames-Bougies' — the penultimate letter group is slightly ambiguous; Hames-Boucres is a real commune near Calais so that is the preferred reading. 'Michel Isaie' is a wine producer name, possibly 'Michel Isaïe'. The word 'acceuil' is the diarist's spelling of 'accueil'. The annotation above 'Charles' appears to read 'bought charcuteries' but is faint and inserted. Year 1997 inferred from the route map on the right page labelled 'FRANCE 1997'."
+    },
+    {
+      "page_id": "A_0218_R",
+      "side": "R",
+      "handwritten_page_no": 48,
+      "blank": false,
+      "full_text": "[Hand-drawn map of France with regions labelled and a pink route line marked with campsite triangle symbols. Labels on the map: Picardy, Amiens, Ile-de-France, Normandy, Paris [?Avril], Champagne, Lorraine, Alsace, Brittany, Loire Valley, Burgundy, Franche-Comté, Poitou/Charentes, Limousin, Auvergne, Rhône Valley, Savoy, Aquitaine, Pyrénées, Conques, Chalon of Saône, Rhône, Tampiny [?Tain l'Hermitage], Bourges, Languedoc/Roussillon, Côte d'Azur, Provence, Riviera. Route appears to run from Picardy southward through Amiens, Paris area, [unnamed stop], Bourges, [unnamed stop in Auvergne], Conques, then east to Tampiny/Rhône area, then north back up through Chalon of Saône, and back to Picardy.]\n\nFRANCE 1997",
+      "dates": [
+        { "raw": "FRANCE 1997", "iso_guess": "1997", "confidence": 0.95 }
+      ],
+      "headings": ["FRANCE 1997"],
+      "underlined_places": [],
+      "place_mentions": ["Picardy", "Amiens", "Ile-de-France", "Normandy", "Champagne", "Lorraine", "Alsace", "Brittany", "Loire Valley", "Burgundy", "Franche-Comté", "Poitou/Charentes", "Limousin", "Auvergne", "Rhône Valley", "Savoy", "Aquitaine", "Pyrénées", "Conques", "Chalon of Saône", "Rhône", "Tampiny", "Bourges", "Languedoc/Roussillon", "Côte d'Azur", "Provence", "Riviera"],
+      "route_sketch": true,
+      "route_sketch_description": "A hand-drawn outline map of France with regional labels. A pink/red route line connects campsite markers (small triangles) starting in the Picardy region in the north, running south through Amiens, the Paris/Île-de-France area, a stop in the Loire Valley area, then Bourges, continuing south-west through Auvergne to Conques, then east to the Rhône area (Tampiny), then north up through Chalon of Saône back towards the starting point in Picardy. Title at bottom reads 'FRANCE 1997'.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.9,
+      "notes": "The stop labelled near Paris could be 'Paris' or 'Avril' — difficult to read clearly. 'Tampiny' on the map likely refers to Tain-l'Hermitage or a nearby Rhône Valley stop — transcribed as written. 'Chalon of Saône' is the diarist's rendering of Chalon-sur-Saône."
+    }
+  ]
+}

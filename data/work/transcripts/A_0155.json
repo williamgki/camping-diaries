@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0155",
+  "volume": "A",
+  "pdf_page": 155,
+  "pages": [
+    {
+      "page_id": "A_0155_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the village. It is glorious. We went to the diocesan museum, which has one of the most beautiful cloisters I have ever seen. The collegiate church has wonderful Romanesque late [12] carvings.\n\n[photo of stone relief carving]\n\nSt. Juliana taking the demon captive.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["St. Juliana taking the demon captive."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page begins mid-sentence continuing from previous spread. References a diocesan museum and collegiate church with Romanesque late 12th century carvings, consistent with Santillana del Mar context visible on right page. The '[12]' notation appears to be a circled '12' in the original, likely meaning 12th century."
+    },
+    {
+      "page_id": "A_0155_R",
+      "side": "R",
+      "handwritten_page_no": 68,
+      "blank": false,
+      "full_text": "A good hotel to stay in would be Paradores, Playa Ramon Pelayo 8, 39330 Santillana del Mar, Cantabria. 942-81-80-00. First or 2nd floor\nFax 942, 81-83-91.\n\nThere are 4 apostles + a Panto Creator too.\n\nJohn bought a penknife + we nearly bought a goatskin. We had a delicious supper with white bean soup with a few blobs of sausage, + a pudding of semolina + honey cake.\n\nThere are also the Altimira Caves near by, but we have not gone to them.\n\n__Saturday 29th July__\n\nAfter early sun, a mist surrounded the campsite. We left early in the damp + drove westward, stopping to shop at San Vincente de Barche, where Peter bought a pen knife + we tasted cheeses + sausage at the market. The town was built on a good defensive position on 2 estuaries. We had lunch inland, + found a good swimming river for the boys to try out 2 rubber boats which we [?just] bought.",
+      "dates": [
+        { "raw": "Saturday 29th July", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Saturday 29th July"],
+      "underlined_places": [],
+      "place_mentions": ["Santillana del Mar", "Cantabria", "Altimira Caves", "San Vincente de Barche"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "The hotel address is for Paradores in Santillana del Mar, Cantabria, Spain. 'Altimira Caves' is likely Altamira Caves (the famous cave paintings near Santillana del Mar) — transcribed as written. 'San Vincente de Barche' could read 'San Vincente de la Barquera' — the diary spells it 'Barche'; this is a coastal town in Cantabria. 'Panto Creator' likely means 'Pantocrator' (Christ in Majesty). Year cannot be determined from this page alone; the volume covers 1989–2003 and this is page 68 of handwritten pagination."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0343",
+  "volume": "B",
+  "pdf_page": 343,
+  "pages": [
+    {
+      "page_id": "B_0343_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 1.0,
+      "notes": "Page appears blank. Text visible at the far right edge of the scan is overlap from the right page (gutter bleed) and has been transcribed there."
+    },
+    {
+      "page_id": "B_0343_R",
+      "side": "R",
+      "handwritten_page_no": 44,
+      "blank": false,
+      "full_text": "__11am Friday April 23rd. St George's Day 2021__\n   Simon, Eve & Tinder set off. Picnic lunch on the way, then tea with John & Kay & Eben near Cardiff. Lovely sunny day. They took us to Dyffryn Gardens where Simon & Eben played in the log garden. It was so lovely to see them after lockdown 7 months. On to a campsite for 3 nights on N. Gower coast. Salt Flats.\n   It was a long journey with a glaring sun in our eyes & at the end we had trouble getting through an old farmyard into the campsite. Then the heater wouldn't heat at first. However, things got better & we had a good night. Lovely views of the salt marsh estuary where they fatten sheep.\n   __Saturday__\n   We move the van up the hill, for a better view especially of the sunset. We went into the castle which has an interesting exhibition of castles on the Gower, mostly started by Norman colonisation.\n   Then we walked 4 miles & back along the coastal path, first where the sheep graze on the salt marshes to Llanrhidian. Alas, the pub is still closed because of COVID19. We came back along the high ground.",
+      "dates": [
+        { "raw": "Friday April 23rd. St George's Day 2021", "iso_guess": "2021-04-23", "confidence": 0.98 },
+        { "raw": "Saturday", "iso_guess": "2021-04-24", "confidence": 0.85 }
+      ],
+      "headings": ["11am Friday April 23rd. St George's Day 2021", "Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Cardiff", "Dyffryn Gardens", "N. Gower coast", "Salt Flats", "Gower", "Llanrhidian"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Date 2021-04-23 is explicitly written as St George's Day 2021, confirming the year. The name 'Tinder' likely refers to a dog. 'Dyffryn Gardens' could also read '[?Dyffryn] Gardens' — Dyffryn House/Gardens is near Cardiff, consistent with context. 'Llanrhidian' is a village on the Gower peninsula. The final line reads 'high ground' but is cut off at the bottom of the scan. '7 months' after lockdown supports 2021 context. The handwritten page number 44 appears top-right."
+    }
+  ]
+}

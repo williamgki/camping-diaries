@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0143",
+  "volume": "A",
+  "pdf_page": 143,
+  "pages": [
+    {
+      "page_id": "A_0143_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "April 21st 1995. Friday\n\n5.45pm we left for the west. We stayed at __Stoke Works__. *** Its very friendly. We nearly didn't go because John had a bad cough & the weather forecast was bad. But we changed our minds on the Friday afternoon & packed supper & breakfast.\n\nThe site is only 20/25 minutes away near Droitwich, a railway is near. We walked along the pretty canal. A leisure centre club house provides bowling & billiards. On Saturday evening there was Country Western from the 60s. One evening there was to be a male stripper. The field was built next to a chemical plant, over tyres, so it was wonderfully dry. A man had organised a treasure hunt for Saturday morning. But as it was raining, we left straight after breakfast.\n\nWe'll return to Malvern on Sunday to see Thomas & take Bertrand across to the airport after his fortnight in England.\n\nSimon 45, Eve 41, (Thomas 15) William 13, Peter 11, John 7, Charles 6.",
+      "dates": [
+        { "raw": "April 21st 1995. Friday", "iso_guess": "1995-04-21", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": ["Stoke Works"],
+      "place_mentions": ["Stoke Works", "Droitwich", "Malvern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The ages listed at the end (Simon 45, Eve 41, Thomas 15, William 13, Peter 11, John 7, Charles 6) appear to be a snapshot of family members' ages at the time of writing. 'Stoke Works' is underlined. Three asterisks (***) appear after 'Stoke Works' likely indicating a recommended site. 'bad cough' — could read 'bad cough' or 'bad cold'."
+    },
+    {
+      "page_id": "A_0143_R",
+      "side": "R",
+      "handwritten_page_no": 37,
+      "blank": false,
+      "full_text": "April 23rd Sunday.\n\nWe drove to Malvern, had scones with Thomas & picked up Bertrand. We lunch at the church hall of St. Peter's, St. Catherine de Barnes, a good picnic place with swings, & dropped Bertrand at the airport.\n\n__April 27th Friday__\n\nAt 6.40 pm Simon & Eve left for a holiday in the Lake District. Thomas is at Malvern, William is weekly boarding in his last term at Blue Coat. Peter had [?just] started weekly boarding. John is boarding Mon-Fri. Karolene the au pair is looking after Charles. Jim, Margaret & Helen are helping out at the weekends.\n\nWe drove north in lovely sunshine to Vale Royal, near Knutsford. After leaving the motorway we zigzagged & went in circles to find __Foxcovert Farm__ (covert) campsite *** at 8.15. Very pretty sheltered small valley.\n\n__Saturday__ We left at 9.30. We had lunch at Bowness next to a graveyard & drove on to Rydal Water. We walked 3 miles around Rydal Water, seeing Wordsworth's house which was closed, as it was after 5pm, & Rydal Hall",
+      "dates": [
+        { "raw": "April 23rd Sunday", "iso_guess": "1995-04-23", "confidence": 0.97 },
+        { "raw": "April 27th Friday", "iso_guess": "1995-04-27", "confidence": 0.97 },
+        { "raw": "Saturday", "iso_guess": "1995-04-28", "confidence": 0.85 }
+      ],
+      "headings": ["April 27th Friday", "Saturday"],
+      "underlined_places": ["Foxcovert Farm"],
+      "place_mentions": ["Malvern", "St. Peter's", "St. Catherine de Barnes", "Lake District", "Blue Coat", "Vale Royal", "Knutsford", "Foxcovert Farm", "Bowness", "Rydal Water", "Rydal Hall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The handwritten page number '37' appears in the top right corner. 'Foxcovert Farm' is underlined with 'Foxcovert' written over a crossed-out word (possibly 'Foxcovert' was initially written differently — the original word appears struck through; reading is 'Foxcovert'). 'covert' in parentheses appears to be a clarification of the campsite name spelling. Three asterisks (***) follow the campsite entry. 'St. Catherine de Barnes' — could also read 'St. Catherine de Barres'; likely Catherine-de-Barnes near Birmingham airport. 'Karolene' — spelling uncertain, could be 'Karolene' or 'Carolene'. The text is cut off at the bottom of the page."
+    }
+  ]
+}

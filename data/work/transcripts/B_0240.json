@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0240",
+  "volume": "B",
+  "pdf_page": 240,
+  "pages": [
+    {
+      "page_id": "B_0240_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Photo of polished stone axes arranged in a fan pattern; caption written vertically alongside photo:] Big polished axes discovered at Carnac, Alpine jadite, Neolithic, 4500-4000 av. JC.\n\nAfter lunch we walked about ¼ mile to the Museum of Prehistory. It was pouring as we walked back to [continued on right page] the van & we got very wet. Thank goodness [continued on right page] for dry clothes & a cup of tea.\nThe museum had an interesting silent film from di[fferent/continued on right page]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Carnac"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Big polished axes discovered at Carnac, Alpine jadite, Neolithic, 4500-4000 av. JC."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page contains a glued-in photo/postcard of polished Neolithic stone axes from Carnac. The caption is written vertically in blue ink alongside the photo. The main diary text runs from left page into the right page gutter and continues on the right page. 'av. JC.' = avant Jésus-Christ (BC). 'jadite' may be 'jadeite' (the writer's spelling preserved). Some words at the right edge of this page are cut off where text continues onto the facing page."
+    },
+    {
+      "page_id": "B_0240_R",
+      "side": "R",
+      "handwritten_page_no": 60,
+      "blank": false,
+      "full_text": "[Continuation of text from left page, left margin:] [illegible] [illegible] [illegible]\n\n[Postcard glued in: LOCMARIAQUER - Sites mégalithiques, showing multiple megalithic sites; caption written vertically on right margin:] [?Table Rutual], Pierres Plates, Menhir Brisé, Kercadoret dolmen\n\n1925. The wife of one of the archeologists bought a 16 mm camera. She & the whole family worked at arch!. Her husband was shot at the end of the war because he didn't join the [?French] army (he fought wi. Germans)",
+      "dates": [
+        { "raw": "1925", "iso_guess": "1925", "confidence": 0.7 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Locmariaquer", "Pierres Plates", "Menhir Brisé", "Kercadoret"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["LOCMARIAQUER - Sites mégalithiques", "[?Table Rutual], Pierres Plates, Menhir Brisé, Kercadoret dolmen"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Page number 60 at top right. Contains a glued-in postcard of Locmariaquer megalithic sites (Brittany, France). The vertical caption on the right margin lists sites shown; first entry hard to read — could be 'Table Rituel' or 'Table Rutual' (likely 'Table des Marchands' or similar local name). The '1925' date in the diary text refers to a historical date mentioned in the museum film about an archaeologist's wife — not the year the diary was written. The army referred to may be the French army; 'he fought wi. Germans' = fought with/for the Germans. Some left-margin text is a continuation from left page and partly obscured by gutter."
+    }
+  ]
+}

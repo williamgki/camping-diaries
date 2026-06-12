@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0342",
+  "volume": "A",
+  "pdf_page": 342,
+  "pages": [
+    {
+      "page_id": "A_0342_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Tuesday June 17th__\n\nSamon + Eve set off at 4 for Cambridge + parked at William's house, 7 Maddingley Rd. We got dressed up. Friends fetched William + Bryony from Kings College, where they had been getting ready for the May Ball. Bryony looked fabulous in purple.\n\nWilliam had managed to get us first-sitting dinner tickets in the long room at 8 pm. Thanks to his contacts we didn't have to queue for 3 hours, but walked straight in. It's the longest room lit by candlelight in Europe. Candle brackets on wood panelling. Very beautiful.\n\nWe had a wonderful evening, good food + wine, kir ice sorbets, Fireworks + it was dry enough to sit",
+      "dates": [
+        { "raw": "Tuesday June 17th", "iso_guess": "1997-06-17", "confidence": 0.6 }
+      ],
+      "headings": ["Tuesday June 17th"],
+      "underlined_places": [],
+      "place_mentions": ["Cambridge", "Maddingley Rd", "Kings College"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "No handwritten page number visible on the left page; it may be cut off at the scan edge. The name 'Samon' appears to be 'Simon' — diary elsewhere uses 'Simon'; transcribed as written ('Samon'). 'Maddingley' could also read 'Maddingley' (Madingley Road, Cambridge). Year estimated as 1997: Channel Tunnel mentioned on the right page (opened 1994) and 17 June was a Tuesday in 1997; 1 August was a Friday in 1997 — both day/date matches in the same spread strongly suggest 1997."
+    },
+    {
+      "page_id": "A_0342_R",
+      "side": "R",
+      "handwritten_page_no": 86,
+      "blank": false,
+      "full_text": "on the grass despite recent rain. There were students hurling themselves around on bouncy castles + other games.\n\nWe sat in the courts + listened to a piano recital + saw lots of dancing to strobe lights.\n\nAfter going to bed at 3 am, we left at 7.45. for the factory and home.\n\n__Friday 1st August__\n\nSimon, Eve, Thomas, John Charles left at 6 for Germany. We called at the factory to [illegible] pack up + drop off 4 lights that Simon + Sue had forgotten to send.\n\nOn to __Ashford__ in Kent, to Broad Hembury Campsite *** [?½] (OK for using en route to Tunnel). 10pm\n\n__Saturday__\n\nThe day has started off badly. We thought that there was only bread for breakfast, + that we'd have oat flakes + raisins too. But then",
+      "dates": [
+        { "raw": "Friday 1st August", "iso_guess": "1997-08-01", "confidence": 0.65 },
+        { "raw": "Saturday", "iso_guess": "1997-08-02", "confidence": 0.6 }
+      ],
+      "headings": ["Friday 1st August", "Saturday"],
+      "underlined_places": ["Ashford"],
+      "place_mentions": ["Ashford", "Kent", "Broad Hembury Campsite", "Germany", "Tunnel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The star rating after 'Campsite' reads '***' followed by what appears to be a fraction mark — possibly '*** ½'. The word before 'pack up' is illegible (crossed out or obscured). 'Tunnel' refers to the Channel Tunnel. 'Broad Hembury Campsite' — could also read 'Broad Hembury' as one place name near Ashford, Kent. Year 1997 inferred: 1 August 1997 was indeed a Friday, consistent with the diary entry. The left page's 'Tuesday June 17th' also matches 17 June 1997."
+    }
+  ]
+}

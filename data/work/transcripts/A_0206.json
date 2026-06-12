@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0206",
+  "volume": "A",
+  "pdf_page": 206,
+  "pages": [
+    {
+      "page_id": "A_0206_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The Palais of Jacques Coeur. Tristan + Iseult. The king's face is reflected in the water. A sculpture in the high tower treasury room. Having done much for the king! Jacques Coeur was imprisoned, but his house was returned to his family in 1457, the year after he died.",
+      "dates": [
+        { "raw": "1457", "iso_guess": "1457", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Palais of Jacques Coeur"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Palais of Jacques Coeur. Tristan + Iseult. The king's face is reflected in the water. A sculpture in the high tower treasury room."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Left page contains a large glued-in photograph of a stone sculpture relief (identified in caption as from the Palais of Jacques Coeur, possibly the Tristan and Iseult scene). The text wraps around the photo and continues as a caption below. The sentence beginning 'Charles chose this card.' starts in the right margin of the left page and continues onto the right page — it has been placed entirely in the right page transcript to avoid duplication."
+    },
+    {
+      "page_id": "A_0206_R",
+      "side": "R",
+      "handwritten_page_no": 37,
+      "blank": false,
+      "full_text": "Charles chose this card. The coat is within Petites Madeleines out of the oven. The copper box on the aga holds water. The top is low down. This picture shows the moat.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Chateau de la Ferte Saint Aubin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["CHATEAU DE LA FERTE SAINT AUBIN"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.80,
+      "notes": "Right page contains a glued-in postcard labelled 'CHATEAU DE LA FERTE SAINT AUBIN' showing three images: an aerial/exterior view of a chateau, a kitchen scene with a person in chef's whites, and a view through an archway of a moat. The handwritten text (running vertically down the left margin) describes the postcard and was chosen by someone named Charles. The word 'coat' may be a misread — could be 'coat of arms' abbreviated, or possibly 'cook' — the handwriting is slightly ambiguous. 'Petites Madeleines' likely refers to the small cakes visible or referenced in context."
+    }
+  ]
+}

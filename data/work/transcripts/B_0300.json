@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0300",
+  "volume": "B",
+  "pdf_page": 300,
+  "pages": [
+    {
+      "page_id": "B_0300_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Lantern Vault of Bell Harry Tower, Canterbury Cathedral. By John Wastell 1503. Coats of Arms of Goldstone + Norton (Norton's Fork) The centre is a trap door above which is the large treadmill used in the construction of the tower.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Canterbury Cathedral", "Bell Harry Tower"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Lantern Vault of Bell Harry Tower, Canterbury Cathedral. By John Wastell 1503. Coats of Arms of Goldstone + Norton (Norton's Fork) The centre is a trap door above which is the large treadmill used in the construction of the tower."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page consists of a glued-in photograph of the vault ceiling of Bell Harry Tower at Canterbury Cathedral, with a handwritten caption below. No handwritten page number visible. 'Coats of Arms of Goldstone + Norton (Norton's Fork)' — Norton's Fork is a historical reference; 'Goldstone' could also read 'Goldstone' or similar. No year is present on this page; contextual placement in volume B near page 300 suggests circa 2018 based on the adjacent right-hand page's date inscription."
+    },
+    {
+      "page_id": "B_0300_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Camping van log April 13th 2018 – June 25th 2022\n\nSophie Allport\n\nThis book belongs to...\nSimon + Eve Kirby\n\n86 Westfield Rd, Edgbaston B15 3JG  U.K\n\nÉglise abbatiale, choeur",
+      "dates": [
+        { "raw": "April 13th 2018 – June 25th 2022", "iso_guess": "2018-04-13", "confidence": 0.95 }
+      ],
+      "headings": ["Camping van log April 13th 2018 – June 25th 2022"],
+      "underlined_places": [],
+      "place_mentions": ["Edgbaston", "Abbaye Notre-Dame de Sénanque"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Église abbatiale, choeur"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "This is the inside front cover / ownership page of a new journal (Sophie Allport branded notebook). The date range 'April 13th 2018 – June 25th 2022' inscribed at the top gives the span of the volume. 'This book belongs to...' is printed text on the label; 'Simon + Eve Kirby' and the address are handwritten. A small photo postcard of the Église abbatiale choeur at Abbaye Notre-Dame de Sénanque (Provence, France) is glued in, along with the abbey's printed logo/bookmark. The handwritten page number '1' may be faintly visible at the far left edge but is uncertain — recorded as null. 'Abbaye Notre-Dame de Sénanque' inferred from the printed logo text on the bookmark."
+    }
+  ]
+}

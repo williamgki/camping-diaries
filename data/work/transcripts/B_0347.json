@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0347",
+  "volume": "B",
+  "pdf_page": 347,
+  "pages": [
+    {
+      "page_id": "B_0347_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "June 6th  My birth day. Kay had cooked me a super chocolate cake which we ate yesterday. We were supposed to meet up with William & family at Hay Bluff, but instead Bryony & William had us at the farm as the weather was cooler. Fred & Ginger (pigs) & sheep are there. At the end of the day, Joseph, Seb & Nina swam. I fell over on the walk back from the church. But it was a super day.\n\n2 pm Monday June 28th\nSimon, Eve, Tinder drive to Rutland water. Damp, gloomy mist & rain. Tinder & Simon walk. Eve stays in the van. Linton top.\n\nTuesday\nWe cycled along Rutland Water path. Tinder was in the bike bag most of the way. We visited a very pretty church at Edith Weston & then a partly sunken church. R.W. is the largest [?reser] in Britain by area (but more volume in Kielder) A chatty man who had been artist in residence at Stowe was also on a bike ride. Simon cycled along the road back to the van to fetch it down to",
+      "dates": [
+        { "raw": "June 6th", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "2 pm Monday June 28th", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Hay Bluff", "Rutland water", "Linton top", "Rutland Water", "Edith Weston", "Kielder", "Stowe"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "No year visible on this page. Volume B covers 2003-2019. 'R.W. is the largest [?reser]' — the word is likely 'reservoir' cut off at page edge. 'Linton top' may be a campsite name. 'Hay Bluff' is in the Black Mountains/Brecon Beacons area, Wales. 'Ginger' and 'Fred' are pigs' names. Tinder appears to be a dog (rides in a bike bag)."
+    },
+    {
+      "page_id": "B_0347_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the lake to pick up Tinder & Eve for which [wheel?] we were very grateful. For the first time Tinder has consented to ride in the bag. Something \"gave\" in my hip whilst retelling & my hip hurts.\n\nWe drove on to Stamford. The town is lovely we walked around. Lots of bridges. The church on the main street was ruined by a developer but the other buildings, often Georgian, are super. A bit like Cambridge without students & tourists.\n\nOn to Frances Plummer. We drove into Palace farm, only to be told that she had moved across the road.... 15 years previously. We gave her tea from the van in her beautiful garden. At 7 Peter arrived from Spalding & we had a delicious chorizo stew for supper & a lovely evening chatting.\n\n__Wednesday__\nWe camped on Frances' drive & after breakfast we went on a walk around the village. Frances has put a second hand book/jigsaw swap in the church porch. She knows the other villagers. The gardens are glorious. The old village stocks are still there.\n\nWe set off for Grantham where the light",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Stamford", "Cambridge", "Palace farm", "Spalding", "Grantham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Top-right margin has a small annotation: 'Something \"gave\" in my hip whilst retelling & my hip hurts.' — appears to be a marginal note added later or squeezed in. 'Frances Plummer' is a person's name, not a place. 'Palace farm' is a location name (farm). The text ends mid-sentence at the bottom of the page — continues on the next spread. No year visible; cannot assign from this page alone."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "spread_id": "A_0146",
+  "volume": "A",
+  "pdf_page": 146,
+  "pages": [
+    {
+      "page_id": "A_0146_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "skyline on west side of L. Coniston, slate, bare volcanic\n\nskyline on east side of L. Coniston, limestone, trees",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["L. Coniston", "L. Coniston"],
+      "route_sketch": true,
+      "route_sketch_description": "A hand-drawn horizon/skyline sketch spanning the page, showing two contrasting profiles labelled left and right. Left section captioned 'skyline on west side of L. Coniston, slate, bare volcanic'; right section captioned 'skyline on east side of L. Coniston, limestone, trees'. The sketch illustrates the geological difference between the two sides of Coniston Water.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The page contains a panoramic skyline sketch of Coniston Water (Lake District) rather than a map, but it functions as an observational diagram. No handwritten page number is visible in the top-left corner. There is a small amount of text at the very bottom-right of the image that is partially cut off and unreadable."
+    },
+    {
+      "page_id": "A_0146_R",
+      "side": "R",
+      "handwritten_page_no": 80,
+      "blank": false,
+      "full_text": "Dry stone wall at Coniston. Alternating layers of flat slates & round limestone.\n\nSheep. oats original crops.\n\nBee skeps made out of rye + split bramble.\n\n        The Gondola brought us back. I have never been in such a comfortable, fast, quiet small boat. The first passenger trip isn't until 11, but the men arrive at 9.0. to start the fire.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Coniston"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Page contains two hand-drawn sketches: (1) a detailed drawing of a dry stone wall labelled as being at Coniston, showing alternating layers of flat slates and round limestone; (2) two sheep sketches. The Gondola is the Victorian steam yacht on Coniston Water, owned by the National Trust. No year is stated on this page; year cannot be determined from this spread alone."
+    }
+  ]
+}

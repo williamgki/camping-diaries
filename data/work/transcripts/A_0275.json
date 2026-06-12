@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0275",
+  "volume": "A",
+  "pdf_page": 275,
+  "pages": [
+    {
+      "page_id": "A_0275_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Trossachs Holiday Park__\n\nThis would be a very good place for walking & cycling. Paths organised by Sustrans. Unfortunately our pitch is right in the middle of the site & the 2 men next to us smoke alot. It's cold.\n\nMonday August 9th\n\nWe drove through the __Trossachs__. Then we reached the __Shaw-[?Stewarts]__, where Judy cooked us delicious spaghetti for lunch. [?Archie] Janie was there & Mary & Phoebe, with friends, Hannah & Naomi. Archie was doing a robotic computer in Tennessee,\n\nIn the afternoon we walked to feed a neighbour's chickens. In the late afternoon we shopped at __Dunblane__ & had fish & chips. It is cold & dry. The boys slept in Judy's house. It is a lovely farm with stone [?barns] around a courtyard.\n\n__Tues__\n\nWe had a leisurely breakfast & set off for __Stirling__. The castle is comprised of [?late] __Renaissance__ buildings on top of a levelled-off volcano. The Great Hall is being renovated",
+      "dates": [
+        { "raw": "Monday August 9th", "iso_guess": "1999-08-09", "confidence": 0.5 }
+      ],
+      "headings": ["Trossachs Holiday Park", "Tues"],
+      "underlined_places": ["Trossachs", "Dunblane", "Stirling", "Renaissance"],
+      "place_mentions": ["Trossachs Holiday Park", "Trossachs", "Tennessee", "Dunblane", "Stirling"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number not clearly legible in top-left corner — possibly a '1' but uncertain. The surname 'Shaw-[?Stewarts]' is partially obscured; could be 'Shaw-Stewarts'. 'Archie' appears as a later annotation above 'Judy'. Year not explicitly stated on page; volume covers 1989-2003; Monday August 9th falls on 1993-08-09 or 1999-08-09 — context (eclipse mention on right page) suggests 1999."
+    },
+    {
+      "page_id": "A_0275_R",
+      "side": "R",
+      "handwritten_page_no": 19,
+      "blank": false,
+      "full_text": "with interesting displays by stone-masons, wood carvers, embroiderers. An interesting Great Kitchen. We didn't have time to see Argyll House or the Old Jail.\n\nWe drove on to a disused track & had lunch at 3.\n\nWe saw __Dunblane__ Cathedral, [?B], severe, old crosses, a knight in armour & his wife. Well worth seeing.\n\nOn to __St Andrews__. We found two hideously crowded campsites, & then reached __West Pitcorthie__ ([?Anstruther]) ✦✦✦✦✦. It is a large field with a beautiful view of the Firth of the Fourth. The farmer is the wife who is very friendly. Her husband teaches Chemistry at the university. William wants to see the university. We are surrounded by fields of sheep & an electric fence, which made Tonic yelp. The loo & shower in a barn are clean & efficient. We all liked it very much.\n\n__Wed Aug 11th__\n\nThe boys are annoyed that not only has their father brought them to Scotland, at the time of the eclipse best viewed from",
+      "dates": [
+        { "raw": "Wed Aug 11th", "iso_guess": "1999-08-11", "confidence": 0.75 }
+      ],
+      "headings": ["Wed Aug 11th"],
+      "underlined_places": ["Dunblane", "St Andrews", "West Pitcorthie"],
+      "place_mentions": ["Argyll House", "Old Jail", "Dunblane Cathedral", "St Andrews", "West Pitcorthie", "Anstruther", "Firth of Forth", "Scotland"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page number '19' visible in top-right corner. 'Firth of the Fourth' likely means 'Firth of Forth' — transcribed as written. 'West Pitcorthie' is a campsite near Anstruther, Fife — annotation in parentheses reads '[?Anstruther]' or possibly 'Anstruther'. The star symbols (✦✦✦✦✦) appear to be a rating for the campsite. 'Tonic' appears to be the family's pet (dog). Wed Aug 11th 1999 is consistent with the solar eclipse of August 11 1999 visible from Scotland, confirming year as 1999."
+    }
+  ]
+}

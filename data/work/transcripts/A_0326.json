@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0326",
+  "volume": "A",
+  "pdf_page": 326,
+  "pages": [
+    {
+      "page_id": "A_0326_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We had supper. A famous Nimes dish is \"Brandade de Nimes\" stir & barter. Breton fishermen [?battered] dried cod with salt & olive oil from Nimes. The dish was cod, milk & olive oil boiled until it was a paste, served in a ramekin with cheese on top. The rest of the food was not good. Buses stopped at 8pm. It took us [strikethrough: no] nearly an hour to find a taxi to take us back to the campsite. Eve had a migraine.\n\n__Sunday__ Simon & Charles had bad tummies.\n\nMore sun when we woke. Big shower rooms. Simon & Eve went to church at Margueritas while Peter read & John & Charles walked to the Bread Shop. For lunch we had a mega chocolate cake. 16F. Within an hour John wanted an icecream.\n\nIn the afternoon we walked up to the __Pont du Gard__, which is spectacular. The slope is 1/300. It's altogether 30 miles long. A paper boat would take 4 minutes to sail 10ms on the flow. In 24 hours it would fill 100 Blue Coat swimming pools. The top arch carries a large, enclosed canal. It could no longer be used because it got [?silted] up.\n\nVery windy, lots of clouds. Some dark grey. John & Charles are fighting a lot.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Pont du Gard"],
+      "place_mentions": ["Nimes", "Pont du Gard", "Margueritas"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Top of page is slightly cropped; text begins mid-sentence 'We had supper.' No year visible on this page; volume A covers 1989-2003 and page 326 of 350 loosely suggests late in the volume. 'Margueritas' may be a church name or misreading — could be 'Marguérites' (a town near Nimes). 'battered' could read as 'bartered'. Dish name 'Brandade de Nimes' is a real Nimes specialty (brandade de morue). '30 miles long' likely refers to the Roman aqueduct system of which Pont du Gard is part. '10ms' likely means 10 metres."
+    },
+    {
+      "page_id": "A_0326_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 1.0,
+      "notes": "Page is entirely a glued-in colour photograph showing two boys/young men paddling a blue inflatable canoe or raft, likely on the River Gardon near Pont du Gard. No text or captions visible."
+    }
+  ]
+}

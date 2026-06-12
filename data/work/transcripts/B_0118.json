@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0118",
+  "volume": "B",
+  "pdf_page": 118,
+  "pages": [
+    {
+      "page_id": "B_0118_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday 29th July\n\n After the 8 o'clock we set off for France. Simon, Eve, Melody (17) & Charlotte (16) at 9.25. We stopped at services for petrol & while choosing sandwiches, Melody & Charlotte caused a landslide.\n    HOORAY! William & Bryony are engaged! They have just telephoned from their balcony overlooking hills outside Florence. Thomas & Naomi + ½ are in Scotland with the Thorburns in Scotland. Peter is in Shanghai. John is with Katy – Barcelona → Italy → Croatia & Charles is in Guatemala.\n    We went through the tunnel & arrived at the __White Swan campsite__, Montreuil *** at 6.05. The pool was shut but they kindly opened it for Melody & Charlotte to swim. We were here last year in the same valley.\n    It was annoying & funny that our mobile phones kept cutting out in our conversation with William & Bryony. The girls were amused by the problems we had with them. Simon sent a text\n  Monday\n__Saturday July 30th__  \"Congratulations! About time!\"\n\nLovely sunshine but we've camped in the shade. Simon slept 10 hours!\nWe set off & walked & on the ramparts in Montreuil. The sea would have once come up the valley. It's called Montreuil - sur - Mer.",
+      "dates": [
+        { "raw": "Sunday 29th July", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Monday Saturday July 30th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sunday 29th July", "Saturday July 30th"],
+      "underlined_places": ["White Swan campsite"],
+      "place_mentions": ["France", "Florence", "Scotland", "Shanghai", "Barcelona", "Italy", "Croatia", "Guatemala", "White Swan campsite", "Montreuil", "Montreuil-sur-Mer"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "No handwritten page number visible on this page. The year is not stated explicitly; context (volume B, 2003–2019) and family details (William & Bryony's engagement announced from Florence; Thomas & Naomi have a young child '½'; multiple adult children travelling independently) suggest mid-to-late 2000s or 2010s but cannot be pinned from this page alone. The heading reads 'Monday' written above the underlined 'Saturday July 30th' — possibly a correction or annotation. 'Thomas & Naomi + ½' likely means they have a baby/toddler. Route mentioned: tunnel (Channel Tunnel) → Montreuil."
+    },
+    {
+      "page_id": "B_0118_R",
+      "side": "R",
+      "handwritten_page_no": 56,
+      "blank": false,
+      "full_text": "The Knight's Communion\n\n(13) Notre Dame de Reims\n\nWe drove on to Le Rheims & bought half a bottle of Champagne to celebrate William's & Bryony's engagement & cakes for supper. The cathedral windows glowed in the sunshine",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Rheims", "Notre Dame de Reims"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Knight's Communion", "(13) Notre Dame de Reims"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.92,
+      "notes": "Right page is dominated by a glued-in postcard/photo of the Cathédrale Notre-Dame de Reims, labelled 'Cathédrale Notre-Dame Reims' on the card itself. Handwritten caption to the left of the photo reads 'The Knight's Communion' and '(13) Notre Dame de Reims'. The diarist writes 'Le Rheims' — likely meaning 'to Reims'. Text at the bottom continues from the left page narrative (July 30th entry) and is cut off at the right margin ('glowed in the sunshine' appears to continue onto the next spread). The handwritten page number 56 is in the top-right corner."
+    }
+  ]
+}

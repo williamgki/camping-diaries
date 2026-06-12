@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0129",
+  "volume": "B",
+  "pdf_page": 129,
+  "pages": [
+    {
+      "page_id": "B_0129_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday Police arrived at our breakfast table. Once they found out we were English, they were friendly \"the french area problem\". Apparently hippies had been having a rave party up the valley & had come to our patch. They advised us to leave, suggesting [continues on right page]\n\n[Postcard glued in: Val Chisone: Fortezza di Fenestrelle]\n\nFrom the Moutin fort, a good lookout over valleys towards Mantouler + Villaretto. XVIII secolo, the fortifications went up the hillside for 3km/535m up",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Val Chisone", "Fenestrelle", "Mantouler", "Villaretto"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Val Chisone: Fortezza di Fenestrelle", "From the Moutin fort, a good lookout over valleys towards Mantouler + Villaretto. XVIII secolo, the fortifications went up the hillside for 3km/535m up"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Top text continues onto right page. Postcard caption reads 'Mantouler' — could also be 'Mentoulles' (a hamlet near Fenestrelle); 'Villaretto' is consistent with a known locality in Val Chisone. 'Moutin' in caption may be a misreading of 'Mouton' or a local fort name. No year visible on page; volume covers 2003–2019."
+    },
+    {
+      "page_id": "B_0129_R",
+      "side": "R",
+      "handwritten_page_no": 67,
+      "blank": false,
+      "full_text": "we park up near the fort. We did, just in time, as parking spaces became scarce. We walked down to church & shopped for food in the street market. Then we climbed back to the fort. It looked marvellous floodlit at night. It was built to keep the french out, 1728-1837, by Bertola + de la Marclé. The covered stairway has 4,000 steps. It housed prisoners in miserable cold conditions, as summer at this altitude is only 2 months. Sometimes it was occupied by the french. Pretty grim.\nWe drove on along a very well engineered road (Italian, expensive 40eu) & through tunnels into france. We have ~~reached~~ passed Sestrière, Oulx, Fréjus + Modane & arrived at __Aussois__. Municipal Camp* It's a ski resort & we've parked over a beautiful view. The wash block is 4 stories high, serving campers on 2 levels with the [1st] + 3rd floor given over to washing + drying [3rd: eating tables] as it's a snow skiers campsite in winter. The woman who runs it skis as well in winter. I did alot of washing. There's lovely sun + a strong breeze. Simon has walked down to the village to get bread.",
+      "dates": [
+        { "raw": "1728-1837", "iso_guess": null, "confidence": 0.0 }
+      ],
+      "headings": [],
+      "underlined_places": ["Aussois"],
+      "place_mentions": ["Fenestrelle", "Sestrière", "Oulx", "Fréjus", "Modane", "Aussois"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "'de la Marclé' — architect name, possibly 'de la Marclée' or similar; transcribed as written. 'Fréjus' here likely refers to the Fréjus road/rail tunnel (Col de Fréjus) rather than the coastal town. '~~reached~~' indicates struck-through word replaced by 'passed'. '[1st]' is partially legible — could be '1st' or '2nd'. Annotation in blue: '3rd: eating tables'. '40eu' = 40 euros toll. No diary year on page; volume covers 2003–2019."
+    }
+  ]
+}

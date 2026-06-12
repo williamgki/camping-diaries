@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0324",
+  "volume": "A",
+  "pdf_page": 324,
+  "pages": [
+    {
+      "page_id": "A_0324_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the loos. The rough land is actually quite nice, next to a vineyard, more peaceful than the crowded site, but expensive 19€.\n\n__Friday__\n   We set off as soon as possible. A listed camp[site] [3 km from Bri[?]ay, 1★ + ★★] was full, but we found an unlisted one [?la te[?] R. [?Hérault]] which would have us for one night. Very few facilities, but paths down to the river. The river is green + has minnows, but the boys complain that it smells like the Meare. Peter + Charles went out on the yellow rubber dingy before lunch. Charles + Simon took the 2 dinghies after lunch. There is a restaurant up at the barrage, a short walk away (dam!). We went to the restaurant for supper, but there was a band there, + no room for us because we hadn't booked. We drove to ~~the~~ local village, ~~Brossac~~ __St. Bazille de Puton__, a carnival + fairground had filled up the places at the first 2 restaurants we tried, but we finally found somewhere to eat. Duck + steak, John didn't like his first course sea snails. After supper the boys went on dodgems. There was a rock group on stage. Eve drove back to the camp. Tall acacia trees in campsite, a bit like [?redwood campsite] in [Cal[?]].",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Friday"],
+      "underlined_places": ["St. Bazille de Puton"],
+      "place_mentions": ["St. Bazille de Puton", "Meare"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.7,
+      "notes": "Page continues from previous spread — top of left page begins mid-sentence 'the loos'. The campsite name in margin annotation is partially obscured; reads something like 'la te[?]' or 'la te[?]me' with 'R. [?Hérault]' — likely a campsite on the Hérault river. Village name struck through as 'Brossac' then corrected to 'St. Bazille de Puton'. Annotation in right margin also partially obscured. The mention of 19€ suggests this is a euro-era trip, likely post-2002; however year cannot be confirmed from this page alone. Final line mentions 'Cal[?]' — possibly California."
+    },
+    {
+      "page_id": "A_0324_R",
+      "side": "R",
+      "handwritten_page_no": 69,
+      "blank": false,
+      "full_text": "[Hand-drawn sketch of an old building/house, with a small map sketch in top-left corner]\n\nView of old house across the river from campsite beach. R. Hérault.\n\n__Saturday__\n   Sunshine as we set off. I had to wear a sweatshirt most of the day yesterday. The last few days have been sunny at [?bes] breakfast + then clouds have come in. The area round __la Couvertoirade__ was like Wales, whereas the country that we travelled in today was like south of Hurst Castle in California, before we got to the coast.\n   We found a campsite __Bastide__ ★★★½ a 30 min bus ride outside __Nimes__. Having set up the tent we bussed into the city + had lunch. We saw the Maison Carrée, a well-preserved [?ho[?]se] that would [hall]",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["la Couvertoirade", "Bastide", "Nimes"],
+      "place_mentions": ["R. Hérault", "la Couvertoirade", "Hurst Castle", "California", "Nimes", "Maison Carrée"],
+      "route_sketch": true,
+      "route_sketch_description": "Small hand-drawn sketch in top-left corner of right page showing what appears to be a rough map with coastline or river outlines and a label (illegible). The main drawing is a detailed pen sketch of a classical building (old house) viewed from across a river — captioned as the view from the campsite beach on R. Hérault.",
+      "photo_captions": ["View of old house across the river from campsite beach. R. Hérault."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "Page number 69 visible in top-right corner. The 'Maison Carrée' is a well-known Roman temple in Nîmes (Nimes), France — confirms France setting. 'la Couvertoirade' is a medieval village in the Aveyron/Hérault area. 'Hurst Castle' in the diarist's comparison likely refers to Hurst Castle in Hampshire, UK — used as a landscape comparison with California. The campsite 'Bastide' near Nîmes is mentioned with a 3.5-star rating. Text cuts off at bottom of page with 'would hall' — continues on next spread. Year uncertain from page content alone; euro currency mention on left page and context suggest post-2002."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0304",
+  "volume": "B",
+  "pdf_page": 304,
+  "pages": [
+    {
+      "page_id": "B_0304_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Saturday April 14th__\n\nOff to the Kennels (Kaj's cates, Denzel, has only just started going outside.) then arrived at Penn Onn at 10.15... John & Kay will arrive from Bath soon. Charles is flying back from showing his robot for a factory to help him in Bologna & picking up Jenny at Reading to get here oby 2pm. Peter will arrive at 4 (Nurse & child in India) Koroku coming too.\n\nAfter Peter arrived in a Taxi from the station (£16) we went for a walk in a big rectangle along the roads, over 4 miles.\n\nTinder is in Kennels. Denzel brings in mice, or rather just the intestines of mice, having eaten the rest of them. 12 mice in 6 days.\n\nJohn cooked delicious beef Wellington for supper & Kay cooked Charles a delicious walnut\n\n[margin, rotated: St. Teilo's Church, (3) National History Museum St Fagans.]",
+      "dates": [
+        { "raw": "Saturday April 14th", "iso_guess": "2018-04-14", "confidence": 0.9 }
+      ],
+      "headings": ["Saturday April 14th"],
+      "underlined_places": [],
+      "place_mentions": ["Penn Onn", "Bath", "Bologna", "Reading", "India", "St. Teilo's Church", "National History Museum St Fagans"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number not clearly visible — partially cut at top-right of image, recorded as null. 'Saturday April 14th' without year stated; April 14 2018 was a Saturday, consistent with the volume start date of April 13th 2018 (established from B_0300_R). 'Penn Onn' is the family home (likely 'Penn Onn' — a house name). 'Kaj's cates' could read 'Kaj's cates' or possibly 'Kaj's gates' — best reading given context is 'cates' (a kennel owner's name/term). 'Koroku' is a person's name (possibly a family member or visitor). 'Tinder' appears to be a pet (cat or dog). Margin note rotated 90 degrees along right edge reads: 'St. Teilo's Church, (3) National History Museum St Fagans.' — this continues on the right page."
+    },
+    {
+      "page_id": "B_0304_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Birthday cake. We had smoked salmon on Rogentis / Irish soda bread.\n\nThe house warmed up once John & Simon had got the new oil into the boiler.\n\n[margin, rotated: St. Teilo's Church, (3) National History Museum St Fagans. When the near-derelict church was moved from near Swansea, bits & pieces of flooring were discovered. It had been c.1520]\n\n[photo: interior of St. Teilo's Church at the National History Museum, St Fagans — painted wooden ceiling beams and decorative tiled floor panels visible]\n\n[photo caption, printed on right edge: Amgueddfa Werin Cymru Sain Ffagan]",
+      "dates": [
+        { "raw": "Saturday April 14th", "iso_guess": "2018-04-14", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Teilo's Church", "National History Museum St Fagans", "Swansea", "Sain Ffagan"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Amgueddfa Werin Cymru Sain Ffagan"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page continues narrative from left page (same day, April 14th 2018). The text begins mid-sentence with 'Birthday cake' — this is the continuation of 'John cooked delicious beef Wellington for supper & Kay cooked Charles a delicious walnut [Birthday cake]'. 'Rogentis' is uncertain — could read 'Rogentis' or possibly 'Rögentis', 'Rögnertis', or a brand name; best reading retained as written. Margin text rotated vertically along left edge is a continuation of the St. Teilo's Church note from the left page margin; 'c.1520' gives a date for the church. A large glued-in photograph dominates the lower portion of the page showing the painted interior of St. Teilo's Church. Printed text on the right edge of the photo reads 'Amgueddfa Werin Cymru Sain Ffagan' (Welsh: Folk Museum of Wales, St Fagans). No handwritten page number visible."
+    }
+  ]
+}

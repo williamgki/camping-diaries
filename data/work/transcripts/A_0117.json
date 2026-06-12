@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0117",
+  "volume": "A",
+  "pdf_page": 117,
+  "pages": [
+    {
+      "page_id": "A_0117_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "16th April 1994   Charles' birthday\n\nSimon, Eve (Thomas away on French trip at [?Sassete]) William 12, Claire [?Portal] (11) peter 10, John 6, Charles 5, set off at 9 am. to take Peter + Claire to pony camp. A lovely windy, part-sunny day. Elevenses in the lay-by & lunch on the sea front. Children at the play ground, Simon gone to buy a map.\n\n[Drawing of a stone, labelled:] Charles' stone",
+      "dates": [
+        { "raw": "16th April 1994", "iso_guess": "1994-04-16", "confidence": 0.98 }
+      ],
+      "headings": ["16th April 1994   Charles' birthday"],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Charles' stone"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "The word 'birthday' in the heading continues across the gutter onto the right page. 'Sassete' is uncertain — could be a place name for a French school trip location, possibly 'Sassetot' or similar; first letter could be 'B' (Bassete). 'Portal' is uncertain — could also read 'Artal'. No handwritten page number visible in top-left corner. The lower portion of the page has a hand-drawn sketch of a rounded stone shape labelled 'Charles' stone'."
+    },
+    {
+      "page_id": "A_0117_R",
+      "side": "R",
+      "handwritten_page_no": 32,
+      "blank": false,
+      "full_text": "A still flexible\nstar fish\nPeter found\nfor John\n\nLlanfairfechan\n\n[Second starfish drawing, no caption]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Llanfairfechan"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["A still flexible star fish Peter found for John"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The place name 'Llanfairfechan' appears written on its own to the right of the upper starfish drawing — this is a coastal town in North Wales (Conwy county). The final letter(s) may be partially cut off at the right edge of the image but 'Llanfairfechan' is the most plausible reading. The page contains two detailed hand-drawn illustrations of starfish (brittle star type), the upper one with caption, the lower one uncaptioned. Page number '32' is visible in the top-right corner."
+    }
+  ]
+}

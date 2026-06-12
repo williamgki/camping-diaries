@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0103",
+  "volume": "A",
+  "pdf_page": 103,
+  "pages": [
+    {
+      "page_id": "A_0103_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "stopped to camp in __Borgo val de Taro__.\nCampsite in new town, we walk up the hill to the old town. John + Charles play cars with Allesandro.\n\t__Wednesday July 21st.__\n\t__Back to handwashing.__\n\tWe went up to shop. Fruit + veg weren't very good - we were 1300 feet up. The boys bought toys. We bought £30 of Parmesan + prosciutto to take home to England.\n\tThe campsite people are very friendly, offering us tables + chairs + umbrellas. At lunch time it rained + thundered. It rained all through the nap. We went up to town again at 3 or 4 o shopped, + were told that the swimming pool was shut because of the rain. It thundered again at supper with bright lightening. Only William was brave enough to sleep in the tent.\n\t__Thursday July 22nd__\n\tWe packed up. Simon scared a rat away as he folded up the groundsheet. We went up over a pass + Eve felt sick, then on down to __Varese__, a very early example of town planning. We walked around lovely colours in the house painting. On to lunch at 2.30. next to the road.",
+      "dates": [
+        { "raw": "Wednesday July 21st.", "iso_guess": "1993-07-21", "confidence": 0.45 },
+        { "raw": "Thursday July 22nd", "iso_guess": "1993-07-22", "confidence": 0.45 }
+      ],
+      "headings": ["Back to handwashing.", "Thursday July 22nd"],
+      "underlined_places": ["Borgo val de Taro", "Varese"],
+      "place_mentions": ["Borgo val de Taro", "England", "Varese"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page number not visible in top-left corner; '***' symbols appear at top right margin of left page. The entry continues from a previous page mid-sentence ('stopped to camp in...'). Names: 'Allesandro' may be 'Alessandro'. Year is uncertain — no explicit year on this page; position in volume and the Italian itinerary suggest a summer trip to Italy, likely mid-to-late 1990s; cannot confirm year from page content alone."
+    },
+    {
+      "page_id": "A_0103_R",
+      "side": "R",
+      "handwritten_page_no": 18,
+      "blank": false,
+      "full_text": "[Photo of Varese, aerial/elevated view showing town planning with terraced hillside streets and colourful buildings]\n\nVarese, early town planning.\nbridge 1519.\n\n[Additional diary text visible around and behind the photo but largely obscured; fragments on left side of image are illegible due to photo overlap]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Varese"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Varese, early town planning. bridge 1519."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.35,
+      "notes": "Page is dominated by a glued-in aerial/elevated photograph of Varese showing its early town planning layout. Handwritten caption below the photo reads 'Varese, early town planning. bridge 1519.' Diary text continues around and behind the photo but is largely illegible due to the photo coverage. Only fragments of text are visible on the left margin and below the photo but cannot be reliably transcribed. Handwritten page number '18' visible in top-right corner."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0321",
+  "volume": "B",
+  "pdf_page": 321,
+  "pages": [
+    {
+      "page_id": "B_0321_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "east past Rheims. 6.50. we reached huremont et Villotte, a nice quiet campsite with 2 dogs, ducks + chickens. Showers in the day. A bit of sun in the evening. We walked down to look at the canal.\n__June 8th__\nWe cycled along the canal + down to the river + up through the modern village. Set of in van 9.45.\nWe shopped, or, rather, Simon shopped while I read. We had a good lunch at a restaurant by a river in __Gray__ which Simon had visited twice before with Charles.\nWe reached __Pesmes__ a very pretty town with winding streets + the remains of a Roman layout at the top. After supper we wandered around the town. V. hilly.\n__June 9th Sunday:__\nWe again wandered around the town in a different part. St. Hilaire's the church, [has no service. today, Whitsun. Instead,]",
+      "dates": [
+        { "raw": "June 8th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "June 9th Sunday", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["June 8th", "June 9th Sunday:"],
+      "underlined_places": ["Gray", "Pesmes"],
+      "place_mentions": ["Rheims", "huremont et Villotte", "Gray", "Pesmes"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Top of page is a continuation from the previous spread — text begins mid-sentence 'east past Rheims'. No handwritten page number visible in the top-left corner. The campsite name reads 'huremont et Villotte' — could also be 'Huremont et Villotte' (proper noun). The last line is partly cut off at the bottom of the image; text in brackets is a best reading of the partially visible line. Year cannot be determined from the page itself; June 9th falling on a Sunday is consistent with multiple years within 2003–2019 (e.g. 2002 does not fit; candidate years: 2013, 2019)."
+    },
+    {
+      "page_id": "B_0321_R",
+      "side": "R",
+      "handwritten_page_no": 23,
+      "blank": false,
+      "full_text": "Notre-Dame de Gray Basilica\n\nView from our campsite, across the river at __Pesmes__ on R. Ognon.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Pesmes"],
+      "place_mentions": ["Gray", "Pesmes", "R. Ognon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "Notre-Dame de Gray Basilica",
+        "View from our campsite, across the river at Pesmes on R. Ognon."
+      ],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page contains two glued-in photos with handwritten captions. Top photo shows a church/basilica building (Notre-Dame de Gray Basilica). Bottom photo shows a town viewed from across a river (Pesmes on R. Ognon). The handwritten page number '23' is partially visible in the top-right corner. 'Pesmes' is underlined in the caption. 'R. Ognon' is the River Ognon in the Franche-Comté region of France."
+    }
+  ]
+}

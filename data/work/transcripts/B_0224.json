@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0224",
+  "volume": "B",
+  "pdf_page": 224,
+  "pages": [
+    {
+      "page_id": "B_0224_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Friday 27th September__\n2.30. Simon, Eve + Tinder set off to meet William + Joseph for camping trips. We sat on Haddenham + Thame platform + William + Joseph got off the train directly opposite us, William carrying a scooter + an enormous pack.\nWe camped at White Mark Farm, [illegible] near the Carriers Arms Pub, Watlington.\nWe put up the tent + had bacon sandwiches. William put Joseph in a fleece inside his new sleeping bag.\n     In the 1700s the vicar was miffed because his church didn't have a spire. So he carved one out of the chalk on the hillside. When he sat in his vicarage, the spire appeared over his church - the White Mark.\n__Saturday 28th__\nCharles arrived [sticker] at 8.35. for breakfast",
+      "dates": [
+        { "raw": "Friday 27th September", "iso_guess": "2013-09-27", "confidence": 0.45 },
+        { "raw": "Saturday 28th", "iso_guess": "2013-09-28", "confidence": 0.45 }
+      ],
+      "headings": ["Friday 27th September", "Saturday 28th"],
+      "underlined_places": ["White Mark Farm", "White Mark"],
+      "place_mentions": ["Haddenham", "Thame", "White Mark Farm", "Carriers Arms Pub", "Watlington", "White Mark"],
+      "route_sketch": true,
+      "route_sketch_description": "A simple hand-drawn sketch of a church/spire shape on the right side of the page — appears to illustrate the story of the vicar carving a chalk spire shape on the hillside (the White Mark), showing a tall pointed spire above a rectangular base.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Year cannot be confirmed from page content alone. 'Friday 27th September' is consistent with 2013 or 2019; position in volume B (pdf_page 224 of 373) loosely suggests 2013. The word after 'White Mark Farm,' has asterisk-like marks (possibly a footnote marker or rating stars) and is otherwise [illegible]. A decorative printed sticker (wheat/grain motif) appears between 'arrived' and '8.35'. Tinder is likely a dog's name. 'White Mark' is the local chalk landmark near Watlington, Oxfordshire."
+    },
+    {
+      "page_id": "B_0224_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "after taking Jenny to her training day in London. She is working 5 days a week + training on Saturdays. Charles stayed for breakfast, lunch + supper.\n     We went on quite a walk in the morning. The ground was mostly too rough for the scooter. William carried J. on his shoulders + Charles did sometimes. Unfortunately Tinder got into a field + chased some cows. Joseph had red crocs on which kept falling off. We passed a pond, Willow Pond, which had melted away. We were partly on the Ridgeway. Back at Watlington we went to a craft sale in the Memorial Hall + then had lunch at the Carriers Arms.\n     Then we all had a long nap at the van. After tea Simon + William walked up the hill to the White Mark. The weather had been good, a bit of sun. It rained in the night.",
+      "dates": [
+        { "raw": "Saturday 28th", "iso_guess": "2013-09-28", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["London", "Willow Pond", "Ridgeway", "Watlington", "Memorial Hall", "Carriers Arms", "White Mark"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.90,
+      "notes": "Continues from Saturday 28th on the left page. 'J.' is Joseph. 'Tinder' is the family dog. A decorative printed sticker (wheat/grain motif) appears at the bottom of the page. The Ridgeway is the ancient long-distance path through Oxfordshire. Willow Pond reference is notable — diarist says it had 'melted away', suggesting it had dried up."
+    }
+  ]
+}

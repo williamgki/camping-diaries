@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0110",
+  "volume": "B",
+  "pdf_page": 110,
+  "pages": [
+    {
+      "page_id": "B_0110_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "On to David's at his new house. All the family are there. We walked through beautiful woods & went to supper at Margaret's hotel. at Chamberet.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Chamberet"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page also contains a pencil sketch of a rustic building or barn (not a route sketch). The text appears to be a continuation from the preceding page. 'Chamberet' is a commune in Corrèze, France. No handwritten page number visible on this page."
+    },
+    {
+      "page_id": "B_0110_R",
+      "side": "R",
+      "handwritten_page_no": 49,
+      "blank": false,
+      "full_text": "Tuesday Simon & Eve drove off at 8.45. to pick up Margaret & Helen. David & Sally left at 9 with Maia & Minor to put Minor on a train & buy a bed. Charles, Dylan & Jem slept on.... Aylen woke up & made tea for everyone.\nMid morning we left for La[?tte] des Insects at Nede. It was fascinating, with a beautiful observationants' nest, a tunnel with lit-up ant passage ways underneath. The family had just bought it in March & moved here from London.\nWe had lunch in the car park.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Nede"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page contains a glued-in colour photograph/postcard of a large bee or wasp nest hanging in a tree, signed 'JM'. The place 'La[?tte] des Insects at Nede' is likely 'La Cité des Insectes' at Nedde, Haute-Vienne, France — the word between 'La' and 'des' is partially obscured but could read 'Cité' or similar; the diary spelling appears to read '[?tte]'. 'Nede' likely refers to the village of Nedde. 'observationants'' may be a compound word meaning 'observation ants'. Year cannot be confirmed from the page itself; no year annotation visible."
+    }
+  ]
+}

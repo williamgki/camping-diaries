@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0078",
+  "volume": "B",
+  "pdf_page": 78,
+  "pages": [
+    {
+      "page_id": "B_0078_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Back at the camp we had lunch + read. At 6 we played tennis again. It was blisteringly hot 36°. Then we walked off into the village for supper.\n\tIt's a lovely village with not many roads accessible by car. Instead the side roads are so narrow that they are just foot paths - little bridges + walk ways have been built high up between houses. The colours are pastel - not newly painted - + there are huge old stone + wood lintels. One house had newly painted dusky rose pink shutters + the owner was growing pink flowers outside. There are signs \"Mill gate\" or \"the old prison.\"\n\tCharles remarked on the walk, \"When I'm older, I want a dog that knows just enough physics to be able to catch a ball.\"\n\t__Saturday__\n\tWe had a lie-in - breakfast at 9, then set off to the supermarket. We climbed a steep zig-zag road up into the Vercors + had lunch with a gorgeous view just before we went into the tunnel. Simon stopped Dutch Children throwing rocks down the hillside. Charles spat out his food because there was a fly on his plate. John ate the last chocolate from the chocolatier",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Vercors"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The village described (accessible only by foot paths, pastel colours, old stone + wood lintels) is likely in the Vercors region of France. Signs mention 'Mill gate' and 'the old prison' — possibly referring to named features in a French village. No year visible on this page; trip appears to be a family summer holiday in France based on context."
+    },
+    {
+      "page_id": "B_0078_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The Vercors is a high plateau surrounded by peaks, quite cut-off. Sleepy farm houses (dairy?) cows + about 6 villages.\n\tIn Grenoble (n.) they decided to have training camps for the Maquis Resistance. The young men were massacred when German planes, bringing gliders, [illegible] of the Allies in July 44.\n\t1400 men trained. After [?Aday] the number swelled to 4,000. The Germans brought in 15,000 well-armed SS.\n\tWhole villages + farmhouses were razed. The museum shows awful photos of butchered people. The SS even shot the doctors + [?post] [?hing] in a hospital in a cave + sent the 4 nurses to [?Ravensbrück]. [?Farm burned] Depressing museum. Men hanged on one leg. [illegible] to have mind out.",
+      "dates": [
+        { "raw": "July 44", "iso_guess": "1944-07", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Vercors", "Grenoble", "[?Ravensbrück]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Vercors"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.75,
+      "notes": "Right page has a large glued-in postcard/photo of the Vercors (dramatic cliff/plateau landscape, © Yvan Lorand, 'Vercors' printed vertically on image). The handwritten text is on the left margin of the right page alongside the photo. 'July 44' is a historical date (WWII Vercors massacre), not the date of the diary entry. The word after 'doctors +' is unclear — possibly 'posting' or similar. '[?Ravensbrück]' — the diarist writes what appears to be a concentration camp name; reading uncertain but likely Ravensbrück given historical context. Final lines very difficult to read — 'Men hanged on one leg. [illegible] to have mind out.' — exact wording uncertain."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0347",
+  "volume": "A",
+  "pdf_page": 347,
+  "pages": [
+    {
+      "page_id": "A_0347_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We had supper in the camp restaurant. Thomas got his mashed potatoes + was happy. Schitzel - pieces of pork in breadcrumbs. Lots of salad! Mega fancy icecreams with yellow umbrellas.\n\n     There was a loud scream in the night. Thomas was rearranging his sleeping bag + [?picked up] touched a leathery toad. It was only a foot from his head. He thought it was a snake. Simon went out to the tent with a box + caught it + Simon, Thomas + Charles released it into the grass. Thursday\n\n     This campsite has marvellous groups of animals, stone sculptures for children to ride on, dotted around the grounds (in England they'd be damp + mossy) made out of poured concrete. Mostly family groups of 3, chickens, ponies, elephants, tortoises, alligators, seals.\n\n     We drove to __Erfurt__. It was originally founded, very early on, as a secular university. The cathedral + churches were divided up between the Protestants + Catholics.\n\n     We parked on an empty parking lot. There are lots of old bombed spaces still in E. German towns. A man was selling sausages. We brought back pyjjas to eat at the van at lunch time. Charles felt a wasp go up his shorts + quickly took them off. The sausage seller was bemused!",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.1 }
+      ],
+      "headings": [],
+      "underlined_places": ["Erfurt"],
+      "place_mentions": ["Erfurt"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Text begins mid-narrative (no heading on this page). 'Schitzel' is the diarist's spelling of 'Schnitzel'. 'pyjjas' is unclear — could read as 'pyjas' or possibly 'pitta[s]' or similar; transcribed as written. The word 'picked up' is struck through and 'Touched' is written above as a correction. 'Thursday' appears inline as a day marker. The mention of 'E. German towns' and visiting Erfurt suggests a post-1990 trip to reunified Germany; no year is stated on this page. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "A_0347_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The Candleabra\n\nCathedral Mariendom\nErfurt\n\"Wolgram\"\n1160\n\n     We walked off to look at the cathedral. An enthusiastic English student took us around from Cambridge. He has joined ARC - to do with Christians working together, welcoming + community. There is an amazing bronze candleabra + lots of carvings + paintings. A very old Pietà",
+      "dates": [
+        { "raw": "1160", "iso_guess": null, "confidence": 0.0 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Erfurt", "Mariendom", "Cambridge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Candleabra\nCathedral Mariendom\nErfurt\n\"Wolgram\"\n1160"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in colour photograph of a bronze candelabra figure (a man holding two candles aloft, standing on animal figures). The caption is handwritten to the upper-left of the photo. 'Candleabra' is the diarist's spelling of 'candelabra'; transcribed as written. 'Wolgram' (in quotes) refers to the medieval figure — the actual historical name is 'Wolfram' (c. 1160), the famous candelabrum in the Erfurter Dom. 'ARC' is an acronym not expanded in the text. The date 1160 is a historical date for the artwork, not a diary entry date. The narrative is cut off mid-sentence ('A very old Pietà') — continues onto the next spread. A partial digit visible in the top-right corner (possibly '9' or start of a two-digit number) but not legible enough to record with confidence; recorded as null."
+    }
+  ]
+}

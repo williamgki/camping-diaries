@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0362",
+  "volume": "B",
+  "pdf_page": 362,
+  "pages": [
+    {
+      "page_id": "B_0362_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Friday] We drove to Minninglow. I gave Tinder a short walk & then we left him in the van while we cycled SE to Middleton Top. 16 miles. The High Peak Railway 1825-30 was one of the world's earliest railways. Horses pulled the carriages on the flat & steam powered beam engines in engine houses pulled the wagons up hills with cabs. Amazingdrystone walls up embankments.\n\n    After lunch back at the campsite we napped & then cycled into Parwich - a v. pretty village. Nice church, stream runs through village. Hilly. Lots of stone houses. Thank goodness for ebikes. War memorial is a sundial. Tinder stays in the van during bike rides now.\n\n~~Sober~~ Sunday\nIt's cold at night, so we keep the heater on a bit. We haven't really brought enough food, but fortunately Simon found some of Conti's brownies in a cupboard left over from the wedding. We can't go to a pub because I might still have Covid.",
+      "dates": [
+        { "raw": "Friday", "iso_guess": "2022", "confidence": 0.7 },
+        { "raw": "Sunday", "iso_guess": "2022", "confidence": 0.7 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Minninglow", "Middleton Top", "Parwich"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Top-left corner of page is cut off; handwritten page number not visible. 'Friday' heading is partially cut off at top. 'Amazingdrystone' appears run together in original. '~~Sober~~' appears struck through in the original, with 'Sunday' following as the effective heading. The mention of Covid and Covid testing on the right page allows year anchoring to 2022; Thursday March 31st 2022 was confirmed as a Thursday, and Sunday 29th May 2022 was confirmed as a Sunday on the right page."
+    },
+    {
+      "page_id": "B_0362_R",
+      "side": "R",
+      "handwritten_page_no": 63,
+      "blank": false,
+      "full_text": "We reached home before lunch. Simon is testing negative, I'm still a bit positive. A really super holiday\n\n__Thursday March 31st.__\n__Wanda died yesterday.__ 8 45. Simon & Tinder & I set off for Redditch & Simon got more material & more wood for things in the van.\nOn to Brook House Farm, where Simon met Robert in the hop barn. Johnnie & Penny were there. Bryony was on a music course. After lunch we saw Eller, the Elms pony that Nina borrows in the holidays. Home.\n\n__Sunday 29th May__\nSimon, Eve Tinder set off at 9.15, for Hay on Wye. William & family saw a Lenny Henry talk. We've joined by John & family, Peter & family & Thomas & the girls. It is likely to rain, so we walk to the food tent. It doesn't rain. Food Tent food v expensive scrum. We return to van",
+      "dates": [
+        { "raw": "Thursday March 31st.", "iso_guess": "2022-03-31", "confidence": 0.95 },
+        { "raw": "Sunday 29th May", "iso_guess": "2022-05-29", "confidence": 0.95 }
+      ],
+      "headings": ["Thursday March 31st.", "Sunday 29th May"],
+      "underlined_places": [],
+      "place_mentions": ["Redditch", "Brook House Farm", "Elms", "Hay on Wye"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Thursday March 31st 2022 was indeed a Thursday, and Sunday 29th May 2022 was indeed a Sunday — both confirm year 2022. 'Wanda died yesterday' is underlined in the original. '8 45' likely means 8:45 am. 'Eve Tinder' on the Sunday entry likely means 'Eve &' Tinder (the dog) — possibly 'Eve &' was written without the ampersand. The page text continues beyond the visible scan at the bottom ('We return to van' is cut off)."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0305",
+  "volume": "A",
+  "pdf_page": 305,
+  "pages": [
+    {
+      "page_id": "A_0305_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "There were Americans at the tables around us, nice people, but hell-bent on revenge for the Twin Towers. One man boasted about the US bomb that will go through 8ft armour & then explode, & the other wanted to drop a nuclear bomb. Would Marshall hide have been so generous to the Germans if US towns had suffered the Blitz? Why are US war graves marked with crosses instead of slabs, when no Xian prayers are allowed in US state schools?\n\n__Fri Oct 12th__\n\nWe left the hotel & bought riches for John Challenor's birthday party. We drove to __Cerisy la Foret__, a lovely old Abbey with a monks-fish pond. Wonderful round Norman arches & huge space inside the church. Honey-coloured stone. Recommended by the Gothams. We are shopping at __St. Lo__.\n\nWe stopped for lunch in a lay by & drove on to __Coutances__, which has a magnificent cathedral. Vertical columns go right down across the windows on the exterior. Inside there is fine old red",
+      "dates": [
+        { "raw": "Fri Oct 12th", "iso_guess": "2001-10-12", "confidence": 0.85 }
+      ],
+      "headings": ["Fri Oct 12th"],
+      "underlined_places": ["Cerisy la Foret", "St. Lo", "Coutances"],
+      "place_mentions": ["Twin Towers", "Cerisy la Foret", "St. Lo", "Coutances"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.88,
+      "notes": "Page has no handwritten page number visible in the top-left corner. Text begins mid-paragraph (continuation from previous spread). 'Fri Oct 12th' is underlined. The mention of revenge for the Twin Towers dates this to post-September 2001; 'Fri Oct 12th' matches Friday 12 October 2001. 'John Challenor' could also read 'Challoner' — unclear spelling. 'Marshall hide' may be 'Marshall aide' or 'Marshall Plan' misread — transcribed verbatim as written. Ink appears pink/magenta. Page ends mid-sentence ('fine old red ...')."
+    },
+    {
+      "page_id": "A_0305_R",
+      "side": "R",
+      "handwritten_page_no": 50,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Page is blank apart from handwritten page number '50' in the top-right corner. The visible text on the left edge of this image is gutter overlap from the left page and has not been transcribed again here."
+    }
+  ]
+}

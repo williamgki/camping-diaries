@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0124",
+  "volume": "B",
+  "pdf_page": 124,
+  "pages": [
+    {
+      "page_id": "B_0124_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We drove to Golf Juan. The [?Saturday] was [?awful] near the coast. Constant traffic jams. No parking. We went to the Boat-makers & saw Peggy, showing off the new Chad Catalogue. Very high-spec.\n\n   We left & searched & searched for a parking space so we could see the Picasso Museum with no success, so we left & found a restaurant, Lebanese, where (Le [?Sha] Saj at Roquefort les Pins) we had a good lunch.\n\n   Then we went to the __Maeght Foundation__\n\nJoan Miro: Jeune fille s'évadant 1968\n\nThe museum was set up by an art dealer & his wife in memory of their son. lovely spaces, courtgards, water, fountains, walled courtyards. I was nearly caught photographing too close (resting my hand",
+      "dates": [],
+      "headings": ["Maeght Foundation"],
+      "underlined_places": ["Maeght Foundation"],
+      "place_mentions": ["Golf Juan", "Picasso Museum", "Roquefort les Pins", "Maeght Foundation"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Joan Miro: Jeune fille s'évadant 1968"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "Top of page partially cut off; some words at very top hard to read. 'Saturday' and 'awful' are uncertain. 'Le [?Sha] Saj' could be 'Le Cha Saj' or similar — a Lebanese restaurant name at Roquefort les Pins. 'courtgards' appears to be diary spelling of 'courtyards'. Photo of a colourful Joan Miro sculpture (tall red figure) is glued in on the left side of the page."
+    },
+    {
+      "page_id": "B_0124_R",
+      "side": "R",
+      "handwritten_page_no": 62,
+      "blank": false,
+      "full_text": "on the cabinet) by the guards with walkie talkies.\n\n   We arrived at Camping a la ferme, Vignobles __de des [?Sausses]__ __Chemin des Sausses__ St. Jeannet *** * very quiet, free choice of pitch, lovely view down [?tall vines]. Good showers. Aware of beauty. Roses at the end of each row. Large [?bottles] left out in the sun.\n\nWednesday\nWe paid & bought 3 bottles of rosé wine. We were actually v. near last night's campsite, but much higher up.\n\n   Again we drove to Nice, & we stayed in the north of the city, away from the beach. Parking wasn't quite so difficult & we managed to visit the Matisse Museum. It was interesting to look at the development of his drawings. We saw the model of the chapel, with his Virgin & Child. He live[d] the last part of his life in the south because of his health. During bombing of Ni[ce] he went to Vence.",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": ["de des Sausses", "Chemin des Sausses"],
+      "place_mentions": ["St. Jeannet", "Nice", "Matisse Museum", "Vence"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Continuation from left page (sentence about being caught photographing 'on the cabinet' by guards). Campsite name is 'Camping a la ferme, Vignobles' near St. Jeannet; two underlined phrases appear to be variants/corrections of the campsite road name — 'de des Sausses' struck through and replaced by 'Chemin des Sausses'. Star rating shown as '***' possibly followed by more stars. 'tall vines' is uncertain. The right margin of this page is cut off; 'Nice' and 'lived' are partially inferred from context at line ends. Year cannot be determined from this page alone; volume B covers 2003–2019 but no year is visible on this spread."
+    }
+  ]
+}

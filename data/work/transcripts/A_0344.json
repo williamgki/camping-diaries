@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0344",
+  "volume": "A",
+  "pdf_page": 344,
+  "pages": [
+    {
+      "page_id": "A_0344_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "hot ones. We set off for __Alsfeld__ where we saw quaint old buildings, market place, old church with wood & stone carvings & balcony. I sketched this wood carving on the corner wall of a building about 1565. Charlie bought stamps for post cards. Thomas bought fish. Simon bought strawberries. John got embarrassed at my German.\n\n[sketch label:] Markplatz Alsfeld",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Alsfeld"],
+      "place_mentions": ["Alsfeld"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page contains a hand-drawn pencil sketch of a medieval wood carving figure set in a Gothic arch niche, labelled 'Markplatz Alsfeld' (likely intended as 'Marktplatz Alsfeld'). The text at bottom is the continuation of a narrative from a preceding page (begins mid-sentence 'hot ones.'). No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "A_0344_R",
+      "side": "R",
+      "handwritten_page_no": 88,
+      "blank": false,
+      "full_text": "Alsfeld /Hessen\nDas Hochzeitshaus\n1564-1571\nat The\nMarket place\n\nWe drove on to __Eisenach__ & passed Luther's house, where he lived with a family when he was studying. We walked up to Bach's house where his family was living when he was born in 1685. For 132 years Bachs played",
+      "dates": [
+        { "raw": "1564-1571", "iso_guess": null, "confidence": 0.0 },
+        { "raw": "1685", "iso_guess": null, "confidence": 0.0 }
+      ],
+      "headings": [],
+      "underlined_places": ["Eisenach"],
+      "place_mentions": ["Alsfeld", "Hessen", "Eisenach"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Alsfeld /Hessen Das Hochzeitshaus 1564-1571 at The Market place"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.92,
+      "notes": "Page contains a glued-in colour photograph of a half-timbered market square building (Das Hochzeitshaus, Alsfeld). The caption is handwritten to the left of/above the photo. The narrative text at the bottom is cut off mid-sentence ('For 132 years Bachs played') — continues onto the next spread. The dates 1564-1571 and 1685 are historical dates mentioned in the text (building dates and Bach's birth year), not diary entry dates. No year for the diary entry itself is visible on this spread; context from the volume suggests late 1990s–early 2000s but cannot be confirmed from page content alone."
+    }
+  ]
+}

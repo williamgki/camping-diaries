@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0138",
+  "volume": "A",
+  "pdf_page": 138,
+  "pages": [
+    {
+      "page_id": "A_0138_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Thu 11th Aug__\n\tThomas is still ill with the runs, + Simon, Peter + John are a bit too. We drove north + looked at a wood + plaster church at Ste. Marie-du-lac, a nice church with a minstrel's gallery. In this area the church are in the middle of graveyards.\n\tWe had lunch with mead near Chalon Châlons-sur-Marne.\n\tThe mead was so good that we stopped off at the Bee museum again. We saw all the hives outside - steps, logs, wood, plaster + live bees hanging on combs in a shed.\nThere were 3 observation hives with marked queens.\n\tWe bought handcream + face cream for Margaret + Helen!\n\tWe reached __humbres__ at 7.15. The gate was shut from 7-9 for the accent to go and eat supper. It's open 7am - 7pm + 9-10pm. It was annoying for everyone. Simon put up the tent + emptied the loo. Lots of people are using it because of diahorrea.\n\tChildren started throwing sand into John's",
+      "dates": [
+        { "raw": "Thu 11th Aug", "iso_guess": "1994-08-11", "confidence": 0.6 }
+      ],
+      "headings": ["Thu 11th Aug"],
+      "underlined_places": ["humbres"],
+      "place_mentions": ["Ste. Marie-du-lac", "Châlons-sur-Marne", "humbres"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Small hand-drawn illustration of beehive figures appears inline in the text near 'bees hanging on combs in a shed' — appears to be a decorative sketch, not a route map. 'humbres' is underlined in the original and may be a campsite name; could also read 'Humbres' or similar — uncertain spelling. 'accent' likely means 'accent' as written but may be a misspelling of 'ascent' or 'accent' referring to some campsite schedule. 'diahorrea' is the diary's own spelling. Year 1994 is a best guess as Thursday 11 August = 1994 fits; alternatively could be another year within the 1989-2003 range — not confirmed by on-page year evidence."
+    },
+    {
+      "page_id": "A_0138_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "face. Charles + Eve walked out to see the public swimming pool at the end of the road.\nSaturday 13th\n\tWe almost missed the ferry because John had the runs twice before we left. Thomas is down to wearing his swimsuit.\n\tWe stopped at Womensworld to pick up Peter's viola. Then we found a chemist at Aylesford for Dioralm + chocolate Complan for Thomas + John. We ate a chinese takeaway on the green.\n\tThomas left the petrol filler cap near Canterbury. We only discovered the loss at Watford Gap 257/83 miles. John is wearing a [?little] plastic bag under his shorts with holes cut for his legs.\n\t__Home again!__\n__John's birthday__\n\t5.10. We set off to Beauchamp to hear Thomas. Shostakovich Concerto 7 1st Movement, 2nd violin, Daniel Clarke 1st violin. Very good.\n\tOn the Saturday William did a maths paper + then the rest of us walked up to look at the trains, past a barn newly converted into a house.",
+      "dates": [
+        { "raw": "Saturday 13th", "iso_guess": "1994-08-13", "confidence": 0.55 },
+        { "raw": "5.10", "iso_guess": "1994-10-05", "confidence": 0.45 }
+      ],
+      "headings": ["Saturday 13th", "Home again!", "John's birthday"],
+      "underlined_places": [],
+      "place_mentions": ["Womensworld", "Aylesford", "Canterbury", "Watford Gap", "Beauchamp"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "Page continues from left page mid-sentence ('Children started throwing sand into John's / face.'). 'Womensworld' may be a shop name or place; could also read 'Womensworld' as written. 'Dioralm' is likely 'Dioralyte' rehydration sachets — transcribed as written. 'Beauchamp' is likely a concert venue or hall — could be Beauchamp or similar. '5.10' appears to be a date entry (5th October) starting a new entry about John's birthday, not connected to the August trip. Year of 5.10 entry assumed same year as rest of spread (1994) but confidence is low as it could be a different year's note appended later. 'Home again!' and 'John's birthday' are both underlined headings."
+    }
+  ]
+}

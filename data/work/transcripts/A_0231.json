@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0231",
+  "volume": "A",
+  "pdf_page": 231,
+  "pages": [
+    {
+      "page_id": "A_0231_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Grandma + Aunt Helen. He drove us up to the Priory. We collected Peter on the way. Grandpa watched cricket with Helen + John + Charles. Then he looked at old cars in John's car books. Grandma + Eve went to the service. At 12 Simon + William joined us, + with Peter we watched Thomas receive the [?strong] prize at prize-giving in \"The Space\", the new [strikethrough] Winter Gardens.\n\n     Gr + Gr had lunch with Helen + Charles at No 7, Simon + Eve + John went to No 8. We heard farewell speeches to the Murtaghs. We all left. It took 1½ hours to pack + load food at 8&, by 3.45. we reache __Dunar__. We had a campfire + there were midges.\n\n__Sunday May 24th__\n\n     Thomas + Tonic + Charles went for a walk. John, Peter, Simon + William played cricket. We only just",
+      "dates": [
+        { "raw": "Sunday May 24th", "iso_guess": "1998-05-24", "confidence": 0.3 }
+      ],
+      "headings": ["Sunday May 24th"],
+      "underlined_places": ["Dunar"],
+      "place_mentions": ["the Priory", "Dunar"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page continues from a previous page (no page number visible on this side). 'Dunar' is underlined — likely a campsite or place in Scotland (given midges). The year cannot be firmly established from this page alone; May 24 could fall on a Sunday in various years within the 1989–2003 range (e.g. 1992, 1998, 2003). 'the Murtaghs' are mentioned in farewell speeches. 'The Space' described as 'the new Winter Gardens'. 'reache' appears to be an abbreviated or cut-off 'reached'. Prize-giving location 'The Space' — could relate to a school event. 'Tonic' appears to be a dog's name (see right page re: chasing sheep)."
+    },
+    {
+      "page_id": "A_0231_R",
+      "side": "R",
+      "handwritten_page_no": 41,
+      "blank": false,
+      "full_text": "left for 11.30. church in time.\n\n     In the afternoon we dozed. Peter flew his latest plane. Simon played cricket with all the boys.\n\n     After supper we lit the fire + had hot chocolate. It rained a bit.\n\n__Monday May 25th__\n\n     Peter's Birthday. It rained + the boys studied. We played cricket before lunch. After lunch we walked up the hill + helped Peter fly his latest plane. It is a remote control glider made of foam rubber, polystyrene, tape + rubber bands. William took the plane back to the campsite - he can't walk far because of his foot. The rest of us went on a walk up to the house. Tonic has to be watched carefully so that he doesn't chase sheep. In the [e]vening we are having a lamb chop + sausage BB[Q]",
+      "dates": [
+        { "raw": "Monday May 25th", "iso_guess": "1998-05-25", "confidence": 0.3 }
+      ],
+      "headings": ["Monday May 25th"],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page number '41' appears to be visible in the top right corner. The text is cut off at the bottom right edge — 'BB[Q]' is the end of the visible text, likely 'BBQ'. 'Tonic' is confirmed as a dog (doesn't chase sheep). Peter's Birthday is May 25th. May 25th fell on a Monday in 1992 and 1998 within the volume's range (1989–2003); year assigned tentatively as 1998 but confidence is low. The left page text flows directly into this page (the sentence 'We only just' on the left continues as 'left for 11.30. church in time')."
+    }
+  ]
+}

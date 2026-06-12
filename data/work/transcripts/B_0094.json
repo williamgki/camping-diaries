@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0094",
+  "volume": "B",
+  "pdf_page": 94,
+  "pages": [
+    {
+      "page_id": "B_0094_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The lane we tried was so muddy that we turned back (surely a first!) & retraced our steps. The church looks lovely between its 2 yew trees.\n\tWe drove around the army camp at ~~Nessed~~ Nesscliff, that Charles went to for CCF from Malvern, then had supper at the Royal Hill - v. good, lasagna + chips + toffee pud + sauce. We watched men + children playing pool.\nSunday\n\tWe packed up gently. Eve took Tonic for a final walk. We set off for the camping shop near Wolverhampton. Then home.\n\nFriday May 26th\n\tAt 5.20. we set off to see Charles in the Malvern Summer Concert. Dreadful jams on the Motorway. We made it to the concert with 15 minutes to spare (7pm). Simson had tried going left on the ring road to get on the A 38, but there was only an entrance, no exit.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Friday May 26th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Sunday", "Friday May 26th"],
+      "underlined_places": [],
+      "place_mentions": ["Nesscliff", "Malvern", "Royal Hill", "Wolverhampton", "A 38"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "The word before 'Nesscliff' appears to be a crossed-out false start ('Nessed' or similar). 'Sunday' is underlined. 'Friday May 26th' is underlined. The year is not stated on this page; could be any year within the volume range (2003–2019) when May 26 fell on a Friday. 'Simson' may be a surname or 'Simon' — transcribed as written."
+    },
+    {
+      "page_id": "B_0094_R",
+      "side": "R",
+      "handwritten_page_no": 32,
+      "blank": false,
+      "full_text": "__Sat May 27th__\n\tWe slept on the lees outside D67 again. Fr. Menon preached in the Priory. Puin got a presentation. Hugh Carson said goodbye.\n\tCharles played jazz in a marquee for lunch. Parachutists landed in spite of cloud + rain + we all went home.\n\n\tFriday June 10th.\n\tEve drove over to Trimpley after lunch to pick up Margaret & Helen in the red car. There are football matches. It's very hot.\n\tAt 5.50. the 4 of us set off for Margaret's weekend in Devon with Evelyn.\n\tWe reached Proctor's Farm, near West Monkston, where Margaret + Helen slept in a b & b. Tonic tried to attack the chickens in a cage; the bloody cockerel crowed early in the morning. Enormous elderflowers lovely weather.",
+      "dates": [
+        { "raw": "Sat May 27th", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "Friday June 10th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Sat May 27th", "Friday June 10th"],
+      "underlined_places": [],
+      "place_mentions": ["Priory", "Trimpley", "Devon", "Proctor's Farm", "West Monkston"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "'Sat May 27th' is underlined. 'D67' appears to be a campsite pitch/plot number — transcribed as written. 'Fr. Menon' is a priest's name; could also read 'Menon' or 'Menov'. 'Puin' is an unclear name — transcribed as written, could be 'Pain' or another name. 'West Monkston' may alternatively read 'West Monkton' (a village in Somerset, near Taunton) — noted as a likely place in Devon/Somerset context. Year not determinable from page content alone."
+    }
+  ]
+}

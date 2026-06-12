@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0270",
+  "volume": "B",
+  "pdf_page": 270,
+  "pages": [
+    {
+      "page_id": "B_0270_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday\n\nWe visited Venetia & David in their new home \"The New House\" for coffee on our way home. Very smart bath rooms. Lovely home.\nSoon after leaving the van mil o metre passed from 99,000 to 100,000. (Just under 4,000 per year.) On our way home to watch Boring Murray in Wimbledon Finals.\n~~Friday~~ Monday August 12th\n\nThomas & family in France. Peter & family we've just spent a day with in new house in Tufnell Green. John has started at Bristol one week into ICU job. Charles living with future mo-in-law in Witney until Oxford ho- ready.\n12.30 Simon & Eve, Tindse leave for farm. Jam on motorway, lunch, arrive farm at 3. Simon & Eve help bind hop stems around sticks & pull up weeds. Discuss small hop-drying frame with Andy - Eve suggest Queen ocluders. Watch bulldozers changing bank from J to V.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2013-08-11", "confidence": 0.75 },
+        { "raw": "Monday August 12th", "iso_guess": "2013-08-12", "confidence": 0.92 }
+      ],
+      "headings": ["Sunday", "Monday August 12th"],
+      "underlined_places": [],
+      "place_mentions": ["The New House", "Wimbledon", "France", "Tufnell Green", "Bristol", "Witney", "Oxford"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The diary records watching 'Boring Murray in Wimbledon Finals' — Andy Murray won Wimbledon in 2013; 'Monday August 12th' matches 12 Aug 2013, strongly anchoring the year. 'Friday' is struck through and replaced with 'Monday'. 'Tindse' may be a name or abbreviation — unclear. 'Mil o metre' is the diarist's spelling of milometer/odometer. 'Queen ocluders' possibly 'Queen excluders' (beekeeping frames). 'J to V' likely refers to the shape of a bank being re-shaped."
+    },
+    {
+      "page_id": "B_0270_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Joseph has won 5 rosettes at a gymkhana yesterday. A big break-time in his confidence. We play draughts. Or gorgeous weather Simon & I join adults at wood-work place for pyjya & chat. 2 firemen - Mr & Mrs.\nTuesday Aug 13th\nWe come to countryside for p.g. At 7.15 lorries arrive. By 7.45 there is one bull dozer or 2 ? 2 dumper trucks, 3 lorries delivering gravel outside (above Will + Kenny's caravan) & 3 grandchildren having break fast in our van. Simon helps William on farm. Freya takes children & me to Barnyard, shopping & Library. Back at farm physio arrives for Joseph in pool. Eve swims. lunch. Then we leave.\n3.45. we reach Polwigo Campsite Llanwrthwl near Rhayader & Elan valley. We go on a lovely walk, small village.\nThen read; sparkling wine, supper. Gorgeous sunshine. Cambrian Mtns.",
+      "dates": [
+        { "raw": "Tuesday Aug 13th", "iso_guess": "2013-08-13", "confidence": 0.92 }
+      ],
+      "headings": ["Tuesday Aug 13th"],
+      "underlined_places": [],
+      "place_mentions": ["Barnyard", "Polwigo Campsite", "Llanwrthwl", "Rhayader", "Elan valley", "Cambrian Mtns"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "Year 2013 confirmed by left page (Murray Wimbledon Finals + Monday Aug 12 match). 'Polwigo Campsite' could also read 'Polwigo' or '[?Polwigo]' — Wales near Rhayader; may be 'Polgwyo' or similar. 'Llanwrthwl' is a small village near Rhayader, Powys, Wales. 'p.g.' unclear abbreviation — possibly 'p.g.' as in paying guests or farm stay. 'pyjya' likely 'puja' or 'pizza' — unclear. 'Will + Kenny's caravan' are names, not places. 'firemen - Mr & Mrs' context unclear."
+    }
+  ]
+}

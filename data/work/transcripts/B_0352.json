@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0352",
+  "volume": "B",
+  "pdf_page": 352,
+  "pages": [
+    {
+      "page_id": "B_0352_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Camping after Imogen's & Nean's wedding. August '21\n\nlater Walter left & Olive arrived\n\nFlora\nConrad\nWalter\nNini\nGigi",
+      "dates": [
+        { "raw": "August '21", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "'August '21' is ambiguous: the apostrophe before 21 could indicate a year abbreviation ('21 = 2021, outside volume B range 2003-2019) or August 21st as a day. Given the volume date range, most likely means August 21st within an unspecified year; year cannot be confirmed from this page alone. The large drawing on the page appears to be an artistic outline of a hand/fingers — not a route sketch. Names listed (Flora, Conrad, Walter, Nini, Gigi) appear to be participants in the camping trip. 'Nean' could be a nickname; reading is best guess from handwriting."
+    },
+    {
+      "page_id": "B_0352_R",
+      "side": "R",
+      "handwritten_page_no": 53,
+      "blank": false,
+      "full_text": "We had a talk, telling about the Pulsar origin (1 tsp = weight of mount Everest from dying star) of \"LGM\" (Little green men.) Then on to camping near Chester with Thomas & Peter, 3vans, 2 tents.\n\t__Netherton__ touring site. A very good site with swings & good loos. A restaurant just up the road next to a garage. Thomas cooked a BBQ. Walter had a melt down.\n__Monday__\n\tThe children played in the camp until lunch time. In the afternoon we cycled, all of us (Gigi in a seat on Peter's bike) into Chester & got an ice-cream. A lovely day out. Walter had another melt-down [strikethrough: So Thomas] over where he would sit in the near-by restaurant. Then back at the campsite Walter had another melt-down so Thomas set off for home with Walter at 9.30. & I slept with Flora in the tent.\n__Tuesday__\nFlora, Nini & I set off for shopping in Chester. Thomas [text continues on next page]",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Monday", "Tuesday"],
+      "underlined_places": ["Netherton"],
+      "place_mentions": ["Chester", "Netherton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Text continues beyond the bottom of the page — the entry is cut off mid-sentence at 'Tuesday / Flora, Nini & I set off for shopping in Chester. Thomas'. 'Netherton touring site' is underlined in the original. The word 'road' is partially cut off at the right edge but reads clearly in context as 'road'. A strikethrough appears over 'So Thomas' mid-sentence, suggesting a revision; the superseding text reads 'over where he would sit in the near-by restaurant'. The phrase '3vans' appears without a space, transcribed as written. 'mount Everest' may be an approximate allusion to neutron star density. '1 tsp' likely means 'one teaspoon'."
+    }
+  ]
+}

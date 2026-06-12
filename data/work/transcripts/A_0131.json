@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0131",
+  "volume": "A",
+  "pdf_page": 131,
+  "pages": [
+    {
+      "page_id": "A_0131_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "bit suspect + dirty. It poured rain in the morning.\n__August 1st, Monday__\n    We set off in the rain to go to Laon. We took a funicular up to the town, bought delicious patisserie + walked to the wrong church! In fact the town, although beautiful, was annoying – no loos, nowhere to wash hands, no way to buy funicular tickets, no maps. The cathedral is stately, tall columns, lovely windows. There is a magnificent font – I couldn't find a place to buy a nice little Knights Templar chapel. The font had 4 faces at the corners, remote, like African masks.\n    We drove to a supermarket + had lunch in the carpark, under a shady tree, while Simon shopped.\n    We drove to __Grotte de Sagon__ on the Chemin des Dames where 6,000 German soldiers held out in 1914-7 war. Charles had left his shoe at the Laon supermarket, so Simon left us at the taverne while he + Charles returned to the shop. We saw a museum + film + got colder + colder. Simon + Charles arrived back in time for the tour. Dreadful.\n    On to Vauclair Abbey. In parts you can imagine the rooms. In one church, only the font",
+      "dates": [
+        { "raw": "August 1st, Monday", "iso_guess": "1994-08-01", "confidence": 0.5 }
+      ],
+      "headings": ["August 1st, Monday"],
+      "underlined_places": ["Grotte de Sagon"],
+      "place_mentions": ["Laon", "Grotte de Sagon", "Chemin des Dames", "Vauclair Abbey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page begins mid-sentence, suggesting text continues from a previous page. 'Grotte de Sagon' — the cave/grotto name may be 'Caverne du Dragon' (a well-known WWI site on the Chemin des Dames); 'Sagon' could be a misread of 'Dragon'. Year not stated on this page; August 1st falling on a Monday is consistent with several years in the 1994–2002 range. 'patisserie' spelled 'pattisserie' in original."
+    },
+    {
+      "page_id": "A_0131_R",
+      "side": "R",
+      "handwritten_page_no": 45,
+      "blank": false,
+      "full_text": "Accanthus capitol, similar to Laon, at Cistercian monastery, Vauclair on Chemin des Dames\n\nin Chapter?\n\nwas left. Lovely coloured stone. There was an interesting medicinal herb garden too.\n    We have come to a camp site with badminton, swings + table tennis. __Camp Hambouque__ 11 km away from Guincourt. It's clean + has a washing machine. The weather is more sunny + settled. In the evening 5 girls were playing ping pong with Peter. Thomas + William went to help + there was all-out chaos with the girls running off with the bats + ball. Simon finally sent the girls off. John + Charles slept + Simon played ping pong with Thomas, William + Peter. __Pontavert__\n    __Tues Aug 2nd__ Thomas has organised a ping pong tournament, but it's rather hot to play. We sat around + had lunch at the village restaurant",
+      "dates": [
+        { "raw": "Tues Aug 2nd", "iso_guess": "1994-08-02", "confidence": 0.5 }
+      ],
+      "headings": ["Tues Aug 2nd"],
+      "underlined_places": ["Camp Hambouque", "Pontavert"],
+      "place_mentions": ["Vauclair", "Chemin des Dames", "Guincourt", "Pontavert"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn sketch of an Acanthus-leaf column capital, labelled with a caption identifying it as similar to the capital at Laon, found at the Cistercian monastery at Vauclair on Chemin des Dames. Architectural detail sketch, not a route map.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "The page number '45' is visible in the top-right corner. The sketch is an architectural drawing of a column capital, not a geographic route sketch — route_sketch set to true as it is a hand-drawn illustration. 'Accanthus capitol' is the diary's spelling (Acanthus capital). 'Camp Hambouque' — may be 'Hambouge' or similar; transcribed as written. Text ends mid-sentence, continuing onto the next page. August 2nd falling on a Tuesday is consistent with 1994 (Aug 2 = Tuesday). Dates given as 0.5 confidence as year is inferred from context rather than stated."
+    }
+  ]
+}

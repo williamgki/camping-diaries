@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0294",
+  "volume": "B",
+  "pdf_page": 294,
+  "pages": [
+    {
+      "page_id": "B_0294_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Glass doors Axbridge Church designed & engraved by Tracey Sheppard F G E\n\nPlayed with Joseph, Seb & Nina & new nanny, house. Johnnie was there but left after lunch. I also unloaded & my tea lady stuff into shed & cleaner big black tubs from Charles' wedding.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Axbridge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Glass doors Axbridge Church designed & engraved by Tracey Sheppard F G E"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page contains a large photograph of engraved glass doors. The caption is handwritten to the right of the photo. 'F G E' after Tracey Sheppard's name may be an abbreviation of a professional designation. 'tea lady stuff' and 'big black tubs from Charles' wedding' suggest context of clearing up after an event. No handwritten page number visible."
+    },
+    {
+      "page_id": "B_0294_R",
+      "side": "R",
+      "handwritten_page_no": 114,
+      "blank": false,
+      "full_text": "St. John the Baptist Axbridge\n\nThursday. Joseph & Seb came into the van for breakfast. Seb switched on water. Joseph put bread to toast on grill tray. Nina finally joined us when [?going/doing]",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Axbridge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["St. John the Baptist Axbridge"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page contains a postcard or photograph of St. John the Baptist Church, Axbridge. The caption is handwritten to the left of the photo. The text below the photo is cut off at the bottom of the page; the final word after 'when' is unclear — could be 'going' or 'doing' or another word. Handwritten page number '114' visible in top-right corner. No year can be confirmed from the content alone; year context not available from this spread."
+    }
+  ]
+}

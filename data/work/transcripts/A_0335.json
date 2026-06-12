@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0335",
+  "volume": "A",
+  "pdf_page": 335,
+  "pages": [
+    {
+      "page_id": "A_0335_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the tap because our tank water is still bad- oily & chemically. Diluted from the last French campsite? We're all sleeping in the van. Charles top bunk, John bottom bunk, Tonic in the cab. __Bundu Campsite__ ***½ N. of Dartmoor, 5 miles west of Okehampton on A.30. Very easy to get to after leaving road, clean, but officious land lady\nSat Apr 15th.\n\tBrilliant sunshine. Water now tastes of chlorine. Using bottles. After an hour we reached the __Eden Project__. It's splendid. There was a special carpark for people with dogs - a wooden shed to park in for shade, & drinking water for the dog. The carparks are named after fruits. We were in orange. John says (when asked what he remembers) that 'the food was quite good.' Simon says 'the glass houses were so big,",
+      "dates": [
+        { "raw": "Sat Apr 15th", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Bundu Campsite", "Eden Project"],
+      "place_mentions": ["Bundu Campsite", "Dartmoor", "Okehampton", "A.30", "Eden Project"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text continues from a previous page (begins mid-sentence). The campsite rating appears as ***1/2. 'Tonic' appears to be a dog travelling with the family. The word before 'from the last French campsite' could read 'Diluted' or 'Polluted' - best reading is 'Diluted'. 'Sat Apr 15th' - April 15 was a Saturday in 2000 and 2006; the Eden Project opened in March 2001 so 2006 is the most likely year, but cannot be confirmed from this page alone. No handwritten page number visible on this side."
+    },
+    {
+      "page_id": "A_0335_R",
+      "side": "R",
+      "handwritten_page_no": 80,
+      "blank": false,
+      "full_text": "Inside the Humid Tropics Biome at the Eden Project",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Eden Project"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Inside the Humid Tropics Biome at the Eden Project"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a large colour photograph of the interior of the Humid Tropics Biome (geodesic dome with tropical vegetation). Caption is handwritten vertically along the left margin of the photo. Handwritten page number '80' in top-right corner."
+    }
+  ]
+}

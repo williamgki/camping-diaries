@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0024",
+  "volume": "B",
+  "pdf_page": 24,
+  "pages": [
+    {
+      "page_id": "B_0024_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "lots of dog pooh + flies.\n\nThere are buzzards cirding at the top of diff + storks nests on the churches. People are polite + friendly. Cars stop at pedestrian crossings.\n\n__Wednesday__\n    We set of to Hoz de Lumbier, it's a gorge, limestone. $[?trail-] way tunnels give access at either end. It's about 5 km long. Charles disappeared + walked on ahead. Fortunately he guessed when to turn back. Then we drove a short distance to the monastery of Leyre.",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Hoz de Lumbier", "Leyre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["EuNATE", "LuMBIER"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Top of page continues from previous spread. Two glued-in postcards on left: one of the Romanesque church at Eunate labelled 'EuNATE', one of a bridge/river scene labelled 'LuMBIER'. The word before 'way tunnels' is partially obscured; reads possibly 'trail-way' or 'rail-way' tunnels — likely 'railway' tunnels given the context of the Lumbier gorge. 'cirding' appears to be the diarist's spelling of 'circling'. 'set of' likely means 'set off'. The '$' symbol before '[?trail-]' may be a crossed-out word or stray mark."
+    },
+    {
+      "page_id": "B_0024_R",
+      "side": "R",
+      "handwritten_page_no": 22,
+      "blank": false,
+      "full_text": "The capital looks so low-down on the column in the photo of Leyre, because it is low down. That's in the crypt. We also saw the church, with a lovely doorway into a chapel, + the Judgement portal with Jonah + the Whale. (11 - 14).\n\n    We shopped at __Sanguesa__\n__Seguey__, on the Pilgrims Road. Then found a campsite, R[?obesta] ****\non the far side of the lake we could see from the monastery (amazing views from the monastery). It is up a long winding shingle track. The village on the other side of the river is deserted because the dam flooded Sortile valley land. From the campsite we walked down 30 min along old farm tracks to the lake, carrying swim suits, boat, pump + paddle. Charles + Eve swam. Eve picked fennel for supper.",
+      "dates": [
+        { "raw": "Wednesday (continued)", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Sanguesa", "Seguey"],
+      "place_mentions": ["Leyre", "Sanguesa", "Seguey", "Sortile"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Gorge of Lumbier", "LeYRE"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "Handwritten page number '22' visible in top-right corner. Two photos on this page: a cliff/canyon photograph captioned 'Gorge of Lumbier', and a photo of an arched monastery interior captioned 'LeYRE'. 'Sanguesa' and 'Seguey' are both underlined — 'Seguey' may be the diarist's rendering of 'Sangüesa' written twice, or possibly a separate place name; Sangüesa is a real town in Navarre on the Camino de Santiago, consistent with 'Pilgrims Road'. The campsite name after 'R' is partially obscured by the photo; reads possibly 'Robesta' or 'Ribesta'. '(11 - 14)' likely refers to diary page numbers with photos of Leyre. 'Sortile' may refer to Sigüés or a local valley name — could also read 'Sortile' as written."
+    }
+  ]
+}

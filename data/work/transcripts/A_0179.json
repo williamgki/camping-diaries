@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0179",
+  "volume": "A",
+  "pdf_page": 179,
+  "pages": [
+    {
+      "page_id": "A_0179_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday June 16th\n\n   We picked Peter up after the Sung Eucharist (we'd asked for him to be excused from Evensong) + lunched near East Midlands airport. There is a mare + foal in the field + cars are arriving for a cricket match. (near Doncaster)\n   We are on our way to see the puppy … They were lovely, nearly a month old. We chose a dark blue one, who was the most friendly. Tonic?\n   Tea at Appleby Magna or [?Barva] on the way home.\n\nSunday 13th July.\n\n   We seven + Naomi Grimley collected Peter from Evensong + set off to Thorpeness. We had a quick supper east of Bury St. Edmonds + arrived at 9.20. Annie + Klaus + their 4 were there, + 2 German families with 2 children each. Meare, shops for sweets, tennis, music. John about to take Grade 2 Sally + her 4 arrived next day. Thomas + William slept in the study. John + Charles in Jg H's room, [then] with Andie + Patrick in the end room. S+E brought back 13 fish 70 chips, 13 nuggets + 2 sausages ordered from Leiston [?Fermi] + Peter played in the tennis tournament, John played tisch tennis.\nscrabble",
+      "dates": [
+        { "raw": "Sunday June 16th", "iso_guess": "1996-06-16", "confidence": 0.45 },
+        { "raw": "Sunday 13th July", "iso_guess": "1997-07-13", "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["East Midlands airport", "Doncaster", "Appleby Magna", "Thorpeness", "Bury St. Edmonds", "Meare", "Leiston"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Handwritten page number not visible in top-left corner of left page. 'Barva' (or similar) is unclear — could be 'Barva', 'Barrow', or another place name near Appleby Magna. 'Jg H's room' unclear — likely initials. The word after 'Leiston' is unclear — could be a shop name. Year for 'Sunday June 16th' is uncertain; June 16 was a Sunday in 1996 (and 1991, 2002 etc). Year for 'Sunday 13th July' is uncertain; July 13 was a Sunday in 1997. These may be different years. The reference on the right page to 'canoeing in the Ardeche in 1990' as a past event sets a post-1990 lower bound."
+    },
+    {
+      "page_id": "A_0179_R",
+      "side": "R",
+      "handwritten_page_no": 78,
+      "blank": false,
+      "full_text": "Monique made us this pig. Tobi is lovely. At 4.45. after a German birthday party we left for home on Thursday July 17th\n\n__Saturday August 3rd__\n   At 10.10. we set off, all 7 of us, for Ireland. We had sandwiches for lunch near Nescliffe in Shropshire. John, nearly 9 + Charles, 7, are the same age as William + Peter, when we went to Germany + [&] canoeing in the Ardeche in 1990.\n   On to Anglesey, where we had tea next to Telford's Bridge. Much fighting in van. C+P T+P.\n   On to an __Anglesey campsite__, looking across to Holy Island. It would have been good for",
+      "dates": [
+        { "raw": "Thursday July 17th", "iso_guess": "1997-07-17", "confidence": 0.55 },
+        { "raw": "Saturday August 3rd", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday August 3rd"],
+      "underlined_places": ["Anglesey campsite"],
+      "place_mentions": ["Nescliffe", "Shropshire", "Germany", "Ardeche", "Anglesey", "Telford's Bridge", "Holy Island", "Ireland"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page has a glued-in origami pink pig. 'Thursday July 17th' aligns with 1997 (July 17 1997 was a Thursday), consistent with the July 13 Sunday entry on the left page. 'Saturday August 3rd' does not align with 1997 (August 3 1997 was a Sunday); August 3 was a Saturday in 1996 or 2002. This may be a different year's entry, or a day-of-week error by the diarist. The text is cut off at the bottom ('It would have been good for'). 'Ardeche' is the river/region in France (Ardèche). '***½' appears above the Anglesey campsite paragraph — possibly a rating."
+    }
+  ]
+}

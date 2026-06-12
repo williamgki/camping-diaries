@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0102",
+  "volume": "B",
+  "pdf_page": 102,
+  "pages": [
+    {
+      "page_id": "B_0102_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday  Charles woke us early! + we set off. For the first time I shopped in a French super market. We then drove on to see the Millan Bridge. It only opened in April. Cars were queueing up to park on the Aire, which was brand new - just red earth. We climbed up to the viewing platform. It's very beautiful, elegant. Cantilever cable stayed. Apparently it has brought more business to the town, because people come to look at it + tour round for a couple of days. Even the local garage has [illegible] on top.\n      __Camp St. Martin__ [?x x x x]\n      We could just see it from the camp site. After supper, Simon + I walked up a lane to look at it in the sunset, a marvellous site, contrasting with the stink of an enormous pile of chickensh*t on the hillside. A farmer keeps birds in cages.\n      Swimming pool, v. clean., washing machine\nSunday\n      We went to church in Millan \"Our lady of the crown of thorns.\" Lots of painted walls.",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Camp St. Martin"],
+      "underlined_places": ["Camp St. Martin"],
+      "place_mentions": ["Millan", "Camp St. Martin"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The diary spells the town 'Millan' — almost certainly Millau (Aveyron, France), home of the Viaduc de Millau. The viaduct 'only opened in April' is consistent with the viaduct's opening (December 2004, public traffic from January 2005); 'April' may refer to April 2005 or be a slight mis-recollection. The right page caption reads '2006 Norman Foster & Partners', suggesting the trip may be 2005 or 2006. 'Camp St. Martin' is the campsite name (underlined in text). Right margin has rotated annotation 'Viaduc de Millau' which belongs to the right page. The word transcribed as 'chickensh*t' reads 'chickenshit' in the original."
+    },
+    {
+      "page_id": "B_0102_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Viaduc de Millau__\nLength 2460 m, height top of pylons 343 m.\nHt of road bridge above river 270 m.\n2006 Norman Foster + Partners.\n\n      Afterwards, we went to Millan Museum. Part describes leather processing + glove-making + part fossils + Roman archaeology. The town was famous for earthenware pots in Roman times. An interesting model of a firing oven.",
+      "dates": [
+        { "raw": "2006", "iso_guess": "2006", "confidence": 0.6 }
+      ],
+      "headings": ["Viaduc de Millau"],
+      "underlined_places": ["Viaduc de Millau"],
+      "place_mentions": ["Viaduc de Millau", "Millan"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Viaduc de Millau / Length 2460 m, height top of pylons 343 m. / Ht of road bridge above river 270 m. / 2006 Norman Foster + Partners."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The right page contains a glued-in photograph of the Viaduc de Millau with a handwritten caption written vertically in the left margin of the photo (rotated 90 degrees). The '2006' in the caption most likely refers to design/construction attribution to Norman Foster & Partners (who designed it; it opened 2004), not necessarily the year of the diary entry — though it may indicate the trip was in 2006 or later. 'Millan' is used again for Millau. The caption text on the left margin is transcribed under full_text and also in photo_captions."
+    }
+  ]
+}

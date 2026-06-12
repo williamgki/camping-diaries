@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0319",
+  "volume": "A",
+  "pdf_page": 319,
+  "pages": [
+    {
+      "page_id": "A_0319_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Cluny Abbey in the Cornstore. From the cloister of Cluny III. The \"bee-keeper\", from the representation of the Winds.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Cluny Abbey", "Cluny III"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Cluny Abbey in the Cornstore. From the cloister of Cluny III. The \"bee-keeper\", from the representation of the Winds."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "Page contains one large glued-in photograph of a carved stone figure (the 'bee-keeper') from Cluny Abbey, with handwritten caption below. Some text visible at the right gutter edge belongs to the right page and is not transcribed here."
+    },
+    {
+      "page_id": "A_0319_R",
+      "side": "R",
+      "handwritten_page_no": 64,
+      "blank": false,
+      "full_text": "ended up missing the museum.. the Cornstore ground floor was beautiful. In its heyday 3,000 abbeys kowtowed to Cluny. But it was hammered in 1798. The town is pretty, some 18 buildings. touristy.\n\n\tAfter ice cream in the van we set off again. We reached __Las Portes des Beaujolais Anse__. The site was lovely, up on a bank near the river. Part of the campground could be used for flood control for the R. Saone. There is a minature railway into town. The boys swam in the pool. Eve did a load of wash £€4. There are again lots of Dutch people who are very pleasant to camp with. lots of wooden cabins in the bushes.\n\n\t__Friday__\n\tAt elevenses we arrived at the Gras house in the Mont d'Or north of Lyons. John + Charles will do an exchange with Rafael + Victor. So the 4 boys spent the day together with Fran + Danny, while Simon + Eve went sightseeing in Lyons. We saw the Musée des Beaux Arts, which had been closed for 8 years",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Friday"],
+      "underlined_places": ["Las Portes des Beaujolais Anse"],
+      "place_mentions": ["Cluny", "Las Portes des Beaujolais Anse", "R. Saone", "Mont d'Or", "Lyons", "Musée des Beaux Arts"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Text begins mid-sentence at top of page, continuing from the previous spread. 'Las Portes des Beaujolais Anse' is underlined — could also read as 'Les Portes des Beaujolais Anse'. The asterisks/symbols '****±' appear after 'set off again' (possibly a correction mark or annotation). '£€4' appears to show both pound and euro symbols together (unusual — possibly one is struck through or it is a hybrid currency notation). 'Gras house' likely refers to a family named Gras. Year cannot be determined from this page alone; volume covers 1989–2003."
+    }
+  ]
+}

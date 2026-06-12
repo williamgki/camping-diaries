@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0231",
+  "volume": "B",
+  "pdf_page": 231,
+  "pages": [
+    {
+      "page_id": "B_0231_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The house is tenanted. It is tidy with 3 reception rooms + 8 bedrooms all closed. The 3.15. tour took us up the staircase, very wide, past paintings given to Craven by Elizabeth, 10 of her children. Excellent guide called Nicola. There's a long, underground passage out from the cellar because of 'nervousness' after the Civil War. The avenues are a mile long.\n    We camped at a really nice site, Orcheston village, Stonehenge Touring Campsite* [?★★★] very welcoming, clean, friendly, library. There was a trailer serving grilled food, so we had chips with our chicken salad.\nSunday\n9.0 We had first-entry tickets for Stonehenge. It was just as well because when we came to leave (10.30.) it was really crowded. The new visitors' centre, opened in the last 12 months, is very good. Light + airy. The exhibits capture the scale of Stonehenge. The big stones are sareen stones, dragged",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2014", "confidence": 0.5 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Orcheston", "Stonehenge Touring Campsite", "Stonehenge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Text continues from a previous page describing a house visit; the house is described as tenanted with paintings given to Craven by Elizabeth (likely Kiplin Hall or similar stately home). 'Orcheston' has a strikethrough on the first attempt and is rewritten. Star ratings after campsite name are partially legible — appears to be 3 or 4 stars. 'sareen' likely means 'sarsen'. The new Stonehenge visitor centre opened December 2013, suggesting this entry is from 2014 or possibly 2015."
+    },
+    {
+      "page_id": "B_0231_R",
+      "side": "R",
+      "handwritten_page_no": 51,
+      "blank": false,
+      "full_text": "19 miles from Marlborough. The smaller, blue stones came 150 miles by water + land, from Prestelli in Wales.\n\n[photo: stone statue on cathedral facade]\n\nGeorge Herbert, West Front, Salisbury Cath[edral]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Marlborough", "Wales", "Prestelli", "Salisbury Cathedral"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["George Herbert, West Front, Salisbury Cath[edral]"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "'Prestelli' almost certainly refers to the Preseli Hills in Pembrokeshire, Wales — the known source of Stonehenge's bluestones. The photo caption is cut off at the right edge; 'Cath' is clearly the start of 'Cathedral'. Handwritten page number 51 visible at top-right corner."
+    }
+  ]
+}

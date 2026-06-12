@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0087",
+  "volume": "B",
+  "pdf_page": 87,
+  "pages": [
+    {
+      "page_id": "B_0087_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The \"Dragon post\" at the corner supported the upper floor in both directions (a corruption of \"diagonal\".)\n\n[photograph of a timber-framed building]\n\nThe Guildhall, Lavenham",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Lavenham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Guildhall, Lavenham"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page is dominated by a glued-in photograph of the Guildhall at Lavenham. Caption text appears above the photo and below it. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0087_R",
+      "side": "R",
+      "handwritten_page_no": 25,
+      "blank": false,
+      "full_text": "We spent the night in a field in the middle of nowhere with lovely views. Electrical hook-ups but no loo. Only 10 min. from the lampshades at Halesworth. __Till Hill Farm campsite__** near Barsham. It was a clear night with stars. In the morning we ate breakfast with the doors wide open & there was mist in the lower field.\n__Monday Oct 10__\n   We reached Halesworth & Simon stacked lampshades in the van. Tonie & Eve walked & picked blackberries, a lovely walk along foot-paths. Back at the factory, Eve cleaned the loo & then Simon took Eve home before going on to a Queen's meeting.\n\n__Friday October 21st.__\n   Simon & Charles & Tonie & Eve set off for Newcastle at 5.30. & arrived at 11 pm. Traffic was heavy & it rained. We arrived at Peter's flat 115A Mowbray, next to Hotspur Primary School. It's a super flat, not cramped, attractive colours. He shares it with Jim who's from Howarth near Bradford. It's very",
+      "dates": [
+        { "raw": "Monday Oct 10", "iso_guess": "YYYY-10-10", "confidence": 0.5 },
+        { "raw": "Friday October 21st.", "iso_guess": "YYYY-10-21", "confidence": 0.5 }
+      ],
+      "headings": ["Monday Oct 10", "Friday October 21st."],
+      "underlined_places": ["Till Hill Farm campsite"],
+      "place_mentions": ["Halesworth", "Till Hill Farm", "Barsham", "Newcastle", "Mowbray", "Hotspur Primary School", "Howarth", "Bradford"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Year cannot be confirmed from the page content alone; no year is written. The volume covers 2003-2019 but October 10 falling on a Monday and October 21 falling on a Friday narrows possibilities. 'Till Hill Farm campsite' is underlined and followed by '**' (double asterisk). '115A Mowbray' likely refers to Mowbray Road or similar street in Newcastle. 'Howarth' may be 'Haworth' (village near Bradford) — transcribed as written. Text continues beyond the bottom of the visible page."
+    }
+  ]
+}

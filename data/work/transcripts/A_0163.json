@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0163",
+  "volume": "A",
+  "pdf_page": 163,
+  "pages": [
+    {
+      "page_id": "A_0163_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Monday 6 April August\n\t\tloud bangs & fireworks across city at midnight. Birtugese drivers have the panache of the Italians, but the roads aren't as safe.\n\t\tWe packed up & set of south for Oporto.\nChaotic map reading. We parked in the higgledy-piggledy old quarter at the top of the hill & walked down to the harbour. The houses are close together, balconies, 3 tiers of lots of family washing. Houses covered in very pretty tiles.\n\t\tWe visited St. Francis Church. Amazeing. Covered in a gold fungus. For the poor saint. A wooden sculpture of 5 Franciscans having their heads chopped off by Moors. In the museum nice lamps on lampposts with little cherubs.\n\t\tThe old harbour is pretty. Original warehouses for port brought down in pink-type boats, later by train. Sandman black man? Children jumping off the quay.\n\t\tWe had lunch in a family-run restaurant. Mama with 3 daughters in the kitchen & father with 2 sons as waiter.\n\t\tOld English port buildings solidly-built, could be in Sham.\n\t\tThe temperature is perfect in the shady streets. Lots of interesting bridges; one of cars above & cars below. A railway. And the coast motorway being",
+      "dates": [
+        { "raw": "Monday 6 April August", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Oporto", "St. Francis Church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "The date heading reads 'Monday 6 April August' — 'April' appears to be struck through or written over with 'August', suggesting a correction. The year is not given on this page. The diary covers 1989–2003; context (Portugal trip) could help anchor the year but cannot be determined from this page alone. 'Sham' likely refers to Sham (a place in England). The word 'panache' confirmed. 'Amazeing' is the diarist's spelling."
+    },
+    {
+      "page_id": "A_0163_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "built. We went inland, up the R. Douro, to Cinfaes, which I would like to see more of, then south east, up a tributary to the right to Castro Daire **** , a member of Orbiter camps.\nThere was a pool outside the campsite.\n\t\tWe went through country side with large boulders, & vines edging fields. Maize. Amazing view of ridges of mountains to the south. Very tiring zig zag roads. Portuguese drivers take horrendous risks.\n\t\tThe campsite smells of beautiful pines.\n\nTues 7 April August\n\t\tWe set off south towards Guarda. Large lorries carrying enormous blocks of stone. Large boulders by the side of the road.\n\t\t__Castelo Mendo__, near the old road, we stopped at. [?Magnificent] old walls. Houses clustered inside. 2 vans selling visited the village. 3 people were filling up bottles at the 2 village taps. 3 churches, 2 locked & one open – roof has fallen in. The Sacristy had 2 beds built into the wall. Hermit? Pillars & balconies on some houses. Very has-been & cut off, with old peasant women in black. But 2 young families, too. 16 large stone blocks on top of each other – height of walls. Wellington lived in a house near, for 1 year.\n\t\tWe arrived at __Ciudad Rodrigo__, & saw the cathedral with good Romanesque carvings, even a",
+      "dates": [
+        { "raw": "Tues 7 April August", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Castelo Mendo", "Ciudad Rodrigo"],
+      "underlined_places": ["Castelo Mendo", "Ciudad Rodrigo"],
+      "place_mentions": ["R. Douro", "Cinfaes", "Castro Daire", "Guarda", "Castelo Mendo", "Ciudad Rodrigo"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The date 'Tues 7 April August' mirrors the left page — 'April' is likely struck through and 'August' written over (or vice versa), suggesting a correction. The year cannot be determined from this page alone. 'Castro Daire ****' has four asterisks, likely a rating. 'Orbiter camps' is probably an Orbiter campsite network. The word before 'old walls' is partially legible — reads as '[?Magnificent]'. 'Ciudad Rodrigo' is in Spain, indicating the route has crossed from Portugal into Spain. The text is cut off at the bottom."
+    }
+  ]
+}

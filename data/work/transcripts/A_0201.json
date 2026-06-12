@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0201",
+  "volume": "A",
+  "pdf_page": 201,
+  "pages": [
+    {
+      "page_id": "A_0201_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "around the town. There is a river & a small train - the Festiniog railway. We returned to the campsite in time for tea.\n\n        No one is showing any keenness for the cold showers on this campsite.\n\n        __Wednesday May 28th__\n\n        We left at 11 & lunched just after the first pass into the Welsh mountains. We arrived home via Smethwick at 4.0..\n\n[Glued-in paper slip, left:]\nSat May\n25      '77\nam taramasalata & bread\nchoc biscs, fruit\npm yellow chicken & rice\n+ salad, strawberries+crea[m]\nSun\ntuna kiche, bread, salad\nshort bread & fruit.\npm 66g & bread\n+ fruit + choc.\n\n[Glued-in paper slip, right:]\nMon\ntongue bread\nchoc biscs, fruit.\npm. sausage, salad\ncaramel flan pasta\nTues\npork pies & salad+bread\npm.\nsalad, Salami\nTreacle tart\nWed h.b. eggs & salad\nrock cakes, olives, nuts,\npeanuts. raisins",
+      "dates": [
+        { "raw": "Wednesday May 28th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sat May 25 '77", "iso_guess": "1977-05-25", "confidence": 0.75 }
+      ],
+      "headings": ["Wednesday May 28th"],
+      "underlined_places": [],
+      "place_mentions": ["Festiniog railway", "Welsh mountains", "Smethwick"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page is a continuation from a previous page (no page number visible). The text references the Festiniog railway and the Welsh mountains, placing the trip in North Wales. The date 'Wednesday May 28th' lacks a year in the main text. Two glued-in paper slips (yellow) contain meal menus; the left slip is labelled 'Sat May 25 '77', suggesting these food notes relate to a 1977 trip. The volume covers 1989-2003 but these slips may have been inserted from an earlier diary or note. The year '77 on the slips conflicts with the volume date range — transcribed as seen. 'kiche' likely = 'quiche'; '66g' unclear, possibly a dish abbreviation. 'strawberries+crea[m]' — word cut off at edge of slip."
+    },
+    {
+      "page_id": "A_0201_R",
+      "side": "R",
+      "handwritten_page_no": 32,
+      "blank": false,
+      "full_text": "__Saturday June 14th.__\n\n        We scrabbled off at 11.40. for Cleat parish hall. 6 of us are here. Thomas is following after studying at the library. A local farmer met us at the parish room at 12.05. & took us 200 yards up the road & into a field behind a row of houses. Peter drove the red Espace around the field twice. Simon has brought the Espace in order to go to church tomorrow because the other church warden is away. We have forgotten the butter + dishcloth. Delicious maggoty straw berries for lunch from my allotment. Tonie is being teased.\n\n        We sat in the van all afternoon with the rain pouring down. William is sick from drinking off milk 2 days ago.\n\n        Zoë's birthday party was huge fun. Thomas + John + Charles played — Charles happy birthday on his trumpet. We danced. Hattie & the girls were there.\n\n        Thomas & Peter went to bed in the Espace. It rained all night.\n\n        In the morning we abandoned camp because of the rain & went back to B'ham for church.",
+      "dates": [
+        { "raw": "Saturday June 14th.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Saturday June 14th."],
+      "underlined_places": [],
+      "place_mentions": ["Cleat parish hall", "B'ham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten page number 32 visible in top-right corner. 'Cleat' is the diarist's spelling — could read 'Cleat' or '[?Cleat]' (possibly a village name; could be 'Cleat' as a place in Orkney or elsewhere, but context is unclear without more surrounding pages). 'B'ham' = Birmingham. 'Espace' = Renault Espace camper van. 'maggoty straw berries' — written as two words. 'Tonie' is a person's name. 'Zoë' has diaeresis as written. Saturday June 14th cannot be anchored to a precise year from the page content alone; within the 1989-2003 volume range, June 14 falls on a Saturday in 1997 and 2003 among others."
+    }
+  ]
+}

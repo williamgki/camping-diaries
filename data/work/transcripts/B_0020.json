@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0020",
+  "volume": "B",
+  "pdf_page": 20,
+  "pages": [
+    {
+      "page_id": "B_0020_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Packing for 7 for the w/end__. We seem to have needed 12 pints milk, 5 loaves 2 pkts coffee. 1½ iceberg lettuce.\n~~Friday~~ Saturday we had cold chicken + cold stock, Sunday cheese + salad for lunch + apple pie lamb chops + sausage bbq in the evening. Monday cheese + eggs lunch, chicken evening. Needed 2 more puddings including Caramel flan.\n\n~~Monday~~ __Tuesday 1st June__\nWe pack up + set off for the Alternative Technology Centre at __Machynlleth__? The veg, grown out of compost, are marvellous. It made us want to save water from the downpipes + get 3 compost bins for the garden. We had a delicious lunch (veg) in the cafeteria. We reached home before 6.\n\n__Sunday June 27th__\nSimon + Eve set off at 4.40. to pick up Helen + Margaret from Trimpley to go to Malvern. We are having supper in the",
+      "dates": [
+        { "raw": "Tuesday 1st June", "iso_guess": "2004-06-01", "confidence": 0.3 },
+        { "raw": "Sunday June 27th", "iso_guess": "2004-06-27", "confidence": 0.3 }
+      ],
+      "headings": ["Tuesday 1st June", "Sunday June 27th"],
+      "underlined_places": ["Machynlleth"],
+      "place_mentions": ["Machynlleth", "Trimpley", "Malvern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page continues onto right half. 'Machynlleth' is followed by a question mark in the original — this may reflect the diarist's own uncertainty about spelling. 'Trimpley' is a village near Bewdley, Worcestershire. Year cannot be determined from the page itself; iso_guess is speculative based on volume position only."
+    },
+    {
+      "page_id": "B_0020_R",
+      "side": "R",
+      "handwritten_page_no": 18,
+      "blank": false,
+      "full_text": "van at 6.30. before John's Vivaldi 'cello concerto at 7.30. Peter + Ben have been gliding. They will pick up Janet Ludford on the way for supper. Koroku + Charles might join us. Catherine + Colin + John will join us for a glass of wine after the concert.\nIn the end Hector Loring + René joined us too. We had a very good evening + we were extremely proud of John.\n\n__Saturday July 3rd__\nWe left Peter, John, Koroku + Charles + Charles' friend, Charlie Mercer, at home (going go-karting) + Simon + Eve set off at 11.15 for Kate + Ed's wedding. At __Little Gossingham__.\nIt was a beautiful wedding in a church where the tower had fallen down in 1700s. Eve read St. Francis' prayer. Kate wore pale blue. There were no bridesmaids or pages. The reception was at Ed's parents' home. Very friendly. Beth Butler + Lygie Davies were there. Good hog roast.",
+      "dates": [
+        { "raw": "Saturday July 3rd", "iso_guess": "2004-07-03", "confidence": 0.3 }
+      ],
+      "headings": ["Saturday July 3rd"],
+      "underlined_places": ["Little Gossingham"],
+      "place_mentions": ["Malvern", "Little Gossingham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number 18 visible in top right corner. 'Little Gossingham' could also read 'Little Gessingham' — a village in Suffolk; the handwriting is not fully clear. 'Hector Loring' could be 'Hector Leurig' or similar — uncertain. 'Lygie Davies' uncertain — could be 'Lygie' or another name. Year not determinable from page content alone; iso_guess is speculative. The text on this page is a continuation from the left page (Sunday June 27th entry continues here)."
+    }
+  ]
+}

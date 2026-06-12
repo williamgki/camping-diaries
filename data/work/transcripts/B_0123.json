@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0123",
+  "volume": "B",
+  "pdf_page": 123,
+  "pages": [
+    {
+      "page_id": "B_0123_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "I found it very strange at first, that French loos don't seem to have toilet seats as I have never [strikethrough] seen loos without seats, but latter, I got used to the idea of it. Although I do fall asleep a lot of the time when we are in the van, I did enjoy looking at the views (when I'm awake). Whilst England seem to have lost the sun, in France, the sun never seems to be too tierd to shine. As much as I like the warmth brought by the sun I was worried that I might get tanned. I haven't seen the sea for nearly 3 yrs so to be able to visit and swim in it yesterday was amazing! (though it WAS salty...)\n\nMonday\n  We went to Fréjus. The Roman amphitheatre was closed but we saw the amazing old [5?] baptistery at the cathedral, for immersion of adults in the floor, a separate building from the cathadral. The doors (6 wood, were beautiful, too. There was a cloister with double stories. We",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": [],
+      "place_mentions": ["France", "England", "Fréjus"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "No handwritten page number visible in top-left corner. The '5' near 'baptistery' may be a circled annotation or part of the word. 'cathadral' is the diary's spelling. 'The doors (6 wood' — the '6' may be an abbreviation or numeral that is unclear; could read '6 wood' or '[?C]wood' (carved wood?). Text continues onto right page. Year not determinable from this page alone; volume covers 2003-2019; France trip context suggests summer."
+    },
+    {
+      "page_id": "B_0123_R",
+      "side": "R",
+      "handwritten_page_no": 61,
+      "blank": false,
+      "full_text": "also saw one section of the aquaduct built by the Romans to carry water 25m[iles?]\n  We drove on along the coast road, the next 24 hours were a bit grim. There are endless no-parking low baffles for vans. The camp - Magali at __St. Laurent de Var__ is best quickly forgotten. Airbes. Simon was nervous of the man - florid & big-tummied, who stood next to us swilling beer & wondering how to break into the van. Melody & Charlotte Swan. We set off to walk to a restaurant but the road was so dangerous we turned back & for the first time I cooked spaghetti. There were mosquitos. None of us slept well.\n  Tuesday We left at 8 & got the girls to Nice airport for 8.30. litter in the day they texted to say they'd arrived at Bham\n\nAlexander Calder\n[illegible] 1952",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Tuesday"],
+      "underlined_places": ["St. Laurent de Var"],
+      "place_mentions": ["St. Laurent de Var", "Nice", "Bham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Alexander Calder\n[illegible] 1952"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Handwritten page number '61' visible in top-right corner. 'aquaduct' is the diary's spelling. '25m' — could be 25 miles or 25 km, partially cut off. 'Airbes' is unclear — possibly a place name or word. 'Melody & Charlotte Swan' appear to be people's names. 'Bham' = Birmingham. A photo is glued in showing a colourful mobile sculpture; caption reads 'Alexander Calder' and a year that appears to be 1952 (rest of caption line illegible). 'litter' likely should read 'later' — transcribed verbatim. Year not determinable from page alone; 'texted' implies post-2003; volume covers 2003-2019."
+    }
+  ]
+}

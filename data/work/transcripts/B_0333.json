@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0333",
+  "volume": "B",
+  "pdf_page": 333,
+  "pages": [
+    {
+      "page_id": "B_0333_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "off, so we cycled back to the van. Tea, yoga, showers. A super day. Glorious hot [?Lunebike].\nThe French seem to speak very odd French here.\nEach day I have attempted a sudoku & started a crossword & Simon has finished the crossword.\nNone of the loos or showers have any hooks.\n\nSaturday\nWe left at 8.40. for Calais. lovely sunny day.\nWe drove to the Channel Tunnel & followed a handsome Ferrari onto the train.\nIn England we visited Peter. Nena & Joconda have a bad chest. Conrad had spent 2 hours playing football in 30° & gave me a very sweaty hug when I arrived. Peter had been watching Nini's ballet performance – a \"bizarre experience.\" I took Nini & Joconda to the",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": [],
+      "place_mentions": ["Calais", "Channel Tunnel", "England"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page begins mid-sentence, continuing from previous page. '[?Lunebike]' is unclear — could be a campsite name, a place, or possibly a reference to the cycling route (Véloroute Vallée de la Somme shown on the glued-in map). A printed/glued-in map of northern France is present on the left side of the page, showing a cycling route around the Somme estuary area; places visible on the map include Tadorne (or Namport-Saint-N[?]), Heron, Gravelot, Le Crotoy, Saint-Valery-sur-Somme, Noyelles sur Mer, Abbeville, Veloroute Val[lée de la Somme]. Annotations next to map: 'Noyelles sur Mer' and 'Abbeville'. Text continues onto right page ('I took Nini & Joconda to the'). 'Joconda' is the diary's spelling (may be 'Gioconda' or similar). No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0333_R",
+      "side": "R",
+      "handwritten_page_no": 34,
+      "blank": false,
+      "full_text": "Shops & the park. Then after chatting & watching a bit of cricket we left for home.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Handwritten page number 34 visible in top-right corner. Only two lines of text at the top of the page; the rest is blank. This is a continuation from the left page ('I took Nini & Joconda to the / Shops & the park...'). The left margin shows gutter overflow text from the left page (Channel Tunnel, 'the', 'Peter.', etc.) — not transcribed again here."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0195",
+  "volume": "A",
+  "pdf_page": 195,
+  "pages": [
+    {
+      "page_id": "A_0195_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We sped quickly through Belgium + France, but getting into The Channel Tunnel was awful; constant edging forward in queues + lorries trying to queue-barge.\n        We drove to __Broadhembury__ ** - good for overnight-stop, convenient near tunnel near Ashford.\n        Rain. fierce man in charge.\n        __Sunday__\n        We'd have liked to visit Leeds Castle. But the weather was dreary. The traffic was heavy. So we had lunch at a service station, and drove on home\n        Saturday     1997     April 5th.\n\n        We left at 8.30 + breakfasted at the M50 turn-off to Ross, on the M5.\n        Thomas[?17] + Eve are in the red espaco with 7 bikes. Tonie[?10mo.] is in kennels + Simon is driving the van with William 14, Peter 13, John 9 + Charles about to be 8. Weather threatening. Only seconds of muesli + weetabix allowed.\n        We reached a campsite next to the Forest of",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Saturday 1997 April 5th.", "iso_guess": "1997-04-05", "confidence": 0.97 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Broadhembury"],
+      "place_mentions": ["Belgium", "France", "Channel Tunnel", "Broadhembury", "Ashford", "Leeds Castle", "Ross", "M5", "M50"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues mid-sentence at top (continuation from previous spread). The year 1997 is written in a boxed/outlined style. Superscript ages appear next to names: Thomas with '17', Tonie with '10mo.' (10 months). The previous entry (Sunday) appears to be the return from a European trip (Belgium/France/Channel Tunnel); the Saturday April 5th 1997 entry begins a new trip. 'espaco' may be a vehicle model name (Renault Espace). The page ends mid-sentence 'Forest of' (continuing onto right page as 'Dean')."
+    },
+    {
+      "page_id": "A_0195_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Dean but, disappointingly, none of them provide cycling out into the forest. So we have driven to the Park at Pedalaway. The boys cycled before lunch. Thomas brought Charles back early, & then arrived late with John. There is a main road to cross between the bike hire + the family cycle path, so Eve has to keep going down to cross John + Charles over when they return.\n        After lunch we all cycled. Uphill + uphill. The bikes broke occasionally. Thomas + Eve got left behind with John when we had to remove his back brake. We missed the correct trail & arrived back 15 minutes after the others for a very welcome cup of tea.\n        Eve + Thomas were very cold. John + Charles asked if they could go to the playground. When they had been gone for an hour, Eve went to look for them. There seemed to be no playground in the campsite. So William + Eve got in the car + drove to the nearby campsite, a mile away. There John + Charles were playing. They had walked along a path, through the middle campsite.",
+      "dates": [
+        { "raw": "Saturday 1997 April 5th (from left page)", "iso_guess": "1997-04-05", "confidence": 0.92 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Dean", "Pedalaway", "Forest of Dean"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page continues directly from left page mid-sentence ('Forest of / Dean'). 'Pedalaway' is a cycle hire park in the Forest of Dean area — the full place is 'Forest of Dean'. The entry describes cycling at a campsite near the Forest of Dean."
+    }
+  ]
+}

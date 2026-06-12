@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0027",
+  "volume": "B",
+  "pdf_page": 27,
+  "pages": [
+    {
+      "page_id": "B_0027_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Alto Aragón\n\nold town is up on the hill. Charles swam. [?Ainsa] *** (J+C?) **** (S+E) is across the river from the town. There is a long campsite / lovely pool, lots of showers (warm",
+      "dates": [],
+      "headings": ["Alto Aragón"],
+      "underlined_places": [],
+      "place_mentions": ["Alto Aragón", "[?Ainsa]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Alto Aragón"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page is dominated by 8 photographs (4 rows x 2 columns) showing old stone buildings, doorways, and architectural details. The caption 'Alto Aragón' is written vertically alongside the photos. The handwritten text at the bottom of the page is a continuation of diary narrative, cut off at the right by the page edge / gutter. The place name after 'Charles swam.' is partially legible — could read 'Ainsa' (a town in Alto Aragón, Huesca, Spain) or possibly 'Arnsa'; the transcribed text shows a star-rating notation which may refer to swimming spots or campsites for individuals. Text sentence is incomplete, continuing on the right page."
+    },
+    {
+      "page_id": "B_0027_R",
+      "side": "R",
+      "handwritten_page_no": 35,
+      "blank": false,
+      "full_text": "+ very- well-designed shower cubicles. Eve washed clothes + J, C+E hung them on the line at 8.30.pm. I had spent the 30min while the machine washed chopping the salad. After hanging the clothes we had supper. ($3.80 token from camp supermarket).\n\t\tDuring the night I was woked by a flash, then lots of flashes + rumbles. Charles + Eve dashed out to get in the clothes (nearly dry). Simon saw to the tent + John wondered what was going on.\n\t\t__Friday August 8th__\n\t\tWe've had a lazy morning, playing bridge + swimming. During lunch + during the afternoon nap it) rained. Tea at 4.30.\n\t\tThere is a huge mix of campers - Catalan Spanish campers with children, 2 Dutch guys in a tent + Porche, German (?) bikers - very disciplined, arrived in leathers & put up 2 tents straight away in blazing heat, a biker with a tent + 4\n\t\t\t\tpedal",
+      "dates": [
+        { "raw": "Friday August 8th", "iso_guess": "2003-08-08", "confidence": 0.3 }
+      ],
+      "headings": ["Friday August 8th"],
+      "underlined_places": [],
+      "place_mentions": ["Alto Aragón", "[?Ainsa]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number '35' visible in top-right corner. Text continues from the left page (mid-sentence). The date 'Friday August 8th' is underlined. The year cannot be determined from the page itself — the entry is for a trip to Alto Aragón (northern Spain). Friday August 8th falls on: 2003, 2008, 2014, 2019 — given volume B covers 2003–2019, year assigned tentatively as null; iso_guess set to 2003-08-08 with very low confidence as a placeholder. The word 'woked' is the diary's own spelling (not corrected). The text ends mid-sentence ('a biker with a tent + 4 / pedal') suggesting it continues on the next page. '$3.80 token from camp supermarket' — the superscript word above 'token' reads 'camp'. The notation '(it)' in 'nap it) rained' may be a parenthetical aside or transcription artefact. 'Porche' likely means 'Porsche'."
+    }
+  ]
+}

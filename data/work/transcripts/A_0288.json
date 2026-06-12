@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0288",
+  "volume": "A",
+  "pdf_page": 288,
+  "pages": [
+    {
+      "page_id": "A_0288_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "John looked at motors. Eve looked at George III's science collection – beautiful wooden models. He had the Royal Observatory built in 1769 to watch Venus.\n   We had tea + trained + bussed back to the camp. Simon bought tickets for S+E+C for [?Bian] 'Dinosaur' + John went to 'Nutty Professor 2.'\nWe also had pujas in the badly run restaurant, after which Peter arrived. After the film, we sat in the van + drank beer, waiting for John whose film was later.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Astronauts cannot cry in space because there is no gravity and tears cannot flow"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page is a continuation — no page number visible at top left. A printed Science Museum flyer/ticket is glued at the bottom, showing an astronaut EVA image with text 'Astronauts cannot cry in space because there is no gravity and tears cannot flow' and 'advance bookings 0870 8704771 enquiries 0870 8704868 Sci[ence Museum logo]'. The word before 'Dinosaur' looks like a struck-through name (possibly 'Brian' or another name); the strikethrough makes it unclear. 'Nutty Professor 2' was released in 1996; the Tate Modern text on the right page opened in 2000, suggesting this entry is from 2000 or later. 'pujas' may be a misread; could be 'pizzas'."
+    },
+    {
+      "page_id": "A_0288_R",
+      "side": "R",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "Tuesday We reached the __Tate Modern__ at 11.15. + met up with Thomas. It was as expected. The building has high quality benches – inlaid rubber. I liked Brancusi Fish 1926. Bronze fish on a bronze pond. Not fins + scales but the essence of its spirit.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Tuesday"],
+      "underlined_places": ["Tate Modern"],
+      "place_mentions": ["Tate Modern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Most of the right page is occupied by a glued-in photograph of a wooden sculpture (likely a postcard or print from the Tate Modern — appears to be a Brancusi-related or similar modernist piece). Handwritten page number '2' is visible at the very top right corner. The Tate Modern opened in May 2000, so this entry is no earlier than 2000. The 'Brancusi Fish 1926' is a real artwork in the Tate Modern collection, confirming the location. Year cannot be pinpointed beyond post-2000 from page content alone."
+    }
+  ]
+}

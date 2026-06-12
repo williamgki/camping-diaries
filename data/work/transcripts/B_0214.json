@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0214",
+  "volume": "B",
+  "pdf_page": 214,
+  "pages": [
+    {
+      "page_id": "B_0214_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We reached Capel about 6 & spent the evening at Sonja's flat. Sonja & Jenny gave us supper. Charles brought champagne to celebrate the end of Jenny's exams.\n__Monday__\n   We set off for Petworth. We shopped in the town for lunch tomorrow. (Un-pleasant deli-keeper) then looked at the house. Amazing paintings, wood carvings, kitchens. Helpful NT volunteers. Originally the house was the Duke of Northumberland's hunting lodge. When Queen Elizabeth called the Percys to live in the South, where she could keep an eye on them, they decided to develop the lodge into a home.\n   We had lunch in the van & then walked in a part of the",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Monday"],
+      "underlined_places": [],
+      "place_mentions": ["Capel", "Petworth"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page begins mid-sentence — text continues from a previous spread. No handwritten page number visible in top-left corner. 'Capel' may refer to Capel, Surrey or another Capel locality. The text is cut off at the bottom; continues on the right page. Year not determinable from page content alone."
+    },
+    {
+      "page_id": "B_0214_R",
+      "side": "R",
+      "handwritten_page_no": 34,
+      "blank": false,
+      "full_text": "[continuation of left page text visible in gutter — not repeated]\n[Photo: kitchen interior showing copper pots on shelves and black sideboard]\nPetworth House & Park. W. Sussex. Warming side cupboard with sliding doors & hotplate on top.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Petworth House", "W. Sussex"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Petworth House & Park. W. Sussex. Warming side cupboard with sliding doors & hotplate on top."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.92,
+      "notes": "Handwritten page number in top-right corner reads '34' — could be part of a larger number (e.g. '134', '234') but only '34' is clearly legible at the extreme top-right. The right page is dominated by a glued-in photograph of a kitchen at Petworth House; caption written below in black ink. The left-margin text visible on this image is the gutter overlap from the left page and has not been re-transcribed."
+    }
+  ]
+}

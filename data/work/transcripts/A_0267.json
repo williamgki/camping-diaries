@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0267",
+  "volume": "A",
+  "pdf_page": 267,
+  "pages": [
+    {
+      "page_id": "A_0267_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Brighton Pier.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Brighton Pier"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Brighton Pier."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.98,
+      "notes": "Page contains two photographs: top photo shows people on bumper cars at a funfair (dodgems), bottom photo shows people looking out to sea from a pier. The only handwritten text is the caption 'Brighton Pier.' between the two photos. No handwritten page number visible."
+    },
+    {
+      "page_id": "A_0267_R",
+      "side": "R",
+      "handwritten_page_no": 11,
+      "blank": false,
+      "full_text": "__Fri May 28th__\n    9.20pm Simon & John set off for Malvern. Charles & Eve came down in the [?Pants] for Peter's concert. Thomas traind from London. SEJC slept in the van outside No 7.\nSat. We heard the choir in the Priory. William ushered. Peter sang. Then to the Winter Garden for drinks & speeches. T drove J + C home. After lunch WPSE drove home in the van.\n    4.45. All of us set off for [?Dinas]. Heavy traffic. Rain on the way. [?Brecon] arrived 8.15.\n    __Sunday May 30th__\n    Overcast + a cold wind. Simon + the boys have played cricket + discussed William's Psion + Simon's Palm Top T. Tonie happier than last year. John + Charles take him on excursions up the hill. We had lunch + supper indoors. The boys lit a fire to toast marshmallows in the evening but the wind was too cold to sit out.",
+      "dates": [
+        { "raw": "Fri May 28th", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sunday May 30th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Fri May 28th", "Sunday May 30th"],
+      "underlined_places": [],
+      "place_mentions": ["Malvern", "Priory", "Winter Garden", "[?Dinas]", "[?Brecon]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Handwritten page number '11' visible in top-right corner. 'Fri May 28th' and 'Sunday May 30th' are underlined headings. Year cannot be confirmed from the page itself; volume A covers 1989-2003 but no year appears on this page. 'Pants' (line 2): unclear — could read 'Pants', 'Punts', or 'Pints'; context suggests 'Punts' (as in flat-bottomed boats) or a misread of another word, transcribed as written. 'Dinas': likely Dinas (a place in Wales), consistent with camping trip heading west/into Wales. 'Brecon': the word before 'arrived 8.15' is partially obscured but likely reads 'Brecon' (town in Wales); could also be '[?Brecon]' — transcribed with uncertainty. 'traind' appears to be 'trained' (i.e. travelled by train). 'SEJC', 'WPSE', 'T', 'J', 'C' are person initials. 'Psion' refers to the Psion personal organiser device; 'Palm Top' refers to a Palm palmtop computer, suggesting a date in the mid-to-late 1990s. Right margin/bottom partially cut off at page edge but text appears complete."
+    }
+  ]
+}

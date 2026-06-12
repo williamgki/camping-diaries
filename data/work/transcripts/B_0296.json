@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0296",
+  "volume": "B",
+  "pdf_page": 296,
+  "pages": [
+    {
+      "page_id": "B_0296_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "perfectly. We are stopping off with papers for the Chad accountant at Alcester on the way home.\n__Monday October 16th__\nEve caught an Uber to Chad, cleared the loo & we set off for supper with Charles & Jenny. Stopped off at Aldi for dog's food.",
+      "dates": [
+        { "raw": "Monday October 16th", "iso_guess": "2017-10-16", "confidence": 0.7 }
+      ],
+      "headings": ["Monday October 16th"],
+      "underlined_places": [],
+      "place_mentions": ["Alcester", "Chad", "Aldi"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Text at top of page continues from previous spread (no top-of-page handwritten number visible on left page). 'Chad' appears to be a place name or abbreviated place name (possibly Chaddesley Corbett or similar). 'Monday October 16th' fell on a Monday in 2006 and 2017 within the volume's range; the mention of 'Uber' (not available in UK until 2012) makes 2017 more likely."
+    },
+    {
+      "page_id": "B_0296_R",
+      "side": "R",
+      "handwritten_page_no": 116,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Page is blank apart from the handwritten page number 116 in the top-right corner and the printed wheat/laurel decoration at the bottom. Gutter overlap text belongs to left page."
+    }
+  ]
+}

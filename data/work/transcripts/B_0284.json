@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0284",
+  "volume": "B",
+  "pdf_page": 284,
+  "pages": [
+    {
+      "page_id": "B_0284_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Thursday__ May 4th. We left Fontemaggio, one of the best campsites we've been in. Off to [?Rimini] C[—]\nGreat problems in [?Rigia] finding somewhere to park. The park Simon had identified had a height restriction. We finally marked on a",
+      "dates": [
+        { "raw": "Thursday May 4th", "iso_guess": "2006-05-04", "confidence": 0.35 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Fontemaggio", "[?Rimini]", "[?Rigia]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Assisi Basilica. Crucifixion. Giotto 1267-1337"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Large photo/postcard of Giotto's Crucifixion fresco occupies most of the page. Caption written vertically along right edge: 'Assisi Basilica. Crucifixion. Giotto 1267-1337'. The handwritten text below the photo is a diary entry beginning 'Thursday May 4th'. The place after 'Off to' reads like 'Rimini' but context on the facing page (Universita dei Stranieri, Oratory of San Bernadino, Etruscan well) points strongly to Perugia — 'Rigia' on the next line is likely the end of 'Pe-rugia' with the start cut off at the left margin, or a contracted form. Text continues onto right page and is cut off at the gutter. Year not stated on page; volume covers 2003-2019; May 4th Thursday — tentative year 2006 is speculative."
+    },
+    {
+      "page_id": "B_0284_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "main road out of town right next [to] a pedestrian crossing. We went up several escalators. The [art] gallery (No 4) was beautifully displayed (but no [exit] signs). The Piero della Francesca altarpiece was magnificent. I could have sat looking at it for ours.\nWe walked around the town + saw l'Universita dei Stranieri, where Simon had studied, + saw to Oratory of San Bernadino, lovely carvings, outside only! Lunch was good - pasta. Then it started raining. We visited the Etruscan well, built 300 BC with amazing masonry, 90 ft. deep + fed by 4 springs.\n    It poured + we caught a taxi back to the van.\n\nPiero d.l Francesca.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["l'Universita dei Stranieri", "Oratory of San Bernadino"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Piero d.l Francesca."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Text continues from left page mid-sentence. The town described with escalators, art gallery, Universita dei Stranieri, Oratory of San Bernadino, and Etruscan well is Perugia — consistent with 'Rigia' on the left page being '[Pe]rugia'. 'ours' likely means 'hours'. Caption below glued-in photo of a Madonna (Piero della Francesca painting): 'Piero d.l Francesca.' Same vertical caption 'Assisi Basilica. Crucifixion. Giotto 1267-1337' visible on left margin of this page but belongs to the left-page postcard. The word after 'no' in '(but no [exit] signs)' reads like 'exit' or possibly 'sort'. '300 BC' — the Etruscan well of Perugia (Pozzo Etrusco) is dated to 3rd century BC, consistent."
+    }
+  ]
+}

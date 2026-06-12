@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0199",
+  "volume": "A",
+  "pdf_page": 199,
+  "pages": [
+    {
+      "page_id": "A_0199_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "May 10th Saturday\n\t11.30. Simon, Eve, John, Charles went to the camping shop beyond __Wolverhampton__, to buy air mattresses, deck chairs, 3 legged stools. The rain poured inter-mittently Tonic was very good at staying in his basket. We lunched in the van & drove to Coven. At Coven we had a pretty walk along the canal before setting off home.\n\nMay 17th Saturday.\n\t9.15. We set off for __Derbyshire__; Simon, Helen, Eve, John & Charles. On the way we left a computer to be mended. We called in at [?Caraluce], nr Alfreton & ordered van cushions.\n\ncupola\nat\n__Calke Abbey__.",
+      "dates": [
+        { "raw": "May 10th Saturday", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "May 17th Saturday.", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": ["Wolverhampton", "Derbyshire", "Calke Abbey"],
+      "place_mentions": ["Wolverhampton", "Coven", "Derbyshire", "Alfreton", "Calke Abbey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible in top-left corner. The lower half of the page contains a hand-drawn architectural sketch of a cupola (dome finial with weathervane/compass rose at top) with the label 'cupola at Calke Abbey.' — this is an architectural illustration, not a route sketch. The place after 'We called in at' is difficult to read; best reading is '[?Caraluce]', possibly a shop or locality near Alfreton. The word 'nr' (near) before Alfreton may read as 'or' but is more likely 'nr'. No year is visible on this page; year cannot be reliably inferred from page content alone. 'Tonic' appears to be a dog. 'inter-mittently' is hyphenated as written."
+    },
+    {
+      "page_id": "A_0199_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We lunched in parklands at __Calke Abbey__ & looked around the stables, but did not manage the house, gardens or church. We had tea in the van & left at 5.40.\n\n__Saturday 24th May.__\n\tCharles woke Peter with \"happy birthday\" on the trumpet. Tony cut hair. We left at 10.35. Harriet Hardiment is arriving to look after John Crowder.) We are taking with us Geoffrey de Pamafieu, a French boy from Malvern. We stopped at the camping shop beyond Wolverhampton for a bigger dog harness & a second green chair. Lunch was a good site — Llanfaircaerynnan — a train station. William walked up to the shops to buy marshmallows with Geoffrey & Tonic. Thomas & John washed & dried.\n\t3.50. we arrived at [?Arias], above Harlech [?Llanbedr]. The 6 boys went up for a long walk in the hills. Tonic has a harness which he swings from. William & Charles washed & dried supper.\n\nSunday 25th May\n\tBreakfast at 8.30. The boys walked & made a dam in the stream. Church at [?Dyffrynesthaddu]",
+      "dates": [
+        { "raw": "Saturday 24th May.", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "Sunday 25th May", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Saturday 24th May."],
+      "underlined_places": ["Calke Abbey"],
+      "place_mentions": ["Calke Abbey", "Wolverhampton", "Llanfaircaerynnan", "Harlech", "Llanbedr", "Dyffrynesthaddu"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "No handwritten page number clearly legible in top-right corner; a partial number may be present but is not readable. The text is a continuation of the May 17th entry from the left page (Calke Abbey visit). A blue ink annotation appears inline next to '[?Arias]' reading '[?Llanbedr]' — this appears to be a later correction or alternative place name identifying the campsite above Harlech. '[?Arias]' is uncertain; it may be a campsite name or farm. 'Llanfaircaerynnan' is the diary's spelling — likely Llanfair Caereinion or Llanfairpwll area, described as 'a train station'; could also read as 'Llanfaircaerynnan'. '[?Dyffrynesthaddu]' is cut off at the bottom of the page; likely a Welsh church/village name near Harlech, possibly Dyffryn Ardudwy or similar. 'Geoffrey de Pamafieu' is a French boy from Malvern. 'Harriet Hardiment' and 'John Crowder' are mentioned — the closing parenthesis after 'John Crowder.)' is as written. 'Malvern' refers to Great Malvern, Worcestershire. No year is visible on this page."
+    }
+  ]
+}

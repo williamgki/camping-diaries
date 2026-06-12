@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0191",
+  "volume": "A",
+  "pdf_page": 191,
+  "pages": [
+    {
+      "page_id": "A_0191_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Charles & Eve paddling near sea lions on Great Blasket Island, In the distance is the Dingle peninsula.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Great Blasket Island", "Dingle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Charles & Eve paddling near sea lions on Great Blasket Island, In the distance is the Dingle peninsula."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.92,
+      "notes": "Page is dominated by a large photograph showing two figures on a sandy beach with an island in the background. Caption below the photo. No handwritten page number visible. 'sea lions' may be 'sea lions' or possibly 'seals' — transcribed as written."
+    },
+    {
+      "page_id": "A_0191_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "near a pub, where we could have had supper. It is Tonic's (15 weeks) first camp. Pooted where he shouldn't. He slept in the boot box under the van. A fishing river, [illegible] reserved for B'ham. A lovely mile's walk  Sat 14.\n\nOn to the farm. Chatting in the sun. The boys swam 3 times. Simon & Jamie had a meeting. Kate & Eve & J&C picked blackberries & plums. Fruit perfect. Tea & on to Malvern. We took out TWP for W's birday dinner. Plus James (piano) Daniel (Peter's friend) & Tom, Ari & [?Russel] Tonic in a cage. Lovely, long (tiring) day.\n\n__Wed Oct 23rd.__\n\nSimon, William, Peter, John & Charles left at 10.35. for Chad to pack. Simon forgot his clothes & they left Westfield Rd. at 11.30. with them (Thomas & Eve had gone to visit Jane & Harry at Longwood, where Corning was, the night before.)\n\nWe all arrived at the Coda Centre, Munster Rd., Fulham, London at 2.30 - 3.15. to put out the food ready for the Chad showroom opening. It went very well with Charles passing the food, John playing",
+      "dates": [
+        { "raw": "Sat 14", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Wed Oct 23rd", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["Wed Oct 23rd."],
+      "underlined_places": [],
+      "place_mentions": ["Malvern", "Westfield Rd.", "Longwood", "Coda Centre", "Munster Rd.", "Fulham", "London"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.8,
+      "notes": "Page continues from the previous page (starts mid-sentence). No handwritten page number visible at top-right. 'Sat 14' date has no year; 'Wed Oct 23rd' year cannot be confirmed from this page alone — volume covers 1989-2003 but context (Tonic as 15-week-old puppy, Coda Centre/Chad showroom) does not pin the year. 'B'ham' is an abbreviation for Birmingham. 'TWP' is an abbreviation, possibly initials of a person. 'birday' appears to be a misspelling of 'birthday'. 'Russel' could also read 'Russell'. Text is cut off at the bottom — continues on next page."
+    }
+  ]
+}

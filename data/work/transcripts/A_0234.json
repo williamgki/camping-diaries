@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0234",
+  "volume": "A",
+  "pdf_page": 234,
+  "pages": [
+    {
+      "page_id": "A_0234_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the funicular for a marvellous view of Bergen + the surrounding water. We had icecreams, then went down to the van + back to the campsite.\n\n__Thursday.__\n\tThere was hot sunshine when we woke up this morning. We set out for",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Thursday."],
+      "underlined_places": [],
+      "place_mentions": ["Bergen"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "No handwritten page number visible in top-left corner. Text continues from a previous page mid-sentence ('the funicular for a marvellous view'). A glued-in photograph of traditional wooden buildings (likely Bryggen, Bergen) occupies most of the page. The right margin shows partial text bleeding in from the right page across the gutter — not transcribed here to avoid duplication. The 'Thursday.' heading is underlined. Text is cut off at the bottom mid-sentence ('We set out for'), continuing on the right page. Year cannot be determined from this page alone; Norway trip context noted."
+    },
+    {
+      "page_id": "A_0234_R",
+      "side": "R",
+      "handwritten_page_no": 62,
+      "blank": false,
+      "full_text": "Voss, through road tunnels, some of them badly ventilated.\n\tThe scenery is beautiful. Deep fiords + lakes, snow on the mountains. Rows of fence posts + wires over which the farmers have hung hay to dry. Alternatively the hay is bagged in white bags as silage. Much evidence of cattle farming, but we have only seen two cows.\n\tThe scenery is quite American with weatherboard houses dotted about the valleys. Barns. The bus stops have grass growing out of the roofs.\n\tWe have stopped by a lake for lunch. William reckons the lake is polluted. He + Peter have been trying to fish with his rod. Charles changed into his swimsuit, but didn't swim.\n\tAfter a series of tunnels we went over a huge mountain pass. As usual, we were low on petrol.... + as usual Simon said, \"I meant to get some before....\"",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Voss"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Handwritten page number '62' visible in top-right corner. Text continues directly from left page ('We set out for / Voss'). Left margin shows partial words from the left page's gutter bleed ('rew.' = end of 'view'; 'n 6' possibly partial of '+ 6' or a number), not re-transcribed. 'fiords' is the diary's spelling (not 'fjords'). 'Charles changed into his swimsuit' — 'changed' is clearly written (not 'charges'). Text ends at bottom of page mid-narrative. Year not determinable from this page alone; Norway trip with Bergen as context — within the 1989–2003 range of volume A."
+    }
+  ]
+}

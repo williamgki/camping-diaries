@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0045",
+  "volume": "B",
+  "pdf_page": 45,
+  "pages": [
+    {
+      "page_id": "B_0045_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "John's birthday August 19th\nWe drove to the Tapestry. It was marvellous.\nThe headphones guide at the end took us through\nat just the right pace. We saw the\ncathedral.\n     We stopped at Port en Bessin to buy\n\n[photo of the Bayeux Tapestry — caption text along right margin, rotated:]\nWilliam the Conqueror & his half-brother\nBishop Odo, after they arrived at Pevensey\n[?March] The bishop had fish because it's a Friday",
+      "dates": [
+        { "raw": "August 19th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Port en Bessin", "Pevensey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "William the Conqueror & his half-brother Bishop Odo, after they arrived at Pevensey [?March] The bishop had fish because it's a Friday"
+      ],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Page features a glued-in photograph/postcard of the Bayeux Tapestry (feast scene). Caption is written vertically along the right margin of the photo. 'John's birthday August 19th' is the heading — no year visible on this page; volume B covers 2003–2019 so year cannot be determined from this spread alone. The word before 'The bishop had fish' could read 'March' but context suggests it may be a different word — possibly 'Marvellous' or another adjective."
+    },
+    {
+      "page_id": "B_0045_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "John's birthday cake. Unlike the ribbon\ndevelopment further East, it's a nice small\ntown.\n     On to __Longues__. We had lunch at\nthe carpark & looked at the German gun\nemplacements & a look-out post. It\ncould see all the way from Cherbourg\nalmost to __Pegasus Bridge__, but no\nradar. & telephone wires cut by\nbombing.\n     __Pointe du Hoc__ was the last war\nplace we visited. The Rangers took it with\ntremendous losses. There are craters all over\nthe ground — the land around is scrubby &\nbarren, so farmers haven't put the soil\ntogether to farm again.\n     We passed a German war cemetery.\nThere are 5 stone crosses to each plot &\nstone squares in the grass. Charles said that\nunlike the Allies, they share stones. 40,000\nGerman soldiers died in this area.\n     We went to [he] Clerk supermarket.\nSimon bought lots of wine. We got gas\n[h.p.] St. Low",
+      "dates": [
+        { "raw": "August 19th", "iso_guess": null, "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": ["Longues", "Pegasus Bridge", "Pointe du Hoc"],
+      "place_mentions": ["Longues", "Cherbourg", "Pegasus Bridge", "Pointe du Hoc", "St. Low"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Continuation of the August 19th entry (John's birthday). The trip is clearly to Normandy D-Day sites. 'he Clerk supermarket' likely reads 'le Clerc supermarket' (Leclerc, a French supermarket chain) — the diarist may have written 'he' for 'le' or it could be a ligature. The final line appears to read 'h.p. St. Low' or 'n.p. St. Lo' — 'St. Lo' (Saint-Lô) is a town in Normandy and is the more likely reading; 'h.p.' may stand for 'heading to' or be an abbreviation. No year is stated on this page; year cannot be determined from content alone."
+    }
+  ]
+}

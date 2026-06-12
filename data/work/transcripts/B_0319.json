@@ -1,0 +1,52 @@
+{
+  "spread_id": "B_0319",
+  "volume": "B",
+  "pdf_page": 319,
+  "pages": [
+    {
+      "page_id": "B_0319_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Friday May 10th. 3.15. Simon, Eve & Tinder left &\nafter Charles Forsall's memorial [?on] service. We\nare going back to Dursley.\n    We arrived at Athen Plains & were joined\nby Charles, bringing Seb from the farm, John &\nKay & Peter & Conrad & Elori, Jenny & Nana &\nGioconda will come the next day & stay in a\nDursley 6 & 6. William will arrive the next day\nwith Joseph & Nina. (Bryony in London with Joel.)\nAt supper John & Kay gave me an Easter Egg\n& envelope & in the envelope HOORAY HOORAY\nwas a picture of the Scan – baby due November.\n    I hardly slept I was so thrilled, after John's\ndelicious pizza.\nSaturday May 11th\n    Gioconda 3 months old today.\n    Nina snuggled into bed with me at 6.50. &\ndidn't talk. V. Pleasants.\n    Then NIGHTMARE. Charles opened van door to\nsay Seb had projectile vomiting in Charles' van.\nCharles had dragged Seb & bedding out onto grass.\nWe cleaned up as best we could. William drove down",
+      "dates": [
+        { "raw": "Friday May 10th", "iso_guess": "2013-05-10", "confidence": 0.4 },
+        { "raw": "Saturday May 11th", "iso_guess": "2013-05-11", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Dursley", "Athen Plains"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Year not stated on page. 'Friday May 10th' and 'Saturday May 11th' fit 2013 (where May 10 = Friday), but cannot confirm from page content alone — iso_guess is tentative. 'Athen Plains' could be a campsite name; spelling uncertain — possibly 'Atherstone' or similar. 'Charles Forsall' — surname spelling uncertain. 'Elori' — name spelling uncertain. 'V. Pleasants' likely means 'very pleasant'. The slash mark in the middle of the page appears to be a doodle or ink mark, not text."
+    },
+    {
+      "page_id": "B_0319_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "& fetched Seb. Nina was all [?too] after scarlet\nfever.\n    Jenny & Nana & Gioconda got a taxi\nfrom station at Stroud to Newark Park. We\ndid playground, lunch house there & back to\ncampsite. Sunny but cold. 6.15. we walked to\nDursley & had Indian supper. Peaceful night,\n            Conrad & Elori very good.\nSunday\n    Warm & sunny but I've lost my voice. tired.\nJohn & Kay left & the rest of us went to\nStroud, but most of Stroud closed. Then home.\n\nFriday 24th May\n7.30. am Simon, Eve & Tinder left for Monig[?]'s\n& Leo's wedding reception at Thorpeness. A great\nw[eekend]. Simon & Eve had coffee at Kettles Yard with\nRichard Holroyd, then lunch at [?Lucy] Cavendish Coll.\nwith Tom & Allison & Annette's bursary student, Shona,\nfrom Ayrshire, Scotland. She is heading a team in\nUganda to try to curb effects of liver fluke snail,\nbilharzia. V. Interesting.\n    On the Thorpe [?we] we camped at the Headlands.\nWilliam & Charles rented Pink House. Thomas camped in a",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2013-05-12", "confidence": 0.35 },
+        { "raw": "Friday 24th May", "iso_guess": "2013-05-24", "confidence": 0.4 }
+      ],
+      "headings": [
+        "Sunday",
+        "Friday 24th May"
+      ],
+      "underlined_places": [],
+      "place_mentions": ["Stroud", "Newark Park", "Dursley", "Thorpeness", "Kettles Yard", "Cavendish Coll.", "Ayrshire", "Scotland", "Uganda", "Headlands", "Pink House"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.80,
+      "notes": "Year not stated on page. 'Sunday' heading is underlined. 'Friday 24th May' heading is underlined. Top of right page is mid-sentence continuing from left page. 'Monig[?]' — name partially legible, could be 'Monig' or 'Monika' or similar. 'Kettles Yard' — likely Kettle's Yard art gallery in Cambridge. 'Lucy Cavendish Coll.' — Lucy Cavendish College, Cambridge. 'bilharzia' — schistosomiasis, also called bilharzia. 'Newark Park' is a National Trust property near Ozleworth, Gloucestershire — consistent with Stroud/Dursley area. Text cuts off at bottom of page — entry continues on next spread."
+    }
+  ]
+}

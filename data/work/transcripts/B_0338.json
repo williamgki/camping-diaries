@@ -1,0 +1,50 @@
+{
+  "spread_id": "B_0338",
+  "volume": "B",
+  "pdf_page": 338,
+  "pages": [
+    {
+      "page_id": "B_0338_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We had a super visit + lots of hugs with Eben, one walk near [?Iltud], down to the sea + one through woods. Eben smiles + smiles. Home after lunch on Sunday.\n__Monday July 20th__\nOff to Thorpeness with champagne + everyone except Charles + Austin. Tinder went into [?Pennels] + we met up with John + Kay + Eben at Wimpole Hall. lovely gardens. Socially distanced. I did a salad lunch then on to Thorpe.\n__Saturday 25th July__\nSimon + Eve went on a day out in Oxford.\n__Sunday__\nPeter, Nana, Conrad, Nini + Gigi set off. ???",
+      "dates": [
+        { "raw": "Monday July 20th", "iso_guess": "2020-07-20", "confidence": 0.9 },
+        { "raw": "Saturday 25th July", "iso_guess": "2020-07-25", "confidence": 0.9 },
+        { "raw": "Sunday", "iso_guess": "2020-07-26", "confidence": 0.6 }
+      ],
+      "headings": ["Monday July 20th", "Saturday 25th July", "Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Thorpeness", "Wimpole Hall", "Thorpe", "Oxford"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Top of page continues from a previous entry about a visit with Eben. The place near Eben (coastal, with sea and woods walks) is unclear — '[?Iltud]' could be a Welsh place name (St Illtud's area?) or similar. '[?Pennels]' is uncertain — could be a place name or shop name. Year 2020 strongly supported: 'Socially distanced' language, and July 20 fell on a Monday in 2020. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0338_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Sunday 23rd August__\nTinder, Simon + Eve set off at 4.30. for hop picking at the farm. (In 2 months' time we hope to move from Westfield Rd to George Rd) We stayed from Sunday to Saturday. Machines are working much better due to winter repairs. Harry stood on a conveyor belt when Henry switched on + nearly had his leg dragged in by a machine. I heard shouting from the orchard! Pavel [illegible] tore skin on his palm. William asked me to do first aid. We ate twice in the house. I spent time with the grandchildren + picked fruit.\nWe return again __Sunday Aug 30th__.\nWe set off at 16.40.\nWe spent Sunday + Monday nights at the farm, next to the croquet lawn behind the [?yew] hedge. It's freezing cold at night. Fortunately the van heater is working well. So are the hop machines. We are heading home now to go to a socially distanced street party with our neighbours-to-be at George Rd.",
+      "dates": [
+        { "raw": "Sunday 23rd August", "iso_guess": "2020-08-23", "confidence": 0.92 },
+        { "raw": "Sunday Aug 30th", "iso_guess": "2020-08-30", "confidence": 0.92 }
+      ],
+      "headings": ["Sunday 23rd August", "Sunday Aug 30th"],
+      "underlined_places": [],
+      "place_mentions": ["Westfield Rd", "George Rd"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number in top-right corner is partially cut off — appears to be '3' followed by another digit, possibly '37' or similar, but not clearly readable so recorded as null. The struck-through word before 'tore' by Pavel is illegible (original text crossed out). '[?yew]' hedge is an educated guess. The move from 'Westfield Rd to George Rd' is mentioned as a future event happening 'in 2 months' time' from August 2020, suggesting an October 2020 move. 'Socially distanced street party' confirms 2020 COVID context. The farm is a hop-picking farm; location not specified in this entry but likely in Kent based on context of the volume (UK family). August 23 fell on a Sunday in 2020 and August 30 also fell on a Sunday in 2020."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0280",
+  "volume": "A",
+  "pdf_page": 280,
+  "pages": [
+    {
+      "page_id": "A_0280_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "May 5th 2000  Friday.\n  6.35pm  Simon, Eve, John 12, Charles 11 left 86 for Bath.  Charles map read.  We are staying at the __Bath Marina Park__, west of Bath.  The town is a short bus ride away on a park & ride bus, every 15 minutes.\n\n  May 6th  The day started overcast, but by this afternoon there was blazing sunshine!  At 10 we left & went to the Roman Baths.  It is beautifully laid out & very interesting.  We had a drink & looked at the [illegible] shape below Pulteney Bridge; the weir.\n  We had a delicious lunch, which was a long time coming.  Eve had a salad of Bacon, avocado, lettuce, roast onion & pepper, fresh onion & pepper, [illegible] cucumber, tomatoes & dressing.\n  In the afternoon we visited the photography museum which had a marvellous exhibition of photos of faces of the C20.  Then we returned to the van for a",
+      "dates": [
+        { "raw": "May 5th 2000 Friday", "iso_guess": "2000-05-05", "confidence": 0.98 },
+        { "raw": "May 6th", "iso_guess": "2000-05-06", "confidence": 0.97 }
+      ],
+      "headings": [],
+      "underlined_places": ["Bath Marina Park"],
+      "place_mentions": ["Bath", "Bath Marina Park", "Roman Baths", "Pulteney Bridge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Marginalia in right-hand margin (rotated text) appears to be navigational/index notes including 'Bath' and 'Museum'. The '86' after 'Charles 11 left' may refer to a vehicle registration or house number. 'C20' likely means Century 20 / 20th Century. A small hand-drawn shape (possibly an X or cross) appears inline in the text describing the view below Pulteney Bridge — likely indicating the shape of the weir/bridge layout."
+    },
+    {
+      "page_id": "A_0280_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "cup of tea.\n  Bath has beautiful columns, capitals, warm stone & little balconies.  Very pretty.\n  At 6.45 pm we left the campsite, bussed back into town & had supper at",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Bath", "American Museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Shaker Room, American Museum, Bath."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.90,
+      "notes": "Page contains a glued-in colour photograph of an interior room with Shaker-style furniture and a large window, captioned 'Shaker Room, American Museum, Bath.' Text is cut off at bottom of page — entry continues onto following spread. A partial number visible at top-right edge may be a handwritten page number but is too cropped to read confidently; recorded as null."
+    }
+  ]
+}

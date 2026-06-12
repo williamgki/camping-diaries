@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0160",
+  "volume": "B",
+  "pdf_page": 160,
+  "pages": [
+    {
+      "page_id": "B_0160_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Earlier in the day we had passed through Fotheringay, the village where Mary Queen of Scots was held captive. The Castle is no longer there, but the church is very impressive. There\n\n[photo: illuminated church at night]\n\nThe church of St. Mary + All Saints, Fotheringay!",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Fotheringay"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The church of St. Mary + All Saints, Fotheringay!"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The ink appears green/teal rather than blue. No handwritten page number visible in top-left corner. Text continues on right page. Photo caption is written vertically beside the photograph. The church photographed is the Church of St Mary and All Saints, Fotheringay, Northamptonshire."
+    },
+    {
+      "page_id": "B_0160_R",
+      "side": "R",
+      "handwritten_page_no": 12,
+      "blank": false,
+      "full_text": "was [struck: at] a very chatty woman with a black dog.\n\n****\n\n__The Queen's Head__, __Foulsham__, where we are staying, has 5 pigs in a paddock at the end of the pub garden/ campsite. Tonic is bemused. [marginal annotation: lamb+mint / [?sct] pud.]\n\nHorror of horrors! I had forgotten to bring extra loo paper. The cornershop where we stopped in the depths of Norfolk was manned by an Indian (via Kenya)\n\n__Sunday__\n\nWhy is it that country people feel that they can be as rude as they like at the mention of \"Birmingham?\" Apart from that, the church, Holy Innocents, was very friendly. Children were at the Baptist church.\n\nOn to lunch in the carpark at Blakeney, which was by the sea according to the map, but infact we could [struck] scarcely see it because of mud flats. We walked but it was windy. Lots of birdspotters. In the end we drove inland – less traffic &",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["The Queen's Head", "Foulsham"],
+      "place_mentions": ["Foulsham", "Norfolk", "Birmingham", "Blakeney"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Ink appears green/teal. Page number '12' visible in top-right corner. The text begins mid-sentence, continuing from left page. A marginal annotation in what appears to be a different (darker/black) ink reads 'lamb+mint / [?sct] pud.' — possibly food notes; the second word before 'pud.' is unclear, could be 'sct', 'scot', or 'scnt'. The struck-through word before 'a very chatty woman' is difficult to read precisely — appears to be 'at' or similar. The text cuts off at the bottom of the page mid-sentence. 'The Queen's Head, Foulsham' is underlined — a pub/campsite in Foulsham, Norfolk. Holy Innocents is a church; unclear which village. Blakeney is on the north Norfolk coast. Year cannot be determined from this page alone; volume B covers 2003–2019."
+    }
+  ]
+}

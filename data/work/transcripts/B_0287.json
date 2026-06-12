@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0287",
+  "volume": "B",
+  "pdf_page": 287,
+  "pages": [
+    {
+      "page_id": "B_0287_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Angela + Munrose had suggested visiting Cortona, so we did, a very steep hill top town with walls, lovely, + we saw the gorgeous Fra Angelico Annunciation.\n\n     Then tea + on to Siena. We found the campsite, from which you can see Siena on the next hill. A real armpit of a campsite – boxed in in all directions. It feels like I'm entombed/boxed in an Italian cemetery. Supper + bed.\n__Sunday__ We used taxis €12 + €10 to + from Siena\n[photo numbered 3: interior of building with frescoes, arched colonnade]\nThe Campo, where horse races take place is lovely. And the\n\nlicorice allsorts campanile + duomo are very striking. We particularly liked the frescoes, only unkovered in 1999 in the \"Crypt\" store room. The colours in Christ's passion are fabulous + fresh",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Siena"],
+      "place_mentions": ["Cortona", "Siena"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The Campo, where horse races take place is lovely. And the licorice allsorts campanile + duomo are very striking. We particularly liked the frescoes, only unkovered in 1999 in the \"Crypt\" store room. The colours in Christ's passion are fabulous + fresh"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible in top-left corner. The text begins mid-narrative (continuing from a previous page). 'Munrose' may be a surname; 'Angela + Munrose' appear to be friends who suggested visiting Cortona. 'unkovered' is as written (sic). The frescoes mention '1999' as the year of uncovering, giving a post-1999 date; euro prices confirm post-2002. Year cannot be determined precisely from this page alone. 'Sunday' is underlined in the original. Photo caption text runs beside and below the photo (labelled '3')."
+    },
+    {
+      "page_id": "B_0287_R",
+      "side": "R",
+      "handwritten_page_no": 107,
+      "blank": false,
+      "full_text": "Campo\nSiena\nJuly + August\nhorse racing\nThe Palio",
+      "dates": [
+        { "raw": "July + August", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Campo", "Siena"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Campo\nSiena\nJuly + August\nhorse racing\nThe Palio"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Handwritten page number 107 visible top-right. The page is dominated by a large postcard of Siena (aerial/elevated view of the city with the Torre del Mangia visible; printed text 'SIENA' on the postcard). The handwritten caption above the postcard reads: 'Campo / Siena / July + August / horse racing / The Palio'. The 'July + August' likely refers to the months the Palio horse race takes place in Siena, not necessarily the month of the visit."
+    }
+  ]
+}

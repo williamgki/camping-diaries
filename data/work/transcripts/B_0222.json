@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0222",
+  "volume": "B",
+  "pdf_page": 222,
+  "pages": [
+    {
+      "page_id": "B_0222_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Supper in the restaurant of the camp-site.\nThere were nice people on the pitch near us — Eena & Christopher. He is organist at Freibourg. They have a smart, modern, yellow caravan.\n\nThursday\nWe set off & stopped at Carrefour, more cheapful than Auchan, lunch on the carpark. At about 2 pm we stopped at Abbeville, outside the old address of au pair Florence. Her mother invited us in. The family don't speak English. Florence now lives in Calais, but is on holiday in Corsica. Florence's mother is Genevieve. Her friend was there (a man) & grandmother & 2 nieces, Lucinda (15) & a 6 year old. Lucinda wants to visit England. Her mother died 3 years ago. The 6 year old is fun. The grandmother's first child died aged 1 in a bombardment. The second died of cancer 3 years ago. Very sad. The girls live in",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": [],
+      "place_mentions": ["Carrefour", "Auchan", "Abbeville", "Calais", "Corsica", "Freibourg"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page has a glued-in circular cheese label sticker (Chaource Lincet, Appellation d'Origine Protegee). Text continues from previous page and continues onto right page. 'Eena' could be 'Elena' — transcribed as written. 'cheapful' appears to be diarist's own word. 'Freibourg' may refer to Freiburg im Breisgau, Germany. No handwritten page number visible in top-left corner. Year cannot be determined from this page alone."
+    },
+    {
+      "page_id": "B_0222_R",
+      "side": "R",
+      "handwritten_page_no": 42,
+      "blank": false,
+      "full_text": "Perpignan & are on holiday at their grandmother's.\nGenevieve chatted to Florence on the phone, gave us a list of restaurants at Le Crotoy & booked us into her cousin's campsite at Novelles.\nWe reached the campsite & found a Chinese WW I Cemetry right next [to] it, so I took photos for Mark O'Neil.\n__Aire Haies de Novelles__ *** very clean loos but unisex. :\" Sheep & a donkey nearby but quiet campers. So odd that the Chinese Labour Corps were treated as prisoners, but have a magnificent Lutyens graveyard, [it] just like the Brits.\n\nFriday\nWe went to get a map at the station, cycled to Le Crotoy. Not a very nice [bike] ride, next to a road. The tide was out all the time we were there (11.45–3) & it was interesting to watch people on the sand/mud in the bay.\nWe ate at Modo Modo. Very good food but",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Aire Haies de Novelles", "Friday"],
+      "underlined_places": ["Aire Haies de Novelles"],
+      "place_mentions": ["Perpignan", "Le Crotoy", "Novelles", "Modo Modo"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number 42 in top-right corner. 'Cemetry' is diarist's spelling (sic). 'Mark O'Neil' is a person's name. 'Aire Haies de Novelles' is underlined with three asterisks (***) — appears to be a campsite or aire name near Novelles-sur-Mer / Novelles in the Somme area, France. 'Lutyens graveyard' refers to the CWGC cemetery designed by Edwin Lutyens. Text continues onto next page. Year cannot be determined from this page alone; context suggests a trip to northern France (Somme/Picardy region). 'Modo Modo' is a restaurant in Le Crotoy. Word in brackets '[to]' and '[bike]' and '[it]' are inferred from context where a word appears missing or unclear."
+    }
+  ]
+}

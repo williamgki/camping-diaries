@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0120",
+  "volume": "A",
+  "pdf_page": 120,
+  "pages": [
+    {
+      "page_id": "A_0120_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday 23rd April.\n\tWe woke & drove through beautiful mountain scenery clockwise, coming to Rhinrian from the west. We picked up Clare Portal & Peter & hurried home to greet Matt + Peter who had been to Holland, + John Warburton arriving via a Stratford wedding with Justin Baltles.\n\nSaturday 30th April\t__Just Simon + Eve!__\n\t5.0. We dropped William & Justin at Blue Goat & set off to hear Thomas in concert at __Upton__ music & arts festival. Lovely old small theatre with minstrel's gallery & high stage, dark brown velvet curtains. Peeling green walls. \"Tommy Williams celebrated young Upton treble.\" Thomas played in his trio with harpsichord twice & a solo. Then he had a 26 mile Marathon the next day.\n\tWe spent the night at __The Anchor Pub__, near Welland, + had a drink at the pub.\n\tMay 1st We returned to Upton to go to church. I really like Upton. There's a camping folk festival, cricket, Marina, interesting & normal shops, old & new buildings.",
+      "dates": [
+        { "raw": "Saturday 23rd April", "iso_guess": "1994-04-23", "confidence": 0.75 },
+        { "raw": "Saturday 30th April", "iso_guess": "1994-04-30", "confidence": 0.8 },
+        { "raw": "May 1st", "iso_guess": "1994-05-01", "confidence": 0.75 }
+      ],
+      "headings": ["Just Simon + Eve!"],
+      "underlined_places": ["Upton", "The Anchor Pub"],
+      "place_mentions": ["Rhinrian", "Holland", "Stratford", "Blue Goat", "Upton", "The Anchor Pub", "Welland"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "'Rhinrian' may be a place name — could also be 'Rhiwrian' (a place in Wales). 'Portal' may be a surname. 'Baltles' may be 'Battler' or similar surname — unclear. 'Blue Goat' may be a pub name. 'May 1st' written as 'May1st' with a superscript. April 30 was a Saturday in 1994 within the volume's date range (1989–2003), supporting the 1994 year guess."
+    },
+    {
+      "page_id": "A_0120_R",
+      "side": "R",
+      "handwritten_page_no": 35,
+      "blank": false,
+      "full_text": "View from the van during coffee before church\nMalvern Hills. It was a friendly church, with an interesting modern baldachino over the central altar.\n\tWe went on down to motorway & camped near Launceston at __Altarnun__ [?] ugly. People arriving at the house with Bibles at 8.0. Windmills turn in the distance.\n\nMay 2nd\n\tSimon spent ages paying at the camp site. The man had been healed of cancer.\n\tWe stopped at __Delabole__ wind farm. Each blade 16 m. long. Each windmill produces enough electricity for 300 homes. Wind power could produce 10% Britain's [?electricity] needs. First private commercial wind farm in Britain. The parts were made in Denmark.\n\tWe took a picnic lunch on a 3 mile walk around the promontory NE of Hayle Bay. It was a glorious afternoon. Polzeath. Sunshine, majestic waves. Surfing. On to camp at Trelowarren Manor, St. Columbo.",
+      "dates": [
+        { "raw": "May 2nd", "iso_guess": "1994-05-02", "confidence": 0.75 }
+      ],
+      "headings": [],
+      "underlined_places": ["Altarnun", "Delabole"],
+      "place_mentions": ["Malvern Hills", "Launceston", "Altarnun", "Delabole", "Hayle Bay", "Polzeath", "Trelowarren Manor", "St. Columbo"],
+      "route_sketch": true,
+      "route_sketch_description": "A simple hand-drawn sketch of a hill silhouette (Malvern Hills view from the van) with small lines suggesting sunrays or trees on the left side. Also a small sketch of a wind turbine beside the Delabole entry.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "'Altarnun' is a village near Launceston in Cornwall — matches well. 'St. Columbo' likely refers to St. Columb (Major or Minor) in Cornwall; the diary spells it 'St. Columbo'. 'Trelowarren Manor' — Trelowarren is a historic estate near Helston, Cornwall, but the diary places it near Polzeath which is further north; 'Trelowarren' could also be a campsite name. 'Hayle Bay' may refer to Hayle or a bay near Polzeath area. 'electricity' in 'Britain's [?electricity] needs' is partially obscured/abbreviated in the original. The hill sketch at top of page depicts the Malvern Hills view mentioned in the text."
+    }
+  ]
+}

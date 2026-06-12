@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0022",
+  "volume": "B",
+  "pdf_page": 22,
+  "pages": [
+    {
+      "page_id": "B_0022_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The beach at Mutriku\n\nWe disembarked + went to see the Guggenheim Museum (Bilbao). It's amazing looking - titanium + limestone. We walked round the outside in the drizzle. Workmen in cranes were also putting up buildings covered in a sort of reflective/rainbow mother of pearl [plast...]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Mutriku", "Guggenheim Museum", "Bilbao"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The beach at Mutriku"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Left page is mostly occupied by a large glued-in colour photograph of a rocky beach with dramatic waves; the caption 'The beach at Mutriku' is written vertically alongside the photo. The main text begins below the photo and is cut off at the page edge (continues on right page). The final word before the gutter is partially obscured; reads 'mother of pearl [plast...]' — likely 'plastic' or 'plaster'. No handwritten page number visible in the top-left corner."
+    },
+    {
+      "page_id": "B_0022_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The [?guide/guidebook] [?] said we should also see the old art museum, but unfortunately it was shut because it's Monday.\n\nWe drove on to __Guernica__ + ate a very good lunch in a room behind a bar. We had salad + escalope + tuna/sword fish + cold rice pudding - very good.\n\nThe market was undercover. Simon bought food. Then we set off through the [?heat] to find a campsite. Finally we found a lovely beach at Mutriku. We drove on + found a campsite on the east side of __Mutriku__[?**], above the harbour. Italians have moved into the site next to us with enormous caravans. Ait zeta\n\n__Tuesday August 3rd__\n\nThere are a huge number of nationalities at this campsite - Dutch, Polish, Germans, Italians, Brits, Belgians. (Why are the Brits the only ones arrogant enough to call themselves \"great\" GB)\n\nIt's damp + misty. Simon slept in until 8.25.! We left + drove east, toward[s]",
+      "dates": [
+        { "raw": "Tuesday August 3rd", "iso_guess": "--08-03", "confidence": 0.4 }
+      ],
+      "headings": ["Tuesday August 3rd"],
+      "underlined_places": ["Guernica", "Mutriku"],
+      "place_mentions": ["Guernica", "Mutriku"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Year cannot be determined from page content alone; volume B covers 2003–2019 and the Guggenheim Bilbao opened in 1997, so any year from 2003 onward is possible. 'Tuesday August 3rd' fell on a Tuesday in: 2004, 2010, 2021 — within volume range, 2004 or 2010 are candidates, but this is speculative. iso_guess left as month+day only with low confidence. The opening word(s) of the first line are uncertain — appears to read 'The [?guide/guidebook]' with possible strikethrough on a word, or 'The [?Turgids]'; most plausible reading is 'The guidebook' or 'The guide'. 'Ait zeta' may be a Basque word/phrase or campsite name. '[?**]' after Mutriku likely represents stars or a rating annotation. The text is cut off at the bottom of the right page mid-sentence ('drove east, toward[s]'). No handwritten page number visible in the top-right corner."
+    }
+  ]
+}

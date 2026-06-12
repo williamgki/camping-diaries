@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0272",
+  "volume": "B",
+  "pdf_page": 272,
+  "pages": [
+    {
+      "page_id": "B_0272_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Back at the van we had a [illegible] relaxing after noon & walked again by the estuary. We walked 10 miles yesterday 7 today.\nFriday",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["St. Davids Cathedral", "Eglwys Gadeiriol Tyddewi"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "A glued-in postcard of St. David's Cathedral with English caption 'St. Davids Cathedral' and Welsh caption 'Eglwys Gadeiriol Tyddewi'. There appears to be a crossed-out or overwritten word before 'relaxing' that is illegible. No handwritten page number visible."
+    },
+    {
+      "page_id": "B_0272_R",
+      "side": "R",
+      "handwritten_page_no": 92,
+      "blank": false,
+      "full_text": "Rain in the night. Van buffeted by wind 24 mph with 35 mph gusts.\n We drove to St. David's carpark [strikethrough: campsite] & walked to Information building – rendez-vous for start of pilgrimage walk) to St. Non's Chapel at 10.30., only to find that the website had not been updated – the walk had start[e]d at 10. It was a ghastly morning with horizontal scuds of rain, so a relief really. We wandered round the town & admired the beautiful ceiling & walls of the cathedral. We had lunch there – quiche & roasted veg. The information centre also had an interesting exhibition on Constable. His early visits to Wales were to Porta Clais (\"meeting of the waters\".) We came back to the campsite & walked to see St. Non's Chapel (which we wd have walked to this morning) along the coastal path which again had sheer drops in parts. The little harbour was completely",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. David's", "St. Non's Chapel", "Porta Clais", "Wales"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The word 'campsite' is struck through and 'carpark' written above it. 'started' is written with part of the word cut off at line end — reads 'start[e]d'. 'Porta Clais' could also read 'Porth Clais' (the correct Welsh name for this harbour near St Davids); transcribed as written. Text continues beyond bottom of page — spread is mid-entry. Year cannot be determined from this page alone; volume B covers 2003–2019."
+    }
+  ]
+}

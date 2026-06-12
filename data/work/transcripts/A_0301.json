@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0301",
+  "volume": "A",
+  "pdf_page": 301,
+  "pages": [
+    {
+      "page_id": "A_0301_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Shells from the beach near Deauville\n\n__Wednesday October 9th__\n    Mist cleared from the race course & river & it was a beautiful, sunny campsite. We could see the twin towers across the grass. We set off towards Flers.",
+      "dates": [
+        { "raw": "Wednesday October 9th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Wednesday October 9th"],
+      "underlined_places": [],
+      "place_mentions": ["Deauville", "Flers"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Shells from the beach near Deauville"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "The page contains a hand-drawn sketch of shells (outline drawings, not a route map) with the caption 'Shells from the beach near Deauville' at the top. The 'twin towers' visible across the grass from the campsite are almost certainly the Abbaye aux Hommes in Caen (shown in the photo on the right page). Wednesday October 9th falls on a Wednesday in 1991 and 2002 within the volume's range of 1989–2003; year cannot be confirmed from this page alone."
+    },
+    {
+      "page_id": "A_0301_R",
+      "side": "R",
+      "handwritten_page_no": 46,
+      "blank": false,
+      "full_text": "Caen, Abbaye aux Hommes 1066 - 1077\nSt. Stephen's.  West front  (:)",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Caen", "Abbaye aux Hommes"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Caen, Abbaye aux Hommes 1066 - 1077\nSt. Stephen's.  West front  (:)"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a colour photograph of the west front of the Abbaye aux Hommes (St. Stephen's) in Caen, Normandy. The handwritten caption below the photo gives the building's date range as 1066–1077. The '(:)' at the end of the caption appears to be a smiley face emoticon. Page number 46 is written in the top-right corner."
+    }
+  ]
+}

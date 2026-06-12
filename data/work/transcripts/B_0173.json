@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0173",
+  "volume": "B",
+  "pdf_page": 173,
+  "pages": [
+    {
+      "page_id": "B_0173_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Music room, Snowshill Manor. There is also a child's harp, drums, recorder + a Serpent, covered in leather.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Snowshill Manor"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Music room, Snowshill Manor. There is also a child's harp, drums, recorder + a Serpent, covered in leather."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a glued-in colour photograph of the Music Room at Snowshill Manor showing violins, cellos, lutes and other historic instruments. The handwritten caption appears below the photo. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "B_0173_R",
+      "side": "R",
+      "handwritten_page_no": 28,
+      "blank": false,
+      "full_text": "Friday June 11th.\n\tAt 2.15. we left for Wales. Simon, Eve, Peter, Magda Lipińska. And Tonic.\n\tWe drove to Ludlow. There were pigeons nesting next to the loos in the Castle. They were setting up a stage for Othello. Then, after much trouble, we found a bar serving tea. The tea shops shut at 4.45!\n\tCharles is also with us in the blue car. He found the way to the campsite + telephoned us when we took the wrong turning on the way to the campsite. *** 2 loos + 2 showers.\n\t__Elstich Barns__ campsite -\nshowers.\n\tThere's a covered road off it where Peter + Magda walked, but supper wasn't ready when they [strikethrough: out] got back at [strikethrough: 8] 7.30. We drank Magda's present - Zubrovka made out of bison grass. Delicious. Deceptively easy to drink! Lovely local straw berries.\n\tThe farmer came to visit, bringing an enormous old wasps' nest in a 'black sack' that he'd just removed from his roof. Lovely views.",
+      "dates": [
+        { "raw": "Friday June 11th.", "iso_guess": "2004-06-11", "confidence": 0.5 }
+      ],
+      "headings": ["Elstich Barns campsite"],
+      "underlined_places": ["Elstich Barns"],
+      "place_mentions": ["Wales", "Ludlow", "Elstich Barns"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Handwritten page number '28' visible in top-right corner. 'Elstich Barns' is underlined — could also read as 'Elstitch Barns'; transcribed as written. Writer has struck through 'out' (likely 'just') and '8' (correcting the time to 7.30). 'Zubrovka' is the diary's spelling of Żubrówka (Polish bison grass vodka). The trip is heading to Wales but Ludlow is in Shropshire on the England/Wales border. Year cannot be confirmed from the page text; 'Friday June 11th' matches 2004 or 2010 within the volume B range (2003-2019); page position 28 in what appears to be an early section of the volume suggests nearer 2004, but confidence is low — given as 2004-06-11 tentatively."
+    }
+  ]
+}

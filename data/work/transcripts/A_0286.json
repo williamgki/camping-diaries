@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0286",
+  "volume": "A",
+  "pdf_page": 286,
+  "pages": [
+    {
+      "page_id": "A_0286_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "(These were made by a museum guard.) I saw the life histories of the Battle-of-Britain pilots. We went on a B of B tour with a very good film about the RAF's role in WW II.\n\n     We arrived at the campsite at 5, put up the tent & saw \"Billy Elliot\" at 6. Then Thomas arrived & we had a hot dog & ice cream.\n\n__Sun Oct 21st.__\n     With mild weather, camping is comfortable. We drove to David's food & left the van & got to St. Margaret's Westminster. A lovely church, a sermon on Hinduism & leaving ambition behind so you're not embittered when you get old. Peter & William joined us.\n\n     Peter had spent the night in London with Mark An at Mark's sister's house. He left a message on Simon's phone, but that was switched off until 12.35. William came down from Cambrid[ge]",
+      "dates": [
+        { "raw": "Sun Oct 21st", "iso_guess": "2001-10-21", "confidence": 0.8 }
+      ],
+      "headings": ["Sun Oct 21st."],
+      "underlined_places": [],
+      "place_mentions": ["Westminster", "St. Margaret's Westminster", "London"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page begins mid-sentence, continuing from previous spread. 'Mark An' may be 'Mark Ann' or an abbreviated surname. 'Cambrid[ge]' is cut off at the gutter. Film 'Billy Elliot' was released in 2000; Sun Oct 21st falls on a Sunday in 2001, supporting that year. No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "A_0286_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We had lunch in a delicatessen & went to the Courtauld at Somerset House. A marvellous museum with old French ivories, 2 men playing cards with each other - Cézanne & the tree over Mt. St. Victoire by the lake. Icons temporary exhib.\n\n     William left, then we went to Covent Garden, where Simon & Charles visited the Transport Museum & John had a caricature done.\n\n     We have arrived at David & Sally's. Dylan has gone to stay with a friend at Northampton. Sally had to stay at home to settle Jem who had a cold. So we took Thomas & David & Maia out to a Turkish meal at Iznik. It was delicious food - felafel. David drove us there & back in his van. Then we drove back to the campsite, but we had to camp in the carpark",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Somerset House", "Covent Garden", "Northampton", "Iznik"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Top-right corner shows a partial numeral that may be a handwritten page number but is unclear/cropped — could not confidently read it, so set to null. 'Iznik' is a Turkish restaurant name (also a town in Turkey). 'Mt. St. Victoire' likely refers to Cézanne's famous subject, Mont Sainte-Victoire. Text ends mid-sentence, continuing onto next spread. The Courtauld at Somerset House is in London."
+    }
+  ]
+}

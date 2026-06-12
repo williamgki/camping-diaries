@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0130",
+  "volume": "A",
+  "pdf_page": 130,
+  "pages": [
+    {
+      "page_id": "A_0130_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Hand-drawn sketch of buildings/houses at top of page]\n\nSunday\n   We packed up + went to Malvern chapel. \"Oh clap your hands\" which Peter was interested to hear Thomas sing because Peter had sung it at St. Pauls. We went upstairs to coffee, then to Reg for sherry. We took Reg to the common for lunch + then drove home (returning in the evening to hear Thomas play in a concert. Ben Madden Elgar).\n\nMon 18th July                 Pension Nancy\n   We picked up Samra Kolon in the City Centre above the Mosque at 7.25!. + drove on to Thorpenes. We used the new A14, the new M1 A1 interlink which opened 4 days ago by-passing Market Harborough + Kettering. We had breakfast 3½ miles from Naseby.\n   Simon drove home for a couple of days midweek. He came back Friday evening. (mil 24007)\n24/7/94 Sunday we left about 10.15. Simon + Thomas had bought us ice creams for our picnic lunch. 8 m. west of Huntingdon",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Mon 18th July", "iso_guess": "1994-07-18", "confidence": 0.85 },
+        { "raw": "24/7/94 Sunday", "iso_guess": "1994-07-24", "confidence": 0.97 }
+      ],
+      "headings": ["Sunday", "Mon 18th July"],
+      "underlined_places": ["Thorpenes"],
+      "place_mentions": ["Malvern", "St. Pauls", "City Centre", "Thorpenes", "Market Harborough", "Kettering", "Naseby", "Huntingdon"],
+      "route_sketch": false,
+      "route_sketch_description": "Hand-drawn sketch at top of page showing a row of buildings/houses (appears to be cottages or a chapel) with a fence in the foreground — a scene illustration, not a route map. No route arrows or place labels.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "'Thorpenes' is underlined in text — likely Thorpeness (Suffolk coastal village). 'Samra Kolon' may be a person's name. 'Pension Nancy' written as a heading alongside the Mon 18th July date — could be an accommodation name. 'Ben Madden Elgar' at end of Sunday entry likely refers to a concert programme (Benjamin Madden conducting Elgar). The 'Sunday' entry at top is likely a continuation from a previous page and the year matches 1994 based on the explicit '24/7/94' date."
+    },
+    {
+      "page_id": "A_0130_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "   We had a super time at Thorpeness. Annie + Klaus invited us. By the end of the week there were Annie, Klaus, André, 1!, Patrick 10, Esther 6, Julia 3, Sally, Monique 8, Koroku 7, Mitsuba 4, Tobi 6m., Tim, Caroline, Rosa 3, Thol [?5], Richard + Mary Holly 6, George 5, Jane + Harry + all of us! We went home on Sunday morning.\n\nSat July 30th\n   6 of us set off at 8.40. to listen to Peter play in an IAPS concert at Snape. Annie, Monique + Patrick came over from Thorpenesses too. The [?concert] was marvellous. Barry Guy got everyone to Gershwin was marvellous. Barry Guy got everyone to improvise, set off by his double bass. Very hot.\n   We motored down to __The Nook__ *** Women's World.\nterrific thunder. A neat campsite, full of old people where we left Peter's case + viola. Twenty minutes from Dover. We left at 8.40. + caught the ferry before ours.\n   At the end of the trip we heard \"Will the parents of Charles Kirby please come to the Information desk on C Deck?\"\n   We motored to Tim's father's grave. Very sad. Then we drove on to __[?Suny]__ ***, a family outing place. Men were playing boules all the time. There was mini golf + table football. But there was only one man's loo + one women's loo, so it was a",
+      "dates": [
+        { "raw": "Sat July 30th", "iso_guess": "1994-07-30", "confidence": 0.9 }
+      ],
+      "headings": ["Sat July 30th"],
+      "underlined_places": ["The Nook", "[?Suny]"],
+      "place_mentions": ["Thorpeness", "Snape", "Thorpenesses", "The Nook", "Dover", "[?Suny]"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "The name after 'drove on to' is underlined and marked ***, but is difficult to read — could be 'Suny', 'Seny', or a French place name. Barry Guy is likely the jazz bassist. 'IAPS concert at Snape' — IAPS likely refers to Independent Association of Prep Schools; Snape likely refers to Snape Maltings concert hall in Suffolk. 'The Nook' is underlined and marked ***. Page appears to cut off mid-sentence at the bottom. The name list of visitors to Thorpeness includes many first names with ages — transcribed as legibly as possible; 'Thol 5' or 'Thal 5' is uncertain. 'C Deck' ferry announcement suggests a cross-Channel ferry."
+    }
+  ]
+}

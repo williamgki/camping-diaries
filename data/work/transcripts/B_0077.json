@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0077",
+  "volume": "B",
+  "pdf_page": 77,
+  "pages": [
+    {
+      "page_id": "B_0077_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "the next day. We were lucky to find a campsite nearby - recommended by the canoe place. We are on a site, small, between 2 towering beech hedges, on the edge of a foot ball field over looking tennis courts. The boys' tent will be set up in the goal. There are girls flying kites ([?incorrectly] according [?the] to Charles) in the field. We went to [?Hopin] a super-market.\n\n\tAfter supper we played bridge again + Eve got cross at Simon saying \"double\" before she lost.\n\n\t__Friday August 5th__\n\n\tWe woke + played tennis before breakfast. Then we canoed down the Drome in 2 single canoes + a double. It was fabulous, canoeing - lots of rapids ~ Simon + Eve didn't tip up, but John did + Charles did when he fought with John. It was only 2 hour trip. The rest of the river looked a bit flat. It was very green.\n\n\tWe are in __Chaplains__ * * * (? *) campsite at Sailline. The beech hedge has leaves with strong veins + tassels of leaves, (not not beech [?cobmuts]) so maybe it's a hornbeam? or something else.",
+      "dates": [
+        { "raw": "Friday August 5th", "iso_guess": "2005-08-05", "confidence": 0.3 }
+      ],
+      "headings": ["Friday August 5th"],
+      "underlined_places": ["Chaplains"],
+      "place_mentions": ["Drome", "Chaplains", "Sailline"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page is a continuation — no handwritten page number visible at top left. 'Sailline' may be 'Saillans' (a town on the Drome); the handwriting is unclear. 'Hopin' may be a supermarket name or brand. 'cobmuts' unreadable — possibly 'cobnuts'. The date 'Friday August 5th' — years when Aug 5 fell on a Friday between 2003 and 2019 include 2005 and 2016; year not otherwise confirmed on this page. ISO guess is tentative."
+    },
+    {
+      "page_id": "B_0077_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[Printed tourist leaflet/brochure glued in, no handwritten text on this page]\n\nThe Drome, a river for every body\n\nMinimum 7 years old\n\n[Map showing river route with labels:]\nSainte-Croix\nDie\nPontaix\nDépart\nArrivée\nVercheny\nAurel\nSaillans\nEspenel\nPont de Quart\n\nParcours Soleil Rouge\n16 km - spécial été, dès 17h\n\nParcours Mini-aventure\n6 km - 1h30 à 2h30\n\nParcours Sensations\n21 à 26 km - 5 à 7 h\n\nParcours Grande-randonnée\n30 à 50 km - 1 ou 2 jours\n\n[L'ILE marked on map]\n\nIs par moniteurs diplômés d'état - Devis personnalisés sur demande.\n\ncanoë kayak     Canoe kayak in the moonlight\n\n[French text:] otre imagination vous emmène dans un autre monde. Nuit de pleine lune, ores, les rochers et l'eau dansent autour de votre embarcation.\n[English text:] which your imagination transports you into a different world. On the night ht of extravaganee where the rocks and water dance around your boat.",
+      "dates": [],
+      "headings": ["The Drome, a river for every body", "Canoe kayak in the moonlight"],
+      "underlined_places": [],
+      "place_mentions": ["Drome", "Sainte-Croix", "Die", "Pontaix", "Vercheny", "Aurel", "Saillans", "Espenel", "Pont de Quart"],
+      "route_sketch": true,
+      "route_sketch_description": "Printed map (part of glued-in brochure) showing the Drome river with colour-coded route options. Places labelled from west to east/upstream: Saillans, Espenel, L'ILE, Aurel, Vercheny, Pontaix, Sainte-Croix, with Die to the east. Arrows show Départ and Arrivée points. River flows roughly east-west. Four marked parcours (routes): Soleil Rouge (6 km), Mini-aventure (6 km), Sensations (21-26 km), Grande-randonnée (30-50 km).",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Right page is entirely a printed/glued-in commercial brochure for a canoe hire company on the Drome river. Some handwritten overflow text from the left page is visible at the extreme left edge but belongs to the left page. The brochure map is a printed route diagram, not a hand-drawn sketch, but flagged as route_sketch true as it shows the route with place labels."
+    }
+  ]
+}

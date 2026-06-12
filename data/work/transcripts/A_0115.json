@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0115",
+  "volume": "A",
+  "pdf_page": 115,
+  "pages": [
+    {
+      "page_id": "A_0115_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "William got lost, so we were almost late meeting Kate Warburton's train. She had to catch a later one, anyway, because hers had been cancelled. We stood in Taunton station carpark to eat lunch.\n    We just had time for John + Charles to swim before Kate + Jamie Hamilton dropped off Kate Jessica + picked up Simon + Eve to go to Gawn's + Polly's wedding. The wedding was in Dulverton Church, + the reception at Withypool.\n    Kate + Jamie picked up Jessica the Sunday morning + we set off to Taunton Station to leave Kate.\n    For lunch we went a little north to Maunsell Lock, Hedging. __Gorgeous__ blackberrying in the sunshine + a stroll along the canal.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Taunton", "Dulverton Church", "Withypool", "Taunton Station", "Maunsell Lock", "Hedging"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page is a continuation from a previous spread; no handwritten page number visible in top-left corner. 'Gorgeous' is underlined in the original. 'Gawn's + Polly's wedding' — Gawn appears to be a personal name. 'Maunsell Lock, Hedging' — Hedging is a village in Somerset near Bridgwater. Right-hand gutter shows partial text from the facing page."
+    },
+    {
+      "page_id": "A_0115_R",
+      "side": "R",
+      "handwritten_page_no": 30,
+      "blank": false,
+      "full_text": "Friday 24 Sept.\n    We have come away to the Cotswolds for the wkend. Chris Goerdt, the new German au pair has come too. She is sleeping in the Kyam, + Wm + Pt in the van with S+E, J+C. We left at 5.40 + got to Naunton at [?] 7.10. We have camped at the back of a pub, + use the modern pub loos. Dogs bark in the kennels + a mare + foal is in the next field.\n    Sat 25th.\n    It rained in the night + was foggy in the morning, but the sun started to shine at midday. The campsite __Naunton__ *** is good, except the [?] dogs bark.\n    We left about 9.30. to walk to __Power Guiting__, along narrow roads, past horse farms, over foot bridges. We reached the [illegible] village + had trouble finding a cup of coffee. We bought bread baked at the bakers, + the pub finally opened at 11 — they were preparing for a wedding. Peter threatened to pop the balloons on a gate which marked the bride's house.\n    We visited the church where they were preparing for Harvest Festival. Old, but Victorian restorations. A nice modern Wheatsheaf [illegible] in a small stained glass window + a Victorian [illegible] hour glass in the door lintel. Vicar friendly.\n    We returned along footpaths. Ramblers were breaking a path through a ploughed field.",
+      "dates": [
+        { "raw": "Friday 24 Sept.", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sat 25th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Naunton", "Power Guiting"],
+      "place_mentions": ["Cotswolds", "Naunton", "Power Guiting"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number '30' in top-right corner. 'Power Guiting' is underlined — this likely refers to 'Guiting Power', a village in the Cotswolds (also sometimes written as 'Power Guiting' informally). 'Naunton' is underlined with '***' annotation. 'Kyam' is presumably a brand name for a small tent or sleeping device. 'Wm + Pt' are likely family member initials. Year cannot be confirmed from this page alone; the volume covers 1989–2003, and the context (au pair named Chris Goerdt, family composition) does not allow year-pinning. The '***' after 'Naunton' campsite rating notation. Several words in the latter portion of the page are difficult to read clearly (hour glass description, church items)."
+    }
+  ]
+}

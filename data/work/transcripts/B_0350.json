@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0350",
+  "volume": "B",
+  "pdf_page": 350,
+  "pages": [
+    {
+      "page_id": "B_0350_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We spent the night at Pennine Lodge next to St. John's Chapel.\nSunday\n   We drove to Westgate + walked up a very steep hill. We went along tracks, some even, some [?eroded], + came to an absolutely beautiful woodland path which took us back down to the van. (Under 4 miles.) There was a motorbike scramble about to happen but we couldn't stay for it because we needed lunch. We passed the entrance + washing places to quite a few lead mines.\n   We returned to Killhope to look at the machinery. Some of the machines work like hop-picking machines. We had lunch + came back to Pennine Lodge. Rain. The rain held off for the morning. In the afternoon it was wet.\nMonday\nWe went on a short walk from the nice campsite. There's a steep car ford, but the water is deep from the rains. (We slept with the skylight open + the rain didn't come in - v. pleasant.) We walked across the pretty stream using the footbridge.\n   We drove on to Vindolanda - much developed since our last visit. Most fascinating are the 350 letters left over from the leaving bonfire.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.1 },
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.1 }
+      ],
+      "headings": ["Sunday", "Monday"],
+      "underlined_places": [],
+      "place_mentions": ["Pennine Lodge", "St. John's Chapel", "Westgate", "Killhope", "Vindolanda"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The word after 'some even, some' looks like 'eroded' but is partially unclear. 'Pennine Lodge' appears to be a campsite near St. John's Chapel in Weardale. 'Killhope' is the Killhope Lead Mining Museum in County Durham. 'Vindolanda' is the Roman fort near Hadrian's Wall. No year visible on the page itself; cannot assign from page content alone. The '350 letters' refers to the famous Vindolanda tablets."
+    },
+    {
+      "page_id": "B_0350_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Unfortunately we walked out in a shower of rain & our legs got v. wet. We had coffee to warm up. There were diggers excavating with enthusiasm. We had lunch at the cafe + enjoyed the indoor museum. Recent excavations were started in 1938, the same as the Sutton Hoo.\n\nCharles has sent a 4th of July video from the U.S. We have driven down to beyond Manchester for the night. Brook House Farm Middlewich. Wish more salt. There's a salt mining museum nearby. (until 1986)",
+      "dates": [
+        { "raw": "4th of July", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Vindolanda", "Sutton Hoo", "Manchester", "Brook House Farm", "Middlewich"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The most extraordinary of all Vindolanda's letters - the birthday party invitation from Claudia Severa to Sulpicia Lepidina, the wife of Vindolanda's prefect. It dates to the period A.D. 100/104 and the closing salutation, in Claudia Severa's hand, represents the earliest surviving writing by a woman."],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "The right page has a printed postcard/insert of a Vindolanda tablet (writing tablet photograph) with a printed caption transcribed above. The handwritten text appears in two sections: a left-edge strip continuing from the left page's Vindolanda narrative, and a lower section below the photo about driving to Middlewich. 'Brook House Farm Middlewich' is the campsite. The phrase 'Wish more salt' may read 'With more salt' or could be an unusual phrasing — transcribed as written. The salt mining museum reference '(until 1986)' likely means it operated until 1986. No year visible for the trip itself; 4th of July reference does not pin the year. 'Sutton Hoo' reference is to the famous Anglo-Saxon burial site — the diarist is comparing the start of Vindolanda excavations (1938) with Sutton Hoo excavations also beginning in 1938. Left-edge text is partially obscured by gutter."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0158",
+  "volume": "B",
+  "pdf_page": 158,
+  "pages": [
+    {
+      "page_id": "B_0158_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Alan + Jean + Sally + David made us very welcome. The house now has a staircase + upstairs bathroom. David + Dylan have made a patio. (But it was too cold to sit there. We chatted + chatted in the kitchen. For the first night David cooked us, steak with tomato + roquefort sauce à la Dylan.\n__Wednesday__ The next night Charles put in 2 chickens while the rest of us were on a super 12 mile walk, with a beer at St. Hilaire. The house is very comfortable now.\n__Thursday__\n\tThomas played is viola, Dylan played his recorder. Then Jem played his guitar. Simon + Eve + Charles left. We stopped in Maymac at + shopped at a good green grocer. Charles found a field for us to have lunch. It started raining as I chopped the salad so we finished in the van.",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Wednesday", "Thursday"],
+      "underlined_places": [],
+      "place_mentions": ["St. Hilaire", "Maymac"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "No handwritten page number visible in top-left corner — top of page may be cropped or unnumbered. The word before 'viola' reads 'is' but likely means 'his' (diarist's slip). 'Maymac' is a village in Corrèze, France. 'à la Dylan' is a cooking attribution. 'super' appears as a small superscript annotation above 'a' before '12 mile walk'. The word after 'at' in 'stopped in Maymac at + shopped' appears to be a duplicate/error by the diarist."
+    },
+    {
+      "page_id": "B_0158_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "I'm sitting in a blanket while I write this. It's so cold. We reached __St. Jean de Vaux__ where it continued to feel very cold, so we didn't swim. The grass was ominously green (lots of rain.)\n\tFor the first time the restaurant in the village was open, so we had a meal Café du Centre. Charles had steak, Simon pintade (game bird) + I had garotted chicken. Very good food. We had bought puddings earlier in the day + went back to the van to eat them.\n\tWe also tasted wine for William's + Bryony's wedding.\n__Friday__\nWe picked up the 60 bottles of wine, at 9.30, + some others + set off northwards. We shopped + drove on until 6, arriving at an almost deserted campsite with one other van. It's a bit warmer.\n__Ribemont__ **",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Friday", "Ribemont"],
+      "underlined_places": ["St. Jean de Vaux", "Ribemont"],
+      "place_mentions": ["St. Jean de Vaux", "Café du Centre", "Ribemont"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "No handwritten page number clearly visible in top-right corner — the scan shows only the partial edge. 'garotted chicken' is the diarist's spelling (likely 'garrotted' or could be a regional preparation). 'pintade' is French for guinea fowl (the diarist notes it as 'game bird'). 'Ribemont' is underlined and followed by '**', suggesting it is a campsite name or notable place; Ribemont is a commune in Aisne, northern France — consistent with 'set off northwards'. William's + Bryony's wedding provides a potential dating anchor but year cannot be confirmed from this page alone. 'St. Jean de Vaux' is a village in Saône-et-Loire, France, known for a lake/swimming spot."
+    }
+  ]
+}

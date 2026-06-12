@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0171",
+  "volume": "B",
+  "pdf_page": 171,
+  "pages": [
+    {
+      "page_id": "B_0171_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Friday May 7th.\n\n6.25t we left Westfield [?S] & drove to Moreton on the Marsh, Simon had forgotten the map so we didn't find out original campsite near Blockley. We ended up arriving too late (8.10) & slept in carpark [illegible].\n\n__Saturday May 8__th\n\nCold, miserable weather. By 8.30 we were having breakfast at William's & Bryony's B&B in Lower Swell, Cotswolds. Very fancy B&B, so posh Simon had to repark the van. Old vine in the conservatory.\nBy 10 we were at __Pangolin Foundry__ in Chalford. Andy, the designer had organised for a group of students to visit & find out about mould-making & casting metal sculptures - hand sized giants (Bull in Bull ring). Alloys - bronze. (Cornley's are cast in iron, industrially, so he doesn't use them) lots of work for [?Admira] [?Hirst]. 92 people work there. Very interesting. Lost wax. Sand moulds [?or] with resin, injected with CO₂. Sue, the designer, asked lots of questions.\n     We had lunch in the van, then rested. At 4.40, W&B picked us up in their super car & drove us to Winchcombe to David Thistlethwaite's",
+      "dates": [
+        { "raw": "Friday May 7th.", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Saturday May 8th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Saturday May 8th"],
+      "underlined_places": ["Pangolin Foundry"],
+      "place_mentions": ["Moreton on the Marsh", "Blockley", "Lower Swell", "Cotswolds", "Chalford", "Winchcombe"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "First word after 'Westfield' is unclear — possibly an initial or abbreviation. 'Admira Hirst' may be 'Damien Hirst' misread. 'Cornley's' spelling uncertain. No handwritten page number visible. Year not determinable from this page alone — volume B covers 2003–2019; 'May 7th Friday' fell on e.g. 2004, 2010, 2021 — within volume range 2010 is plausible but unconfirmed. 'carpark' word at end of first entry partially obscured."
+    },
+    {
+      "page_id": "B_0171_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "& Sarah Loveday's exhibition of paintings. It was good to see David & Ali after so many years.\n     We went out to supper at the Fox, lovely walnut & honey tart. Then back to our campsite, __Folly Farm__, **** £12 where we're parked under beautiful apple blossom.\n\n__Sunday May 9__th\n\n     Slightly better weather today. We again breakfasted with William & Bryony. The landlady's husband had been an architect for townhalls. We think he bought the old rectory farm & then found the foundations of out buildings & managed to build about 3 more Cotswold houses in the [?old] garden: Glebe House, Barn Cottage etc.\n     We set off to Snowshill Manor, having a bit of trouble with a cycle race enroute. The garden to Snowshill Manor is the most lovely I've seen, on the side of a hill, compartments. Benches, ponds, barns. Model village, old fire engines. Charles Wade's collection of 22,000 objects grew so large that he stored it in [?&] the Manor house & moved, with his wife, into the priest's",
+      "dates": [
+        { "raw": "Sunday May 9th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Sunday May 9th"],
+      "underlined_places": ["Folly Farm"],
+      "place_mentions": ["Folly Farm", "Fox", "Cotswold", "Glebe House", "Barn Cottage", "Snowshill Manor"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Text continues onto next page — entry for Sunday May 9th is cut off mid-sentence. '**** £12' appears to be a campsite rating notation next to Folly Farm. 'out buildings' may be 'outbuildings' written as two words. Year not determinable from this page alone."
+    }
+  ]
+}

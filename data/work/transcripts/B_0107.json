@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0107",
+  "volume": "B",
+  "pdf_page": 107,
+  "pages": [
+    {
+      "page_id": "B_0107_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[...nous] (it has stopped raining\n__Thursday__ It was very wet, when we woke, but, hoping for the best, I set off to the washing machine with all the bed clothes + 4 euros. The wash takes 2¾ hours! It's a blustery day with bits of sunlight. In all, we managed 3 washes + it's now 6.30, + the last lot are pegged out to dry, so I hope the grey clouds stay away. Charles + I are cold outside because our sweatshirts are still drying, + the flies in the van are annoying.\n\tLunch was delicious. We had Chateldon Sagy water. They brought lots of little dishes. Charles had veal + cheese in macaroni, Simon + Eve had lamb + aubergine – I would have liked potatoes too. The wine was good from ~~Entraque~~ Entraquel. But __best of all__ was the pud. If I come back I will only have 3 puds. Chestnut icecream. Apples on shortbread + cream. Chestnut honey + amazing radio masts with a 10 inch tall spike, made out of a chestnut with melted hard sugar. It all tasted really good. We staggered home across fields.\n\tWe drove into Cassianouse in the late afternoon + bought bread. The",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.25 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": [],
+      "place_mentions": ["Cassianouse", "Entraquel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text begins mid-sentence at the top (cut off from the previous page) — the partial word visible is '...nous' which appears to be the end of 'Cassianouse' or similar place name, followed by '(it has stopped raining'. The crossed-out word before 'Entraquel' appears to be a first attempt at spelling the same word — the diary writes it once struck through then again as 'Entraquel'. Could read as 'Entraque' or 'Entraquel'; possibly refers to a local wine or producer. 'Chateldon Sagy water' — Chateldon is a well-known French mineral water brand. 'Cassianouse' is likely Cassaniouze, a commune in the Cantal department, France. No handwritten page number visible at the top-left corner. Year cannot be determined from this page alone; context of nearby pages confirms a France/Cantal trip."
+    },
+    {
+      "page_id": "B_0107_R",
+      "side": "R",
+      "handwritten_page_no": 46,
+      "blank": false,
+      "full_text": "processional cross in the church is famous (13), found by a shepherdess in a cave in 1930, after it was hidden during the Revolution.\n\tIt didn't rain again + the washing was fine\n__Friday__\n\tWe set off for Figiac along beautiful small roads + reached it before lunch. The scenery was beautiful – a marvellous cluster of symmetrical old barns around a country-house Chateau just outside Cassianouse [is] one of my favourite views. The road went along river valleys + zigzag roads, lots of sweet chestnut trees.\n\tIn Figiac we saw the church with a beautiful, painted crypt-chapel. We ate pizza + cakes. The chapel was called Notre-Dame de la Pitié. Some of the buildings have a distinctive architecture, large [?four] pointed arches on the ground floor + galleries above + some even have a tall chimney tower. In Places des Escritures an American has made a large copy of the Rosetta Stone in Zimbabwean granite. Lassell.\n\tJean-François Champollion translated the Rosetta Stone + set up the Egyptian Collection at the Louvre. He had to work from copies. 1790–1832",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.25 },
+        { "raw": "1930", "iso_guess": "1930", "confidence": 0.95 },
+        { "raw": "1790–1832", "iso_guess": null, "confidence": 0.9 }
+      ],
+      "headings": ["Friday"],
+      "underlined_places": [],
+      "place_mentions": ["Figiac", "Cassianouse", "Notre-Dame de la Pitié", "Places des Escritures", "Louvre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Handwritten page number 46 visible top-right. Text begins mid-sentence, continuing from the left page (about bread bought in Cassianouse). 'Figiac' is the diary's spelling — almost certainly Figeac (a town in the Lot department, France), famous for Jean-François Champollion who was born there. 'Places des Escritures' is the diary's spelling — should be Place des Écritures (the square in Figeac with the large Rosetta Stone reproduction). 'Zimbabwean granite' confirmed from reading. 'Lassell' after 'granite' is unclear — could be a name or annotation; reads as 'Lassell' or '[?Hassell]'. The word '[?four]' before 'pointed arches' is partially obscured — could read 'four' or 'fine' or similar. '1930' refers to when the processional cross was found. '1790–1832' are the birth and death dates of Champollion. Year of the diary entry cannot be confirmed from the page content alone."
+    }
+  ]
+}

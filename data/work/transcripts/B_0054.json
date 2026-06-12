@@ -1,0 +1,48 @@
+{
+  "spread_id": "B_0054",
+  "volume": "B",
+  "pdf_page": 54,
+  "pages": [
+    {
+      "page_id": "B_0054_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Sunday April 10th 2005__\nBy the end of the evening I was wearing a brown sweater, aran cardigan, sheepskin waistcoat + yellow outdoor jacket. I couldn't face getting undressed. We both slept (well) in our clothes. I even pulled my hood on at one point in the night.\n\tCharles had Tonic in the tent where he licked his paws for much of the night (cuts from stubble in the fields?)\n\tIt's a bit warmer today. The loos + shower www.islandmeadowcaravanpark   are clean + there are 2 free hairdryers. It seems well run, you can order newspapers.\n\tTonic + Charles stayed at the van, Charles got chased by a [?dead] duck after feeding it bonio. Simon + Eve went to church, a nice service. (2 people were billed £95,000 by the PCC because they had bought rectoral lands.)\n\t\tWe drove on to __Kinwarton Dovecot__",
+      "dates": [
+        { "raw": "Sunday April 10th 2005", "iso_guess": "2005-04-10", "confidence": 0.98 }
+      ],
+      "headings": ["Sunday April 10th 2005"],
+      "underlined_places": ["Kinwarton Dovecot"],
+      "place_mentions": ["Kinwarton Dovecot"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The campsite URL reads 'www.islandmeadowcaravanpark' — likely Island Meadow Caravan Park. The word before 'duck' is partially struck through and hard to read; best guess is 'dead' but could be another word. 'rectoral lands' — the diarist may mean 'rectorial'. No handwritten page number visible on left page."
+    },
+    {
+      "page_id": "B_0054_R",
+      "side": "R",
+      "handwritten_page_no": 52,
+      "blank": false,
+      "full_text": "+ had lunch. [illegible] [illegible] [illegible] [illegible]\n\n[pencil sketch of dovecot building and nesting box structure]\n\n\t\t\t\t\t[?potence] for\n\t\t\treaching 580 nesting\n\t\t\tboxes.\n\nCentral pole pivoted, leaving ladder on 2 arms.   (14).\nDovecotes, columbanus, orig. brought by Romans. Court cases because doves fed for free on peasants crops. Messy floor v.g. fertilizer.\n\tWe got home at 3.05. Sunday\n\n__Friday May 27th__\n\tSimon + Eve left at 12.40. + then had to go back, at Lordswood Rd, for the name of Grandma's + Helen's b. + b.\n\t\tWe are going to pick them up + take them to Malvern.",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "2005-04-10", "confidence": 0.8 },
+        { "raw": "Friday May 27th", "iso_guess": "2005-05-27", "confidence": 0.75 }
+      ],
+      "headings": ["Friday May 27th"],
+      "underlined_places": [],
+      "place_mentions": ["Kinwarton Dovecot", "Lordswood Rd", "Malvern"],
+      "route_sketch": true,
+      "route_sketch_description": "Two pencil sketches at top of page: left sketch shows a dovecote building (house-like structure with triangular roof and diamond/triangle window); right sketch shows a tall vertical structure with horizontal ladder-like rungs, apparently illustrating the interior nesting box arrangement of the dovecote. No route arrows or place labels on the sketches.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.78,
+      "notes": "Top of page continues text from left page — 'and had lunch' followed by several words in faint/smudged pencil that are illegible. The pencil sketches appear to illustrate Kinwarton Dovecot visited on 10 April. The word '[?potence]' refers to the rotating central pole mechanism of a dovecote (a 'potence'). The number '580' likely refers to nesting boxes. 'columbanus' likely means 'columbarium' (Latin for dovecote). 'Friday May 27th' — in 2005 May 27 was a Friday, consistent with the date. 'Lordswood Rd' is likely Lordswood Road in Birmingham/Harborne area. The right page top-right corner shows handwritten page number 52."
+    }
+  ]
+}

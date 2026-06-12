@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0343",
+  "volume": "A",
+  "pdf_page": 343,
+  "pages": [
+    {
+      "page_id": "A_0343_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "we discovered that I'd forgotten the bread. (I'd taken it back to the kitchen for tea) The [?same] oat flakes were old - Charles couldn't work out whether the date was sell by 1998 or 1988 because weevils had eaten through the lettering. The boys' attitude was a bit pathetic. Lovely hot sunshine.\n\tIt was a long drive to Annie's. Thomas bought bread for lunch. We drove through France, Belgium, Holland + into Germany. It was hot + sticky.\n\tIt was lovely arriving at __Bad Honnef__ + being welcomed by Annie, Klaus, Patrick + Julia, + Annie's goddaughter, Adela. We had a salad supper + walked down to the Island in the Rhine where there was a festival going on. We saw an eel boat which has a beautiful curving shape.\n\tWe slept in the house.\n__Sunday__\n\tKlaus took us on a long bike ride south down the Rhine, using 2 ferries. We took detours through the pretty villages. We",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "1997-08", "confidence": 0.4 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Bad Honnef"],
+      "place_mentions": ["Bad Honnef", "France", "Belgium", "Holland", "Germany", "Rhine"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page continues from a previous spread; the opening text is mid-narrative (no heading visible at top). The word before 'oat flakes' is struck through and partially illegible — possibly 'same' or 'some'. Year 1997 inferred from Tuesday August 5th on the right page: August 5th was a Tuesday in 1997."
+    },
+    {
+      "page_id": "A_0343_R",
+      "side": "R",
+      "handwritten_page_no": 87,
+      "blank": false,
+      "full_text": "rode fast + it was very hot. At __Linz__ we had lunch by the town gate, delicious salmon salad. There were very high flood water marks. Patrick was very polite staying at the back with me when I was cycling slowly. We stopped at Unkel (Willy Brandt's town) on the way for an ice cream. The trip was from 11.30 - 5.30.\n\tAt home we all needed showers. We used Annie's hammock + she has 2 rabbits.\n__Monday__\n\tWe left at 9.40. + spent 1½ hours at Birkenstock, the shoe factory, choosing shoes. Then we got on the motorway towards Frankfurt. We found a supermarket to buy bread + other stuff. Annie had generously given us cold meat + potato salad. We drove into a wood + had lunch in the shade. It's very hot.\n\tIn the afternoon we reached __Heimartshausen__ near __Alsfeld__. There's a swimming pool next door. We had supper - good - at the camp restaurant. Lots of Germans, one Dutch, one Danish. People with dogs.\n__Tuesday August 5__\n\tHot already when we woke up. I enjoyed a cold shower. You have to pay for",
+      "dates": [
+        { "raw": "Tuesday August 5", "iso_guess": "1997-08-05", "confidence": 0.75 },
+        { "raw": "Monday", "iso_guess": "1997-08-04", "confidence": 0.6 },
+        { "raw": "Sunday", "iso_guess": "1997-08-03", "confidence": 0.55 }
+      ],
+      "headings": ["Monday", "Tuesday August 5"],
+      "underlined_places": ["Linz", "Heimartshausen", "Alsfeld"],
+      "place_mentions": ["Linz", "Unkel", "Birkenstock", "Frankfurt", "Heimartshausen", "Alsfeld"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "Handwritten page number 87 in top-right corner. 'Willy Brandt's town' is a parenthetical note about Unkel. 'Birkenstock' refers to the Birkenstock shoe factory/outlet. 'Heimartshausen' underlined — could also read 'Heimartshaused'; transcribed as written. August 5th was a Tuesday in 1997, which anchors the year. The *** symbols after 'Heimartshausen' appear to be emphasis marks. Text continues onto the next spread."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "spread_id": "B_0092",
+  "volume": "B",
+  "pdf_page": 92,
+  "pages": [
+    {
+      "page_id": "B_0092_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Saturday April 8th 2006__\n\n11am we left to go to Trimpley. Charles, Simon, Eve & Tonic picked up Margaret & Helen.\n\nWe went down to the R. Severn & had a picnic lunch & walk. Then tea at Trimpley. Before leaving Eve sang in a hymnnathon for the Anthony Nolan Bone Marrow Trust. We had to get back for a practice reading of the Passion for Palm Sunday.\n\n__Friday April 21st.__\n\nSimon, Eve, Charles & Tonic set off for near Shrewsbury, __Church House__ campsite, near the Tontine Inn, __Melverley__, __Savesley__. It's right next to a river with picturesque black & white Church. Unfortunately the [?Tontine] Inn is closed, the newspaper delivery man is in hospital & the church service isn't until 6pm. But it's incredibly quiet & the loos & hot shower are clean. The campsite",
+      "dates": [
+        { "raw": "Saturday April 8th 2006", "iso_guess": "2006-04-08", "confidence": 0.99 },
+        { "raw": "Friday April 21st", "iso_guess": "2006-04-21", "confidence": 0.95 }
+      ],
+      "headings": ["Saturday April 8th 2006", "Friday April 21st."],
+      "underlined_places": ["Church House", "Melverley", "Savesley"],
+      "place_mentions": ["Trimpley", "R. Severn", "Shrewsbury", "Church House", "Tontine Inn", "Melverley", "Savesley"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The campsite name 'Savesley' could also read 'Baverley' or 'Saverley' — handwriting is slightly ambiguous. The word before 'Inn is closed' looks like 'Tontine' (repeating the inn name) but could be another word. 'hymnnathon' is transcribed verbatim as written (likely intended as 'hymn-a-thon'). Text continues onto right page."
+    },
+    {
+      "page_id": "B_0092_R",
+      "side": "R",
+      "handwritten_page_no": 30,
+      "blank": false,
+      "full_text": "owner's a bit fussy – Simon said he should play a tape-recording of her every morning at the factory to remind himself how not to welcome customers. She has taken alot of trouble with the campsite but doesn't want it ruined by campers.\n\nSimon & Eve visited the amazing church. The old one was burnt down by Owain Glendwr in 1401, storming across the river from Wales. (literally only a stone's throw away) & this one dates from 1406. It's made of timber, wattle & daub – the width of timber is greater than the plaster, which shows its age, local oak, & only pegs with no nails. The altar & pulpit & gallery are Jacobean. The river floods every year – in 1998 it came to within feet of the Church. The tombstones have several half-written surfaces waiting for the husband/wife to die – what happens if they remarry? There are 2 large yews, one dating from 1450 years ago. A baby yew is from a cutting from Surrey yew 2,000 years old.",
+      "dates": [
+        { "raw": "1401", "iso_guess": "1401", "confidence": 0.95 },
+        { "raw": "1406", "iso_guess": "1406", "confidence": 0.95 },
+        { "raw": "1998", "iso_guess": "1998", "confidence": 0.99 },
+        { "raw": "1450 years ago", "iso_guess": null, "confidence": 0.8 },
+        { "raw": "2,000 years old", "iso_guess": null, "confidence": 0.8 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Wales", "Surrey"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The name 'Owain Glendwr' is the diarist's spelling of Owain Glyndwr (the Welsh rebel leader). The word 'alot' is transcribed verbatim as written. 'wattle' at end of line continues with '& daub' on next line. The phrase 'baby yew is from a cutting' — the word before 'cutting' looks like 'a' but could be 'a cutting'. The church described is almost certainly St Peter's, Melverley, Shropshire."
+    }
+  ]
+}

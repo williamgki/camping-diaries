@@ -1,0 +1,47 @@
+{
+  "spread_id": "B_0097",
+  "volume": "B",
+  "pdf_page": 97,
+  "pages": [
+    {
+      "page_id": "B_0097_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "his laptop + showed pictures of Skye + Thorpeness. It's very, very hot & we can't find the key for the windows to give Margaret fresh air. Simon rigged up the hose pipe for Margaret to fill the pond.\n\n__July 23rd Sunday__\n\tSimon & Ebe went to the 8 o'clock. At 9.20 we left for France with Charles. Thomas & Naomi are moving into Norfolk Court, William & Bryony are in Croatia. Peter is about to sing on a Newcastle Cathedral choir tour on the I of Wight, John is in Kenya or Uganda or...\n\tIt has been swelteringly hot for the last week. It poured rain on the motorway.\n\tWe wanted to see a restored Martello Tower No 24 at near Hythe, Dymchurch, but when we got there, it was closed (English Heritage). It was disappointing.\n\tWe caught an earlier [?train] + in under 1½ hours we reached the campsite",
+      "dates": [
+        { "raw": "July 23rd Sunday", "iso_guess": "2006-07-23", "confidence": 0.5 }
+      ],
+      "headings": ["July 23rd Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Skye", "Thorpeness", "France", "Norfolk Court", "Croatia", "Newcastle Cathedral", "I of Wight", "Kenya", "Uganda", "Hythe", "Dymchurch"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The word before 'in under 1½ hours' is crossed out/corrected — looks like 'boat' crossed out and 'train' written above, or vice versa; transcribed as [?train]. The page has no visible handwritten page number in the top-left corner. Year not directly stated on page; context from right page (campsite 'La Calotterie near Montreuil', travel to France) and volume range (2003–2019) provides loose support; year left to be determined by wider context. 'I of Wight' = Isle of Wight."
+    },
+    {
+      "page_id": "B_0097_R",
+      "side": "R",
+      "handwritten_page_no": 35,
+      "blank": false,
+      "full_text": "__La Calotterie__ near Montreuil.\n\tVery green, a grassy valley, cold showers, fresh bread deliveries for breakfast.\n\t(At lunch on the motorway M25, Simon noticed oily spray on the back window. He + Charles looked at the engine & decided it's a faulty oil pressure sensor.)\n\tWe set off Monday 24th; another very hot day (Thunderstorms due on Thursday.) & [?reached] in Montreuil the garage man said it would take one or 2 days for the oil pressure gauge to arrive. So we drove to __Abbeville__. After a 2 hour wait, the garage reopened. We used the intervening time to shop & eat lunch. After a long wait + alot of discussion (during which we considered having the new part sent to Tours for us to get fixed after the opera) the Abbeville garage used one that someone else had already ordered & we were mended. During the wait I've chatted to a man & wife from Dijon whose alternator was not alternating.\n\tWe drove down the motorway to a village with a lake where the campsite shut at 6.",
+      "dates": [
+        { "raw": "Monday 24th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["La Calotterie near Montreuil"],
+      "underlined_places": ["La Calotterie", "Abbeville"],
+      "place_mentions": ["La Calotterie", "Montreuil", "M25", "Abbeville", "Tours", "Dijon"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Handwritten page number 35 visible in top-right corner. 'Monday 24th' follows 'July 23rd Sunday' on the left page, consistent with July 24th being the next day. Year not stated on this page; cannot confirm year from page content alone. The word after the ampersand before 'in Montreuil' appears to be '[?reached]' but is partially obscured/unclear. 'alot' is the diary's spelling (not corrected). 'La Calotterie' is a campsite near Montreuil-sur-Mer in northern France (Pas-de-Calais)."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0221",
+  "volume": "A",
+  "pdf_page": 221,
+  "pages": [
+    {
+      "page_id": "A_0221_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We played more foot ball & chatted & had lunch. The children fought. The grown ups washed up. We left, after a very good weekend, at 3.30.\n\nFri ~~Saturday~~ 20 Sept.\n\n   Simon, Eve John & Charles left home with Tonic to camp at a pub __The Anchor__ at __East[?Ington] Welland__, to take the boys out for a walk on the Saturday. It was raining we had to drive out to another pub for supper, the Plume of Feathers, Castlemorton Common\n\n   In the morning we had blackberries from the campsite on our cereal. Then we walked Tonic on a common where there were more blackberries. [margin, blue ink:] Simon [?Bumped] the bottom of the van\n\n   At 1.10 we met up with Thomas & William outside No 9 & drove to an old quarry on top of the hills for lunch. William washed up. We walked to the top of the Malverns & watched hang-",
+      "dates": [
+        { "raw": "20 Sept.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["The Anchor", "East[?Ington] Welland"],
+      "place_mentions": ["Welland", "Castlemorton Common", "Malverns"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page number not visible at top-left (possibly cut off or on previous page). The heading date appears to have 'Fri' struck through and '20' written above 'Saturday'; reading is 'Fri Saturday 20 Sept.' with Friday corrected to Saturday. The pub campsite location reads as 'East[?Ington] Welland' — could also read as 'Eastnor Welland'; the Welland and Castlemorton Common area is near the Malvern Hills, consistent with walking to the top of the Malverns. Year cannot be confirmed from content on this page alone. Marginal annotation in blue ink (possibly a later addition) reads 'Simon [?Bumped] the bottom of the van'."
+    },
+    {
+      "page_id": "A_0221_R",
+      "side": "R",
+      "handwritten_page_no": 51,
+      "blank": false,
+      "full_text": "gliders taking off. At one time there were 11 of them.\n\n   After tea in the van we drove William & Thomas back to school & set off home, arriving at 6 pm\n\n__Sat October 25th__\n\n   All 7 of us set off for London at 10.45. We dropped off the church news leaflet at St George's & left William's racket at the Priory to be restrung. At [?20] 1.45 we arrived at the Lee Valley Leisure Centre __Picketts Lock__. **** It has had several smart new wooden buildings put up since the last time we were here. John & Charles are thrilled with the new playground. There is an ominous mouldy smell.\n\n   We had lunch & Eve made coffee while Simon & William finished putting up the 2 tents. The reason for the mouldy smell was discovered — 5 large coffee mugs full of old, old black berries.\n\n   We clambered on board the bus for the Tottenham Hale underground station. twenty",
+      "dates": [
+        { "raw": "Sat October 25th", "iso_guess": null, "confidence": 0.35 }
+      ],
+      "headings": ["Sat October 25th"],
+      "underlined_places": ["Picketts Lock"],
+      "place_mentions": ["London", "St George's", "the Priory", "Lee Valley Leisure Centre", "Picketts Lock", "Tottenham Hale"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Handwritten page number '51' visible at top-right corner. Text continues from left page (hang-gliders). The 'Sat October 25th' heading is underlined. The time notation near arrival reads '[?20] 1.45' — possibly '20' is a number written above or alongside '1.45' and may be a correction or mileage; reading uncertain. Four or five asterisks follow 'Picketts Lock'. The text cuts off mid-sentence at the bottom ('twenty'). Year cannot be confirmed from this page alone; 'Sat October 25th' falls on a Saturday in several years within 1989–2003 (e.g. 1997, 2003)."
+    }
+  ]
+}

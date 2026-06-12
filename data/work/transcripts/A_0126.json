@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0126",
+  "volume": "A",
+  "pdf_page": 126,
+  "pages": [
+    {
+      "page_id": "A_0126_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday May 7\n   Drove to Saltash Bridge. We saw a Train. Sunshine.\n   We stopped for lunch at a wooden mill which had a museum, [?Ofculme], but we didn't see the museum because we had to go round with a bus party. Pretty looking. We could go another time. (Before lunch) we stopped to shop & visit for Chud at Dartington Cider Press) On to home up the I75.\n\nFriday May 27th\n   Simon, Eve, William, Peter, John, Charles, Justin, Buttor & Chris, au pair set off at 3.45. for Poltern to pick up Thomas.\n   At 7.20. we try a new Welsh campsite __Blaensan__ [?annotated]. Well-sheltered by trees. A Victorian farmhouse with [?loo] for campers. The farmer's wife's daughter lives in a house just below the farm. Clean loo, friendly people.\n\nSat Simon, Eve, Thomas, Peter, John, Charles, walk 1½ miles to the Mountain Centre. It's very cold & damp. Chris & Eve were cold in the night. Eve completely lost her voice. Simon beamed a great smile at breakfast & commented \"it will be a very restful weekend\"\n   The Mountain Centre was warm. Thomas, Peter & John went out with shrimp nets to pools & looked at what they found under microscopes. William & Justin stayed at the camp. Eve collected",
+      "dates": [
+        { "raw": "Saturday May 7", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Friday May 27th", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday May 7", "Friday May 27th"],
+      "underlined_places": ["Blaensan"],
+      "place_mentions": ["Saltash Bridge", "Ofculme", "Dartington Cider Press", "Poltern", "Blaensan", "Mountain Centre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "No handwritten page number visible in top-left corner. The museum name '[?Ofculme]' is uncertain — could be 'Ofculme', 'Offculme', or similar Devon village/mill name. 'I75' likely refers to a road number. 'Buttor' may be a name or abbreviation. The Welsh campsite name '__Blaensan__' is underlined and has an annotation that is difficult to read fully (appears to be 'Blaensan-[?uch]' or similar). The first section (Saturday May 7) and the second (Friday May 27th) may be from different years or the same trip; the May 7 section mentions Saltash/Dartington (Devon/Cornwall) and the May 27th section mentions a Welsh campsite. Year cannot be determined from this page alone; the volume covers 1989-2003."
+    },
+    {
+      "page_id": "A_0126_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[?topshit], helped by Charles, for her allotment, on the way back to the van.\n   We had lunch. At the end of lunch Tim, Margaret & Helen arrived. Some sun.\n   2.30. Simon, Thomas, Peter, Justin, Tim, Margaret & Helen went off on a 7 mile walk. William took John & Charles to look at the car dumps, over the stream in the wood. Chris & Eve rested & read & wrote letters. We saw a sheep being sheared on the farm.\n   When the walking party returned at 6.30. we had a barbeque. It was a lovely evening with some sunshine.\n\n   Sun A better day, sun at breakfast, but showers forecast for the afternoon. We all piled into the van & drove over a steep pass to [?Storod][?Silte]. The church service was in the evening. So we set off on a walk, instead. The others set off & by the time Simon & Eve left the van (notice about car burglaries) everyone had disappeared. So we followed Simon's map along the road & footpath 1½ miles to caves. __Porth-yr-Ogof__. Simon & Eve saw the cave & came up & the others arrived. We saw the cave again & potholers jumping off rocks & going into & out of the cave with crash helmets & lights. There is also a bench in proud & loving memory of Paul 1949-71 who in the cave sought truth & beauty.\n   We went on to see the Blue Pool, where the",
+      "dates": [
+        { "raw": "Sat", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Sun", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Sun"],
+      "underlined_places": ["Porth-yr-Ogof"],
+      "place_mentions": ["Porth-yr-Ogof", "Blue Pool"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.80,
+      "notes": "Page begins mid-sentence continuing from left page. Page ends mid-sentence — continues onto next spread. No handwritten page number visible. The first word '[?topshit]' is uncertain — likely 'topsoil' or similar, referring to Eve collecting garden material. The place name after 'steep pass to' is difficult to read — could be '[?Storod Silte]', '[?Strad Fellte]', or similar Welsh place name; 'Strad Fellte' (Pont Nedd Fechan area) is plausible given Porth-yr-Ogof cave context (Porth-yr-Ogof is in the Brecon Beacons near Ystradfellte). 'Blaensan' campsite and Welsh locations confirm this is a Wales trip. The memorial bench inscription reads 'Paul 1949-71' — a young person who died aged 21-22."
+    }
+  ]
+}

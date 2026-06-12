@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0217",
+  "volume": "B",
+  "pdf_page": 217,
+  "pages": [
+    {
+      "page_id": "B_0217_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Kler + Nana gave us supper in the Swan Hotel. Very good. Conrad has been behaving very well.\n\tSunday we packed up + left to watch at the Glad Mountain Gliding Club. We saw about 3 planes take off, [?spun] Fantastic vviews + [?ridge]. ([?we forgot [illegible]to])\n\tOn for fish + chips in Abergavenny. On to Raglan Castle. Lovely sunshine.\n\tThen on to home.\n__Tuesday [?7/6]th August__\n\t10 we left home + dropped Tinder off at kennels. The trafic + cars in the waiting area at the Channel Tunnel were lighter than usual.\n__Wednesday 7th August__\n\tWe camped next to a lake in a residential camp site, without paying at [?Humancourt] ** between [?Arras] + Cambrai.\n\tWe walked in the woods in the evening.\n\tThe lake was stipled with rain while we had breakfast + it hasn't stopped",
+      "dates": [
+        { "raw": "Tuesday [?7/6]th August", "iso_guess": "2013-08-06", "confidence": 0.5 },
+        { "raw": "Wednesday 7th August", "iso_guess": "2013-08-07", "confidence": 0.5 }
+      ],
+      "headings": ["Tuesday [?7/6]th August", "Wednesday 7th August"],
+      "underlined_places": [],
+      "place_mentions": ["Swan Hotel", "Glad Mountain Gliding Club", "Abergavenny", "Raglan Castle", "Channel Tunnel", "Humancourt", "Arras", "Cambrai"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Top of page continues from previous spread. 'Glad Mountain Gliding Club' may be 'Black Mountain Gliding Club' — the 'Gl' could be 'Bl' (faint). 'Humancourt' is uncertain; annotation reads 'between [?Arras] + Cambrai' added as interlinear note in smaller script. 'Tuesday [?7/6]th August' — the digit is ambiguous, possibly a correction from 7 to 6 or vice versa; if Tuesday=6th and Wednesday=7th August, year 2013 fits (Wednesday 7 Aug 2013). Year is uncertain — 0.5 confidence. 'Kler' may be a name or abbreviation. 'Conrad' appears to be a person (child). 'Tinder' is likely a pet (dog at kennels)."
+    },
+    {
+      "page_id": "B_0217_R",
+      "side": "R",
+      "handwritten_page_no": 37,
+      "blank": false,
+      "full_text": "raining during our trip on to St. Quentin.\n\tWe visited the wrong big church first + then found the Basilica. Its onomous + vertical.\n\n[Photo: labyrinth floor mosaic]\n\n__Labyrinthe at St Quentin__\n\n__Picardie__\n__Catthedrals__\n\n[Small map showing: Amiens, Beauvais, Noyon, Senlis, Laon, St Quentin, Soissons]",
+      "dates": [],
+      "headings": ["Labyrinthe at St Quentin", "Picardie", "Catthedrals"],
+      "underlined_places": [],
+      "place_mentions": ["St. Quentin", "Picardie", "Amiens", "Beauvais", "Noyon", "Senlis", "Laon", "Soissons"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Labyrinthe at St Quentin"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number 37 visible at top-right corner. Page contains a large glued-in photograph of a labyrinth/maze floor tile pattern (octagonal, black and white/gold tiles). Below that is a small printed/glued map of Picardie region showing cathedral towns including Amiens, Beauvais, Noyon, Senlis, Laon, St Quentin, Soissons with wheat-sheaf motif. 'onomous' likely means 'enormous' — writer omitted 'en'. 'Catthedrals' is spelled with double-t in diary. Text at top of page continues from left page (same trip, day continuing)."
+    }
+  ]
+}

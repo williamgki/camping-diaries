@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0332",
+  "volume": "A",
+  "pdf_page": 332,
+  "pages": [
+    {
+      "page_id": "A_0332_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "The dahlia walk: __Biddulph Grange Garden__ Staffordshire\n\nSaturday October 5th 2002 Simon, Eve & Tonic left home at about 11 & motored north. We had sandwiches in the carpark of __Biddulph__ Grange Garden.",
+      "dates": [
+        { "raw": "Saturday October 5th 2002", "iso_guess": "2002-10-05", "confidence": 0.98 }
+      ],
+      "headings": ["Biddulph Grange Garden"],
+      "underlined_places": ["Biddulph Grange Garden", "Biddulph"],
+      "place_mentions": ["Biddulph Grange Garden", "Staffordshire"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["The dahlia walk: Biddulph Grange Garden Staffordshire"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Page is dominated by a large colour photograph of the dahlia walk at Biddulph Grange Garden, Staffordshire. The photo caption is handwritten diagonally across the bottom-right of the photo. Text below is the start of the diary entry for Saturday October 5th 2002. No handwritten page number visible in the top-left corner. 'Tonic' appears to be a pet (dog) name. The underline on 'Biddulph' in the final sentence is uncertain — it may be the garden name underlined as a heading; transcribed accordingly."
+    },
+    {
+      "page_id": "A_0332_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "It has hardly raind for a month. We walked round the Garden dry, but it's raining quite heavily later in the afternoon. This is one of the most interesting gardens that I have seen. It was designed in the 1850/60s, when plant collectors were bringing back specimens & Darwin wrote \"The origin of species\". The family were related to the Egerton-Warburtons of Arley Hall.\n  The garden is divided into different sections, different microclimates, with follies providing connecting tunnels. We saw the dahlia walk in all its October splendour - it looked just like the postcard. We also saw the Chinese, Indian & Egyptian gardens, & a magnificent pinetum. The gardeners had used upsidedown pine-tree root stumps as interesting ground cover. We finally found the verbena parterre & there was a beautiful smooth velvety-leaved plant which smelled of lemon. A kind, wicked N.T. volunteer stole a leaf for me to use as",
+      "dates": [
+        { "raw": "Saturday October 5th 2002", "iso_guess": "2002-10-05", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Arley Hall", "Biddulph Grange Garden"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues from left page; no explicit page number visible in top-right corner (possibly cropped). 'Staffordshire' is written vertically in the left margin (bleed from left page or repeated label). 'raind' is the diary's spelling (not 'rained'). 'Darwin' written as 'Darwin' — the diarist spells it 'Darwin' but the word 'Darwin' here refers to Charles Darwin. 'Egerton-Warburtons' is the family surname; 'Arley Hall' is in Cheshire. 'N.T.' = National Trust. Text ends mid-sentence, continuing to the next spread."
+    }
+  ]
+}

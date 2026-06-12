@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0177",
+  "volume": "B",
+  "pdf_page": 177,
+  "pages": [
+    {
+      "page_id": "B_0177_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "\"Stand by Dame Anne\"\n\"She was bloody marvellous\"",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.95,
+      "notes": "Page contains a glued-in coat of arms/crest with 'LUCY CAVENDISH' text (printed, not handwritten). Below the crest are two handwritten quotations: \"Stand by Dame Anne\" and \"She was bloody marvellous\". These likely refer to Dame Anne Campbell, a former Principal of Lucy Cavendish College, Cambridge. No page number visible."
+    },
+    {
+      "page_id": "B_0177_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Van Log  Friday 14th October 2011\n                    -October 2017\n86 Westfield G, Edgbaston, Birmingham B15 3Jo.\n\nFood & drink from Ameno, Lake Orta, N. Italy",
+      "dates": [
+        { "raw": "Friday 14th October 2011", "iso_guess": "2011-10-14", "confidence": 0.9 },
+        { "raw": "-October 2017", "iso_guess": "2017-10", "confidence": 0.85 }
+      ],
+      "headings": ["Van Log"],
+      "underlined_places": [],
+      "place_mentions": ["Ameno", "Lake Orta", "Edgbaston", "Birmingham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Food & drink from Ameno, Lake Orta, N. Italy"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Top of page reads 'Van Log  Friday 14th October 2011 -October 2017' suggesting this is the front matter or ownership/log page for the van, covering the period October 2011 to October 2017. Address given: 86 Westfield G[?road/grove/gardens], Edgbaston, Birmingham B15 3Jo[?]. The middle initial of the street abbreviation is unclear — could be 'Rd', 'Gv', or similar. The postcode ends '3Jo' — the final character may be a letter or digit. A photo of food and drink is glued in, with a vertical caption along its left edge: 'Food & drink from Ameno, Lake Orta, N. Italy'. No handwritten page number visible."
+    }
+  ]
+}

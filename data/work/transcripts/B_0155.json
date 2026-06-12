@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0155",
+  "volume": "B",
+  "pdf_page": 155,
+  "pages": [
+    {
+      "page_id": "B_0155_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Susana Triana likes this artist Zurbaran still life with 4 vases 1658-64. Prado\n\nEl Caldero where we ate",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Prado", "El Caldero"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Susana Triana likes this artist Zurbaran still life with 4 vases 1658-64. Prado", "El Caldero where we ate"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in photo of a Zurbaran painting (still life with vases), with handwritten caption beside it referencing the Prado museum. Below the photo is a separate caption 'El Caldero where we ate' (a restaurant name). No handwritten page number visible."
+    },
+    {
+      "page_id": "B_0155_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "It took ages to find the campsite, circling round the lakes. We are near the source of the R. Aouro, [strikethrough]near[/strikethrough] __El Frontal__ ****\nnear the Embalse de la Cuerta del Pozo. in the hills of Orbion. It promised a washing machine, but there isn't one. So I did a big handwash + then I swam (Simon + Charles paddled) in the enormous lake. There's a huge expanse of land under pine trees, but not that many campers. Graffiti + broken handles + locks in the loos. A lovely campsite.\n__Friday__\n\tWe had a restful day. Simon + Eve walked 2 miles to a bar along the lake where they rent out boats, but there were only canoes, no windsurfer.\n\tIn the afternoon we swam. The campsite is underused. Showers I had were luke warm, the door handles broken + doors had graffiti. It's run by gov't agriculture dept. But the setting + the lake are beautiful.\n__Saturday__\nWe left + motored around the hills to see another campsite, no lake, more crowded.",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Friday", "Saturday"],
+      "underlined_places": ["El Frontal"],
+      "place_mentions": ["El Frontal", "Embalse de la Cuerta del Pozo", "Orbion", "R. Aouro"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "El Frontal is underlined and followed by what appear to be star symbols (****). The text has a strikethrough on the word 'near' before 'El Frontal'. 'R. Aouro' could be the River Arlanza or another Spanish river — hard to read precisely, possibly 'Aouro' or 'Aboro'. 'Embalse de la Cuerta del Pozo' is likely 'Embalse de la Cuerda del Pozo' (a reservoir in the Soria province, Spain, in the hills of Urbion/Orbion). 'Orbion' is likely 'Urbion' (Sierra de Urbión). No handwritten page number visible in top-right corner. Year cannot be determined from this page alone; context of Spain trip, Prado visit, and family members mentioned (Simon, Charles, Eve) suggests a summer holiday."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "spread_id": "B_0162",
+  "volume": "B",
+  "pdf_page": 162,
+  "pages": [
+    {
+      "page_id": "B_0162_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We arrived at the [?grange] + Simon's Mary welcomed us with coffee. We drove off + looked at the little church. lovely kneelers. They had given 2 cows to Africa for the Millennium. We had lunch at the Hand. Then Simon took us on a very strenuous walk up a vertical hill. It's very pretty there. Back in Oswestry we visited the church + church centre. Pat Gregory's father was church warden in the 1970's + his name is there. Mary cooked us a delicious supper + we came home.\n\n        May 17th Sunday.\n  2pm we set off in the rain to take Margaret + Helen out. to tea.\n        We turned off the main road at Bewdley + drove along a very narrow lane to sit in a field with nice wooden shacks round the edge of it. The train went by a few times. It rained + it rained. Then we took Margaret + Helen back to Trimpley + went home.",
+      "dates": [
+        { "raw": "May 17th Sunday", "iso_guess": "1998-05-17", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Oswestry", "Bewdley", "Trimpley"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page begins mid-narrative; the word before 'Simon's' looks like 'grange' or 'range'. The Hand likely refers to a pub. The year is not directly stated on this page; the volume covers 2003-2019 but the content mentions the Millennium (year 2000) as past tense, and may fit an earlier part of volume B or late 1990s/early 2000s — year is uncertain."
+    },
+    {
+      "page_id": "B_0162_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "May 31st Sunday\na glorious afternoon. We took Helen + Margaret out to tea. Hampton Lode was full of traffic + traffic jams, so Simon drove towards Arley, found a field - the same view as from the Trimpley summerhouse.\n\n        __Saturday July 18th__\n        We took Grandma + Helen out to [?&] lunch again on tiny roads near Trimpley\n\n        __Friday July 24th__\nJohn, Simon, Eve + Tonic went along beyond Kings Norton, right before Wythall along Icknield St. On the way Simon showed John where he caught the bus + grew up at Kings Norton, Fairenoad Rise.\n        We parked by a gate for supper, looking at a view of sheep in a field. We couldn't get the van off the road to walk. It was 9.15, so we came home.",
+      "dates": [
+        { "raw": "May 31st Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Saturday July 18th", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Friday July 24th", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday July 18th", "Friday July 24th"],
+      "underlined_places": [],
+      "place_mentions": ["Hampton Lode", "Arley", "Trimpley", "Kings Norton", "Wythall", "Icknield St", "Fairenoad Rise"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "Top right corner shows a partial character that may be a page number but is not clearly legible; recorded as null. 'Fairenoad Rise' may be 'Fairfax Road' or similar — transcribed as written. 'Tonic' likely a pet (dog). The symbol after 'out to' in the July 18th entry may be '&' or 'a'. No year stated on this page; year uncertain — could be late 1990s or early 2000s based on context."
+    }
+  ]
+}

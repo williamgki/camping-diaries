@@ -1,0 +1,46 @@
+{
+  "spread_id": "B_0249",
+  "volume": "B",
+  "pdf_page": 249,
+  "pages": [
+    {
+      "page_id": "B_0249_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "They wd. take dogs. Tinder was allowed in the bedroom & given a sausage for breakfast. (John is embarrassed that we have called the dog Tinder because it is a sex website. People laugh when they hear us calling the dog.) Supper in van\n\n__Saturday__\nSimon & I spent ages in the second hand book shop. John arrived at 11.15  We had coffee in the van wandered in town & lunch in the van. Then we went in John's whizzy turquoise car to Symonds Yat. Fantastic views. Strenuous walk. Supper at B+B owner (Judy's) brother's Bistro in town. Good Portugese cook. Tagine. B+B v. comfortable but carpets grubby. John drove to Symonds Yat, Simon drove back. V. powerful, noisy engine.\n\n__Sunday April 26__[th]\nAnother huge breakfast & on to Tintern Abbey. Gorgeous ride thro spring green colours. V. cold. Peaceful Abbey, well worth a visit. After coffee John set off back to the Mumbles & Simon & Eve & Tinder had lunch in the van at Westbury Court Garden.",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sunday April 26th", "iso_guess": "2015-04-26", "confidence": 0.45 }
+      ],
+      "headings": ["Saturday", "Sunday April 26th"],
+      "underlined_places": [],
+      "place_mentions": ["Symonds Yat", "the Mumbles", "Tintern Abbey", "Westbury Court Garden"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page continues mid-paragraph from previous spread; no handwritten page number visible at top-left. 'April 26' falls on a Sunday in 2015 within the volume's 2003–2019 range — also possible 2009. Year not explicitly stated on page; iso_guess tentative. 'the Mumble...' reads as 'the Mumbles' (Swansea area). 'Symonds Yat' spelled as written (no apostrophe in original for 'Symond's'). 'Portugese' sic — original spelling preserved."
+    },
+    {
+      "page_id": "B_0249_R",
+      "side": "R",
+      "handwritten_page_no": 69,
+      "blank": false,
+      "full_text": "Cistercian Monks, 11[th]B. Liked isolated places. R. Wye\n\nWe drove over hills from Wye to Severn.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Tintern", "R. Wye", "Wye", "Severn"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["TINTERN", "Cistercian Monks, 11[th]B. Liked isolated places. R. Wye"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Page is dominated by a glued-in colour postcard/photo of Tintern with the printed caption 'TINTERN'. Below the postcard, handwritten text reads 'Cistercian Monks, 11[th]B. Liked isolated places. R. Wye' — '11B' likely abbreviates '11th century' (C) or similar; '[th]' and 'B' partially unclear. Final line: 'We drove over hills from Wye to Severn.' Left gutter shows overflow text from the left page; not duplicated here."
+    }
+  ]
+}
