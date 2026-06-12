@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0075",
+  "volume": "A",
+  "pdf_page": 75,
+  "pages": [
+    {
+      "page_id": "A_0075_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "had lunch, + then set off to shop in Brownie + at a supermarket. We arrived at the campsite at 5.30. Laura + her father + Benjamin had already been here an hour, because we had said that we would arrive at 4. It is peaceful with an orchard + ping pong. Quite low key + old showers, but clean + friendly.\n\tEve beat everyone at ping pong, except Thomas, who beat Eve 22-20.\n\n__Sat 7th Aug__\n\tWe got up at 5.3[0]15. + left at 6.15, without breakfast. We ate breakfast while mincing along in the traffic jams. On the boat we just had sandwiches + watched Sean Connery in \"Medicine Man\".\n\tAfter Southampton we called in on Hathie, but unfortunately they were all out. There were awful traffic jams. Finally we stopped + had tea in an almost",
+      "dates": [
+        { "raw": "Sat 7th Aug", "iso_guess": "1993-08-07", "confidence": 0.35 }
+      ],
+      "headings": ["Sat 7th Aug"],
+      "underlined_places": [],
+      "place_mentions": ["Southampton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text continues from previous page (no heading visible at top). 'Brownie' may be the name of a van or shop. The time '5.3[0]15' is ambiguous — could read '5.30' or '5.315' or '5.315'; most likely '5.30' or '5.315' meaning perhaps 5:30-ish. 'Medicine Man' starring Sean Connery was released in 1992, suggesting the year is 1992 or 1993. Sat 7th Aug falls on Saturday in 1993; Sat 15th Aug (right page) falls on Saturday in 1992 — the two dates cannot both be Saturday in the same year, so year assignment is uncertain. Used 1993 as best guess for Sat 7th Aug, confidence low."
+    },
+    {
+      "page_id": "A_0075_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "deserted Newbury station, where we picked hundreds of blackberries. After Newbury the traffic moved faster up to Birmingham.\n\tIt was a fabulous holiday. Noone got sick. Thomas, William + Peter now have a rota for doing the washing up + drying up, while Eve reads aloud, which makes life much easier.\n\tThomas most liked Cassanouse; William most liked the pedal boats + pedalo fights, + Peter most liked the first French restaurant we went to, St. Pierre, where we ate just what they put in front of us, + we did not choose from a menu.\n\n__Sat 15th August__\n\tWe set off at 10.35., Eve, Laura, Thomas, William, Peter, John + Charles, to spend the night at Annette's on the",
+      "dates": [
+        { "raw": "Sat 15th August", "iso_guess": "1992-08-15", "confidence": 0.35 }
+      ],
+      "headings": ["Sat 15th August"],
+      "underlined_places": [],
+      "place_mentions": ["Newbury", "Birmingham", "Cassanouse", "St. Pierre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text continues from left page (mid-sentence at top: 'deserted Newbury station'). 'Cassanouse' is uncertain — could be 'Cassamous', 'Cassamouse', or a French place name such as 'Cassagnes' or similar; written with unclear final syllable. 'St. Pierre' is a place or restaurant name. Year uncertainty: Sat 15th Aug is a Saturday in 1992 but not 1993; Sat 7th Aug (left page) is a Saturday in 1993 but not 1992 — dates appear to be from different trips or one day label is slightly inaccurate. Used 1992 as best guess for Sat 15th Aug, confidence low. Text ends mid-sentence at bottom."
+    }
+  ]
+}

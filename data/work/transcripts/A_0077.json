@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0077",
+  "volume": "A",
+  "pdf_page": 77,
+  "pages": [
+    {
+      "page_id": "A_0077_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "concert, William babysat John + Charles in the van while Simon, Eve, William + Peter went in to hear Thomas play in a Mozart quartet.\n__Saturday 30th August__\n\tWe went into Gloucester + looked around the antique warehouse + the walked right around the old docks at Gloucester, looking at the history + layout. After Thomas' orchestral concert (works by Thea Musgrave, Schubert's Unfinished Symphony, Barber of Seville by Rossini, Britten's Matinée Musicale), we drove home\n\n__Saturday 5th September__\n\tWe set off at 8.50. + had breakfast on the motorway services. Not a good idea — queues + queue-bargers. We arrived at the __Peak District__ + walked for 3 hours in __Goyt Valley__. Good weather, despite the forecast. People paragliding near a disused railway.\n\tAt 3.30 we left for Buxton + walk[ed]",
+      "dates": [
+        { "raw": "Saturday 30th August", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Saturday 5th September", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Saturday 30th August", "Saturday 5th September"],
+      "underlined_places": ["Peak District", "Goyt Valley"],
+      "place_mentions": ["Gloucester", "Peak District", "Goyt Valley", "Buxton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page is a continuation from previous spread — text begins mid-sentence ('concert, William babysat...'). Two separate dated entries: 'Saturday 30th August' (trip to Gloucester for Thomas' orchestral concert) and 'Saturday 5th September' (Peak District/Goyt Valley walk). These cannot both fall in the same year as they are only 6 days apart but both on a Saturday; they are likely from different years. No year is stated on the page; year cannot be reliably determined from the text alone. There is a small superscript annotation (possibly '12.25' or similar) above 'the Peak District' — possibly a page reference or time. The word 'the' appears struck through before 'walked right around' (diarist started a word and corrected)."
+    },
+    {
+      "page_id": "A_0077_R",
+      "side": "R",
+      "handwritten_page_no": 137,
+      "blank": false,
+      "full_text": "into the town. We saw the museum + art gallery, with models of prehistoric scenes. The Crescent is boarded up. The proportions are lovely, like Bath, but not so large + awe-inspiring. There is also a hospital with a dome + a hotel in the same style. The Pavillion, glassed-in, reminded us of Malvern. We saw the spring where the water is bottled.\n\tWe reached the campsite at 6.0. King Sterndale, east of Buxton.\n\tWe camped across the road from an old church which only had a service in the afternoon. The evening was fine, but it started to rain in the night. Siri, the new German au pair, moved into Thomas's + Peter's tent in the middle of the night, + Thomas obligingly moved out into hers.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Bath", "Malvern", "King Sterndale", "Buxton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Page continues the Saturday 5th September entry from the left page. Handwritten page number 137 visible in top-right corner. 'The Crescent' refers to the Crescent in Buxton (Georgian building). 'King Sterndale' is described as 'east of Buxton' — this is consistent with the real village of King Sterndale near Buxton, Derbyshire. 'Pavillion' is the writer's spelling (one 'l' dropped from 'Pavillion'). Text cuts off at right edge of left page with 'walk[ed]' — the right page picks up 'into the town'."
+    }
+  ]
+}

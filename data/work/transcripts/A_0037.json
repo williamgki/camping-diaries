@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0037",
+  "volume": "A",
+  "pdf_page": 37,
+  "pages": [
+    {
+      "page_id": "A_0037_L",
+      "side": "L",
+      "handwritten_page_no": 69,
+      "blank": false,
+      "full_text": "April 12th 1991 Friday.\n    We set off at 5 pm to Oxfordshire. Simon, Eve, William, Peter, John & Charles. For the first time we have left the push chair behind & just brought the carry pack.\n    We are camping at __Folly Farm**__ Beckley, a large windy field on top of a hill with a view across a misty plain. No lav. Beehives. Aflashing radio antennae. William & Peter sleep in the big tent. Charles (who will be 2 the last day of the trip) fiddles with everything.\n__Saturday.__  We walk through Beckley, a lovely pasture woody walk, where there are tripod pheasant feeders. Marshy. Charles walked ½ mile. We [?cycled] to Otmoor. [Cycling?]",
+      "dates": [
+        { "raw": "April 12th 1991 Friday", "iso_guess": "1991-04-12", "confidence": 0.98 },
+        { "raw": "Saturday", "iso_guess": "1991-04-13", "confidence": 0.9 }
+      ],
+      "headings": [],
+      "underlined_places": ["Folly Farm"],
+      "place_mentions": ["Oxfordshire", "Folly Farm", "Beckley", "Otmoor"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "The campsite name 'Folly Farm' is underlined and followed by two asterisks (**). The last line is partially cut off at the bottom of the page — appears to end with a word beginning with 'C' that could be 'Cycling' or 'Cycled'. 'Aflashing' may be 'A flashing'. The ** after Folly Farm may indicate a footnote or annotation."
+    },
+    {
+      "page_id": "A_0037_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "In the afternoon we drove to Oddington, walked to see the [?Skew Ray] river & looked at the church. There was a horrendous frass in the chancel of a skeleton with worms eating it. At the back of the church was an amazingly long old wooden ladder, to reach the tower, made out of very long trees. The rungs had been renewed.\n    It was cold & windy in the night. On __Sunday__ we started early to get to Beckley Church for \"9.15. Eucharist with Music\" — an old woman in vegetable sellers gloves played the organ — well & fast. V. Friendly; a woman fetched children's books from her house so that John & Charles could read them. The children were good. We sat in front of a mural of the jaws of hell & gates of heaven. After the service William was shown a wall painting of people in scales with Mary Magdalen weighing down her side & the Devil [pulling?]",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": "1991-04-14", "confidence": 0.88 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Oddington", "Beckley Church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.83,
+      "notes": "The river name after 'Oddington' is unclear — could be 'Skew Ray', 'New Ray', or something else entirely; the first word may be 'New' or 'Skew'. The page number in the top-right corner is not visible in the scan. The page text is cut off at the bottom — last visible word appears to be the start of a phrase about the Devil. 'Sunday' is underlined."
+    }
+  ]
+}

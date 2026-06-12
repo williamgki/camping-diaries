@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0062",
+  "volume": "A",
+  "pdf_page": 62,
+  "pages": [
+    {
+      "page_id": "A_0062_L",
+      "side": "L",
+      "handwritten_page_no": 120,
+      "blank": false,
+      "full_text": "on a bench at the front, although there were 7 empty pews. A sermon on the Trinity.\n\tWe returned to the campsite when the children reluctantly did their homework & wrote letters. Charles lost his purse at the swings.\n\tWe set off for home past the old Roman canal, linking Lincoln with the R. Trent. (The land needs drainage ditches.) \"Llyn\" is Celtic for pool. \"Coln\" comes from the Roman Colonia.\n\n[Route sketch labels:]\nR. Trent\nFossedyke\nRoman Canal\nBraypool\nLincoln\nLincoln Gap\nR. Witham\nR. Wibblen\nFosse Way Bath to Humber\nescarpment from Cotswolds, Samestone\n[?Todston]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Lincoln", "R. Trent", "Fossedyke", "Braypool", "Lincoln Gap", "R. Witham", "R. Wibblen", "Fosse Way", "Bath", "Humber", "Cotswolds", "Samestone"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn map in the lower half of the page showing the area around Lincoln. Labels include: R. Trent (left/west side), Fossedyke Roman Canal (running roughly east-west), Braypool (a settlement on or near the canal), Lincoln (labelled with an arrow pointing to it), Lincoln Gap (right/east side), R. Witham (running south-east from Lincoln), R. Wibblen (a river label to the south/south-west), Fosse Way Bath to Humber (bottom-left, indicating the Roman road alignment), and 'escarpment from Cotswolds, Samestone' (bottom-centre/right). A partially visible label at the far right edge reads '[?Todston]' — possibly Torksey or Todeston. Lines and arrows indicate the course of rivers, the canal and the ridge/escarpment.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page begins mid-entry (continuation from previous spread). The text discusses the Fossedyke (Roman canal linking Lincoln to the R. Trent) and gives etymological notes on 'Llyn' and 'Coln'. The partially visible label at the bottom-right edge of the route sketch could read 'Torksey', 'Todeston', or similar — transcribed as '[?Todston]'. Year cannot be determined from this page alone; see right page notes."
+    },
+    {
+      "page_id": "A_0062_R",
+      "side": "R",
+      "handwritten_page_no": 121,
+      "blank": false,
+      "full_text": "We stopped in at a camping stop near Lichfield. There were several electric power stations on the River Trent, each with a hill of coal brought by barge from the Yorkshire & Nottinghamshire coal fields.\n\nJuly 19th Sunday\n\tWe all left at 9.30. for Portsmouth then had to go back home from Selly Oak for Simon to switch off Thomas' keyboard & other electrics.\n\tWe had lunch in the queues on the quayside, & had to keep interrupting to move up. On the boat we paid to see Hook, then had a delicious, eat-as-much-as-you-want meal by P&O for £50.\n\tOnce off the boat we motored for ½ - 1 hr. to a small campsite in a village, ending up in the dark by mistake in the residential end. ** Pont-Audemer\n\nJuly 20th\n\tWe set off & found a prettier campsite",
+      "dates": [
+        { "raw": "July 19th Sunday", "iso_guess": "1992-07-19", "confidence": 0.75 },
+        { "raw": "July 20th", "iso_guess": "1992-07-20", "confidence": 0.7 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Lichfield", "River Trent", "Yorkshire", "Nottinghamshire", "Portsmouth", "Selly Oak", "Pont-Audemer"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "The word 'Todston' visible at the bottom-left edge of this page is the continuation of the route sketch label that bleeds across from the left page gutter — not transcribed again here. 'July 19th Sunday' matches 1992 within the volume's range (1989–2003); July 19 was also a Sunday in 1998, but the film 'Hook' (Spielberg, 1991) was in wide release by 1992 and the P&O ferry context (Portsmouth to northern France) supports a family holiday to Normandy. Pont-Audemer is a town in the Eure department of Normandy, France. 'Selly Oak' is a suburb of Birmingham. The '**' before Pont-Audemer may indicate a campsite reference or annotation. The text ends mid-entry (page continues on next spread)."
+    }
+  ]
+}

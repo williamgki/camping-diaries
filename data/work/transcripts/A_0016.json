@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0016",
+  "volume": "A",
+  "pdf_page": 16,
+  "pages": [
+    {
+      "page_id": "A_0016_L",
+      "side": "L",
+      "handwritten_page_no": 26,
+      "blank": false,
+      "full_text": "John & Charles were too tired for another walk, so we rested in the van while the others walked around Robin Hood's Butts. It was warmer\n\tAfter tea we set off home, after the children had watched some model aeroplane flying.\n\nMay 30th 1990.  We have set off for __Dinas__ with Matt Portal, Claire 7 & Peter 4.  Jane is in Korea.\n\tOn the way, Simon noticed the Welshpool steam railway. So at the next station, Eve & all the children went by train for 20 minutes to the terminus. Matt & Simon & Charles overtook them in the car & van. It was lovely & leafy & green after the hot van. We crossed a stream &",
+      "dates": [
+        { "raw": "May 30th 1990", "iso_guess": "1990-05-30", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": ["Dinas"],
+      "place_mentions": ["Robin Hood's Butts", "Dinas", "Welshpool"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Top of page continues from a previous entry (prior page). 'Robin Hood's Butts' is the place name as written. 'Dinas' is underlined in the original. The final sentence is cut off at the bottom of the page."
+    },
+    {
+      "page_id": "A_0016_R",
+      "side": "R",
+      "handwritten_page_no": 27,
+      "blank": false,
+      "full_text": "rode along by it. The train was smokey & smelly & had wooden seats.\n\tWhen we all met up we had a picnic lunch & drove on to Dinas.\n\tThe next day we left on a tricky walk from the campsite – rocky – every footstep counted. Claire found it rather hard work. We had elevenses on the walk. Just when we had a clear view of the main road, we came to the top of a rise of rocks … and there was a deep, tree-filled gorge between us & the road. So we had to go back across a barbed-wire fence & find a way around it. Simon raced home with Charles on the pack to get lunch ready (leaving me to piggyback John) only to find the soup still frozen.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Dinas"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues directly from left page. 'Dinas' is named as the destination driven to after the train ride. The word at the very end reads 'frozen' — the entry appears to continue on the next page."
+    }
+  ]
+}

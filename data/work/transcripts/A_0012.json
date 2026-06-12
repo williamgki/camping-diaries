@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0012",
+  "volume": "A",
+  "pdf_page": 12,
+  "pages": [
+    {
+      "page_id": "A_0012_L",
+      "side": "L",
+      "handwritten_page_no": 18,
+      "blank": false,
+      "full_text": "April 20th.\nWe set off + left John + Charles with Grandma + Grandpa. Then on to Di + Ian at, [?Nortom] [?Combe], [Waterbourne written above in different ink/annotation]. We stayed the night in their garden, using the bathroom in the bungalow. Great! We went for ~~The next~~ a walk up Windmill Hill.\n\tThe next morning we saw the Great Barn museum at __Avebury__, + walked around the Standing Stones. The wood turner made a rattle for Charles.\n\tIn the afternoon we walked up to West Kennet Long Barrow, into the Neolithic Burial Chamber.\n\tWe drove on and looked around __Devizes__. Antique Book Shop, drinks. We camped at the Lakeside, Rowde ***. Lots of water, glad to have left John + Charles behind.\n\tIn the evening we walked a mile along the foot path up to the Bear for supper",
+      "dates": [
+        { "raw": "April 20th", "iso_guess": "1989-04-20", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": ["Avebury", "Devizes"],
+      "place_mentions": ["Windmill Hill", "Avebury", "West Kennet Long Barrow", "Devizes", "Rowde"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "The destination 'Di + Ian at' is followed by a partially legible place name that could read 'Nortom Combe' or 'Norton Combe'; the word 'Waterbourne' (or similar) is written above it in what appears to be a different ink, possibly a later annotation or correction. 'The next' is struck through and replaced with 'a walk'. Year is not directly stated on this page; the volume covers 1989-2003 and this is near the start (pdf_page 12), loosely suggesting early in the volume, but confidence in the year is low."
+    },
+    {
+      "page_id": "A_0012_R",
+      "side": "R",
+      "handwritten_page_no": 19,
+      "blank": false,
+      "full_text": "At the top of the field a tree had blown over + we had to climb up 10ft to get over it. Simon + I had home made apple pie.\n\tThe weather is cold – a cold wind.\nApril 21st.\n\tAt Rowde a man lived who was later burned as a heretic at Salisbury in the reign of Bloody Mary.\n\tWe went to Bowden Hill, St. Anne, [?lay reader] for Church BCP communion. Sermon too long. Then on to __Lacock__, museum for\n\tFox-Talbot, inventor of photography 1839. He inherited the Abbey when he was 27 in 1827. Not only was he [?able] in cuneic script, Physics, Maths ([?1/2]\" Wrangler) + photo chemistry, he was also a magistrate + MP, working for the",
+      "dates": [
+        { "raw": "April 21st", "iso_guess": "1989-04-21", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": ["Lacock"],
+      "place_mentions": ["Rowde", "Salisbury", "Bowden Hill", "St. Anne", "Lacock"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "This page is a continuation from the left page (L); the text begins mid-sentence ('At the top of the field...'). The annotation 'lay reader' appears above the line near 'St. Anne'. The text ends mid-sentence at the bottom of the page ('working for the'), continuing on the next spread. Year not stated on page; same confidence caveat as left page. '1/2\" Wrangler' may refer to 'Second Wrangler' (Cambridge maths rank) — transcribed as seen."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "spread_id": "B_0050",
+  "volume": "B",
+  "pdf_page": 50,
+  "pages": [
+    {
+      "page_id": "B_0050_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "INFORMAL CONCERT\n\nSunday 17th October 2004 : 7.30 p.m. St Edmundsbury Hall\n\nBahnante\nModerate\nBlack and white Blues\nCurtain Call Blues\nThe (trumpet)\nJudith McCarthy (trombone) Gregory Smithford (piano)\nTell me Lovely Shepherd (from) Shalom\nArdante\n\nAlso listed:\nIan Wright\nHaydn\nHarris\nPaul Churchill\nPeter Churchill\nE. Poston\nCappuzzi",
+      "dates": [
+        {
+          "raw": "Sunday 17th October 2004",
+          "iso_guess": "2004-10-17",
+          "confidence": 0.95
+        }
+      ],
+      "headings": [
+        "INFORMAL CONCERT"
+      ],
+      "underlined_places": [],
+      "place_mentions": [
+        "St Edmundsbury Hall"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "printed",
+      "legibility": 0.85,
+      "notes": "Printed concert program glued into diary. Text is printed on orange background. Some text at margins may be partially cut off or unclear due to orientation and image quality."
+    },
+    {
+      "page_id": "B_0050_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Cappuzzi\nC. Devereux\nMadelaine Dring\nLars Erik Larsen\nB. Mollique\nJ.S. Bach\nShostakovich\nJ.S. Bach\n\nAndante\nAndante McCabe (tuba)\nIonian Dance\nTrombane Concerto - 3rd movement\nAndante from Concerto\nAn Abvad as Kile wait \"Wade doch, Herrera, Greyford Tempoei\"\nSonata Movement No.2\nPartia C Minor - 1st Movement\nJ.S. Bach\n\nAlso visible:\nAndante",
+      "dates": [
+        {
+          "raw": "2004",
+          "iso_guess": "2004",
+          "confidence": 0.90
+        }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [
+        "C Minor"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "printed",
+      "legibility": 0.78,
+      "notes": "Printed concert program continuation. Right page shows musician names and musical pieces. Some text is difficult to read clearly due to orange background and print quality. Text at various angles on orange background makes reading challenging in places."
+    }
+  ]
+}

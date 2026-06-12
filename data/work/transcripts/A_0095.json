@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0095",
+  "volume": "A",
+  "pdf_page": 95,
+  "pages": [
+    {
+      "page_id": "A_0095_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "through farmlands. Charles keeps noticing sunflower plants because he grew one at school.\n\n     We spent the night at Withers, Le __Long Pres.__** For supper we went to Than to the Au __Lion de Belfort.__\n\n     It was raining, so we all slept in the van with John between Simon + Eve. Eve got clunked once in the night with his cast.\n__12__th  We drove of past __Lucerne__ + over the __St. Gottard.__ Snow, old paved stone & cobbled road with pink stripe down the middle. Blinding sunshine on snow. We got out + walked around.\n     About 18 miles south of the pass we came to the __St. Gottard campsite**__ It was perched on the side of a hill - we were right next to a big field. A slide led down out of our pitch into  the children's playground where William",
+      "dates": [
+        { "raw": "12th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Long Pres.", "Lion de Belfort", "Lucerne", "St. Gottard", "St. Gottard campsite"],
+      "place_mentions": ["Long Pres.", "Lion de Belfort", "Lucerne", "St. Gottard", "St. Gottard campsite"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page number not visible at top. Text begins mid-sentence ('through farmlands...') indicating continuation from previous page. 'Withers, Le Long Pres.' may be a campsite name — 'Long Pres' could be 'Long Prés' (French). 'Au Lion de Belfort' is a restaurant/inn name. 'St. Gottard' is the diarist's spelling of St. Gotthard Pass, Switzerland. The '12th' date is underlined. Year cannot be determined from this page alone; context (Lucerne, St. Gotthard, European trip) is consistent with the volume range 1989–2003. 'Belfort' likely refers to the town in Alsace, France, or a restaurant name near there."
+    },
+    {
+      "page_id": "A_0095_R",
+      "side": "R",
+      "handwritten_page_no": 10,
+      "blank": false,
+      "full_text": "[hand-drawn sketch of mountain pass road with glued-in photo]\n\nIcy cold, earache. The __St. Gottard__ [Pass?]\n\n+ Peter + John + Charles spent hours playing. There was also a little wooden swimming pool with a cover to keep in the heat at night. W, P + C swam. We shared 5 pizza among the 7 of us + had ice creams for supper.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["St. Gottard"],
+      "place_mentions": ["St. Gottard"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn sketch of a mountain pass road winding through hills/mountains, with a glued-in rectangular photo (appears to show the pass road/landscape). The sketch shows curving road lines, mountain contours, and what appears to be a valley. A caption below reads 'Icy cold, earache. The St. Gottard [Pass?]' with a horizontal line separating it from the main text. The sketch appears to depict the St. Gotthard Pass approach from above.",
+      "photo_captions": ["Icy cold, earache. The St. Gottard [Pass?]"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number '10' visible in top-right corner. The page contains a hand-drawn mountain/road sketch with a glued-in photo. The caption 'The St. Gottard [Pass?]' — final word partially cut off at right margin, likely reads 'Pass' or 'Passstrasse'. 'St. Gottard' is the diarist's consistent spelling of St. Gotthard. 'W, P + C swam' likely refers to William, Peter and Charles. 'pizza' appears to be the diarist's spelling of 'pizzas'. Text at top ('+ Peter + John + Charles spent hours') is a continuation from the left page."
+    }
+  ]
+}

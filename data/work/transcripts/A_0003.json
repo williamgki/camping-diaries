@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0003",
+  "volume": "A",
+  "pdf_page": 3,
+  "pages": [
+    {
+      "page_id": "A_0003_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "[illegible] [?1st] [?Camp] [illegible]\n[illegible]\n[illegible]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.15,
+      "notes": "Page contains one glued-in photograph showing a man cleaning/washing the windscreen of a white camper van at a campsite with trees in the background and a washing line visible. Very faint pencil handwriting appears in the top-left margin area of the page, largely illegible; possibly reads '1st Camp[er?]' and further lines below but cannot be read with confidence."
+    },
+    {
+      "page_id": "A_0003_R",
+      "side": "R",
+      "handwritten_page_no": 1,
+      "blank": false,
+      "full_text": "__May.__\nFirst we spent a day having a picnic at __Malvern__, visiting a quilting exhibition.\nThen we went to Kate & Jamie's __farm__ for one night, very warm and humid.\nThe van worked well. The boys played on bikes + the water shoot.\nWe forgot a first aid kit.\n\nWhen first Simon showed the van to me, Peter was sprayed by the tap.",
+      "dates": [
+        { "raw": "May.", "iso_guess": "1989-05", "confidence": 0.9 }
+      ],
+      "headings": ["May."],
+      "underlined_places": ["Malvern"],
+      "place_mentions": ["Malvern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.92,
+      "notes": "Year '1989' written in top-right corner alongside handwritten page number '1'. A small hand-drawn sketch appears at the bottom of the page illustrating a person (stick figure) being sprayed by a tap — this is an illustrative doodle accompanying the anecdote, not a route sketch. 'Kate & Jamie's farm' is an unidentified location (not a named place). The underlined word 'farm' appears to be underlined in the same way as 'Malvern' — both are underlined in the original. A blue sticker or ink mark '2' appears below the year annotation in the top-right corner."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0029",
+  "volume": "A",
+  "pdf_page": 29,
+  "pages": [
+    {
+      "page_id": "A_0029_L",
+      "side": "L",
+      "handwritten_page_no": 53,
+      "blank": false,
+      "full_text": "53 __Monday__ Thomas + William had a swim before breakfast while Simon + Peter bought bread. We left early + drove over 400 miles north to near Germany, beyond Metz.\n      We looked at __Thionville__ campsite which was so overcrowded that tents were pegged inches apart. As we had been on the road for 11 hours we decided to just have supper + hope for the best. Eve asked a woman walking her dog where we should eat + she suggested \"Vinci\". It was superb. We then set off into the night to a wood Simon had seen on the map 5 miles n.e.. Simon immediately found an isolated field which made an idyllic overnight stop ****.\n__Tuesday__ [strikethrough: See] We got ready to leave in [?to] 2 hours + stopped in [?Trion]",
+      "dates": [
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.2 },
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Monday", "Tuesday"],
+      "underlined_places": ["Thionville"],
+      "place_mentions": ["Metz", "Thionville"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page number 53 in top-left corner. 'Monday' is underlined as a heading. The superscript '440' appears above '400 miles' — possibly a correction or annotation (may read '440 miles'). The restaurant name 'Vinci' is in quotation marks in the original. '****' (four asterisks) appear after 'overnight stop'. The Tuesday entry is cut off at the bottom of the page; 'See' is struck through before 'We got ready'. The last word(s) before the page cut are partially legible — could be 'Trion' or a similar place name. No year visible on this page; location context (Metz, Thionville — northeast France/Luxembourg border area) consistent with a European road trip, but year cannot be confirmed from page content."
+    },
+    {
+      "page_id": "A_0029_R",
+      "side": "R",
+      "handwritten_page_no": 54,
+      "blank": false,
+      "full_text": "54 After cappucini in the square, we looked at the Cathedral + joined in some ecumenical prayers. The arches in the side aisles are glorious [strikethrough: A+A] pink + grey stone — same as the colours in the van interior. The marble + stone carving around the [strikethrough: &] altar + lectern is nice too.\n      Thomas + William + Peter are most impressed by the automation in the motor-way stop loos — you just touch a pad for flushing. It's certainly a change from the French holes-in-the-floor.\n      On to the Wagners. for 2 nights, at __Bad Honnef__\n      Simon + Klaus + Anne went out to supper (Eve again ill.)",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": ["Bad Honnef"],
+      "place_mentions": ["Bad Honnef"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page number 54 in top-right corner. This page continues the Tuesday entry from the left page. 'cappucini' — diary spelling preserved (standard: cappuccini/cappuccino). A strikethrough of 'A+A' (possibly an initial draft or error) appears before 'pink + grey stone'. The '&' before 'altar' also has a strikethrough. 'the Wagners' refers to a family (the Wagners), with Klaus and Anne named later — Bad Honnef is a town in Germany on the Rhine, near Bonn. 'Eve again ill.' is in parentheses in the original. No year visible; Bad Honnef context is consistent with a Germany visit on a European road trip from France."
+    }
+  ]
+}

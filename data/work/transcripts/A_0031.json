@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0031",
+  "volume": "A",
+  "pdf_page": 31,
+  "pages": [
+    {
+      "page_id": "A_0031_L",
+      "side": "L",
+      "handwritten_page_no": 57,
+      "blank": false,
+      "full_text": "57 We had free tickets, sent us by the company. William was interested in the safety display. Thomas noticed the massive drill - TVM , Simon liked the model of the drilling machine. Apparently the Channel is only 20,000 years old, & at low tide, outside Dover, you can still identify the remains of tree stumps from the forest, which once grew between Dover & Calais.\n      We drove home, where Margaret had supper ready for us. Charles was sleepy & John was glad to see us.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Dover", "Calais"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "TVM = Transmanche (the Channel Tunnel joint venture). The text is a continuation from a previous page describing a visit to a Channel Tunnel exhibition/visitor centre. No year is explicit on this page; the Channel Tunnel context suggests mid-1990s but a precise year cannot be confirmed from this page alone."
+    },
+    {
+      "page_id": "A_0031_R",
+      "side": "R",
+      "handwritten_page_no": 58,
+      "blank": false,
+      "full_text": "August 29th. We went to a pub campsite - blah! very crowded & a pond, near __Hook Norton__ David arrived after dark. A pretty £ pub.\n  Saturday - started off cold & misty & we set off early to find a new campsite. We were very lucky to find one not noted in the camping magazine, at a wildfowl trust. __Wiggington__ ****\n  Marvellous large field, assault course children able to feed birds & rabbits. A go-cart & tyre of a sports' car. William often took John on the go-cart. Peter curled up & rolled down the slope in the wheel.\n  We paid to go in the enclosure & feed the birds & rabbits...",
+      "dates": [
+        { "raw": "August 29th", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Hook Norton", "Wiggington"],
+      "place_mentions": ["Hook Norton", "Wiggington"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "No year is given on this page. 'Wiggington' may be Wigginton (near Banbury, Oxfordshire), which is consistent with the nearby Hook Norton location. The text is cut off at the bottom of the page ('feed the birds & rabbits...'). The asterisks (****) after 'Wiggington' appear to be the diarist's approval rating."
+    }
+  ]
+}

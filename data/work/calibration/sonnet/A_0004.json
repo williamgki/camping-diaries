@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0004",
+  "volume": "A",
+  "pdf_page": 4,
+  "pages": [
+    {
+      "page_id": "A_0004_L",
+      "side": "L",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "Half-term at __Dinas Camp__ near __Harlech__. May\nSimon 39, Eve 35, Thomas 9, William 7,\nPeter 6 (just) John 21 months, Charles 6 weeks –\n\nLovely campsite in the hills.\nRubber tyre for the boys to swing on.\nEast wind tent. .\nWe forgot the can opener.\nThe boys played ball with Liverpool family,\nincluding man in a wheelchair.\nEve backed into a wall.\nSimon carried John in his push chair\nall the way up to the castle at Harlech from\nthe carpark. The van worked beautifully. Hot\nshowers, comfortable bed.\n    We visited the river for swimming,\nHarlech castle, sandy beach (including sandy\nicecreams) and had a picnic at the Roman\nsteps.\n    On walks, Simon carried John on his\n[continued right page] Eve carried Charles in [?Phyllida]'s",
+      "dates": [
+        { "raw": "May", "iso_guess": "1989-05", "confidence": 0.4 }
+      ],
+      "headings": ["Half-term at Dinas Camp near Harlech. May"],
+      "underlined_places": ["Dinas Camp", "Harlech"],
+      "place_mentions": ["Dinas Camp", "Harlech"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Blue decorative asterisks/stars appear above the words 'near Harlech' in the heading — possibly a rating. 'East wind tent. .' as written with period and then space and another period. Bottom of page cut off; text continues on right page. 'Phyllida's' may refer to a baby carrier belonging to someone named Phyllida, or a brand name — reading uncertain. Year 1989 estimated from position (page 4 of 350, volume starts 1989); confidence low."
+    },
+    {
+      "page_id": "A_0004_R",
+      "side": "R",
+      "handwritten_page_no": 3,
+      "blank": false,
+      "full_text": "carrier, Thomas carried the food\n(beef sandwiches, apple, choc bar, water[illegible])\nand William sometimes carried the\nspare clothes.\nAlmost Contenious work, glorious sunshine\n+ a fabulous holiday – even time to\nread + write letters\n\n    Simon was very nervous about Eve's\ndriving, and only stopped concentrating for\nher when Peter bit into a \"blood\" sweet in\nthe back seat....\n\n                                    June 10th\nMalvern old boys' day. A very useful base\nhere. Joined Robert Upex. Mrs. Hill at\nNo 1.",
+      "dates": [
+        { "raw": "June 10th", "iso_guess": "1989-06-10", "confidence": 0.35 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Malvern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "Page continues from left page (page 2). 'Almost Contenious work' transcribed verbatim (likely intended 'Continuous'). Two horizontal underlines appear in the text: one beneath 'read + write letters' and one beneath 'the back seat....'. 'June 10th' date appears right-aligned, possibly a separate entry or sub-heading. 'Malvern old boys' day' may refer to an Old Boys event at Malvern College; 'Robert Upex' and 'Mrs. Hill' are personal names. 'No 1' likely refers to a house number address. Year 1989 estimated from volume position; confidence low as June 10th entry could be a different year."
+    }
+  ]
+}

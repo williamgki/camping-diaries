@@ -1,0 +1,72 @@
+{
+  "spread_id": "A_0002",
+  "volume": "A",
+  "pdf_page": 2,
+  "pages": [
+    {
+      "page_id": "A_0002_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "1 Malvern+ Farm 1989\n2 Harlech\n4 Peak District\n5 Dinas\n6 Leeds\n7 York\n8 Hadrian's Wall\n9 Settle\n12 Burnley\n13 Warburton, Arley Hall\n14 Little Somborne\n15 Stokesay Castle\n16 Hamperley — 1990\n17 Windmill\n18 Di, Avebury, Devizes\n19 Lacock\n20 Bradford\n21 Bath\n22 Hamperley\n23 Long [?Mynd]\n26 Wales with Portals\n33 Cherry Tree Farm, Daventry\n34 Woodford Halse, Canons Ashby.\n38 Canterbury, Arras\n40 Gerniont, Arcon Barros\n41 Colombiers le Vieux\n43 Aubenas, Les Blaches\n44 R. Chassezac\n47 Chambones\n49 R. Ardeche\n53 Triers\n54 Bad Honnef\n56 Calais\n57 Channel Tunnel Museum\n58 Hook Norton\n59 Wiggington, Sibford\n60 Parsons Green\n61 Tetburgs [?Avening] Park\n65 New Forest\n66 Beaulieu\n67 Chandlers' Ford\n1991 69 Oxford\n72 Chesham\n73 Flamstead\n75 Hamperley\n77 Dinas\n79 Montreuil\n80 Chartres\n83 Chaumont\n84 Chenonceaux\n85 R. Vienne\n86 Eymontier\n90 Cassaniouze\n92 Conques\n95 Estaing/Espalion\n96 R. Lot\n98 Pacoudiere\n99 Beauvais\n100 Torcy nr. Paris/Crecy",
+      "dates": [
+        { "raw": "1989", "iso_guess": "1989", "confidence": 0.95 },
+        { "raw": "1990", "iso_guess": "1990", "confidence": 0.95 },
+        { "raw": "1991", "iso_guess": "1991", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [
+        "Malvern+ Farm", "Harlech", "Peak District", "Dinas", "Leeds", "York",
+        "Hadrian's Wall", "Settle", "Burnley", "Warburton", "Arley Hall",
+        "Little Somborne", "Stokesay Castle", "Hamperley", "Windmill",
+        "Avebury", "Devizes", "Lacock", "Bradford", "Bath", "Long [?Mynd]",
+        "Wales", "Cherry Tree Farm, Daventry", "Woodford Halse", "Canons Ashby",
+        "Canterbury", "Arras", "Gerniont", "Arcon Barros", "Colombiers le Vieux",
+        "Aubenas", "Les Blaches", "R. Chassezac", "Chambones", "R. Ardeche",
+        "Triers", "Bad Honnef", "Calais", "Channel Tunnel Museum", "Hook Norton",
+        "Wiggington", "Sibford", "Parsons Green", "Tetburgs", "New Forest",
+        "Beaulieu", "Chandlers' Ford", "Oxford", "Chesham", "Flamstead",
+        "Hamperley", "Dinas", "Montreuil", "Chartres", "Chaumont", "Chenonceaux",
+        "R. Vienne", "Eymontier", "Cassaniouze", "Conques", "Estaing", "Espalion",
+        "R. Lot", "Pacoudiere", "Beauvais", "Torcy", "Paris", "Crecy"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Index page mapping diary page numbers to places visited. Year markers '1989', '1990', and '1991' appear inline with the list entries. 'Long [?Mynd]' — the second word is likely 'Mynd' (Long Mynd, Shropshire) but handwriting is ambiguous. 'Gerniont' and 'Arcon Barros' could be French place names but are uncertain spellings — possibly 'Germont' and 'Arcon-Barros' or similar. 'Chambones' may be 'Chambons'. 'Tetburgs [?Avening] Park' — the middle word is partially cut/unclear, possibly 'Avening'. Entry 102 page number visible at top right of column."
+    },
+    {
+      "page_id": "A_0002_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "102 Beauchamp House\n103 Arlingham\n104 Thorpeness/Trimpley farm.\n105 Simon in London\n— 1992\n106 [strikethrough: Fotchild] Ellesmere\n109 Beauchamp\n111 Dinas\n115 Harlech\n116 Little Gaddesden\n     Malvern\n117 Lincoln\n121 Pont Audemer\n     Ruilly\n.123 Azay-le-Rideau\n     Champigny-sur-Veude\n     Chinon\n124 Richelieu\n     St Estephe\n125 Brantome\n     Rouffignac\n     Les Eyzies\n     Le Queylou\n126 [?Tave]\n126 Font de Gaume\n127 St. Cyprien\n     Rocamadour\n129 Casaniouse\n130 Entraques\n131 Conques\n132 Lac du Serrang\n132 Salbris\n133 Chartres\n134 St. Miers la Ville\n135 Thornham Magna\n136 Thorpeness\n     Beauchamps\n137 King Sterndale\n     Goyt Valley\n     Buxton\n138 York\n140 Coningsby.",
+      "dates": [
+        { "raw": "1992", "iso_guess": "1992", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [
+        "Beauchamp House", "Arlingham", "Thorpeness", "Trimpley farm", "London",
+        "Ellesmere", "Beauchamp", "Dinas", "Harlech", "Little Gaddesden", "Malvern",
+        "Lincoln", "Pont Audemer", "Ruilly", "Azay-le-Rideau", "Champigny-sur-Veude",
+        "Chinon", "Richelieu", "St Estephe", "Brantome", "Rouffignac", "Les Eyzies",
+        "Le Queylou", "Font de Gaume", "St. Cyprien", "Rocamadour", "Casaniouse",
+        "Entraques", "Conques", "Lac du Serrang", "Salbris", "Chartres",
+        "St. Miers la Ville", "Thornham Magna", "Thorpeness", "Beauchamps",
+        "King Sterndale", "Goyt Valley", "Buxton", "York", "Coningsby"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": true,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Continuation of index page from left side. Year marker '1992' appears as a horizontal rule entry. Entry 106 has a word struck through before 'Ellesmere' — appears to read '[strikethrough: Fotchild]' or similar, possibly a correction. Two entries share page number 132 (Lac du Serrang and Salbris). '126 [?Tave]' — partially visible at bottom, possibly cut off; then 126 also lists Font de Gaume suggesting the bottom entry continues to next page. 'Entraques' may be 'Entraygues'. 'Casaniouse' — cf. 'Cassaniouze' on left page (same place, different spelling here). 'St. Miers la Ville' may be 'St. Mihiel-la-Ville' or similar. A note 'on' appears in pencil in right margin."
+    }
+  ]
+}

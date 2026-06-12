@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0024",
+  "volume": "A",
+  "pdf_page": 24,
+  "pages": [
+    {
+      "page_id": "A_0024_L",
+      "side": "L",
+      "handwritten_page_no": 42,
+      "blank": false,
+      "full_text": "42 __Sunday__\n      We walked to a village for church, but arrived too late. Père Vigne had started a convent there. Lots of Stations of the cross by a modern sculptor Bongati? Simon ran home because it started raining. We had very heavy rain during lunch. In the afternoon we walked back to the river & the boys & Simon swam, & so did Eve after washing all the clothes in the river. A glorious afternoon. In the evening Simon cooked spaghetti & it rained again. There are beautiful brown & white rabbits in the campsite, under poplar trees. The tree leaves have stained the tent because of all the rain.\n__Monday__\n      We motored across the north of the Ardèche, looking at old volcanoes. The mountainous",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Monday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Sunday", "Monday"],
+      "underlined_places": [],
+      "place_mentions": ["Ardèche"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Sculptor name reads as 'Bongati' but uncertain — could be a different reading. 'Père Vigne' may be a personal name or place name associated with a convent. No year visible on this page; volume covers 1989–2003, exact year cannot be confirmed from page content alone. Text continues onto right page."
+    },
+    {
+      "page_id": "A_0024_R",
+      "side": "R",
+      "handwritten_page_no": 43,
+      "blank": false,
+      "full_text": "countryside is very pretty, but slow motoring. We have bought lavender honey at __Gerbier de Jonc__.\n      We are camping by a volcanic lake at __Lac de Issarlès__. Pine trees, a beautiful view & swimming in the lake.\n__Tuesday__ We stopped at __Aubenas__ to see the château. It was lived in continuously by the same family (with 2 or 3 female inheritors) from about 1200 to 1792. The boys were very patient, considering they couldn't understand a word of the French guide. A lovely portrait of a woman in the gallery at the top.\n      We came on to __Les Blaches__ Casteljou. It would be even more beautiful if it weren't so crowded.",
+      "dates": [
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Tuesday"],
+      "underlined_places": ["Gerbier de Jonc", "Lac de Issarlès", "Aubenas", "Les Blaches"],
+      "place_mentions": ["Gerbier de Jonc", "Lac de Issarlès", "Aubenas", "Les Blaches", "Casteljou"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page number 43 visible in top-right corner. 'Lac de Issarlès' — the diary appears to write it as two separate words 'Lac de Issarlès'; the lake is known as Lac d'Issarlès in French. 'Les Blaches Casteljou' may refer to a campsite or place called Les Blaches at or near Casteljou; asterisks (****) appear after 'Les Blaches' in the original. The text at the top of this page continues from the left page (Monday entry). No year is visible on this page."
+    }
+  ]
+}

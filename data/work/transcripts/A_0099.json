@@ -1,0 +1,50 @@
+{
+  "spread_id": "A_0099",
+  "volume": "A",
+  "pdf_page": 99,
+  "pages": [
+    {
+      "page_id": "A_0099_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Cremona"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "ANDREA AMATI IL \"CARLO IX DI FRANCIA\" 1566",
+        "GIUSEPPE GUARNERI figlio di Andrea IL \"QUARESTANI\" 1689",
+        "ANTONIO STRADIVARI IL \"CREMONESE\" 1715",
+        "CREMONA",
+        "GIUSEPPE GUARNERI detto del Gesu LO \"STAUFFER\" 1734",
+        "NICCOLO AMATI \"L'HAMMERLE\" 1658"
+      ],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page contains a glued-in printed postcard/leaflet from Cremona showing five famous historic violins (Amati, Guarneri, Stradivari). No handwritten text on this page; no handwritten page number visible in the top-left corner."
+    },
+    {
+      "page_id": "A_0099_R",
+      "side": "R",
+      "handwritten_page_no": 14,
+      "blank": false,
+      "full_text": "We left & passed through a spa town, __Salso[?Maggiore]__ Terme, & found for signs to a campsite out in the country. It is big & could be dreadful but the people are friendly & we are very fortunate to be camped right on the edge with a marvellous view. __Arizona__***** With all mod cons here, we are looking out across a scene from a mediaeval book of hours. I can see little fields from here - at least 15 of them, all of different colours & textu[res] & woodland & solitary trees, old farm houses & barns, beautiful tractored rows of hay drying in the sun. The house across the way, the children have remarked, looks like the first illustration in \"James & the Giant Peach\".\n  The camp itself has 3 swimming pools, 2 shoots, a throbbing disco (until 3am) a laundrette & a very good restaurant where",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Salsomaggiore Terme", "Arizona"],
+      "place_mentions": ["Salsomaggiore Terme", "Arizona"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Text continues from a previous page (mid-sentence at top). Page number 14 visible in top-right corner. 'Salsomaggiore Terme' has the word 'Terme' written as a superscript annotation above the line. 'Arizona' is underlined and followed by asterisks — appears to be the campsite name/rating. Text cuts off at the bottom of the page mid-sentence ('where'). Some words at the right margin are partially cut off: 'marvellous', 'textu[res]', 'farm houses'. The year cannot be determined from this page alone; volume context suggests 1989–2003."
+    }
+  ]
+}

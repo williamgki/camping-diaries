@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0050",
+  "volume": "A",
+  "pdf_page": 50,
+  "pages": [
+    {
+      "page_id": "A_0050_L",
+      "side": "L",
+      "handwritten_page_no": 96,
+      "blank": false,
+      "full_text": "We ate breakfast in the carpark before Simon, Thomas, William & Peter set off at 9.10. in 2 double Kayaks, or rather in a van taking them all 5 miles up-river to Entraygues to shoot the rapids down to here.\n\n     It is pouring rain now - Eve is in the van with John & Charles. The Kayakists haven't bothered to take protection from the sun, or much to eat or drink because it is a far less demanding trip than last years in the Ardèche. The gorge is less steep, more inhabited, there are lots of green trees for shade &, from the maps the rapids look less tricky.\n\n     The trip was good, but cold. At one point they had to get out & run on the spot to warm up.\n\n     We had lunch at Hotel de la Vallée... The rest of the afternoon we spent",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Entraygues", "Ardèche", "Hotel de la Vallée"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Handwritten page number '96' visible in top-left corner. '9.10.' refers to departure time, not a date. The word after 'but' reads 'cold' though the final letter is slightly ambiguous — could read 'cob.' but 'cold' makes contextual sense. Text continues on right page. The Ardèche comparison and Entraygues (a town on the Truyère/Lot in Aveyron, France) suggest a southern France trip. Year estimated as early 1990s based on page position."
+    },
+    {
+      "page_id": "A_0050_R",
+      "side": "R",
+      "handwritten_page_no": 97,
+      "blank": false,
+      "full_text": "at the campsite.\n__July 26th__\n     We set off northwards in the rain. We went through the mountains, over the pass, [?Pas] de Peyrol[?Pas], 5000 feet, where Thomas bought an enormous cow's horn in the shop at the top of the pass. But because of the rain + mist, we could see no scenery. On the other side, the weather was slightly better. The barns are not as pretty. We had lunch on waste ground in a village where Peter fell off a pile of logs.\n\n     We camped in Viele Compte, a municipal campsite with an indoor municipal swimming pool * * *(*). Simon cooked garlic spaghetti. The boys had to wear swimming hats.\n__July 27th__\n     We set off northeastwards, towards Roanne, to interview an au pair,",
+      "dates": [
+        { "raw": "July 26th", "iso_guess": "1992-07-26", "confidence": 0.55 },
+        { "raw": "July 27th", "iso_guess": "1992-07-27", "confidence": 0.55 }
+      ],
+      "headings": ["July 26th", "July 27th"],
+      "underlined_places": [],
+      "place_mentions": ["Pas de Peyrol", "Viele Compte", "Roanne"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number '97' visible in top-right corner. 'July 26th' and 'July 27th' appear underlined. 'Pas de Peyrol' is written with 'Pas' superscripted above 'pass' twice (at start and end of the word), suggesting the writer was correcting 'pass' to 'Pas' (French term); transcribed as '[?Pas] de Peyrol[?Pas]' to capture the annotation. Pas de Peyrol is a real mountain pass in Cantal, France at approx 1589m (about 5000ft). 'Viele Compte' is difficult to read with certainty — could be 'Vieille-Comté' or similar French place name; exact spelling unclear. The asterisks '* * *(*)' likely denote a campsite star rating. Text ends mid-sentence, continuing on next spread. Year inferred as early-to-mid 1990s from page position (p50/350 of vol A covering 1989–2003)."
+    }
+  ]
+}

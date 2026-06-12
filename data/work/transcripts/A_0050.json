@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0050",
+  "volume": "A",
+  "pdf_page": 50,
+  "pages": [
+    {
+      "page_id": "A_0050_L",
+      "side": "L",
+      "handwritten_page_no": 96,
+      "blank": false,
+      "full_text": "We ate breakfast in the carpark before Simon, Thomas, William + Peter set off at 9.10. in 2 double Kayaks, or rather in a van taking them all 5 miles up-river to Entraygues to shoot the rapids down to here.\n\n\tIt is pouring rain now - Eve is in the van with John + Charles. The Kayakists haven't bothered to take protection from the sun, or much to eat or drink because it is a far less demanding trip than last years in the Ardèche. The gorge is less steep, more inhabited, there are lots of green trees for shade +, from the maps the rapids look less tricky.\n\n\tThe trip was good, but cold. At one point they had to get out + run on the spot to warm up.\n\n\tWe had lunch at Hotel de la Vallée... The rest of the afternoon we spent",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Entraygues", "Ardèche", "Hotel de la Vallée"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page continues from a previous entry. The text at the bottom is cut off with 'we spent'. The word 'Kayakists' appears in the original as written. 'Ardèche' — the accent may or may not be in the original; the word is clearly readable as Ardèche."
+    },
+    {
+      "page_id": "A_0050_R",
+      "side": "R",
+      "handwritten_page_no": 97,
+      "blank": false,
+      "full_text": "at the campsite.\n__July 26th__\n\tWe set off northwards in the rain. We went through the mountains, over the pass, Pas de Peyrol [?Pas], 5000 feet, where Thomas bought an enormous cow's horn in the shop at the top of the pass. But because of the rain + mist, we could see no scenery. On the other side, the weather was slightly better. The barns are not as pretty. We had lunch on waste ground in a village where Peter fell off a pile of logs.\n\n\tWe camped in Viele Compte, a municipal campsite with an indoor municipal swimming pool * * *(*). Simon cooked garlic spaghetti. The boys had to wear swimming hats.\n__July 27th__\n\tWe set off northeastwards, towards Roanne, to interview an au pair,",
+      "dates": [
+        { "raw": "July 26th", "iso_guess": "1993-07-26", "confidence": 0.4 },
+        { "raw": "July 27th", "iso_guess": "1993-07-27", "confidence": 0.4 }
+      ],
+      "headings": ["July 26th", "July 27th"],
+      "underlined_places": [],
+      "place_mentions": ["Pas de Peyrol", "Viele Compte", "Roanne"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "'Viele Compte' is the diary's spelling — likely 'Vieille-Comté' or a similar place name in the Massif Central region of France; exact identification uncertain. 'Pas de Peyrol' is a well-known mountain pass in the Cantal department. The asterisks '* * *(*)' appear to be a campsite star rating. Year is uncertain: the volume covers 1989–2003, and the mention of the Ardèche on the facing page as 'last year' may help narrow the date, but no year is explicitly written on this spread. Low confidence on year guesses."
+    }
+  ]
+}

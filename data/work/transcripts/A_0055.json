@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0055",
+  "volume": "A",
+  "pdf_page": 55,
+  "pages": [
+    {
+      "page_id": "A_0055_L",
+      "side": "L",
+      "handwritten_page_no": 106,
+      "blank": false,
+      "full_text": "April 3rd 1992.\n    Simon, Eve, Thomas, William, Peter\nJohn & Charles set off after lunch to the\ncamping shop at Wolverhampton. We bought\na new Igloo Tent, Korean-designed\nknuckle joints - which only takes \"2 minutes\nto erect.\n    An array of problems – the\nbracket below a water tank has\nbroken – there has been 2 lots of\nclanking – the Quinto campsite wouldn't\nhave us because we've not members.\nThe next campsite was too small.\nWe have ended up at __Ellesmere__ __Tetchill__, where\nEve has broken the corkscrew &\nthe van heater doesn't work. Ice\nformed in the night & most of us\nwere cold.\n    Sunshine at the moment, inspite\nof gloomy weather for days. The campsite\nis expensive (£10) a key for the loos",
+      "dates": [
+        { "raw": "April 3rd 1992", "iso_guess": "1992-04-03", "confidence": 0.99 }
+      ],
+      "headings": [],
+      "underlined_places": ["Tetchill"],
+      "place_mentions": ["Wolverhampton", "Quinto", "Ellesmere", "Tetchill"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Above 'campsite' (the one that wouldn't have them) the word 'Quinto' appears to be written as an annotation/name — could be 'Quinta' (a known campsite near Ellesmere). The underlined place name reads 'Tetchill' with 'Ellesmere' written above it as a superscript correction or annotation — likely 'Ellesmere (Tetchill)' referring to a campsite near Tetchill/Ellesmere, Shropshire. Ages are noted as small superscript numbers by each name: Simon [4?], Eve [?], Thomas [12], William [10], Peter [8], John [?], Charles [2/3?]. Text continues onto right page."
+    },
+    {
+      "page_id": "A_0055_R",
+      "side": "R",
+      "handwritten_page_no": 107,
+      "blank": false,
+      "full_text": "+ laundry – v. clean. Well laid out in\na little grassy field right in the\nmiddle of town. Ellesmere College is\nright on the doorstep.\n\n→ April 4th.\n    This campsite is so good that\nI am upping it to *****. It is\nclean + right near town. Walking to\nshops & restaurants is easy. It's good\nfor the children to play football.\n    Yesterday we went to the \"Cellar\"\nfor coffee – very welcoming. After\nlunch we set off in the van & had\na look at Ellesmere College – a\nWoodard school, & pleasant. We\nwalked back along the canal to\nthe Ellesmere town playground\nwhich the children enjoyed. Eve\nwent of shopping on her own.",
+      "dates": [
+        { "raw": "April 4th", "iso_guess": "1992-04-04", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ellesmere College", "Ellesmere", "Ellesmere College", "Ellesmere"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Text at top continues from left page (page 106). The page number 107 is visible in top right corner. 'went of shopping' — verbatim, likely 'went off shopping'. The 'Cellar' appears to be the name of a cafe/coffee shop in Ellesmere. 'Woodard school' refers to the Woodard Corporation network of independent schools."
+    }
+  ]
+}

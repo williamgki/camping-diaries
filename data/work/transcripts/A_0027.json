@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0027",
+  "volume": "A",
+  "pdf_page": 27,
+  "pages": [
+    {
+      "page_id": "A_0027_L",
+      "side": "L",
+      "handwritten_page_no": 49,
+      "blank": false,
+      "full_text": "Beautiful view across the river Ardèche to Aiguèze with crenellated walls on towers + church. 3 church bells dong the hours. Huge cliffs + the river bllow! The boys played on Thomas' boat in the river. Peter jumped of very high rocks + then Thomas did too, with Jamie + Sophie Walker. Their father is a P.E. instructor at Telford. Peter hurt his toe. Mr. Walker took 2 days in May to do the rapids on the Ardèche with his college, but we set out with the boys to do it in one.\n\tWe camped at Révire ***** + went to visit caves on __Saturday__ at St. Marcel Grottos. Very well lit + blissfully cool.\n\tWhen we returned the canoe hire",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ardèche", "Aiguèze", "Telford", "Révire", "St. Marcel Grottos"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Bottom of the page contains a hand-drawn illustration (not a route sketch) showing two figures — one standing on a high rock/cliff edge and one jumping/swimming in the water below, depicting the rock-jumping described in the text. 'bllow' appears to be 'below' written with an error. 'college' may mean 'colleagues'. The five asterisks after 'Révire' appear to be a campsite star rating. No year is stated on this page; year cannot be determined from page content alone."
+    },
+    {
+      "page_id": "A_0027_R",
+      "side": "R",
+      "handwritten_page_no": 50,
+      "blank": false,
+      "full_text": "shop at our campsite let TWP borrow kayaks + practise paddling.\n\tThen we set off for supper at Aiguèze. This involved swimming — or wading — across the river, while Thomas rowed all our clothes + bags (safely!) across in his boat. We looked around the lovely town, but only for a short time, + then had supper. With the help of William's new torch + a beautiful full moon we made it safely home.\n\n__Sunday__ A fantastic day. We set off at 9, had the canoes in the water at Chames by 11 + finally got home at 8.30, just before sun set, thank goodness. Some of the rapids were pretty difficult, + the capsizing account is Simon 3 Thomas 2 William 2, Peter 2, Eve 1. When Simon capsized he would drag the boat — and very willing crew — back",
+      "dates": [
+        { "raw": "Sunday", "iso_guess": null, "confidence": 0.2 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": [],
+      "place_mentions": ["Aiguèze", "Chames"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Text is cut off at the bottom of the page ('back' is the last word). 'TWP' is an abbreviation, likely referring to a person or group (initials). No year is stated on this page; year cannot be determined from page content alone. 'Chames' is the launch point for the Ardèche canoe descent — this is a well-known put-in on the Ardèche gorge."
+    }
+  ]
+}

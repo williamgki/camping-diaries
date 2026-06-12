@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0004",
+  "volume": "A",
+  "pdf_page": 4,
+  "pages": [
+    {
+      "page_id": "A_0004_L",
+      "side": "L",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "Half-term at Arrog Camp near Harbach, Mar\nSimon 39, Eve 35, Thomas 9, William 7,\nPeter 6 (guest) John 3 [illegible], Charles 6 weeks\nlovely campsite in the hills.\nRubber tyre for the boys to swing on.\nEast wind tent.\nWe forgot the can opener.\nThe boys played ball with [illegible] family,\nincluding man in a wheelchair.\nEve bodged into a wall.\nSimon carried John in his push chair\nall the way up to the castle at Harbach [?strom]\nthe carpet. The van worked beautifully. Hot\nshowers, comfortable bed.\nWe visited the river for swimming,\nHarbach castle, sandy beach (including solids\nicecream) and had a picnic at the Hodden\nSteps.\nOn walks, Simon carried John on his",
+      "dates": [
+        { "raw": "Half-term", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Arrog Camp", "Harbach", "Harbach castle", "Hodden Steps"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page number 2 visible at top left. 'Half-term' suggests Easter or autumn break but no specific year confirmed. 'Harbach' spelling uncertain - could be variant of a German location name. '[?strom]' after Harbach uncertain reading. One or two words illegible in family name reference."
+    },
+    {
+      "page_id": "A_0004_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "carrot, Thomas carried the food\nbeef sandwiches, apple, choc bar, water\nand William sometimes carried the\nspare clothes.\nAlmost Continuous work, glorious sunshine\na fabulous holiday; - even time to\nread & write (letters)\n\nSimon was very nervous about Eve's\ndriving, and only stopped concentrating for\na moment Peter into a \"blood\" sweat ca\nthe back seat ...\n\nHaltern old boys' day. A very useful base\nhere. Joined Robert [?], Mt. [?]ll at\n[illegible]",
+      "dates": [
+        { "raw": "June 10th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Haltern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Continuation of left page narrative. 'Almost Continuous' appears to be intentional (not a typo for 'Almost Continuous'). Several words/phrases illegible: one name after 'Robert', unclear abbreviation 'Mt.', and partial text 'sweat ca' and final line. Date 'June 10th' visible but no page number visible at top. Faint pencil notations visible in margins."
+    }
+  ]
+}

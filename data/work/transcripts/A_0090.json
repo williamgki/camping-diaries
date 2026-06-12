@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0090",
+  "volume": "A",
+  "pdf_page": 90,
+  "pages": [
+    {
+      "page_id": "A_0090_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We drove on into Surrey & camped near Leatherhead. Horsley *** the site was very wet, boggy grass & a lake, but had a shop & was friendly. Supper, lovely in Indian restaurant.\n__Tues Apl 20th__\n   We set off into a Danish shop in Leatherhead & Simon rescued his lights. Meanwhile Thomas & Eve were doing battle with a fractious John & Charles & exceedingly irate shop-owner to get sandwiches for lunch.\n   We drove on to London & Thomas found money for the metre for the van parked in __Finsbury Circus__, while Simon tried to mend his lamps on a building being renovated. William got everyone into Finsbury Circus Park for a picnic. (The oldest park in the city - the \"fen where water went under the Roman wall - made into a park in 1600s.)\n   We had a tiring, [?ighty] drive home.",
+      "dates": [
+        { "raw": "Tues Apl 20th", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Tues Apl 20th"],
+      "underlined_places": ["Finsbury Circus"],
+      "place_mentions": ["Surrey", "Leatherhead", "Horsley", "London", "Finsbury Circus", "Finsbury Circus Park"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Horsley is annotated in blue ink with '***' suggesting a campsite name addition. 'Tues Apl 20th' — April 20 fell on a Tuesday in 1993 and 1999 within the volume range; year cannot be confirmed from page content alone. Final word '[?ighty]' — could read 'mighty' or 'ighty'; partially legible. 'Indian restaurant' note appears to be a marginal addition."
+    },
+    {
+      "page_id": "A_0090_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Saturday 8th May\n   An exhilarating day! We left at 8.25 am, & had breakfast on the way. We reached the __Manifold Valley__ & rented bikes & had a 3 hour bike ride with a picnic lunch. Charles rode on the back of Simon's bike. John had only learnt to ride a 2-wheeler a month before, & found it difficult at first, but by the end he was cycling very skilfully & leading the way. 12[illegible] mi[illegible]\n   We are camped in a lovely sheltered field near Broughton Hall, a Franciscan convent which is about to be sold. Fair Oak *** campsite\n   Thomas has helped Simon to park the van, William set off with John & Charles & his camera to photograph a stream \"runn[illegible] water\" & Peter is flying his kite. Eve has played Boules with John & Charles.\n   Charles went to a farm party yesterday & saw sheep & lambs & cows & \"bullets,\" much to William's amusement, who keeps asking him how fast they go.\n   We tottered over to the pub, the Freemason's Arms, for a drink before supper.",
+      "dates": [
+        { "raw": "Saturday 8th May", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday 8th May"],
+      "underlined_places": ["Manifold Valley", "Fair Oak"],
+      "place_mentions": ["Manifold Valley", "Broughton Hall", "Fair Oak", "Freemason's Arms"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "mixed",
+      "legibility": 0.83,
+      "notes": "'Fair Oak' and 'campsite' appear to be blue ink annotations added later, with '***'. 'Broughton Hall' described as a Franciscan convent — likely Broughton Hall near Skipton, North Yorkshire, though could be another. 'Saturday 8th May' — May 8 fell on a Saturday in 1993 and 1999 within volume range; year cannot be confirmed from page content. The right margin is cropped, cutting off some words ('runn[illegible]', distance figure after '12'). Handwritten page number in top-right corner is partially visible but not clearly legible — not recorded. Could read 'Cougnes' as 'Conques' for the convent name but text clearly reads 'Franciscan convent'. 'bullets' likely means bullocks."
+    }
+  ]
+}

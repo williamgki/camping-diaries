@@ -1,0 +1,51 @@
+{
+  "spread_id": "A_0054",
+  "volume": "A",
+  "pdf_page": 54,
+  "pages": [
+    {
+      "page_id": "A_0054_L",
+      "side": "L",
+      "handwritten_page_no": 104,
+      "blank": false,
+      "full_text": "new swim suit from Grandma, rescued by Sally, watched to [?see] the floats in Aldeburgh Carnival + had his birthday tea back at Seamark.\n\tWe stayed at Thorpeness for a week. Good sunshine. All went well until the Friday when very strong winds pulled the large tent down.\n\n__August 31st.__\n\tWe went to [?Trimley] for one night, William cooked a Pavlova. Thomas seranaded us with his violin.\nSept 7th We went to Jane + Harry's wedding anniv[ersary] party, camped at Frensham + had lunch with [?Jeffreys]\nSept 22nd\n\tWe went to Kate + Jamie's farm for one night, picked plums + swam. Laura, the new au pair came too.",
+      "dates": [
+        { "raw": "August 31st", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Sept 7th", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "Sept 22nd", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["August 31st."],
+      "underlined_places": [],
+      "place_mentions": ["Aldeburgh", "Seamark", "Thorpeness", "Frensham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page begins mid-sentence continuing from previous spread. 'Trimley' is a reading guess — could be 'Trimby' though Trimley (near Felixstowe, Suffolk) seems more plausible given Suffolk context (Aldeburgh, Thorpeness). The surname after 'had lunch with' is difficult to read — possibly 'Jeffreys' or similar. 'seranaded' is the diary's spelling. Year cannot be determined from this page alone; no year written."
+    },
+    {
+      "page_id": "A_0054_R",
+      "side": "R",
+      "handwritten_page_no": 105,
+      "blank": false,
+      "full_text": "Sept 24th\n\tSimon + Eve go to Charles Maxwell's memorial service + Simon spends the night selling lamps in London.\n\tIn [October]\nNovember Eve took Thomas, William + Peter to Disneyworld, so we did not go camping at half-term.",
+      "dates": [
+        { "raw": "Sept 24th", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "October", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "November", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["London", "Disneyworld"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "'October' appears as a superscript annotation written above 'November', suggesting the writer corrected or clarified the month. The lower half of this page is blank. 'Disneyworld' likely refers to Disneyland Paris (Euro Disney) given UK family context, though the diary says 'Disneyworld'. Year cannot be confirmed from this page; no year written. The left-side gutter shows partial text from the L page bleed-through (Thomas, anniv, Jeffreys, farm) — not transcribed again."
+    }
+  ]
+}

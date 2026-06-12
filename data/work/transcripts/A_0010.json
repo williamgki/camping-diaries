@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0010",
+  "volume": "A",
+  "pdf_page": 10,
+  "pages": [
+    {
+      "page_id": "A_0010_L",
+      "side": "L",
+      "handwritten_page_no": 14,
+      "blank": false,
+      "full_text": "buy two pictures which had hung in the Hall 200 years ago.\n\nSeptember 29th.\n\tWe went to stay with __Venetia__. David was cutting the grass for his 40° birthday. Venetia had been to France the weekend before + was off to Spain for George's wedding the weekend after.\n\tSimon helped cut the grass. Thomas helped George muck out the bunny.\n\tDavid took the boys to watch George play football. They climbed St. Catherie's Hill, which featured in William's book.\n\tGala spent the weekend tied to the top because of chicken-chasing. Archie is gorgeous. Alas, Olivia wasn't there - at boarding school.\n\tHarvest Festival in little Somborne",
+      "dates": [
+        { "raw": "September 29th.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Venetia"],
+      "place_mentions": ["France", "Spain", "St. Catherie's Hill", "little Somborne"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page begins mid-sentence continuing from previous spread. 'St. Catherie's Hill' may be 'St. Catherine's Hill' — spelled as written. 'little Somborne' likely 'Little Somborne' (village in Hampshire). No year visible on this page; volume covers 1989-2003 but year cannot be confirmed from page content alone. '40°' appears to be shorthand for '40th'. 'Venetia' is underlined as a name/heading."
+    },
+    {
+      "page_id": "A_0010_R",
+      "side": "R",
+      "handwritten_page_no": 15,
+      "blank": false,
+      "full_text": "church. A hymn about the rain bow.\n\tWe stopped off at Robert Welch's workshop in Chipping Camden on the way home - green light in the window.\n\tFuschia arans in a woollen shop, so we made contact for Decorum.\n\nOctober 28th Saturday\nWe have set off for the last trip of the year - a night in Shropshire. Stokesay Castle. There's a warning of rain + gales.\n\tWe visited Natalie Hodgson at Astley Abbots on the way but she was out.\n\t__Stokesay castle__ is a (13) fortified Manor House. It's very pretty, even in the rain. Lovely stonework, round rooms similar to Orford Castle, built by a woolmerchant",
+      "dates": [
+        { "raw": "October 28th Saturday", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["October 28th Saturday"],
+      "underlined_places": ["Stokesay castle"],
+      "place_mentions": ["Chipping Camden", "Shropshire", "Stokesay Castle", "Astley Abbots", "Orford Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page begins mid-sentence continuing from left page (Little Somborne church). 'Chipping Camden' is likely 'Chipping Campden' (Gloucestershire) — spelled as written in diary. 'Decorum' may be a shop or brand name. The circled '13' after 'Stokesay castle is a' appears to be a footnote or reference number rather than part of the text. Page ends mid-sentence. No year visible; cannot confirm year from page content alone."
+    }
+  ]
+}

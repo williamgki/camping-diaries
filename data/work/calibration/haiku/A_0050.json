@@ -1,0 +1,60 @@
+{
+  "spread_id": "A_0050",
+  "volume": "A",
+  "pdf_page": 50,
+  "pages": [
+    {
+      "page_id": "A_0050_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We ate breakfast in the carpark before Simon, Thomas, William & Peter set off at 9.10. in 2 double kayaks, or rather in a van later them all 5 miles up-river to Entragues to shoot the rapids down to here.\n\nIt's pouring rain now – Eve is in the van with John & Charles. The kayaks haven't bothered to take protection from the sun, or much to eat or drink because it is a far less demanding trip than last year's in the Ardèche. The gorge is less steep, more inhabited, there are lots of green trees for shade &, from the maps the rapids look less tricky.\n\nThe trip was good, but cold. At one point they had to get out & run on the spot to warm up.\n\nWe had lunch at Hotel de la Vallée. The rest of the afternoon we spent",
+      "dates": [
+        {
+          "raw": "9.10.",
+          "iso_guess": null,
+          "confidence": 0.3
+        }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Entragues", "Ardèche", "Hotel de la Vallée"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "No handwritten page number visible in top-left corner. Time '9.10.' appears to refer to departure time rather than date. Ardèche reference suggests a European trip, likely France. 'Entragues' and the 'rapids' narrative strongly suggest this is the Ardèche River in southern France."
+    },
+    {
+      "page_id": "A_0050_R",
+      "side": "R",
+      "handwritten_page_no": 97,
+      "blank": false,
+      "full_text": "at the campsite.\n__July 26th__\nWe set off north-wards in the van. We went through the mountains, over the pass, Pande Peyrot, 5000 feet, where Thomas bought an enormous cow's horn in the shop at the top of the pass, but because of the rainy mist, we could see no scenery. On the other side, the weather was slightly better, the barns are not as pretty. We had lunch on waste ground in a village where Peter fell off a pile of logs.\n\nWe camped in Lide Lonyte, a municipal campsite with an indoor municipal swimming pool & & & (&). Simon cooked garlic spaghetti. The boys had to wear swimming hats.\n__July 27th__\nWe set off, north-east wards, towards Aosane, to interview an old pair,",
+      "dates": [
+        {
+          "raw": "July 26th",
+          "iso_guess": "1992-07-26",
+          "confidence": 0.65
+        },
+        {
+          "raw": "July 27th",
+          "iso_guess": "1992-07-27",
+          "confidence": 0.65
+        }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Pande Peyrot", "Lide Lonyte", "Aosane"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.90,
+      "notes": "Handwritten page number '97' visible in top-right corner. July dates suggest mid-summer trip. 'Lide Lonyte' is difficult to read with certainty—could be 'Lide Lonyte' or similar. The narrative structure and mountain/Ardèche context suggest a 1990s French camping trip. The passage continues mid-sentence."
+    }
+  ]
+}

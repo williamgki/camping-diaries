@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0080",
+  "volume": "A",
+  "pdf_page": 80,
+  "pages": [
+    {
+      "page_id": "A_0080_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Sunday October 25th__\n      It rained + rained. The Clocks changed + we packed up in a leisurely way + parked outside the city walls next to St. John's Cof E college. We went to a service at the Minster. The volume of singing from the choir seemed rather thin. Donald English preached a \"whoaa! look at dat!\" sermon on the Gospel reading \"In the Beginning was the word.\" There was a good sound system with a funky twiddling knobs near us at the back. Getting to the loo was a major performance for Charles.\ndelicious We set off south + had mountains of Yorkshire pudding + very dead roast beef at \"The Fox\" near Pontefract.\n      In the afternoon we stopped to look at Conisborough Castle. Even in the rain + north wind it is very impressive, a white circular keep. Sir",
+      "dates": [
+        { "raw": "Sunday October 25th", "iso_guess": "1992-10-25", "confidence": 0.9 }
+      ],
+      "headings": ["Sunday October 25th"],
+      "underlined_places": [],
+      "place_mentions": ["St. John's Cof E college", "the Minster", "Pontefract", "Conisborough Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The word 'delicious' appears in the left margin before 'We set off south'. 'The Minster' likely refers to York Minster given the context of parking outside city walls. The text 'Sir' at the bottom is cut off and continues on the right page. Year confirmed as 1992 by caption 'Oct '92' on right page."
+    },
+    {
+      "page_id": "A_0080_R",
+      "side": "R",
+      "handwritten_page_no": 140,
+      "blank": false,
+      "full_text": "Walter Scott mentions it in \"Ivanhoe.\" There was an information room where John + Charles tried on Medieval clothes, tunics + hats.\n      The keep had fireplaces + latrines + a chapel + vestry. The Chapel had carved stone, rare work in a cast[le]",
+      "dates": [
+        { "raw": "Oct '92", "iso_guess": "1992-10", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Conisborough Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Conisborough Castle    Oct '92"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The right page contains a hand-drawn sketch of Conisborough Castle (a line drawing showing the castle silhouette with towers and battlements) with the caption 'Conisborough Castle    Oct '92' written beneath it. This is a drawing/sketch of the castle, not a route map. The text at the bottom right ('rare work in a cast[le]') is cut off at the page edge. The left page text continues here — 'Sir' at the bottom of the left page likely began 'Sir Walter Scott...' but the word 'Walter' starts fresh on the right page."
+    }
+  ]
+}

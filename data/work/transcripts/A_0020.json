@@ -1,0 +1,43 @@
+{
+  "spread_id": "A_0020",
+  "volume": "A",
+  "pdf_page": 20,
+  "pages": [
+    {
+      "page_id": "A_0020_L",
+      "side": "L",
+      "handwritten_page_no": 34,
+      "blank": false,
+      "full_text": "garden look Victorian. The garden is well-cared for, with lots of vegetables in rows. The chickens + sheep are very friendly. We stroked the sheep + one tried to chew my shorts. John was given bread by Simon to feed the chickens. He didn't realise that he should throw it. The chicken tried to jump up to his hand, which scared him.\n    We walked about 4 miles in the morning to Woodford Halse to buy tea bags. The church dates from before 1201, + has a squint.\n    On the way back it rained. We walked through fields of cows + down into a disused railway cutting with pigs + pig pens.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Woodford Halse"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "This page is a continuation of a narrative — the opening word 'garden' begins mid-sentence, continuing from the previous spread. The name 'Simon' appears to be a person at the farm (likely the farmer). No year is visible on this page itself; context from volume position suggests late 1980s or early 1990s."
+    },
+    {
+      "page_id": "A_0020_R",
+      "side": "R",
+      "handwritten_page_no": 35,
+      "blank": false,
+      "full_text": "Cherry Tree Farm,\nWoodford Halse.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Cherry Tree Farm", "Woodford Halse"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Cherry Tree Farm, Woodford Halse."],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.80,
+      "notes": "Page is almost entirely a pencil sketch/drawing of a farmhouse (Cherry Tree Farm, Woodford Halse) with trees, labelled in pencil at the bottom of the image. The drawing shows the farm building facade with multiple windows, a large tree to the left, and surrounding vegetation. The label reads 'Cherry Tree Farm, Woodford Halse.' — this is a hand-drawn illustration, not a route sketch/map. Legibility score reflects the drawing nature of the page; the caption text itself is legible."
+    }
+  ]
+}

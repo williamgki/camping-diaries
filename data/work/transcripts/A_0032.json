@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0032",
+  "volume": "A",
+  "pdf_page": 32,
+  "pages": [
+    {
+      "page_id": "A_0032_L",
+      "side": "L",
+      "handwritten_page_no": 59,
+      "blank": false,
+      "full_text": "On the Sunday we walked to __Wiggington__, to go to church, but there was only an evensong. 2 stone recumbent effigies in the chancel, odd spiral steps up at the crossing, + lovely coloured stone.\n    In the afternoon there was a long walk, but William + Eve, John + Charles, stayed behind to rest. That night we had a delicious barbeque.\n~~Sund~~Monday\n    We moved to __Sibford__ for lunch + in the afternoon we walked through villages, passing the school. It is very pretty countryside. On the way home we saw a nice farm campsite near __Compton Wynyates__.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Wiggington", "Sibford", "Compton Wynyates"],
+      "place_mentions": ["Wiggington", "Sibford", "Compton Wynyates"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The day heading appears to have 'Sund' struck through and 'Monday' written next to/over it — transcribed with strikethrough markers. 'Wiggington' may be 'Wigginton' (village near Banbury, Oxfordshire); diary spelling preserved. 'effigies' written as 'efigies' in diary — preserved verbatim. No explicit year on this page; context from volume and surrounding entries suggests late summer, possibly early 1990s."
+    },
+    {
+      "page_id": "A_0032_R",
+      "side": "R",
+      "handwritten_page_no": 60,
+      "blank": false,
+      "full_text": "__September 2nd__\n    We went to St. George's at 8.0., + then on to a picnic outside __Kew Gardens__, with a short walk along the river. At __St. Dionis Church__, __Parsons Green__ we all went to Emerald Anne Maxwell's christening, with a lovely tea at Fawcett Rd. afterwards. Charles dotes on his daughter, + all is very happy at their house.\n\n__September 28th.__\n    This is our last weekend in the van this year (only to be followed by halfterm at Hattie's) + we're taking Simon's 'cello down to __Chalford__ to be adjusted. Then on to __Avening Park__, near __Tetbury__.",
+      "dates": [
+        { "raw": "September 2nd", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "September 28th.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["September 2nd", "September 28th."],
+      "underlined_places": ["Kew Gardens", "St. Dionis Church", "Parsons Green", "Chalford", "Avening Park", "Tetbury"],
+      "place_mentions": ["St. George's", "Kew Gardens", "St. Dionis Church", "Parsons Green", "Fawcett Rd.", "Chalford", "Avening Park", "Tetbury"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Year not stated on page; cannot confidently assign a year from page content alone. 'St. George's at 8.0.' likely refers to a church service at 8 o'clock. 'Fawcett Rd.' is the address in Parsons Green area (London). 'Avening Park' is near Tetbury, Gloucestershire. Chalford is a village in Gloucestershire. The September 28th entry cuts off at the bottom of the visible page — there may be continuation on the following page."
+    }
+  ]
+}

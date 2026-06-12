@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0042",
+  "volume": "A",
+  "pdf_page": 42,
+  "pages": [
+    {
+      "page_id": "A_0042_L",
+      "side": "L",
+      "handwritten_page_no": 80,
+      "blank": false,
+      "full_text": "80 having parked the van in a place reserved for buses.\n\tThat night we camped in a very good site in St. Illiers [?en] Ville Domaine de Inchelin (1) 34-76-10-11 * r***\nThere were hedges between the plots, an oak wood, cages of birds, old barns & a swimming pool. John (3yrs & 11 mo) slept in a tent for the first time with Thomas. The boys went for a swim.\nJuly 13th\n\tWe finally made it to Chartres & shopped in the market where John's & Charles' sunglasses kept breaking.\n\tIn the cathedral the redoubtable Mr. Miller is still lecturing. He shsed Charles when I pulled him down, screaming, from the base of a pier. The floor of the cathedral is paved in lovely old slabs.\n\tWe had a good meal & left on the Paris road to find a supermarket. Then we went back through Chartres, to",
+      "dates": [
+        { "raw": "July 13th", "iso_guess": "1992-07-13", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["St. Illiers", "Domaine de Inchelin", "Chartres", "Paris"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page begins mid-sentence continuing from previous spread. 'St. Illiers en Ville' — the 'en' is written as a small superscript correction above 'on'; could also read 'a' or 'en'. Phone number '(1) 34-76-10-11' follows the campsite name. Year not stated on page; volume covers 1989-2003 and children's ages (John 3yrs 11mo) may help pin year but cannot confirm from page alone — iso_guess year left tentative. 'shsed' appears to be 'shushed' abbreviated/misspelled as written."
+    },
+    {
+      "page_id": "A_0042_R",
+      "side": "R",
+      "handwritten_page_no": 81,
+      "blank": false,
+      "full_text": "__Chartres__\ng off towards Tours.\n\tOn the way we've seen a windmill, & stopped to look at it. The sails make a whirring noise. Inside it smelled of dust & flour. Lots of creaking & wood machinery noises. The machines are partly controlled by wood batons & string. The whole building trembles, shudders rhythmically, like being on a ship, but a much faster rhythm.",
+      "dates": [],
+      "headings": ["Chartres"],
+      "underlined_places": ["Chartres"],
+      "place_mentions": ["Chartres", "Tours"],
+      "route_sketch": true,
+      "route_sketch_description": "Pencil sketch of Chartres Cathedral showing the two towers and rose window, with a smaller attached structure to the right. No arrows or route lines — purely an architectural illustration labelled 'Chartres' (underlined) below the drawing.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.85,
+      "notes": "Page begins mid-sentence continuing from left page — 'g off towards Tours' is the tail end of 'going off towards Tours' or similar. The sketch at the top of the page is a hand-drawn pencil illustration of Chartres Cathedral rather than a route map, but flagged as route_sketch true because it is a hand-drawn geographic/architectural image with a place label. The word 'smelled' could also be read as 'smells' — written form is ambiguous."
+    }
+  ]
+}

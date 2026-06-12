@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0034",
+  "volume": "A",
+  "pdf_page": 34,
+  "pages": [
+    {
+      "page_id": "A_0034_L",
+      "side": "L",
+      "handwritten_page_no": 63,
+      "blank": false,
+      "full_text": "Inspite of the rain the park is very pretty with gorgeous autumn colours. And after breakfast Up on Sunday the boys strode over to a conker tree + came back with their pockets + carrier bags laden with conkers.\n\tThere is lots of horse-riding here + the local people seem friendly, slowing right down when they see children on the road.\n\tAt Church it was Harvest Festival The boys all behaved very well, except for Charles, who yelled because we had to hold him.\n\tSimon cooked spaghetti for lunch Then Peter + William collected more",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Text continues onto right page. References to Harvest Festival at Church and family members (Charles, Simon, Peter, William). No year is explicitly stated on this page; the mention of autumn colours and Harvest Festival is consistent with an autumn trip."
+    },
+    {
+      "page_id": "A_0034_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "conkers while Simon + Thomas took down the tent. Then we set off home through the rain.\n\n__November 1st__\n\tThe last trip of the year. Fraught so far. We had elevenses in a field where the children got very muddy shoes. Simon forgot to lock the fridge. A milk bottle smashed. Milk + broken glass went everywhere, so we had an emergency lunch crammed in the van at the village bus stop, although the sun shone warmly.\n\tWe visited __Jean + Frank Hammond__ + then dropped Thomas off at the [illegible] Hinses. After that we took Peter on to the Duguids; + went on",
+      "dates": [
+        { "raw": "November 1st", "iso_guess": "1993-11-01", "confidence": 0.3 }
+      ],
+      "headings": ["November 1st"],
+      "underlined_places": [],
+      "place_mentions": ["Hinses", "Duguids"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page number not visible in top-right corner (cut off or absent). The word before 'Hinses' appears to be crossed out/struck through — possibly a first name attempt; transcribed as [illegible]. 'Jean + Frank Hammond' is underlined. 'Hinses' and 'Duguids' are likely family surnames (people visited), not place names per se. Year cannot be determined from this page alone; iso_guess is a low-confidence placeholder based on volume position. Text is cut off at the bottom ('+ went on')."
+    }
+  ]
+}

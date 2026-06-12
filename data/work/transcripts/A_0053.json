@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0053",
+  "volume": "A",
+  "pdf_page": 53,
+  "pages": [
+    {
+      "page_id": "A_0053_L",
+      "side": "L",
+      "handwritten_page_no": 102,
+      "blank": false,
+      "full_text": "102 August 4th.\n    We drove down to Glouces[ter]\nto drop Peter off at music camp, putting\nup his tent. Then dropped off Simon's\n'cello to be mended\n\nAugust 10th.\n    Kate Warburton has bravely come\nwith us. There were huge jams on\nthe M5. Kate babysat John, Charles &\nWilliam while Simon, Eve & Thomas\nheard Peter sing & play his violin in the\norchestra at Beauchamp House.\n    We picked up Simon's 'cello, &\ndrove on to __St. Augustine's__ working farm\n__Arlingham__.\n    Peter & John slept in the [?bukta] &\nKate slept on the bottom bunk. There\nwas a playground with an old tractor\nin it for the boys to climb on, & a half-",
+      "dates": [
+        { "raw": "August 4th", "iso_guess": "1991-08-04", "confidence": 0.4 },
+        { "raw": "August 10th", "iso_guess": "1991-08-10", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["St. Augustine's", "Arlingham"],
+      "place_mentions": ["Gloucester", "M5", "Beauchamp House", "St. Augustine's", "Arlingham"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page number 102 visible top-left. The word after 'slept in the' is unclear — possibly 'bukta' (a type of sleeping shelter/bag). 'Glouces' is cut off at the right margin but clearly Gloucester. Year not stated on this page; based on volume position (1989–2003, pdf_page 53 of 350) the year is uncertain — possibly early 1990s."
+    },
+    {
+      "page_id": "A_0053_R",
+      "side": "R",
+      "handwritten_page_no": 103,
+      "blank": false,
+      "full_text": "Chinese pig & hoardes of rabbits &\nother animals.\nAug 11th. The next day we went for a\nwalk 3 miles, instead of church,\nbecause the service wasn't until 11.\n    The River Severn has\n    scoured a great loop\n    around the village & fields.\nAfter lunch we dropped Thomas off\nat __Beauchamp__ & set of for B'ham.\n\nAugust 18th.\n    Eve drove 5 boys & [Tony]\nnanny to\nThorpeness. We arrived & had a\nterrible time putting up the tent.\n__John's birthday__\n    John zigzagged up the\ntheare in a row boat with Tony\ngot tossed about in the sea in his",
+      "dates": [
+        { "raw": "Aug 11th", "iso_guess": "1991-08-11", "confidence": 0.4 },
+        { "raw": "August 18th", "iso_guess": "1991-08-18", "confidence": 0.4 }
+      ],
+      "headings": ["John's birthday"],
+      "underlined_places": ["Beauchamp"],
+      "place_mentions": ["River Severn", "Beauchamp", "B'ham", "Thorpeness"],
+      "route_sketch": true,
+      "route_sketch_description": "Small hand-drawn sketch of a river loop labelled 'R. Severn' with an arrow showing the river winding around a loop, illustrating the text 'The River Severn has scoured a great loop around the village & fields.'",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page number 103 visible top-right. The word 'Tony' appears as a superscript annotation above 'nanny'. 'hoardes' is the diary's spelling (not corrected). 'theare' may be a misspelling of 'there' or possibly a place name — left as written. 'B'ham' is an abbreviation for Birmingham. Text continues beyond the bottom of the page — the spread is cut off mid-sentence. Year not explicitly stated; same trip as left page."
+    }
+  ]
+}

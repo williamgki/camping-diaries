@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0079",
+  "volume": "A",
+  "pdf_page": 79,
+  "pages": [
+    {
+      "page_id": "A_0079_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "A roof boss of a diver + whale + between them the bubbles from the aqualung. The epitaphs included a description of a man whose.\n   \"Witticisms gild the joyful hour\n   And kindness lasts when the hour of joy\n      is o'er\"\n\n   After the Minster we saw the __Treasurer's House__, restored after 1900 by Frank Green. Green was the grandson of a man who invented the \"Economiser.\" The \"economiser\" used left-over heat from boilers to pre-heat the water. Frank Green put the family's money to good use in the house. It's small, liveable in + well worth a visit.\n   We had a pizza lunch + set off for the __National Railway__",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": "1992-10-24", "confidence": 0.82 }
+      ],
+      "headings": [],
+      "underlined_places": ["Treasurer's House", "National Railway"],
+      "place_mentions": ["Treasurer's House"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "No handwritten page number visible at top-left. Text is a continuation from A_0078_R (visiting the Minster in York on Saturday October 24th 1992). The date is inferred from context. The underlined text 'National Railway' at the bottom is the start of 'National Railway Museum' which continues onto the right page. The word 'Economiser' appears in quotes as written; the diarist uses both 'Economiser' (capitalised) and 'economiser' (lower case) — transcribed as written."
+    },
+    {
+      "page_id": "A_0079_R",
+      "side": "R",
+      "handwritten_page_no": 139,
+      "blank": false,
+      "full_text": "__Museum__.\n   We looked at the Mail coaches with nets, the Royal Coaches, how rails used to be laid + the section of the steam train.\n   We walked home along the __city walls__. It was almost raining. Beautiful views of distance + sky + a rainbow. The houses as seen from the walls were interesting to compare with Richlieu.\n   John + Charles walked amazingly well, about 4 miles.\n   We had supper + Eve read \"Lord of the Rings\" while William did tapestry.\n   Rain came on in the night.",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": "1992-10-24", "confidence": 0.82 }
+      ],
+      "headings": ["Museum"],
+      "underlined_places": ["Museum", "city walls"],
+      "place_mentions": ["National Railway Museum", "Richlieu"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page number 139 visible at top-right. 'Museum' is underlined at the top and is a continuation of 'National Railway' from the left page. 'Richlieu' — the diarist is comparing the city walls view to Richlieu (likely Richelieu, the planned town in France); spelled as written. 'nets' could possibly be 'nets' or 'nets' (mail coaches carried nets for luggage) — transcribed as written. 'Mail coaches with nets' — 'nets' may be a misread; could also be 'nets' or 'vets' but 'nets' is the most plausible reading."
+    }
+  ]
+}

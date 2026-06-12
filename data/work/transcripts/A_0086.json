@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0086",
+  "volume": "A",
+  "pdf_page": 86,
+  "pages": [
+    {
+      "page_id": "A_0086_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Page appears blank; faint bleed-through marks from previous or adjacent pages visible but no readable text. Decorative endpaper/cover visible at far left edge."
+    },
+    {
+      "page_id": "A_0086_R",
+      "side": "R",
+      "handwritten_page_no": 1,
+      "blank": false,
+      "full_text": "April 16th 1993 Friday.\n\nWe set off from home at 2.40. on Charles' birthday.\n    Simon 43, [J]Eve 39, Thomas 13, William 11, Peter 9, John 5, Charles 4.\n    It is the last weekend of the Easter holidays.\n    We stopped in a lay-by for Charle[s'] chocolate birthday cake.\n    The Ogbourne St. George ****\nwas very pretty, big open chalk fields, hills, at a distance, all roun[d]\nOnly one chemical toilet, John got out & ran up the hill. Thomas & Pete[r] slept in the tent. John started off in the [to]p bunk & then moved to the bottom. [I]ve got a metal splinter from the torch in the middle of the night. Maglite",
+      "dates": [
+        { "raw": "April 16th 1993 Friday", "iso_guess": "1993-04-16", "confidence": 0.99 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ogbourne St. George"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number '1' visible in top-right corner, suggesting this is the first page of a new diary section/trip. The asterisks after 'The Ogbourne St. George' appear to be a rating (four stars). Text runs to the right edge and is cut off in a few places: 'Charle[s']' or possibly 'Charle[tte's]' — context suggests 'Charles' chocolate birthday cake'; 'all roun[d]' cut at right margin; 'Pete[r]' cut at right margin; '[to]p bunk' partially obscured at left gutter; '[I]ve' partially obscured. The ages listed (Simon 43, Eve 39, Thomas 13, William 11, Peter 9, John 5, Charles 4) appear to be family members' ages at time of writing. 'Maglite' is the last word on the page, sentence continues on next page."
+    }
+  ]
+}

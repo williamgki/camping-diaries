@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0022",
+  "volume": "A",
+  "pdf_page": 22,
+  "pages": [
+    {
+      "page_id": "A_0022_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "July 25 1990\nSimon, Eve, Thomas, William, Peter\noff to the Ardèche, France, & to\nvisit the Wegners in W. Germany.\n\tJohn & Charles looked after by\nNanny Helen, Jim, Margaret, Helen,\nRosemary, David & John Young\n\tWe set off via Rugby, to take\nphtos to Decorum. Lovely hot\nsunny weather. We had lunch near\nRugby & Crick, on farmland. Simon\nhad been mending the hot tap &\nforgotten to put the tap back on.\n(We have now solved that by using\nthe on/off switch.) At 4.30. we\nwent through the Dartford Tunnel\nwith no delays. Half an hour later\nwe heard on the radio that there were\n1½ mile queues in either direction\n\tWednesday night we spent camped",
+      "dates": [
+        { "raw": "July 25 1990", "iso_guess": "1990-07-25", "confidence": 0.98 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Ardèche", "France", "W. Germany", "Rugby", "Decorum", "Crick", "Dartford Tunnel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number at top-left is not clearly legible — the very top of the image is slightly cropped. The number '3936' visible at top-right of the left image likely spans the gutter and refers to the right page. 'phtos' is written as-is (likely 'photos'). 'Decorum' is an uncertain reading — could be a place name or abbreviation; possibly 'Decorum' is a misread of a destination like 'Decorating' or it may be a proper noun unfamiliar to transcriber. 'Ardèche' is spelled with accent as written. The Wegners are a family in West Germany. The entry continues on the right page."
+    },
+    {
+      "page_id": "A_0022_R",
+      "side": "R",
+      "handwritten_page_no": 38,
+      "blank": false,
+      "full_text": "on the road outside the Edwards'\nhouse. Lee, Richard, Andrew 11,\nMichael 9. It was [?Andrew's] Michael's last day\never at primary school & he\nwent off to a party. Thomas,\nWilliam, Peter & Andrew played\nfootball on the lawn & lego.\nWe had a delicious turkey supper\n& tart. __Canterbury__, the day the new archbishop cho[se]\n__Thursday__ We set off at 8.50.\n& came across on the Pride of\nCalais, big & clean. We had lunch\noutside a farm barn near St. Omer,\nthen went on a motorway A26.\n\t\t\tArras\n\t\t\t\tcoffee &\n\t\t\t\torangina in\n\t\t\t\tthe square",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": "1990-07-26", "confidence": 0.55 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": ["Canterbury"],
+      "place_mentions": ["Canterbury", "Calais", "St. Omer", "A26", "Arras"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "The right page number at top-right appears to be '38' (partially visible). There is a hand-drawn sketch of a building (appears to be a decorative illustration of a European-style building with a bell tower or belfry) in the lower-left area of the page, labelled 'Arras' above it with 'coffee & orangina in the square' to the right — this is a decorative sketch of a building in Arras, not a route map. The word 'Thursday' is underlined. 'Canterbury' is underlined. The sentence '... Canterbury, the day the new archbishop cho[se]' is cut off at the right edge of the page — the word after 'cho' is not visible. The annotation above 'Andrew's' reads 'Michael's' written in superscript as a correction. The ferry 'Pride of Calais' operated the Dover–Calais route. The iso_guess for Thursday is tentative as the diary only gives 'Thursday' and the trip started 25 July 1990 (Wednesday), making Thursday the 26th."
+    }
+  ]
+}

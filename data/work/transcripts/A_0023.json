@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0023",
+  "volume": "A",
+  "pdf_page": 23,
+  "pages": [
+    {
+      "page_id": "A_0023_L",
+      "side": "L",
+      "handwritten_page_no": 40,
+      "blank": false,
+      "full_text": "We spent the night at __Gernicourt Campsite__ **** + called in to see the de [?Huellos] the next morning. Beatrice is getting married tomorrow. Madame is in bed with a bad back. When we arrived Charles-Henri was playing tennis with his cousin, Edouard. Charles-Henri suggested an exchange for our children. Alexi 12, Philippie 9, Herard 3 + Louis 3 months.\n    We saw Reims Cathedral, arches, Chagall stained glass '74. William got a splinter.\n    On to the south, past Clairvaux Abbey to a municipal campsite at __Arc en Barois__ ****. It's on an island, locked tennis court tennis wall, swings. We had a delicious meal at Hotel Place de Parc. William kept very quiet during his first course listening out for his lobster's cream [continues overleaf]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Gernicourt Campsite", "Arc en Barois"],
+      "place_mentions": ["Gernicourt", "Reims Cathedral", "Clairvaux Abbey", "Arc en Barois", "Hotel Place de Parc"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Family name 'de [?Huellos]' is uncertain — handwriting shows an initial letter that could be H or M; likely a French surname near Reims. 'Philippie' may be 'Philippe' or 'Philippie' — transcribed as written. 'Herard' could be 'Herard' or 'Hérard'. The last line is cut off at the bottom of the page ('lobster's cream' continues on next page). 'Chagall stained glass \\'74' refers to Chagall windows installed in 1974 at Reims Cathedral."
+    },
+    {
+      "page_id": "A_0023_R",
+      "side": "R",
+      "handwritten_page_no": 41,
+      "blank": false,
+      "full_text": "There was a thunderstorm before we ate + lots of rain, which cleared the air.\n    __Saturday__\n    The next morning Thomas set of for 5 croissants, refused to believe the woman when she presented them, + instead struggled back with 5 baguettes which lasted delicious. Along a lovely wooded road D6\n    We were shopping for food + petrol on the outskirts of Dijon. We went into an apalling, huge supermarket, but got good food. The van was roasting + the fridge couldn't cope.\n    Motoring south afterwards, through lyons + on to Tourion, it was 39°. We came to a campsite on __Doue River__, near __Colombiers te Vieux__ ****. We swam in the camp swimming pool.",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["Doue River", "Colombiers te Vieux"],
+      "place_mentions": ["Dijon", "lyons", "Tourion", "Doue River", "Colombiers te Vieux"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "A marginal note reads 'map p.52' near the Dijon/south section. 'Tourion' is likely Tournus (a town in Burgundy on the Saône), but transcribed verbatim as written. 'lyons' written in lowercase, likely Lyon. 'Colombiers te Vieux' — 'te' may be the diarist's rendering of 'le' (Colombiers-le-Vieux or similar); transcribed verbatim. 'Doue River' may be the Doubs or another river in this region; transcribed as written. 'apalling' is the diarist's spelling. 'of' for 'off' in 'Thomas set of for' — transcribed verbatim. No year explicitly on this page; context (summer travel through France, Reims/Dijon/Lyon route) is consistent with the 1989–2003 volume range but year cannot be confirmed from this page alone."
+    }
+  ]
+}

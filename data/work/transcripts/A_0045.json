@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0045",
+  "volume": "A",
+  "pdf_page": 45,
+  "pages": [
+    {
+      "page_id": "A_0045_L",
+      "side": "L",
+      "handwritten_page_no": 86,
+      "blank": false,
+      "full_text": "We went to a restaurant recommended by David, Prés de l'Anneau, [?Eymourtiers] which was delicious — snails, lamb curry, cheese + crêpes. 5 portions served all seven of us.\n\n   In the afternoon we again played at the lake ~~in the afternoon~~.\n\n__July 17th.__\n\n   In the morning we loaded John, Charles (in armbands) into the boat, along with elevenses, + Thomas rowed them across part of the lake. Simon + Eve swam, Peter + William shared a lilo. It was rather cold. Peter came home on the lilo, Simon rowed + [?&] Thomas + William towed on the back of the boat.\n\n   We rested + swam a little in the afternoon, then looked around the peninsula in the car, + walked around Eymoutier for an hour. There are lots of old houses with stone heads on the walls,",
+      "dates": [
+        { "raw": "July 17th.", "iso_guess": "1989-07-17", "confidence": 0.5 }
+      ],
+      "headings": ["July 17th."],
+      "underlined_places": [],
+      "place_mentions": ["Prés de l'Anneau", "Eymoutier"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The word 'Eymourtiers' appears as a blue-ink annotation (possibly added later) above 'Prés de l'Anneau' — likely identifying the town as Eymoutiers (Haute-Vienne, France). The running text later spells it 'Eymoutier'. A strikethrough appears on 'in the afternoon' (written then crossed out by the author). Year not stated on page; volume covers 1989–2003. The mention of David, and the French location with lake swimming, is consistent with an early-volume France trip but year cannot be confirmed from this page alone."
+    },
+    {
+      "page_id": "A_0045_R",
+      "side": "R",
+      "handwritten_page_no": 87,
+      "blank": false,
+      "full_text": "alleyways + courtyards. The church was depressing: a real has-been — large, capitalled columns, huge black cobwebs hanging down — a gothic horror, but very old in parts. Dirty.\n\n   We had another meal at Prés de l'Anneau, very pretty, watching a man fill his watering cans. The duck was a bit salty, more delicious pancakes.\n\n__July 18.__\n\n   We had to leave the campsite, because there was no longer room for us. I had liked it one of the most that we'd been in.\n\n   We picked up food at Tulle, including delicious chocolates — truffles.\n\n   We had lunch in a lay-by next to a huge dirt pile which the boys played in.\n\n   Thomas, William + Peter now",
+      "dates": [
+        { "raw": "July 18.", "iso_guess": "1989-07-18", "confidence": 0.5 }
+      ],
+      "headings": ["July 18."],
+      "underlined_places": [],
+      "place_mentions": ["Prés de l'Anneau", "Tulle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "Page continues from left page mid-sentence ('alleyways + courtyards'). Text ends mid-sentence ('Thomas, William + Peter now') continuing onto the next spread. Year not stated; same trip as left page. 'Prés de l'Anneau' is a restaurant near Eymoutiers. 'Tulle' is a town in Corrèze, France — consistent with travel in the Massif Central region."
+    }
+  ]
+}

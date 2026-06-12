@@ -1,0 +1,43 @@
+{
+  "spread_id": "A_0082",
+  "volume": "A",
+  "pdf_page": 82,
+  "pages": [
+    {
+      "page_id": "A_0082_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Page is essentially blank. A few faint partial blue marks in the left margin (possibly stray ink or bleed-through) that do not form readable text."
+    },
+    {
+      "page_id": "A_0082_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "***** campsite good enough to plan a holiday aroun[d]\n**** campsite worth going out of our way to visit\n*** good campsite\n** Not special but fairly good site\n* Satisfactory\n-x below average not really worth visiting\n-XX only go to if no others are available\n-XXX Bad site\n-XXXX A campsite to go out of your way not to visit\n-XXXXX A despicable site to avoid at all costs.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.85,
+      "notes": "This page is a campsite rating key/legend, written in pencil, explaining the star and minus-X rating system used throughout the diary. No dates, places, or page numbers are present. The last line ends with a double equals sign (==) drawn beneath it. The word at the end of the first line is cut off at the page edge — 'aroun[d]' is the most likely reading."
+    }
+  ]
+}

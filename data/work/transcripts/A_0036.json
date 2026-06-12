@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0036",
+  "volume": "A",
+  "pdf_page": 36,
+  "pages": [
+    {
+      "page_id": "A_0036_L",
+      "side": "L",
+      "handwritten_page_no": 67,
+      "blank": false,
+      "full_text": "__Nov 3rd__\n\tWe set off to Lymington & wandered around the town looking at market stalls, seeing the quayside too. We had elevenses & then drove on to Hattie's.\n\tWe had lunch with Hattie + Simon drove into Southampton with James, while __Hattie__ + I walked the younger children to the park. Chandlers Ford\n\tThe girls gave John + Charles marvellous baths. Edward had spent £7 of his QE II left-over money on fireworks, + John + Charles stood at the window to watch them all. We all enjoyed them.\n\tOn the Sunday we went to St Martin's church. Very good sermon",
+      "dates": [
+        { "raw": "Nov 3rd", "iso_guess": "11-03", "confidence": 0.5 }
+      ],
+      "headings": ["Nov 3rd"],
+      "underlined_places": [],
+      "place_mentions": ["Lymington", "Southampton", "Chandlers Ford"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Year not stated on page; volume covers 1989-2003. 'QE II' likely refers to leftover spending money from a QE2 cruise trip. 'Hattie' appears underlined (a person's name, not a place). The word 'Chandlers Ford' appears at the right margin of a line — may be a marginal annotation indicating the park location near Southampton. St Martin's church not further identified."
+    },
+    {
+      "page_id": "A_0036_R",
+      "side": "R",
+      "handwritten_page_no": 68,
+      "blank": false,
+      "full_text": "from lay-reader Pauline Lewis.\n\tWe went on to pick up Thomas at lunch at __Jane + Harry's__. Katie Ireland was there too.\n\tRichard + Mary brought Thomas there. John called Holly \"Lollipop\" on the way home.\n\tWe stopped in the Cotswolds to pick up Simon's 'cello.\n\tIt has been a fabulous year's camping.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Cotswolds"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "This page is a direct continuation of the left page (Nov 3rd entry). 'Jane + Harry's' is underlined — a person's home rather than a place name. The closing line 'It has been a fabulous year's camping.' with an underline decoration suggests this is the end-of-year summary for the diary volume's camping season. No year is explicitly given."
+    }
+  ]
+}

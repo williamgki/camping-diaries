@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0026",
+  "volume": "A",
+  "pdf_page": 26,
+  "pages": [
+    {
+      "page_id": "A_0026_L",
+      "side": "L",
+      "handwritten_page_no": 47,
+      "blank": false,
+      "full_text": "2 hour walk in the evening.\nFriday we packed up & left. & went to see Madame de Nayelle's mother's château, which she sold about 8 years ago - __Chambonais__. A fairy tale castle, with shining turrets & a beautiful garden 'les terraces' with water in a moat at one end of the garden. It is now a hotel & the gardens are overgrown. The village is one of the loveliest we've seen, very old & unspoilt. An old lady (Madam [?Lagrage]) who knows the Nayelle's well, was sweeping around the church & sold us peaches, strawberries, apple juice. The church is old, with head gargoyles, & one of a person's bum on the loo.\n   Thomas bought a boat at __Joyeuse__ & we started driving down the River Ardèche (which joins the Rhone) to camp",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Chambonais", "Joyeuse"],
+      "place_mentions": ["Chambonais", "Joyeuse", "Ardèche", "Rhone"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Text continues from previous page (starts mid-narrative) and is cut off at the bottom mid-sentence. 'Chambonais' is underlined — could also read as 'Chambonais' or 'Chambonas' (a village near Joyeuse in Ardèche). 'Lagrage' is uncertain; could be 'Lagrave' or similar. 'Madame de Nayelle' appears to be a family acquaintance. No year is visible on this page; context (France, Ardèche) is consistent with the volume's 1989–2003 range."
+    },
+    {
+      "page_id": "A_0026_R",
+      "side": "R",
+      "handwritten_page_no": 48,
+      "blank": false,
+      "full_text": "Aigueze",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Aigueze"],
+      "route_sketch": true,
+      "route_sketch_description": "A pen sketch occupying most of the page. The label 'Aigueze' appears at the top-left. The upper portion shows a detailed drawing of a village skyline: a church with a tall spire on the left, rows of buildings/houses, and what appears to be castle ruins or fortified walls on the right. Below the village, there is a sketch of steep cliffs or rocky gorge walls. At the bottom, the scene shows a river with small figures of people in boats/canoes on the water, with rocks visible in the river.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page is almost entirely a hand-drawn sketch of Aigueze (a village at the mouth of the Gorges de l'Ardèche where it meets the Rhône), consistent with the left-page narrative of travelling down the River Ardèche. The only text is the place label 'Aigueze' at top-left."
+    }
+  ]
+}

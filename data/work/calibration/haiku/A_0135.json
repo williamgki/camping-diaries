@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0135",
+  "volume": "A",
+  "pdf_page": 135,
+  "pages": [
+    {
+      "page_id": "A_0135_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Helen there of be [?] to the Atlantic [?] own [?] [?] Bridgton",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Atlantic", "Bridgton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.4,
+      "notes": "Left page is dominated by a large black and white photograph of stone relief sculpture (architectural detail with carved heads and fish motif). Handwritten caption text on right margin is faint and partially illegible. Text appears to be a note about the photograph, possibly referencing a location or person named Helen."
+    },
+    {
+      "page_id": "A_0135_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "There was an organ & Trumpet recital in the evening at 9.0. which was too late, so we didn't go to it.\n\nWe drove on to St.Jean de Vaux. & camped in the middle of the Burgundy Vineyards. We got there just before the pool shut. Lightening in the night. Thomas continues to be ill.\n\nTues 9th August\nWe swam & rested. There are lots of children's camps. An Algerian girl is chasing Peter. We went out in the van in the evening to Restaurant de Liaison Hotel de Garage. Coury, where we went last year & again had a good meal. Simon ate lots of chicken.\n\nThere was another very windy storm in the night. (it had been too hot in the day) Simon spent ages in the tent. He has now tied the tent to a tree. The poor camp leader of the children were very busy in the night. Charley stayed in the tent despite of the storm. It was still raining & stormy in the morning. Thomas is still sick. We went wine tasting at the same caves as last year. Simon & I asked",
+      "dates": [
+        {
+          "raw": "Tues 9th August",
+          "iso_guess": "1995-08-09",
+          "confidence": 0.5
+        }
+      ],
+      "headings": [],
+      "underlined_places": ["St.Jean de Vaux", "Burgundy Vineyards"],
+      "place_mentions": ["St.Jean de Vaux", "Burgundy Vineyards", "Restaurant de Liaison", "Hotel de Garage", "Coury"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Right page continues narrative of a camping trip in France (Burgundy region). References to wine tasting caves and restaurants suggest France/Burgundy area. Date is Tuesday 9th August but year not explicitly stated on this page. Context from volume (1989-2003) and page position (~page 135 of 350) suggests mid-1990s. Names mentioned: Helen, Peter, Thomas, Simon, Charley. Text appears to cut off mid-sentence at bottom."
+    }
+  ]
+}

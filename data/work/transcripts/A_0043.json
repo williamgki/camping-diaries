@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0043",
+  "volume": "A",
+  "pdf_page": 43,
+  "pages": [
+    {
+      "page_id": "A_0043_L",
+      "side": "L",
+      "handwritten_page_no": 82,
+      "blank": false,
+      "full_text": "Le Moulin de Beauce",
+      "dates": [],
+      "headings": ["Le Moulin de Beauce"],
+      "underlined_places": [],
+      "place_mentions": ["Beauce"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Le Moulin de Beauce"],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a pencil sketch of a windmill. The only text is the caption 'Le Moulin de Beauce' written in pen/ink at the top centre of the page. 'La Beauce' is the agricultural plain region of France south of Paris; a moulin de Beauce (Beauce windmill) would be consistent with travel through the Loire Valley area. No dates appear on this page. Page number 82 is in the top-left corner."
+    },
+    {
+      "page_id": "A_0043_R",
+      "side": "R",
+      "handwritten_page_no": 83,
+      "blank": false,
+      "full_text": "We camped at Val de Loire ★★★★\n[superscript: Sèces.]\nIt had 3 swimming pools, Simon + the boys swam. But it was very crowded.\nMesland. There was a midnight swim to celebrate 14th July.\n   July 14th. We set off + arrived at\n__Chaumont__ just in time for church.\nThe boys' brigade + girls' brigade were there. The bells sounded awful, but we liked the singing + the church had a happy atmosphere.\n   After 15 minutes John + Charles started to explode, so we set off to walk up to the Chateaux. We looked at the outside. The roofs had beautiful curves. The Loire is very pretty with soft, deciduous, billowing trees. Even the wood supporting [superscript: curves] drawbri[dge]\n   After a fruitless search for a restaurant, we reached",
+      "dates": [
+        { "raw": "14th July", "iso_guess": null, "confidence": 0.5 },
+        { "raw": "July 14th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": [],
+      "underlined_places": ["Chaumont"],
+      "place_mentions": ["Val de Loire", "Mesland", "Chaumont"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Text continues from a previous page (starts mid-narrative). After '★★★★' there is a small superscript annotation that reads '[?Sèces.]' — possibly a campsite name or sub-location refinement; could also read 'Sèces' or '5èces' (meaning a 5-star rating note). 'Chaumont' is underlined; this is almost certainly Chaumont-sur-Loire, where the famous château is located on the Loire. 'Val de Loire' is the campsite name (or a campsite in the Val de Loire). 'Mesland' is a village in the Loir-et-Cher département, consistent with a Loire Valley camping trip. The boys' brigade and girls' brigade reference suggests the church visit fell on 14 July (Bastille Day). Near the bottom of the page, after 'supporting', there is a superscript word that reads '[?curves]' — this may be a later annotation clarifying the subject. The last word 'drawbri[dge]' is cut off at the page edge; reading 'drawbridge' is very likely. The page ends mid-sentence. Year cannot be determined from this page alone; the Loire Valley trip with family members John and Charles in midsummer is consistent with volume A (1989–2003) but no year is stated."
+    }
+  ]
+}

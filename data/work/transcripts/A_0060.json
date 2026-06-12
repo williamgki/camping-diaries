@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0060",
+  "volume": "A",
+  "pdf_page": 60,
+  "pages": [
+    {
+      "page_id": "A_0060_L",
+      "side": "L",
+      "handwritten_page_no": 116,
+      "blank": false,
+      "full_text": "Welshpool. We drove on home. We had had a marvellous, sunburnt holiday, one of the best ever. But on the Friday + Saturday following it has poured rain.\n\nMay 31st Sunday\n     We Jill set off with Kate Warburton to Charlotte Maxwell's christening. John arrived + took Kate back to London. The Christening was at __Little Gaddesden__, + the reception/lunch was at Mrs. della Casa's house. It was a lovely warm sunny day, with 40 children. We gave Charlotte her father's school tuck box. David Maxwell came with Imogen + Iona, but Maxine was at another christening in London.\nJune 9th\n     Simon, Eve, Thomas, Charles (chickenpox) went over to Malvern for Thomas to meet Boyle + Urbanchick, + all to meet the Hills. A good, interesting day.",
+      "dates": [
+        { "raw": "May 31st Sunday", "iso_guess": "1992-05-31", "confidence": 0.45 },
+        { "raw": "June 9th", "iso_guess": "1992-06-09", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": ["Little Gaddesden"],
+      "place_mentions": ["Welshpool", "Little Gaddesden", "London", "Malvern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The diary entry begins mid-sentence with 'Welshpool', continuing from the previous page. The word before 'set off' looks like 'Jill' — may be a personal name. Year is not stated on this page; year cannot be confirmed from content alone; 'May 31st Sunday' could fit several years in the 1989–2003 range. 'Urbanchick' is an unusual surname — could also read '[?Urbanchick]' but transcribed as best reading."
+    },
+    {
+      "page_id": "A_0060_R",
+      "side": "R",
+      "handwritten_page_no": 117,
+      "blank": false,
+      "full_text": "Friday June 12.\n     The 7 of us set off to see __Lincoln__. (Laura stayed at home to look after a French tennis player.)\n     We left at 4.50., + got to Hartsholme Country Park ****, 2 miles outside Lincoln at 7.15.\n     Simon put the tent up; Eve got supper ready, + the children disappeared off to the swings. Peter lost his new \"cool hat + sunglasses. A lovely sunny evening.\n     Hartsholme Park is the beautiful grounds of an old house, lake, bridge (where the hard rain broken in the night), + good playground. Just up the road is a school with swimming pool.\n     On the Saturday we caught a bus into Lincoln which dropped us south of the old south gate on the main pedestrian shopping road. John + Charles had a ride on a roundabout. It was incredibly gay",
+      "dates": [
+        { "raw": "Friday June 12.", "iso_guess": "1992-06-12", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": ["Lincoln"],
+      "place_mentions": ["Lincoln", "Hartsholme Country Park"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "The asterisks '****' after 'Hartsholme Country Park' appear to be a rating or decoration in the original. The text ends mid-sentence at the bottom of the page ('It was incredibly gay'), continuing on the next page. 'hard rain broken' may be [?hard railing broken] — reading is uncertain. Year not stated on this page; 'Friday June 12' is consistent with several years; 1992 is a tentative guess based on volume position but confidence is low."
+    }
+  ]
+}

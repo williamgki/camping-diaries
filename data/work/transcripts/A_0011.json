@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0011",
+  "volume": "A",
+  "pdf_page": 11,
+  "pages": [
+    {
+      "page_id": "A_0011_L",
+      "side": "L",
+      "handwritten_page_no": 16,
+      "blank": false,
+      "full_text": "Lord + Lady's solar chamber, battlements. Cellar with barrel marks on walls. Green, cosy. You can imagine a family living there - it would be a challenge to make it comfortable for a family today, after 250 years without residents.\n\tArrived at __Hamperley__ campsite ****\nLovely big flat field, wood along one side. Extraordinary loo, put together free - corrugated, brown paper over floor, Space also used to store old cooker + T.V. Very useful because only 1¼ hours from B'ham. Very windy during the night.\n\tIn the morning we visited Ludlow Castle. The boys waved from the battlements.. We walked around [?Ludlow].\n\tThe year finished with a [illegible] at [?Tomislen].",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Hamperley"],
+      "place_mentions": ["Hamperley", "B'ham", "Ludlow Castle", "Ludlow"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page continues from previous spread. Text at top of page appears to be describing a castle visit (Lord & Lady's solar chamber, battlements, cellar) likely referring to Ludlow Castle or another castle visited. The campsite 'Hamperley' is underlined. The final line is partially cut off at the bottom; the last word could be 'Tomislen' or similar — hard to read."
+    },
+    {
+      "page_id": "A_0011_R",
+      "side": "R",
+      "handwritten_page_no": 17,
+      "blank": false,
+      "full_text": "1990\n\nApril 6th. Day out to Windmill + Chur[ch] with Doris + Adelbert,\n\tSimon, John, Charles + I came home a quick route, because of [chi]lds, leaving Doris + Adelbert + Thomas + Peter to Adelbert's map-",
+      "dates": [
+        { "raw": "1990", "iso_guess": "1990", "confidence": 0.98 },
+        { "raw": "April 6th", "iso_guess": "1990-04-06", "confidence": 0.88 }
+      ],
+      "headings": ["1990"],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.72,
+      "notes": "The page has a large pencil drawing of a windmill occupying most of the upper half, with '1990' written above it — this appears to be a section heading/illustration for the 1990 entries. Text at the bottom is partially cut off at the right edge and bottom of the image. 'Chur[ch]' — the word continues off the right edge, likely 'Church'. The word before 'lds' is partially cut off — likely 'chi' making 'childs' or possibly 'child's'. Text continues on the next page. No specific place names legible beyond the implied Windmill and Church destination."
+    }
+  ]
+}

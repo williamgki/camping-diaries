@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0098",
+  "volume": "A",
+  "pdf_page": 98,
+  "pages": [
+    {
+      "page_id": "A_0098_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "local boys + girls. Friendlier people than in the morning.\n     We spent the night at the __Cremona__ campsite, + had pizzas in a friendly restaurant where we",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Cremona"],
+      "place_mentions": ["Cremona"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Soncino castle 1479"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The page contains a pencil sketch of a circular/round-towered building captioned in blue ink 'Soncino castle 1479'. This is a hand-drawn illustration of the castle building, not a route map. The text at the bottom is a continuation from the previous page."
+    },
+    {
+      "page_id": "A_0098_R",
+      "side": "R",
+      "handwritten_page_no": 13,
+      "blank": false,
+      "full_text": "watched them putting pizzas in the oven. We got lost on the way out of the city centre back to the campsite.\n     At every campsite John + Charles spend ages in the children's playground. At Cremona William + Peter played ping pong.\n__Friday__  We set off around __Cremona__, looking at the Targetti lighting shop, the Stradivarius museum & the town hall which had a collection of lovely old violins.\n     We had lunch in a self-service restaurant + couldn't get into the cathedral. Simon + the boys spent ages deciding which violin models to buy.",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Friday"],
+      "underlined_places": ["Cremona"],
+      "place_mentions": ["Cremona", "Targetti", "Stradivarius museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The day heading 'Friday' appears underlined. 'Targetti' is likely the name of a shop (Targetti lighting shop) rather than a place name per se; included as it is a named location visited. No year can be confirmed from the page content alone; volume covers 1989-2003. The handwritten page number '13' is visible in the top-right corner."
+    }
+  ]
+}

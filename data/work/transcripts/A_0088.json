@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0088",
+  "volume": "A",
+  "pdf_page": 88,
+  "pages": [
+    {
+      "page_id": "A_0088_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Alexandra, working for Cunard personel.\nAnna came back from her job as a chamber-\nmaid. Katrina was doing community service at an\nold peoples' home.\n\tSimon drove all of us + Hattie +\nKatrina, Laura + Edward to see __Winchester__\n__Cathedral__. It was lovely to see all the\nDugoids. Simon + Eve slept in the new extension.\n\n\t__April 19th__\n\tHattie left for work on her first day\nof term, having calmly given everyone breakfast.\nThen we set off for __Romsey Rapids__.\n\tThe Rapids £11-20 for 1 adult,\n5 children, were great fun. We had\nhot chocolate afterwards.\n\tWe drove to __Portsmouth__ + ate in the\ncarpark, surrounded by hoardes of French\nstudents.\n\tThe HMS Victory, Nelson's flagship\nwas fascinating. The guide pretended Peter\n[?to] [illegible] at 10 miles per hour",
+      "dates": [
+        { "raw": "April 19th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["April 19th"],
+      "underlined_places": ["Winchester Cathedral", "Romsey Rapids", "Portsmouth"],
+      "place_mentions": ["Winchester Cathedral", "Romsey Rapids", "Portsmouth", "HMS Victory"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Page continues from previous spread — opening lines refer to Alexandra/Anna/Katrina context without a clear year anchor on this page. The bottom line is partially cut off; reads approximately '[?to knot] at 10 miles per hour' but last words are not fully legible. 'personel' is the diary's spelling (sic). 'hoardes' is the diary's spelling (sic). Year cannot be confirmed from this page alone; volume covers 1989–2003."
+    },
+    {
+      "page_id": "A_0088_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Bell tower Portsmouth carpark.  St Anne's Chu[rch]\n\n[Hand-drawn sketch of a bell tower / cupola with weather vane (showing S and N compass points) above a domed roof supported by columns, sitting atop a square tower base, with a flat rooftop in the foreground]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Portsmouth", "St Anne's Church"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Bell tower Portsmouth carpark.  St Anne's Chu[rch]"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The right page is dominated by a detailed hand-drawn architectural sketch of a bell tower/cupola, captioned at the top. The caption extends to the right edge of the scan and is cut off after 'St Anne's Chu' — almost certainly 'St Anne's Church'. The sketch includes a weather vane with S (south) and N (north) compass labels. This is an architectural drawing, not a route sketch. Left-margin text visible is bleed-through from the facing page and has not been re-transcribed."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0087",
+  "volume": "A",
+  "pdf_page": 87,
+  "pages": [
+    {
+      "page_id": "A_0087_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "April 17th.\n\tWe visited Di + Ian. She opened the door with \"Hello! Would you like a drink + a pee?\" We had elevenses + drove on to\n\n[sketch of David + Maxine's House, Newbury, labelled: kitchen, eating room]\n\nDavid + Maxine's House, Newbury.\n[?Bley Lodge]",
+      "dates": [
+        { "raw": "April 17th.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Newbury"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["David + Maxine's House, Newbury. [?Bley Lodge]"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "No handwritten page number visible in top-left corner. The sketch is a hand-drawn illustration of a house (David + Maxine's House, Newbury) with internal labels 'kitchen' and 'eating room'. The last line below the sketch reads '[?Bley Lodge]' — could be 'Bley Lodge' or another name; partially obscured at page bottom. Year cannot be determined from this page alone; volume covers 1989–2003."
+    },
+    {
+      "page_id": "A_0087_R",
+      "side": "R",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "Hungerford. We wandered around antique shops, Simon looking for dining room chairs (unsuccessful) + Eve looking for hair pins (successful), and on for lunch + the night to David + Maxines + Imogen 3½ + Iona 2 at Newbury.\n\tWe went on a long walk past \"The & 5 Bells, very pretty, to the Watermill Theatre – lovely auditorium, + back for tea.\n\tBgoats in the field, kite flying.\n\tThomas + William slept at the bottom of the garden.\n\tImogen, Iona, John + Charles rolled down the hill in the caterpillar + the little [illegible].\n\nApril 18th\n\tWe had breakfast – gorgeous fry-up in the house, + left for Hattie + James at Chandlers Ford. We had a delicious roast lunch, + chatted. James caught a bus to Heathrow, plane to Rome + then Cairo, then minibus!",
+      "dates": [
+        { "raw": "April 18th", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["April 18th"],
+      "place_mentions": ["Hungerford", "Newbury", "Watermill Theatre", "Chandlers Ford", "Heathrow", "Rome", "Cairo"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Handwritten page number '2' visible in top-right corner. 'The & 5 Bells' is likely 'The B & 5 Bells' or a pub name — transcribed as written. 'Bgoats' likely 'B goats' or possibly '3 goats' — transcribed as written. 'caterpillar' likely refers to a toy/game. Year cannot be determined from this page alone; April 17th–18th, volume covers 1989–2003. 'April 18th' appears underlined in the original."
+    }
+  ]
+}

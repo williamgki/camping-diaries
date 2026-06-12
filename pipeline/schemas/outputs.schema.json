@@ -1,0 +1,103 @@
+{
+  "_comment": "JSON Schemas for the canonical outputs, keyed by filename. Used by 12_validate.mjs (ajv).",
+  "trips.json": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "required": ["id", "title", "volume", "countries", "stats", "status", "pdf_spreads"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "title": { "type": "string", "minLength": 3 },
+        "volume": { "enum": ["A", "B"] },
+        "start_date": { "type": ["string", "null"] },
+        "end_date": { "type": ["string", "null"] },
+        "year": { "type": ["integer", "null"], "minimum": 1989, "maximum": 2019 },
+        "date_precision": { "enum": ["day", "month", "year"] },
+        "travellers": { "type": "array", "items": { "type": "string" } },
+        "countries": { "type": "array", "items": { "type": "string", "pattern": "^[A-Z]{2}$" } },
+        "status": { "enum": ["resolved", "review"] },
+        "stats": {
+          "type": "object",
+          "required": ["stops", "excursions", "crossings", "distance_km"]
+        }
+      }
+    }
+  },
+  "route_evidence.json": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "required": ["trip_id", "seq", "place_id", "role", "confidence"],
+      "properties": {
+        "trip_id": { "type": "string" },
+        "seq": { "type": "integer" },
+        "place_id": { "type": "string" },
+        "role": {
+          "enum": ["home", "departure", "overnight_base", "main_stop", "transit_stop", "crossing_terminal", "inferred_anchor", "unresolved"]
+        },
+        "confidence": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+        "source_page_id": { "type": ["string", "null"] },
+        "excerpt": { "type": ["string", "null"] },
+        "inferred": { "type": "boolean" }
+      }
+    }
+  },
+  "routes.json": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "required": ["trip_id", "legs"],
+      "properties": {
+        "trip_id": { "type": "string" },
+        "legs": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["seq", "mode", "geometry_ref", "distance_km"],
+            "properties": {
+              "mode": { "enum": ["road", "ferry", "tunnel"] },
+              "geometry_ref": { "type": "string" },
+              "distance_km": { "type": "number", "minimum": 0 }
+            }
+          }
+        }
+      }
+    }
+  },
+  "places.json": {
+    "type": "object",
+    "additionalProperties": {
+      "type": "object",
+      "required": ["place_id", "normalized_name", "precision"],
+      "properties": {
+        "lon": { "type": ["number", "null"], "minimum": -25, "maximum": 35 },
+        "lat": { "type": ["number", "null"], "minimum": 35, "maximum": 72 },
+        "precision": { "enum": ["exact", "locality", "region_anchor", "approximate", "unresolved"] }
+      }
+    }
+  },
+  "review_queue.json": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "required": ["id", "type", "detail", "status"],
+      "properties": {
+        "type": {
+          "enum": ["unresolved_place", "ambiguous_geocode", "boundary_conflict", "illegible_page", "page_number_anomaly", "inferred_crossing", "routing_detour", "routing_issue"]
+        },
+        "status": { "enum": ["open", "patched", "dismissed"] }
+      }
+    }
+  },
+  "source_pages.json": {
+    "type": "array",
+    "items": {
+      "type": "object",
+      "required": ["page_id", "volume", "pdf_page", "side", "image"],
+      "properties": {
+        "side": { "enum": ["L", "R"] },
+        "handwritten_page_no": { "type": ["integer", "null"] }
+      }
+    }
+  }
+}

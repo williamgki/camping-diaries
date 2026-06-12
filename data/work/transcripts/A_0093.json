@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0093",
+  "volume": "A",
+  "pdf_page": 93,
+  "pages": [
+    {
+      "page_id": "A_0093_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Monday 31st May.\n\t\tFinally it has stopped raining. Peter flew his kite. William + John climbed in the rocks. Eve got William to take a family portrait from the A frame [?stage] to the rocks.\n\t\tWe set off in the van + walked in Cwm Nantcol, a superb gorge with waterfall. Simon held Charles' hand. John + Thomas were dangerous. We read about erratic boulders.\n\t\tIn the afternoon we drove high up through solitary farm buildings + finally walked to + from the __Door of Ardudwy__, 3 miles altogether, now a boggy track, but once an important road from the coast into central Wales.\n\t\tBack at the campsite it is windy, Peter is flying the kite. We are about to have a barbeque.\n\t\tSimon is laughing at Charles talking all the time, even to himself. At lunch Simon drove into a bolder + smashed a bit of the numberplate.",
+      "dates": [
+        { "raw": "Monday 31st May", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Door of Ardudwy"],
+      "place_mentions": ["Cwm Nantcol", "Door of Ardudwy", "central Wales"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "No handwritten page number visible in top-left corner. Date is 'Monday 31st May' — in the 1989-2003 range, May 31st fell on a Monday in 1993 and 1999; year cannot be determined from page content alone so iso_guess left null. 'A frame [?stage]' — word between 'frame' and 'to' is unclear, possibly 'stage' or 'side'. 'bolder' is the diarist's spelling of 'boulder'."
+    },
+    {
+      "page_id": "A_0093_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "__Menu at Sinas__\n\n[glued-in paper slip:]\nFri l  picnic [?chicken]\n    S  [?Tuna] [?Riche]    Strawb. cr.\n         carrots,\nSat l  ham + rolls  Olives    apples\n    S  Tongue + salad      ap + al sp\nSun l  bacon sandw.    cherries [?shortd]\n    S  [?Riche] nuts [?peanutbut]  Bakewell tart\n          [?cel-ery] [?mam crch]\nMon l  sausage + rolls    kiwi  [?charlse]\n    S  [?artichoke hearts]\n       tuna + salad       car flan    — barbeque\n                                       instead\nTues l  cheese + toms    prunes\n         + beans/nuts\n     s  tinned ham        treacle tart\n\ntea  Auntie Olive, rock cakes,\n               [?flap] [?jacks]\n]\n\nWe had a lovely Barbeque + then sat by the campfire, Simon, Thom[as] + Charles [h]ad made a fire, instead of the normal box barbeque.\nTuesday  Again it poured rain all day. We drove home via Powys Castle, which turned out to be closed, + __Montgomery__,",
+      "dates": [
+        { "raw": "Monday 31st May", "iso_guess": null, "confidence": 0.4 },
+        { "raw": "Tuesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Menu at Sinas"],
+      "underlined_places": ["Montgomery"],
+      "place_mentions": ["Sinas", "Powys Castle", "Montgomery"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "No handwritten page number visible in top-right corner. Right page contains a glued-in paper slip with a meal menu headed 'Menu at Sinas' (possibly a campsite name). The menu slip is partially obscured by tape/adhesive residue, making several items hard to read — marked with [?] throughout. 'Sinas' could be a campsite name in Wales; possibly 'Sinas' or '[?Sinai]' but 'Sinas' is the clearest reading. Menu columns appear to be: day, L (lunch) / S (supper), food items. 'Tues' line is cut off at page edge — text continues '+ Montgomery,' suggesting more text on a following page. 'Thom' is cut off at gutter — likely 'Thomas'."
+    }
+  ]
+}

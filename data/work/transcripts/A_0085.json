@@ -1,0 +1,62 @@
+{
+  "spread_id": "A_0085",
+  "volume": "A",
+  "pdf_page": 85,
+  "pages": [
+    {
+      "page_id": "A_0085_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": true,
+      "full_text": "",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 1.0,
+      "notes": "Page is blank white. The text visible on the far right edge ('Katrien Spain 95.') is bleed-through from the right page at the gutter overlap."
+    },
+    {
+      "page_id": "A_0085_R",
+      "side": "R",
+      "handwritten_page_no": 95,
+      "blank": false,
+      "full_text": "Katrien Spain\np. 67 - end.\n\n[Hand-drawn route map of Spain and Portugal with the following place labels on the map: Santiago, Bilbao, Picos de Europa (A), León, Salamanca, Santiago de Compostela, Braga, Oporto, Sierra de la Peña de Francia (C/D area)]\n\npassin Picos 1250 m. (A)\n[?after] Cebreiro 1337 (B)\nSierra de 1200 (C)\nMontemuro 1240 (D)\nEl Portillo\nLas Huertas 1710 (E)\nSanta [?] Ines",
+      "dates": [
+        { "raw": "'95", "iso_guess": "1995", "confidence": 0.9 }
+      ],
+      "headings": ["Katrien Spain"],
+      "underlined_places": ["Katrien Spain"],
+      "place_mentions": [
+        "Spain",
+        "Santiago",
+        "Bilbao",
+        "Picos de Europa",
+        "León",
+        "Salamanca",
+        "Santiago de Compostela",
+        "Braga",
+        "Oporto",
+        "Sierra de la Peña de Francia",
+        "Cebreiro",
+        "Sierra de",
+        "Montemuro",
+        "El Portillo",
+        "Las Huertas",
+        "Santa [?] Ines"
+      ],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn outline map of Spain and Portugal with a route marked in red (and some blue) lines. Labelled points A–E mark altitude stops: (A) Picos de Europa near León in the north; (B) unlabelled on map but referenced in key as Cebreiro, in the northwest; (C) Sierra area on right/east side; (D) Montemuro/El Portillo area; (E) marked near Bilbao in the north with filled circle. Santiago de Compostela is labelled in lower-left of map; Braga and Oporto are in Portugal (lower centre); Salamanca is on the right; 'Sierra de la Peña de Francia' is labelled on the right side. Arrows along the top of the map suggest mountain passes or direction of travel. The route appears to loop around northern and central Spain and into Portugal.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Page number '95.' written at top left. 'Katrien Spain' is underlined and serves as a section heading/title. 'p. 67 - end.' below the title indicates this map/index refers to diary pages 67 to the end of the Spain section. The altitude key at the bottom lists five lettered stops with heights in metres. 'passin' likely means 'passing' (i.e. altitude at a mountain pass). Second key entry reads '[?after] Cebreiro 1337' — first word could be 'after' or 'O' (as in O Cebreiro, the Galician place name). 'Santa [?] Ines' — middle word unclear, possibly 'de' or an initial. Year 1995 inferred from '95 annotation."
+    }
+  ]
+}

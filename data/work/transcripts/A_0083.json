@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0083",
+  "volume": "A",
+  "pdf_page": 83,
+  "pages": [
+    {
+      "page_id": "A_0083_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Autun",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Autun"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Autun"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.95,
+      "notes": "Page is dominated by a large glued-in photograph of an ornate Romanesque carved tympanum/doorway, likely from the cathedral at Autun (Burgundy, France). The only handwritten text is the caption 'Autun' written in blue ink in the bottom-right corner of the page."
+    },
+    {
+      "page_id": "A_0083_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Camping Van Log 2     April '93.\n86 Westfield Rd, Edgbaston, B15 3JG.\nAutun",
+      "dates": [
+        { "raw": "April '93.", "iso_guess": "1993-04", "confidence": 0.95 }
+      ],
+      "headings": ["Camping Van Log 2"],
+      "underlined_places": [],
+      "place_mentions": ["Edgbaston", "Autun"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.97,
+      "notes": "This is the title/inside-cover page of 'Camping Van Log 2', the second diary volume. It gives the date April 1993 and the home address 86 Westfield Rd, Edgbaston, B153JG (postcode may be B15 3JG). The word 'Autun' appears written at the bottom-left and bottom-right corners — these appear to be caption labels associated with the Autun cathedral photo on the facing left page. The page is otherwise blank."
+    }
+  ]
+}

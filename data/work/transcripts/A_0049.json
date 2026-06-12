@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0049",
+  "volume": "A",
+  "pdf_page": 49,
+  "pages": [
+    {
+      "page_id": "A_0049_L",
+      "side": "L",
+      "handwritten_page_no": 94,
+      "blank": false,
+      "full_text": "S, E, J & screaming C.  He, of course, won, pushing them in.  A leisurely afternoon swimming + boating + reading.  A perfect site\n__July 22nd__\n\tToday we actually made it to Conques looked round the shops + church + had lunch in a friendly restaurant.  A woman was playing the piano in the church — rehearsing for a recital that evening.  It was beautiful.  The tympanum is awe-inspiring + very well preserved  it was too hot to walk down to see the old pilgrim's bridge, but we did look at the treasures + find out about St. Foy.\n\tAfter we arrived back at camp, the boys had a pedalo fight with the Dutch, + in the evening a treasure hunt was organised\n__July 23rd__\n\tRain poured early on, then the day warmed up.  John took himself down to the pool to swim — fortunately with",
+      "dates": [
+        { "raw": "July 22nd", "iso_guess": "1989-07-22", "confidence": 0.45 },
+        { "raw": "July 23rd", "iso_guess": "1989-07-23", "confidence": 0.45 }
+      ],
+      "headings": ["July 22nd", "July 23rd"],
+      "underlined_places": [],
+      "place_mentions": ["Conques", "St. Foy"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "Page begins mid-sentence continuing from previous spread — 'S, E, J & screaming C' refers to people (probably children/family members by initial). The handwritten page number at top-left is partially cut off; reads as '94' based on sequence from nearby transcripts (pdf_page 45 = diary pages 86-87, so pdf_page 49 ~ pages 94-95). Conques is a village in Aveyron, France, known for its Romanesque abbey church with a tympanum and the relics of Ste Foy. 'St. Foy' refers to Sainte-Foy, whose relics are housed at Conques. Year not stated on page; trip is in France in late July, consistent with early volume position (1989 or early 1990s) — iso_guess year tentative. 'pedalo' = pedal boat."
+    },
+    {
+      "page_id": "A_0049_R",
+      "side": "R",
+      "handwritten_page_no": 95,
+      "blank": false,
+      "full_text": "armbands.\n\tIn the evening we went to Hotel du Nord at Montealey.  It was described in the book as \"cosy\".  Indeed, it was, + relaxing + good food.  Stuffed cabbage, veal + lovely puddings.  Myrtle pie / chestnut + pistachio icecream.  We also had a local dish — mashed potato, stretchy cheese + garlic.\n\n__July 24th__\n\tIt's cool + rainy today.  We set off early on a day trip to see Estaing and Espalion .  Lovely old houses, chateaux + churches.  In the evening the children played ping pong + other ball games with other children at the camp.  The weather warmed up in the evening.\n\n__July 25th__\n\tWe woke up at 6.45. + left at 7.45 for the canoe base on the river Lot.",
+      "dates": [
+        { "raw": "July 24th", "iso_guess": "1989-07-24", "confidence": 0.45 },
+        { "raw": "July 25th", "iso_guess": "1989-07-25", "confidence": 0.45 }
+      ],
+      "headings": ["July 24th", "July 25th"],
+      "underlined_places": [],
+      "place_mentions": ["Hotel du Nord", "Montealey", "Estaing", "Espalion", "Lot"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues from left page mid-sentence ('armbands'). Handwritten page number '95' visible at top-right. 'Montealey' is the diary's spelling — likely Montesalvy (Cantal, France), a village near Conques; could also read 'Montsalvy'. 'Hotel du Nord at Montealey' — Hotel du Nord is the restaurant/hotel name. Estaing is a village on the river Lot in Aveyron; Espalion is a nearby town also on the Lot. 'stretchy cheese' is likely aligot, a traditional dish of the Aubrac region. Year not on page; same trip as left page — iso_guess year tentative. The canoe base on the 'river Lot' at the end of July 25th entry is consistent with the Lot valley near Estaing/Espalion."
+    }
+  ]
+}

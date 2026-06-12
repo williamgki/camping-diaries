@@ -1,0 +1,45 @@
+{
+  "spread_id": "B_0250",
+  "volume": "B",
+  "pdf_page": 250,
+  "pages": [
+    {
+      "page_id": "B_0250_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Westbury Court Garden originally laid out 1696-17[illegible]\nRestored with original plants 1967 N.T.\n(Before Capability Brown)          lovely tulips &\nOn home for tea.                    apple trees",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Westbury Court Garden"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Enjoy Westbury Court Garden — Rediscover a formal Dutch water garden (National Trust leaflet glued in)"],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Page contains a glued-in National Trust promotional leaflet for Westbury Court Garden with a colour photo of the formal canal garden. Handwritten notes appear below the leaflet. The date range '1696-17[illegible]' — the final digits of the year are cut off at the page edge; likely '1696-1705' or similar. The notes mention Capability Brown and restoration with original plants in 1967. A small decorative wheat/grain stamp appears in the bottom margin."
+    },
+    {
+      "page_id": "B_0250_R",
+      "side": "R",
+      "handwritten_page_no": 70,
+      "blank": false,
+      "full_text": "Friday 29th May.\nSimon, Eve, Tinder left at 6 for Coughton\nCourt. We are in a farmer's field. ***\nGood foot path walks.\n    Saturday\n    We walked about 3 miles by the river\n+ left Tinder in the van. Lunch in the\ncourtyard block, then explored the house\n+ garden [of] the Throckmorton family.\nlived here for 600 years. Catholic. One\nwoman had 19 children who all survived.\nOwen priest's hole. Lovely house & garden.\nOf the 13 people implicated in the Gun-\npowder plot, 7 were related to the\nThrockmortons.\n    We suppered in the van. It was cold.\n    Sunday We went to see a nearby NT [illegible]\ndovecote. (It with ladder intact, it was\namazing. The bird perches were staggered\nin the way they pointed.\n    We walked by the river +\ngot home for lunch.",
+      "dates": [
+        { "raw": "Friday 29th May", "iso_guess": "2009-05-29", "confidence": 0.35 }
+      ],
+      "headings": ["Saturday", "Sunday"],
+      "underlined_places": ["Saturday", "Sunday"],
+      "place_mentions": ["Coughton Court", "Throckmorton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "Handwritten page number '70' in top-right corner. 'Saturday' and 'Sunday' appear underlined as day headings. 'Tinder' is most likely the family dog. The party (Simon, Eve, Tinder) left early for Coughton Court (a National Trust property in Warwickshire associated with the Throckmorton family and the Gunpowder Plot). 'Owen priest's hole' refers to the priest's hole associated with Fr. John Owen. The NT dovecote is likely at Coughton or a nearby NT property. Date: 'Friday 29th May' — in the 2003–2019 range, 29 May falls on a Friday in 2009 and 2015; given this is pdf page 250 of 373 (about 67% through), volume B covering 2003–2019 suggests around 2013–2014, but 2009 or 2015 are the mathematically possible years; 2015 (confidence lower) or 2009 are both plausible. ISO guess set to 2009-05-29 with low confidence; could also be 2015-05-29. A small sketch/scribble appears at the right margin mid-page (possibly a rough drawing of the dovecote)."
+    }
+  ]
+}

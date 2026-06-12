@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0300",
+  "volume": "A",
+  "pdf_page": 300,
+  "pages": [
+    {
+      "page_id": "A_0300_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Tuesday October 9th.\n\nPegasus Bridge Bénouville  6th June 1944\nfirst bridge liberated. Originally built 1932.\nRebuilt 1994",
+      "dates": [
+        { "raw": "Tuesday October 9th.", "iso_guess": "2001-10-09", "confidence": 0.35 },
+        { "raw": "6th June 1944", "iso_guess": "1944-06-06", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Bénouville", "Pegasus Bridge"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Pegasus Bridge Bénouville  6th June 1944 first bridge liberated. Originally built 1932. Rebuilt 1994"],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page contains a glued-in black and white photograph of Pegasus Bridge with a handwritten caption below it. The heading 'Tuesday October 9th.' appears above the photo. No handwritten page number visible in the top-left corner. Year of diary entry estimated as around 2001 based on proportional position in volume (page 300 of 350, volume covers 1989-2003); the museum at Pegasus Bridge was noted as 'only built a couple of years ago' on the right page, and the bridge was 'Rebuilt 1994', suggesting visit mid-to-late 1990s or early 2000s."
+    },
+    {
+      "page_id": "A_0300_R",
+      "side": "R",
+      "handwritten_page_no": 4,
+      "blank": false,
+      "full_text": "During the night there were light houses & lighted marker buoys. lovely sound of the sea.\n\nOct 9th Tuesday.\n\nAs we left, the van got stuck on the wet grass & mud. Then we scraped one of the water brackets on the drive.\n\nWe drove through __Deauville__ - beautiful large old houses. We stopped at Villerville for coffee. I walked down to the sea across the sandy beach to collect shells. Simon fixed the water tank. Travelling west we reached __Pegasus Bridge__ & looked at the museum there before and after lunch. The museum was only built a couple of years ago. It was the start of the Allied offensive back into Europe on D Day. The bridge, & the neighbouring bridge across the R. Orne, had to be taken from the [?Grem] Germans intact.\n\n[?Brest] Bréville was badly damaged, on the ridge.",
+      "dates": [
+        { "raw": "Oct 9th Tuesday.", "iso_guess": "2001-10-09", "confidence": 0.35 }
+      ],
+      "headings": [],
+      "underlined_places": ["Deauville", "Pegasus Bridge"],
+      "place_mentions": ["Deauville", "Villerville", "Pegasus Bridge", "R. Orne", "Bréville"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Handwritten page number '4' appears at top-right corner; this may be a section/trip page number rather than the overall diary page number. The text at the very top ('During the night there were light houses...') is a continuation from the previous spread. The word before 'Germans' appears to read '[?Grem]' — likely a crossed-out false start ('Grem' struck through) before 'Germans'. 'Brest' at the start of the final sentence appears struck through or overwritten, replaced with 'Bréville'. Year of visit uncertain; estimated ~2001 based on proportional volume position. The 'Rebuilt 1994' caption and the museum being 'only built a couple of years ago' could place this visit anywhere from ~1996 to ~2003; 2001 is a reasonable mid-estimate. Right-hand text is cut off at the right margin on several lines (e.g. 'beautiful', 'scraped', 'shells.', 'Travelling west', 'at'), consistent with text continuing beyond the visible scan area — these truncations have been noted with the visible portions only transcribed."
+    }
+  ]
+}

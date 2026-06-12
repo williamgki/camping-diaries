@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0025",
+  "volume": "A",
+  "pdf_page": 25,
+  "pages": [
+    {
+      "page_id": "A_0025_L",
+      "side": "L",
+      "handwritten_page_no": 44,
+      "blank": false,
+      "full_text": "There are lots of white outcrops of rock, we're on a sort of island, the boys keep finding new paths between the loos & the van. Old limestone. People probably lived in these rocks once. Amazing gorge, with striated rocky cliffs on either side.\n__Wednesday__ The boys swom in the morning - marvellous rocks to jump off & pebbly beach. In the afternoon we hired 2 canoes & took a picnic lunch. The van drove us up river & we paddled our canoes 12 kilometres back to the camp. Fortunately the canoe-launchers also gave us a watertight plastic drum, because Simon & Thomas capsized at the first rapids. It was great fun going downstream.",
+      "dates": [
+        { "raw": "Wednesday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Wednesday"],
+      "underlined_places": [],
+      "place_mentions": ["Cherozac"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text is a continuation from a previous page. 'Cherozac' appears as a small annotation written near 'picnic lunch' — likely the name of a campsite or river launch point; spelling uncertain, could read 'Cherozac' or similar French place name. 'swom' is the diary's spelling (not corrected). No year is visible on this page; cannot confidently assign a year from content alone."
+    },
+    {
+      "page_id": "A_0025_R",
+      "side": "R",
+      "handwritten_page_no": 45,
+      "blank": false,
+      "full_text": "In the end it became easier to steer through the rapids, when we knew what to anticipate. One campsite had built a dam to provide a swimming pool for the campers, after that the water in the river was rather low & we had to push the canoes over the last 3 rapids. Thomas & William became very proficient in their canoe together. The French children enjoyed \"bombing\" us as we passed near their rocks.\n__Thursday__\n    We went swimming & then Peter felt unwell, & then Eve had a tummy bug & felt sick all day. Simon & Thomas went out for a",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.90,
+      "notes": "Text continues onto the next page — sentence ends mid-phrase ('Simon & Thomas went out for a'). Left margin shows partial letters from the previous page's text bleeding through the gutter overlap; these have not been double-transcribed. No year or location name visible on this page."
+    }
+  ]
+}

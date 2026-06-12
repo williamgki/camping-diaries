@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0041",
+  "volume": "A",
+  "pdf_page": 41,
+  "pages": [
+    {
+      "page_id": "A_0041_L",
+      "side": "L",
+      "handwritten_page_no": 76,
+      "blank": false,
+      "full_text": "out, along with some other campers.\n\tAlthough Thomas had run to church earlier, he couldn't see a sign telling the time of the service so we arrived late. It had started at 9.45. When we came out of the church, ¼ pint double cream had tipped out of the fridge & down the gangway.\n\tWe ate lunch in a lovely valley with lots of other trippers. It was Card Mill. There were streams coming down the hillside & several dams, which had been made smaller recently.\n\tAfter tea we went home.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Card Mill"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Page begins mid-entry, continuing from previous spread. 'Card Mill' is the place where they ate lunch — likely Cardmill Dam or Card Mill valley, possibly in Scotland. The fraction before 'pint' reads as '¼' or possibly 'a'; best reading is '¼ pint double cream'. 'trippers' could read 'trippens' but 'trippers' is most likely."
+    },
+    {
+      "page_id": "A_0041_R",
+      "side": "R",
+      "handwritten_page_no": 77,
+      "blank": false,
+      "full_text": "May 25th. We set off just before lunch & ate at Wroxeter, the remains of a Roman town, then drove on to Dinas. Handbedr 04341 23585\n\tWe had to wait for a \"mob camp\" to finish a game with a very hard ball, before finally parking the van.\n\tOn the Sunday we went to church at 11.30. at Tallybont, where the service started off with a lay reader & the vicar arrived just in time for the sermon.\n\tWe found the Hudfords here & invited them for a barbeque, & then went to the beach for the boys to play on Thomas' boat. There were pools for it, with the tide coming in.",
+      "dates": [
+        { "raw": "May 25th.", "iso_guess": "1991-05-25", "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Wroxeter", "Dinas", "Tallybont"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "Several words cut off at right edge of page: 'the remai[ns]' — completed as 'remains' from context; 'a \"mob[ile] camp\"' — completed as 'mob camp' (the text visible is 'mob / amp'); the handwritten annotation 'Handbedr 04341 23585' appears to be a campsite phone number for Llanbedr area (Handbedr is the Welsh spelling of Llanbedr). 'Dinas' could refer to Dinas Mawddwy or another Welsh Dinas. 'Tallybont' likely Talybont-on-Usk or Tal-y-bont in Wales. 'Hudfords' is the surname as written; could be 'Hudsons' or 'Hudfords'. Year cannot be confirmed from this page alone; position in volume loosely suggests early 1990s but year left at low confidence."
+    }
+  ]
+}

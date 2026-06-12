@@ -1,0 +1,48 @@
+{
+  "spread_id": "A_0092",
+  "volume": "A",
+  "pdf_page": 92,
+  "pages": [
+    {
+      "page_id": "A_0092_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "May 28th.\n      We finally left at 12.50, to go to the farm. We had a picnic lunch in the dining room with Kate & Jamie because it was overcast, then Simon & Eve + Kate + Jamie signed letters at the solicitors. After a swim, we left. The drive was beautiful.  [annotation: Windmills / [?Ystrad Aelwyd] * * [?Ystrad Aelwyd] 0650- 521-237 / [?Llanbrynmair]]\n      Arrived at 8.0. at [?Cringed] [annotation: [?Llanbrynmair]] lovely wild flowers in a field of long grass, mown in patches of flat levels. Clean loos, strong river, hills all around at a distance + friendly owners. Charles (3rs 4 yrs, one month) talks incessantly. Going to brush teeth with him, we discussed the flowers, the sheep, the gravel v. grass path, that one woman who asked me the time didn't have a watch.... on and on. And he helped Simon take down the tent.",
+      "dates": [
+        { "raw": "May 28th", "iso_guess": "1993-05-28", "confidence": 0.45 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Llanbrynmair", "Windmills"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.78,
+      "notes": "Year inferred from position in volume and context of adjacent spread A_0091 (~1993); May 28th fell on a Friday in 1993, which fits the narrative of leaving with family. The campsite name after 'Arrived at 8.0. at' is difficult to read — best reading is '[?Cringed]' but may be a Welsh campsite name; 'Llanbrynmair' is written as a marginal annotation near the campsite entry and also appears alongside a phone number '0650-521-237' and what may be 'Windmills' (possibly a campsite name) and '[?Ystrad Aelwyd]' — these appear to be campsite contact notes added separately. The annotation cluster near the 'The drive was beautiful' line includes star/asterisk marks. The '3rs 4 yrs, one month' phrase likely means '3 and 4 years, one month' (Charles's age). No handwritten page number visible in top-left corner."
+    },
+    {
+      "page_id": "A_0092_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "May? 10.00 we left for __Barmouth__. We bought lamb-chops, anticipating a barbeque + Thomas a pair of sandals.\n      Lunch time we arrived at __Dinas__. Just as Thomas + Eve finished getting lunch ready, it started to rain, + has not really stopped for over 24 hours. After tea Simon, Thomas John, Charles + Eve went for an hour's damp ramble up on the molehill behind the campsite.\n__Sunday__\n      Pouring rain. Church at 11.30 at [?Duffrin] [?Llanddwyn][again]. 2 jolly women singing near us so Thomas, Eve + William got the giggles. We had lunch near a waterfall + then visited __Llanfair__ slate mine. We saw a beautiful apprentice fan @ 67 pieces of slate after he'd started down the mines at 12 years, 6 years before. Charles scared of dragons, all wearing crash-helmets.\n      On we went to __Festiniog__ + wandered around the shops + had supper in a delicious, v. friendly restaurant, __Bar Harbour Restaurant__ + [?Soakingwet]. They hung our coats to dry during supper.",
+      "dates": [
+        { "raw": "May?", "iso_guess": "1993-05", "confidence": 0.40 },
+        { "raw": "Sunday", "iso_guess": "1993-05-30", "confidence": 0.35 }
+      ],
+      "headings": ["Sunday"],
+      "underlined_places": ["Barmouth", "Dinas", "Llanfair", "Festiniog", "Bar Harbour Restaurant"],
+      "place_mentions": ["Barmouth", "Dinas", "Llanfair", "Festiniog", "Bar Harbour Restaurant"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.80,
+      "notes": "The top of the right page is partially cut; the date before '10.00 we left for Barmouth' reads 'May?' with day illegible. The church location is difficult to read — it appears to be '[?Duffrin] [?Llanddwyn]again' or possibly 'Llanddwywe' — a location in the Barmouth/Harlech area of Wales would be consistent with the narrative. 'Llanfair' slate mine likely refers to the Llanfair slate caverns near Harlech. 'Festiniog' is the older spelling of Ffestiniog in Gwynedd. The word at the end of the restaurant sentence reads '[?Soakingwet]' — possibly a note about their condition, or possibly a continuation/sub-clause. 'Bar Harbour Restaurant' is underlined in the text. No handwritten page number visible in top-right corner. The 'Sunday' heading is underlined. Year assigned tentatively as 1993 based on adjacent spread context."
+    }
+  ]
+}

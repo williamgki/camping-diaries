@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0007",
+  "volume": "A",
+  "pdf_page": 7,
+  "pages": [
+    {
+      "page_id": "A_0007_L",
+      "side": "L",
+      "handwritten_page_no": 8,
+      "blank": false,
+      "full_text": "On both Sunday and Monday we managed to be ready to leave by 10. We get up at about 7.30. Lay the table, eat breakfast, wash up [illegible] breast feed Charles, solid feed him, change his nappy, change John's nappy. Put away sleeping bags, tables & chairs & tent.\n\nTues\n    We left camp (after dogshit problems by fresh-water pipe) & found delicious Blackberries in the hedges at our coffee break, which we picked for lunch. We're on our way to __Hadrian's Wall__. Campsite lovely open field, but very windy Stonehaugh * * * * *\nChesters\nWilliam - \"Daddy, why aren't people harmed by radio waves?\"\n\nWed\n    Shopping in __Hexham__, Simon, Thomas & William went to Vindolanda; Peter, John, Charles & Eve rested. Very windy night. Thomas & Peter evacuated tent at 4.am.\nThu Very wet walk to Housesteads in the after-noon. Simon bought Roman book presents for",
+      "dates": [
+        { "raw": "Tues", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Wed", "iso_guess": null, "confidence": 0.3 },
+        { "raw": "Thu", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Hadrian's Wall", "Hexham"],
+      "place_mentions": ["Hadrian's Wall", "Stonehaugh", "Chesters", "Hexham", "Vindolanda", "Housesteads"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "Small illegible text in the middle of the breakfast routine line — appears to be a struck-through or interlinear note. 'dogshit' is written as one word in the original. Star ratings '* * * * *' appear after 'Stonehaugh'. Charles mentioned as an infant being breast/solid-fed and having nappy changed, consistent with early 1990s based on volume context."
+    },
+    {
+      "page_id": "A_0007_R",
+      "side": "R",
+      "handwritten_page_no": 9,
+      "blank": false,
+      "full_text": "the boys, a sewing-kit for Eve & Family Membership of National Heritage.\nThomas:- \"Daddy, will I catch Huntingdon's Chorea just from looking at a picture of it? 'No, but looking at a picture of Jesus might make me more holy'\"\nPeter used his telescope from a lookout. Tried to dry out clothes on fierce van heater going down the motorway. We arrived at Wood End campsite, * * * * * near Austwick, near __Settle__, Yorkshire, quite sodden & all slept in the van. Charles, aged 4 months, is sleeping on a folded towel on the kitchen floor, & being bathed in the sink.\nFriday One of the best days of the holiday. We went on a 3 mile walk up the Currick Valley, near Ribblesdale. Up lanes, only bridleways walled in by high drystone walls on both sides. Slow walking, lots of blackberries, streams & bridges, my favourite sort of walk. Simon carried Charles on his front & John on his back. John walked, reluctantly, then Simon",
+      "dates": [
+        { "raw": "Friday", "iso_guess": null, "confidence": 0.3 }
+      ],
+      "headings": [],
+      "underlined_places": ["Settle"],
+      "place_mentions": ["National Heritage", "Wood End campsite", "Austwick", "Settle", "Yorkshire", "Currick Valley", "Ribblesdale"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Charles stated to be 'aged 4 months' — this is a useful anchor for dating if Charles's birth date is known. 'Currick Valley' could possibly be 'Crummock' or another valley name — reading is uncertain; the letters appear to spell 'Currick' or possibly '[?Crummock]' but the context near Ribblesdale supports a local dale valley. 'Huntingdon's Chorea' is the historical spelling of Huntington's disease (chorea). Text is a continuation from left page (page 8)."
+    }
+  ]
+}

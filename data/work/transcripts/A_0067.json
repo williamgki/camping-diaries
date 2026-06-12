@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0067",
+  "volume": "A",
+  "pdf_page": 67,
+  "pages": [
+    {
+      "page_id": "A_0067_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "leave them in residential summer camp for 3 weeks. They stopped fighting from 11.45 until 8. pm.\n\tAfter lunch we walked along the road to the Caves of the __Font de Gaume__, but there was a 3 day wait to get in. They only allow 375 people per day inside, & they've the best caves after Lascaux, which are now closed. We went on a 6 mile drive to a very crowded lake. Simon didn't like the look of what was floating in the water. Charles waded knee-deep out to a slide & shot down it into deep water! He did look indignant when his ring brought him up to the surface. John swims with one arm-band, so that I can see him.\n\tWe returned to Les Eyzies to see the caving museum- Scrapers, statues",
+      "dates": [],
+      "headings": [],
+      "underlined_places": ["Font de Gaume"],
+      "place_mentions": ["Font de Gaume", "Lascaux", "Les Eyzies"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Text continues from previous spread; no handwritten page number visible at top-left. Text continues onto right page. 'Font de Gaume' is underlined in the original."
+    },
+    {
+      "page_id": "A_0067_R",
+      "side": "R",
+      "handwritten_page_no": 127,
+      "blank": false,
+      "full_text": "& skeletons.\n\tBack at the camp we had spaghetti for supper, because we'd been unable to buy bread. It was a beautiful evening.\n\t~~We~~ __Monday July 26th__\n\tWe set off & stopped at __St. Cyprien__ to shop. (delicious [?boulang-] not selling pastries)\n\nSketched by Eve while Simon in supermarket.",
+      "dates": [
+        { "raw": "Monday July 26th", "iso_guess": "1993-07-26", "confidence": 0.75 }
+      ],
+      "headings": ["Monday July 26th"],
+      "underlined_places": ["St. Cyprien"],
+      "place_mentions": ["St. Cyprien"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Sketched by Eve while Simon in supermarket."],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page number 127 visible top-right. 'Monday July 26th' is underlined; the word before it appears struck through (possibly 'We'). 'St. Cyprien' is underlined. The page contains multiple hand-drawn pen sketches of buildings — a church with a tall steeple, smaller chapels/buildings with pointed roofs — captioned 'Sketched by Eve while Simon in supermarket.' These are architectural sketches, not a route map. The parenthetical note about the boulangerie is partially illegible; reads roughly 'delicious boulang[erie] not selling pastries'. July 26 falls on a Monday in 1993 within the 1989–2003 volume range, making 1993 the most likely year, though the year is not explicitly stated on this spread."
+    }
+  ]
+}

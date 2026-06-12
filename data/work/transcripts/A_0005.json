@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0005",
+  "volume": "A",
+  "pdf_page": 5,
+  "pages": [
+    {
+      "page_id": "A_0005_L",
+      "side": "L",
+      "handwritten_page_no": 4,
+      "blank": false,
+      "full_text": "July 1st. Weekend in the __Peak District__\nWe all slept in the van at Hopping Farm.\nUsed chemical loo for the first time. It worked well.\n\tWalk into Alport, (pretty, running water, trout, damp,) + Youlgreave.  Well-dressing last week, but didn't see any.\n\tChecked on bike-hire for a later trip cycling along Tissington Trail.\n\tHaddon Hall (mediaeval) closed, alas.\n__Chatsworth__\n\tGlorious Capability Brown landscape.\nPaxton was head gardener.\n\tCascades. Large pebbles from Eastbourne for [mas] mosaic snake set in pavement.",
+      "dates": [
+        { "raw": "July 1st", "iso_guess": "1989-07-01", "confidence": 0.75 }
+      ],
+      "headings": ["July 1st. Weekend in the Peak District"],
+      "underlined_places": ["Peak District", "Chatsworth"],
+      "place_mentions": ["Peak District", "Hopping Farm", "Alport", "Youlgreave", "Tissington Trail", "Haddon Hall", "Chatsworth", "Eastbourne"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "One word before 'mosaic snake' appears to be 'mas' or possibly a crossed-out word — likely a correction; transcribed as '[mas]'. Year inferred as 1989 because the right page on this spread dates 'July 14th Friday' which fell on a Friday in 1989."
+    },
+    {
+      "page_id": "A_0005_R",
+      "side": "R",
+      "handwritten_page_no": 5,
+      "blank": false,
+      "full_text": "July 14th Friday\nOff to Dinas Camp near __Harlech__ again, to join Tim, Margaret, Helen and David, Sally, Maia. We left before breakfast & ate at the cricket pitch.\nWednesday. Glorious weather again, every meal eaten outdoors. The 4 boys took it in turns to have breakfast with Grandma.\nOn the Saturday we went on a very energetic walk across country, carrying Charles miles in my arms across heather & blueberry bushes. 7 miles.\nGrandma finds it very hot.\nWe walked along a beautiful valley & swam in the river.\nWe visited Portmadoc — Sunny Italian architecture, but woods not as good as Welsh hill sides. Found a shop — Cara, to sell Fuschia sweater.\nVisiting Alternative Technology Centre on the way home.\nSimon cooked 2 chickens on the barbecue.",
+      "dates": [
+        { "raw": "July 14th Friday", "iso_guess": "1989-07-14", "confidence": 0.88 }
+      ],
+      "headings": ["July 14th Friday"],
+      "underlined_places": ["Harlech"],
+      "place_mentions": ["Dinas Camp", "Harlech", "Portmadoc", "Alternative Technology Centre"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "July 14th fell on a Friday in 1989, which supports the 1989 year inference. 'Portmadoc' is the older spelling of Porthmadog. 'Alternative Technology Centre' likely refers to the Centre for Alternative Technology near Machynlleth, Wales, though the town name is not stated. Some partial text visible at gutter edge of left side of this page (overlap area) belongs to the left page and is not re-transcribed here."
+    }
+  ]
+}

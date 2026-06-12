@@ -1,0 +1,46 @@
+{
+  "spread_id": "A_0071",
+  "volume": "A",
+  "pdf_page": 71,
+  "pages": [
+    {
+      "page_id": "A_0071_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "pedaloing. Simon is trying to sort out pocket money, while Eve writes post cards. The boys have made friends with a family from Leicester, Steve & Pauline, Dan, Ben & [?Jen-] [?Swanton] at school at Stoneygates\n__Sat 31st July__\n\tWe left early & had breakfast at the canoe depot. Simon, Thomas & William & Peter went canoeing, while John & Charles & Eve waited. John & Charles paddled while Eve read. They returned in a foul temper because Peter had refused to paddle when he wasn't with Daddy.\n\tWe had lunch at Vielleville, & then returned, to spend the afternoon at Casanrouse.\n__Sumer 1st August__\n\tIt would have been better to leave at 9.30, but we only left at 10. because of waiting for croissants",
+      "dates": [
+        { "raw": "Sat 31st July", "iso_guess": "1993-07-31", "confidence": 0.9 },
+        { "raw": "Sumer 1st August", "iso_guess": "1993-08-01", "confidence": 0.9 }
+      ],
+      "headings": ["Sat 31st July", "Sumer 1st August"],
+      "underlined_places": [],
+      "place_mentions": ["Vielleville", "Casanrouse", "Stoneygates"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page begins mid-sentence, continuation from previous spread. No handwritten page number visible at top-left. 'Sat 31st July' and 'Sumer 1st August' are underlined headings — 'Sumer' is the writer's spelling of 'Sunday' (Sunday 1 August 1993 fits the day-of-week, confirming year 1993 already established by Monday July 26th on A_0067). A surname or place name appears interlined above 'Steve & Pauline' — reads as 'Swanton'; the last child's name (after 'Ben &') is partially cut off at edge, possibly 'Jen' or 'Sam'. 'Stoneygates' is a school in Leicestershire. Place name 'Vielleville' may refer to a hamlet/village in the Lot/Aveyron area; uncertain spelling. 'Casanrouse' (also uncertain) could be 'Cazanroux' or a campsite name. Text cuts off at bottom mid-sentence."
+    },
+    {
+      "page_id": "A_0071_R",
+      "side": "R",
+      "handwritten_page_no": 131,
+      "blank": false,
+      "full_text": "from the bread van. Then we set off for Conques. We parked down in the valley belt below the little chapel. Last year we tried to walk down to it, but it was too hot. This year we started to walk up at 10.55.. It was padlocked, but the walk was marvellous. Old, old, village, steep pedestrian streets, water for horses to drink, central gutters down the streets, lush gardens. We arrived at the abbey at 11.10. Mass had started already. It was very cool at the back.\n\tWe bought leather & wooden toys & had a rather stuffy lunch with special ice creams. We sat outside, but it would have been cooler in the dark interior. After lunch we looked at the cloisters & cemetery. They have built an amazingly high wall to make a flat place for the cemetery. We [booked]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Conques"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number 131 visible in top-right corner. Page begins mid-sentence continuing from the left page's entry for Sunday 1st August. 'Conques' is a well-known medieval village in Aveyron, France, with the abbey of Sainte-Foy — consistent with the broader France/Dordogne/Lot trip context. The final word at the bottom right is partially cut off; reads as '[booked]' or possibly '[looked]' — text continues onto next spread. The small chapel in the valley below Conques is consistent with the Chapelle Saint-Roch or similar. 'last year' reference suggests the family visited the same area in 1992."
+    }
+  ]
+}

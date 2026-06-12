@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0019",
+  "volume": "A",
+  "pdf_page": 19,
+  "pages": [
+    {
+      "page_id": "A_0019_L",
+      "side": "L",
+      "handwritten_page_no": 32,
+      "blank": false,
+      "full_text": "June 3rd.\n\n    We pack up at Dinas and set off for home.  We go north & have lunch at Celyn reservoir.\n    On the way we pass some good views of Harlech Castle.  We also notice a good campsite on a promontary above Harlech - Merthyr Campsite.  A working farm with cows, __beautiful__ views across to Port Merion, very windy.  2½ mile walk down to the sea.  We may try it next year.\n    In the afternoon we visit the highest waterfall in Wales, before reaching home.",
+      "dates": [
+        { "raw": "June 3rd.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Dinas", "Celyn reservoir", "Harlech Castle", "Harlech", "Merthyr Campsite", "Port Merion", "Wales"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Year not stated on page; cannot confirm from content alone. 'promontary' is the diary's spelling (sic). 'Port Merion' likely refers to Portmeirion, Wales — transcribed as written. 'Merthyr Campsite' could alternatively read 'Merthyr' as part of a place name but transcribed verbatim. The word 'beautiful' is underlined in the original."
+    },
+    {
+      "page_id": "A_0019_R",
+      "side": "R",
+      "handwritten_page_no": 33,
+      "blank": false,
+      "full_text": "June 23rd.\n\n    Simon picked up Peter, Thomas & William from school & drove over to Long Buckby to pick up John, Charles & Eve from the station.  (We'd spent the afternoon visiting Rosemary Young.)\n    After about 50 minutes more in the van we arrived at __Cherry Tree Farm__ **** campsite, Woodford Halse, which is within view of the Daventry post office tower.\n    There is no pond here, superb views, a large field, no loos, hedges & trees, quite windy.  Peter lost his boomerang as soon as we arrived.  The farm house & walled",
+      "dates": [
+        { "raw": "June 23rd.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": ["Cherry Tree Farm"],
+      "place_mentions": ["Long Buckby", "Cherry Tree Farm", "Woodford Halse", "Daventry"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "Year not stated on page; cannot confirm from content alone. 'Cherry Tree Farm' is underlined in the original, followed by what appear to be four asterisks (****) possibly indicating a star rating. Text cuts off at bottom of page: '...The farm house & walled' — continues on next spread. 'loos' means toilets (British slang)."
+    }
+  ]
+}

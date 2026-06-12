@@ -1,0 +1,74 @@
+{
+  "spread_id": "A_0300",
+  "volume": "A",
+  "pdf_page": 300,
+  "pages": [
+    {
+      "page_id": "A_0300_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Tuesday October 9th\n\n[Photo of bridge]\n\nPegasus Bridge Benouville 6th June 1944. Still bridge liberated. Originally built 1932. Rebuilt 1994.",
+      "dates": [
+        {
+          "raw": "Tuesday October 9th",
+          "iso_guess": "1994-10-09",
+          "confidence": 0.75
+        },
+        {
+          "raw": "6th June 1944",
+          "iso_guess": "1944-06-06",
+          "confidence": 0.95
+        }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [
+        "Pegasus Bridge",
+        "Benouville"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [
+        "Pegasus Bridge Benouville 6th June 1944. Still bridge liberated. Originally built 1932. Rebuilt 1994."
+      ],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Photo caption references historical D-Day bridge. The trip date is likely 1994 based on 'Rebuilt 1994' and context. One word in caption may be 'Steel' rather than 'Still'."
+    },
+    {
+      "page_id": "A_0300_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "During the night there were light houses & lighted marker buoys. lovely sound of the sea.\n\nOct 9th Tuesday.\n\nAs we left, the van got stuck on the wet grass & mud. Then we scraped one of the water brackets on the drive. We drove through __Deauville-beautiful large old houses. We stopped at Villerville for coffee. Walked down to the sea across the sandy beach to collect shells Simon fixed the water tank. Travelling west we reached Pegasus Bridge & looked at the museum there before and after lunch. The museum was only built a couple of years ago. It was the start of the Allied offensive back into Europe on D Day. The bridge, & the neighbouring bridge across the R. Orne, had to be taken from the German intact. Sword Breuille was badly damaged on the ridge.",
+      "dates": [
+        {
+          "raw": "Oct 9th Tuesday",
+          "iso_guess": "1994-10-09",
+          "confidence": 0.75
+        }
+      ],
+      "headings": [],
+      "underlined_places": [
+        "Deauville"
+      ],
+      "place_mentions": [
+        "Deauville",
+        "Villerville",
+        "Pegasus Bridge",
+        "R. Orne",
+        "Sword Breuille",
+        "Europe"
+      ],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Date context: 'Rebuilt 1994' on opposite page and 'museum only built a couple of years ago' suggests this trip is around 1994. 'Sword Breuille' may be two place names or a misreading. R. Orne is likely River Orne. Text mentions D-Day context and Normandy locations."
+    }
+  ]
+}

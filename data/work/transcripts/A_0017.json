@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0017",
+  "volume": "A",
+  "pdf_page": 17,
+  "pages": [
+    {
+      "page_id": "A_0017_L",
+      "side": "L",
+      "handwritten_page_no": 28,
+      "blank": false,
+      "full_text": "Catering for 10 per meal is quite a challenge, hampered by \"Eve I don't like tomatoes/porkpies/chicken/dressing\" etc. from Peter + Claire. However, they seem to be surviving on bread + cheese.\n\tOn Friday we went to Harlech Castle. The rain bucketed down + we forgot to get out the gumboots. Feeling very cold we toured the Castle + Shops + descended yet again on the fish + chip shop \"Eve, I like chips, but I don't like fish.....\"\n\tOn Friday afternoon we gathered in \"Matt's tent\". Fortunately we can all just fit in the sitting-room part of it, around the grey table. Matt + Claire + Peter have the sleeping",
+      "dates": [
+        { "raw": "Friday", "iso_guess": "1990-06", "confidence": 0.4 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Harlech Castle"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Page number in top-left corner is most likely 28, consistent with A_0016_R being page 27. The number could superficially resemble 26 but context strongly supports 28. Entry continues from previous page and text runs off at bottom into right page. The day 'Friday' is mentioned but no explicit date; year inferred as 1990 from prior spread context (May 30th 1990 entry in A_0016). 'porkpies' written as one word. The word 'chicken' partially cut off at right edge reads clearly in context."
+    },
+    {
+      "page_id": "A_0017_R",
+      "side": "R",
+      "handwritten_page_no": 29,
+      "blank": false,
+      "full_text": "areas.\n\tSo we now have 2 tents.\n\nEast Wind.\n\n\t\t\t\tSleeps 2 boys,\n\t\t\t\tbut could sleep 3.\n\n[hand-drawn sketch of dome tent labelled \"East Wind\"]\n\nCabanon\n\n\t\t\t\tSleeps 6 in\n\t\t\t\tback compartments.\n\n\t\t\t\tRoom for grey\n\t\t\t\ttable in\n\t\t\t\tsitting area\n\n[hand-drawn sketch of frame tent labelled \"Cabanon\"]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": "Two hand-drawn sketches of tents, not a route map. Top sketch shows a dome tent labelled 'East Wind' with annotation 'Sleeps 2 boys, but could sleep 3.' Bottom sketch shows a larger frame/ridge tent labelled 'Cabanon' with annotations 'Sleeps 6 in back compartments.' and 'Room for grey table in sitting area'. The bottom sketch includes a small label that appears to read 'CABANON' on the tent bag/carry case at the base.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.9,
+      "notes": "The tent sketches are hand-drawn diagrams of the camping equipment rather than route maps. 'East Wind' and 'Cabanon' are tent brand/model names. The text 'areas.' at the top continues directly from the left page sentence ending '...Matt + Claire + Peter have the sleeping'. The ink for the text appears to be the same pencil/light ink as the sketches. 'Cabanon' is a French tent brand."
+    }
+  ]
+}

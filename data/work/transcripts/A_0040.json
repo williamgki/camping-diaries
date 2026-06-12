@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0040",
+  "volume": "A",
+  "pdf_page": 40,
+  "pages": [
+    {
+      "page_id": "A_0040_L",
+      "side": "L",
+      "handwritten_page_no": 74,
+      "blank": false,
+      "full_text": "school & out to look at the ducks. John was very pleased & relaxed, Charles, on his birthday, was doubtful about the whole thing & yelled when I put him on the saddle. But gradually he looked more confident & smiled. By the end, he was sitting up on his own (instead of leaning back against my arm) & stroking the horse's mane & [?serially] yelled when I got him off.\n\n   We had tea in the van at the stables & set off for home to open Charles' presents.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": [],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.87,
+      "notes": "Page is a continuation from the previous spread — the text begins mid-sentence with 'school & out to look at the ducks', describing a horse-riding birthday outing for Charles. The word I have read as '[?serially]' is unclear; it could be 'seriously' (i.e. 'seriously yelled'). No place names appear on this page. No year is stated; cannot be confirmed from this page alone."
+    },
+    {
+      "page_id": "A_0040_R",
+      "side": "R",
+      "handwritten_page_no": 75,
+      "blank": false,
+      "full_text": "__May 4th.__\n\n   We set out from Birmingham on Saturday morning & called at the Wolverhampton camping shop to buy a cushion & deck chairs.\n\n   We arrived at __Hamperley__, only to get thoroughly bogged down in the field. We had lunch bogged in & Simon worked for 2 hours to get us out, while the boys played with their hammocks in the woods.\n\n   Simon took the 5 boys out for an hour's walk in the evening, just before rain came. It's cold & raining & very muddy.\n\n__Sunday__ we again got bogged down; the man giving the [?funny] [?too] a [?race] list came & helped push us",
+      "dates": [
+        { "raw": "May 4th.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["May 4th."],
+      "underlined_places": ["Hamperley"],
+      "place_mentions": ["Birmingham", "Wolverhampton", "Hamperley"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.82,
+      "notes": "The heading 'May 4th.' is underlined. 'Hamperley' is underlined; this may refer to Hamperley Farm or a campsite in that name — could alternatively read 'Hamperley' or '[?Hampersley]'. The final three lines of the page are harder to read: 'the man giving the [?funny] [?too] a [?race] list came & helped push us' — the phrase is partially cut off at the bottom of the image and the individual words are unclear; 'funny' could be 'sunny' or another word; '[?race] list' could be 'race list', 'grace list', or similar. No year is stated on this page; iso_guess is null as the year cannot be anchored from page content alone. Volume A covers 1989-2003; position at pdf_page 40 loosely suggests early-to-mid 1990s but this is not asserted."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0064",
+  "volume": "A",
+  "pdf_page": 64,
+  "pages": [
+    {
+      "page_id": "A_0064_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Afterwards we had crêpes.\n\tThen we drove on for 2 nights at __Richilieu__ ***\n\t__Wednesday July 22nd.__\n\tWe went out towards Chinon. On the way we passed a beautiful old chapel __Champigny sur Veude__ 1499 lovely. proportions Sainte Chapelle, Stained glass windows, + marble statue of kneeling duke.\n\tOn to Chinon. We parked at the top of the ridge + walked down into the old town with narrow streets. We saw a wine-making/coopering museum, animated models + English recorded commentary\n\tWe had a good chicken lunch, but it was rather slow, so we went just down the road for icecreams. Chinon had a superb-looking Mississippi riverboat",
+      "dates": [
+        { "raw": "Wednesday July 22nd.", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Wednesday July 22nd."],
+      "underlined_places": ["Richilieu", "Champigny sur Veude"],
+      "place_mentions": ["Richilieu", "Chinon", "Champigny sur Veude", "Sainte Chapelle", "Chinon"],
+      "route_sketch": true,
+      "route_sketch_description": "Small hand-drawn sketch at the bottom of the page depicting a Mississippi-style riverboat with paddle wheel, funnels and a flag.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The '1499' appearing after 'Champigny sur Veude' is the founding/construction date of the chapel, not the diary year. Year of this entry cannot be confirmed from this page alone; the volume covers 1989–2003 and contextual clues (camper-van, family trip to Loire Valley) are consistent but no year is explicitly stated on this page. 'Richilieu' is the diarist's spelling; the town is normally spelled 'Richelieu'. The sketch at the bottom illustrates the riverboat mentioned in the text."
+    },
+    {
+      "page_id": "A_0064_R",
+      "side": "R",
+      "handwritten_page_no": 124,
+      "blank": false,
+      "full_text": "In the afternoon we climbed the hill back to the top to look at the long castle. There was a loo in the castle, + a huge, flat space at the top with trees growing. Several towers: in one the tower was a puppet show — very very good. One man puppeteer on a wagon in a room. Blue celophane shook as the sea, a sleeping monk fell out of a sail boat + drowned + his soul was carried up to God by a knight on a winged horse. We saw a king + queen watching court musicians + a juggler + a tournament. Joan of Arc recognised the Dauphin among his courtiers. Finally a giant — 2 legs — fell asleep with his feet over the castle walls.\n\tWe drove back to Richilieu + swam. Eve + William washed clothes.\n\t__Thu July 23rd__\n\tWe walked around Richilieu — lovely city walls, still lived in in higgledy piggledy houses + lush gardens in the old moat. There's a beautiful covered market.",
+      "dates": [
+        { "raw": "Thu July 23rd", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Thu July 23rd"],
+      "underlined_places": [],
+      "place_mentions": ["Richilieu"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "The castle described is Chinon castle (continuing from the left page). 'Richilieu' is the diarist's consistent spelling for Richelieu. 'celophane' is the diarist's spelling; transcribed verbatim. 'Eve' and 'William' appear to be family members. Year cannot be confirmed from this page alone."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0091",
+  "volume": "A",
+  "pdf_page": 91,
+  "pages": [
+    {
+      "page_id": "A_0091_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Sunday May 9th.\n      We are camped east of Market Drayton, near a village called \"Loggerheads\". It's a very good campsite in a sheltered valley. The pub is about to build a play area.\n      It rained heavily in the night. At 10 we set off for church, a prayer book Communion at 11 in the old church which, they said, had been the chapel of Broughton Hall. It was very, very friendly. One girl + one baby among all the old people in the congregation, and an old German vicar. The boys, Thomas + Peter, returned indignantly from the altar rail complaining that they had not been blessed - in fact they had not waited for the vicar who was offering the chalice.\n      It was an unchanged church - amazing with old boxed pews. Lovely. The boys sat in one + squabbled. Simon + Charlotte + I sat behind. Charles waited for his goo[?rag]. The plan of the boys' box was [sketch of rectangular box with arrow] cosy warm.\n      + had seats on 3 sides.",
+      "dates": [
+        { "raw": "Sunday May 9th", "iso_guess": "1993-05-09", "confidence": 0.55 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Market Drayton", "Loggerheads", "Broughton Hall"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Sunday May 9th: in the volume range 1989-2003, May 9th fell on a Sunday in 1993 and 1999; 1993 is preferred given the spread's position (~26% through the volume) but not certain. A small hand-drawn rectangular plan (sketch of the pew box) appears inline near the bottom of the page with annotation 'cosy warm.' — this is an inline diagram, not a route sketch. The word before 'The plan of the boys' box' is partially obscured; read as 'goo[?rag]' but uncertain."
+    },
+    {
+      "page_id": "A_0091_R",
+      "side": "R",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Afterwards we set off on a 4½ mile walk, everything bursting green. It was quite windy. For our picnic we had a choice of wind or flies in the woods. We ended up managing to sit between. It was a lovely walk over stiles, through woods + pastures, past farms, houses built on lakes. Red sandstone. At the end we came down through a steep-sided green valley, very narrow.\n      Peter liked the walk more than the bike ride because there were fewer people. Indeed, we only met one couple. William + I liked the bike ride, but I am glad that there weren't more people than there were.\n      Stopping at the Wolverhampton camping shop on the way home, Peter bought a blow-up foot ball + Eve bought her long-awaited clothes-line pole.",
+      "dates": [
+        { "raw": "Sunday May 9th", "iso_guess": "1993-05-09", "confidence": 0.55 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Wolverhampton"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.90,
+      "notes": "Year inferred from left page context — see L page notes. The right page text is cut off at the top-left gutter edge; the opening words 'Afterwards we set off on a 4½ mile' are partially visible from the L page overlap but belong to this R page."
+    }
+  ]
+}

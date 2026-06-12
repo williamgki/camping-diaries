@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0051",
+  "volume": "A",
+  "pdf_page": 51,
+  "pages": [
+    {
+      "page_id": "A_0051_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "haure Picasso. Her family gave us juice + cakes + biscuits in a lovely garden. All her brothers + sisters played with the boys. We all enjoyed it.\n\tWe went on to Laconduière to camp; it has a pretty out[door] swimming pool + good swings for the children.\n__July 25th__ We left before breakfast (7.45. Simon made tea, we got up at 8 + left at 9). because we had run out of bread. We had breakfast in the town square, + then went to church at 10. A cheerful church, a woman led the singing. We left just before the ~~creed~~sermon; + made less noise - apart from Charles screaming about his goorage, because we had sat in the back row.\n\tWe set off on the old Paris-Nice road + had coffee in a lay-by.\n\tWe motored a long way. Simon [to...]",
+      "dates": [
+        { "raw": "July 25th", "iso_guess": null, "confidence": 0.5 }
+      ],
+      "headings": ["July 25th"],
+      "underlined_places": [],
+      "place_mentions": ["Laconduière"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.85,
+      "notes": "Page continues from a previous entry — the opening word 'haure' is the end of 'Laure' (from 'Laure Picasso'), cut from the previous page. The word 'out' has a superscript 'door' written above it, indicating 'outdoor'. The writer crossed out 'creed' and wrote 'sermon' — transcribed as '~~creed~~sermon'. 'goorage' is the diary's spelling — likely a child's mispronunciation of 'courage' or 'porridge'. 'Laconduière' is the diary's spelling; could read 'Laconduière' or '[?Laconduière]' — an uncertain place name, possibly in southern France on the Paris-Nice route. The last line is cut off at the right edge of the page. No handwritten page number is clearly legible in the top-left corner; a partial mark may be present but cannot be read with confidence. Year is uncertain: the Paris-Nice road and Beauvais context (see right page) suggest a trip to France; the previous spread (A_0050) was set in the Massif Central area of France with dates of July 26–27 at uncertain year; this spread's July 25th entry may precede that narrative but page sequence suggests it is a separate trip or the date order needs context."
+    },
+    {
+      "page_id": "A_0051_R",
+      "side": "R",
+      "handwritten_page_no": 11,
+      "blank": false,
+      "full_text": "Flying buttress\nBeauvais\n(truncated because of Charles!)\n[illegible]",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Beauvais"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": ["Flying buttress Beauvais (truncated because of Charles!) [illegible]"],
+      "is_index_page": false,
+      "ink": "pencil",
+      "legibility": 0.8,
+      "notes": "The right page is dominated by a large hand-drawn pencil sketch of Gothic cathedral architecture — flying buttresses and pinnacles, identifiable as Beauvais Cathedral (Cathédrale Saint-Pierre de Beauvais, northern France), which is famous for its extremely tall and unfinished Gothic choir. The caption at the bottom reads 'Flying buttress / Beauvais / (truncated because of Charles!)' — the parenthetical suggests the sketch was interrupted by a child (Charles). There is one more word below the caption that is not clearly legible; it may begin with 'goof' or similar. The number '11' is visible in the top-right corner; given the facing page (A_0050_R) carried page 97, this '11' may be '99' with only part visible, or it could indicate a different page-numbering section. Transcribed as seen: 11. The sketch is a detailed architectural drawing, not a route map."
+    }
+  ]
+}

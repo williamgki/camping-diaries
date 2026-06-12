@@ -1,0 +1,45 @@
+{
+  "spread_id": "A_0097",
+  "volume": "A",
+  "pdf_page": 97,
+  "pages": [
+    {
+      "page_id": "A_0097_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "View O'Kamping Rivetta, Porlezza.",
+      "dates": [],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Porlezza"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn sketch of a lakeside landscape viewed from the campsite. Shows a lake (Lake Piano or Lake Lugano area) with wavy shoreline on the left, a row of buildings/town in the middle, tent/camping symbols scattered on the right hillside, and what appears to be a mountainous backdrop with hatching. A castle or large walled structure is drawn on the right side. Caption written diagonally reads 'View O'Kamping Rivetta, Porlezza.'",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "The page is dominated by a hand-drawn panoramic sketch of the view from the campsite at Porlezza, labelled 'View O'Kamping Rivetta, Porlezza.' The caption is the only text. No handwritten page number visible. The sketch includes what appears to be a lake, a town, camping symbols (small tent shapes), and a large hatched rectangular structure (possibly a castle or hotel). Some text from the right page is faintly visible at the right edge but belongs to the right page and is not transcribed here."
+    },
+    {
+      "page_id": "A_0097_R",
+      "side": "R",
+      "handwritten_page_no": 12,
+      "blank": false,
+      "full_text": "We turned off to Camping OK __Porlezza__ + swam in Lake Piano, between Lugano + Como.\n   __Thursday__ Tried to swim but take locked at 8.15. [?Lucrhetofen] ← [?Section] [illegible]\n   We set off + stopped at __Crema__ + saw the Duomo with an enormous façade, much bigger than the cathedral inside. Within, the architecture remind[s] us of English that Norman [?]. Brick, simple, dignified.\n   On to __Soncino__, (the driving has been tiring, around __Lake Como__,) nowhere to stop for elevenses, a quick glance at the Villa d'Este Hotel. Simon got so cross at the ferry office that we drove instead of taking the ferry.\n   At Soncino we stopped by a lovely castle + moat + the boys played football with a group of",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": null, "confidence": 0.1 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": ["Porlezza", "Crema", "Soncino", "Lake Como"],
+      "place_mentions": ["Porlezza", "Lake Piano", "Lugano", "Como", "Crema", "Soncino", "Lake Como", "Villa d'Este Hotel"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.8,
+      "notes": "Handwritten page number '12' in top-right corner, preceded by what appears to be asterisks or a mark (could read '*# 12' or '** 12'). The text is cut off at the right margin on some lines — words like 'remind[s]', 'Norman [?]', 'cathedral' and 'ferry' appear partly cropped. Near 'Thursday' there is a small interlinear annotation in a slightly different hand reading 'Tried to swim but take locked at 8.15.' and what appears to be a small arrow annotation with a partially legible word (possibly a place name — could read 'Lucrhetofen', 'Lucerne', or similar; too small to read with confidence). 'Villa d'Este Hotel' refers to the famous hotel on Lake Como at Cernobbio. The text ends mid-sentence ('a group of') — continues on the next page. No year is stated on this page; the content (Italian lakes trip via Crema and Soncino) cannot be pinned to a specific year from internal evidence alone. Could read 'take' as 'lake' in the annotation 'take locked at 8.15' — likely means the lake gate/barrier was locked."
+    }
+  ]
+}

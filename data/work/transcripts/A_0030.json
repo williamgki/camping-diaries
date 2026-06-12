@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0030",
+  "volume": "A",
+  "pdf_page": 30,
+  "pages": [
+    {
+      "page_id": "A_0030_L",
+      "side": "L",
+      "handwritten_page_no": 55,
+      "blank": false,
+      "full_text": "In the morning we walked into Bad Honnef + the boys spent their pocket money. Annie took us up the cog railway in the afternoon to the of the \"[?7n] Hills\", the Dragonsfeld. A million people a year visit it. Lovely views of the Rhine up to Bonn, + beyond to Cologne on a clear day. We walked down.\n\n__Thursday__\n    We walked along the Rhein, crossed [to an] island + took 2 ferries with Patrick. André was at school + [F]ather stayed at home to wait with Annie. [I]'ve bought some Birkenstock sandals at the factory on the way back to the Wegners' house, while the boys played in a huge tub of balls.\n    After lunch we set off for Cala[is]",
+      "dates": [
+        { "raw": "Thursday", "iso_guess": "1990-08-09", "confidence": 0.55 }
+      ],
+      "headings": ["Thursday"],
+      "underlined_places": [],
+      "place_mentions": ["Bad Honnef", "Dragonsfeld", "Rhine", "Bonn", "Cologne", "Rhein"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.82,
+      "notes": "The 'cog railway' top-of-hills destination is written as 'Dragonsfeld' — likely the Drachenfels near Bad Honnef/Königswinter on the Rhine. The heading 'Thursday' is underlined. The phrase 'of the \"[?7n] Hills\"' is partially obscured; could read 'the Seven Hills' (referring to the Siebengebirge). 'Patrick' and 'André' appear to be local contacts (the Wegners). The year is not stated on this page; Friday 10th August on the right page suggests 1990 (August 10 was a Friday in 1990). Bottom of page is cut off mid-sentence continuing onto right page."
+    },
+    {
+      "page_id": "A_0030_R",
+      "side": "R",
+      "handwritten_page_no": 56,
+      "blank": false,
+      "full_text": "At __Calais__ we ended up in a dreadful campsite — almost like a gypsy encampment. The loos, I was told, were covered in crap + so were the urinals. An Australian motorcyclist + his girlfriend were nervous about having their belongings stolen during the night (a nervous Australian?) + we offered to have them in our van for safekeeping. So Simon made them a cup of tea + we had their clobber on the floor.\n    As soon as we woke up on Friday 10th August, Simon returned their belongings + we drove off to a carpark to have breakfast. We went to a supermarket + boarded the ferry.\n    Once we were back in England we went to west of Folkestone to see the Channel Tunnel Exhibition Centre;",
+      "dates": [
+        { "raw": "Friday 10th August", "iso_guess": "1990-08-10", "confidence": 0.75 }
+      ],
+      "headings": [],
+      "underlined_places": ["Calais"],
+      "place_mentions": ["Calais", "England", "Folkestone"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "The word 'Calais' is underlined in the text. 'Friday 10th August' — August 10 fell on a Friday in 1990, consistent with the volume range (1989–2003). Year not explicitly written on the page; inferred from day-date match. Text continues off the bottom of the page (sentence ends with a semicolon, suggesting more follows on the next page). 'Simon' appears to be the diarist's partner/husband."
+    }
+  ]
+}

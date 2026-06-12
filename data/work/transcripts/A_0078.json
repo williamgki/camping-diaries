@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0078",
+  "volume": "A",
+  "pdf_page": 78,
+  "pages": [
+    {
+      "page_id": "A_0078_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "On the Sunday Simon, Thomas, Eve & John attempted a walk, but the rain was coming across horizontally, so we gave up…. & all went home. Sir left 5 days later.\n\n__Friday October 23rd. 1992__\n   Simon, Eve, William, John & Charles set out for York. (Thomas & Peter singing with Birmingham Cathedral choir in Paris & Chartres.) We leave at 2.10. It's raining + there are dreadful, sudden jams on the M1 between Nottingham & Sheffield. We overshoot the turning off to York because it is not marked. Finally we reach __York__ almost via Wetherby.\n   We end up on the __Rowntree Park__ Caravan Site, near the river just south",
+      "dates": [
+        { "raw": "Friday October 23rd. 1992", "iso_guess": "1992-10-23", "confidence": 0.98 }
+      ],
+      "headings": ["Friday October 23rd. 1992"],
+      "underlined_places": ["York", "Rowntree Park"],
+      "place_mentions": ["York", "Birmingham", "Paris", "Chartres", "M1", "Nottingham", "Sheffield", "Wetherby", "Rowntree Park"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.92,
+      "notes": "Page number not visible in top-left corner. Text continues onto right page. 'Sir' appears to refer to a person (possibly a family friend or relative) who left 5 days after the Sunday. Birmingham Cathedral choir: could also be 'Birmingham Cathedral Choir' — transcribed as written."
+    },
+    {
+      "page_id": "A_0078_R",
+      "side": "R",
+      "handwritten_page_no": 138,
+      "blank": false,
+      "full_text": "of the city.\n\n__Saturday__\n   We walk into York along the river past where the boat left us 3 years ago. We reach the __Jorvic Centre__ at 9.25., just before the crowd starts. It's a fabulous museum, & fully lived up to my expectations, I had long wanted to visit it. It's important to spend the night in York & get there early. We bought a big tapestry in the museum shop for us all to do.\n   We had coffee, hot chocolate & croissants & then went on to the __Minster__. Soaring, simple, disciplined architecture, & a myriad of things to look at below. A Miner in a little hole in the wall (model) ent[illegible]",
+      "dates": [
+        { "raw": "Saturday", "iso_guess": "1992-10-24", "confidence": 0.85 }
+      ],
+      "headings": ["Saturday"],
+      "underlined_places": ["Jorvic Centre", "Minster"],
+      "place_mentions": ["York", "Jorvic Centre", "Minster"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Text continues beyond the bottom of the page. The last word before the cut-off appears to start 'ent-' — possibly 'entertains' or 'enthralls' but is cut off by the page edge. The date 'Saturday' is inferred as 1992-10-24 based on the previous entry being Friday October 23rd 1992. The diarist wrote 'Jorvic Centre' — could read as 'Jorvik' (the well-known York museum) or 'Jorvic'; transcribed as written. Handwritten page number 138 visible at top-right."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0074",
+  "volume": "A",
+  "pdf_page": 74,
+  "pages": [
+    {
+      "page_id": "A_0074_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "Hotel du Parc, was the best, most friendly of the holiday. I had pâté, fish (lieu-noir?) fromage-frais with chives + chocolate mousse pudding. The sign on paying in the lobby stated how much it was per personne, deux personne + chien R.C. 50fr. Anglian dogs obviously don't cross the channel.\n\n__Thu August 6th__\n\t\tWe chatted to a couple from London in the next tent who had been to the Olympics in Barcelona. They complained that ticket purchasing was not centralised.\n\t\tWe set off towards Chartres + arrived at 12.50. Thomas + Eve spent an hour looking at stained-glass windows starting to devise a quiz for the B'ham cathedral choir trip in October.\n\t\tWe then paid £13 for a snack lunch in a bar - jambon et fromage croissants, icecream + coffee.",
+      "dates": [
+        { "raw": "Thu August 6th", "iso_guess": "1992-08-06", "confidence": 0.92 }
+      ],
+      "headings": ["Thu August 6th"],
+      "underlined_places": [],
+      "place_mentions": ["Hotel du Parc", "Barcelona", "Chartres"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "The reference to the 'Olympics in Barcelona' confirms year 1992; Thu 6 August 1992 is consistent. 'lieu-noir' is a French fish (coley/saithe) — transcribed as written. 'B'ham' = Birmingham. Top-left corner is clipped in scan; no handwritten page number visible. The word after 'fish' in parentheses could read 'lieu-noir' or possibly 'lieu-noire'; transcribed as 'lieu-noir?'."
+    },
+    {
+      "page_id": "A_0074_R",
+      "side": "R",
+      "handwritten_page_no": 134,
+      "blank": false,
+      "full_text": "After another 1½ hours' motoring we reached __St. Illiers la Ville__ ****+\njumped into the swimming pool which is perhaps rather heavily chlorinated.\n(See P.80.).\n\t\tThere is also a large trampoline which Peter particularly enjoys. Ten or so children sit around the edge of it, while each child in turn has a bounce in the middle, or else 5 or so children bounce up + down all at once. A P.E. instructor's nightmare. The trampoline is in a wood under tall trees in the shade, along with 2 ping pong tables.\n\t\tThe site is only 5 minutes from the station, + the train run into Paris is 50 minutes, so it would be possible to do day trips to Paris or ~~De~~ Eurodisney from the site.\n__Fri 6th August__\n\t\tWe lazed about at the campsite enjoying the trampoline + swimming,",
+      "dates": [
+        { "raw": "Fri 6th August", "iso_guess": "1992-08-06", "confidence": 0.88 }
+      ],
+      "headings": ["Fri 6th August"],
+      "underlined_places": ["St. Illiers la Ville"],
+      "place_mentions": ["St. Illiers la Ville", "Paris", "Eurodisney"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Handwritten page number 134 visible in top-right corner. 'St. Illiers la Ville' is underlined. There are asterisks (****+) after the place name which may be a rating or annotation. The strikethrough 'De' before 'Eurodisney' appears to be a correction by the author. '(See P.80.)' is a cross-reference to an earlier page. The 'Fri 6th August' heading is a slight inconsistency — the previous page heading says 'Thu August 6th', but the narrative flows continuously; the 'Fri' heading likely starts a new day entry for 7th August though written as '6th' — transcribed verbatim as written. Actually re-reading: the left page has 'Thu August 6th', then on the right page after the campsite description there is 'Fri 6th August' which may be an error in the diary (should be 7th) or the diarist considered the late-night arrival on Thu/Fri boundary — transcribed exactly as written."
+    }
+  ]
+}

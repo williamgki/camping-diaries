@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0004",
+  "volume": "A",
+  "pdf_page": 4,
+  "pages": [
+    {
+      "page_id": "A_0004_L",
+      "side": "L",
+      "handwritten_page_no": 2,
+      "blank": false,
+      "full_text": "Half-term at __Dinas Camp__ near __Harlech__. May\nSimon 39, Eve 35, Thomas 9, William 7,\nPeter 6 (just) John 21months, Charles 6 weeks-\n\nLovely campsite in the hills.\nRubber tyre for the boys to swing on.\nEast wind tent. .\nWe forgot the can opener.\nThe boys played ball with Liverpool family,\nincluding man in a wheelchair.\nEve backed into a wall.\nSimon carried John in his push chair\nall the way up to the castle at __Harlech__ from\nthe carpark. The van worked beautifully. Hot\nshowers, comfortable bed.\n\n        We visited the river for swimming,\n__Harlech__ castle, sandy beach (including sandy\nicecream) and had a picnic at the Roman\nsteps.\n\n        On walks, Simon carried John on his\n[bottom of page cut off] Eve carried Charles in Phyllida's",
+      "dates": [
+        { "raw": "May", "iso_guess": null, "confidence": 0.4 }
+      ],
+      "headings": ["Half-term at Dinas Camp near Harlech. May"],
+      "underlined_places": ["Dinas Camp", "Harlech"],
+      "place_mentions": ["Dinas Camp", "Harlech"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.9,
+      "notes": "Stars (possibly asterisks) appear above 'Dinas Camp' — likely decorative. Ages of family members listed: Simon 39, Eve 35, Thomas 9, William 7, Peter 6 (just), John 21 months, Charles 6 weeks. These ages may help date the entry but no year is explicitly stated on this page. The phrase 'Roman steps' likely refers to the Roman Steps in the Rhinog mountains near Harlech. Bottom of page is cut off; text continues on right page."
+    },
+    {
+      "page_id": "A_0004_R",
+      "side": "R",
+      "handwritten_page_no": 3,
+      "blank": false,
+      "full_text": "carrier, Thomas carried the food\n(beef sandwiches, apple, choc bar, water)\nand William sometimes carried the\nspare clothes.\n\nAlmost Contenious work, glorious sunshine\n+ a fabulous holiday — even time to\nread + write letters\n\n        Simon was very nervous about Eve's\ndriving, and only stopped concentrating for\nher when Peter bit into a \"blood\" sweet in\nthe back seat....\n\n                                        June 10th\nMalvern old boys' day. A very useful base\nhere. Joined Robert Upex. Mrs. Hill at\nNo1.",
+      "dates": [
+        { "raw": "June 10th", "iso_guess": null, "confidence": 0.35 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Malvern"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "black",
+      "legibility": 0.88,
+      "notes": "The phrase 'Almost Contenious work' transcribed verbatim — likely intended as 'Contentious' or possibly 'Continuous' but preserved as written. The 'June 10th' entry with 'Malvern old boys' day' appears to be a separate, later entry on the same page (possibly a different trip or event). 'No1' likely refers to No. 1 (an address). 'Robert Upex' — name transcribed as best reading; could also read 'Upley' or similar. No year stated on this page."
+    }
+  ]
+}

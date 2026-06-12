@@ -1,0 +1,47 @@
+{
+  "spread_id": "A_0073",
+  "volume": "A",
+  "pdf_page": 73,
+  "pages": [
+    {
+      "page_id": "A_0073_L",
+      "side": "L",
+      "handwritten_page_no": null,
+      "blank": false,
+      "full_text": "We drove along winding roads through beautiful little villages, & arrived at Etraques, where it's market day, to shop. Then on up the valley of the Truyères, with hydro electric dams, & purpose-built 1930's villages.\n\n[Route sketch of France, labelled 1992, with route line showing:] le thore / Vallée de la Seine / Châteaux de la Loire / Bourges / Périgord Caves / Gorges de Truyères / Cassaniouze / Conques\n\nWe had lunch in a very dirty wood & came on to a crowded, but pleasant campsite on the La Source* * * Lac du Sarrans, created by the Sarrans",
+      "dates": [
+        { "raw": "1992", "iso_guess": "1992", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Etraques", "Truyères", "le thore", "Vallée de la Seine", "Châteaux de la Loire", "Bourges", "Périgord Caves", "Gorges de Truyères", "Cassaniouze", "Conques", "La Source", "Lac du Sarrans", "Sarrans"],
+      "route_sketch": true,
+      "route_sketch_description": "Outline map of France with a route line drawn from le thore / Vallée de la Seine in the north, down through Châteaux de la Loire and Bourges, then south-west to Périgord Caves, and south to Gorges de Truyères, Cassaniouze, and Conques. Year label '1992' appears to the right of the map.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.88,
+      "notes": "Page continues from previous spread — first word is mid-sentence. 'Etraques' may be read as 'Estaques' or similar; written clearly but could be a variant spelling. 'Truyères' confirmed by match with right-page reference to the Gorges. 'La Source***' appears to be a campsite name with a star rating. Text at bottom is cut off at page edge ('Sarrans' continues onto right page)."
+    },
+    {
+      "page_id": "A_0073_R",
+      "side": "R",
+      "handwritten_page_no": 133,
+      "blank": false,
+      "full_text": "damn. There's a swimming pool where we all enjoyed swimming, & John grew more & more confident swimming out from the chute. We all had an ice cream afterwards to celebrate his swimming the width.\n\n[Sketch of pool layout at campsite, labelled:] sun-warmed seat / bridge / foot bath / chute / deep / swimming / shoe / 4 sprays into pool / steps down / chil's pool+slide\n\nPool in confined area at campsite.     eating\n\nWash-rooms under tennis court.\n\n__Wed August 5th__\n\n      We wanted to leave early, but stayed for a swim. The pool only opened at 10.00.. We drove north [past] out of the Gorges & the Chestnut Trees. We spent hours on the A71, going past villages, castles & farm houses. We drove for 8 hours & ended up camping in quite a pretty campsite in Salbris * * *. The restaurant,",
+      "dates": [
+        { "raw": "Wed August 5th", "iso_guess": "1992-08-05", "confidence": 0.9 }
+      ],
+      "headings": ["Wed August 5th"],
+      "underlined_places": [],
+      "place_mentions": ["Gorges", "A71", "Salbris"],
+      "route_sketch": true,
+      "route_sketch_description": "Hand-drawn diagram of the swimming pool layout at the campsite, showing: chute on the left leading into the pool, 'deep' and 'swimming' sections, a bridge above, sun-warmed seat at top left, foot bath at top right, a 'shoe' area, '4 sprays into pool' entering from the right, 'steps down', and a 'chil's pool+slide' at bottom left. Also annotated 'eating' area outside the pool. Caption reads 'Pool in confined area at campsite.'",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.9,
+      "notes": "Page begins mid-sentence ('damn.' — continuation of 'Sarrans dam' from left page). The word struck through before 'out' appears to be 'past' — crossed out and not replaced. 'Salbris***' is a campsite with star rating. 'chil's pool+slide' likely abbreviation for 'children's pool+slide'. Text is cut off at bottom — diary entry continues onto next spread. The date 'Wed August 5th' with 1992 context: August 5 1992 was indeed a Wednesday, supporting confidence."
+    }
+  ]
+}

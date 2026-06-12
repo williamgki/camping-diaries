@@ -1,0 +1,49 @@
+{
+  "spread_id": "A_0006",
+  "volume": "A",
+  "pdf_page": 6,
+  "pages": [
+    {
+      "page_id": "A_0006_L",
+      "side": "L",
+      "handwritten_page_no": 6,
+      "blank": false,
+      "full_text": "John's birthday. Saturday Aug 19th\n  Off to the north. Leeds - camped on the Sykes front drive. Swimming with NCT + watched canoeists afterwards. Catherine is just able to stand. We all had chocolate birthday cake.\nSun After St. Aidan's church we drove to York.\n  We arrived at the Minster just after the start of evensong. Crowds carefully shut away from Christian worship. Officious officials. Scaffolding for thunderbolt repairs. Disappointing\n  We rode in a horse + cart around York. &. Stone column upside down. The Mayor's House, where we later sat on the steps.\nMon We spent the night in a good campsite at __Bishopsthorpe__. There's a Marina. We [?much] took a Riverboat into and out of York. A lovely, lovely bishop's house/palace on the river. We walked around the Shambles. (Butcher's Fleshammels) The __Castle Museum__'s marvellous streets (enclosed) reconstructed streets filled with Dr. Kirk's \"Bygones\". (Thomas) (Merrygoround with",
+      "dates": [
+        { "raw": "Saturday Aug 19th", "iso_guess": "1989-08-19", "confidence": 0.8 },
+        { "raw": "Sun", "iso_guess": "1989-08-20", "confidence": 0.7 },
+        { "raw": "Mon", "iso_guess": "1989-08-21", "confidence": 0.7 }
+      ],
+      "headings": [],
+      "underlined_places": ["Bishopsthorpe", "Castle Museum"],
+      "place_mentions": ["Leeds", "Sykes", "St. Aidan's church", "York", "Minster", "Bishopsthorpe", "Shambles", "Castle Museum"],
+      "route_sketch": false,
+      "route_sketch_description": null,
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.87,
+      "notes": "The text is cut off at the bottom and continues on the right page. 'Sykes' is a surname (camped on someone's drive). 'NCT' likely National Childbirth Trust. 'Catherine' appears to be a young child just learning to stand. 'Fleshammels' is the diary's spelling of Fleshammels/Fleshambles. Year 1989 inferred from the explicit mention of '1989 Kitchen' on the right page and this being the first trip in volume A."
+    },
+    {
+      "page_id": "A_0006_R",
+      "side": "R",
+      "handwritten_page_no": 7,
+      "blank": false,
+      "full_text": "horse shoofte\nGilligan's\nMerrygoround.\nKnights and boy + girl in Edwardian dress.\n(William) big block, horse + carriage, 1989 Kitchen\n(Peter) - in the Shambles - playing lute, fire engine\n                                    stuffed dog\n(Simon) lights from past + present, Ewbank washing machine, development of kitchens.\n(Eve) 2 seats side-by-side of farm loo, carved in wooden bench. Anglo-Saxon mask, Jacobean livingroom - ornately carved cradle, carpenter's frame marks, no cushions or carpets.\n  Cliford's tower on man-built mound.\n\n  We walked around the Shambles, found a loo\nSir Peter + the children watched a video on the history of York, while I fed Charles + Simon [looked] around the display.\n  We came back on the boat the day after the Thames Riverboat accident. There were not enough life jackets or emergency exits on the boat",
+      "dates": [
+        { "raw": "1989", "iso_guess": "1989", "confidence": 0.95 }
+      ],
+      "headings": [],
+      "underlined_places": [],
+      "place_mentions": ["Shambles", "Cliford's tower", "York", "Thames"],
+      "route_sketch": true,
+      "route_sketch_description": "Two small sketches appear on the right page: one near the top showing what appears to be a domed/rounded structure (possibly a tent or a fairground ride), and one near the middle-right showing a simplified drawing of Clifford's Tower on its mound.",
+      "photo_captions": [],
+      "is_index_page": false,
+      "ink": "blue",
+      "legibility": 0.83,
+      "notes": "The text continues directly from the left page (about Dr. Kirk's Bygones / Castle Museum). 'Cliford's' is the diary's spelling (one 'f'). The names in parentheses — William, Peter, Simon, Eve — appear to be family members noting what they each enjoyed at the Castle Museum. 'Thames Riverboat accident' is a real historical event: the Marchioness disaster of 20 August 1989, which strongly confirms the year as 1989. 'horse shoofte' at top is likely 'horse shoofs' or 'horse shoes' — unclear. 'Gilligan's Merrygoround' — possibly a ride name. Text appears cut off at very bottom."
+    }
+  ]
+}
