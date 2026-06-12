@@ -183,6 +183,27 @@ for (const [key, w] of wanted) {
     }
     continue
   }
+  // Reject hits outside the plausible Europe bbox (a bogus match elsewhere in
+  // the world is worse than honest unresolved).
+  results = results.filter((r) => Number(r.lon) > -25 && Number(r.lon) < 35 && Number(r.lat) > 35 && Number(r.lat) < 72)
+  if (!results.length) {
+    out[key] = {
+      place_id: placeId,
+      normalized_name: w.name,
+      display_name: null,
+      lon: null,
+      lat: null,
+      country: w.countrycodes || null,
+      precision: 'unresolved',
+      curated: false,
+      source: 'nominatim',
+      original_wordings: [...w.wordings],
+      trips: [...w.trips],
+      ambiguous: false,
+      alternates: [],
+    }
+    continue
+  }
   const top = results[0]
   // Ambiguous when a second hit of similar importance lands far from the first.
   let ambiguous = false

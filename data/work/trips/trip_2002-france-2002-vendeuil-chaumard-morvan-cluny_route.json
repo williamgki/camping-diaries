@@ -49,42 +49,6 @@
     },
     {
       "seq": 4,
-      "normalized_name": "Vendeuil-Caply, France",
-      "original_wording": "Vendeuil",
-      "role": "overnight_base",
-      "confidence": 0.6,
-      "approximate": false,
-      "source_page_id": null,
-      "excerpt": null,
-      "geocode_hint": { "countrycodes": "fr" },
-      "note": "Named in trip title only; diary pages for this trip beyond the boundary page are not transcribed. Vendeuil-Caply (Oise) is a well-known stopover campsite on the Calais-Burgundy route."
-    },
-    {
-      "seq": 5,
-      "normalized_name": "Chaumard, France",
-      "original_wording": "Chaumard",
-      "role": "overnight_base",
-      "confidence": 0.6,
-      "approximate": false,
-      "source_page_id": null,
-      "excerpt": null,
-      "geocode_hint": { "countrycodes": "fr" },
-      "note": "Named in trip title only; Chaumard is a village in the Morvan (Nièvre), near Lac de Pannecière — consistent with the trip title pairing of Chaumard and Morvan."
-    },
-    {
-      "seq": 6,
-      "normalized_name": "Cluny, France",
-      "original_wording": "Cluny",
-      "role": "overnight_base",
-      "confidence": 0.6,
-      "approximate": false,
-      "source_page_id": null,
-      "excerpt": null,
-      "geocode_hint": { "countrycodes": "fr" },
-      "note": "Named in trip title only; Cluny (Saône-et-Loire) is the famous Burgundian abbey town, consistent with a Morvan-area trip."
-    },
-    {
-      "seq": 7,
       "normalized_name": "Birmingham, UK",
       "original_wording": null,
       "role": "home",
@@ -109,23 +73,41 @@
   "excursions": [],
   "unresolved": [
     {
-      "original_wording": "Lyons",
-      "issue": "Peter is said to fly to Lyons (Lyon) — it is unclear whether Lyon was a visit/stop for the main party or only Peter's arrival point. The main party presumably drove; no Lyon stop is confirmed in the available diary text.",
-      "source_page_id": "A_0316_L",
-      "excerpt": "Peter will fly to Lyons next"
+      "original_wording": "Vendeuil",
+      "issue": "Named only in the trip title/metadata; the single available boundary page (A_0316_L) records only the departure sentence and never mentions Vendeuil. No supporting diary text exists in this bundle, so the stop cannot be cited. Likely Vendeuil-Caply (Oise) or another Vendeuil, but unverifiable; queue for re-extraction when the trip's diary pages are transcribed.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Chaumard",
+      "issue": "Named only in the trip title/metadata; not present in the available diary text (A_0316_L). No supporting excerpt exists in this bundle, so the stop cannot be cited. Chaumard is a Morvan (Nievre) village, but this cannot be confirmed without the missing diary pages.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Cluny",
+      "issue": "Named only in the trip title/metadata; not present in the available diary text (A_0316_L). No supporting excerpt exists in this bundle, so the stop cannot be cited. Cluny (Saone-et-Loire) is consistent with a Burgundy trip, but unverifiable from the supplied page.",
+      "source_page_id": null,
+      "excerpt": null
     },
     {
       "original_wording": "Morvan",
-      "issue": "Morvan appears in the trip title as a distinct entry alongside Chaumard. It may refer to the Morvan regional park generally (in which case Chaumard IS the Morvan stop) or to a separate location within the Morvan. Cannot distinguish without the missing diary pages.",
+      "issue": "Appears in the trip title as a distinct entry alongside Chaumard. May refer to the Morvan regional park generally (in which case Chaumard is the Morvan stop) or to a separate location. Not present in the available diary text; cannot distinguish or cite without the missing diary pages.",
       "source_page_id": null,
       "excerpt": null
+    },
+    {
+      "original_wording": "Lyons",
+      "issue": "Peter is said to fly to Lyons (Lyon). It is unclear whether Lyon was a visit/stop for the main party or only Peter's arrival point; the main party presumably drove. No Lyon stop is confirmed in the available diary text.",
+      "source_page_id": "A_0316_L",
+      "excerpt": "Peter will fly to Lyons next"
     }
   ],
   "boundary_flags": [
     "mixed_start: this trip's opening is on a boundary page shared with the preceding entry",
     "mixed_end: end boundary not determined — diary pages beyond A_0316 are not included in the source bundle",
-    "Only the departure sentence is transcribed; all subsequent stops derive from the trip title_guess only"
+    "Only the departure sentence is transcribed; all named stops (Vendeuil, Chaumard, Morvan, Cluny) derive from the trip title only and have no supporting page text, so they were moved to unresolved[]"
   ],
-  "summary": "In late July 2002 Simon, Eve, John, Charles (and Peter joining by air) drove to France for a Burgundy-area camping trip taking in Vendeuil-Caply (likely a transit overnight), the Morvan village of Chaumard, and the abbey town of Cluny. The diary pages covering the trip itself were not available in this bundle; stop details are inferred from the trip title only.",
-  "extraction_notes": "Only one boundary page (A_0316_L) was supplied, capturing only the departure sentence for this trip. The spread_range [A_0316, A_0316] and mixed_start/mixed_end flags confirm the diary pages proper are outside this bundle. All stops except home and the crossing are sourced from the title_guess alone (confidence capped at 0.6). Vendeuil: interpreted as Vendeuil-Caply (Oise), a well-known campsite stop on the Calais-south route — but could be another Vendeuil; flag for verification when full pages become available. Morvan may be a separate stop or simply the regional description of the Chaumard base. Peter flying to Lyon may indicate the family also visited Lyon, but this cannot be confirmed. Date_end is unknown; date_guess of 2002-07 from the bundle header suggests a July trip."
+  "summary": "On Monday 29 July 2002, two days after returning from Thorperness, Simon, Eve, John and Charles set off by car for France, with Peter due to fly out to Lyon. The only diary text available in this bundle is the departure sentence on a boundary page; the trip's substantive pages were not transcribed, so the named stops (Vendeuil, Chaumard, Morvan, Cluny) cannot be cited and are flagged unresolved.",
+  "extraction_notes": "Only one boundary page (A_0316_L) was supplied, capturing the trip's departure sentence. A grep of the entire bundle confirms that Vendeuil, Chaumard, Morvan and Cluny appear ONLY in the trip_id/title_guess metadata and NOT in any page text. Per the citation rule, every non-home main_route stop must have a real source_page_id and a verbatim excerpt; the title-only stops had neither, so they were moved to unresolved[] rather than kept uncited or fabricated. The retained main_route is home -> Dover -> Calais -> home: the Dover/Calais crossing terminals are cited from A_0316_L (\"we have left for France\") and follow the default England-France dover-calais inference. The closing home stop carries no citation as role=home is exempt. uncited_remaining = 0 (every non-home main_route/excursion stop now has source_page_id + excerpt). Re-extract when the trip's diary pages become available."
 }

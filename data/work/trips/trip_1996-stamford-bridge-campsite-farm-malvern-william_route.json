@@ -17,8 +17,8 @@
       "role": "home",
       "confidence": 1.0,
       "approximate": false,
-      "source_page_id": "A_0190_R",
-      "excerpt": "We set off at 6.15.",
+      "source_page_id": null,
+      "excerpt": null,
       "geocode_hint": { "countrycodes": "gb" }
     },
     {
@@ -45,18 +45,6 @@
     },
     {
       "seq": 4,
-      "normalized_name": "Great Malvern, UK",
-      "original_wording": "Malvern",
-      "role": "inferred_anchor",
-      "confidence": 0.5,
-      "approximate": true,
-      "source_page_id": null,
-      "excerpt": null,
-      "geocode_hint": { "countrycodes": "gb" },
-      "inference_reason": "Named in title_guess 'Stamford Bridge campsite & farm; Malvern (William’s birthday)' but not mentioned in surviving diary text; likely visited on return or as a separate leg; diary ends mid-trip (mixed_end: true)"
-    },
-    {
-      "seq": 5,
       "normalized_name": "Birmingham, UK",
       "original_wording": null,
       "role": "home",
@@ -72,28 +60,28 @@
   "unresolved": [
     {
       "original_wording": "Stamford Bridge [?***]",
-      "issue": "The '[?***]' marker in the diary suggests the transcriber found the text after 'Stamford Bridge' illegible or uncertain; likely the name of the specific farm/campsite. Stamford Bridge village (East Yorkshire, near York) is the most plausible match given the travel context, but it could conceivably refer to a lesser-known location.",
+      "issue": "The '[?***]' marker in the diary suggests the transcriber found the text after 'Stamford Bridge' illegible or uncertain; likely the name of the specific farm/campsite. Stamford Bridge village (East Yorkshire, near York) is the most plausible match given the travel context, but the precise campsite/farm name could not be read. The stop itself is kept in main_route (seq 3, cited); only the illegible specific name is flagged here.",
       "source_page_id": "A_0190_R",
       "excerpt": "On to __Stamford Bridge__ [?***] a campsite"
     },
     {
       "original_wording": "WoodEnd",
-      "issue": "Written as a single word 'WoodEnd'; friends Margaret, Jim & Helen lived here. Probably Wood End in Warwickshire (near Birmingham) but exact location uncertain.",
+      "issue": "Written as a single word 'WoodEnd'; friends Margaret, Jim & Helen lived here. Probably Wood End in Warwickshire (near Birmingham) but exact location uncertain. The stop is kept in main_route (seq 2, cited); this note records the location ambiguity only.",
       "source_page_id": "A_0190_R",
       "excerpt": "spent 25 minutes at WoodEnd. Margaret, Jim & Helen were about to go on holiday to Cornwall."
     },
     {
       "original_wording": "Malvern",
-      "issue": "Present in title_guess only; no supporting diary text survives in the extracted pages (mixed_end: true means the trip continues beyond the visible spread). Malvern is likely visited as part of this trip (possibly on return, or as a William’s-birthday-related stop) but cannot be confirmed from available text.",
+      "issue": "Present in title_guess only ('Stamford Bridge campsite & farm; Malvern (William's birthday)'); no supporting diary text survives in the extracted pages. The surviving 'Friday Sept 13th' entry mentions only WoodEnd and Stamford Bridge, and the page is boundary-mixed with the trip continuing beyond A_0190_R (mixed_end: true). Because there is no page text to cite for a Malvern stop, the previously inferred anchor (seq 4, source_page_id: null, excerpt: null) has been removed from main_route and recorded here. Malvern is likely visited as part of this trip (possibly on return, or as a William's-birthday stop) but cannot be confirmed from the available text.",
       "source_page_id": null,
       "excerpt": null
     }
   ],
   "boundary_flags": [
-    "mixed_start: page A_0190_R begins with a prior trip entry ('Sunday 25th August' – Peter to Beauchamp music camp); the 1996 trip starts at 'Friday Sept 13th'.",
+    "mixed_start: page A_0190_R begins with a prior trip entry ('Sunday 25th August' - Peter to Beauchamp music camp); the 1996 trip starts at 'Friday Sept 13th'.",
     "mixed_end: the trip diary continues beyond A_0190_R; page A_0191_L is a photo caption from an unrelated Ireland trip. Content about Malvern and the trip's end is not captured in the available pages.",
     "Date mismatch: the transcribed ISO dates on A_0190_R show 1991 (transcriber default year), but 'Friday Sept 13th' fell on a Friday in 1996 and the trip_id is 1996; correct year is 1996."
   ],
-  "summary": "A September 1996 trip from Birmingham: the family set off early on Friday the 13th, made a brief transit stop at WoodEnd to visit friends, then drove to a campsite at Stamford Bridge (East Yorkshire, near York). The title also references Malvern and William's birthday but the diary text for those legs is not preserved in the available pages.",
-  "extraction_notes": "Page A_0190_R is boundary-mixed. The 'Sunday 25th August' section belongs to a preceding trip about Peter joining the Portals at Beauchamp music camp; it has been excluded. The relevant 1996 trip content begins at 'Friday Sept 13th'. The ISO dates on the page were wrongly assigned to 1991 by the transcriber; the correct year is 1996 (Sept 13 fell on a Friday that year). Page A_0191_L belongs to an entirely different Ireland trip (Great Blasket Island / Dingle) and contributes no evidence to this route. Malvern appears only in the title_guess, not in surviving diary text, and has been recorded as an inferred_anchor with low confidence. Thomas is not mentioned in the departure text; the travellers list is drawn from the title context and family convention. The '[?***]' after 'Stamford Bridge' suggests illegible text, probably the campsite/farm name."
+  "summary": "A September 1996 trip from Birmingham: the family set off early on Friday the 13th, made a brief transit stop at WoodEnd to visit friends, then drove to a campsite at Stamford Bridge (East Yorkshire, near York). The title also references Malvern and William's birthday, but no diary text for those legs is preserved in the available pages, so Malvern is recorded as unresolved.",
+  "extraction_notes": "Page A_0190_R is boundary-mixed. The 'Sunday 25th August' section belongs to a preceding trip about Peter joining the Portals at Beauchamp music camp; it has been excluded. The relevant 1996 trip content begins at 'Friday Sept 13th'. The ISO dates on the page were wrongly assigned to 1991 by the transcriber; the correct year is 1996 (Sept 13 fell on a Friday that year). Page A_0191_L belongs to an entirely different Ireland trip (Great Blasket Island / Dingle) and contributes no evidence to this route. Correction pass: every non-home main_route stop now carries both a real source_page_id (A_0190_R) and a verbatim excerpt from that page. The previously inferred 'Great Malvern' anchor (which had source_page_id: null and excerpt: null) could not be supported by any page text and has been moved out of main_route into unresolved[]. Home stops carry null source_page_id/excerpt per the schema. Thomas is not mentioned in the departure text; the travellers list is drawn from the title context and family convention."
 }

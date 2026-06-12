@@ -23,19 +23,6 @@
     },
     {
       "seq": 2,
-      "normalized_name": "Dover",
-      "original_wording": null,
-      "role": "crossing_terminal",
-      "confidence": 0.4,
-      "approximate": false,
-      "inferred": true,
-      "inference_reason": "default England-France crossing; departure and crossing fall in the previous diary window, no port named in these pages",
-      "source_page_id": null,
-      "excerpt": null,
-      "geocode_hint": { "countrycodes": "gb" }
-    },
-    {
-      "seq": 3,
       "normalized_name": "Esparron-de-Verdon, France",
       "original_wording": "Esparron",
       "role": "overnight_base",
@@ -46,7 +33,7 @@
       "geocode_hint": { "countrycodes": "fr" }
     },
     {
-      "seq": 4,
+      "seq": 3,
       "normalized_name": "Riez, France",
       "original_wording": "Riez",
       "role": "transit_stop",
@@ -57,7 +44,7 @@
       "geocode_hint": { "countrycodes": "fr" }
     },
     {
-      "seq": 5,
+      "seq": 4,
       "normalized_name": "Moustiers-Sainte-Marie, France",
       "original_wording": "Moustiers-Ste-Marie",
       "role": "overnight_base",
@@ -68,7 +55,7 @@
       "geocode_hint": { "countrycodes": "fr" }
     },
     {
-      "seq": 6,
+      "seq": 5,
       "normalized_name": "Saillans, France",
       "original_wording": "Sailline",
       "role": "overnight_base",
@@ -79,7 +66,7 @@
       "geocode_hint": { "countrycodes": "fr" }
     },
     {
-      "seq": 7,
+      "seq": 6,
       "normalized_name": "Saint-Agnan-en-Vercors, France",
       "original_wording": "St. Agnan",
       "role": "overnight_base",
@@ -90,7 +77,7 @@
       "geocode_hint": { "countrycodes": "fr" }
     },
     {
-      "seq": 8,
+      "seq": 7,
       "normalized_name": "Gorges de la Bourne, France",
       "original_wording": "Gorge de la Bourne",
       "role": "transit_stop",
@@ -101,7 +88,7 @@
       "geocode_hint": { "countrycodes": "fr" }
     },
     {
-      "seq": 9,
+      "seq": 8,
       "normalized_name": "Saint-Jean-de-Vaux, France",
       "original_wording": "St. Jean de [?lux] (near Chalon)",
       "role": "overnight_base",
@@ -112,7 +99,7 @@
       "geocode_hint": { "countrycodes": "fr" }
     },
     {
-      "seq": 10,
+      "seq": 9,
       "normalized_name": "Beaune, France",
       "original_wording": "Beaune",
       "role": "main_stop",
@@ -123,7 +110,7 @@
       "geocode_hint": { "countrycodes": "fr" }
     },
     {
-      "seq": 11,
+      "seq": 10,
       "normalized_name": "Guignicourt, France",
       "original_wording": "Guignicourt",
       "role": "overnight_base",
@@ -134,7 +121,7 @@
       "geocode_hint": { "countrycodes": "fr" }
     },
     {
-      "seq": 12,
+      "seq": 11,
       "normalized_name": "Arques, France",
       "original_wording": "L'Ascenseur à Bateaux des Fontinettes (Arques near St. Omer)",
       "role": "main_stop",
@@ -145,20 +132,10 @@
       "geocode_hint": { "countrycodes": "fr" }
     }
   ],
-  "crossings": [
-    {
-      "after_seq": 1,
-      "route_key": "dover-calais",
-      "kind": "ferry",
-      "named_in_diary": false,
-      "inferred": true,
-      "source_page_id": null,
-      "excerpt": "No outbound crossing narrated in this window; this is a continuation of an ongoing France trip whose departure falls in the previous diary window. Default England-France crossing assumed."
-    }
-  ],
+  "crossings": [],
   "excursions": [
     {
-      "base_seq": 5,
+      "base_seq": 4,
       "label": "Day trip into the Gorges du Verdon (Routes des Crêtes loop)",
       "date_guess": "2005-08-03",
       "stops": [
@@ -175,13 +152,13 @@
           "original_wording": "Pont de l'Artuby",
           "confidence": 0.8,
           "source_page_id": "B_0075_L",
-          "excerpt": "we went over Pont de l'Artuby, the highest bungee jump in Europe (fortunately not working)",
+          "excerpt": "Back in the car we went over Pont de l'Artuby, the highest bungee jump in Europe (fortunately not working)",
           "geocode_hint": { "countrycodes": "fr" }
         }
       ]
     },
     {
-      "base_seq": 6,
+      "base_seq": 5,
       "label": "Canoeing down the Drôme river",
       "date_guess": "2005-08-05",
       "stops": [
@@ -196,7 +173,7 @@
       ]
     },
     {
-      "base_seq": 7,
+      "base_seq": 6,
       "label": "Vercors Resistance day: La Chapelle, Luire Cave & Vassieux museum",
       "date_guess": "2005-08-07",
       "stops": [
@@ -213,7 +190,7 @@
           "original_wording": "Luire Cave",
           "confidence": 0.85,
           "source_page_id": "B_0079_L",
-          "excerpt": "We drove off to __Luire Cave__. It was considered one of the deepest in the world – very cold, always 7°.",
+          "excerpt": "We drove off to __Luire Cave__.",
           "geocode_hint": { "countrycodes": "fr" }
         },
         {
@@ -227,7 +204,7 @@
       ]
     },
     {
-      "base_seq": 9,
+      "base_seq": 8,
       "label": "Côte Chalonnaise wine & swimming days (Givry, Saint-Jean-de-Vaux pool)",
       "date_guess": "2005-08-10",
       "stops": [
@@ -251,6 +228,12 @@
     }
   ],
   "unresolved": [
+    {
+      "original_wording": "Dover (default England-France crossing)",
+      "issue": "Inferred anchor for the outbound Channel crossing and home departure, which fall in the PREVIOUS diary window and are not narrated anywhere in these pages (B_0073-B_0084). No port, ferry or crossing is named or implied in-window, so the Dover crossing_terminal cannot be cited; moved here per the citation rule rather than kept uncited or invented.",
+      "source_page_id": null,
+      "excerpt": null
+    },
     {
       "original_wording": "Le Vieux Colombier",
       "issue": "passed/reached between Riez and Moustiers ('We reach Le Vieux Colombier (dove cote?)') but cannot pin a precise geocodable location; likely a named campsite or hamlet near Moustiers-Sainte-Marie",
@@ -285,7 +268,7 @@
   "boundary_flags": [
     {
       "page_id": "B_0073_L",
-      "issue": "Window opens mid-trip: the family is already camped at Esparron and the diary continues an ongoing France holiday. The home departure and Channel crossing are in the previous diary window, so seq 1 (home) and seq 2 (Dover/crossing) are reconstructed, not narrated here."
+      "issue": "Window opens mid-trip: the family is already camped at Esparron and the diary continues an ongoing France holiday. The home departure and Channel crossing are in the previous diary window, so the outbound crossing is not narrated here and its inferred Dover anchor has been moved to unresolved[]."
     },
     {
       "page_id": "B_0084_L",
@@ -293,5 +276,5 @@
     }
   ],
   "summary": "A 2005 summer leg of a long France camping holiday, picking up in early August with the family already based in Provence near Esparron-de-Verdon. They move to Moustiers-Sainte-Marie for the Gorges du Verdon, then north into the Drôme valley for canoeing at Saillans, up onto the Vercors plateau (Resistance sites at La Chapelle, the Luire Cave and Vassieux) basing near Saint-Agnan-en-Vercors, and on into Burgundy near Chalon-sur-Saône for wine and swimming, with a visit to the Hôtel-Dieu at Beaune. The window closes heading north via Guignicourt to the Fontinettes boat-lift near St-Omer, before the return home (covered in the next diary window).",
-  "extraction_notes": "Travellers limited to Simon, Eve, John and Charles: only these four appear active in this window (the older sons Thomas, William and Peter are referenced remotely — e.g. 'William has just texted that his house move went well' — not present; Tinder the dog is not mentioned). The three 'sketch' pages are NOT route sketches: B_0073_L is a doodle of a field watering machine, B_0075_L is a small arrow showing the loop shape of the Verdon canyon day-trip (no place ordering), and B_0077_R is a glued-in printed canoe-route brochure map of the Drôme (Saillans–Die), not the family's road route — so narrative order was used (no sketch order to override it). Main-route ordering follows the dated narrative: Esparron(Mon/Tue) → Moustiers(Tue–Thu, Verdon excursion Wed) → Saillans/Drôme canoe base(Thu Aug4–, Fri Aug5 canoe) → Saint-Agnan-en-Vercors(Sat–Mon) → NE up Gorge de la Bourne → Saint-Jean-de-Vaux/Chalon Burgundy base(Mon–Thu) → Beaune(Thu Aug11) → Guignicourt(Fri Aug12) → Fontinettes/Arques near St-Omer(Fri Aug12). 'Sailline' read as Saillans (matches the Drôme canoe map showing Saillans). 'St. Jean de [?lux] near Chalon' resolved to Saint-Jean-de-Vaux on the strength of the glued-in 'PISCINE DE ST-JEAN-DE-VAUX' pool ticket and 'PERCEPTION DE GIVRY'. Beaune treated as a main_stop on the northbound leg rather than an excursion because the family said goodbye to the Burgundy base neighbours and left for good that day; the Thursday-night stop before Guignicourt is not stated in the diary. Mellacey/Mercurey and Chalon on B_0080_R are gas-cylinder errands, not route stops. Dates: only Aug 5, 10, 11, 12 are explicit; earlier days back-counted from 'Friday August 5th'. Crossing is inferred dover-calais (no port named in-window)."
+  "extraction_notes": "Correction pass: every non-home main_route stop and every excursion stop now carries both a real source_page_id from the bundle and a short verbatim excerpt from that page. The previously uncited seq-2 Dover crossing_terminal (an inferred anchor for the undocumented outbound Channel crossing, which falls in the prior diary window) has been moved to unresolved[] and main_route re-sequenced (Esparron is now seq 2, etc.); excursion base_seq references updated accordingly (Verdon=4, Drôme canoe=5, Vercors=6, Côte Chalonnaise=8). With no in-window crossing evidence, the crossings array is empty (the outbound crossing is in the previous window; the return is in the next). The Luire Cave excerpt was trimmed to the text that actually appears on B_0079_L ('We drove off to __Luire Cave__.'), since its continuation runs onto B_0079_R. Travellers limited to Simon, Eve, John and Charles: only these four appear active in this window (older sons referenced remotely, e.g. 'William has just texted that his house move went well'; the dog is not mentioned). The three 'sketch' pages are NOT route sketches (B_0073_L watering-machine doodle, B_0075_L arrow showing the Verdon loop shape, B_0077_R glued-in canoe-route brochure map of the Drôme), so narrative order was used. Main-route ordering follows the dated narrative: Esparron → Moustiers (Verdon excursion) → Saillans/Drôme canoe base → Saint-Agnan-en-Vercors → NE up Gorge de la Bourne → Saint-Jean-de-Vaux/Chalon Burgundy base → Beaune (Thu Aug 11) → Guignicourt (Fri Aug 12) → Fontinettes/Arques near St-Omer (Fri Aug 12). 'Sailline' read as Saillans (matches the Drôme canoe map). 'St. Jean de [?lux] near Chalon' resolved to Saint-Jean-de-Vaux on the strength of the glued-in 'PISCINE DE ST-JEAN-DE-VAUX' pool ticket and 'PERCEPTION DE GIVRY'. Mellacey/Mercurey and Chalon errands on B_0080_R are gas-cylinder errands, not route stops. Dates: only Aug 5, 10, 11, 12 are explicit; earlier days back-counted from 'Friday August 5th'."
 }

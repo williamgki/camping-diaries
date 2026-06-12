@@ -59,7 +59,7 @@
       "normalized_name": "Chandlers Ford, Hampshire, UK",
       "original_wording": "Chandlers Ford",
       "role": "overnight_base",
-      "confidence": 0.95,
+      "confidence": 0.9,
       "approximate": false,
       "source_page_id": "A_0087_R",
       "excerpt": "left for Hattie + James at Chandlers Ford. We had a delicious roast lunch, + chatted.",
@@ -69,7 +69,7 @@
       "seq": 6,
       "normalized_name": "Portsmouth, UK",
       "original_wording": "Portsmouth",
-      "role": "crossing_terminal",
+      "role": "main_stop",
       "confidence": 0.95,
       "approximate": false,
       "source_page_id": "A_0088_L",
@@ -78,67 +78,6 @@
     },
     {
       "seq": 7,
-      "normalized_name": "Cherbourg, France",
-      "original_wording": null,
-      "role": "crossing_terminal",
-      "confidence": 0.5,
-      "approximate": false,
-      "inferred": true,
-      "inference_reason": "Portsmouth ferry to France implied; Cherbourg is the most direct Portsmouth crossing for onward travel to Switzerland/Italy via St Gotthard; no French port named in diary",
-      "source_page_id": "A_0088_L",
-      "excerpt": "We drove to Portsmouth + ate in the carpark, surrounded by hoardes of French students.",
-      "geocode_hint": { "countrycodes": "fr" }
-    },
-    {
-      "seq": 8,
-      "normalized_name": "St Gotthard Pass, Switzerland",
-      "original_wording": "St Gotthard",
-      "role": "main_stop",
-      "confidence": 0.55,
-      "approximate": false,
-      "source_page_id": null,
-      "excerpt": null,
-      "note": "Named in trip title_guess only; not covered in surviving diary pages",
-      "geocode_hint": { "countrycodes": "ch" }
-    },
-    {
-      "seq": 9,
-      "normalized_name": "Lugano, Switzerland",
-      "original_wording": "Lugano",
-      "role": "overnight_base",
-      "confidence": 0.55,
-      "approximate": false,
-      "source_page_id": null,
-      "excerpt": null,
-      "note": "Named in trip title_guess only; not covered in surviving diary pages",
-      "geocode_hint": { "countrycodes": "ch" }
-    },
-    {
-      "seq": 10,
-      "normalized_name": "Cremona, Italy",
-      "original_wording": "Cremona",
-      "role": "overnight_base",
-      "confidence": 0.55,
-      "approximate": false,
-      "source_page_id": null,
-      "excerpt": null,
-      "note": "Named in trip title_guess only; not covered in surviving diary pages",
-      "geocode_hint": { "countrycodes": "it" }
-    },
-    {
-      "seq": 11,
-      "normalized_name": "Parma, Italy",
-      "original_wording": "Parma",
-      "role": "overnight_base",
-      "confidence": 0.55,
-      "approximate": false,
-      "source_page_id": null,
-      "excerpt": null,
-      "note": "Named in trip title_guess only; not covered in surviving diary pages",
-      "geocode_hint": { "countrycodes": "it" }
-    },
-    {
-      "seq": 12,
       "normalized_name": "Horsley, Surrey, UK",
       "original_wording": "Horsley",
       "role": "overnight_base",
@@ -149,7 +88,7 @@
       "geocode_hint": { "countrycodes": "gb" }
     },
     {
-      "seq": 13,
+      "seq": 8,
       "normalized_name": "London, UK",
       "original_wording": "London",
       "role": "transit_stop",
@@ -160,7 +99,7 @@
       "geocode_hint": { "countrycodes": "gb" }
     },
     {
-      "seq": 14,
+      "seq": 9,
       "normalized_name": "Birmingham, UK",
       "original_wording": null,
       "role": "home",
@@ -171,18 +110,7 @@
       "geocode_hint": { "countrycodes": "gb" }
     }
   ],
-  "crossings": [
-    {
-      "after_seq": 6,
-      "route_key": "portsmouth-cherbourg",
-      "kind": "ferry",
-      "named_in_diary": false,
-      "inferred": true,
-      "inference_reason": "Portsmouth named as departure point; Cherbourg inferred as most likely French port for route to Switzerland/Italy via St Gotthard; no destination port named in diary",
-      "source_page_id": "A_0088_L",
-      "excerpt": "We drove to Portsmouth + ate in the carpark, surrounded by hoardes of French students."
-    }
-  ],
+  "crossings": [],
   "excursions": [
     {
       "base_seq": 5,
@@ -194,7 +122,7 @@
           "original_wording": "Winchester Cathedral",
           "confidence": 0.9,
           "source_page_id": "A_0088_L",
-          "excerpt": "Simon drove all of us + Hattie + Katrina, Laura + Edward to see Winchester Cathedral. It was lovely to see all the Dugoids.",
+          "excerpt": "Simon drove all of us + Hattie + Katrina, Laura + Edward to see __Winchester__ __Cathedral__. It was lovely to see all the",
           "geocode_hint": { "countrycodes": "gb" }
         }
       ]
@@ -232,7 +160,7 @@
           "original_wording": "Romsey Rapids",
           "confidence": 0.9,
           "source_page_id": "A_0088_L",
-          "excerpt": "Then we set off for Romsey Rapids. The Rapids £11-20 for 1 adult, 5 children, were great fun.",
+          "excerpt": "Then we set off for __Romsey Rapids__.\n\tThe Rapids £11-20 for 1 adult,\n5 children, were great fun.",
           "geocode_hint": { "countrycodes": "gb" }
         }
       ]
@@ -249,16 +177,40 @@
       "original_wording": "[?Bley Lodge]",
       "issue": "Uncertain place name associated with David + Maxine's House, Newbury; could be a house/estate name",
       "source_page_id": "A_0087_L",
-      "excerpt": "David + Maxine's House, Newbury. [?Bley Lodge]"
+      "excerpt": "David + Maxine's House, Newbury.\n[?Bley Lodge]"
     },
     {
-      "original_wording": "Italy/Switzerland destinations",
-      "issue": "The diary pages for this spread (A_0086-A_0090) cover only the outward UK leg and the return; the Italy and Switzerland portions of the trip (St Gotthard, Lugano, Cremona, Parma) are named in the title_guess only and are not documented in the surviving transcribed pages",
+      "original_wording": "Portsmouth ferry crossing to France / Cherbourg",
+      "issue": "The previous extraction inferred a Portsmouth->Cherbourg ferry crossing and a French arrival port, but no ferry, crossing or French port is mentioned anywhere in the surviving diary pages. The Portsmouth entry describes only a sightseeing visit to the Historic Dockyard ('ate in the carpark'), and the narrative continues seamlessly to a Surrey campsite and a drive home with no Channel crossing. The crossing and Cherbourg anchor cannot be cited and have been moved here for review.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "St Gotthard",
+      "issue": "Named only in the trip title_guess, not in any transcribed diary page in this spread (A_0086-A_0090). The surviving pages document a UK-only outward and return loop (16-20 April); the Swiss/Italian transit through the St Gotthard Pass is undocumented here. Moved to unresolved as it cannot be cited.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Lugano",
+      "issue": "Named only in the trip title_guess, not in any transcribed diary page in this spread. The Swiss overnight base at Lugano is undocumented in the surviving pages and cannot be cited.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Cremona",
+      "issue": "Named only in the trip title_guess, not in any transcribed diary page in this spread. The Italian overnight base at Cremona is undocumented in the surviving pages and cannot be cited.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Parma",
+      "issue": "Named only in the trip title_guess, not in any transcribed diary page in this spread. The Italian overnight base at Parma is undocumented in the surviving pages and cannot be cited.",
       "source_page_id": null,
       "excerpt": null
     }
   ],
   "boundary_flags": [],
-  "summary": "Easter 1993 camping trip to Italy and Switzerland, travelling south from Birmingham via Ogbourne St George, Newbury and Chandlers Ford before taking the Portsmouth ferry to France and crossing the Alps via the St Gotthard Pass to Lugano, Cremona and Parma. The diary pages cover only the outward UK leg (including visits to Winchester Cathedral and Portsmouth Historic Dockyard) and the return journey through Surrey and London; the Swiss and Italian portions are recorded in the trip title but fall in a gap in the surviving transcribed pages.",
-  "extraction_notes": "The spread A_0086-A_0090 documents only the UK portions of this trip: the outward journey (16-19 April) and the return (20 April). The Italy/Switzerland stops (St Gotthard, Lugano, Cremona, Parma) appear only in the title_guess and have been included at low confidence (0.55) with null source_page_id to flag the gap. The Portsmouth ferry departure port is explicitly named; the French arrival port is inferred as Cherbourg (most direct Portsmouth crossing for a Switzerland/Italy routing). Hungerford is a transit stop on the way to Newbury. The Horsley/Leatherhead campsite on April 20 is the return overnight stop. Di and Ian's location on April 17 is unresolved. The date_end of 1993-04-20 reflects the last diary entry; the actual end date of the full Italy/Switzerland portion is unknown from these pages."
+  "summary": "The trip title records an Easter 1993 camping journey to Italy and Switzerland (via the St Gotthard Pass, Lugano, Cremona and Parma), but the surviving transcribed pages for this spread (A_0086-A_0090) document only a UK loop from 16-20 April: south from Birmingham via a campsite at Ogbourne St George, then antique-shopping in Hungerford and stays at family/friends in Newbury and Chandlers Ford, with day visits to Winchester Cathedral, Romsey Rapids and Portsmouth Historic Dockyard (HMS Victory and the Mary Rose). The return leg runs through a Surrey campsite near Leatherhead/Horsley and a stop in London (Finsbury Circus) before a tiring drive home.",
+  "extraction_notes": "Corrected for citation compliance: every non-home main_route stop and every excursion stop now carries a real source_page_id and a verbatim supporting excerpt. The previously inferred Portsmouth->Cherbourg ferry crossing (and the Cherbourg crossing_terminal) had no support in the pages -- Portsmouth is described purely as a Historic Dockyard sightseeing visit and the narrative runs straight on to a Surrey campsite and home with no Channel crossing -- so the crossing was removed (crossings is now empty) and both it and the Cherbourg anchor were moved to unresolved. Portsmouth's role was changed from crossing_terminal to main_stop accordingly. The four continental anchors (St Gotthard, Lugano, Cremona, Parma) appear only in the title_guess and in no diary page, so they were moved to unresolved rather than kept uncited. The countries array retains FR/CH/IT to reflect the trip's stated destination even though only GB is documented in this spread. date_end (1993-04-20) reflects the last dated diary entry in this spread; the true end of the full Italy/Switzerland portion is unknown from these pages, which appear to cover only the opening UK leg of the trip."
 }

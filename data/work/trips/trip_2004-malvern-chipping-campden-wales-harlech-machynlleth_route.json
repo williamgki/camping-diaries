@@ -29,7 +29,7 @@
       "confidence": 0.9,
       "approximate": false,
       "source_page_id": "B_0018_L",
-      "excerpt": "We delivered lights to Strat ford & reached Chipping Campden at 3.30.",
+      "excerpt": "We delivered lights to Strat ford & reached __Chipping Campden__ at 3.30.",
       "geocode_hint": { "countrycodes": "gb" }
     },
     {
@@ -40,7 +40,7 @@
       "confidence": 0.9,
       "approximate": false,
       "source_page_id": "B_0018_L",
-      "excerpt": "We delivered lights to Strat ford & reached Chipping Campden at 3.30., where Simon is chatting to William Welsch.",
+      "excerpt": "reached __Chipping Campden__ at 3.30., where Simon is chatting to William Welsch.",
       "geocode_hint": { "countrycodes": "gb" }
     },
     {
@@ -51,7 +51,7 @@
       "confidence": 0.95,
       "approximate": false,
       "source_page_id": "B_0018_L",
-      "excerpt": "We just reached Malvern at 6.35, in time for the 7 Summer Concert. Charles stood for applause, with 3 other brass players at the end of the William Tell Overture. John was in every piece.",
+      "excerpt": "We just reached __Malvern__ at 6.35, in time for the 7 Summer Concert.",
       "geocode_hint": { "countrycodes": "gb" }
     },
     {
@@ -62,7 +62,7 @@
       "confidence": 0.85,
       "approximate": false,
       "source_page_id": "B_0018_R",
-      "excerpt": "They had telephoned us at Welshpool to ask about shopping.",
+      "excerpt": "They had telephoned us at __Welshpool__ to ask about shopping.",
       "geocode_hint": { "countrycodes": "gb" }
     },
     {
@@ -73,24 +73,11 @@
       "confidence": 0.9,
       "approximate": true,
       "source_page_id": "B_0018_R",
-      "excerpt": "We had lunch at SH, then set off at 2 in the van, arriving at Ninas at 6.",
+      "excerpt": "We had lunch at SH, then set off at 2 in the van, arriving at __Ninas__ at 6.",
       "geocode_hint": { "countrycodes": "gb", "region": "Wales, near Llanbedr / Harlech" }
     },
     {
       "seq": 7,
-      "normalized_name": "Machynlleth, Wales, UK",
-      "original_wording": "Machynlleth",
-      "role": "inferred_anchor",
-      "confidence": 0.5,
-      "approximate": true,
-      "inferred": true,
-      "inference_reason": "Named in trip title_guess and trip_id slug; diary pages beyond the bundle boundary (mixed_end=true) likely contain this entry; consistent with return route south from Harlech area.",
-      "source_page_id": null,
-      "excerpt": null,
-      "geocode_hint": { "countrycodes": "gb" }
-    },
-    {
-      "seq": 8,
       "normalized_name": "Birmingham, UK",
       "original_wording": null,
       "role": "home",
@@ -116,7 +103,7 @@
           "confidence": 0.95,
           "approximate": false,
           "source_page_id": "B_0019_L",
-          "excerpt": "After lunch we set off for Harlech... We parked in the Castle carpark at Harlech & wandered around the town buying coffee, bread, milk & icecreams.",
+          "excerpt": "We parked in the Castle carpark at Harlech & wandered around the town buying coffee, bread, milk & icecreams.",
           "geocode_hint": { "countrycodes": "gb" }
         },
         {
@@ -133,6 +120,12 @@
   ],
   "unresolved": [
     {
+      "original_wording": "Machynlleth",
+      "issue": "Named only in the trip_id slug and title_guess; does not appear anywhere in the transcribed diary pages (B_0018_L through B_0019_R). The previous extraction kept it in the main route as an inferred_anchor with source_page_id=null and excerpt=null (an undocumented transit on the presumed return south from Harlech beyond the bundle boundary, mixed_end=true). With no supporting text in the bundle, it cannot be cited and is moved here for review.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
       "original_wording": "SH",
       "issue": "Abbreviation used for a lunch venue on Sunday 30 May, immediately before departure from Malvern for Wales. Most likely 'School House' at Malvern College (where Charles and John were pupils), but cannot be confirmed from the diary text alone. May also be a local pub or hall.",
       "source_page_id": "B_0018_R",
@@ -140,8 +133,8 @@
     }
   ],
   "boundary_flags": [
-    "mixed_end: B_0019_R (page 17) contains a printed decorative map of North Wales glued into the diary; the narrative continues beyond this bundle boundary (mixed_end=true on the source JSON). Machynlleth is in the trip_id slug but does not appear in the transcribed pages."
+    "mixed_end: B_0019_R (page 17) contains a printed decorative map of North Wales glued into the diary; the narrative continues beyond this bundle boundary (mixed_end=true on the source JSON). Machynlleth is in the trip_id slug but does not appear in the transcribed pages and has been moved to unresolved."
   ],
-  "summary": "A late-May 2004 Whitsun trip from Birmingham via Stratford-upon-Avon and Chipping Campden to Malvern for the school Summer Concert (Charles and John both performed), then on to a campsite called Nina's in the Harlech area of north Wales for at least two nights. On Monday 31 May the family made a day trip to Harlech Castle and the village of Llanbedr before returning to camp. The trip continued beyond the transcribed pages, likely via Machynlleth on the return.",
-  "extraction_notes": "Friday 28 May 2004 falls on a Friday, confirming the year. The family dog is called 'Tonic' in the diary — this is a phonetic nickname for Tinder (the family dog). 'Ninas' is a campsite or farm run by someone named Nina, located near Llanbedr and Harlech in Gwynedd; the 1998 trip diary has a probable reference to the same site as '[?Ainas]'. 'SH' is unresolved — likely 'School House' at Malvern College. 'No 7' (where they slept outside) is also likely a College house/building at Malvern, consistent with the 2000 Malvern trip ('We slept outside No 7'). William, Bryony, and Thomas arrived separately in 'William & Bryony's new orange VW camping van' and departed Monday morning. B_0019_R is a printed illustrated map of North Wales glued into the diary, not a hand-drawn route sketch, and is treated as decorative context rather than a route source. The trip end date and Machynlleth stop are uncertain due to mixed_end boundary."
+  "summary": "A late-May 2004 Whitsun trip from Birmingham via Stratford-upon-Avon and Chipping Campden to Malvern for the school Summer Concert (Charles and John both performed), then on to a campsite called Nina's in the Harlech area of north Wales for at least two nights. On Monday 31 May the family made a day trip to Harlech Castle and the village of Llanbedr before returning to camp. The trip continued beyond the transcribed pages.",
+  "extraction_notes": "Friday 28 May 2004 falls on a Friday, confirming the year. The family dog is called 'Tonic' in the diary — this is a phonetic nickname for Tinder (the family dog). 'Ninas' is a campsite or farm run by someone named Nina, located near Llanbedr and Harlech in Gwynedd; the 1998 trip diary has a probable reference to the same site as '[?Ainas]'. 'SH' is unresolved — likely 'School House' at Malvern College. 'No 7' (where they slept outside) is also likely a College house/building at Malvern, consistent with the 2000 Malvern trip ('We slept outside No 7'). William, Bryony, and Thomas arrived separately in 'William & Bryony's new orange VW camping van' and departed Monday morning. B_0019_R is a printed illustrated map of North Wales glued into the diary, not a hand-drawn route sketch, and is treated as decorative context rather than a route source. Machynlleth appears only in the trip slug/title and not in any transcribed page, so the previous inferred_anchor (uncited) has been moved to unresolved rather than kept in the main route. The final home stop (seq 7) retains role=home and is exempt from the citation rule. All remaining non-home main_route stops and all excursion stops now carry both a real source_page_id and a verbatim excerpt from that page."
 }

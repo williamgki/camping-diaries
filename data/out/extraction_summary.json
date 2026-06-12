@@ -1,0 +1,49 @@
+{
+ "generated_at": "2026-06-12T18:51:49.576Z",
+ "sources": [
+  {
+   "volume": "A",
+   "sha256": "5bdf5253ff8a92fd3abe453c1ff55bc424eb919582fc2fee60b8effb57801086",
+   "pages": 350
+  },
+  {
+   "volume": "B",
+   "sha256": "462033b0fb71c7db226092ce0b7ca418a689529a2fcc2c5af7734bcf5f57d7fe",
+   "pages": 373
+  }
+ ],
+ "counts": {
+  "spreads": 723,
+  "pages": 1446,
+  "transcribed_spreads": 723,
+  "trips": 260,
+  "resolved_trips": 189,
+  "review_trips": 71,
+  "main_route_stops": 1248,
+  "cited_stop_pct": 100,
+  "excursions": 396,
+  "places": 1613,
+  "geometries": 1907,
+  "review_queue": 1167,
+  "patches_applied": 0
+ },
+ "validation": {
+  "passed": true,
+  "errors": [],
+  "error_count": 0,
+  "warnings": [
+   "inferred crossing on resolved trip 1991-france-1991-montreuil-rouen-chartres-retrospective: dover-calais",
+   "inferred crossing on resolved trip 2001-normandy-pegasus-bridge-caen-out-of: portsmouth-caen",
+   "inferred crossing on resolved trip 2002-france-2002-vendeuil-chaumard-morvan-cluny: dover-calais",
+   "inferred crossing on resolved trip 2002-france-burgundy-lyon-le-puy-ardeche: dover-calais",
+   "inferred crossing on resolved trip 2003-germany-2003-bad-honnef-rhine-alsfeld: folkestone-coquelles",
+   "inferred crossing on resolved trip 2006-france-montreuil-bauge-opera-auvergne-millau: folkestone-coquelles",
+   "inferred crossing on resolved trip 2006-france-montreuil-bauge-opera-auvergne-millau: folkestone-coquelles",
+   "inferred crossing on resolved trip 2008-spain-france-2008-bilbao-ferry-burgos: portsmouth-bilbao",
+   "inferred crossing on resolved trip 2012-italy-via-belgium-germany-ulm-bolzano: dover-calais",
+   "inferred crossing on resolved trip 2015-france-laon-vezelay-burgundy-puy-en: folkestone-coquelles",
+   "inferred crossing on resolved trip 2022-france-switzerland-vitry-le-francois-gray: dover-calais"
+  ],
+  "warning_count": 11
+ }
+}

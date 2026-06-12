@@ -34,58 +34,6 @@
     },
     {
       "seq": 3,
-      "normalized_name": "Dover",
-      "original_wording": null,
-      "role": "crossing_terminal",
-      "confidence": 0.5,
-      "approximate": false,
-      "inferred": true,
-      "inference_reason": "default England-France crossing; no port named; diary ends mid-sentence heading to continent",
-      "source_page_id": "B_0365_L",
-      "excerpt": "We trained back to Hounslow West + [?] set off thru",
-      "geocode_hint": { "countrycodes": "gb" }
-    },
-    {
-      "seq": 4,
-      "normalized_name": "Calais",
-      "original_wording": null,
-      "role": "crossing_terminal",
-      "confidence": 0.5,
-      "approximate": false,
-      "inferred": true,
-      "inference_reason": "default England-France crossing; no port named",
-      "source_page_id": "B_0365_L",
-      "excerpt": "We trained back to Hounslow West + [?] set off thru",
-      "geocode_hint": { "countrycodes": "fr" }
-    },
-    {
-      "seq": 5,
-      "normalized_name": "France (route unrecorded)",
-      "original_wording": "France",
-      "role": "inferred_anchor",
-      "confidence": 0.5,
-      "approximate": true,
-      "inferred": true,
-      "inference_reason": "Title-guess names France as a destination country; no diary pages covering continental leg are transcribed",
-      "source_page_id": null,
-      "excerpt": null,
-      "geocode_hint": { "countrycodes": "fr" }
-    },
-    {
-      "seq": 6,
-      "normalized_name": "Switzerland (route unrecorded)",
-      "original_wording": "Switzerland",
-      "role": "inferred_anchor",
-      "confidence": 0.5,
-      "approximate": true,
-      "inferred": true,
-      "inference_reason": "Title-guess names Switzerland as a destination country; no diary pages covering continental leg are transcribed",
-      "source_page_id": null,
-      "excerpt": null,
-      "geocode_hint": { "countrycodes": "ch" }
-    },
-    {
-      "seq": 7,
       "normalized_name": "Birmingham, UK",
       "original_wording": null,
       "role": "home",
@@ -98,18 +46,7 @@
       "geocode_hint": { "countrycodes": "gb" }
     }
   ],
-  "crossings": [
-    {
-      "after_seq": 3,
-      "route_key": "dover-calais",
-      "kind": "ferry",
-      "named_in_diary": false,
-      "inferred": true,
-      "inference_reason": "default England-France crossing; no port named; diary text cuts off heading to continent",
-      "source_page_id": "B_0365_L",
-      "excerpt": "We trained back to Hounslow West + [?] set off thru"
-    }
-  ],
+  "crossings": [],
   "excursions": [
     {
       "base_seq": 2,
@@ -161,14 +98,26 @@
   ],
   "unresolved": [
     {
-      "original_wording": "France (continental leg)",
-      "issue": "Title-guess names France as a destination but no diary pages covering the French leg are transcribed in this bundle (mixed_end: true on B_0365_R; diary cuts off mid-sentence). Continental stops, overnight bases, and specific route through France are entirely unknown from available evidence.",
+      "original_wording": "Dover (inferred Channel crossing terminal)",
+      "issue": "Previous extraction placed Dover as an inferred crossing_terminal, but the only transcribed page (B_0365_L) contains no mention of a Channel crossing, port, ferry or any continental travel. The cited excerpt describes the family setting off from Hounslow West, not crossing to France. With no supporting text the crossing and its terminals cannot be cited; moved here for review rather than kept uncited or backed by an excerpt that does not support it.",
       "source_page_id": "B_0365_L",
       "excerpt": "We trained back to Hounslow West + [?] set off thru"
     },
     {
-      "original_wording": "Switzerland (continental leg)",
-      "issue": "Title-guess names Switzerland as a destination but no diary pages covering the Swiss leg are transcribed. No campsite, town or route detail is available.",
+      "original_wording": "Calais (inferred Channel crossing terminal)",
+      "issue": "Previous extraction placed Calais as the inferred French arrival port for a default Dover-Calais crossing. No diary text in this bundle supports any Channel crossing or arrival in France; the transcribed page never names Calais, France or any continental location. Moved here for review.",
+      "source_page_id": "B_0365_L",
+      "excerpt": "We trained back to Hounslow West + [?] set off thru"
+    },
+    {
+      "original_wording": "France (continental leg, route unrecorded)",
+      "issue": "Previous extraction kept France as a low-confidence inferred_anchor 'route unrecorded' with null source_page_id and null excerpt. The words 'France'/'Continent' appear only in the trip_id slug and title_guess, never in the transcribed diary text (B_0365_L). Per the citation rule an undocumented transit anchor cannot remain in main_route uncited, so it is moved to unresolved. Continental stops, overnight bases and the route through France are entirely unknown from available evidence.",
+      "source_page_id": null,
+      "excerpt": null
+    },
+    {
+      "original_wording": "Switzerland (continental leg, route unrecorded)",
+      "issue": "Previous extraction kept Switzerland as a low-confidence inferred_anchor 'route unrecorded' with null source_page_id and null excerpt. 'Switzerland' appears only in the trip_id slug and title_guess, never in the transcribed diary text. No campsite, town or route detail is available, so the anchor is moved to unresolved rather than kept uncited in main_route.",
       "source_page_id": null,
       "excerpt": null
     },
@@ -194,6 +143,6 @@
   "boundary_flags": [
     "mixed_end: B_0365_R is shared with next trip boundary; continental diary pages not captured in this bundle"
   ],
-  "summary": "Simon and Eve left Birmingham on 15 June 2022, kennelling the dog (Tinder) and stopping overnight at Little Bramshott Farm campsite near Fleet, Hampshire. The following day they made a day trip into London (Harrods, Berkeley Hotel, Harvey Nichols) before heading to the Continent via an unrecorded Channel crossing; the French, Swiss and possibly Italian legs of the trip are not covered by the transcribed pages in this bundle.",
-  "extraction_notes": "Only one spread (B_0365, left page only has text) was available. The diary text cuts off mid-sentence ('set off thru') at the point of departure for the Continent. The title_guess references France, Switzerland and Italy (Pavia, Pian del Voglio) but none of those legs appear in the transcribed evidence. The continental route has been represented with low-confidence inferred_anchor stubs for France and Switzerland only; Italy has been flagged as unresolved because it does not appear in the trip_id slug and may belong to an adjacent trip. The crossing is inferred as dover-calais (default England-France) since no port is named; Portsmouth would also have been geographically plausible from Fleet. The date year is confirmed as 2022 (June 15 fell on a Wednesday in 2022, matching the diary). Travellers listed as Simon and Eve only based on diary voice ('we'), but other family members may have joined on the continental leg."
+  "summary": "Simon and Eve left Birmingham on 15 June 2022, kennelling the dog (Tinder) and stopping overnight at Little Bramshott Farm campsite near Fleet, Hampshire. The following day they made a day trip into London (Harrods, Berkeley Hotel, Harvey Nichols). The diary text then cuts off mid-sentence as they set off from Hounslow West; the France, Switzerland and possible Italy legs named in the trip title are not covered by any transcribed page in this bundle.",
+  "extraction_notes": "Citation-correction pass: every retained non-home main_route stop and every excursion stop now carries a real page_id (B_0365_L) and a verbatim supporting excerpt. The only transcribed text is B_0365_L (B_0365_R has no body text, only a 'Harvey Nichols' caption). The words France, Switzerland, Continent and Italy occur ONLY in the trip_id slug and title_guess, never in the diary text, so the previous inferred crossing terminals (Dover, Calais), the dover-calais crossing, and the 'route unrecorded' France and Switzerland anchors had no supporting excerpt and have been moved to unresolved rather than kept uncited or backed by an excerpt that does not support them. main_route is now home -> Little Bramshott Farm campsite (Fleet) -> home. The date year 2022 is confirmed (15 June 2022 was a Wednesday, matching the diary). Travellers listed as Simon and Eve from the diary voice ('we')."
 }

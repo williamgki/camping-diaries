@@ -23,6 +23,7 @@ const slug = (s) =>
   s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
 const placeKey = (name, cc) => `${slug(name)}|${(cc ?? '').toLowerCase()}`
 function lookup(stop) {
+  if (!stop?.normalized_name) return null
   const k = placeKey(stop.normalized_name, stop.geocode_hint?.countrycodes)
   const p = places[k] ?? places[`${slug(stop.normalized_name)}|`] ?? null
   return p && p.lon != null ? p : null
@@ -118,8 +119,12 @@ for (const f of tripFiles) {
         warnings.push({ trip: trip.trip_id, type: 'unknown_crossing_key', key: c.route_key ?? null })
         continue
       }
-      const pa = ferries.ports[named.from]
-      const pb = ferries.ports[named.to]
+      let pa = ferries.ports[named.from]
+      let pb = ferries.ports[named.to]
+      // Orient the crossing to the direction of travel: the named route is
+      // stored one way (e.g. north_shields->stavanger) but the diary may be
+      // on the return sailing.
+      if (cursor && haversineKm(cursor, pb) < haversineKm(cursor, pa)) [pa, pb] = [pb, pa]
       if (cursor && haversineKm(cursor, pa) > 0.5) {
         const r = await osrmRoute(cursor, pa)
         if (r.coordinates) {

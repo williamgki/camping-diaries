@@ -45,6 +45,7 @@ for (const f of readdirSync(join(ROOT, 'data/work/transcripts')).filter((f) => f
 
 const placeKey = (name, cc) => `${slug(name)}|${(cc ?? '').toLowerCase()}`
 function resolvePlace(stop) {
+  if (!stop?.normalized_name) return null
   return geocoded[placeKey(stop.normalized_name, stop.geocode_hint?.countrycodes)] ?? geocoded[`${slug(stop.normalized_name)}|`] ?? null
 }
 
@@ -133,7 +134,12 @@ for (const trip of trips) {
   }
   const confidences = stops.map((s) => s.confidence).filter((c) => c != null)
   const lowConf = confidences.filter((c) => c < 0.7).length
-  const status = unresolvedCount + (trip.unresolved?.length ?? 0) + (trip.boundary_flags?.length ?? 0) > 0 ? 'review' : 'resolved'
+  const avgConf = confidences.length ? confidences.reduce((a, c) => a + c, 0) / confidences.length : 1
+  // 'review' means the DRAWN ROUTE is materially uncertain: unresolved
+  // main-route stops or weak overall confidence. Mixed-page boundary flags are
+  // surfaced as page-level warnings (review queue) without demoting the trip,
+  // and unresolved excursion side-places (friends' farms etc.) stay queued.
+  const status = unresolvedCount > 0 || avgConf < 0.6 ? 'review' : 'resolved'
   const sRange = trip.spread_range ?? []
   tripsOut.push({
     id: trip.trip_id,
@@ -179,8 +185,16 @@ for (const w of routesBuilt.warnings) {
   reviewQueue.push({ id: `route-${reviewQueue.length}`, type: w.type === 'detour_ratio' ? 'routing_detour' : 'routing_issue', trip_id: w.trip ?? null, page_id: null, detail: JSON.stringify(w), candidates: [], status: 'open' })
 }
 for (const b of segments.trips ?? []) {
-  if (b.mixed_start || b.mixed_end || (b.confidence ?? 1) < 0.6)
-    reviewQueue.push({ id: `seg-${b.tmp_id}`, type: 'boundary_conflict', trip_id: b.assigned_trip_id ?? null, page_id: b.start_page_id, detail: `${b.title_guess}: mixed_start=${!!b.mixed_start} mixed_end=${!!b.mixed_end} confidence=${b.confidence}`, candidates: [], status: 'open' })
+  if (b.mixed_start || b.mixed_end || (b.confidence ?? 1) < 0.6 || (b.flags ?? []).length)
+    reviewQueue.push({
+      id: `seg-${b.trip_id}`,
+      type: 'boundary_conflict',
+      trip_id: b.trip_id,
+      page_id: b.start_page_id,
+      detail: `${b.title_guess}: mixed_start=${!!b.mixed_start} mixed_end=${!!b.mixed_end} confidence=${b.confidence}${(b.flags ?? []).length ? ' flags=' + b.flags.join(',') : ''}`,
+      candidates: [],
+      status: 'open',
+    })
 }
 for (const vol of ['A', 'B']) {
   for (const a of pageMap[vol]?.anomalies ?? [])
@@ -250,7 +264,27 @@ for (const r of routesOut) {
   writeFileSync(join(PUB, 'geometry', `${r.trip_id}.json`), JSON.stringify({ type: 'FeatureCollection', features }))
 }
 
-// ---------- all-trips underlay (simplified: every main leg, decimated)
+// ---------- all-trips underlay: every main leg, Douglas-Peucker simplified.
+// The underlay is a faint gesture layer — heavy simplification is fine.
+function rdp(coords, tol) {
+  if (coords.length < 3) return coords
+  const [x1, y1] = coords[0]
+  const [x2, y2] = coords[coords.length - 1]
+  let maxD = 0
+  let idx = 0
+  const dx = x2 - x1
+  const dy = y2 - y1
+  const denom = Math.hypot(dx, dy) || 1e-12
+  for (let i = 1; i < coords.length - 1; i++) {
+    const d = Math.abs(dy * coords[i][0] - dx * coords[i][1] + x2 * y1 - y2 * x1) / denom
+    if (d > maxD) {
+      maxD = d
+      idx = i
+    }
+  }
+  if (maxD <= tol) return [coords[0], coords[coords.length - 1]]
+  return [...rdp(coords.slice(0, idx + 1), tol).slice(0, -1), ...rdp(coords.slice(idx), tol)]
+}
 const underlay = {
   type: 'FeatureCollection',
   features: routesOut.flatMap((r) =>
@@ -258,8 +292,8 @@ const underlay = {
       .map((leg) => {
         const g = geometryStore[leg.geometry_ref]
         if (!g) return null
-        const coords = g.coordinates.filter((_, i) => i % 4 === 0 || i === g.coordinates.length - 1)
-        return { type: 'Feature', properties: { trip_id: r.trip_id, mode: leg.mode }, geometry: { type: 'LineString', coordinates: coords } }
+        const coords = rdp(g.coordinates, 0.004).map(([lon, lat]) => [+lon.toFixed(4), +lat.toFixed(4)])
+        return { type: 'Feature', properties: { trip_id: r.trip_id }, geometry: { type: 'LineString', coordinates: coords } }
       })
       .filter(Boolean),
   ),
