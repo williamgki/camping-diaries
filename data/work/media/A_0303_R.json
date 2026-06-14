@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0303_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.08, 0.37, 0.82, 0.26],
+      "caption": "Mulberry harbour diagram with lorries",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.20, 0.73, 0.60, 0.22],
+      "caption": "Bayeux Tapestry Harold oath scene",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0259_L",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.10, 0.01, 0.33, 0.16],
+      "caption": "Aiguille rock seen from the banks of the Borne",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.35, 0.01, 0.60, 0.20],
+      "caption": "Allotments with rocky butte behind",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "page_id": "A_0346_L",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.01, 0.01, 0.38, 0.17],
+      "caption": "Luther's parents",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.01, 0.19, 0.38, 0.14],
+      "caption": "Luther's house 1501-05",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.01, 0.34, 0.30, 0.17],
+      "caption": "Martin Luther portrait",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.01, 0.57, 0.30, 0.16],
+      "caption": "Crucifixion scene",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.28, 0.57, 0.25, 0.16],
+      "caption": "preaching",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

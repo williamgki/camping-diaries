@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0054_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.14, 0.05, 0.18, 0.22],
+      "caption": "hand-drawn dovecote building",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.53, 0.04, 0.20, 0.22],
+      "caption": "central pole with rotating arms",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

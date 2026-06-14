@@ -1,0 +1,19 @@
+{
+  "trip_id": "2004-borough-london-william-bryony-southwark-cathedral",
+  "epigraph": {
+    "quote": "We had breakfast in the conservatory, a very pleasant slow, cooked breakfast, with lots of coffee.",
+    "source_page_id": "B_0017_R"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "B_0017_R",
+      "quote": "We camped in the courtyard."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "B_0017_R",
+      "quote": "Canon Jeffrey John celebrated Communion for the last time before moving to be Dean of St. Albans."
+    }
+  ]
+}

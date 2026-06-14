@@ -1,0 +1,37 @@
+{
+  "page_id": "A_0213_R",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.04, 0.02, 0.28, 0.20],
+      "caption": "dried pressed leaf",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.38, 0.18, 0.60, 0.68],
+      "caption": "Aven Armand cave stalactites",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.02, 0.42, 0.35, 0.14],
+      "caption": "hand-drawn route sketch",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.02, 0.60, 0.30, 0.14],
+      "caption": "hand-drawn tent/landmark sketch",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

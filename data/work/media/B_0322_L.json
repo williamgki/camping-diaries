@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0322_L",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.01, 0.01, 0.27, 0.44],
+      "caption": "Porte St-Hilaire",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.01, 0.46, 0.27, 0.40],
+      "caption": "Grande rue",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

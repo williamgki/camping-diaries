@@ -1,0 +1,24 @@
+{
+  "trip_id": "2019-northampton-78-derngate-mackintosh-house-via",
+  "epigraph": {
+    "quote": "had tea on the roadside next to a field of sheep near Bicester",
+    "source_page_id": "B_0318_R"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "B_0318_L",
+      "quote": "BL was colourblind & only saw yellow & black."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "B_0318_R",
+      "quote": "we stopped with Judith Kirby for lunch at Bierton"
+    },
+    {
+      "seq": 4,
+      "source_page_id": "B_0318_R",
+      "quote": "had tea on the roadside next to a field of sheep near Bicester"
+    }
+  ]
+}

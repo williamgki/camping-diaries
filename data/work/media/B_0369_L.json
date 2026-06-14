@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0369_L",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.01, 0.00, 0.71, 0.22],
+      "caption": "The floor mosaic – Death of the Righteous Man",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.01, 0.24, 0.72, 0.32],
+      "caption": "St Michael Major church Romanesque mosaic floor",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "page_id": "A_0109_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.10, 0.08, 0.40, 0.20],
+      "caption": "Building facade with window and shuttered section",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.53, 0.08, 0.40, 0.20],
+      "caption": "Building facade with window and shuttered section",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.10, 0.25, 0.35, 0.28],
+      "caption": "Village house shuttered door",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.53, 0.25, 0.38, 0.28],
+      "caption": "Village house shuttered door",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.10, 0.55, 0.35, 0.25],
+      "caption": "Door with decorative pediment",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.55, 0.53, 0.38, 0.37],
+      "caption": "Arched window with figure and doorway",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.10, 0.78, 0.32, 0.17],
+      "caption": "Village house shuttered door",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.75, 0.88, 0.18, 0.10],
+      "caption": "Small decorative floral doodle",
+      "keep": false,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

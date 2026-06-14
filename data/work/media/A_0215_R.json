@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0215_R",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.35, 0.02, 0.61, 0.62],
+      "caption": "LES GORGES DU TARN",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 90
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.06, 0.37, 0.20, 0.30],
+      "caption": "arch or bridge structure sketch",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

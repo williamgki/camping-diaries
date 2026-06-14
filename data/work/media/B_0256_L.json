@@ -1,0 +1,29 @@
+{
+  "page_id": "B_0256_L",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.10, 0.15, 0.80, 0.33],
+      "caption": "Paray-le-Monial — Christ in Glory",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.10, 0.50, 0.38, 0.30],
+      "caption": "Paray-le-Monial — North Portal",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.50, 0.50, 0.40, 0.30],
+      "caption": "Paray-le-Monial — Porche",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

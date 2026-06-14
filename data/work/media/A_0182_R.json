@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0182_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.04, 0.02, 0.78, 0.25],
+      "caption": "Rock of Cashel",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.05, 0.28, 0.60, 0.27],
+      "caption": "Town below",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

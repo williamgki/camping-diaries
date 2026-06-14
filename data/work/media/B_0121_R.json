@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0121_R",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.04, 0.52, 0.54, 0.09],
+      "caption": "Senequier St Tropez chocolate wrapper",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.42, 0.68, 0.57, 0.31],
+      "caption": "L'ANNONCIADE musée de Saint-Tropez entry ticket, Picasso Tarif Réduit No 04856",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

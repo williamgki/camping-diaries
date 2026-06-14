@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0328_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.18, 0.57, 0.28, 0.20],
+      "caption": "Triumphal Arch, Orange",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.52, 0.57, 0.32, 0.20],
+      "caption": "Roman Theatre, About O",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

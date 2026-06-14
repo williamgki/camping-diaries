@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0024_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.52, 0.02, 0.44, 0.32],
+      "caption": "Gorge of Lumbier",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.38, 0.42, 0.57, 0.38],
+      "caption": "LeYRE",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

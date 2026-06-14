@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0136_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.15, 0.03, 0.40, 0.27],
+      "caption": "window in Mansard slope, Rue des Sources",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "map",
+      "bbox": [0.14, 0.40, 0.82, 0.58],
+      "caption": "1994 route map of France",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

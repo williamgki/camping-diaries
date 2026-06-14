@@ -1,0 +1,29 @@
+{
+  "page_id": "A_0118_L",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.04, 0.02, 0.40, 0.10],
+      "caption": "Conwy Valley Railway Museum child visitor's ticket",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.46, 0.02, 0.39, 0.10],
+      "caption": "Conwy Valley Railway Museum miniature railway ticket",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.04, 0.17, 0.79, 0.75],
+      "caption": "THE CONWY VALLEY RAILWAY, BETWS-Y-COED",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 90
+    }
+  ]
+}

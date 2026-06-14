@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0108_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.25, 0.04, 0.50, 0.47],
+      "caption": "Window at side of church.",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.25, 0.63, 0.37, 0.16],
+      "caption": "stone hinge barn door",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

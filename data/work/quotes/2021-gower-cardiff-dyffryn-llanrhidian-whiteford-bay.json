@@ -1,0 +1,19 @@
+{
+  "trip_id": "2021-gower-cardiff-dyffryn-llanrhidian-whiteford-bay",
+  "epigraph": {
+    "quote": "We bought ice creams, my first since Thorpeness last summer.",
+    "source_page_id": "B_0344_L"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "B_0343_R",
+      "quote": "They took us to Dyffryn Gardens where Simon & Eben played in the log garden."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "B_0343_R",
+      "quote": "We walked 4 miles & back along the coastal path, first where the sheep graze on the salt marshes to Llanrhidian."
+    }
+  ]
+}

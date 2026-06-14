@@ -1,0 +1,29 @@
+{
+  "page_id": "B_0165_L",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.02, 0.01, 0.40, 0.27],
+      "caption": "boy standing in water sculpture",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.44, 0.01, 0.47, 0.25],
+      "caption": "girl paddling in ornamental ponds",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.02, 0.27, 0.47, 0.38],
+      "caption": "treehouse walkway develops into swinging bridges",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

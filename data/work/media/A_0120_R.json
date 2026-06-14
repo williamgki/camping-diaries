@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0120_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.05, 0.02, 0.90, 0.11],
+      "caption": "View from the van, Malvern Hills",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.72, 0.54, 0.15, 0.12],
+      "caption": "Delabole wind farm windmill",
+      "keep": false,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

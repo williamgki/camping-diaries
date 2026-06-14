@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0083_L",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.05, 0.02, 0.57, 0.58],
+      "caption": "Hospices de Beaune",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 90
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.12, 0.65, 0.45, 0.30],
+      "caption": "Last Judgment altarpiece panels",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

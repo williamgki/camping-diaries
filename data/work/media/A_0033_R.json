@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0033_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.14, 0.04, 0.74, 0.23],
+      "caption": "Gatscombe Park - view from the camping van in Avening Park",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.14, 0.44, 0.26, 0.20],
+      "caption": "Window of Avening Park house",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

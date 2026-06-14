@@ -1,0 +1,12 @@
+{
+  "trip_id": "2020-new-van-shakedown-wrest-park-aylesbury",
+  "epigraph": { "quote": "It was bloody cold but lovely to see the family.", "source_page_id": "B_0340_R" },
+  "per_stop": [
+    { "seq": 2, "source_page_id": "B_0340_R", "quote": "It was bloody cold but lovely to see the family." },
+    { "seq": 3, "source_page_id": "B_0340_R", "quote": "the owner strolled down to meet us in the dark. He was a campervan enthusiast." },
+    { "seq": 4, "source_page_id": "B_0341_L", "quote": "we chatted for about half an hour on her font porch." },
+    { "seq": 5, "source_page_id": "B_0341_L", "quote": "It was lovely to have a meal with friends." },
+    { "seq": 8, "source_page_id": "B_0341_R", "quote": "we thought it would be nice to have a pub lunch and we found a good one at Finstock (the Plough)." },
+    { "seq": 9, "source_page_id": "B_0341_R", "quote": "owned by a seemingly eccentric woman who gave instructions over the phone." }
+  ]
+}

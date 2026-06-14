@@ -8,6 +8,7 @@ import TimelinePanel from './components/TimelinePanel'
 import TripDetailPanel from './components/TripDetailPanel'
 import ScanDrawer from './components/ScanDrawer'
 import ReviewOverlay from './components/ReviewOverlay'
+import PlaybackMoments from './components/PlaybackMoments'
 
 export default function App() {
   const data = useStore((s) => s.data)
@@ -29,6 +30,7 @@ export default function App() {
         <MapCanvas />
         {data && <TimelinePanel />}
         {data && selectedTripId && <TripDetailPanel />}
+        {data && selectedTripId && <PlaybackMoments />}
         {data && reviewMode && <ReviewOverlay />}
         {data && drawerPageId && <ScanDrawer />}
         {!data && !error && <div className="boot">Reading the diaries…</div>}

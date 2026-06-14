@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0300_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.26, 0.73, 0.17, 0.25],
+      "caption": "Église abbatiale, choeur",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.50, 0.73, 0.44, 0.25],
+      "caption": "Abbaye Notre-Dame de Sénanque",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

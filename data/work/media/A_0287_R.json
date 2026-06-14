@@ -1,0 +1,29 @@
+{
+  "page_id": "A_0287_R",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.09, 0.01, 0.90, 0.18],
+      "caption": "Sci-Mu: computers weigh 1.5 tons",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.09, 0.22, 0.90, 0.20],
+      "caption": "Sci-Mu: brain more active sleeping",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.09, 0.45, 0.90, 0.20],
+      "caption": "Sci-Mu: more stars than grains of sand",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

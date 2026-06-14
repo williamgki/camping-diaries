@@ -1,0 +1,9 @@
+{
+  "trip_id": "1993-north-wales-rhiwiau-riding-conwy",
+  "epigraph": { "quote": "We walked around Conwy on the walls & saw an aquarium with lobsters & eels & went inside the smallest house in Britain.", "source_page_id": "A_0111_L" },
+  "per_stop": [
+    { "seq": 2, "source_page_id": "A_0111_L", "quote": "After leaving Thomas, William & Peter we took John & Charles swimming" },
+    { "seq": 3, "source_page_id": "A_0111_L", "quote": "We walked around Conwy on the walls & saw an aquarium with lobsters & eels & went inside the smallest house in Britain." },
+    { "seq": 4, "source_page_id": "A_0111_L", "quote": "We camped in the middle of nowhere, near a dam." }
+  ]
+}

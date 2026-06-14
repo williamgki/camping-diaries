@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0258_L",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.04, 0.57, 0.52, 0.41],
+      "caption": "La Voie Verte history and description leaflet",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "map",
+      "bbox": [0.54, 0.27, 0.46, 0.71],
+      "caption": "Voie Verte route map Le Puy to Brives",
+      "keep": true,
+      "spans_gutter": true,
+      "rotate_cw": 0
+    }
+  ]
+}

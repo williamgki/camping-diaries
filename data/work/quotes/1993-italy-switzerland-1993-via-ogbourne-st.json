@@ -1,0 +1,44 @@
+{
+  "trip_id": "1993-italy-switzerland-1993-via-ogbourne-st",
+  "epigraph": {
+    "quote": "She opened the door with \"Hello! Would you like a drink + a pee?\"",
+    "source_page_id": "A_0087_L"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "A_0086_R",
+      "quote": "Only one chemical toilet, John got out & ran up the hill."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "A_0087_R",
+      "quote": "We wandered around antique shops, Simon looking for dining room chairs (unsuccessful) + Eve looking for hair pins (successful)"
+    },
+    {
+      "seq": 4,
+      "source_page_id": "A_0087_R",
+      "quote": "Thomas + William slept at the bottom of the garden."
+    },
+    {
+      "seq": 5,
+      "source_page_id": "A_0087_R",
+      "quote": "We had a delicious roast lunch, + chatted."
+    },
+    {
+      "seq": 6,
+      "source_page_id": "A_0088_L",
+      "quote": "We drove to Portsmouth + ate in the carpark, surrounded by hoardes of French students."
+    },
+    {
+      "seq": 7,
+      "source_page_id": "A_0090_L",
+      "quote": "the site was very wet, boggy grass & a lake, but had a shop & was friendly."
+    },
+    {
+      "seq": 8,
+      "source_page_id": "A_0090_L",
+      "quote": "William got everyone into Finsbury Circus Park for a picnic."
+    }
+  ]
+}

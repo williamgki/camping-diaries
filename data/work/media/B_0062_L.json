@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0062_L",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.37, 0.01, 0.45, 0.38],
+      "caption": "Beaune 2ft high man turning spit in kitchen 1698 'Maitre Bertrand'",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.37, 0.53, 0.46, 0.33],
+      "caption": "1452 Great Hall of Beaune, 4 poster beds for patients, 2 in a bed",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

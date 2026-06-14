@@ -1,0 +1,19 @@
+{
+  "trip_id": "2001-cambridge-the-fens-punting-burwell-wicken",
+  "epigraph": {
+    "quote": "Breezy Breakfast. Warm smell of honey.",
+    "source_page_id": "A_0294_L"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "A_0293_R",
+      "quote": "John, Charles & William each had a turn at learning to punt."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "A_0294_L",
+      "quote": "John & Charles rowed off down the river in their swim-suits"
+    }
+  ]
+}

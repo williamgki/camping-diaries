@@ -1,0 +1,24 @@
+{
+  "trip_id": "2010-suffolk-graduation-party-then-belgium-thorpeness",
+  "epigraph": {
+    "quote": "Country-dancing followed, + sending off fire lanterns into the sky.",
+    "source_page_id": "B_0176_L"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "B_0176_L",
+      "quote": "I joined Annie in a swim in the sea."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "B_0176_L",
+      "quote": "eating lunch during the crossing"
+    },
+    {
+      "seq": 5,
+      "source_page_id": "B_0176_R",
+      "quote": "We walked out to the lake for a delicious meal at Mistral, charming shy waitress."
+    }
+  ]
+}

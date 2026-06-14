@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0224_L",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.74, 0.29, 0.19, 0.42],
+      "caption": "chalk spire White Mark hillside",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.47, 0.87, 0.07, 0.05],
+      "caption": "small wheat/grain decorative symbol",
+      "keep": false,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

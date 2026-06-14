@@ -1,0 +1,29 @@
+{
+  "page_id": "A_0246_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.42, 0.00, 0.52, 0.12],
+      "caption": "decorative floral cover visible",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.00, 0.43, 0.97, 0.20],
+      "caption": "street scene with row of vehicles",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.00, 0.65, 0.90, 0.42],
+      "caption": "interior room layout with furniture",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

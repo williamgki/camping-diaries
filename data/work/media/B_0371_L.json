@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0371_L",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.01, 0.01, 0.38, 0.43],
+      "caption": "Gothic ivory altarpiece on red background",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.21, 0.50, 0.54, 0.48],
+      "caption": "Holy Trinity coronation of the Virgin painting",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

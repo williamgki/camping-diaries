@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0267_L",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.07, 0.03, 0.88, 0.38],
+      "caption": "Brighton Pier bumper cars",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.07, 0.52, 0.88, 0.45],
+      "caption": "Brighton Pier.",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

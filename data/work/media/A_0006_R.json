@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0006_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.45, 0.01, 0.50, 0.12],
+      "caption": "Tent or caravan scene sketch",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.57, 0.46, 0.30, 0.11],
+      "caption": "Clifford's Tower on mound",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0253_R",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.01, 0.01, 0.97, 0.97],
+      "caption": "Skinnarland newspaper clipping — heavy water sabotage",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.04, 0.13, 0.37, 0.37],
+      "caption": "Skinnarland: hero of Telemark",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0217_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.26, 0.18, 0.68, 0.52],
+      "caption": "Labyrinthe at St. Quentin",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "map",
+      "bbox": [0.62, 0.78, 0.36, 0.20],
+      "caption": "Picardie Cathedrals region map",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

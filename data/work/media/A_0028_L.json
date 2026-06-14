@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0028_L",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.08, 0.18, 0.22, 0.14],
+      "caption": "volcanic lake mountain sketch",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "map",
+      "bbox": [0.22, 0.55, 0.68, 0.44],
+      "caption": "Hand-drawn Ardèche river route map",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

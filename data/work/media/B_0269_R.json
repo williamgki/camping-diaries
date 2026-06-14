@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0269_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.53, 0.40, 0.41, 0.25],
+      "caption": "The Chagall window (detail)- see 13 Chichester Cathedral",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.42, 0.89, 0.13, 0.06],
+      "caption": "decorative wheat/grain motif",
+      "keep": false,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

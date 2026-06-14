@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0146_L",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.04, 0.05, 0.43, 0.83],
+      "caption": "skyline on west side of L. Coniston, slate, bare volcanic",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 90
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.50, 0.05, 0.32, 0.83],
+      "caption": "skyline on east side of L. Coniston, limestone, trees",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 90
+    }
+  ]
+}

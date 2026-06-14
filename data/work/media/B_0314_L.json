@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0314_L",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.01, 0.01, 0.25, 0.17],
+      "caption": "Ancient Chestnut trees on-route to Croft Ambrey the Iron Age hill fort.",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.01, 0.18, 0.52, 0.27],
+      "caption": "Croft Castle exterior view",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

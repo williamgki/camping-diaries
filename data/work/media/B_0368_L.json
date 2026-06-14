@@ -1,0 +1,29 @@
+{
+  "page_id": "B_0368_L",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.01, 0.01, 0.39, 0.41],
+      "caption": "Crucifix of St. Teodote",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.35, 0.01, 0.39, 0.51],
+      "caption": "Archangel Michael (on facade) who crushes the devil-dragon",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.01, 0.56, 0.61, 0.34],
+      "caption": "Nativity Annunciation - but who is the child?",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

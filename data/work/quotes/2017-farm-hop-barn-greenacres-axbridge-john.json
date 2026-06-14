@@ -1,0 +1,29 @@
+{
+  "trip_id": "2017-farm-hop-barn-greenacres-axbridge-john",
+  "epigraph": {
+    "quote": "Charles & Jenny arrived at tea time, from Germany at the end of their honey moon. John & Kaz arrived in time for supper.",
+    "source_page_id": "B_0295_L"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "B_0293_R",
+      "quote": "He & William worked on the zig-zagging conveyor belts with Chris & 2 other Polish workmen."
+    },
+    {
+      "seq": 5,
+      "source_page_id": "B_0295_L",
+      "quote": "We saw Clevedon Pier. Then we parked out of town & found a deserted path into Ladye Bay (treacherous tides) & walked along the coastal path a bit."
+    },
+    {
+      "seq": 6,
+      "source_page_id": "B_0295_L",
+      "quote": "We looked at the lovely church & got back to the van just before another terrific rain shower."
+    },
+    {
+      "seq": 7,
+      "source_page_id": "B_0295_L",
+      "quote": "Charles & Jenny arrived at tea time, from Germany at the end of their honey moon. John & Kaz arrived in time for supper."
+    }
+  ]
+}

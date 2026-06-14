@@ -1,0 +1,24 @@
+{
+  "trip_id": "1992-york-jorvik-minster-conisborough-castle",
+  "epigraph": {
+    "quote": "Beautiful views of distance + sky + a rainbow.",
+    "source_page_id": "A_0079_R"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "A_0078_L",
+      "quote": "Finally we reach York almost via Wetherby."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "A_0080_L",
+      "quote": "mountains of Yorkshire pudding + very dead roast beef at \"The Fox\" near Pontefract."
+    },
+    {
+      "seq": 4,
+      "source_page_id": "A_0080_L",
+      "quote": "Even in the rain + north wind it is very impressive, a white circular keep."
+    }
+  ]
+}

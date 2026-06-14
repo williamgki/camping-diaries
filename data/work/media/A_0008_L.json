@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0008_L",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.54, 0.30, 0.40, 0.12],
+      "caption": "Double row of sticking-out stones",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.04, 0.60, 0.88, 0.22],
+      "caption": "Wall with stile, ladder and sheep holes",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

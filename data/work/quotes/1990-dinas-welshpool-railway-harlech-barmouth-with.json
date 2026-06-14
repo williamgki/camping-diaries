@@ -1,0 +1,10 @@
+{
+  "trip_id": "1990-dinas-welshpool-railway-harlech-barmouth-with",
+  "epigraph": { "quote": "It was lovely & leafy & green after the hot van.", "source_page_id": "A_0016_L" },
+  "per_stop": [
+    { "seq": 2, "source_page_id": "A_0016_L", "quote": "It was lovely & leafy & green after the hot van." },
+    { "seq": 3, "source_page_id": "A_0016_R", "quote": "Simon raced home with Charles on the pack to get lunch ready (leaving me to piggyback John) only to find the soup still frozen." },
+    { "seq": 4, "source_page_id": "A_0019_L", "quote": "We go north & have lunch at Celyn reservoir." },
+    { "seq": 5, "source_page_id": "A_0019_L", "quote": "In the afternoon we visit the highest waterfall in Wales" }
+  ]
+}

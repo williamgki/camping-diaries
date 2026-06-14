@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0304_R",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.12, 0.03, 0.77, 0.52],
+      "caption": "Bayeux Tapestry scene with figures",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 90
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.12, 0.62, 0.77, 0.24],
+      "caption": "NVN TIL VVILLELMI - Bayeux Tapestry",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 90
+    }
+  ]
+}

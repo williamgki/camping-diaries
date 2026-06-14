@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0204_R",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.25, 0.20, 0.60, 0.22],
+      "caption": "Ascension de la Tour Eiffel",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.02, 0.47, 0.90, 0.51],
+      "caption": "Chateau de la Ferté, St. Aubin",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0195_L",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.13, 0.10, 0.74, 0.32],
+      "caption": "ROBERT CAPA opera ticket Verona",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.13, 0.59, 0.74, 0.33],
+      "caption": "MUSEO DI CASTELVECCHIO",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

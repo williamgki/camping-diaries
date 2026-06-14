@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0324_R",
+  "regions": [
+    {
+      "type": "map",
+      "bbox": [0.10, 0.01, 0.17, 0.12],
+      "caption": "small coastline map sketch",
+      "keep": false,
+      "spans_gutter": true,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.13, 0.02, 0.82, 0.30],
+      "caption": "View of old house across the river from campsite beach. R. Hérault.",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

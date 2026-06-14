@@ -1,0 +1,9 @@
+{
+  "trip_id": "1989-stokesay-castle-shropshire-last-trip-of",
+  "epigraph": { "quote": "It's very pretty, even in the rain.", "source_page_id": "A_0010_R" },
+  "per_stop": [
+    { "seq": 3, "source_page_id": "A_0010_R", "quote": "It's very pretty, even in the rain." },
+    { "seq": 4, "source_page_id": "A_0011_L", "quote": "Lovely big flat field, wood along one side." },
+    { "seq": 5, "source_page_id": "A_0011_L", "quote": "The boys waved from the battlements." }
+  ]
+}

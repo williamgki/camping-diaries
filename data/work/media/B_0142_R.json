@@ -1,0 +1,29 @@
+{
+  "page_id": "B_0142_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.22, 0.02, 0.68, 0.22],
+      "caption": "Saint Anne Room, Beaune, former linen room, P.20.",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.10, 0.38, 0.80, 0.22],
+      "caption": "Tapestry, miracle of Saint Eloi, Beaune.",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.22, 0.68, 0.72, 0.28],
+      "caption": "Ferme Auberge des deux vallées",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0321_R",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.33, 0.01, 0.65, 0.56],
+      "caption": "Notre-Dame de Gray Basilica",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.02, 0.63, 0.96, 0.36],
+      "caption": "View from our campsite, across the river at Pesmes on R. Ognion",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

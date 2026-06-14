@@ -1,0 +1,24 @@
+{
+  "trip_id": "1997-forest-of-dean-cycling-beauchamp-john",
+  "epigraph": {
+    "quote": "It had been a lovely day – reading, ping pong & downfall.",
+    "source_page_id": "A_0196_R"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "A_0195_L",
+      "quote": "Only seconds of muesli + weetabix allowed."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "A_0195_R",
+      "quote": "We missed the correct trail & arrived back 15 minutes after the others for a very welcome cup of tea."
+    },
+    {
+      "seq": 4,
+      "source_page_id": "A_0196_R",
+      "quote": "He played in the \"hairy hedgehog\" group. It was very good."
+    }
+  ]
+}

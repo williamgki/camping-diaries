@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0095_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.05, 0.0, 0.93, 0.58],
+      "caption": "Icy cold, earache. The St. Gottard Pass",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.38, 0.19, 0.37, 0.28],
+      "caption": "Glued cream paper within sketch",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

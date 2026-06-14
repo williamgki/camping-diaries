@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0104_L",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.04, 0.06, 0.27, 0.90],
+      "caption": "Six coloured gloves catalog strip",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.36, 0.02, 0.45, 0.40],
+      "caption": "Le Dancing",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

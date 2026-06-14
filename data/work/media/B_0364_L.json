@@ -1,0 +1,69 @@
+{
+  "page_id": "B_0364_L",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.02, 0.01, 0.34, 0.23],
+      "caption": "carved beast head stone",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.34, 0.01, 0.22, 0.42],
+      "caption": "tall carved column figure",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.60, 0.01, 0.26, 0.35],
+      "caption": "standing stone carved figure",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.02, 0.25, 0.36, 0.38],
+      "caption": "stone font on pedestal",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.38, 0.43, 0.26, 0.22],
+      "caption": "carved grotesque stone detail",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.02, 0.64, 0.16, 0.14],
+      "caption": "carved grotesque face",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.02, 0.78, 0.20, 0.18],
+      "caption": "carved animal head corbel",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.38, 0.65, 0.38, 0.35],
+      "caption": "Kilpeck Church carved doorway arch",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

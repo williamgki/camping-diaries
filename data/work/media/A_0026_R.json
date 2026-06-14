@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0026_R",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.08, 0.02, 0.89, 0.33],
+      "caption": "Aigueze village skyline with church tower",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.08, 0.43, 0.89, 0.45],
+      "caption": "River gorge scene with boats and cliffs",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

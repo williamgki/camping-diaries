@@ -15,7 +15,9 @@
     "route": "node pipeline/10_route.mjs",
     "assemble": "node pipeline/11_assemble.mjs",
     "validate": "node pipeline/12_validate.mjs",
-    "pipeline": "npm run manifest && npm run render && npm run split && npm run reconcile && npm run geocode && npm run route && npm run assemble && npm run validate"
+    "media:crop": "node pipeline/14_crop_media.mjs",
+    "moments": "node pipeline/16_build_moments.mjs",
+    "pipeline": "npm run manifest && npm run render && npm run split && npm run reconcile && npm run geocode && npm run route && npm run assemble && npm run validate && npm run media:crop && npm run moments"
   },
   "dependencies": {
     "@fontsource/ibm-plex-mono": "^5.1.0",

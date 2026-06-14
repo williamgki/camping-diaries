@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0037_L",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.04, 0.55, 0.18, 0.15],
+      "caption": "hand-drawn pig or animal",
+      "keep": false,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.35, 0.54, 0.37, 0.18],
+      "caption": "stone room from above - little walls to keep in pigs",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

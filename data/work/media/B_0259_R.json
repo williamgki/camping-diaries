@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0259_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.22, 0.02, 0.75, 0.40],
+      "caption": "Town square with Romanesque church facade and crowd",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.22, 0.45, 0.75, 0.52],
+      "caption": "Below the Holy Cross sanctuary, recumbent stone effigy",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

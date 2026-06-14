@@ -1,0 +1,29 @@
+{
+  "trip_id": "1999-malvern-peter-s-concert-dinas-brecon",
+  "epigraph": {
+    "quote": "The boys lit a fire to toast marshmallows in the evening but the wind was too cold to sit out.",
+    "source_page_id": "A_0267_R"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "A_0267_R",
+      "quote": "We heard the choir in the Priory. William ushered. Peter sang."
+    },
+    {
+      "seq": 4,
+      "source_page_id": "A_0267_R",
+      "quote": "Simon + the boys have played cricket + discussed William's Psion + Simon's Palm Top T."
+    },
+    {
+      "seq": 5,
+      "source_page_id": "A_0268_L",
+      "quote": "He left his knapsack on the train & had to spend the night with Lizzie."
+    },
+    {
+      "seq": 6,
+      "source_page_id": "A_0268_L",
+      "quote": "We collected circular slate from the slate factory at Port Maddock"
+    }
+  ]
+}

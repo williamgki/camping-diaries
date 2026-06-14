@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0221_L",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.13, 0.18, 0.38, 0.40],
+      "caption": "PROVINS PATRIMOINE MONDIAL aerial church view",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.12, 0.62, 0.53, 0.27],
+      "caption": "PROVINS PATRIMOINE MONDIAL vaulted interior",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

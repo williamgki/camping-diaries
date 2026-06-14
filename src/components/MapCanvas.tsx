@@ -4,6 +4,7 @@ import style from '../map/style.json'
 import { useStore } from '../store'
 import { loadGeometry, loadUnderlay } from '../lib/data'
 import { buildPath, pointAt, type PlaybackPath } from '../lib/playback'
+import { loadMoments, placeMoments, type MomentAtT } from '../lib/moments'
 
 const COLORS = {
   main: '#A93F32',
@@ -19,6 +20,8 @@ export default function MapCanvas() {
   const mapRef = useRef<maplibregl.Map | null>(null)
   const readyRef = useRef(false)
   const pathRef = useRef<PlaybackPath | null>(null)
+  const momentsRef = useRef<MomentAtT[]>([])
+  const fitBoundsRef = useRef<[[number, number], [number, number]] | null>(null)
   const rafRef = useRef(0)
 
   const data = useStore((s) => s.data)
@@ -26,6 +29,7 @@ export default function MapCanvas() {
   const layers = useStore((s) => s.layers)
   const playback = useStore((s) => s.playback)
   const selectTrip = useStore((s) => s.selectTrip)
+  const setMoments = useStore((s) => s.setMoments)
 
   // ---- map init
   useEffect(() => {
@@ -224,7 +228,20 @@ export default function MapCanvas() {
       }
       if (cancelled) return
       tripSrc.setData(fc)
-      pathRef.current = buildPath(fc)
+      const path = buildPath(fc)
+      pathRef.current = path
+
+      // Load + position the playback moments for this trip.
+      momentsRef.current = []
+      setMoments([], null)
+      if (path) {
+        loadMoments(selectedTripId).then((tm) => {
+          if (cancelled || !tm) return
+          const placed = placeMoments(path, tm.moments)
+          momentsRef.current = placed
+          setMoments(placed, tm.epigraph?.quote ?? null)
+        })
+      }
 
       const stops = data.evidence
         .filter((e) => e.trip_id === selectedTripId)
@@ -255,13 +272,14 @@ export default function MapCanvas() {
       if (allCoords.length > 1) {
         const lons = allCoords.map((c) => c[0])
         const lats = allCoords.map((c) => c[1])
-        map.fitBounds(
-          [
-            [Math.min(...lons), Math.min(...lats)],
-            [Math.max(...lons), Math.max(...lats)],
-          ],
-          { padding: { top: 80, bottom: 60, left: 360, right: 380 }, duration: 900, maxZoom: 9 },
-        )
+        const bounds: [[number, number], [number, number]] = [
+          [Math.min(...lons), Math.min(...lats)],
+          [Math.max(...lons), Math.max(...lats)],
+        ]
+        fitBoundsRef.current = bounds
+        map.fitBounds(bounds, { padding: { top: 80, bottom: 60, left: 360, right: 380 }, duration: 900, maxZoom: 9 })
+      } else {
+        fitBoundsRef.current = null
       }
     }
     apply()
@@ -283,50 +301,85 @@ export default function MapCanvas() {
     vis('trip-excursions', layers.excursions)
   }, [layers])
 
-  // ---- playback animation
-  useEffect(() => {
+  const renderFrame = (t: number) => {
     const map = mapRef.current
-    if (!map || !readyRef.current) return
     const path = pathRef.current
+    if (!map || !path) return
     const drawnSrc = map.getSource('drawn') as maplibregl.GeoJSONSource | undefined
     const markerSrc = map.getSource('marker') as maplibregl.GeoJSONSource | undefined
-    if (!path || !drawnSrc || !markerSrc) return
+    if (!drawnSrc || !markerSrc) return
+    const { pos, drawn } = pointAt(path, t)
+    drawnSrc.setData({
+      type: 'FeatureCollection',
+      features: [{ type: 'Feature', properties: {}, geometry: { type: 'LineString', coordinates: drawn } }],
+    })
+    markerSrc.setData({
+      type: 'FeatureCollection',
+      features: [{ type: 'Feature', properties: {}, geometry: { type: 'Point', coordinates: pos } }],
+    })
+  }
 
-    const render = (t: number) => {
-      const { pos, drawn } = pointAt(path, t)
-      drawnSrc.setData({
-        type: 'FeatureCollection',
-        features: [{ type: 'Feature', properties: {}, geometry: { type: 'LineString', coordinates: drawn } }],
-      })
-      markerSrc.setData({
-        type: 'FeatureCollection',
-        features: [{ type: 'Feature', properties: {}, geometry: { type: 'Point', coordinates: pos } }],
-      })
+  // ---- paused / scrub rendering (NOT during play, so it never restarts the loop)
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map || !readyRef.current || playback.playing) return
+    const drawnSrc = map.getSource('drawn') as maplibregl.GeoJSONSource | undefined
+    const markerSrc = map.getSource('marker') as maplibregl.GeoJSONSource | undefined
+    if (!drawnSrc || !markerSrc) return
+    if (playback.t === 0) {
+      drawnSrc.setData(EMPTY)
+      markerSrc.setData(EMPTY)
+      if (fitBoundsRef.current)
+        map.fitBounds(fitBoundsRef.current, { padding: { top: 80, bottom: 60, left: 360, right: 380 }, duration: 700, maxZoom: 9 })
+    } else {
+      renderFrame(playback.t)
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [playback.t, playback.playing, selectedTripId])
 
-    if (!playback.playing) {
-      // paused: render the scrub position (or clear at the start)
-      if (playback.t === 0) {
-        drawnSrc.setData(EMPTY)
-        markerSrc.setData(EMPTY)
-      } else render(playback.t)
-      return
-    }
+  // ---- playback animation loop (runs once per play, not per frame)
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map || !readyRef.current || !playback.playing) return
+    const path = pathRef.current
+    if (!path) return
+
+    // Gentle cinematic camera: one smooth zoom-in on play, then track the
+    // marker by setting the centre each frame (no per-frame easeTo — those
+    // fight each other and the zoom never settles).
+    const startPos = pointAt(path, playback.t).pos
+    const followZoom = Math.min(8, Math.max(map.getZoom() + 1.4, 7))
+    const startedAt = performance.now()
+    const INTRO_MS = 850
+    map.easeTo({ center: startPos, zoom: followZoom, duration: INTRO_MS })
+    let lastPan = 0
+    const baseKmPerSec = Math.max(20, path.totalKm / 34) * playback.speed
+    const moments = momentsRef.current
+    const nearMoment = (t: number) => moments.some((m) => Math.abs(m.t - t) < 0.015)
 
     let last = performance.now()
-    const kmPerSec = Math.max(20, path.totalKm / 30) * playback.speed
     const tick = (now: number) => {
       const dt = (now - last) / 1000
       last = now
       const { playback: pb, setPlayback } = useStore.getState()
-      const t = Math.min(1, pb.t + (kmPerSec * dt) / path.totalKm)
-      render(t)
+      if (!pb.playing) return // paused mid-flight
+      // Slow to a dwell as the marker reaches each moment, so its card can read.
+      const speed = nearMoment(pb.t) ? baseKmPerSec * 0.4 : baseKmPerSec
+      const t = Math.min(1, pb.t + (speed * dt) / path.totalKm)
+      const { pos } = pointAt(path, t)
+      renderFrame(t)
+      // After the intro zoom, pan the centre directly (~12 Hz) for smooth tracking.
+      if (now - startedAt > INTRO_MS && now - lastPan > 80) {
+        lastPan = now
+        map.setCenter(pos)
+      }
       setPlayback(t >= 1 ? { t: 1, playing: false } : { t })
       if (t < 1) rafRef.current = requestAnimationFrame(tick)
     }
     rafRef.current = requestAnimationFrame(tick)
     return () => cancelAnimationFrame(rafRef.current)
-  }, [playback.playing, playback.speed, playback.t, selectedTripId]) // eslint-disable-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [playback.playing, playback.speed, selectedTripId])
 
   return <div ref={containerRef} className="map-canvas" />
 }

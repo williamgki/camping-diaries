@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0194_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.12, 0.20, 0.85, 0.48],
+      "caption": "Stage set for Carmen opera",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.0, 0.62, 0.10, 0.22],
+      "caption": "Partial photo at left edge",
+      "keep": false,
+      "spans_gutter": true,
+      "rotate_cw": 0
+    }
+  ]
+}

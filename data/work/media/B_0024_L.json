@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0024_L",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.05, 0.07, 0.42, 0.31],
+      "caption": "EuNATE",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.05, 0.40, 0.42, 0.33],
+      "caption": "LuMBIER",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

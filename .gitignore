@@ -3,5 +3,7 @@ dist/
 .DS_Store
 scans/
 public/scans/
+public/media/
 public/data/geometry/
+public/data/moments/
 *.tsbuildinfo

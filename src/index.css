@@ -284,6 +284,46 @@ input[type='range'] { width: 100%; accent-color: var(--route-main); }
 .review-hint { margin: 0; padding: 0 14px 12px; font-size: 10.5px; color: var(--faint); }
 .review-hint code { font-family: var(--font-mono); font-size: 10px; }
 
+/* ---------- playback moment card ---------- */
+.moment-card {
+  position: absolute; left: 332px; bottom: 22px; z-index: 22;
+  width: 300px; padding: 14px 16px 13px;
+  background: var(--panel-translucent); backdrop-filter: blur(7px);
+  border: 1px solid var(--hairline); border-radius: 5px;
+  box-shadow: 0 10px 30px rgba(38, 36, 31, 0.12);
+  animation: moment-in 620ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+@keyframes moment-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.moment-image {
+  margin: -2px -2px 11px; border-radius: 3px; overflow: hidden;
+  background: #ece7db; border: 1px solid var(--hairline);
+  opacity: 0; transition: opacity 480ms ease;
+}
+.moment-image.is-ready { opacity: 1; }
+.moment-image img { display: block; width: 100%; height: auto; max-height: 230px; object-fit: cover; }
+.moment-thumbs { display: flex; gap: 2px; }
+.moment-thumbs img { width: 50%; height: 64px; object-fit: cover; border-top: 1px solid var(--hairline); }
+.moment-quote {
+  margin: 0; font-family: var(--font-serif); font-style: italic;
+  font-size: 15.5px; line-height: 1.45; color: var(--ink);
+}
+.moment-caption {
+  margin-top: 9px; font-family: var(--font-mono); font-size: 10.5px;
+  letter-spacing: 0.05em; text-transform: uppercase; color: var(--faint);
+}
+.moment-epigraph { width: 320px; }
+.moment-epigraph blockquote {
+  margin: 0; font-family: var(--font-serif); font-style: italic;
+  font-size: 17px; line-height: 1.5; color: var(--muted);
+}
+@media (prefers-reduced-motion: reduce) {
+  .moment-card { animation: none; }
+  .moment-image { transition: none; opacity: 1; }
+}
+
 /* ---------- map popup ---------- */
 .cd-popup .maplibregl-popup-content {
   font-family: var(--font-ui); font-size: 12px; color: var(--ink);

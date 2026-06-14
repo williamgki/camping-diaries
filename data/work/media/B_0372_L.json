@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0372_L",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.05, 0.01, 0.62, 0.50],
+      "caption": "blue ceiling of church",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.00, 0.01, 0.05, 0.50],
+      "caption": "Gothic spire partial",
+      "keep": false,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

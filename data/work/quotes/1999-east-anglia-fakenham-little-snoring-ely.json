@@ -1,0 +1,29 @@
+{
+  "trip_id": "1999-east-anglia-fakenham-little-snoring-ely",
+  "epigraph": {
+    "quote": "Simon practised cricket with Charles, while Eve walked Tonic to a barn where he chased rabbits. A lovely evening.",
+    "source_page_id": "A_0266_R"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "A_0265_R",
+      "quote": "Large trees. An orange-haired man had an orange tent next door, & there were bird-spotters in another tent."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "A_0266_L",
+      "quote": "Church with a round tower. Very very pretty countryside."
+    },
+    {
+      "seq": 4,
+      "source_page_id": "A_0266_L",
+      "quote": "We are sitting in almost sun on the balcony. Tonic likes the balcony lovely gardens."
+    },
+    {
+      "seq": 5,
+      "source_page_id": "A_0266_R",
+      "quote": "a field bordered by Willow + silver birch, + walks along straight raised paths"
+    }
+  ]
+}

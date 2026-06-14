@@ -1,0 +1,37 @@
+{
+  "page_id": "B_0168_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.28, 0.10, 0.35, 0.33],
+      "caption": "Looking up the Punch Bowl, Winsford Hill",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.63, 0.10, 0.34, 0.33],
+      "caption": "Open countryside with clouds and tree",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.28, 0.44, 0.35, 0.38],
+      "caption": "Winsford Village moorland landscape",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.63, 0.44, 0.34, 0.38],
+      "caption": "The Royal Oak Inn, Winsford",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

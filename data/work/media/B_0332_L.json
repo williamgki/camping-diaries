@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0332_L",
+  "regions": [
+    {
+      "type": "ticket",
+      "bbox": [0.02, 0.01, 0.37, 0.37],
+      "caption": "Intermarché milk supply chain leaflet",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "ticket",
+      "bbox": [0.02, 0.43, 0.39, 0.33],
+      "caption": "Intermarché bread supply chain leaflet",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

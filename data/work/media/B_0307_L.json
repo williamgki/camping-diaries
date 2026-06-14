@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0307_L",
+  "regions": [
+    {
+      "type": "sketch",
+      "bbox": [0.37, 0.18, 0.24, 0.18],
+      "caption": "Mill scene with horses and cart",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.01, 0.42, 0.54, 0.54],
+      "caption": "Le Rû",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

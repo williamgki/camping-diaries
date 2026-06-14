@@ -1,0 +1,29 @@
+{
+  "page_id": "B_0197_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.13, 0.21, 0.78, 0.26],
+      "caption": "Isola San Giulio aerial view",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.13, 0.49, 0.56, 0.22],
+      "caption": "Medieval fresco with figures on horseback",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.72, 0.50, 0.22, 0.17],
+      "caption": "Isola San Julio",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

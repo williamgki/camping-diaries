@@ -1,0 +1,21 @@
+{
+  "page_id": "A_0345_R",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.03, 0.40, 0.28, 0.28],
+      "caption": "J.S. Bach",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.72, 0.84, 0.27, 0.16],
+      "caption": "carved musical instrument decoration",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

@@ -45,6 +45,12 @@ npm run geocode     # S9  Nominatim (1 req/s, cached) + curated ports/regions
 npm run route       # S10 OSRM road legs (cached) + geodesic ferry legs
 npm run assemble    # S11 canonical JSON + WebP scans + search index + patches
 npm run validate    # S12 schema + accuracy rules (exits non-zero on failure)
+# S13 detect_media — LLM vision workflow: bounding boxes of glued photos /
+#   postcards / sketches / maps per page (+ rotation) → data/work/media/
+npm run media:crop  # S14 crop & rotate those regions → public/media/<trip>/*.webp
+# S15 curate_quotes — LLM workflow: one evocative verbatim quote per stop
+#   (+ a trip epigraph) → data/work/quotes/
+npm run moments     # S16 join stops + quotes + crops → public/data/moments/<trip>.json
 ```
 
 Deterministic stages are idempotent and resumable. `geocode`/`route` accept
@@ -55,9 +61,24 @@ accepts `--skip-images` to skip WebP regeneration.
 The LLM stages were run with: `claude-sonnet-4-6` for page transcription
 (chosen over haiku by a judged 10-spread calibration — see
 `reports/calibration_report.md`), `claude-opus-4-8` for index transcription,
-trip segmentation, route extraction and audits. Their prompts are versioned in
+trip segmentation, route extraction and audits, and `claude-sonnet-4-6` for
+media detection (S13) and quote curation (S15). Their prompts are versioned in
 `pipeline/prompts/`; their outputs are committed under `data/work/`, so the
-deterministic pipeline can rebuild everything without re-running them.
+deterministic pipeline can rebuild everything without re-running them —
+including the cropped images and play-mode moments, which `media:crop` and
+`moments` rebuild from `data/work/media/` + `data/work/quotes/` with no network.
+
+## Play mode (journey moments)
+
+Selecting a trip and pressing **Play journey** animates a marker along the
+route; the camera eases in and follows it, slowing briefly at each stop. As the
+marker reaches a stop, a quiet "moment card" fades in (lower-left) with a
+cropped diary photo/sketch/postcard from that page and an evocative verbatim
+quotation, captioned `place · date`. Cards degrade gracefully — quote-only
+where a page has no image, image-only where there's no quote — and trips with
+neither simply show none. The card data is one self-contained file per trip,
+`public/data/moments/<trip>.json`; positions along the route (`t`) are computed
+in the app by projecting each stop onto the playback path.
 
 ## Evidence rules (what the data promises)
 

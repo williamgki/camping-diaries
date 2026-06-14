@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0322_R",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.27, 0.01, 0.70, 0.29],
+      "caption": "PATRIMOINE MONDIAL DE L'UNESCO — Saline Royale",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "map",
+      "bbox": [0.27, 0.33, 0.70, 0.23],
+      "caption": "Saline Royale site plan with handwritten annotations",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

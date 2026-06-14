@@ -1,0 +1,69 @@
+{
+  "page_id": "B_0027_L",
+  "regions": [
+    {
+      "type": "photo",
+      "bbox": [0.06, 0.02, 0.41, 0.16],
+      "caption": "wooden texture close-up",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.49, 0.02, 0.40, 0.16],
+      "caption": "doorway with cow or animal",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.06, 0.19, 0.41, 0.16],
+      "caption": "stone wall with small window",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.49, 0.19, 0.40, 0.16],
+      "caption": "stone arch or cave opening",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.06, 0.36, 0.41, 0.16],
+      "caption": "stone trough or basin",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.49, 0.36, 0.40, 0.16],
+      "caption": "old wooden door in stone",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.06, 0.53, 0.41, 0.16],
+      "caption": "tree and building tower",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "photo",
+      "bbox": [0.49, 0.53, 0.40, 0.16],
+      "caption": "Romanesque arched doorway",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

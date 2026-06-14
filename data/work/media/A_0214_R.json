@@ -1,0 +1,37 @@
+{
+  "page_id": "A_0214_R",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.08, 0.01, 0.40, 0.18],
+      "caption": "LES BATELIERS DES GORGES DU TARN",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "postcard",
+      "bbox": [0.53, 0.01, 0.44, 0.18],
+      "caption": "AVEN ARMAND",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.04, 0.36, 0.22, 0.32],
+      "caption": "hand-drawn willow seed",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "map",
+      "bbox": [0.30, 0.21, 0.68, 0.65],
+      "caption": "road map Montpellier Nimes region",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "page_id": "B_0137_R",
+  "regions": [
+    {
+      "type": "postcard",
+      "bbox": [0.38, 0.20, 0.60, 0.78],
+      "caption": "CAPEL-Y-FFIN LLANTHONY VALLEY, BLACK MOUNTAINS",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    },
+    {
+      "type": "sketch",
+      "bbox": [0.02, 0.57, 0.26, 0.13],
+      "caption": "hand-drawn bridge sketch",
+      "keep": true,
+      "spans_gutter": false,
+      "rotate_cw": 0
+    }
+  ]
+}

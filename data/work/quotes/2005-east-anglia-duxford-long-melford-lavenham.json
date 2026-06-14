@@ -1,0 +1,29 @@
+{
+  "trip_id": "2005-east-anglia-duxford-long-melford-lavenham",
+  "epigraph": {
+    "quote": "Simon set up a table & chairs & lights to eat outside, but it started to rain so we ate inside.",
+    "source_page_id": "B_0085_R"
+  },
+  "per_stop": [
+    {
+      "seq": 2,
+      "source_page_id": "B_0085_L",
+      "quote": "Uncle Cottie's old PBY bomber had 14 cylinders around 2 propellers & was 2 x 1200 hp. Simon really liked the lines of the PBY."
+    },
+    {
+      "seq": 3,
+      "source_page_id": "B_0085_R",
+      "quote": "We camped behind the 3 Bottles at Great Yeldan, a tilted field in which Simon nearly got the van stuck."
+    },
+    {
+      "seq": 4,
+      "source_page_id": "B_0086_R",
+      "quote": "I really liked the Clopton chapel + the alabaster + the rabbit window (see front.) Friendly people weering tweed"
+    },
+    {
+      "seq": 5,
+      "source_page_id": "B_0086_R",
+      "quote": "The village of Lavenham is very, very pretty. Incredible range of houses, many of them tilted."
+    }
+  ]
+}

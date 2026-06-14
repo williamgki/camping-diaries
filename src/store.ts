@@ -1,5 +1,6 @@
 import { create } from 'zustand'
 import type { ArchiveData, Filters, LayerToggles, Patch, Trip } from './types'
+import type { MomentAtT } from './lib/moments'
 
 interface State {
   data: ArchiveData | null
@@ -9,6 +10,8 @@ interface State {
   reviewMode: boolean
   drawerPageId: string | null
   playback: { playing: boolean; t: number; speed: number }
+  currentMoments: MomentAtT[]
+  epigraph: string | null
   patches: Patch[]
   // actions
   setData: (d: ArchiveData) => void
@@ -18,6 +21,7 @@ interface State {
   setReviewMode: (v: boolean) => void
   openDrawer: (pageId: string | null) => void
   setPlayback: (p: Partial<State['playback']>) => void
+  setMoments: (m: MomentAtT[], epigraph: string | null) => void
   addPatch: (p: Patch) => void
   clearPatches: () => void
 }
@@ -38,15 +42,18 @@ export const useStore = create<State>((set) => ({
   reviewMode: false,
   drawerPageId: null,
   playback: { playing: false, t: 0, speed: 1 },
+  currentMoments: [],
+  epigraph: null,
   patches: storedPatches(),
   setData: (data) => set({ data }),
   selectTrip: (selectedTripId) =>
-    set({ selectedTripId, playback: { playing: false, t: 0, speed: 1 } }),
+    set({ selectedTripId, playback: { playing: false, t: 0, speed: 1 }, currentMoments: [], epigraph: null }),
   setFilters: (f) => set((s) => ({ filters: { ...s.filters, ...f } })),
   toggleLayer: (k) => set((s) => ({ layers: { ...s.layers, [k]: !s.layers[k] } })),
   setReviewMode: (reviewMode) => set({ reviewMode }),
   openDrawer: (drawerPageId) => set({ drawerPageId }),
   setPlayback: (p) => set((s) => ({ playback: { ...s.playback, ...p } })),
+  setMoments: (currentMoments, epigraph) => set({ currentMoments, epigraph }),
   addPatch: (p) =>
     set((s) => {
       const patches = [...s.patches, p]
