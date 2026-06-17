@@ -1,7 +1,7 @@
 // External links. Swap SUGGESTION_FORM_URL for the real Google Form once it
 // exists (Settings → "Send" → link). If left empty, the Feedback panel falls
 // back to a pre-filled email to the maintainer.
-export const SUGGESTION_FORM_URL = ''
+export const SUGGESTION_FORM_URL = 'https://forms.gle/p68eJcQoMV8eJwuCA'
 
 export const MAINTAINER_EMAIL = 'williamgkirby@gmail.com'
 
