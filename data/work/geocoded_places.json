@@ -1,18 +1,14 @@
 {
  "birmingham-uk|gb": {
   "place_id": "birmingham-uk",
-  "normalized_name": "Birmingham, UK",
-  "display_name": "Birmingham, West Midlands, England, United Kingdom",
-  "lon": -1.8518439,
-  "lat": 52.4948994,
-  "country": "gb",
-  "precision": "locality",
-  "curated": false,
-  "source": "nominatim",
-  "query": "Birmingham, UK",
-  "osm_type": "relation",
-  "osm_id": 162378,
-  "nominatim_type": "undefined/administrative",
+  "normalized_name": "86 Westfield Road, Edgbaston",
+  "display_name": "86 Westfield Road, Edgbaston",
+  "lon": -1.9424432,
+  "lat": 52.4646734,
+  "country": "GB",
+  "precision": "exact",
+  "curated": true,
+  "source": "curated_places.json",
   "original_wordings": [
    "B'ham",
    "Birmingham",
@@ -293,29 +289,18 @@
    "2022-scotland-crail-conta-s-wedding"
   ],
   "ambiguous": false,
-  "alternates": [
-   {
-    "display_name": "Birmingham, West Midlands, England, B2 4AJ, United Kingdom",
-    "lon": -1.9026911,
-    "lat": 52.4796992,
-    "type": "undefined/city"
-   }
-  ]
+  "alternates": []
  },
  "dinas-camp-near-harlech-wales|gb": {
   "place_id": "dinas-camp-near-harlech-wales",
-  "normalized_name": "Dinas Camp, near Harlech, Wales",
-  "display_name": "Dinas Camp, Penlon, Blaenrheidol, Ponterwyd, Ceredigion, Wales, SY23 3LJ, United Kingdom",
-  "lon": -3.8507029,
-  "lat": 52.4335985,
-  "country": "gb",
+  "normalized_name": "Dinas Farm, Llanbedr",
+  "display_name": "Dinas Farm, Llanbedr",
+  "lon": -4.0645315,
+  "lat": 52.842303,
+  "country": "GB",
   "precision": "locality",
-  "curated": false,
-  "source": "nominatim",
-  "query": "Dinas Camp, , Wales",
-  "osm_type": "way",
-  "osm_id": 1422756135,
-  "nominatim_type": "undefined/archaeological_site",
+  "curated": true,
+  "source": "curated_places.json",
   "original_wordings": [
    "Dinas Camp near Harlech"
   ],
@@ -613,14 +598,14 @@
  },
  "kate-jamie-s-farm|gb": {
   "place_id": "kate-jamie-s-farm",
-  "normalized_name": "Kate & Jamie's farm",
-  "display_name": null,
-  "lon": null,
-  "lat": null,
-  "country": "gb",
-  "precision": "unresolved",
-  "curated": false,
-  "source": "nominatim",
+  "normalized_name": "Brook House Farm, Avenbury",
+  "display_name": "Brook House Farm, Avenbury",
+  "lon": -2.4936528,
+  "lat": 52.1723433,
+  "country": "GB",
+  "precision": "locality",
+  "curated": true,
+  "source": "curated_places.json",
   "original_wordings": [
    "Kate & Jamie's farm"
   ],
@@ -2750,18 +2735,14 @@
  },
  "dinas-gwynedd-wales|gb": {
   "place_id": "dinas-gwynedd-wales",
-  "normalized_name": "Dinas, Gwynedd, Wales",
-  "display_name": "Dinas, Lôn Eifion, Llanwnda, Llanfaglan, Bontnewydd, Gwynedd, Wales, LL54 5UD, United Kingdom",
-  "lon": -4.2769864,
-  "lat": 53.1035053,
-  "country": "gb",
+  "normalized_name": "Dinas Farm, Llanbedr",
+  "display_name": "Dinas Farm, Llanbedr",
+  "lon": -4.0645315,
+  "lat": 52.842303,
+  "country": "GB",
   "precision": "locality",
-  "curated": false,
-  "source": "nominatim",
-  "query": "Dinas, Gwynedd, Wales",
-  "osm_type": "node",
-  "osm_id": 736929512,
-  "nominatim_type": "undefined/station",
+  "curated": true,
+  "source": "curated_places.json",
   "original_wordings": [
    "Dinas",
    "the campsite"
@@ -2772,20 +2753,7 @@
    "1993-wales-llanbrynmair-barmouth-dinas-festiniog-ardudwy"
   ],
   "ambiguous": false,
-  "alternates": [
-   {
-    "display_name": "Dinas, Llanberis, Gwynedd, Wales, LL55 4EF, United Kingdom",
-    "lon": -4.1432298,
-    "lat": 53.1165128,
-    "type": "undefined/peak"
-   },
-   {
-    "display_name": "Dinas, Beddgelert, Gwynedd, Wales, LL55 4NF, United Kingdom",
-    "lon": -4.100434,
-    "lat": 53.0182869,
-    "type": "undefined/peak"
-   }
-  ]
+  "alternates": []
  },
  "llyn-celyn-wales|gb": {
   "place_id": "llyn-celyn-wales",
@@ -3451,18 +3419,14 @@
  },
  "dinas-near-llanbedr-gwynedd-wales-uk|gb": {
   "place_id": "dinas-near-llanbedr-gwynedd-wales-uk",
-  "normalized_name": "Dinas, near Llanbedr, Gwynedd, Wales, UK",
-  "display_name": "Dinas, Lôn Eifion, Llanwnda, Llanfaglan, Bontnewydd, Gwynedd, Wales, LL54 5UD, United Kingdom",
-  "lon": -4.2769864,
-  "lat": 53.1035053,
-  "country": "gb",
+  "normalized_name": "Dinas Farm, Llanbedr",
+  "display_name": "Dinas Farm, Llanbedr",
+  "lon": -4.0645315,
+  "lat": 52.842303,
+  "country": "GB",
   "precision": "locality",
-  "curated": false,
-  "source": "nominatim",
-  "query": "Dinas, , Gwynedd, Wales, UK",
-  "osm_type": "node",
-  "osm_id": 736929512,
-  "nominatim_type": "undefined/station",
+  "curated": true,
+  "source": "curated_places.json",
   "original_wordings": [
    "Dinas"
   ],
@@ -3470,20 +3434,7 @@
    "1991-dinas-wales-via-wroxeter-tallybont-whitsun"
   ],
   "ambiguous": false,
-  "alternates": [
-   {
-    "display_name": "Dinas, Llanberis, Gwynedd, Wales, LL55 4EF, United Kingdom",
-    "lon": -4.1432298,
-    "lat": 53.1165128,
-    "type": "undefined/peak"
-   },
-   {
-    "display_name": "Dinas, Beddgelert, Gwynedd, Wales, LL55 4NF, United Kingdom",
-    "lon": -4.100434,
-    "lat": 53.0182869,
-    "type": "undefined/peak"
-   }
-  ]
+  "alternates": []
  },
  "tal-y-bont-gwynedd-wales-uk|gb": {
   "place_id": "tal-y-bont-gwynedd-wales-uk",
@@ -11772,7 +11723,7 @@
  },
  "llangynach-powys-wales-uk|gb": {
   "place_id": "llangynach-powys-wales-uk",
-  "normalized_name": "Llangynach, Powys, Wales, UK",
+  "normalized_name": "Llanfrynach",
   "display_name": "Llanfrynach",
   "lon": -3.366,
   "lat": 51.933,
@@ -11791,7 +11742,7 @@
  },
  "church-near-upper-cantref-farm-powys-wales-uk|gb": {
   "place_id": "church-near-upper-cantref-farm-powys-wales-uk",
-  "normalized_name": "Church near Upper Cantref Farm, Powys, Wales, UK",
+  "normalized_name": "St Brynach's Church, Llanfrynach",
   "display_name": "St Brynach's Church, Llanfrynach",
   "lon": -3.366,
   "lat": 51.933,
@@ -17311,7 +17262,7 @@
  },
  "vigeland-sculpture-park-oslo-norway|no": {
   "place_id": "vigeland-sculpture-park-oslo-norway",
-  "normalized_name": "Vigeland Sculpture Park, Oslo, Norway",
+  "normalized_name": "Vigeland Sculpture Park (Frognerparken), Oslo",
   "display_name": "Vigeland Sculpture Park (Frognerparken), Oslo",
   "lon": 10.7036,
   "lat": 59.927,
@@ -24027,14 +23978,14 @@
  },
  "kate-and-jamie-s-farm-worcestershire-herefordshire-uk|gb": {
   "place_id": "kate-and-jamie-s-farm-worcestershire-herefordshire-uk",
-  "normalized_name": "Kate and Jamie's Farm, Worcestershire/Herefordshire, UK",
-  "display_name": null,
-  "lon": null,
-  "lat": null,
-  "country": "gb",
-  "precision": "unresolved",
-  "curated": false,
-  "source": "nominatim",
+  "normalized_name": "Brook House Farm, Avenbury",
+  "display_name": "Brook House Farm, Avenbury",
+  "lon": -2.4936528,
+  "lat": 52.1723433,
+  "country": "GB",
+  "precision": "locality",
+  "curated": true,
+  "source": "curated_places.json",
   "original_wordings": [
    "Kate & Jamie's farm"
   ],

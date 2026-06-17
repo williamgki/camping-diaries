@@ -9,6 +9,7 @@ import TripDetailPanel from './components/TripDetailPanel'
 import ScanDrawer from './components/ScanDrawer'
 import ReviewOverlay from './components/ReviewOverlay'
 import PlaybackMoments from './components/PlaybackMoments'
+import FeedbackPanel from './components/FeedbackPanel'
 
 export default function App() {
   const data = useStore((s) => s.data)
@@ -32,6 +33,7 @@ export default function App() {
         {data && selectedTripId && <TripDetailPanel />}
         {data && selectedTripId && <PlaybackMoments />}
         {data && reviewMode && <ReviewOverlay />}
+        {data && <FeedbackPanel />}
         {data && drawerPageId && <ScanDrawer />}
         {!data && !error && <div className="boot">Reading the diaries…</div>}
         {error && <div className="boot boot-error">Data not built yet — run the pipeline. ({error})</div>}

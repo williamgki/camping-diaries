@@ -34,7 +34,7 @@
    "stops": 3,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 362
+   "distance_km": 400
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -79,7 +79,7 @@
    "stops": 4,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 400
+   "distance_km": 422
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -121,13 +121,13 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 149
+   "distance_km": 147
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
-  "unresolved_stops": 2,
+  "unresolved_stops": 1,
   "boundary_flags": [],
-  "status": "review"
+  "status": "resolved"
  },
  {
   "id": "1989-northern-tour-leeds-york-hadrian-s",
@@ -163,7 +163,7 @@
    "stops": 10,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 1332
+   "distance_km": 1336
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -212,7 +212,7 @@
    "stops": 3,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 198
+   "distance_km": 228
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -255,7 +255,7 @@
    "stops": 7,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 218
+   "distance_km": 169
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -300,7 +300,7 @@
    "stops": 30,
    "excursions": 3,
    "crossings": 2,
-   "distance_km": 4486
+   "distance_km": 4497
   },
   "confidence": 0.81,
   "low_confidence_stops": 3,
@@ -347,7 +347,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 260
+   "distance_km": 224
   },
   "confidence": 0.99,
   "low_confidence_stops": 0,
@@ -392,7 +392,7 @@
    "stops": 4,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 175
+   "distance_km": 182
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -432,7 +432,7 @@
    "stops": 13,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 433
+   "distance_km": 397
   },
   "confidence": 0.9,
   "low_confidence_stops": 1,
@@ -476,7 +476,7 @@
    "stops": 6,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 463
+   "distance_km": 411
   },
   "confidence": 0.88,
   "low_confidence_stops": 1,
@@ -524,7 +524,7 @@
    "stops": 3,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 198
+   "distance_km": 196
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -569,7 +569,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 198
+   "distance_km": 174
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -612,7 +612,7 @@
    "stops": 11,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 1289
+   "distance_km": 1261
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -655,7 +655,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 443
+   "distance_km": 408
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -700,7 +700,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 704
+   "distance_km": 698
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -745,7 +745,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 438
+   "distance_km": 402
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -785,7 +785,7 @@
    "stops": 7,
    "excursions": 0,
    "crossings": 1,
-   "distance_km": 1239
+   "distance_km": 1233
   },
   "confidence": 0.89,
   "low_confidence_stops": 1,
@@ -831,7 +831,7 @@
    "stops": 25,
    "excursions": 5,
    "crossings": 2,
-   "distance_km": 3059
+   "distance_km": 3071
   },
   "confidence": 0.79,
   "low_confidence_stops": 4,
@@ -882,7 +882,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 202
+   "distance_km": 200
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -927,7 +927,7 @@
    "stops": 4,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 587
+   "distance_km": 599
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -970,7 +970,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 547
+   "distance_km": 559
   },
   "confidence": 0.82,
   "low_confidence_stops": 1,
@@ -1017,7 +1017,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 68
+   "distance_km": 79
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -1064,7 +1064,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 68
+   "distance_km": 79
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -1110,7 +1110,7 @@
    "stops": 6,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 526
+   "distance_km": 454
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -1155,7 +1155,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 203
+   "distance_km": 201
   },
   "confidence": 0.88,
   "low_confidence_stops": 1,
@@ -1200,7 +1200,7 @@
    "stops": 24,
    "excursions": 3,
    "crossings": 2,
-   "distance_km": 2793
+   "distance_km": 2796
   },
   "confidence": 0.84,
   "low_confidence_stops": 2,
@@ -1298,7 +1298,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 242
+   "distance_km": 240
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -1385,7 +1385,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 554
+   "distance_km": 566
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -1428,7 +1428,7 @@
    "stops": 5,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 442
+   "distance_km": 454
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -1479,7 +1479,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 68
+   "distance_km": 79
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -1568,7 +1568,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 201
+   "distance_km": 180
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -1611,7 +1611,7 @@
    "stops": 4,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 541
+   "distance_km": 505
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -1656,7 +1656,7 @@
    "stops": 33,
    "excursions": 3,
    "crossings": 2,
-   "distance_km": 4131
+   "distance_km": 4143
   },
   "confidence": 0.82,
   "low_confidence_stops": 4,
@@ -1710,7 +1710,7 @@
    "stops": 9,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 612
+   "distance_km": 600
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -1752,7 +1752,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 207
+   "distance_km": 205
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -1794,7 +1794,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 368
+   "distance_km": 366
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -1835,7 +1835,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 106
+   "distance_km": 105
   },
   "confidence": 0.88,
   "low_confidence_stops": 1,
@@ -1879,7 +1879,7 @@
    "stops": 7,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 518
+   "distance_km": 442
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -1927,7 +1927,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 448
+   "distance_km": 424
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -1971,7 +1971,7 @@
    "stops": 7,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 361
+   "distance_km": 325
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -2013,7 +2013,7 @@
    "stops": 20,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 1101
+   "distance_km": 1066
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -2065,7 +2065,7 @@
    "stops": 15,
    "excursions": 4,
    "crossings": 1,
-   "distance_km": 2296
+   "distance_km": 2307
   },
   "confidence": 0.83,
   "low_confidence_stops": 1,
@@ -2120,7 +2120,7 @@
    "stops": 4,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 424
+   "distance_km": 436
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -2163,7 +2163,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 81
+   "distance_km": 94
   },
   "confidence": 0.99,
   "low_confidence_stops": 0,
@@ -2207,7 +2207,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 60
+   "distance_km": 42
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -2251,7 +2251,7 @@
    "stops": 8,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 432
+   "distance_km": 430
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -2299,7 +2299,7 @@
    "stops": 5,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 458
+   "distance_km": 456
   },
   "confidence": 0.86,
   "low_confidence_stops": 1,
@@ -2341,7 +2341,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 573
+   "distance_km": 561
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -2385,7 +2385,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 552
+   "distance_km": 564
   },
   "confidence": 0.88,
   "low_confidence_stops": 0,
@@ -2440,7 +2440,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 222
+   "distance_km": 234
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -2485,7 +2485,7 @@
    "stops": 6,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 711
+   "distance_km": 675
   },
   "confidence": 0.84,
   "low_confidence_stops": 1,
@@ -2529,7 +2529,7 @@
    "stops": 9,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 383
+   "distance_km": 382
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -2575,7 +2575,7 @@
    "stops": 7,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 556
+   "distance_km": 554
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -2617,7 +2617,7 @@
    "stops": 3,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 374
+   "distance_km": 385
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -2663,7 +2663,7 @@
    "stops": 34,
    "excursions": 1,
    "crossings": 2,
-   "distance_km": 4953
+   "distance_km": 4929
   },
   "confidence": 0.87,
   "low_confidence_stops": 0,
@@ -2713,7 +2713,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 98
+   "distance_km": 62
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -2757,7 +2757,7 @@
    "stops": 5,
    "excursions": 6,
    "crossings": 0,
-   "distance_km": 322
+   "distance_km": 287
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -2801,7 +2801,7 @@
    "stops": 3,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 424
+   "distance_km": 435
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -2842,7 +2842,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 68
+   "distance_km": 79
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -2887,7 +2887,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 291
+   "distance_km": 302
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -2931,7 +2931,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 311
+   "distance_km": 322
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -2974,7 +2974,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 148
+   "distance_km": 123
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -3017,7 +3017,7 @@
    "stops": 29,
    "excursions": 6,
    "crossings": 3,
-   "distance_km": 2242
+   "distance_km": 2223
   },
   "confidence": 0.88,
   "low_confidence_stops": 0,
@@ -3063,7 +3063,7 @@
    "stops": 4,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 518
+   "distance_km": 529
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -3109,7 +3109,7 @@
    "stops": 12,
    "excursions": 1,
    "crossings": 2,
-   "distance_km": 1066
+   "distance_km": 1070
   },
   "confidence": 0.87,
   "low_confidence_stops": 0,
@@ -3153,7 +3153,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 485
+   "distance_km": 491
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -3199,7 +3199,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 136
+   "distance_km": 119
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -3244,7 +3244,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 549
+   "distance_km": 560
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -3291,7 +3291,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 317
+   "distance_km": 313
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -3334,7 +3334,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 68
+   "distance_km": 79
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -3378,7 +3378,7 @@
    "stops": 8,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 332
+   "distance_km": 296
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -3423,7 +3423,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 68
+   "distance_km": 32
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -3463,7 +3463,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 120
+   "distance_km": 132
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -3507,7 +3507,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 300
+   "distance_km": 265
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -3556,7 +3556,7 @@
    "stops": 15,
    "excursions": 3,
    "crossings": 1,
-   "distance_km": 2888
+   "distance_km": 2882
   },
   "confidence": 0.84,
   "low_confidence_stops": 1,
@@ -3608,7 +3608,7 @@
    "stops": 8,
    "excursions": 1,
    "crossings": 1,
-   "distance_km": 1466
+   "distance_km": 1454
   },
   "confidence": 0.86,
   "low_confidence_stops": 0,
@@ -3656,7 +3656,7 @@
    "stops": 3,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 375
+   "distance_km": 387
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -3692,7 +3692,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 284
+   "distance_km": 248
   },
   "confidence": 0.87,
   "low_confidence_stops": 0,
@@ -3737,7 +3737,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 284
+   "distance_km": 249
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -3784,7 +3784,7 @@
    "stops": 3,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 162
+   "distance_km": 126
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -3828,7 +3828,7 @@
    "stops": 5,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 402
+   "distance_km": 400
   },
   "confidence": 0.87,
   "low_confidence_stops": 0,
@@ -3869,7 +3869,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 67
+   "distance_km": 65
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -3912,7 +3912,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 139
+   "distance_km": 151
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -3956,7 +3956,7 @@
    "stops": 4,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 276
+   "distance_km": 241
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -3999,7 +3999,7 @@
    "stops": 3,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 424
+   "distance_km": 435
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -4089,7 +4089,7 @@
    "stops": 4,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 414
+   "distance_km": 420
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -4134,7 +4134,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 398
+   "distance_km": 379
   },
   "confidence": 0.88,
   "low_confidence_stops": 0,
@@ -4178,7 +4178,7 @@
    "stops": 10,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 785
+   "distance_km": 788
   },
   "confidence": 0.88,
   "low_confidence_stops": 1,
@@ -4231,7 +4231,7 @@
    "stops": 24,
    "excursions": 5,
    "crossings": 4,
-   "distance_km": 4037
+   "distance_km": 4049
   },
   "confidence": 0.83,
   "low_confidence_stops": 3,
@@ -4286,7 +4286,7 @@
    "stops": 4,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 294
+   "distance_km": 270
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -4327,7 +4327,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 321
+   "distance_km": 333
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -4368,7 +4368,7 @@
    "stops": 6,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 551
+   "distance_km": 563
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -4408,7 +4408,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 896
+   "distance_km": 908
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -4451,7 +4451,7 @@
    "stops": 7,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 686
+   "distance_km": 631
   },
   "confidence": 0.88,
   "low_confidence_stops": 0,
@@ -4498,7 +4498,7 @@
    "stops": 22,
    "excursions": 6,
    "crossings": 2,
-   "distance_km": 1772
+   "distance_km": 1771
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -4546,7 +4546,7 @@
    "stops": 3,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 378
+   "distance_km": 390
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -4591,7 +4591,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 646
+   "distance_km": 622
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -4677,7 +4677,7 @@
    "stops": 3,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 227
+   "distance_km": 203
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -4718,7 +4718,7 @@
    "stops": 7,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 319
+   "distance_km": 283
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -4764,7 +4764,7 @@
    "stops": 5,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 386
+   "distance_km": 397
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -4809,7 +4809,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 149
+   "distance_km": 113
   },
   "confidence": 0.88,
   "low_confidence_stops": 0,
@@ -4851,7 +4851,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 210
+   "distance_km": 225
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -4892,7 +4892,7 @@
    "stops": 3,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 344
+   "distance_km": 308
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -4934,7 +4934,7 @@
    "stops": 4,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 353
+   "distance_km": 365
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -4981,7 +4981,7 @@
    "stops": 3,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 136
+   "distance_km": 147
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -5024,7 +5024,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 453
+   "distance_km": 441
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -5064,7 +5064,7 @@
    "stops": 2,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 75
+   "distance_km": 57
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -5105,7 +5105,7 @@
    "stops": 21,
    "excursions": 3,
    "crossings": 1,
-   "distance_km": 1475
+   "distance_km": 1451
   },
   "confidence": 0.85,
   "low_confidence_stops": 2,
@@ -5152,7 +5152,7 @@
    "stops": 6,
    "excursions": 1,
    "crossings": 1,
-   "distance_km": 977
+   "distance_km": 953
   },
   "confidence": 0.77,
   "low_confidence_stops": 2,
@@ -5193,7 +5193,7 @@
    "stops": 3,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 177
+   "distance_km": 175
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -5235,7 +5235,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 68
+   "distance_km": 32
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -5279,7 +5279,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 1,
-   "distance_km": 739
+   "distance_km": 751
   },
   "confidence": 0.78,
   "low_confidence_stops": 2,
@@ -5324,7 +5324,7 @@
    "stops": 25,
    "excursions": 4,
    "crossings": 2,
-   "distance_km": 3207
+   "distance_km": 3219
   },
   "confidence": 0.87,
   "low_confidence_stops": 1,
@@ -5372,7 +5372,7 @@
    "stops": 5,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 660
+   "distance_km": 630
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -5413,7 +5413,7 @@
    "stops": 6,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 270
+   "distance_km": 268
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -5452,7 +5452,7 @@
    "stops": 8,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 606
+   "distance_km": 570
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -5502,7 +5502,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 321
+   "distance_km": 333
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -5542,7 +5542,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 289
+   "distance_km": 287
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -5582,7 +5582,7 @@
    "stops": 7,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 793
+   "distance_km": 757
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -5624,7 +5624,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 183
+   "distance_km": 163
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -5671,7 +5671,7 @@
    "stops": 18,
    "excursions": 3,
    "crossings": 2,
-   "distance_km": 2764
+   "distance_km": 2776
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -5716,7 +5716,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 332
+   "distance_km": 296
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -5764,7 +5764,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 296
+   "distance_km": 294
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -5805,7 +5805,7 @@
    "stops": 11,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 1698
+   "distance_km": 1710
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -5891,7 +5891,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 385
+   "distance_km": 397
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -5933,7 +5933,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 109
+   "distance_km": 73
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -5972,11 +5972,11 @@
    "stops": 4,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 0
+   "distance_km": 143
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
-  "unresolved_stops": 3,
+  "unresolved_stops": 2,
   "boundary_flags": [
    "mixed_start: page B_0017_L begins mid-page with a prior trip ending ('Then home.') before Saturday May 15th entry"
   ],
@@ -6017,7 +6017,7 @@
    "stops": 7,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 351
+   "distance_km": 338
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -6106,7 +6106,7 @@
    "stops": 4,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 180
+   "distance_km": 145
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -6146,7 +6146,7 @@
    "stops": 6,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 164
+   "distance_km": 129
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -6189,7 +6189,7 @@
    "stops": 45,
    "excursions": 3,
    "crossings": 3,
-   "distance_km": 3694
+   "distance_km": 3670
   },
   "confidence": 0.83,
   "low_confidence_stops": 2,
@@ -6234,7 +6234,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 93
+   "distance_km": 78
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -6273,7 +6273,7 @@
    "stops": 6,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 450
+   "distance_km": 462
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -6312,7 +6312,7 @@
    "stops": 14,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 679
+   "distance_km": 685
   },
   "confidence": 0.86,
   "low_confidence_stops": 1,
@@ -6358,7 +6358,7 @@
    "stops": 15,
    "excursions": 3,
    "crossings": 2,
-   "distance_km": 3014
+   "distance_km": 3025
   },
   "confidence": 0.79,
   "low_confidence_stops": 3,
@@ -6398,7 +6398,7 @@
    "stops": 11,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 3938
+   "distance_km": 3926
   },
   "confidence": 0.81,
   "low_confidence_stops": 1,
@@ -6445,7 +6445,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 81
+   "distance_km": 56
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -6488,7 +6488,7 @@
    "stops": 6,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 238
+   "distance_km": 235
   },
   "confidence": 0.86,
   "low_confidence_stops": 0,
@@ -6535,7 +6535,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 154
+   "distance_km": 119
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -6576,7 +6576,7 @@
    "stops": 5,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 713
+   "distance_km": 725
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -6618,7 +6618,7 @@
    "stops": 6,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 984
+   "distance_km": 971
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -6660,7 +6660,7 @@
    "stops": 29,
    "excursions": 2,
    "crossings": 2,
-   "distance_km": 3524
+   "distance_km": 3529
   },
   "confidence": 0.85,
   "low_confidence_stops": 0,
@@ -6745,7 +6745,7 @@
    "stops": 6,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 146
+   "distance_km": 126
   },
   "confidence": 0.88,
   "low_confidence_stops": 1,
@@ -6782,7 +6782,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 149
+   "distance_km": 113
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -6823,7 +6823,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 265
+   "distance_km": 229
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -6864,7 +6864,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 265
+   "distance_km": 229
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -6907,7 +6907,7 @@
    "stops": 25,
    "excursions": 6,
    "crossings": 2,
-   "distance_km": 4156
+   "distance_km": 4168
   },
   "confidence": 0.86,
   "low_confidence_stops": 1,
@@ -6987,7 +6987,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 387
+   "distance_km": 375
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -7025,7 +7025,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 300
+   "distance_km": 312
   },
   "confidence": 0.99,
   "low_confidence_stops": 0,
@@ -7137,7 +7137,7 @@
    "stops": 4,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 152
+   "distance_km": 117
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -7179,7 +7179,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 275
+   "distance_km": 240
   },
   "confidence": 0.87,
   "low_confidence_stops": 0,
@@ -7225,7 +7225,7 @@
    "stops": 27,
    "excursions": 2,
    "crossings": 1,
-   "distance_km": 5547
+   "distance_km": 5535
   },
   "confidence": 0.81,
   "low_confidence_stops": 4,
@@ -7311,7 +7311,7 @@
    "stops": 11,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 676
+   "distance_km": 688
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -7349,7 +7349,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 506
+   "distance_km": 470
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -7468,7 +7468,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 109
+   "distance_km": 73
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -7507,7 +7507,7 @@
    "stops": 13,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 1817
+   "distance_km": 1829
   },
   "confidence": 0.85,
   "low_confidence_stops": 2,
@@ -7549,7 +7549,7 @@
    "stops": 6,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 257
+   "distance_km": 243
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -7589,7 +7589,7 @@
    "stops": 4,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 721
+   "distance_km": 715
   },
   "confidence": 0.88,
   "low_confidence_stops": 0,
@@ -7631,7 +7631,7 @@
    "stops": 8,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 526
+   "distance_km": 507
   },
   "confidence": 0.87,
   "low_confidence_stops": 1,
@@ -7675,7 +7675,7 @@
    "stops": 6,
    "excursions": 1,
    "crossings": 1,
-   "distance_km": 1295
+   "distance_km": 1306
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -7715,7 +7715,7 @@
    "stops": 8,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 408
+   "distance_km": 372
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -7754,7 +7754,7 @@
    "stops": 9,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 1160
+   "distance_km": 1124
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -7832,7 +7832,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 141
+   "distance_km": 105
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -7915,7 +7915,7 @@
    "stops": 23,
    "excursions": 6,
    "crossings": 3,
-   "distance_km": 5176
+   "distance_km": 5188
   },
   "confidence": 0.81,
   "low_confidence_stops": 4,
@@ -7959,7 +7959,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 493
+   "distance_km": 505
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -7999,7 +7999,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 395
+   "distance_km": 360
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -8080,7 +8080,7 @@
    "stops": 20,
    "excursions": 3,
    "crossings": 2,
-   "distance_km": 2077
+   "distance_km": 2070
   },
   "confidence": 0.84,
   "low_confidence_stops": 1,
@@ -8121,7 +8121,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 275
+   "distance_km": 240
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -8161,7 +8161,7 @@
    "stops": 9,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 604
+   "distance_km": 580
   },
   "confidence": 0.88,
   "low_confidence_stops": 0,
@@ -8208,7 +8208,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 413
+   "distance_km": 388
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -8249,7 +8249,7 @@
    "stops": 3,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 377
+   "distance_km": 342
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -8290,7 +8290,7 @@
    "stops": 6,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 304
+   "distance_km": 280
   },
   "confidence": 0.85,
   "low_confidence_stops": 1,
@@ -8335,7 +8335,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 203
+   "distance_km": 171
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -8373,7 +8373,7 @@
    "stops": 11,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 806
+   "distance_km": 782
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -8414,7 +8414,7 @@
    "stops": 4,
    "excursions": 5,
    "crossings": 0,
-   "distance_km": 474
+   "distance_km": 486
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -8455,7 +8455,7 @@
    "stops": 21,
    "excursions": 5,
    "crossings": 2,
-   "distance_km": 3929
+   "distance_km": 3923
   },
   "confidence": 0.79,
   "low_confidence_stops": 5,
@@ -8493,7 +8493,7 @@
    "stops": 6,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 602
+   "distance_km": 614
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -8533,7 +8533,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 92
+   "distance_km": 56
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -8573,7 +8573,7 @@
    "stops": 4,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 321
+   "distance_km": 333
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -8616,7 +8616,7 @@
    "stops": 3,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 65
+   "distance_km": 60
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -8656,7 +8656,7 @@
    "stops": 24,
    "excursions": 6,
    "crossings": 2,
-   "distance_km": 2912
+   "distance_km": 2924
   },
   "confidence": 0.8,
   "low_confidence_stops": 5,
@@ -8704,7 +8704,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 272
+   "distance_km": 283
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -8744,7 +8744,7 @@
    "stops": 6,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 231
+   "distance_km": 242
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -8784,7 +8784,7 @@
    "stops": 5,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 295
+   "distance_km": 260
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -8825,7 +8825,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 143
+   "distance_km": 108
   },
   "confidence": 0.99,
   "low_confidence_stops": 0,
@@ -8863,7 +8863,7 @@
    "stops": 6,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 621
+   "distance_km": 586
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -8941,7 +8941,7 @@
    "stops": 8,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 668
+   "distance_km": 644
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -8982,7 +8982,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 409
+   "distance_km": 403
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -9022,7 +9022,7 @@
    "stops": 6,
    "excursions": 5,
    "crossings": 0,
-   "distance_km": 887
+   "distance_km": 875
   },
   "confidence": 0.84,
   "low_confidence_stops": 1,
@@ -9069,7 +9069,7 @@
    "stops": 3,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 177
+   "distance_km": 141
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -9083,7 +9083,7 @@
  {
   "id": "2017-farm-camping-with-john-kay-john",
   "slug": "2017-farm-camping-with-john-kay-john",
-  "title": "Farm & Camping with John & Kay (John's 30th)",
+  "title": "Farm & Camping with John & Kaz (John's 30th)",
   "volume": "B",
   "start_date": "2017-08-16",
   "end_date": null,
@@ -9097,7 +9097,7 @@
   "countries": [
    "GB"
   ],
-  "summary": "On Wednesday 16 August 2017, Simon, Eve and the dog Tinder left home in Birmingham bound for a hop farm (location unidentified) and then a camping trip with friends John & Kay to celebrate John's 30th birthday. The diary page is truncated at the boundary with another trip, so the campsite location, full itinerary and return date are unknown.",
+  "summary": "On Wednesday 16 August 2017, Simon, Eve and the dog Tinder left home in Birmingham bound for a hop farm (location unidentified) and then a camping trip with friends John & Kaz to celebrate John's 30th birthday. The diary page is truncated at the boundary with another trip, so the campsite location, full itinerary and return date are unknown.",
   "diary_pages": [
    113,
    113
@@ -9110,7 +9110,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 520
+   "distance_km": 529
   },
   "confidence": 0.66,
   "low_confidence_stops": 2,
@@ -9140,7 +9140,7 @@
   "countries": [
    "GB"
   ],
-  "summary": "Simon, Eve and Tinder departed Birmingham on Wednesday 16 August 2017, stopping first at an unnamed hop farm in Herefordshire (where William had worked on the new hop barn) before travelling via Tintern Abbey and an overnight at Almondsbury. They then drove on through Clevedon and Axbridge to Greenacres campsite near Compton Martin in Somerset, where they were joined by John and Kay (and later Charles and Jenny) to celebrate John's 30th birthday on Saturday 19 August with walks and dinner at the Pony & Trap.",
+  "summary": "Simon, Eve and Tinder departed Birmingham on Wednesday 16 August 2017, stopping first at an unnamed hop farm in Herefordshire (where William had worked on the new hop barn) before travelling via Tintern Abbey and an overnight at Almondsbury. They then drove on through Clevedon and Axbridge to Greenacres campsite near Compton Martin in Somerset, where they were joined by John and Kaz (and later Charles and Jenny) to celebrate John's 30th birthday on Saturday 19 August with walks and dinner at the Pony & Trap.",
   "diary_pages": [
    113,
    115
@@ -9153,7 +9153,7 @@
    "stops": 8,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 773
+   "distance_km": 762
   },
   "confidence": 0.88,
   "low_confidence_stops": 1,
@@ -9196,7 +9196,7 @@
    "stops": 26,
    "excursions": 4,
    "crossings": 2,
-   "distance_km": 4259
+   "distance_km": 4253
   },
   "confidence": 0.86,
   "low_confidence_stops": 1,
@@ -9246,7 +9246,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 18
+   "distance_km": 17
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -9327,7 +9327,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 296
+   "distance_km": 278
   },
   "confidence": 0.89,
   "low_confidence_stops": 0,
@@ -9407,7 +9407,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 422
+   "distance_km": 398
   },
   "confidence": 0.98,
   "low_confidence_stops": 0,
@@ -9447,7 +9447,7 @@
    "stops": 6,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 222
+   "distance_km": 186
   },
   "confidence": 0.87,
   "low_confidence_stops": 0,
@@ -9487,7 +9487,7 @@
    "stops": 28,
    "excursions": 3,
    "crossings": 2,
-   "distance_km": 3227
+   "distance_km": 3221
   },
   "confidence": 0.83,
   "low_confidence_stops": 2,
@@ -9528,7 +9528,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 351
+   "distance_km": 287
   },
   "confidence": 0.87,
   "low_confidence_stops": 0,
@@ -9570,7 +9570,7 @@
    "stops": 6,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 1212
+   "distance_km": 1210
   },
   "confidence": 0.78,
   "low_confidence_stops": 2,
@@ -9586,7 +9586,7 @@
  {
   "id": "2018-wales-ross-on-wye-caerleon-penn",
   "slug": "2018-wales-ross-on-wye-caerleon-penn",
-  "title": "Wales: Ross-on-Wye, Caerleon & Penn Onn (John & Kay's New House)",
+  "title": "Wales: Ross-on-Wye, Caerleon & Penn Onn (John & Kaz's New House)",
   "volume": "B",
   "start_date": "2018-04-13",
   "end_date": "2018-04-14",
@@ -9600,7 +9600,7 @@
   "countries": [
    "GB"
   ],
-  "summary": "A two-day Easter break (April 13–14, 2018) in which Simon, Eve, and Tinder drove from Birmingham to Wales, stopping at Ross-on-Wye for lunch at the Man of Ross and visiting the Roman remains at Caerleon before overnighting at White House Farm campsite. The following day they joined John, Kay, Charles, Peter, and others at John and Kay's new house at Penn Onn, Vale of Glamorgan, with a visit to St Fagans National Museum of History to see St Teilo's Church.",
+  "summary": "A two-day Easter break (April 13–14, 2018) in which Simon, Eve, and Tinder drove from Birmingham to Wales, stopping at Ross-on-Wye for lunch at the Man of Ross and visiting the Roman remains at Caerleon before overnighting at White House Farm campsite. The following day they joined John, Kaz, Charles, Peter, and others at John and Kaz's new house at Penn Onn, Vale of Glamorgan, with a visit to St Fagans National Museum of History to see St Teilo's Church.",
   "diary_pages": [
    303,
    304
@@ -9613,7 +9613,7 @@
    "stops": 7,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 421
+   "distance_km": 402
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -9653,7 +9653,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 72
+   "distance_km": 67
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -9693,7 +9693,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 256
+   "distance_km": 221
   },
   "confidence": 0.88,
   "low_confidence_stops": 0,
@@ -9720,7 +9720,7 @@
   "countries": [
    "GB"
   ],
-  "summary": "A short domestic gathering trip in May 2019: Simon and Eve (with Tinder) drove from Birmingham to 'Athen Plains' near Dursley, Gloucestershire, after attending Charles Forsall's memorial service. The extended family assembled there over the weekend, with highlights including John and Kay's announcement of a pregnancy scan and the arrival of William, Gioconda, and others on Saturday.",
+  "summary": "A short domestic gathering trip in May 2019: Simon and Eve (with Tinder) drove from Birmingham to 'Athen Plains' near Dursley, Gloucestershire, after attending Charles Forsall's memorial service. The extended family assembled there over the weekend, with highlights including John and Kaz's announcement of a pregnancy scan and the arrival of William, Gioconda, and others on Saturday.",
   "diary_pages": [
    null,
    null
@@ -9733,7 +9733,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 250
+   "distance_km": 215
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -9773,7 +9773,7 @@
    "stops": 32,
    "excursions": 4,
    "crossings": 2,
-   "distance_km": 4797
+   "distance_km": 4809
   },
   "confidence": 0.81,
   "low_confidence_stops": 4,
@@ -9858,7 +9858,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 282
+   "distance_km": 276
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -9897,7 +9897,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 1010
+   "distance_km": 1008
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -9943,7 +9943,7 @@
    "stops": 5,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 566
+   "distance_km": 578
   },
   "confidence": 0.97,
   "low_confidence_stops": 0,
@@ -9973,7 +9973,7 @@
   "countries": [
    "GB"
   ],
-  "summary": "Simon and Eve (with Tinder) joined Peter, John, Kay and family at Penn Onn near Llantwit Major, South Wales, for a Friday-night gathering including a birthday celebration for John. On Saturday they visited the ancient St Illtud's Church at Llanilltud Fawr, then Simon and Eve drove north to camp in a van near Merthyr Cynog, 10 miles beyond Brecon, spending Sunday walking in the hills despite cold and rain.",
+  "summary": "Simon and Eve (with Tinder) joined Peter, John, Kaz and family at Penn Onn near Llantwit Major, South Wales, for a Friday-night gathering including a birthday celebration for John. On Saturday they visited the ancient St Illtud's Church at Llanilltud Fawr, then Simon and Eve drove north to camp in a van near Merthyr Cynog, 10 miles beyond Brecon, spending Sunday walking in the hills despite cold and rain.",
   "diary_pages": [
    334,
    335
@@ -9986,7 +9986,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 315
+   "distance_km": 279
   },
   "confidence": 0.9,
   "low_confidence_stops": 0,
@@ -10028,7 +10028,7 @@
    "stops": 7,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 273
+   "distance_km": 244
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -10066,7 +10066,7 @@
    "stops": 5,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 353
+   "distance_km": 282
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -10077,7 +10077,7 @@
  {
   "id": "2020-monmouth-3-horseshoes-john-kay-eben",
   "slug": "2020-monmouth-3-horseshoes-john-kay-eben",
-  "title": "Monmouth: 3 Horseshoes, John & Kay & Eben (Symonds Yat)",
+  "title": "Monmouth: 3 Horseshoes, John & Kaz & Eben (Symonds Yat)",
   "volume": "B",
   "start_date": "2020-09-27",
   "end_date": "2020-09-27",
@@ -10091,7 +10091,7 @@
   "countries": [
    "GB"
   ],
-  "summary": "A single-day outing on 27 September 2020 from Birmingham to Monmouth, where Simon and Eve (with Tinder) met John, Kay and Eben at the 3 Horseshoes pub for a pub lunch and then visited John and Kay's house for tea. The return journey home passed via a field with a view of Symonds Yat.",
+  "summary": "A single-day outing on 27 September 2020 from Birmingham to Monmouth, where Simon and Eve (with Tinder) met John, Kaz and Eben at the 3 Horseshoes pub for a pub lunch and then visited John and Kaz's house for tea. The return journey home passed via a field with a view of Symonds Yat.",
   "diary_pages": null,
   "pdf_spreads": [
    "B_0339",
@@ -10101,7 +10101,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 270
+   "distance_km": 235
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -10141,7 +10141,7 @@
    "stops": 10,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 604
+   "distance_km": 616
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -10166,7 +10166,7 @@
   "countries": [
    "GB"
   ],
-  "summary": "A short overnight trip by Simon and Eve (with dog Tinder) to New House Farm campsite near Ross on Wye in Herefordshire, departing from Birmingham on the afternoon of Friday 10 July 2020 and setting off the following morning. The Saturday destination — 'John & Kay & Eben' — is a personal names reference and could not be resolved to a place.",
+  "summary": "A short overnight trip by Simon and Eve (with dog Tinder) to New House Farm campsite near Ross on Wye in Herefordshire, departing from Birmingham on the afternoon of Friday 10 July 2020 and setting off the following morning. The Saturday destination — 'John & Kaz & Eben' — is a personal names reference and could not be resolved to a place.",
   "diary_pages": [
    38,
    38
@@ -10179,7 +10179,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 591
+   "distance_km": 603
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -10216,7 +10216,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 250
+   "distance_km": 261
   },
   "confidence": 0.88,
   "low_confidence_stops": 0,
@@ -10256,7 +10256,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 177
+   "distance_km": 141
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -10294,7 +10294,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 178
+   "distance_km": 142
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -10325,7 +10325,7 @@
   "countries": [
    "GB"
   ],
-  "summary": "A summer week at Thorpeness in Suffolk in July 2020, with most of the family (Charles absent) travelling via Wimpole Hall where they met up with John, Kay and Eben for a socially-distanced lunch in the gardens. Simon and Eve made a day trip to Oxford on the Saturday.",
+  "summary": "A summer week at Thorpeness in Suffolk in July 2020, with most of the family (Charles absent) travelling via Wimpole Hall where they met up with John, Kaz and Eben for a socially-distanced lunch in the gardens. Simon and Eve made a day trip to Oxford on the Saturday.",
   "diary_pages": [
    338,
    338
@@ -10338,7 +10338,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 581
+   "distance_km": 593
   },
   "confidence": 0.94,
   "low_confidence_stops": 0,
@@ -10381,7 +10381,7 @@
    "stops": 9,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 804
+   "distance_km": 808
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -10416,7 +10416,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 336
+   "distance_km": 302
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -10495,7 +10495,7 @@
    "stops": 6,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 1106
+   "distance_km": 1129
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -10533,7 +10533,7 @@
    "stops": 4,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 541
+   "distance_km": 506
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -10572,7 +10572,7 @@
    "stops": 8,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 438
+   "distance_km": 436
   },
   "confidence": 0.92,
   "low_confidence_stops": 0,
@@ -10612,7 +10612,7 @@
    "stops": 9,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 508
+   "distance_km": 497
   },
   "confidence": 0.85,
   "low_confidence_stops": 1,
@@ -10651,7 +10651,7 @@
    "stops": 5,
    "excursions": 4,
    "crossings": 0,
-   "distance_km": 405
+   "distance_km": 403
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -10685,7 +10685,7 @@
    "stops": 5,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 584
+   "distance_km": 596
   },
   "confidence": 0.96,
   "low_confidence_stops": 0,
@@ -10730,7 +10730,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 638
+   "distance_km": 602
   },
   "confidence": 0.99,
   "low_confidence_stops": 0,
@@ -10770,7 +10770,7 @@
    "stops": 6,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 629
+   "distance_km": 641
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -10806,7 +10806,7 @@
    "stops": 3,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 547
+   "distance_km": 559
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -10845,7 +10845,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 740
+   "distance_km": 738
   },
   "confidence": 0.93,
   "low_confidence_stops": 0,
@@ -10884,7 +10884,7 @@
    "stops": 4,
    "excursions": 0,
    "crossings": 0,
-   "distance_km": 77
+   "distance_km": 61
   },
   "confidence": 0.91,
   "low_confidence_stops": 0,
@@ -10967,7 +10967,7 @@
    "stops": 13,
    "excursions": 2,
    "crossings": 1,
-   "distance_km": 1849
+   "distance_km": 1855
   },
   "confidence": 0.82,
   "low_confidence_stops": 1,
@@ -11013,7 +11013,7 @@
    "stops": 4,
    "excursions": 1,
    "crossings": 0,
-   "distance_km": 302
+   "distance_km": 267
   },
   "confidence": 1,
   "low_confidence_stops": 0,
@@ -11053,7 +11053,7 @@
    "stops": 4,
    "excursions": 3,
    "crossings": 0,
-   "distance_km": 177
+   "distance_km": 179
   },
   "confidence": 0.95,
   "low_confidence_stops": 0,
@@ -11132,7 +11132,7 @@
    "stops": 3,
    "excursions": 2,
    "crossings": 0,
-   "distance_km": 1106
+   "distance_km": 1104
   },
   "confidence": 0.99,
   "low_confidence_stops": 0,

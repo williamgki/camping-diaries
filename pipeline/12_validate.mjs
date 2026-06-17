@@ -75,10 +75,11 @@ for (const r of routes) {
   }
 }
 
-// Rule 5: place sanity — coordinates inside Europe bbox (schema), home anchor is Birmingham city.
-const home = Object.values(places).find((p) => p.normalized_name?.toLowerCase().startsWith('birmingham'))
-if (home && (Math.abs(home.lat - 52.48) > 0.2 || Math.abs(home.lon - -1.89) > 0.3))
-  errors.push(`home anchor not at Birmingham city: ${home.lat},${home.lon}`)
+// Rule 5: home anchor is the family house, 86 Westfield Road, Edgbaston (B15 3JG).
+const home = places['birmingham-uk']
+if (!home) errors.push('home place (birmingham-uk) missing')
+else if (Math.abs(home.lat - 52.4647) > 0.05 || Math.abs(home.lon - -1.9424) > 0.05)
+  errors.push(`home anchor not at 86 Westfield Road: ${home.lat},${home.lon}`)
 
 // Rule 6 (warnings): inferred crossings should be queued or marked.
 for (const r of routes) {

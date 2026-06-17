@@ -7,6 +7,7 @@
 import { readFileSync, readdirSync, writeFileSync, existsSync, mkdirSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
 import { dirname, join } from 'node:path'
+import { applyNames } from './glossary_names.mjs'
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..')
 const OUT = join(ROOT, 'public/data/moments')
@@ -73,7 +74,7 @@ for (const trip of trips) {
     imgs.sort((a, b) => (a.type === 'map' || a.type === 'ticket' ? 1 : 0) - (b.type === 'map' || b.type === 'ticket' ? 1 : 0))
     const images = imgs.slice(0, 3)
 
-    const quote = quoteBySeq[s.seq] ?? s.excerpt ?? null
+    const quote = applyNames(quoteBySeq[s.seq] ?? s.excerpt ?? null)
     if (!quote && images.length === 0) continue // nothing to show at this stop
 
     moments.push({
@@ -81,18 +82,18 @@ for (const trip of trips) {
       place_id: s.place_id,
       lon: s.place.lon,
       lat: s.place.lat,
-      place: s.place.normalized_name,
+      place: applyNames(s.place.normalized_name),
       date: trip.start_date ?? (trip.year ? String(trip.year) : null),
       role: s.role,
       quote,
-      images,
+      images: images.map((im) => ({ ...im, caption: applyNames(im.caption) })),
     })
     totalImages += images.length
   }
 
   const out = {
     trip_id: trip.id,
-    epigraph: quotes?.epigraph?.quote ? { quote: quotes.epigraph.quote } : null,
+    epigraph: quotes?.epigraph?.quote ? { quote: applyNames(quotes.epigraph.quote) } : null,
     moments,
   }
   writeFileSync(join(OUT, `${trip.id}.json`), JSON.stringify(out))

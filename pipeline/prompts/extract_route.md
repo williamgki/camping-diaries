@@ -16,9 +16,11 @@ explicit. Never invent route details.**
 
 ## Stop roles
 
-- `home` — Birmingham (the family home). Unless the diary shows otherwise,
-  every trip starts and ends at home. Use "Birmingham, UK" (city anchor) —
-  never the street address.
+- `home` — the family home, 86 Westfield Road, Edgbaston, Birmingham B15 3JG.
+  Unless the diary shows otherwise, every trip starts and ends at home. Use
+  normalized_name "Birmingham, UK" (the pipeline relabels/relocates the home to
+  86 Westfield Road via the glossary; keep the wording "Birmingham, UK" here so
+  the home place_id stays stable).
 - `departure` — explicit non-home start (rare)
 - `overnight_base` — slept there (campsite, friend's house, fixed base)
 - `main_stop` — visited on the way as part of the journey's progression

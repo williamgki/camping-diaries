@@ -1,0 +1,42 @@
+{
+  "_comment": "Family glossary — the shared control point for corrections. `places` is keyed by the slug of a stop's normalized_name (same key 09_geocode uses) and overrides geocoding. `names` are verbatim-text substitutions applied to visible strings at assemble/moments time. Seeded from family feedback (2026-06); extend by promoting `suggestions/` items here.",
+  "home": {
+    "place_id": "birmingham-uk",
+    "name": "86 Westfield Road, Edgbaston",
+    "postcode": "B15 3JG",
+    "lon": -1.9424432,
+    "lat": 52.4646734,
+    "note": "Family home — start & end of every trip (Peter/William)."
+  },
+  "places": {
+    "birmingham-uk": {
+      "name": "86 Westfield Road, Edgbaston",
+      "lon": -1.9424432, "lat": 52.4646734, "country": "GB", "precision": "exact",
+      "note": "Home (B15 3JG) — replaces the Birmingham city-centre anchor."
+    },
+    "dinas-camp-near-harlech-wales": {
+      "name": "Dinas Farm, Llanbedr", "lon": -4.0645315, "lat": 52.8423030,
+      "country": "GB", "precision": "locality",
+      "note": "Simon: the family's Welsh campsite, inland from Llanbedr (not the common Dinas hamlet)."
+    },
+    "dinas-gwynedd-wales": {
+      "name": "Dinas Farm, Llanbedr", "lon": -4.0645315, "lat": 52.8423030,
+      "country": "GB", "precision": "locality", "note": "Same Dinas campsite near Llanbedr."
+    },
+    "dinas-near-llanbedr-gwynedd-wales-uk": {
+      "name": "Dinas Farm, Llanbedr", "lon": -4.0645315, "lat": 52.8423030,
+      "country": "GB", "precision": "locality", "note": "Same Dinas campsite near Llanbedr."
+    },
+    "kate-jamie-s-farm": {
+      "name": "Brook House Farm, Avenbury", "lon": -2.4936528, "lat": 52.1723433,
+      "country": "GB", "precision": "locality", "note": "Simon/John: Kate & Jamie's farm = Brook House Farm, Avenbury (Bromyard)."
+    },
+    "kate-and-jamie-s-farm-worcestershire-herefordshire-uk": {
+      "name": "Brook House Farm, Avenbury", "lon": -2.4936528, "lat": 52.1723433,
+      "country": "GB", "precision": "locality", "note": "Same — Kate & Jamie's farm."
+    }
+  },
+  "names": [
+    { "from": "Kay", "to": "Kaz", "unless_followed_by": ["Knapton"], "note": "John's partner — diary spelt 'Kaz', transcribed inconsistently as 'Kay'." }
+  ]
+}

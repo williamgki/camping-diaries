@@ -10,6 +10,8 @@ export default function TopBar() {
   const toggleLayer = useStore((s) => s.toggleLayer)
   const reviewMode = useStore((s) => s.reviewMode)
   const setReviewMode = useStore((s) => s.setReviewMode)
+  const feedbackOpen = useStore((s) => s.feedbackOpen)
+  const setFeedbackOpen = useStore((s) => s.setFeedbackOpen)
   const [filtersOpen, setFiltersOpen] = useState(false)
 
   const countries = useMemo(
@@ -53,6 +55,13 @@ export default function TopBar() {
           title="Show extraction evidence, confidence and corrections"
         >
           Review
+        </button>
+        <button
+          className={`btn ${feedbackOpen ? 'btn-active' : ''}`}
+          onClick={() => setFeedbackOpen(!feedbackOpen)}
+          title="Suggest a correction or addition"
+        >
+          Suggest
         </button>
       </div>
       {filtersOpen && (

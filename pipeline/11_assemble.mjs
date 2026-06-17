@@ -9,6 +9,8 @@ import { fileURLToPath } from 'node:url'
 import { dirname, join, basename } from 'node:path'
 import { createRequire } from 'node:module'
 
+import { applyNames } from './glossary_names.mjs'
+
 const require = createRequire(import.meta.url)
 const polyline = require('@mapbox/polyline')
 const MiniSearch = require('minisearch')
@@ -54,15 +56,15 @@ const placesOut = {}
 for (const p of Object.values(geocoded)) {
   placesOut[p.place_id] = {
     place_id: p.place_id,
-    normalized_name: p.normalized_name,
-    display_name: p.display_name,
+    normalized_name: applyNames(p.normalized_name),
+    display_name: applyNames(p.display_name),
     lon: p.lon,
     lat: p.lat,
     country: p.country,
     precision: p.precision,
     curated: p.curated,
     source: p.source,
-    original_wordings: p.original_wordings,
+    original_wordings: (p.original_wordings ?? []).map(applyNames),
     ambiguous: p.ambiguous,
     alternates: p.alternates,
     trips: p.trips,
@@ -92,8 +94,8 @@ for (const trip of trips) {
       seq: s.seq,
       place_id: pid,
       role: resolved ? s.role : s.role === 'home' ? 'home' : 'unresolved',
-      original_wording: s.original_wording,
-      excerpt: s.excerpt,
+      original_wording: applyNames(s.original_wording),
+      excerpt: applyNames(s.excerpt),
       source_page_id: s.source_page_id,
       confidence: s.confidence,
       approximate: s.approximate ?? place?.precision === 'region_anchor',
@@ -107,13 +109,13 @@ for (const trip of trips) {
       trip_id: trip.trip_id,
       excursion_id: `${trip.trip_id}-ex${i}`,
       base_place_id: base ? (resolvePlace(base)?.place_id ?? null) : null,
-      label: ex.label,
+      label: applyNames(ex.label),
       date_guess: ex.date_guess ?? null,
       stops: (ex.stops ?? []).map((s) => ({
         place_id: resolvePlace(s)?.place_id ?? slug(s.normalized_name ?? 'unknown'),
-        normalized_name: s.normalized_name,
-        original_wording: s.original_wording,
-        excerpt: s.excerpt,
+        normalized_name: applyNames(s.normalized_name),
+        original_wording: applyNames(s.original_wording),
+        excerpt: applyNames(s.excerpt),
         source_page_id: s.source_page_id,
         confidence: s.confidence,
         resolved: !!resolvePlace(s),
@@ -144,15 +146,15 @@ for (const trip of trips) {
   tripsOut.push({
     id: trip.trip_id,
     slug: trip.trip_id,
-    title: trip.title,
+    title: applyNames(trip.title),
     volume: trip.volume,
     start_date: trip.date_start ?? null,
     end_date: trip.date_end ?? null,
     year: trip.date_start ? Number(String(trip.date_start).slice(0, 4)) : null,
     date_precision: trip.date_precision ?? 'year',
-    travellers: trip.travellers ?? [],
+    travellers: (trip.travellers ?? []).map(applyNames),
     countries: trip.countries ?? [],
-    summary: trip.summary ?? '',
+    summary: applyNames(trip.summary ?? ''),
     diary_pages: trip.diary_page_range ?? null,
     pdf_spreads: sRange,
     stats: {
@@ -383,10 +385,20 @@ for (const p of Object.values(placesOut)) docs.push({ id: `place:${p.place_id}`,
 for (const [sid, t] of Object.entries(transcripts))
   for (const pg of t.pages ?? []) {
     if (!pg.full_text) continue
-    docs.push({ id: `page:${pg.page_id ?? sid + '_' + pg.side}`, type: 'page', title: `${sid} p.${pg.handwritten_page_no ?? '?'}`, text: pg.full_text.slice(0, 4000), trip_id: null, page_id: pg.page_id ?? `${sid}_${pg.side}` })
+    docs.push({ id: `page:${pg.page_id ?? sid + '_' + pg.side}`, type: 'page', title: `${sid} p.${pg.handwritten_page_no ?? '?'}`, text: applyNames(pg.full_text.slice(0, 4000)), trip_id: null, page_id: pg.page_id ?? `${sid}_${pg.side}` })
   }
 mini.addAll(docs)
 writeFileSync(join(PUB, 'search_index.json'), JSON.stringify(mini.toJSON()))
+
+// ---------- human-readable glossary for the Feedback panel
+const glossary = readJ(join(ROOT, 'pipeline/glossary.json'))
+const glossaryPublic = {
+  places: Object.values(glossary.places ?? {})
+    .map((p) => ({ name: p.name, note: p.note ?? '' }))
+    .filter((p, i, a) => a.findIndex((x) => x.name === p.name) === i),
+  names: (glossary.names ?? []).map((n) => ({ from: n.from, to: n.to, note: n.note ?? '' })),
+}
+writeFileSync(join(PUB, 'glossary.json'), JSON.stringify(glossaryPublic))
 
 console.log(`outputs written: ${Object.keys(outputs).join(', ')}`)
 console.log(`search index: ${docs.length} documents`)

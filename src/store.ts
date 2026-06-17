@@ -8,6 +8,7 @@ interface State {
   filters: Filters
   layers: LayerToggles
   reviewMode: boolean
+  feedbackOpen: boolean
   drawerPageId: string | null
   playback: { playing: boolean; t: number; speed: number }
   currentMoments: MomentAtT[]
@@ -19,6 +20,7 @@ interface State {
   setFilters: (f: Partial<Filters>) => void
   toggleLayer: (k: keyof LayerToggles) => void
   setReviewMode: (v: boolean) => void
+  setFeedbackOpen: (v: boolean) => void
   openDrawer: (pageId: string | null) => void
   setPlayback: (p: Partial<State['playback']>) => void
   setMoments: (m: MomentAtT[], epigraph: string | null) => void
@@ -40,6 +42,7 @@ export const useStore = create<State>((set) => ({
   filters: { decade: null, year: null, country: null, traveller: null, minConfidence: 0, status: 'all' },
   layers: { main: true, excursions: true, crossings: true, unresolved: true, allTrips: true },
   reviewMode: false,
+  feedbackOpen: false,
   drawerPageId: null,
   playback: { playing: false, t: 0, speed: 1 },
   currentMoments: [],
@@ -51,6 +54,7 @@ export const useStore = create<State>((set) => ({
   setFilters: (f) => set((s) => ({ filters: { ...s.filters, ...f } })),
   toggleLayer: (k) => set((s) => ({ layers: { ...s.layers, [k]: !s.layers[k] } })),
   setReviewMode: (reviewMode) => set({ reviewMode }),
+  setFeedbackOpen: (feedbackOpen) => set({ feedbackOpen }),
   openDrawer: (drawerPageId) => set({ drawerPageId }),
   setPlayback: (p) => set((s) => ({ playback: { ...s.playback, ...p } })),
   setMoments: (currentMoments, epigraph) => set({ currentMoments, epigraph }),

@@ -17,6 +17,10 @@ const USER_AGENT = 'camping-diaries-pipeline/1.0 (williamgkirby@gmail.com)'
 const ferries = JSON.parse(readFileSync(join(ROOT, 'pipeline/ferries.json'), 'utf8'))
 const regionAnchors = JSON.parse(readFileSync(join(ROOT, 'pipeline/region_anchors.json'), 'utf8'))
 const curatedPlaces = JSON.parse(readFileSync(join(ROOT, 'pipeline/curated_places.json'), 'utf8'))
+// Glossary place corrections override curated_places (family feedback). Keyed
+// by the slug of a stop's normalized_name, same as the curated lookup below.
+const glossary = JSON.parse(readFileSync(join(ROOT, 'pipeline/glossary.json'), 'utf8'))
+for (const [k, v] of Object.entries(glossary.places ?? {})) curatedPlaces[k] = v
 const cache = existsSync(CACHE_PATH) ? JSON.parse(readFileSync(CACHE_PATH, 'utf8')) : {}
 
 const slug = (s) =>
@@ -105,12 +109,13 @@ for (const [key, w] of wanted) {
   const placeId = key.split('|')[0]
   const nameSlug = slug(w.name)
 
-  // 0. audit/human-curated overrides
+  // 0. audit/human-curated overrides — the corrected name becomes the label
+  // shown in the app (place_id slug stays put, so links/data keys are stable).
   const curated = curatedPlaces[nameSlug]
   if (curated && curated.lon != null) {
     out[key] = {
       place_id: placeId,
-      normalized_name: w.name,
+      normalized_name: curated.name ?? w.name,
       display_name: curated.name,
       lon: curated.lon,
       lat: curated.lat,

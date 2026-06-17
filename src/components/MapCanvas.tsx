@@ -50,7 +50,12 @@ export default function MapCanvas() {
       console.error(e)
       return
     }
-    map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'bottom-right')
+    // Prominent zoom +/-; CSS shifts this bottom-left control into the
+    // always-clear strip just right of the timeline panel (the side panels are
+    // full-height, so the corners are occupied). Gentler wheel zoom so a coarse
+    // mouse wheel steps smoothly (Simon's feedback).
+    map.addControl(new maplibregl.NavigationControl({ showCompass: false, showZoom: true }), 'bottom-left')
+    map.scrollZoom.setWheelZoomRate(1 / 250)
 
     map.on('load', () => {
       // Route layers slot beneath the basemap's symbol layers so labels stay on top.
